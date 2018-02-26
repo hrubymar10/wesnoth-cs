@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-02-25 22:14+0100\n"
+"PO-Revision-Date: 2018-02-26 09:50+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -391,13 +391,14 @@ msgstr "Nemáš dostatek zlatých k vyvolání této jednotky."
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:234
 msgid "Kill all the guards, and capture the guardhouse"
-msgstr "Zabij všechny stráže a obsaď Strážnici"
+msgstr "Zabij všechny stráže a obsaď strážnici"
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:246
 msgid "Right-click on a grave adjacent to your leader to raise a unit."
 msgstr ""
-"Klikněte pravým tlačítkem na hrob vedle svého vůdce a vyvolejte jednotku."
+"Kliknutím pravím tlačítkem na hrob vedle tvého velitele můžeš vyvolat "
+"jednotku."
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:249
@@ -506,22 +507,21 @@ msgstr ""
 #. [message]: speaker=Syrillin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:532
 msgid "Why are we stuck guarding a cemetery all night?"
-msgstr "Proč máme strávit celou noc hlídáním hřbitova?"
+msgstr "Proč musíme celou noc hlídat hřbitov?"
 
 #. [message]: speaker=Veomyr
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:538
 msgid ""
 "And why <i>twelve</i> of us? Who wants to break into a cemetery that badly?"
 msgstr ""
-"A proč <i>dvanáct</i> z nás? Kdy by chtěl proniknout na hřbitov takhle "
-"špatně?"
+"A proč je nás<i>dvanáct</i>? Kdo tak hrozný by chtěl proniknout na hřbitov?"
 
 #. [message]: speaker=Veomyr
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:540
 msgid ""
 "And why <i>seven</i> of us? Who wants to break into a cemetery that badly?"
 msgstr ""
-"A proč <i>sedm</i> z nás? Kdy by chtěl proniknout na hřbitov takhle špatně?"
+"A proč je nás<i>sedm</i>? Kdo tak hrozný by chtěl proniknout na hřbitov?"
 
 #. [message]: speaker=Glant
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:545
@@ -529,13 +529,13 @@ msgid ""
 "I don’t know, but this evening a mage from the academy was here talking to "
 "the mayor, my brother says."
 msgstr ""
-"Nevím, ale bratr říkal, že dnes večer jeden mág z akademie mluvil se "
-"starostou."
+"Nevím, ale bratr mi říkal, že dnes večer mluvil se starostou jeden mág z "
+"akademie."
 
 #. [message]: speaker=Caradoc
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:549
 msgid "Well <i>I</i> say you shouldn’t question orders, so pipe down."
-msgstr "No, <i>Já</i> tvrdím, že by jsme neměli zpochybňovat rozkazy."
+msgstr "No, <i>já</i> tvrdím, že by jsme neměli zpochybňovat rozkazy."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:588
@@ -546,10 +546,11 @@ msgid ""
 "\n"
 "Well, I might as well do my experiment and worry about leaving later."
 msgstr ""
-"Musí hlídat hřbitov <i>přede mnou</i>! Možná byl Aimucasur opravdu tak "
-"podezřívavý. Je dobže, že už jsem zde, ale jak se dostanu ven?\n"
+"Musí hlídat hřbitov <i>kvůli mě</i>! Možná byl Aimucasur opravdu tak "
+"podezřívavý… Je dobře, že jsem se sem dostala, ale jak se dostanu ven?\n"
 "\n"
-"No, asi bych mohla nejdříve experimentovat a pak se teprve starat o odchod."
+"No, asi bych mohla nejdříve trochu experimentovat a pak se teprve starat o "
+"odchod."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:613
@@ -590,12 +591,12 @@ msgstr "Kdo je tam?"
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:676
 msgid "It’s only me. Is the cemetery closed then? I was about to leave."
-msgstr "To jsem jen já. Je ten hřbitov zavřený? Chystala jsem se odejít."
+msgstr "To jsem jen já. Hřbitov je zavřený? Zrovna jsem se chystala odejít."
 
 #. [message]: speaker=Syrillin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:680
 msgid "You and that... other person. Who is that?"
-msgstr "Vy a ten… další člověk. Kdo je to?"
+msgstr "Vy a ten… další osoba. Kdo je to?"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:684
@@ -609,8 +610,8 @@ msgid ""
 "He's <i>dead</i>! This is dark sorcery like in my granddad’s time in the old "
 "country! The penalty is death. Attack and destroy them both!"
 msgstr ""
-"On je <i>mrtví</i>! Tohle je temná magie jako za dobh mého děda ve staré "
-"zemi! Trestem za ní je smrt. Zaútočte a zničte je oba!"
+"On je <i>mrtví</i>! Tohle je temná magie jako z dob mého děda ve staré zemi! "
+"Trestem za ní je smrt. Zaútočte a zničte je oba!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:692
@@ -623,13 +624,13 @@ msgid ""
 "I would do better if I had weapons, and I bet I can find some in the "
 "guardhouse. Go take it, my companions."
 msgstr ""
-"Bylo by lepší, kdybych měla zbraně a vsadím se, že jich pár najdu ve "
-"strážnici. Jděte a přineste je moji společníci."
+"Bylo by určitě lepší, kdybych měla nějaké zbraně a vsadím se, že jich pár "
+"najdu ve strážnici. Jděte a přineste je moji společníci."
 
 #. [message]: speaker=Caradoc
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:700
 msgid "Gwyllin, don’t move from that guardhouse."
-msgstr "Gwylline, ani se nehni ze strážnice."
+msgstr "Gwylline, ani se nehneš ze strážnice."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:705
@@ -638,7 +639,7 @@ msgid ""
 "only. To get more units, raise them from their graves."
 msgstr ""
 "Verbovat a přivolávat jednotky můžeš pouze z tvé počáteční pozice v prvním "
-"kole. Další jednotky můžeš nechat povstat z jejich hrobů."
+"kole. Další jednotky můžeš pak nechat povstat z jejich hrobů."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:714
@@ -670,12 +671,12 @@ msgstr ""
 "17 III, 23 YW:\n"
 "\n"
 "I přes zdržení na hřbitově jsem se na předměstí Llorvinu dostala s prvními "
-"paprsky slunce. A když slunce stálo nad vrcholky hor, tak byl Llorvin daleko "
-"zamnou. Pochybuji, že mě mágové z akademie budou hledat takhle daleko v "
-"neprostupných divočinách, které obývají jen dřevorubci. Navíc se s mými "
-"novými společníky cítím natolik bezpečně, že jdu i během dne. Jdu na východ "
-"a pak na sever k dokům. Loď, která míří do přístavu temných vod vyjíždí už "
-"za pár dní."
+"slunečními paprsky. A když slunce stálo vysoko nad vrcholky hor, tak už byl "
+"Llorvin daleko zamnou. Pochybuji, že mě mágové z akademie budou hledat "
+"takhle daleko v neprostupných divočinách, které obývají jen dřevorubci. "
+"Navíc se s mými novými společníky cítím natolik bezpečně, že jdu i během "
+"dne. Jdu na východ a pak na sever k dokům. Loď, která míří do přístavu "
+"temných vod vyjíždí už za pár dní."
 
 #. [side]: type=Bandit, id=Garcyn
 #. [unit]: type=Ghoul
@@ -744,8 +745,8 @@ msgid ""
 "Prey approaches, dearest. It’s an unusual band, but the ones with weapons "
 "look underfed."
 msgstr ""
-"Přiblužuje se kořist můj pane. Je to divná banda, ale ti se zbraněmi "
-"vypadají podvyživeně."
+"Přiblužuje se kořist můj pane. Je to sice podivná banda, ale ti se zbraněmi "
+"vypadají dost podvyživeně."
 
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:229
