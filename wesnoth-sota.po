@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:02 UTC\n"
-"PO-Revision-Date: 2018-02-26 09:50+0100\n"
+"PO-Revision-Date: 2018-03-01 21:43+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -702,8 +702,7 @@ msgstr "Poraz nepřátelského vůdce"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:100
 msgid ""
 "They are not underfed, they’re dead! How can they be dead? They’re horrible!"
-msgstr ""
-"Nejsou podvyživení, ale jsou mrtví! Jak to, že jsou mrtví? Jsou hroziví!"
+msgstr "Nejsou podvyživení, ale mrtví! Jak to, že jsou mrtví? Jsou hroziví!"
 
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:104
@@ -711,8 +710,8 @@ msgid ""
 "Huh. Well, they’re not the first ugly things we’ve seen in the wilds. Your "
 "club crushes bone just fine, so crush them."
 msgstr ""
-"Hmm... No, nejsou to první ošklivé věci, které jsme v přírodě viděli. Vaše "
-"kyje snadno roztlučou jejich kosti na prach, takže je roztlučte."
+"Hmm... No, není to první ošklivá věc, se kterou jsme se setkali. Vaše kyje "
+"snadno roztlučou jejich kosti na prach, takže je pojďme roztlouct."
 
 #. [message]: speaker={ID}
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:108
@@ -722,7 +721,7 @@ msgstr "A je tu holka s bílými vlasy."
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:112
 msgid "She must be in league with the dead, so crush her too."
-msgstr "Musí mít nějakou spojitost s těmi mrtvými, takže ji roztlučte taky."
+msgstr "Musí mít nějakou spojitost s těmi mrtvými, takže ji roztlučme také."
 
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:203
@@ -732,7 +731,7 @@ msgstr "Ne!"
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:207
 msgid "You have earned my wrath, wench. Death will be too good for you!"
-msgstr "Teď jsi dočkala mého hněvu děvče. Smrt pro tebe bude příliš dobrá!"
+msgstr "Teď se dočkáš mého hněvu děvče. Smrt pro tebe bude příliš dobrá!"
 
 #. [message]: speaker=Mossa
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:216
@@ -765,7 +764,7 @@ msgstr ""
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:244
 msgid "Please! Don’t kill me."
-msgstr "Prosím! Nezabíjejte mě."
+msgstr "Prosím! Nezabíjej mě."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:248
@@ -896,7 +895,7 @@ msgstr "Sudy fungují jako vesnice."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:215
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:123
 msgid "Right-click to simplify the ship graphics."
-msgstr "Klepnutím pravým tlačítkem myši zjednodušíte grafiku lodi."
+msgstr "Klepnutím pravým tlačítkem myši se zjednoduší grafika lodi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:456
@@ -915,8 +914,8 @@ msgid ""
 "to find out what killed him, but there was someone shuffling around in the "
 "shadows, and he smelled foul."
 msgstr ""
-"Našel jsem Janryna v podpalubí. Nebo, ehm… to co z něj zbylo. Je mrtvý. "
-"Nezůstal jsem, abych zjistil, co ho zabilo, ale ve stínech se něco "
+"Našel jsem Janryna v podpalubí. Nebo, spíš… to co z něj zbylo. Je mrtvý. Ale "
+"nezůstal jsem tam, abych zjistil, co ho zabilo, protože ve stínech se něco "
 "pohybovalo a byl cítit hnusný zápach."
 
 #. [message]: speaker=Rudic
@@ -927,8 +926,8 @@ msgid ""
 "to quarters immediately."
 msgstr ""
 "Vraždící pasažéři na mé lodi? To nebudu tolerovat! Jděte sehnat zbytek "
-"posádky a přiveďte je sem. Jdeme lovit. Všichni cestující ať jsou okamžitě "
-"uzavření do jejich kajut."
+"posádky a přiveďte je sem. Půjdeme lovit. Všichni cestující ať jsou okamžitě "
+"uzavřeni do jejich kajut."
 
 #. [message]: speaker=Rudic
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:563
@@ -943,7 +942,7 @@ msgstr "Co kdyby jsem řekla něco na obranu černých pasažérů?"
 #. [message]: speaker=Rudic
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:571
 msgid "I would pitch you over the side with them. What do you know?"
-msgstr "Tak bych tě chtěl hodit přes palubu za nimi. Co víš?"
+msgstr "Tak bych tě hodil přes palubu za nima. Co víš?"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:575
@@ -972,7 +971,7 @@ msgid ""
 "hungry, feed on a passenger first."
 msgstr ""
 "Achjo… Musíme to udělat znovu. Pojďte ke mě mí přátelé. Pokud jste hladoví, "
-"tak se najezte nejdřív z posádky."
+"tak se nejdřív najezte z posádky."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:595
@@ -980,7 +979,7 @@ msgid ""
 "Good riddance. But, with the captain dead, who will sail the ship and guide "
 "us into port now?"
 msgstr ""
-"Super, ale s mrtvým kapitánem, kdo bude plout s lodí a zavede nás do "
+"To by jsme měli. Ale když je kapitán mrtvý, tak kdo dopluje s lodí do "
 "přístavu?"
 
 #. [message]: speaker=Ardonna
@@ -1002,7 +1001,8 @@ msgstr "Plout. Ano. Potřebovat vítr."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:637
 msgid ""
 "Oh! It worked! Take us to port, Captain, as soon as you do have the wind."
-msgstr "Fungovalo to! Kapitáne, vem nás do přístavu hned jak se zvedne vítr."
+msgstr ""
+"Fungovalo to! Kapitáne, vezmi nás do přístavu hned, jak se zvedne vítr."
 
 #. [scenario]: id=05_Blackwater
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:13
@@ -1132,8 +1132,8 @@ msgid ""
 "We must leave no one alive to report us, or the entire country will become "
 "unsafe. We have no choice. We must kill them all."
 msgstr ""
-"Nesmíme nechat nikoho naživu, aby nás neohlásil, jinak se nám celá země "
-"stane nebezpečnou. Nemáme na výběr. Musíme je zabít všechny."
+"Nesmíme nikoho nechat naživu, protože když nás prozradí, tak pro nás nikde v "
+"této zemi nebude bezpečno. Nemáme na výběr, musíme je zabít všechny."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:368
@@ -1189,12 +1189,12 @@ msgstr ""
 "3 IV, 23 YW\n"
 "\t\t\t\t\n"
 "Byla jsem si jistá, že jsem nalezla odpověď! Ale mýlila jsem se… Chtěla jsem "
-"uvěřit tomu, že se mi to jen zdá, ale nyní je to jasné, že kapitánovi "
-"vzpomínky s časem mizí. Stále mu sice zůstala řeč a ostatní bojují mnohem "
-"lépe když se na ně dívá (mnoho z nich bývalo jeho posádkou - a nejspíš to "
-"pro ně bylo zvykem), ale stejně si vzpomíná jen na minimum vzpomínek. Totéž "
-"platí o pro ostatní mé vyvolané přátele. Jsem zklamaná, ale existence mého "
-"nového podivného společníka mě brání v depresi."
+"uvěřit tomu, že se mi to jen zdá, ale nyní je jasné, že kapitánovi vzpomínky "
+"s časem mizí. Stále mu sice zůstala řeč a ostatní bojují mnohem lépe když se "
+"na ně dívá (mnoho z nich bývalo jeho posádkou - a nejspíš to pro ně bylo "
+"zvykem), ale stejně si vzpomíná jen na minimum vzpomínek. Totéž platí o pro "
+"ostatní mé vyvolané přátele. Jsem zklamaná, ale existence mého nového "
+"podivného společníka mě brání v depresi."
 
 #. [else]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:35
@@ -1209,7 +1209,7 @@ msgstr ""
 "3 IV, 23 YW\n"
 "\t\t\t\t\n"
 "Byla jsem si jistá, že jsem nalezla odpověď! Ale mýlila jsem se… Chtěla jsem "
-"uvěřit tomu, že se mi to jen zdá, ale nyní je to jasné, že vzpomínky mých "
+"uvěřit tomu, že se mi to jen zdá, ale nyní je jasné, že vzpomínky mých "
 "nedávno vyvolaných přátel s časem mizí. Stále jim sice zůstala schopnost "
 "mluvit, ale jen velice omezeně. Jsem zklamaná, ale existence mého nového "
 "podivného společníka mě brání v depresi."
