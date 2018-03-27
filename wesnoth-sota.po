@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:21 UTC\n"
-"PO-Revision-Date: 2018-03-26 17:21+0200\n"
+"PO-Revision-Date: 2018-03-27 16:17+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -555,7 +555,7 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:613
 msgid "Hello?"
-msgstr "É, ahoj?"
+msgstr "Ahoj?"
 
 #. [message]: speaker=first_zombie
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:618
@@ -596,7 +596,7 @@ msgstr "To jsem jen já. Hřbitov je zavřený? Zrovna jsem se chystala odejít.
 #. [message]: speaker=Syrillin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:680
 msgid "You and that... other person. Who is that?"
-msgstr "Vy a ta… další osoba. Kdo je to?"
+msgstr "Vy a… ta další osoba. Kdo je to?"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:684
@@ -672,7 +672,7 @@ msgstr ""
 "\n"
 "I přes zdržení na hřbitově jsem se na předměstí Llorvinu dostala s prvními "
 "slunečními paprsky. A když slunce stálo vysoko nad vrcholky hor, tak už byl "
-"Llorvin daleko zamnou. Pochybuji, že mě mágové z akademie mě budou hledat "
+"Llorvin daleko zamnou. Pochybuji, že mě mágové z akademie budou hledat "
 "takhle daleko v neprostupných divočinách, které obývají jen dřevorubci. "
 "Navíc se s mými novými společníky cítím natolik v bezpečí, že cestuji i "
 "během dne. Jdu na východ a pak na sever k dokům. Loď, která míří do přístavu "
@@ -979,7 +979,7 @@ msgid ""
 "Good riddance. But, with the captain dead, who will sail the ship and guide "
 "us into port now?"
 msgstr ""
-"To by jsme měli. Ale když je kapitán mrtvý, kdo dopluje s lodí do přístavu?"
+"To bychom měli. Ale když je kapitán mrtvý, kdo dopluje s lodí do přístavu?"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:599
@@ -1286,7 +1286,7 @@ msgstr ""
 msgid ""
 "There is a tunnel at the back of the cave! The ghost must have gone through "
 "there."
-msgstr "V zadní části té jeskyně je tunel! Ten duch tudy musel projít."
+msgstr "V zadní části té jeskyně je tunel! Ten duch jím musel projít."
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:280
