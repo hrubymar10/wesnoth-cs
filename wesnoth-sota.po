@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:21 UTC\n"
-"PO-Revision-Date: 2018-03-27 16:17+0200\n"
+"PO-Revision-Date: 2018-03-31 16:12+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1430,7 +1430,6 @@ msgstr ""
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:180
-#, fuzzy
 msgid ""
 "Alas, no. Ghosts can retain some memories if they are raised quickly enough, "
 "and they make good scouts and soldiers after they have some experience, but "
@@ -1440,13 +1439,13 @@ msgid ""
 "unable to interact with the world would be terribly frustrating. No matter; "
 "I have another idea."
 msgstr ""
-"Bohužel ne. Duchové si mohou uchovat nějaké vzpomínky, pokud jsou vyvoláni "
-"dostatečně rychle a poté, co mají nějaké zkušenosti z nich jsou dobří vojáci "
-"a průzkumníci, ale nechtěla by ses stát jedním z nich. Vidíš ty čepele, "
-"které Vash-Gorn nese? Zabralo to komplikovaný rituál, než jsem svázal tento "
-"kov s duchem a tento rituál se nedá vykonat bez fyzického těla. A "
-"neschopnost komunikovat se světem by byla strašně frustrující. Ale na tom "
-"teď nezáleží, mám jiný nápad."
+"Zatím ne. Duchové si mohou uchovat nějaké vzpomínky, pokud jsou vyvoláni "
+"dostatečně rychle. Potom z nich jsou dobří průzkumníci. A když mají více "
+"zkušeností, tak i vojáci. Ale nechtěla by ses stát jedním z nich. Vidíš ty "
+"čepele, které Vash-Gorn nese? Musel jsem provést komplikovaný rituál, než "
+"jsem dokázal svázat tento kov s duchem. Ten rituál se nedá vykonat bez "
+"fyzického těla. A neschopnost komunikovat se okolním světem by byla strašně "
+"frustrující. Na tom teď ale nesejde. Mám jiný nápad."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:184
