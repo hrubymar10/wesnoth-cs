@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:20 UTC\n"
-"PO-Revision-Date: 2018-03-21 10:18+0100\n"
+"PO-Revision-Date: 2018-04-02 15:22+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,8 +27,6 @@ msgstr ""
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:13
-#, fuzzy
-#| msgid "The Eastern Invasion"
 msgid "Eastern Invasion"
 msgstr "Invaze z východu"
 
@@ -39,10 +37,8 @@ msgstr "IzV"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:18
-#, fuzzy
-#| msgid "(Easy)"
 msgid "Easy"
-msgstr "(Snadná)"
+msgstr "Lehká"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:18
@@ -51,10 +47,8 @@ msgstr "Kopiník"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:19
-#, fuzzy
-#| msgid "(Normal)"
 msgid "Normal"
-msgstr "(Normální)"
+msgstr "Normální"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:19
@@ -63,10 +57,8 @@ msgstr "Šermíř"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:20
-#, fuzzy
-#| msgid "(Challenging)"
 msgid "Challenging"
-msgstr "(Nelehká)"
+msgstr "Nelehká"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:20
@@ -118,8 +110,6 @@ msgstr "Kresby a grafika"
 
 #. [lua]: wml_actions.bandit_village_capture
 #: data/campaigns/Eastern_Invasion/lua/bandits.lua:83
-#, fuzzy
-#| msgid "They’re here!"
 msgid "They're here!"
 msgstr "Tady jsou!"
 
@@ -1325,17 +1315,13 @@ msgstr "Lanar-Skal"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:110
-#, fuzzy
-#| msgid "Find the outlaw leader and defeat him"
 msgid "Find the outlaw leader"
-msgstr "Nájdi velitela banditů a poraž ho"
+msgstr "Nájdi velitela banditů"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:117
-#, fuzzy
-#| msgid "Shodrano"
 msgid "Kill Shodrano"
-msgstr "Shodrano"
+msgstr "Zabij Shodrana"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:128
@@ -2021,12 +2007,12 @@ msgstr "Pelathsil"
 #. [side]: type=Dwarvish Lord, id=Pelathsil
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:43
 msgid "Dwarves"
-msgstr ""
+msgstr "Trpaslíci"
 
 #. [side]: type=Orcish Nightblade, id=Bagork
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:75
 msgid "Bagork"
-msgstr ""
+msgstr "Bagork"
 
 #. [side]: type=Elvish Avenger, id=Elandin
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:97
@@ -2036,7 +2022,7 @@ msgstr "Elandin"
 #. [side]: type=Elvish Avenger, id=Elandin
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:102
 msgid "Elves"
-msgstr ""
+msgstr "Elfové"
 
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:129
@@ -2639,16 +2625,12 @@ msgstr "Znič most NEBO pobij všechny nepřátele"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:174
-#, fuzzy
-#| msgid ""
-#| "Note: every unit not south of the bridge when it is destroyed will be "
-#| "lost (including non-recalled units)"
 msgid ""
 "Every unit not south of the bridge when it is destroyed will be lost "
 "(including non-recalled units)"
 msgstr ""
-"Poznámka: každá jednotka, která v okamžihu zničení mosta nebude na jížní "
-"straně řeky bude ztracená (Nebude ji možné přivolat) "
+"Každá jednotka, která v okamžihu zničení mosta nebude na jížní straně řeky "
+"bude ztracená (Nebude ji možné přivolat)"
 
 #. [unit]: id=Engineer, type=Red Mage
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:184
@@ -3770,10 +3752,8 @@ msgstr ""
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/campaigns/Eastern_Invasion/units/Bone_Knight.cfg:5
-#, fuzzy
-#| msgid "Mounted Fighter"
 msgid "Bone Knight"
-msgstr "Jízdní bojovník"
+msgstr "Kostlivý rytíř"
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/campaigns/Eastern_Invasion/units/Bone_Knight.cfg:26
@@ -3846,7 +3826,7 @@ msgstr ""
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/campaigns/Eastern_Invasion/units/Skeleton_Rider.cfg:5
 msgid "Skeleton Rider"
-msgstr ""
+msgstr "Kostlivý jezdec"
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/campaigns/Eastern_Invasion/units/Skeleton_Rider.cfg:33
