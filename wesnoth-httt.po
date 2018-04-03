@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:20 UTC\n"
-"PO-Revision-Date: 2018-03-21 10:14+0100\n"
+"PO-Revision-Date: 2018-04-03 14:52+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4007,9 +4007,6 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:346
 #, fuzzy
-#| msgid ""
-#| "Peace, friends! Peace! The evil orcs roam the lands above us, we must not "
-#| "fight among ourselves."
 msgid ""
 "Peace, friends! Peace! We must not fight among ourselves, for the evil orcs "
 "roam the lands above us."
@@ -6594,7 +6591,7 @@ msgstr ""
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:482
 msgid "I feared you would say that."
-msgstr ""
+msgstr "Bál jsem se, že to řekneš."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:486
@@ -7045,15 +7042,12 @@ msgstr "Buď i ty pozdraven. Hledáme cestu z těchto jeskyní."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:433
-#, fuzzy
-#| msgid ""
-#| "Then you should look to the north and east. But, if you would, might we "
-#| "ask your assistance."
 msgid ""
 "Then you should look to the north and east. But, if you would, might we ask "
 "your assistance?"
 msgstr ""
-"Hledejte na sever a na východ. Ale pokud mohu, potřebovali bychom vaši pomoc."
+"Měl bys hledat na severu a na východu. Ale pokud mohu, potřebovali bychom "
+"vaši pomoc."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:437
@@ -8833,15 +8827,11 @@ msgstr ""
 "to i při obraně."
 
 #: data/campaigns/Heir_To_The_Throne/utils/abilities.cfg:15
-#, fuzzy
-#| msgid ""
-#| "This unit's grasp of melee tactics allows adjacent allies to strike the "
-#| "first blow even when defending."
 msgid ""
 " This unit's grasp of melee tactics allows adjacent allies to strike the "
 "first blow even when defending."
 msgstr ""
-"Tato jednotka pochopila taktiku při boji z blízka a umožňuje sousedícím "
+" Tato jednotka pochopila taktiku při boji z blízka a umožňuje sousedícím "
 "jednotkám dát první ránu i při obraně."
 
 #. [message]: speaker=unit

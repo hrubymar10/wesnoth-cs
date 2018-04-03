@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 04:20+0300\n"
-"PO-Revision-Date: 2018-03-21 10:17+0100\n"
+"PO-Revision-Date: 2018-04-03 14:28+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5785,26 +5785,20 @@ msgstr ""
 #. [race]: id=dunefolk
 #. [race]: id=khalifate
 #: data/core/units.cfg:208 data/core/units.cfg:223
-#, fuzzy
-#| msgid "race^Human"
 msgid "race^Dunefolk Human"
-msgstr "Člověk"
+msgstr "Lidé Dunefolku"
 
 #. [race]: id=dunefolk
 #. [race]: id=khalifate
 #: data/core/units.cfg:209 data/core/units.cfg:224
-#, fuzzy
-#| msgid "race+female^Human"
 msgid "race+female^Dunefolk Human"
-msgstr "Žena"
+msgstr "Dunefolské ženy"
 
 #. [race]: id=dunefolk
 #. [race]: id=khalifate
 #: data/core/units.cfg:210 data/core/units.cfg:225
-#, fuzzy
-#| msgid "race+plural^Undead"
 msgid "race+plural^Dunefolk"
-msgstr "Nemrtví"
+msgstr "Dunefolkové"
 
 #. [race]: id=dunefolk
 #: data/core/units.cfg:211
@@ -5812,6 +5806,8 @@ msgid ""
 "The Dunefolk are a human culture inhabiting the dry deserts in the southern "
 "region of the Great Continent."
 msgstr ""
+"Dunefolkové jsou lidská kultura obývající suché pouště v jižní oblasti "
+"Velkého kontinentu."
 
 #. [race]: id=khalifate
 #: data/core/units.cfg:226
@@ -6207,6 +6203,10 @@ msgid ""
 "Orcs who were not the strongest of their litter tend to specialize in other "
 "skills, like archery or assassination."
 msgstr ""
+"\n"
+"\n"
+"Skřeti, kteří nebyli nejsilnější z vrhu, mají tendenci se specializovat na "
+"další dovednosti, jako je lukostřelba nebo vražda."
 
 #. [race]: id=troll
 #: data/core/units.cfg:327
