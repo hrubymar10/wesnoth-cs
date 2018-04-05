@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 04:20+0300\n"
-"PO-Revision-Date: 2018-04-04 13:52+0200\n"
+"PO-Revision-Date: 2018-04-05 14:26+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1686,7 +1686,7 @@ msgstr ""
 "Výjimečně jsou podzemní cesty osvětlené světlem z povrchu. Taková místa "
 "poskytují bonusy zákonným jednotkám a naopak ruší bonusy pro jednotky "
 "chaotické. Ve všech ostatních ohledech je osvětlená jeskyně shodná s "
-"normální jeskyní.  Většina jednotek zde získá 20 až 40% obranný bonus, "
+"normální jeskyní. Většina jednotek zde získá 20 až 40% obranný bonus, "
 "zatímco trpaslíci 50%."
 
 #. [terrain_type]: id=sand
@@ -7180,7 +7180,7 @@ msgstr "Informace o mapě"
 
 #: src/hotkey/hotkey_command.cpp:162
 msgid "Clear Selected Item Set"
-msgstr "Zruš  vybranou sadu"
+msgstr "Zruš vybranou sadu"
 
 #: src/hotkey/hotkey_command.cpp:163
 msgid "Swap Foreground/Background Palette Item"
@@ -7732,8 +7732,8 @@ msgid ""
 "The key '$deprecated_key' has been renamed to '$key'. Support for "
 "'$deprecated_key' will be removed in version $removal_version."
 msgstr ""
-"Klíč '$deprecated_key'  byl přejmenován na '$key' a ve verzi "
-"$removal_version bude odstraněna podpora původního tvaru."
+"Klíč '$deprecated_key' byl přejmenován na '$key' a ve verzi $removal_version "
+"bude odstraněna podpora původního tvaru."
 
 #~ msgid "Password Reminder"
 #~ msgstr "Připomenutí hesla"

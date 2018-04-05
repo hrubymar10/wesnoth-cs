@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-02-12 17:01 UTC\n"
-"PO-Revision-Date: 2018-03-21 11:13+0100\n"
+"PO-Revision-Date: 2018-04-05 14:26+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1381,7 +1381,7 @@ msgstr "Ur-thorodor zemře"
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:160
 msgid "Hruuuarrgh! The vile human-creatures hew at me..."
-msgstr "Hruuuarrgh!  Odporné lidské zrůdy se prosekaly až ke mně..."
+msgstr "Hruuuarrgh! Odporné lidské zrůdy se prosekaly až ke mně..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:164
