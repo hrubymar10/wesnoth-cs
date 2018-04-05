@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-04-01 02:37+0300\n"
-"PO-Revision-Date: 2018-04-05 14:43+0200\n"
+"PO-Revision-Date: 2018-04-05 14:51+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4633,8 +4633,7 @@ msgid ""
 "Use healers to support your attacks — they will win you battles without "
 "needing to attack anything themselves."
 msgstr ""
-"Ber s sebou do útoků i léčitele -- vyhrají tvé bitvy, aniž musí sami "
-"zaútočit."
+"Ber s sebou do útoků i léčitele — vyhrají tvé bitvy, aniž musí sami zaútočit."
 
 #. [tip]
 #: data/tips.cfg:173 data/tips.cfg:222

@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:21 UTC\n"
-"PO-Revision-Date: 2018-04-05 14:40+0200\n"
+"PO-Revision-Date: 2018-04-05 14:49+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1519,7 +1519,7 @@ msgstr "Hmmm, to je ale hezká lahev. Copak je to zač?"
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:273
 msgid "It is written H.O.L.Y W.A.T.E.R"
-msgstr "Je tu napsáno --s.v.ě.c.e.n.á v.o.d.a--"
+msgstr "Je tu napsáno —s.v.ě.c.e.n.á v.o.d.a—"
 
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:277

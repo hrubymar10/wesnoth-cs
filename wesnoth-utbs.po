@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-31 23:37 UTC\n"
-"PO-Revision-Date: 2018-04-05 12:55+0200\n"
+"PO-Revision-Date: 2018-04-05 14:51+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -8395,7 +8395,7 @@ msgstr "Musí být nějaká další cesta ven. Musí!"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1041
 #: data/campaigns/Under_the_Burning_Suns/scenarios_old/08_Out_of_the_Frying_Pan.cfg:1039
 msgid "There might be, but I don’t—"
-msgstr "Možná, ano, ale nevím--"
+msgstr "Možná, ano, ale nevím—"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1046
@@ -9429,7 +9429,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2527
 #: data/campaigns/Under_the_Burning_Suns/scenarios_old/08_Out_of_the_Frying_Pan.cfg:2525
 msgid "You idiot—"
-msgstr "Idiote--"
+msgstr "Idiote—"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2532
@@ -10212,7 +10212,7 @@ msgid ""
 "unfortunately we found your men dead—"
 msgstr ""
 "Mé jméno je Kaleh, a to je můj lid. Přicházíme z jihu a naneštěstí jsme "
-"našli vaše muže mrtvé--"
+"našli vaše muže mrtvé—"
 
 # pův.: jestli vás nevezmu za slovo
 #. [message]: speaker=Sergeant Durstrag
@@ -10232,7 +10232,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3279
 #: data/campaigns/Under_the_Burning_Suns/scenarios_old/08_Out_of_the_Frying_Pan.cfg:3277
 msgid "Well, actually they were fleeing from—"
-msgstr "No, vlastně utíkali před--"
+msgstr "No, vlastně utíkali před—"
 
 #. [message]: speaker=Sergeant Durstrag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3291
@@ -10264,7 +10264,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3305
 #: data/campaigns/Under_the_Burning_Suns/scenarios_old/08_Out_of_the_Frying_Pan.cfg:3303
 msgid "Look, if you’ll just let me explain—"
-msgstr "Podívej, kdybys mě prostě nechal vysvětlit--"
+msgstr "Podívej, kdybys mě prostě nechal vysvětlit—"
 
 #. [message]: speaker=Sergeant Durstrag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3317
@@ -13363,7 +13363,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:166
 #: data/campaigns/Under_the_Burning_Suns/scenarios_old/10_Speaking_with_the_Fishes.cfg:165
 msgid "This is—"
-msgstr "Toto je--"
+msgstr "Toto je—"
 
 # pův.: A musím říct, že $intl_ally_name mě svými činy přesvědčil, že ???.
 #. [message]: speaker=Melusand
@@ -14014,7 +14014,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:470
 #: data/campaigns/Under_the_Burning_Suns/scenarios_old/10_Speaking_with_the_Fishes.cfg:469
 msgid "This entire journey has been based on a lie—"
-msgstr "Celá tahle cesta byla založená na lži--"
+msgstr "Celá tahle cesta byla založená na lži—"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:475
