@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 04:20+0300\n"
-"PO-Revision-Date: 2018-04-02 15:29+0200\n"
+"PO-Revision-Date: 2018-04-04 13:52+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -584,17 +584,13 @@ msgstr "Pouštní hory"
 
 #. [terrain_type]: id=regular_stone_floor
 #: data/core/terrain.cfg:821
-#, fuzzy
-#| msgid "Wooden Floor"
 msgid "Stone Floor"
-msgstr "Dřevěná podlaha"
+msgstr "Kamenná podlaha"
 
 #. [terrain_type]: id=regular_stone_floor
 #: data/core/terrain.cfg:824
-#, fuzzy
-#| msgid "Basic Wooden Floor"
 msgid "Basic Stone Floor"
-msgstr "Základní dřevěná podlaha"
+msgstr "Základní kamenná podlaha"
 
 #. [terrain_type]: id=rug_floor
 #. [terrain_type]: id=rug2_floor
@@ -2011,7 +2007,7 @@ msgstr ""
 
 #: data/gui/macros/_initial.cfg:348
 msgid "Search"
-msgstr ""
+msgstr "Vyhledat"
 
 #. [toggle_button]: id=sort_0
 #. [toggle_button]: id=sort_name
@@ -2057,7 +2053,7 @@ msgstr "Typ"
 #. [button]: id=install
 #: data/gui/widget/addon_list.cfg:366 data/gui/window/addon_manager.cfg:203
 msgid "Install add-on"
-msgstr ""
+msgstr "Nainstalovat rozšíření"
 
 #. [button]: id=single_update
 #. [button]: id=update
@@ -2193,7 +2189,7 @@ msgstr "Zrušit"
 #. [label]: id=byline
 #: data/gui/window/addon_manager.cfg:84
 msgid "By:"
-msgstr ""
+msgstr "Od:"
 
 #. [label]: id=version_string
 #: data/gui/window/addon_manager.cfg:120
@@ -2306,7 +2302,7 @@ msgstr "Stav:"
 #. [label]
 #: data/gui/window/addon_manager.cfg:760
 msgid "Order:"
-msgstr "Příkaz:"
+msgstr "Řazení:"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:846 data/gui/window/addon_manager.cfg:1021
@@ -2462,7 +2458,7 @@ msgstr ""
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:90
 msgid "Total damage"
-msgstr ""
+msgstr "Celkové poškození"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:94
@@ -3029,12 +3025,12 @@ msgstr "Který hráč zde má začínat?"
 #. [label]
 #: data/gui/window/end_credits.cfg:118
 msgid "↑ ↓ to adjust speed"
-msgstr ""
+msgstr "↑ ↓ pro nastavení rychlosti"
 
 #. [label]
 #: data/gui/window/file_dialog.cfg:103
 msgid "Places"
-msgstr ""
+msgstr "Místa"
 
 #. [button]: id=add_bookmark
 #: data/gui/window/file_dialog.cfg:299
@@ -3299,7 +3295,7 @@ msgstr "Jednotky"
 #. [toggle_button]: id=sort_5
 #: data/gui/window/game_stats.cfg:104
 msgid "Upkeep"
-msgstr ""
+msgstr "Výdaje"
 
 #. [toggle_button]: id=sort_6
 #. [image]: id=income_icon
@@ -4163,7 +4159,7 @@ msgstr "Nastavení"
 #. [slider]: id=num_players
 #: data/gui/window/mp_create_game.cfg:702
 msgid "Any"
-msgstr ""
+msgstr "Jakýkoliv"
 
 #. [label]
 #: data/gui/window/mp_create_game.cfg:835
@@ -4183,7 +4179,7 @@ msgstr "Přiřadí hráčům strany náhodně"
 
 #: data/gui/window/mp_create_game.cfg:929
 msgid "Shuffle Sides"
-msgstr ""
+msgstr "Zamíchat strany"
 
 #: data/gui/window/mp_create_game.cfg:933
 msgid "Allow users who are not playing to watch the game"
@@ -4475,7 +4471,7 @@ msgstr "Zobrazuj barvy týmů"
 #. [button]: id=ok
 #: data/gui/window/mp_staging.cfg:422
 msgid "I’m Ready"
-msgstr ""
+msgstr "Jsem připraven"
 
 #. [widget]: id=label
 #: data/gui/window/preferences.cfg:310
@@ -5400,7 +5396,7 @@ msgstr "Přivolat"
 #. [button]: id=dismiss
 #: data/gui/window/unit_recall.cfg:385
 msgid "Dismiss"
-msgstr ""
+msgstr "Zrušit"
 
 #. [button]: id=ok
 #: data/gui/window/unit_recall.cfg:419 src/hotkey/hotkey_command.cpp:86
@@ -5774,12 +5770,12 @@ msgstr "Neznámý"
 #. TRANSLATORS: ascending
 #: src/gui/dialogs/addon/manager.cpp:361
 msgid "asc"
-msgstr ""
+msgstr "vzestupně"
 
 #. TRANSLATORS: descending
 #: src/gui/dialogs/addon/manager.cpp:365
 msgid "desc"
-msgstr ""
+msgstr "sestupně"
 
 #: src/gui/dialogs/addon/manager.cpp:381 src/gui/dialogs/chat_log.cpp:420
 #: src/gui/dialogs/game_cache_options.cpp:105
@@ -6568,7 +6564,7 @@ msgstr "Reset klávesových zkratek"
 
 #: src/gui/dialogs/preferences_dialog.cpp:1005
 msgid "∞"
-msgstr ""
+msgstr "∞"
 
 #: src/gui/dialogs/statistics_dialog.cpp:185
 msgid "Recruits"
