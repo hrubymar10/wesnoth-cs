@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-04-01 02:37+0300\n"
-"PO-Revision-Date: 2018-04-05 16:32+0200\n"
+"PO-Revision-Date: 2018-04-07 12:58+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4227,12 +4227,12 @@ msgstr "Ukončit scénář"
 #. [label]: id=label-hp
 #: data/themes/classic.cfg:195 data/themes/default.cfg:143
 msgid "HP"
-msgstr "Životů"
+msgstr "Životy"
 
 #. [label]: id=label-xp
 #: data/themes/classic.cfg:204 data/themes/default.cfg:152
 msgid "XP"
-msgstr "Zkušenost"
+msgstr "Zkušenosti"
 
 #. [label]: id=gold-icon
 #: data/themes/classic.cfg:214 data/themes/default.cfg:177
@@ -4279,7 +4279,6 @@ msgstr "obrana (terén)"
 msgid "theme^Default"
 msgstr "Výchozí"
 
-# | msgid "Defeat enemy leader(s)"
 #. [theme]: id=Default
 #: data/themes/default.cfg:33
 msgid "The default theme"
@@ -4293,7 +4292,7 @@ msgstr "Zpět na kolo..."
 #. [label]: id=label-mp
 #: data/themes/default.cfg:160
 msgid "MP"
-msgstr "Kroků"
+msgstr "Kroky"
 
 #. [label]: id=label-def
 #: data/themes/default.cfg:168

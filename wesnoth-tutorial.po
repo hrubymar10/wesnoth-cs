@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-03-27 01:21 UTC\n"
-"PO-Revision-Date: 2018-04-03 12:17+0200\n"
+"PO-Revision-Date: 2018-04-08 22:29+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -136,7 +136,7 @@ msgid ""
 "mouse over a unit to see a summary of its abilities and stats on the right "
 "of the screen."
 msgstr ""
-"V tomto tutoriálu hraješ za Li’sar. Stojíš v tvrzi. Tvůj mentor Delfador je "
+"V tomto tutoriálu hraješ za Lisar. Stojíš v tvrzi. Tvůj mentor Delfador je "
 "na východní straně řeky. Můžeš přesunout myš na jednotku, aby jsi v pravé "
 "části obrazovky zjistil, jaké má vlastnosti a schopnosti."
 
@@ -148,7 +148,7 @@ msgstr "Klikni na Konráda"
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:175
 msgid "Click on Li’sar"
-msgstr "Klikni na Li’sar"
+msgstr "Klikni na Lisar"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:209
@@ -186,7 +186,7 @@ msgstr "Přesuň Konráda vedle Delfadora."
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:232
 msgid "Move Li’sar next to Delfador."
-msgstr "Přesuň Li’sar vedle Delfadora."
+msgstr "Přesuň Lisar vedle Delfadora."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:249
@@ -325,6 +325,9 @@ msgid ""
 "leader. In most scenarios, you will lose if your leader is killed. Be sure "
 "to keep him safe!"
 msgstr ""
+"Malá zlatá koruna nad tvým vůdcem (Konrád) naznačuje, že je vůdcem tvé "
+"strany. Ve většině scénářů prohraješ, když bude tvůj vůdce zabit. Zajisti, "
+"aby byl v bezpečí!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:393
@@ -333,6 +336,9 @@ msgid ""
 "leader. In most scenarios, you will lose if your leader is killed. Be sure "
 "to keep her safe!"
 msgstr ""
+"Malá zlatá koruna nad tvým vůdcem (Lisar) naznačuje, že je vůdcem tvé "
+"strany. Ve většině scénářů prohraješ, když bude tvůj vůdce zabit. Zajisti, "
+"aby byl v bezpečí!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:403
@@ -423,7 +429,7 @@ msgstr "Přesuň Konráda do blízké vesnice"
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:454
 msgid "Move Li’sar to a nearby village"
-msgstr "Přesuň Li’sar do blízké vesnice"
+msgstr "Přesuň Lisar do blízké vesnice"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:467
@@ -718,7 +724,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:748
 msgid "You had really better finish off that quintain."
-msgstr ""
+msgstr "Opravdu by jsi raději měl dozabít toho panáka."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:758
