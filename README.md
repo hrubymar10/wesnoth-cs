@@ -2,7 +2,7 @@
 Czech translations of The Battle for Wesnoth
 
 ## Last synced with `wesnoth/wesnoth` 
-* [`ccb2757`](https://github.com/hrubymar10/wesnoth-cs/commit/ccb2757602febb5eea39bfd1f256e92681502f92)
+* [`bff41cd`](https://github.com/hrubymar10/wesnoth-cs/commit/bff41cd16e388ee34d06c611ec0922316b002ce9)
 
 ## Branches
 * [`1.14`](https://github.com/hrubymar10/wesnoth-cs/tree/1.14) - **Default** branch reflects [`1.14`](https://github.com/wesnoth/wesnoth/tree/1.14) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
