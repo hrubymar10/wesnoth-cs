@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-04-15 01:34-0300\n"
-"PO-Revision-Date: 2018-04-09 23:22+0200\n"
+"PO-Revision-Date: 2018-04-19 23:35+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -324,7 +324,6 @@ msgstr "Joystick: number of the thrust axis"
 msgid "Joystick: deadzone of the thruster"
 msgstr "Joystick: deadzone of the thruster"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:358
@@ -3487,7 +3486,6 @@ msgstr "Bílá"
 msgid "Teal"
 msgstr "Azurová"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=gold
 #: data/core/team-colors.cfg:107 src/reports.cpp:1263
 msgid "Gold"
@@ -3553,7 +3551,6 @@ msgstr "Jeskyně"
 msgid "Fungus"
 msgstr "Houby"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 #: data/core/team-colors.cfg:188 src/terrain/terrain.cpp:176
 msgid "Village"
@@ -3584,13 +3581,11 @@ msgstr "Neschůdný"
 msgid "Impassable"
 msgstr "Neschůdný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 #: data/core/team-colors.cfg:224 src/game_initialization/lobby_data.cpp:447
 msgid "Fog"
 msgstr "Mlha"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 #: data/core/team-colors.cfg:230 src/game_initialization/lobby_data.cpp:450
 #: src/game_initialization/lobby_data.cpp:453
@@ -3965,7 +3960,6 @@ msgstr "Ano"
 msgid "No"
 msgstr "Ne"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/screenshot_notification.cfg:95
 #: src/hotkey/command_executor.cpp:625
@@ -4006,7 +4000,6 @@ msgstr ""
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "(Poznámka: Měl bys místo toho použít $replacement)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 #: data/lua/core.lua:194 src/deprecation.cpp:69
 #, fuzzy
@@ -4019,31 +4012,26 @@ msgstr "Neplatná úroveň zastarání (měla by být 1-4)"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "Neplatná úroveň zastarání (měla by být 1-4)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:1085
 msgid "female^poisoned"
 msgstr "otrávená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1092
 msgid "female^slowed"
 msgstr "zpomalená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1092
 msgid "slowed"
 msgstr "zpomalený"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1098
 msgid "female^petrified"
 msgstr "zkamenělá"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1098
 msgid "petrified"
@@ -4059,14 +4047,12 @@ msgstr "neléčitelná"
 msgid "unhealable"
 msgstr "neléčitelný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 #: data/lua/wml/message.lua:390 src/scripting/game_lua_kernel.cpp:2779
 #: src/scripting/game_lua_kernel.cpp:2814
 msgid "input"
 msgstr "vstup"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:36 src/game_initialization/mp_game_utils.cpp:74
 msgid "Victory:"
@@ -4090,7 +4076,6 @@ msgstr[2] "(zbývá %d tahů)"
 msgid "%d%% of gold carried over to the next scenario."
 msgstr "%d%% zlata přeneseno do dalšího scénáře."
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/2p_Tombs_of_Kesorak.cfg:113
 #: src/game_initialization/mp_game_utils.cpp:76
@@ -7307,7 +7292,7 @@ msgstr "Tato jednotka nemá žádné použitelné zbraně."
 
 #: src/mp_game_settings.hpp:70
 msgid "Independent"
-msgstr "Nezávislí"
+msgstr "Nezávisle"
 
 #: src/mp_game_settings.hpp:71
 msgid "No Mirror"
