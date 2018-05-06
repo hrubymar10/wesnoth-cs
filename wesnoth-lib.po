@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-06 05:32-0300\n"
-"PO-Revision-Date: 2018-04-19 23:52+0200\n"
+"PO-Revision-Date: 2018-05-06 12:19+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.7\n"
 
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=fence
@@ -2087,7 +2087,6 @@ msgstr "Nainstalovat rozšíření"
 msgid "Update add-on"
 msgstr "Aktualizovat rozšíření"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_publish
 #. [button]: id=publish
 #: data/gui/widget/addon_list.cfg:412 data/gui/window/addon_manager.cfg:270
@@ -2095,7 +2094,6 @@ msgstr "Aktualizovat rozšíření"
 msgid "Publish add-on"
 msgstr "Publikuj rozšíření"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=single_uninstall
 #. [button]: id=uninstall
 #: data/gui/widget/addon_list.cfg:435 data/gui/window/addon_manager.cfg:247
@@ -2162,7 +2160,6 @@ msgstr "Server:"
 msgid "Remove Add-ons"
 msgstr "Odstranit rozšíření"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=show_help
 #. [button]: id=help
 #: data/gui/window/addon_connect.cfg:184 data/gui/window/title_screen.cfg:174
@@ -2175,7 +2172,6 @@ msgstr "Nápověda"
 msgid "Connect"
 msgstr "Připojit"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 #: data/gui/window/addon_connect.cfg:212
 #: data/gui/window/addon_uninstall_list.cfg:174
@@ -2226,7 +2222,6 @@ msgstr "Od:"
 msgid "Version:"
 msgstr "Verze:"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [scroll_label]: id=description
 #: data/gui/window/addon_manager.cfg:160
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:591
@@ -2275,7 +2270,6 @@ msgstr "Počet stažení:"
 msgid "Dependencies:"
 msgstr "Závislosti:"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=dependencies
 #: data/gui/window/addon_manager.cfg:523 src/gui/dialogs/addon/manager.cpp:885
 msgid "addon_dependencies^None"
@@ -2286,7 +2280,6 @@ msgstr "Žádné"
 msgid "Translations:"
 msgstr "Překlady:"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=translations
 #: data/gui/window/addon_manager.cfg:557 src/gui/dialogs/addon/manager.cpp:899
 msgid "translations^None"
@@ -2342,7 +2335,6 @@ msgstr "Řazení:"
 msgid "Add-ons Manager"
 msgstr "Správce rozšíření"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=details_toggle
 #: data/gui/window/addon_manager.cfg:946 src/gui/dialogs/addon/manager.cpp:452
 #: src/gui/dialogs/addon/manager.cpp:639
@@ -2434,7 +2426,6 @@ msgstr "Všechno ostatní"
 msgid "Scaled to hex"
 msgstr "Škálované na šestiúhelník"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/advanced_graphics_options.cfg:165
 #: data/gui/window/campaign_dialog.cfg:426
@@ -2727,7 +2718,6 @@ msgstr "Nový ToD"
 msgid "Delete ToD"
 msgstr "Smazat ToD"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/depcheck_confirm_change.cfg:40
 #: src/gui/dialogs/addon/manager.cpp:773 src/gui/dialogs/file_dialog.cpp:307
@@ -2740,7 +2730,6 @@ msgstr "Potvrdit"
 msgid "Would you like to apply the changes?"
 msgstr "Chcete skutečně uložit provedené změny?"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/depcheck_confirm_change.cfg:130
 #: data/gui/window/game_delete.cfg:107
@@ -2751,7 +2740,6 @@ msgstr "Chcete skutečně uložit provedené změny?"
 msgid "Yes"
 msgstr "Ano"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=cancel
 #: data/gui/window/depcheck_confirm_change.cfg:144
 #: data/gui/window/game_delete.cfg:121
@@ -2832,7 +2820,6 @@ msgstr "Identifikátor:"
 msgid "Description:"
 msgstr "Popis:"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/editor_edit_scenario.cfg:170
 #: src/gui/dialogs/multiplayer/lobby.cpp:477
@@ -2894,7 +2881,6 @@ msgstr "Schovat v přehledové tabulce"
 msgid "Gold:"
 msgstr "Zlato:"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:277
 #: src/gui/dialogs/multiplayer/lobby.cpp:478
@@ -2916,7 +2902,6 @@ msgstr "Zlaté na vesnici:"
 msgid "Controller:"
 msgstr "Ovládá:"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [row]
 #: data/gui/window/editor_edit_side.cfg:373 src/gui/dialogs/game_stats.cpp:78
 msgid "controller^Human"
@@ -2952,7 +2937,6 @@ msgstr "Zahalení tmou"
 msgid "vision^None"
 msgstr "Žádné"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/editor_generate_map.cfg:43 src/hotkey/hotkey_command.cpp:242
 msgid "Generate Map"
@@ -2980,7 +2964,6 @@ msgstr ""
 msgid "Generate"
 msgstr "Vygeneruj"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/editor_new_map.cfg:36 src/hotkey/hotkey_command.cpp:170
 msgid "New Map"
@@ -3006,7 +2989,6 @@ msgid "Create"
 msgstr "Vytvoř"
 
 # v editoru map; kontext - v menu "mapa"
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/editor_resize_map.cfg:35 src/hotkey/hotkey_command.cpp:240
 msgid "Resize Map"
@@ -3238,7 +3220,6 @@ msgstr ""
 msgid "Date"
 msgstr "Datum"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 #. [button]: id=load_game
 #: data/gui/window/game_load.cfg:286 data/gui/window/mp_create_game.cfg:898
@@ -3281,7 +3262,6 @@ msgstr "Všechny nevyhodnocené pohyby jednotek v uložené hře zrušit"
 msgid "Open saves folder"
 msgstr ""
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 #: data/gui/window/game_save.cfg:42 data/gui/window/game_save_message.cfg:42
 #: data/gui/window/game_save_oos.cfg:42 src/hotkey/hotkey_command.cpp:98
@@ -3308,7 +3288,6 @@ msgstr "Přepsat?"
 msgid "Save already exists. Do you want to overwrite it?"
 msgstr "Tato uložená pozice již existuje. Chceš ji přepsat?"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_0
 #: data/gui/window/game_stats.cfg:35 data/gui/window/game_stats.cfg:283
 #: src/hotkey/hotkey_command.cpp:83
@@ -3320,7 +3299,6 @@ msgstr "Vůdce"
 msgid "Team"
 msgstr "Tým"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_2
 #: data/gui/window/game_stats.cfg:63
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:401
@@ -3342,7 +3320,6 @@ msgstr "Jednotky"
 msgid "Upkeep"
 msgstr "Výdaje"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_6
 #. [image]: id=income_icon
 #. [label]: id=side_income
@@ -3394,7 +3371,6 @@ msgstr ""
 "Zlaté na\n"
 "vesnici"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/game_stats.cfg:705 src/gui/dialogs/game_stats.cpp:255
 msgid "Current Status"
@@ -3405,7 +3381,6 @@ msgstr "Současný stav"
 msgid "Game Stats"
 msgstr "Statistika hry"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=tab_label
 #: data/gui/window/game_stats.cfg:793 src/gui/dialogs/game_stats.cpp:255
 msgid "Scenario Settings"
@@ -3674,7 +3649,6 @@ msgstr "Odhlásit se"
 msgid "Create Game"
 msgstr "Vytvoř hru"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=show_preferences
 #. [label]: id=title
 #. [grid]
@@ -4006,7 +3980,6 @@ msgstr "Náhodné rozdělování frakcí:"
 msgid "Allow for mirror matchups when random factions are chosen."
 msgstr ""
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=mods_header
 #: data/gui/window/mp_create_game.cfg:203
 #: src/gui/dialogs/multiplayer/lobby.cpp:461
@@ -4154,7 +4127,6 @@ msgstr "Akce"
 msgid "Time for each attack, recruit, and capture"
 msgstr "Čas na každý útok, verbování a obsazování"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=label
 #. [widget]: id=tab_label
 #: data/gui/window/mp_create_game.cfg:533 data/gui/window/preferences.cfg:291
@@ -4238,7 +4210,6 @@ msgid ""
 "Set the password that people wanting to join your game as players must enter."
 msgstr "Nastav heslo, které musí hráči znát pro přidání se ke hře."
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/mp_create_game/default_resolution.cfg:176
 #: data/gui/window/mp_create_game/small_resolution.cfg:177
@@ -4258,7 +4229,6 @@ msgstr "Vůdce:"
 msgid "Gender:"
 msgstr "Pohlaví:"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [row]
 #: data/gui/window/mp_faction_select.cfg:167
 #: src/gui/dialogs/multiplayer/faction_select.cpp:151
@@ -4332,7 +4302,6 @@ msgstr "Opustit"
 msgid "Game Lobby"
 msgstr "Čekárna"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=status_label
 #: data/gui/window/mp_join_game.cfg:479 data/gui/window/mp_staging.cfg:614
 #: data/gui/window/mp_staging.cfg:806
@@ -4372,7 +4341,6 @@ msgid "Save password locally (encrypted)"
 msgstr "Uložit heslo (zašifrované)"
 
 # !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [widget]: id=label
 #. [label]
 #. [grid]
@@ -4388,11 +4356,13 @@ msgid ""
 "A registered account on the Wesnoth forums is required to join the official "
 "server."
 msgstr ""
+"K připojení k oficiálnímu serveru je vyžadován zaregistrovaný účet na fórum "
+"Wesnothu."
 
 #. [button]: id=register
 #: data/gui/window/mp_method_selection.cfg:136
 msgid "Sign Up"
-msgstr ""
+msgstr "Registrovat"
 
 #. [column]
 #: data/gui/window/mp_method_selection.cfg:226
@@ -4430,7 +4400,6 @@ msgstr "Místní hra"
 msgid "Address"
 msgstr "Adresa"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/mp_server_list.cfg:217 src/preferences/display.cpp:170
 msgid "Select"
@@ -4794,10 +4763,8 @@ msgstr "Nastavit poměr škálování pro písma"
 
 #. [toggle_button]: id=fps_limiter
 #: data/gui/window/preferences/03_display.cfg:273
-#, fuzzy
-#| msgid "unlimited"
 msgid "FPS limiter"
-msgstr "neomezeně"
+msgstr "Limitování FPS"
 
 #. [toggle_button]: id=fps_limiter
 #: data/gui/window/preferences/03_display.cfg:274
@@ -5024,7 +4991,6 @@ msgstr "Screenshoty (kopie obrazovky)..."
 msgid "Browse the screenshots folder using a file manager"
 msgstr "Procházet screenshoty ve správci souborů"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=save
 #: data/gui/window/screenshot_notification.cfg:203
 #: src/gui/dialogs/file_dialog.cpp:185
@@ -5096,7 +5062,6 @@ msgstr ""
 msgid "This Turn"
 msgstr "Toto kolo"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/statistics_dialog.cfg:432 src/hotkey/hotkey_command.cpp:120
 msgid "Statistics"
@@ -5117,7 +5082,6 @@ msgstr "Tažení"
 msgid "Skip"
 msgstr "Přeskočit"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=lblTitle
 #: data/gui/window/surrender_quit.cfg:40 src/hotkey/hotkey_command.cpp:123
 msgid "Surrender Game"
@@ -5220,7 +5184,6 @@ msgstr "Zobrazit další tip"
 msgid "Start a tutorial to familiarize yourself with the game"
 msgstr "Spustí výcvik, umožňující seznámení se hrou"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [grid]
 #: data/gui/window/title_screen.cfg:251 src/gui/dialogs/game_load.cpp:340
 msgid "Tutorial"
@@ -5341,7 +5304,6 @@ msgstr "Útok!"
 msgid "Attack Enemy"
 msgstr "Napadni nepřítele"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/unit_create.cfg:47 src/hotkey/hotkey_command.cpp:114
 msgid "Create Unit (Debug!)"
@@ -5379,7 +5341,6 @@ msgstr ""
 msgid "XP"
 msgstr "XP"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [toggle_button]: id=sort_4
 #. [toggle_button]: id=sort_6
 #: data/gui/window/unit_list.cfg:177 data/gui/window/unit_recall.cfg:89
@@ -5388,7 +5349,6 @@ msgstr "XP"
 msgid "Traits"
 msgstr "Vlastnosti"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/unit_list.cfg:368 src/hotkey/hotkey_command.cpp:119
 msgid "Unit List"
@@ -5404,7 +5364,6 @@ msgstr "Přivolat"
 msgid "Dismiss"
 msgstr "Zrušit"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/unit_recall.cfg:419 src/hotkey/hotkey_command.cpp:104
 msgid "Recall"
@@ -5415,13 +5374,11 @@ msgstr "Přivolej"
 msgid "Recruit Unit"
 msgstr "Naverbuj"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
 #: data/gui/window/unit_recruit.cfg:219 src/hotkey/hotkey_command.cpp:102
 msgid "Recruit"
 msgstr "Naverbuj"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #: data/gui/window/wml_error.cfg:40 src/gui/dialogs/message.cpp:210
 #: src/gui/dialogs/preferences_dialog.cpp:262
@@ -5429,7 +5386,6 @@ msgstr "Naverbuj"
 msgid "Error"
 msgstr "Chyba"
 
-#. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=details_heading
 #: data/gui/window/wml_error.cfg:112 src/gui/dialogs/multiplayer/lobby.cpp:226
 #: src/gui/dialogs/multiplayer/lobby.cpp:242 src/gui/dialogs/wml_error.cpp:197
@@ -6218,7 +6174,7 @@ msgstr "Hry: zobrazeno $num_shown ze $num_total"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:426
 msgid "$game_name (Era: $era_name)"
-msgstr ""
+msgstr "$game_name (Éra: $era_name)"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:455
 msgid "Era:"
@@ -6348,7 +6304,7 @@ msgstr ""
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:832
 msgid "The selected game has no sides!"
-msgstr ""
+msgstr "Vybraná hra nemá žádné strany!"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:898
 msgid "Choose Starting Scenario"
