@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-06 05:32-0300\n"
-"PO-Revision-Date: 2018-05-06 19:14+0200\n"
+"PO-Revision-Date: 2018-05-06 20:58+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6896,10 +6896,8 @@ msgid "Continue Network Game"
 msgstr "Pokračuj v síťové hře"
 
 #: src/hotkey/hotkey_command.cpp:124
-#, fuzzy
-#| msgid "Quit to Titlescreen"
 msgid "Quit to Main Menu"
-msgstr "Vrátit se na úvodní obrazovku"
+msgstr "Vrátit se do hlavního menu"
 
 #: src/hotkey/hotkey_command.cpp:125
 msgid "Set Team Label"
