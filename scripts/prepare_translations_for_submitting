@@ -67,10 +67,12 @@ fi
 mkdir "$output_name"
 
 for lang_file in *.po ; do
-    package_name="${lang_file%.*}"
-    echo "Copying $lang_file..."
-    mkdir "$output_name/$package_name"
-    cp $lang_file "$output_name/$package_name/cs.po"
+    if [ "$lang_file" != "wesnoth-announcement.po" ] && [ "$lang_file" != "wesnoth-steam.po" ]; then
+        package_name="${lang_file%.*}"
+        echo "Copying $lang_file..."
+        mkdir "$output_name/$package_name"
+        cp $lang_file "$output_name/$package_name/cs.po"
+    fi
 done
 
 if [ -f "$output_name.zip" ]; then
