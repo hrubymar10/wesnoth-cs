@@ -17,8 +17,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-15 23:33-0400\n"
-"PO-Revision-Date: 2018-05-06 12:27+0200\n"
+"POT-Creation-Date: 2018-05-26 15:04+0300\n"
+"PO-Revision-Date: 2018-05-12 18:22+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -35,13 +35,13 @@ msgid "Underground"
 msgstr "Podzemí"
 
 #. [berserk]: id=berserk
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:659
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:658
 #: data/core/macros/abilities.cfg:274
 msgid "berserk"
 msgstr "na život a na smrt"
 
 #. [berserk]: id=berserk
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:661
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:660
 #: data/core/macros/abilities.cfg:275
 msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
@@ -51,13 +51,13 @@ msgstr ""
 "protivníků nezemře, nebo do počtu 30 útoků."
 
 #. [chance_to_hit]: id=magical
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:670
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:669
 #: data/core/macros/abilities.cfg:359
 msgid "magical"
 msgstr "magické"
 
 #. [chance_to_hit]: id=magical
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:672
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:671
 #: data/core/macros/abilities.cfg:360
 msgid ""
 "This attack always has a 70% chance to hit regardless of the defensive "
@@ -1564,19 +1564,6 @@ msgstr ""
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:202
-#, fuzzy
-#| msgid ""
-#| "Each side begins with one leader in their keep. At the start of any "
-#| "battle, and at times during it, you will need to recruit <ref>dst='.."
-#| "units' text='units'</ref> into your army. To recruit, you must have your "
-#| "leader (for instance, Konrad in the <italic>text='Heir to the Throne'</"
-#| "italic> campaign) on the keep hex of a <ref>dst='terrain_castle' "
-#| "text='castle'</ref>. Then you may recruit by either choosing "
-#| "<bold>text='Recruit'</bold> from the menu or right-clicking on a hex and "
-#| "selecting <bold>text='Recruit'</bold>. This brings up the recruit menu, "
-#| "which lists units available for recruitment, along with their gold cost. "
-#| "Click on a unit to see its statistics, then press the OK button to "
-#| "recruit it."
 msgid ""
 "Each side begins with one leader in their keep. At the start of any battle, "
 "and at times during it, you will need to recruit <ref>dst='..units' "
@@ -2344,45 +2331,45 @@ msgstr ""
 "rozdělena na první a druhou hlídku:\n"
 "\n"
 
-#. [topic]: id=time_of_day
 #. [time]: id=dawn
 #. [time]: id=dawn_hour
+#. [topic]: id=time_of_day
 #: data/core/help.cfg:343 data/core/macros/schedules.cfg:14
 #: data/core/macros/schedules.cfg:275 data/test/maps/pathfind_1.cfg:64
 msgid "Dawn"
 msgstr "Svítání"
 
-#. [topic]: id=time_of_day
 #. [time]: id=morning
+#. [topic]: id=time_of_day
 #: data/core/help.cfg:344 data/core/macros/schedules.cfg:26
 #: data/test/maps/pathfind_1.cfg:75
 msgid "Morning"
 msgstr "Dopoledne"
 
-#. [topic]: id=time_of_day
 #. [time]: id=afternoon
+#. [topic]: id=time_of_day
 #: data/core/help.cfg:345 data/core/macros/schedules.cfg:44
 #: data/test/maps/pathfind_1.cfg:86
 msgid "Afternoon"
 msgstr "Odpoledne"
 
-#. [topic]: id=time_of_day
 #. [time]: id=dusk
 #. [time]: id=dusk_hour
+#. [topic]: id=time_of_day
 #: data/core/help.cfg:346 data/core/macros/schedules.cfg:53
 #: data/core/macros/schedules.cfg:396 data/test/maps/pathfind_1.cfg:97
 msgid "Dusk"
 msgstr "Soumrak"
 
-#. [topic]: id=time_of_day
 #. [time]: id=first_watch
+#. [topic]: id=time_of_day
 #: data/core/help.cfg:347 data/core/macros/schedules.cfg:65
 #: data/test/maps/pathfind_1.cfg:108
 msgid "First Watch"
 msgstr "První hlídka"
 
-#. [topic]: id=time_of_day
 #. [time]: id=second_watch
+#. [topic]: id=time_of_day
 #: data/core/help.cfg:348 data/core/macros/schedules.cfg:89
 #: data/test/maps/pathfind_1.cfg:119
 msgid "Second Watch"
@@ -3126,31 +3113,6 @@ msgstr "Instalace rozšíření"
 
 #. [topic]: id=installing_addons
 #: data/core/help.cfg:506
-#, fuzzy
-#| msgid ""
-#| "User-made add-ons can be obtained and updated through the "
-#| "<italic>text='Add-ons'</italic> option in the main menu. After connecting "
-#| "to the add-ons server (by default <italic>text='add-ons.wesnoth.org'</"
-#| "italic>), you will be presented with a list of add-ons available on the "
-#| "server for downloading.\n"
-#| "\n"
-#| "The installation status for each add-on is shown below each entry. For "
-#| "add-ons that are <italic>text='upgradable'</italic> or "
-#| "<italic>text='outdated'</italic> on the server, their installed and "
-#| "published versions will be shown in the <italic>text='Version'</italic> "
-#| "column.\n"
-#| "\n"
-#| "To search for add-ons by keywords, type any relevant terms in any order "
-#| "in the <bold>text='Filter'</bold> box, separated by spaces. You can also "
-#| "sort the add-on list by clicking the column headers. It is also possible "
-#| "to choose to only display add-ons of specific categories by clicking on "
-#| "the <bold>text='Options'</bold> button in the top-right corner.\n"
-#| "\n"
-#| "To install an add-on, select it from the list and click <bold>text='OK'</"
-#| "bold>, or simply double-click on the add-on’s title. The "
-#| "<bold>text='Description'</bold> button provides you with additional "
-#| "details about the add-on, such as its full description, installation "
-#| "status, and available languages."
 msgid ""
 "User-made add-ons can be obtained and updated through the <italic>text='Add-"
 "ons'</italic> option in the main menu. After connecting to the add-ons "
