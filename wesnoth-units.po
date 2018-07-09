@@ -16,8 +16,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-05-26 12:04 UTC\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2018-07-08 08:51 UTC\n"
 "PO-Revision-Date: 2018-04-05 14:50+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
@@ -157,7 +157,7 @@ msgstr "vlna mrazu"
 #. [attack]: type=arcane
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Necromancer.cfg:43
 #: data/campaigns/Descent_Into_Darkness/units/Dark_Mage.cfg:47
-#: data/campaigns/Secrets_of_the_Ancients/units/Necro_Ancient_Lich.cfg:54
+#: data/campaigns/Secrets_of_the_Ancients/units/Necro_Ancient_Lich.cfg:56
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:101
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Spider_Lich.cfg:47
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:59
@@ -363,8 +363,8 @@ msgstr "Chodící mrtvola"
 #. [unit_type]: id=Walking Corpse, race=undead
 #. [unit_type]: id=Walking Corpse Shynal, race=undead
 #: data/campaigns/Secrets_of_the_Ancients/units/Corpse_Shynal.cfg:17
-#: data/core/units/undead/Corpse_Walking.cfg:68
-#: data/core/units/undead/Corpse_Walking.cfg:156
+#: data/core/units/undead/Corpse_Walking.cfg:67
+#: data/core/units/undead/Corpse_Walking.cfg:155
 msgid ""
 "Walking Corpses are the bodies of the dead, re-animated by dark magic. "
 "Though not especially dangerous to a trained soldier, the sight of one’s "
@@ -379,12 +379,12 @@ msgstr ""
 #. [attack]: type=fire
 #. [attack]: type=cold
 #: data/campaigns/Secrets_of_the_Ancients/units/Corpse_Shynal.cfg:35
-#: data/campaigns/Secrets_of_the_Ancients/units/Necro_Ancient_Lich.cfg:30
+#: data/campaigns/Secrets_of_the_Ancients/units/Necro_Ancient_Lich.cfg:32
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Singer.cfg:27
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Sylph.cfg:30
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Spider_Lich.cfg:23
-#: data/core/units/undead/Corpse_Soulless.cfg:74
-#: data/core/units/undead/Corpse_Walking.cfg:73
+#: data/core/units/undead/Corpse_Soulless.cfg:73
+#: data/core/units/undead/Corpse_Walking.cfg:72
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:35
 #: data/core/units/undead/Necro_Lich.cfg:35
 #: data/core/units/undead/Spirit_Ghost.cfg:57
@@ -401,8 +401,15 @@ msgstr "dotek"
 msgid "club"
 msgstr "kyj"
 
+#. [unit_type]: id=Ancient Lich, race=undead
+#. [unit_type]: id=Ancient Lich SotA, race=undead
+#: data/campaigns/Secrets_of_the_Ancients/units/Necro_Ancient_Lich.cfg:5
+#: data/core/units/undead/Necro_Ancient_Lich.cfg:4
+msgid "Ancient Lich"
+msgstr "Starý lich"
+
 #. [attack]: type=cold
-#: data/campaigns/Secrets_of_the_Ancients/units/Necro_Ancient_Lich.cfg:42
+#: data/campaigns/Secrets_of_the_Ancients/units/Necro_Ancient_Lich.cfg:44
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:89
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:47
 #: data/core/units/undead/Necro_Lich.cfg:47
@@ -537,8 +544,8 @@ msgstr ""
 #: data/core/units/dwarves/Stalwart.cfg:33
 #: data/core/units/goblins/Impaler.cfg:28
 #: data/core/units/goblins/Impaler.cfg:40 data/core/units/goblins/Rouser.cfg:30
-#: data/core/units/goblins/Spearman.cfg:28
-#: data/core/units/goblins/Spearman.cfg:38
+#: data/core/units/goblins/Spearman.cfg:26
+#: data/core/units/goblins/Spearman.cfg:36
 #: data/core/units/humans/Horseman.cfg:23
 #: data/core/units/humans/Loyalist_Javelineer.cfg:27
 #: data/core/units/humans/Loyalist_Spearman.cfg:64
@@ -746,7 +753,7 @@ msgstr "úder štítem"
 #. [attack]: type=blade
 #. [attack]: type=pierce
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Minion.cfg:32
-#: data/campaigns/Under_the_Burning_Suns/units/monsters/Ant.cfg:23
+#: data/campaigns/Under_the_Burning_Suns/units/monsters/Ant.cfg:24
 #: data/core/units/bats/Bat_Blood.cfg:116 data/core/units/bats/Bat_Dread.cfg:31
 #: data/core/units/bats/Bat_Vampire.cfg:115
 #: data/core/units/goblins/Direwolf_Rider.cfg:32
@@ -936,8 +943,8 @@ msgstr ""
 "pláty brnění soudce chrání proti úderům, které by mohly sklouznout mezi "
 "šupiny."
 
-#. [attack]: type=blade
 #. [attack]: type=pierce
+#. [attack]: type=blade
 #: data/core/units/drakes/Arbiter.cfg:27 data/core/units/drakes/Arbiter.cfg:36
 #: data/core/units/drakes/Warden.cfg:28 data/core/units/drakes/Warden.cfg:37
 #: data/core/units/humans/Loyalist_Halberdier.cfg:28
@@ -2979,24 +2986,14 @@ msgstr "Gobliní kopiník"
 #. [unit_type]: id=Goblin Spearman, race=goblin
 #: data/core/units/goblins/Spearman.cfg:17
 msgid ""
-"In any litter of orcs, several are born much smaller and weaker than the "
-"rest. These runts are called ‘Goblins’ and are looked down on by the rest of "
-"their kin. In battle, these are given the most meager of equipment, and are "
-"used as a soak-off force to give the Warlords time to prepare the real "
-"assault.\n"
-"\n"
-"Some speculate that the existence of these creatures is the beginning of a "
-"failure of the orcish bloodline, though no one knows enough of their history "
-"to state anything conclusive."
+"In any race, there are always those rare individuals who, by stroke of bad "
+"luck, are born much smaller and weaker than the rest of their kind. For "
+"Orcs, however, such occurrences are extraordinarily common, with there "
+"usually being several runts born in each litter. Known as ‘Goblins’, these "
+"sickly creatures nearly always live short, brutal lives, most used merely as "
+"fodder against an enemy of their larger siblings' choosing while equipped "
+"with only the crudest of spears."
 msgstr ""
-"V každém pokolení skřetů se jich narodí několik menších a slabších, než je "
-"zbytek. Tito zakrslíci jsou nazývány „Gobliny“ a zbytek jejich druhu se na "
-"ně dívá spatra. Do bitev jim je dáváno nuzné vybavení a jsou používáni jako "
-"živé štíty, které dají jejich pánům čas se připravit na skutečný vpád.\n"
-"\n"
-"Někteří se domnívají, že existence těchto stvoření je projevem poškození "
-"rodové linie skřetů, ale protože nikdo nemá dostatek informací o jejich "
-"historii, nemůžeme učinit žádné definitivní závěry."
 
 #. [unit_type]: id=Wolf Rider, race=wolf
 #: data/core/units/goblins/Wolf_Rider.cfg:4
@@ -5137,8 +5134,8 @@ msgstr ""
 msgid "Wolf"
 msgstr "Vlk"
 
-#. [unit_type]: id=Wolf, race=wolf
 #. [unit_type]: id=Direwolf, race=wolf
+#. [unit_type]: id=Wolf, race=wolf
 #. [unit_type]: id=Great Wolf, race=wolf
 #: data/core/units/monsters/Wolf.cfg:33
 #: data/core/units/monsters/Wolf_Dire.cfg:24
@@ -5917,8 +5914,8 @@ msgstr "Tělo bez duše"
 
 #. [variation]
 #. [unit_type]: id=Soulless, race=undead
-#: data/core/units/undead/Corpse_Soulless.cfg:69
-#: data/core/units/undead/Corpse_Soulless.cfg:141
+#: data/core/units/undead/Corpse_Soulless.cfg:68
+#: data/core/units/undead/Corpse_Soulless.cfg:140
 msgid ""
 "The technique of animating a dead body is unfortunately well-known in the "
 "dark arts; practitioners often use it to raise servants and soldiers from "
@@ -5932,75 +5929,70 @@ msgstr ""
 "stanou mnohem schopnějšími."
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:100
-#: data/core/units/undead/Corpse_Walking.cfg:99
+#: data/core/units/undead/Corpse_Soulless.cfg:99
+#: data/core/units/undead/Corpse_Walking.cfg:98
 msgid "wc_variation^Drake"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:115
-#: data/core/units/undead/Corpse_Walking.cfg:114
+#: data/core/units/undead/Corpse_Soulless.cfg:114
+#: data/core/units/undead/Corpse_Walking.cfg:113
 msgid "wc_variation^Dwarf"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:127
-#: data/core/units/undead/Corpse_Walking.cfg:126
+#: data/core/units/undead/Corpse_Soulless.cfg:126
+#: data/core/units/undead/Corpse_Walking.cfg:125
 msgid "wc_variation^Goblin"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:136
-#: data/core/units/undead/Corpse_Walking.cfg:151
+#: data/core/units/undead/Corpse_Soulless.cfg:135
+#: data/core/units/undead/Corpse_Walking.cfg:150
 msgid "wc_variation^Mounted"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:146
-#: data/core/units/undead/Corpse_Walking.cfg:135
+#: data/core/units/undead/Corpse_Soulless.cfg:145
+#: data/core/units/undead/Corpse_Walking.cfg:134
 msgid "wc_variation^Gryphon"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:162
-#: data/core/units/undead/Corpse_Walking.cfg:161
+#: data/core/units/undead/Corpse_Soulless.cfg:161
+#: data/core/units/undead/Corpse_Walking.cfg:160
 msgid "wc_variation^Saurian"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:171
-#: data/core/units/undead/Corpse_Walking.cfg:170
+#: data/core/units/undead/Corpse_Soulless.cfg:170
+#: data/core/units/undead/Corpse_Walking.cfg:169
 msgid "wc_variation^Swimmer"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:188
-#: data/core/units/undead/Corpse_Walking.cfg:187
+#: data/core/units/undead/Corpse_Soulless.cfg:187
+#: data/core/units/undead/Corpse_Walking.cfg:186
 msgid "wc_variation^Troll"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:197
-#: data/core/units/undead/Corpse_Walking.cfg:196
+#: data/core/units/undead/Corpse_Soulless.cfg:196
+#: data/core/units/undead/Corpse_Walking.cfg:195
 msgid "wc_variation^Wose"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:209
-#: data/core/units/undead/Corpse_Walking.cfg:208
+#: data/core/units/undead/Corpse_Soulless.cfg:208
+#: data/core/units/undead/Corpse_Walking.cfg:207
 msgid "wc_variation^Wolf"
 msgstr ""
 
 #. [variation]
-#: data/core/units/undead/Corpse_Soulless.cfg:221
-#: data/core/units/undead/Corpse_Walking.cfg:220
+#: data/core/units/undead/Corpse_Soulless.cfg:220
+#: data/core/units/undead/Corpse_Walking.cfg:219
 msgid "wc_variation^Bat"
 msgstr ""
-
-#. [unit_type]: id=Ancient Lich, race=undead
-#: data/core/units/undead/Necro_Ancient_Lich.cfg:4
-msgid "Ancient Lich"
-msgstr "Starý lich"
 
 #. [unit_type]: id=Ancient Lich, race=undead
 #: data/core/units/undead/Necro_Ancient_Lich.cfg:24
@@ -6581,6 +6573,27 @@ msgstr ""
 "\n"
 "Stromoví muži nejsou bojovná stvoření, ale mají obrovskou sílu. Nejsou "
 "zvyklí cestovat a přemisťují tak pouze se pomalu."
+
+#~ msgid ""
+#~ "In any litter of orcs, several are born much smaller and weaker than the "
+#~ "rest. These runts are called ‘Goblins’ and are looked down on by the rest "
+#~ "of their kin. In battle, these are given the most meager of equipment, "
+#~ "and are used as a soak-off force to give the Warlords time to prepare the "
+#~ "real assault.\n"
+#~ "\n"
+#~ "Some speculate that the existence of these creatures is the beginning of "
+#~ "a failure of the orcish bloodline, though no one knows enough of their "
+#~ "history to state anything conclusive."
+#~ msgstr ""
+#~ "V každém pokolení skřetů se jich narodí několik menších a slabších, než "
+#~ "je zbytek. Tito zakrslíci jsou nazývány „Gobliny“ a zbytek jejich druhu "
+#~ "se na ně dívá spatra. Do bitev jim je dáváno nuzné vybavení a jsou "
+#~ "používáni jako živé štíty, které dají jejich pánům čas se připravit na "
+#~ "skutečný vpád.\n"
+#~ "\n"
+#~ "Někteří se domnívají, že existence těchto stvoření je projevem poškození "
+#~ "rodové linie skřetů, ale protože nikdo nemá dostatek informací o jejich "
+#~ "historii, nemůžeme učinit žádné definitivní závěry."
 
 #~ msgid ""
 #~ "Champions among their fellow troops, the dwarven sentinels form the "
