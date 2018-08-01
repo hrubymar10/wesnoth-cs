@@ -12,7 +12,7 @@ Czech translations of The Battle for Wesnoth
 | Text Domain            | %        |
 | ---------------------- |:--------:|
 | `wesnoth`              | **94%**  |
-| `wesnoth-ai`           | **62%**  |
+| `wesnoth-ai`           | **61%**  |
 | `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
 | `wesnoth-aoi`          | **100%** |
