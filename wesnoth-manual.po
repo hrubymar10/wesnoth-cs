@@ -678,7 +678,7 @@ msgid ""
 "You cannot use a registered name without the password."
 msgstr ""
 "Toto bude Vaše jméno na serveru hry více hráčů. Pokud již máte účet na "
-"<ulink url=\"http://www.wesnoth.org/forum\">Oficiálním fóru Wesnothu</"
+"<ulink url=\"https://www.wesnoth.org/forum\">Oficiálním fóru Wesnothu</"
 "ulink>, můžete na oficiálním serveru použít stejné uživatelské jméno a "
 "heslo. Pokud je pro dané jméno nutné zadat heslo, objeví se dialog pro "
 "zadání hesla. Registrovanou přezdívku nelze bez zadání hesla použít."
@@ -730,7 +730,7 @@ msgid ""
 "\">Multiplayer servers</ulink>."
 msgstr ""
 "Úplný seznam oficiálních i uživatelských serverů je k dispozici na stránce "
-"<ulink url=\"http://wesnoth.org/wiki/MultiplayerServers\">servery</ulink>."
+"<ulink url=\"https://wesnoth.org/wiki/MultiplayerServers\">servery</ulink>."
 
 #. type: Content of: <book><chapter><section><section><section><simpara>
 #: doc/manual/manual.en.xml:353
@@ -1782,7 +1782,7 @@ msgstr ":"
 msgid ""
 "<ulink url=\"https://wiki.wesnoth.org/CommandMode\">Command mode</ulink>"
 msgstr ""
-"<ulink url=\"http://www.wesnoth.org/wiki/CommandMode\">Command mode</ulink>"
+"<ulink url=\"https://www.wesnoth.org/wiki/CommandMode\">Command mode</ulink>"
 
 #. type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #: doc/manual/manual.en.xml:1170

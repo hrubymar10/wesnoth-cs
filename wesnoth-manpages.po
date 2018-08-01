@@ -15,7 +15,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-06-03 16:42+0300\n"
 "PO-Revision-Date: 2018-07-09 15:05+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
@@ -273,7 +273,7 @@ msgid ""
 "https://www.wesnoth.org/wiki/CommandMode for more information about command "
 "mode)."
 msgstr ""
-"umožňuje použít rozšiřující volby příkazového módu (více viz Wiki na  http://"
+"umožňuje použít rozšiřující volby příkazového módu (více viz Wiki na  https://"
 "www.wesnoth.org/wiki/CommandMode)."
 
 # type: TP
@@ -718,7 +718,7 @@ msgstr ""
 "pravidel preprocesoru. Běžná makra z umístění \"data/core/macros\" budou "
 "předzpracována před udanými zdroji. Příklad:  B<-p ~/wesnoth/data/campaigns/"
 "tutorial ~/result.>. Pro podrobnosti týkající se preprocessoru navštivte: "
-"http://wiki.wesnoth.org/PreprocessorRef#Command-line_preprocessor"
+"https://wiki.wesnoth.org/PreprocessorRef#Command-line_preprocessor"
 
 #. type: TP
 #: doc/man/wesnoth.6:222
@@ -1377,10 +1377,8 @@ msgstr ""
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:443 doc/man/wesnothd.6:276
-#, fuzzy
-#| msgid "Visit the official homepage: http://www.wesnoth.org/"
 msgid "Visit the official homepage: https://www.wesnoth.org/"
-msgstr "Navštivte oficiální stránky: http://www.wesnoth.org/"
+msgstr "Navštivte oficiální stránky: https://www.wesnoth.org/"
 
 # type: SH
 #. type: SH
@@ -1491,7 +1489,7 @@ msgid ""
 "wiki/ServerAdministration on what commands the server accepts via the "
 "wesnoth client (/query ...) or the fifo."
 msgstr ""
-"Součást Bitvy o Wesnoth spravující hry více hráčů. Na http://www.wesnoth.org/"
+"Součást Bitvy o Wesnoth spravující hry více hráčů. Na https://www.wesnoth.org/"
 "wiki/ServerAdministration lze nalézt příkazy, které server akceptuje, a to "
 "jak přes fifo, tak přímo od klienta wesnoth."
 
