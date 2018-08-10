@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-07-22 07:33-0400\n"
-"PO-Revision-Date: 2018-07-09 15:04+0200\n"
+"PO-Revision-Date: 2018-08-08 22:57+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Poedit 2.1.1\n"
 
 #. [multiplayer_side]: id=Custom
 #: data/_main.cfg:22
@@ -339,7 +339,6 @@ msgstr "Joystick: number of the thrust axis"
 msgid "Joystick: deadzone of the thruster"
 msgstr "Joystick: deadzone of the thruster"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:358
@@ -3522,11 +3521,10 @@ msgstr "Bílá"
 msgid "Teal"
 msgstr "Azurová"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=gold
 #: data/core/team-colors.cfg:107 src/reports.cpp:1265
 msgid "Gold"
-msgstr "Zlatých"
+msgstr "Zlato"
 
 #. [color_range]: id=reef
 #: data/core/team-colors.cfg:116
@@ -3588,7 +3586,6 @@ msgstr "Jeskyně"
 msgid "Fungus"
 msgstr "Houby"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 #: data/core/team-colors.cfg:188 src/terrain/terrain.cpp:176
 msgid "Village"
@@ -3619,13 +3616,11 @@ msgstr "Neschůdný"
 msgid "Impassable"
 msgstr "Neschůdný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 #: data/core/team-colors.cfg:224 src/game_initialization/lobby_data.cpp:457
 msgid "Fog"
 msgstr "Mlha"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 #: data/core/team-colors.cfg:230 src/game_initialization/lobby_data.cpp:460
 #: src/game_initialization/lobby_data.cpp:463
@@ -3965,7 +3960,6 @@ msgstr "Ano"
 msgid "No"
 msgstr "Ne"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/screenshot_notification.cfg:95
 #: src/hotkey/command_executor.cpp:628
@@ -4006,7 +4000,6 @@ msgstr ""
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "(Poznámka: Měl bys místo toho použít $replacement)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 #: data/lua/core.lua:194 src/deprecation.cpp:69
 #, fuzzy
@@ -4019,31 +4012,26 @@ msgstr "Neplatná úroveň zastarání (měla by být 1-4)"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "Neplatná úroveň zastarání (měla by být 1-4)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:1129
 msgid "female^poisoned"
 msgstr "otrávená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1136
 msgid "female^slowed"
 msgstr "zpomalená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1136
 msgid "slowed"
 msgstr "zpomalený"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1142
 msgid "female^petrified"
 msgstr "zkamenělá"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1142
 msgid "petrified"
@@ -4059,14 +4047,12 @@ msgstr "neléčitelná"
 msgid "unhealable"
 msgstr "neléčitelný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 #: data/lua/wml/message.lua:395 src/scripting/game_lua_kernel.cpp:2783
 #: src/scripting/game_lua_kernel.cpp:2818
 msgid "input"
 msgstr "vstup"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:36 src/game_initialization/mp_game_utils.cpp:74
 msgid "Victory:"
@@ -4090,7 +4076,6 @@ msgstr[2] "(zbývá %d tahů)"
 msgid "%d%% of gold carried over to the next scenario."
 msgstr "%d%% zlata přeneseno do dalšího scénáře."
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/2p_Tombs_of_Kesorak.cfg:152
 #: src/game_initialization/mp_game_utils.cpp:76
@@ -4252,17 +4237,17 @@ msgstr "Zkušenosti"
 #. [label]: id=gold-icon
 #: data/themes/classic.cfg:214 data/themes/default.cfg:177
 msgid "gold"
-msgstr "zlatých"
+msgstr "zlato"
 
 #. [label]: id=villages-icon
 #: data/themes/classic.cfg:223 data/themes/default.cfg:186
 msgid "villages"
-msgstr "vesnic"
+msgstr "vesnice"
 
 #. [label]: id=units-icon
 #: data/themes/classic.cfg:232 data/themes/default.cfg:195
 msgid "units"
-msgstr "jednotek"
+msgstr "jednotky"
 
 #. [label]: id=upkeep-icon
 #: data/themes/classic.cfg:241 data/themes/default.cfg:204
@@ -6116,10 +6101,8 @@ msgid "Turn"
 msgstr "Kolo"
 
 #: src/game_initialization/lobby_data.cpp:465
-#, fuzzy
-#| msgid "vision"
 msgid "vision^none"
-msgstr "vidění"
+msgstr "nikdo"
 
 #: src/game_initialization/lobby_data.cpp:474
 msgid "time limit^none"
@@ -7715,22 +7698,25 @@ msgstr "Šeré jednotky: "
 
 #: src/reports.cpp:1238
 msgid "Turn Number"
-msgstr "Kolo číslo"
+msgstr "Číslo kola"
 
 #: src/reports.cpp:1240
 msgid ""
 "When the game reaches the number of turns indicated by the second number, it "
 "will end."
 msgstr ""
+"Když hra dosáhne počet kol, který je zobrazen ve druhým číslem, tak skončí."
 
 #: src/reports.cpp:1265
 msgid ""
 "The amount of gold currently available to recruit and maintain your army."
 msgstr ""
+"Množství zlata, které je aktuálně dostupné k verbování a udržování tvé "
+"armády."
 
 #: src/reports.cpp:1284
 msgid "The fraction of known villages that your side has captured."
-msgstr ""
+msgstr "Část známých vesnic, které obsadila tvá strana."
 
 #: src/reports.cpp:1284
 msgid "Villages"
@@ -7738,7 +7724,7 @@ msgstr "Vesnic"
 
 #: src/reports.cpp:1289
 msgid "The total number of units on your side."
-msgstr ""
+msgstr "Celkový počet jednotek na tvé straně."
 
 #: src/reports.cpp:1289
 msgid "Units"
@@ -7780,7 +7766,7 @@ msgstr ""
 
 #: src/reports.cpp:1570
 msgid "Turn Countdown"
-msgstr ""
+msgstr "Čas na kolo"
 
 #: src/save_index.cpp:218
 msgid "%a %b %d %I:%M %p %Y"
@@ -7882,7 +7868,7 @@ msgstr "Ulož hru"
 
 #: src/savegame.cpp:638
 msgid "Game state is corrupted"
-msgstr ""
+msgstr "Stav hry je poškozen"
 
 #: src/serialization/parser.cpp:153
 msgid "Unexpected characters at line start"
@@ -8033,13 +8019,15 @@ msgstr "(neznámý hráč)"
 
 #: src/synced_commands.cpp:415
 msgid "The :$command debug command was used during $player’s turn"
-msgstr ""
+msgstr "Ladící příkaz $command byl využit během kola hráče $player"
 
 #: src/synced_commands.cpp:423
 msgid ""
 "A player used a debug command during the game. If this is unexpected, it is "
 "possible the player in question is cheating."
 msgstr ""
+"Hráč během hry využil ladící příkaz. Pokud je to neočekávané, tak je možné, "
+"že hráč podváděl."
 
 #: src/synced_commands.cpp:425
 msgid "Details:"
@@ -8047,7 +8035,7 @@ msgstr "Detaily:"
 
 #: src/synced_commands.cpp:428
 msgid "Do you wish to save the game before continuing?"
-msgstr ""
+msgstr "Chcete před pokračováním hru uložit?"
 
 #: src/synced_commands.cpp:430
 msgid "Debug Command Used"
@@ -8056,6 +8044,7 @@ msgstr "Ladící příkaz použit"
 #: src/synced_commands.cpp:516
 msgid "A unit was created using debug mode during $player’s turn"
 msgstr ""
+"Jednotka byla vytvořena pomocí ladícího příkazu během kola hráče $player"
 
 #: src/synced_user_choice.cpp:327
 #, fuzzy
@@ -8080,7 +8069,7 @@ msgstr "Vlastní vesnice"
 
 #: src/theme.cpp:309
 msgid "border_size should be between 0.0 and 0.5."
-msgstr "Hodnota „border_size“ by měla ležet mezi 0,0 a 0,5."
+msgstr "Hodnota „border_size“ by měla být mezi 0,0 a 0,5."
 
 #: src/theme.cpp:552 src/theme.cpp:557
 msgid "Hotkey(s): "
