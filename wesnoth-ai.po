@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-09-09 08:38 UTC\n"
-"PO-Revision-Date: 2019-02-15 11:00+0100\n"
+"PO-Revision-Date: 2019-02-15 22:32+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -41,10 +41,8 @@ msgstr "Vývojová AI: Klidná AI"
 
 #. [ai]: id=ai_default_rca_alternate_recruiting
 #: data/ai/dev/ai_default_rca_alternate_recruiting.cfg:10
-#, fuzzy
-#| msgid "Multiplayer_AI^Dev AI: Default + Old Recruitment"
 msgid "Multiplayer_AI^Dev AI: Default AI (RCA) with Alternate Recruiting"
-msgstr "Vývojová AI: Výchozí + Staré verbování"
+msgstr "Vývojová AI: Výchozí AI (RCA) s alternativním způsobem verbování"
 
 #. [ai]: id=formula_ai # id is needed to uniquely identify a MP AI, it is not needed in the scenario AI
 #: data/ai/dev/formula_ai.cfg:10
@@ -2286,7 +2284,7 @@ msgstr "Prostě útočit"
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:93
 msgid "Fast AI"
-msgstr ""
+msgstr "Rychlá AI"
 
 #. [set_menu_item]: id=m01_menu_bottleneck_defense
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:100

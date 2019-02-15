@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 21:30+0300\n"
-"PO-Revision-Date: 2019-02-15 21:01+0100\n"
+"PO-Revision-Date: 2019-02-15 22:53+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -304,6 +304,8 @@ msgid ""
 "A welcome sight to any traveler, an oasis allows units to heal as if "
 "stationed in a village, but provides no income or defensive advantage."
 msgstr ""
+"Oáza je uvítána každým cestovatelem, umožňuje jednotkám uzdravit se jako ve "
+"vesnici, ale neposkytuje žádný příjem ani obranou výhodu."
 
 #. [terrain_type]: id=sand_rubble
 #: data/core/terrain.cfg:332
@@ -865,7 +867,6 @@ msgstr "Přímá bílá zeď"
 
 #. [terrain_type]: id=wall_stone_clean
 #: data/core/terrain.cfg:1232
-#, fuzzy
 msgid "Clean Stone Wall"
 msgstr "Čistá kamenná zeď"
 
@@ -1177,10 +1178,8 @@ msgstr "Ležení"
 
 #. [terrain_type]: id=encampment_ruin
 #: data/core/terrain.cfg:1874
-#, fuzzy
-#| msgid "Encampment"
 msgid "Ruined Encampment"
-msgstr "Ležení"
+msgstr "Ruiny tábora"
 
 #. [terrain_type]: id=encampment_snow
 #: data/core/terrain.cfg:1886
@@ -1230,14 +1229,12 @@ msgstr "Zasněžený lidský hrad"
 #. [terrain_type]: id=elven_castle
 #: data/core/terrain.cfg:1945
 msgid "Elven Castle"
-msgstr "Elfská tvrz"
+msgstr "Elfský hrad"
 
 #. [terrain_type]: id=elven_castle_ruin
 #: data/core/terrain.cfg:1957
-#, fuzzy
-#| msgid "Elven Castle"
 msgid "Elven Castle Ruin"
-msgstr "Elfská tvrz"
+msgstr "Ruiny elfského hradu"
 
 #. [terrain_type]: id=dwarven_castle
 #: data/core/terrain.cfg:1969
@@ -1280,24 +1277,18 @@ msgstr "Zřícený pouštní hrad"
 
 #. [terrain_type]: id=troll_encampment
 #: data/core/terrain.cfg:2043
-#, fuzzy
-#| msgid "Tall Encampment Keep"
 msgid "Troll Encampment"
-msgstr "Vysoká tvrz ležení"
+msgstr "Trolské ležení"
 
 #. [terrain_type]: id=aquatic_camp
 #: data/core/terrain.cfg:2055
-#, fuzzy
-#| msgid "Encampment"
 msgid "Aquatic Encampment"
-msgstr "Ležení"
+msgstr "Vodní ležení"
 
 #. [terrain_type]: id=aquatic_castle
 #: data/core/terrain.cfg:2068
-#, fuzzy
-#| msgid "Human Castle"
 msgid "Aquatic Castle"
-msgstr "Lidský hrad"
+msgstr "Vodní hrad"
 
 #. [terrain_type]: id=encampment_keep
 #. [terrain_type]: id=encampment_keep_tall
@@ -1312,10 +1303,8 @@ msgstr "Tvrz ležení"
 
 #. [terrain_type]: id=encampment_ruin_keep
 #: data/core/terrain.cfg:2096
-#, fuzzy
-#| msgid "Encampment Keep"
 msgid "Ruined Encampment Keep"
-msgstr "Tvrz ležení"
+msgstr "Zřícená tvrz ležení"
 
 #. [terrain_type]: id=encampment_keep_tall
 #: data/core/terrain.cfg:2109
@@ -1358,29 +1347,27 @@ msgstr "Zasněžená skřetí tvrz"
 #. [terrain_type]: id=human_keep
 #: data/core/terrain.cfg:2161
 msgid "Human Castle Keep"
-msgstr "Lidská tvrz"
+msgstr "Lidská hradní tvrz"
 
 #. [terrain_type]: id=snow_keep
 #: data/core/terrain.cfg:2174
 msgid "Snowy Human Castle Keep"
-msgstr "Zasněžená lidská tvrz"
+msgstr "Zasněžená lidská hradní tvrz"
 
 #. [terrain_type]: id=elven_keep
 #: data/core/terrain.cfg:2187
 msgid "Elven Castle Keep"
-msgstr "Elfská tvrz"
+msgstr "Elfská hradní tvrz"
 
 #. [terrain_type]: id=elven_keep_ruin
 #: data/core/terrain.cfg:2200
-#, fuzzy
-#| msgid "Elven Castle Keep"
 msgid "Elven Keep Ruin"
-msgstr "Elfská tvrz"
+msgstr "Zřícená elfská tvrz"
 
 #. [terrain_type]: id=dwarven_keep
 #: data/core/terrain.cfg:2213
 msgid "Dwarven Castle Keep"
-msgstr "Trpasličí tvrz"
+msgstr "Trpasličí hradní tvrz"
 
 #. [terrain_type]: id=ruined_keep
 #. [terrain_type]: id=sunken_keep
@@ -1399,12 +1386,12 @@ msgstr "Tvrz zříceného lidského hradu"
 #. [terrain_type]: id=sunken_keep
 #: data/core/terrain.cfg:2239
 msgid "Sunken Human Castle Keep"
-msgstr "Potopená lidská tvrz"
+msgstr "Potopená lidská hradní tvrz"
 
 #. [terrain_type]: id=swamp_keep
 #: data/core/terrain.cfg:2252
 msgid "Swamp Human Castle Keep"
-msgstr "Mokřinná lidská tvrz"
+msgstr "Bažinná lidská hradní tvrz"
 
 #. [terrain_type]: id=desert_keep
 #: data/core/terrain.cfg:2265
@@ -1418,17 +1405,13 @@ msgstr "Zřícená pouštní tvrz"
 
 #. [terrain_type]: id=merman_campkeep
 #: data/core/terrain.cfg:2291
-#, fuzzy
-#| msgid "Tall Encampment Keep"
 msgid "Aquatic Encampment Keep"
-msgstr "Vysoká tvrz ležení"
+msgstr "Tvrz vodního ležení"
 
 #. [terrain_type]: id=troll_campkeep
 #: data/core/terrain.cfg:2304
-#, fuzzy
-#| msgid "Tall Encampment Keep"
 msgid "Troll Encampment Keep"
-msgstr "Vysoká tvrz ležení"
+msgstr "Tvrz trolského ležení"
 
 #. [terrain_type]: id=merman_castlekeep
 #: data/core/terrain.cfg:2317
@@ -6376,6 +6359,9 @@ msgid ""
 "\n"
 "Try to save the screenshot as PNG instead."
 msgstr ""
+"Nepodporovaný formát obrázku.\n"
+"\n"
+"Zkus místo toho uložit snímek obrazovky jako PNG."
 
 #: src/gui/dialogs/statistics_dialog.cpp:64
 msgid "All Scenarios"
@@ -6595,7 +6581,7 @@ msgstr "Neznámé id pro uzel stromového seznamu."
 
 #: src/gui/widgets/unit_preview_pane.cpp:135
 msgid "Resistances: "
-msgstr ""
+msgstr "Odolnosti: "
 
 #: src/gui/widgets/unit_preview_pane.cpp:137
 msgid "(Att / Def)"
@@ -6742,7 +6728,7 @@ msgstr "Vybrat/Pohnout/Zaútočit"
 
 #: src/hotkey/hotkey_command.cpp:78
 msgid "Touch"
-msgstr ""
+msgstr "Dotek"
 
 #: src/hotkey/hotkey_command.cpp:79
 msgid "Animate Map"
