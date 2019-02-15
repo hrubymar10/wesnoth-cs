@@ -1,7 +1,7 @@
 # translation of wesnoth-low.pot to Czech
 # Czech translations for Battle for Wesnoth package.
 # Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
-# Copyright (C) 2008 - 2018 Wesnoth development team
+# Copyright (C) 2008 - 2019 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
 # Czech Wesnoth translation team <hrubymar10@gmail.com>,
@@ -10,14 +10,14 @@
 # Petr Šlejhar <septim@centrum.cz>, 2008 - 2011.
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
-# Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2018.
+# Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 18:30 UTC\n"
-"PO-Revision-Date: 2018-04-05 14:26+0200\n"
+"PO-Revision-Date: 2019-02-15 21:03+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:49
@@ -52,10 +52,8 @@ msgstr ""
 
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:53
-#, fuzzy
-#| msgid "(Intermediate level, 18 scenarios.)"
 msgid "(Hard level, 18 scenarios.)"
-msgstr "(Obtížnost: pokročilý hráč, 18 scénářů)"
+msgstr "(Obtížnost: těžká, 18 scénářů)"
 
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:55
@@ -1554,7 +1552,7 @@ msgstr "Traur"
 #. [note]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/06_Acquaintance_in_Need.cfg:247
 msgid "Try to save leveled dwarf units"
-msgstr ""
+msgstr "Zkus ušetřit zkušené trpasličí jednotky"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/06_Acquaintance_in_Need.cfg:257
@@ -4513,8 +4511,6 @@ msgstr "Jejich mssta je sstraššná! Mám sstrach o náššš druh."
 
 #. [message]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:388
-#, fuzzy
-#| msgid "Don’t flee. We cannot abandon our capitol."
 msgid "Don’t flee. We cannot abandon our capital."
 msgstr "Nezzdrhej. Nemůžšeme opusstit našše hlavní sssídlo."
 
@@ -4850,6 +4846,7 @@ msgstr "Kalenz přežije šest dní"
 msgid ""
 "If you lose you still have a chance to defeat Kalenz in the next scenario."
 msgstr ""
+"Když prohraješ, tak stále budeš mít šanci porazit Kalenze v dalším scénáři."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:338

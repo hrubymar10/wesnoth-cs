@@ -1,9 +1,6 @@
 # wesnoth-cs `1.14` branch
 Czech translations of The Battle for Wesnoth
 
-## Last synced with `wesnoth/wesnoth` 
-* [`4d35e44`](https://github.com/hrubymar10/wesnoth-cs/commit/4d35e44ac5926d3fb3d5428af1402bafb7b5be1b)
-
 ## Branches
 * [`1.14`](https://github.com/hrubymar10/wesnoth-cs/tree/1.14) - **Default** branch reflects [`1.14`](https://github.com/wesnoth/wesnoth/tree/1.14) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
 * ~~[`master`](https://github.com/hrubymar10/wesnoth-cs/tree/master) - branch reflects [`master`](https://github.com/wesnoth/wesnoth/tree/master) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)~~ <-- Not created yet
@@ -16,31 +13,31 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
 | `wesnoth-aoi`          | **100%** |
-| `wesnoth-did`          | **100%** |
+| `wesnoth-did`          | **95%** |
 | `wesnoth-dm`           | **100%** |
 | `wesnoth-dw`           | **100%** |
 | `wesnoth-editor`       | **100%** |
 | `wesnoth-ei`           | **100%** |
 | `wesnoth-help`         | **95%**  |
-| `wesnoth-httt`         | **96%**  |
-| `wesnoth-l`            | **98%** |
-| `wesnoth-lib`          | **92%**  |
+| `wesnoth-httt`         | **99%**  |
+| `wesnoth-l`            | **99%** |
+| `wesnoth-lib`          | **93%**  |
 | `wesnoth-low`          | **98%**  |
-| `wesnoth-manpages`     | **73%**  |
+| `wesnoth-manpages`     | **64%**  |
 | `wesnoth-manual`       | **96%**  |
 | `wesnoth-multiplayer`  | **82%**  |
 | `wesnoth-nr`           | **91%**  |
-| `wesnoth-sof`          | **99%** |
-| `wesnoth-sota`         | **99%** |
-| `wesnoth-sotbe`        | **99%** |
+| `wesnoth-sof`          | **98%** |
+| `wesnoth-sota`         | **98%** |
+| `wesnoth-sotbe`        | **100%** |
 | `wesnoth-steam`        | **100%** |
 | `wesnoth-tb`           | **100%** |
 | `wesnoth-test`         | **100%** |
-| `wesnoth-thot`         | **99%** |
+| `wesnoth-thot`         | **86%** |
 | `wesnoth-trow`         | **100%** |
-| `wesnoth-tsg`          | **97%** |
-| `wesnoth-tutorial`     | **66%**  |
-| `wesnoth-units`        | **83%**  |
+| `wesnoth-tsg`          | **29%** |
+| `wesnoth-tutorial`     | **65%**  |
+| `wesnoth-units`        | **82%**  |
 | `wesnoth-utbs`         | **96%**  |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
