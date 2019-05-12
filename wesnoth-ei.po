@@ -2972,7 +2972,7 @@ msgstr "Weldyn byl dobyt, to je konec Wesnothu…"
 #. [scenario]: id=15_The_Council
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:4
 msgid "The Council"
-msgstr "Porada"
+msgstr "Rada"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:19
@@ -2981,9 +2981,9 @@ msgid ""
 "face. He was at first a mage of the realm, like me, and his fall began "
 "during the reign of Haldric VII..."
 msgstr ""
-"Předtím než začneme tuto poradu, musím vám všem říct historii o tom, kde je "
+"Předtím než začneme tuto radu, musím vám všem říct historii o tom, kdo je "
 "tento lich, proti kterému stojíme. Kdysi to byl mág světla, tak jako já, ale "
-"jeho pád začal počátkem vlády Haldrika VII..."
+"jeho pád začal v době vlády Haldrika VII..."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:23
@@ -2994,8 +2994,8 @@ msgid ""
 "a mage, versed well in combat with the spirits of darkness, to be the king’s "
 "advisor."
 msgstr ""
-"Galdren, největší věštec této země, předpověděl, že již brzy přijde do naší "
-"země velké zlo. Král měl přirozeně veliké obavy. Věštec také řekl, že "
+"Galdren, nejvyšší vidoucí této země, předpověděl, že již brzy přijde do naší "
+"země velké zlo. Král měl přirozeně veliké obavy. Vidoucí také řekl, že "
 "jediným způsobem, jak zastavit toto zlo, je ustanovit královským rádcem "
 "mága, který bude zběhlý v boji s temnotou."
 
@@ -3009,10 +3009,10 @@ msgid ""
 "the seer was dead, and he had chosen me as his new advisor."
 msgstr ""
 "V celé krajině byli jen dva mágové světla, kteří převyšovali všechny "
-"ostatní. Mág z východu jménem Ravan, a já. Král si chtěl vybrat toho "
-"správného věštce proto nás oba poslal za Geldrem. Pak si s ním promluvil "
-"osamotě. O čem si povídali to nikdo neví, ale když se vrátil, ohlásil, že "
-"věštec je mrtvý, a vybral si mě jako svého nového rádce."
+"ostatní. Mág z východu jménem Ravan a já. Král si chtěl vybrat toho "
+"nejlepšího rádce, proto nás oba poslal za Geldrem. Pak si s vidoucím "
+"promluvil o samotě. O čem si povídali, to nikdo neví, ale když se vrátil, "
+"ohlásil, že vidoucí je mrtev a vybral si mne jako svého nového rádce."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:29
@@ -3022,9 +3022,9 @@ msgid ""
 "of darkness, hoping to discover their weaknesses. But it was they who found "
 "his."
 msgstr ""
-"Ravan to vzal klidně, aspoň jsme si to všecí mysleli, ale teď si myslím, že "
-"právě tehdá započal jeho pád. Ponořil se do tajemství temnoty duchů, aby "
-"odhalil jejich slabé místa; jenže ve skutečnosti oni odhalili jeho."
+"Ravan to vzal klidně, alespoň jsme si to všichni mysleli, ale teď si myslím, "
+"že právě tehdy započal jeho pád. Ponořil se do tajemství temnoty duchů, aby "
+"odhalil jejich slabá místa; jenže ve skutečnosti oni odhalili jeho."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:32
@@ -3033,9 +3033,9 @@ msgid ""
 "me and the guards let him in, for then he was still a well-respected mage. "
 "When I greeted him, he named himself Mal-Ravanal and challenged me to a duel."
 msgstr ""
-"Jednoho dne se Ravan vrátil do hradu, který jsem obýval. Chtěl mě viděl a "
-"stráže ho pustili, protože byl stále váženým mágem u dvoru. Když jsem ho "
-"pozdravil, nazval se Mal-Ravanalem a vyzval mě na souboj."
+"Jednoho dne se Ravan vrátil do hradu, který jsem obýval. Chtěl mne vidět a "
+"stráže ho pustily, protože byl stále váženým mágem. Když jsem ho pozdravil, "
+"nazval se Mal-Ravanalem a vyzval mě na souboj."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:35
@@ -3045,8 +3045,8 @@ msgid ""
 "prepared to excise the darkness in his soul."
 msgstr ""
 "Jeho útok byl rychlý a velmi silný, ale díky neochvějné víře a nemalým "
-"schopnostem jsem zvítězil. Jak tam ležel smrtelně zraněný, tak jsem se "
-"připravoval zničit jeho temnotu v duši."
+"schopnostem jsem zvítězil. Jak tam tak ležel smrtelně zraněný, připravoval "
+"jsem se zničit temnotu v jeho duši."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:38
@@ -3056,7 +3056,7 @@ msgid ""
 "in the arts of necromancy..."
 msgstr ""
 "Ale otálel jsem příliš dlouho... Jednoduše zmizel, teleportoval se pryč. Mág "
-"Ravan ten den zemřel; ale smrt je jen obyčejnou nepříjemností pro ty, co "
+"Ravan ten den zemřel; ale smrt je jen obyčejnou nepříjemností pro ty, kdo "
 "jsou zběhlí v umění nekromacie..."
 
 #. [side]: type=Great Mage, id=Kaldor
@@ -3068,7 +3068,7 @@ msgstr "Kaldor"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:102
 msgid "This is the lich we are facing: Mal-Ravanal."
-msgstr "Tent lich, kterému čelíme je Mal-Ravanal."
+msgstr "Lich, kterému čelíme, je Mal-Ravanal."
 
 #. [message]: speaker=Konrad II
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:106
@@ -3093,8 +3093,8 @@ msgid ""
 msgstr ""
 "Podle tvých slov soudím, že jsi ty hordy neviděl osobně. Je to jako kdyby "
 "všichni mrtví bojovníci ze všech dob přišli zpět, aby na nás zaútočili. Řady "
-"pochodujících kostlivců, kvílejících duchů a pekelných netopýrů nemají "
-"konce, a jsou vedeny odpornými nekromanty, jež je pozvedli."
+"pochodujících kostlivců, kvílejících duchů a pekelných netopýrů nemají konce "
+"a jsou vedeny odpornými nekromanty, již je pozvedli."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:118
@@ -3102,8 +3102,8 @@ msgid ""
 "We barely escaped the Southern Outpost with our lives; Mal-Ravanal’s army "
 "cannot be defeated by even the might of all Wesnoth."
 msgstr ""
-"Sotva sa nám podařilo uniknout z Východní základny; armáda Mal-Ravanala "
-"nemůže být poražena, dokonce ani veškerou silou ve Wesnothě."
+"Sotva se nám podařilo uniknout z Východní základny; armáda Mal-Ravanala "
+"nemůže být poražena, dokonce ani veškerou silou ve Wesnothu."
 
 #. [message]: speaker=Kaldor
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:122
@@ -3111,7 +3111,7 @@ msgid ""
 "That simply makes you cowards. True warriors would have stayed and fought to "
 "the death!"
 msgstr ""
-"Tak jste jednoduše utekli. Pravý bojovníci by zůstali a bojovali až do svojí "
+"Tak jste jednoduše utekli. Praví bojovníci by zůstali a bojovali až do svojí "
 "smrti!"
 
 #. [message]: speaker=Dacyn
@@ -3123,16 +3123,15 @@ msgid ""
 "his teleportation and finally put his tortured soul to rest."
 msgstr ""
 "Věru, nesmyslná oběť a potom dalších pár mrtvol pochodujících na Weldyn. "
-"Zistili jsme, že jedinou cestou k vítěztví je porazit vůdce těchto "
+"Zjistili jsme, že jedinou cestou k vítěztví je porazit vůdce těchto "
 "nemrtvých, licha Mal-Ravanala. S tímto Nulovým kamenem můžeme zabránit jeho "
-"teleportaci a konečne tak poslat jeho utrápenou duši k odpočinku."
+"teleportaci a konečně tak poslat jeho utrápenou duši k odpočinku."
 
 #. [message]: speaker=Kaldor
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:130
 msgid "But if we cannot defeat the army, how may we strike at the leader?!"
 msgstr ""
-"Ale pokud nejsme schopni porazit jeho armádu, jak můžeme zaútočit na jejich "
-"vůdce?!"
+"Ale pokud nejsme schopni porazit armádu, jak můžeme zaútočit na vůdce?!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:134
@@ -3141,8 +3140,8 @@ msgid ""
 "attack in force we may be able to punch through the enemy lines and isolate "
 "Mal-Ravanal in the chaos of battle."
 msgstr ""
-"Doporučuji kompletní čelní útok. Naše kavalérie může velmi dobře manévrovat; "
-"pokud zaútočíme silou, budeme schopní prorazit nepřátelské linie a oddělit "
+"Doporučuji plný čelní útok. Naše kavalérie může velmi dobře manévrovat; "
+"pokud zaútočíme silou, budeme schopni prorazit nepřátelské linie a oddělit "
 "Mal-Ravanala od zmatku bitvy."
 
 #. [message]: speaker=Dacyn
@@ -3151,8 +3150,8 @@ msgid ""
 "I suggest that we appeal to his arrogance: I believe Mal-Ravanal would be "
 "<i>compelled</i> to face me if I were to challenge him to a duel."
 msgstr ""
-"Já bych navrhoval se spolehnout na jeho aroganci: věřím, že Mal-Ravanal by "
-"byl <i>přinucený</i> sa mi postavit,pokud bych ho vyzval na duel."
+"Já bych navrhoval spolehnout se na jeho aroganci: věřím, že Mal-Ravanal by "
+"byl <i>přinucen</i> se mi postavit, pokud bych jej vyzval na duel."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:142
@@ -3160,7 +3159,7 @@ msgid ""
 "We cannot trust that he would honor the terms of the challenge! You would "
 "likely find yourself facing his entire army!"
 msgstr ""
-"Nemůžeme přece věřit, že dodrží podmínky duelu! Pravděpodobně sa ocitneš sám "
+"Nemůžeme přece věřit, že dodrží podmínky duelu! Pravděpodobně se ocitneš sám "
 "proti celé jeho armádě!"
 
 #. [message]: speaker=Dacyn
@@ -3169,8 +3168,8 @@ msgid ""
 "We face his entire army regardless. The only difference is whether Mal-"
 "Ravanal is commanding in back or gloating in front."
 msgstr ""
-"Jeho armádě budeme čelit tak či onak. Jediným rozdílem je, že bude Mal-"
-"Ravanal rozkazovat ze zadu, a nebo škodolibě ze předu."
+"Jeho armádě budeme čelit tak či onak. Jediným rozdílem je, zda bude Mal-"
+"Ravanal rozkazovat zezadu a nebo škodolibě zepředu."
 
 #. [message]: speaker=Konrad II
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:150
@@ -3179,9 +3178,9 @@ msgid ""
 "pressed for options. Gweddry, you are most familiar with this situation. I "
 "will leave this choice in your hands."
 msgstr ""
-"Dva riskantní plány. Ale pokud jsou ti nemrtvý tak silní, jak říkáte, tak "
-"potom nemáme příliš moc možností. Gweddry, ty si se situací obeznámený "
-"nejvíce. Tuto volbu teda nechám na tobě."
+"Dva riskantní plány. Ale pokud jsou ti nemrtví tak silní, jak říkáte, pak "
+"nemáme příliš mnoho možností. Gweddry, ty jsi se situací obeznámen nejvíce. "
+"Tuto volbu tedy nechám na tobě."
 
 #. [message]: speaker=guard
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:167
@@ -3191,7 +3190,7 @@ msgstr "Pane, armády nemrtvých útočí!"
 #. [message]: speaker=Konrad II
 #: data/campaigns/Eastern_Invasion/scenarios/15_The_Council.cfg:171
 msgid "Well, that will have to be the end of our council. Let us fight!"
-msgstr "Tak to tedy musíme ukončit naši radu. Do boje!"
+msgstr "Dobrá, pak tedy musíme ukončit naši radu. Do boje!"
 
 #. [scenario]: id=16_Weldyn_under_Attack
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:4
