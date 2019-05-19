@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 "Kolují zvěsti o útocích nemrtvých na východní hranici Wesnothu. Ty, "
 "důstojník královské armády, jsi byl vyslán na východní frontu, abys ochránil "
-"vesničany a zjistil co se děje.\n"
+"vesničany a zjistil, co se děje.\n"
 "\n"
 
 #. [campaign]: id=Eastern_Invasion
@@ -3195,7 +3195,7 @@ msgstr "Dobrá, pak tedy musíme ukončit naši radu. Do boje!"
 #. [scenario]: id=16_Weldyn_under_Attack
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:4
 msgid "Weldyn under Attack"
-msgstr "Weldan pod útokem"
+msgstr "Weldyn pod útokem"
 
 #. [side]: type=General, id=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:52
@@ -3239,12 +3239,12 @@ msgid ""
 "hordes. I stand ready to defend the kingdom."
 msgstr ""
 "Brzy budeme bojovat, můj pane. Podívej, přichází noc... a s ní i hordy "
-"nemrtvých. Jsem připravený na obranu králoství."
+"nemrtvých. Jsem připravený na obranu království."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:237
 msgid "Very well. But this... Mal-Ravanal, that you spoke of, is he here?"
-msgstr "Velmi dobře. Ale tento...Mal-Ravanal, o kterém mluvíš, je zde?"
+msgstr "Velmi dobře. Ale tento... Mal-Ravanal, o kterém mluvíš, je zde?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:241
@@ -3257,17 +3257,17 @@ msgstr "Cítim, jak jeho magie prodlužuje noc, ale necítím jeho přítomnost.
 msgid ""
 "In any case, the undead are attacking now. Let us show them the might of "
 "Wesnoth!"
-msgstr "Každopádně nemrtvý už útočí. Ukážeme jim sílu Wesnothu!"
+msgstr "Každopádně nemrtví už útočí. Ukážeme jim sílu Wesnothu!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:256
 msgid "I have died, and with me gone the kingdom is lost."
-msgstr "Umírám a s mojí smrtí je králoství ztracené."
+msgstr "Umírám a s mojí smrtí je království ztracené."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:268
 msgid "Look, the sun has finally risen, and the undead are retreating."
-msgstr "Podívej, slunce konečně vychází a nemrtvý ustupují."
+msgstr "Podívej, slunce konečně vychází a nemrtví ustupují."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:281
@@ -3286,12 +3286,12 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:299
 msgid "Gweddry, have you made a decision regarding our course of action?"
-msgstr "Gweddry, už si dospěl k rozhodnutí ohledně našeho postupu?"
+msgstr "Gweddry, už jsi dospěl k rozhodnutí ohledně našeho postupu?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:304
 msgid "I have. I think we should..."
-msgstr "Ano. Myslím, že by jsme měli..."
+msgstr "Ano. Myslím, že bychom měli..."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:306
@@ -3306,7 +3306,7 @@ msgstr "Pošlu mu nyní zprávu."
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:320
 msgid "try to isolate Mal-Ravanal in battle."
-msgstr "pokus se obklíčit Mal-Ravanala v bitvě."
+msgstr "zkusit obklíčit Mal-Ravanala v bitvě."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:324
@@ -3338,12 +3338,12 @@ msgstr "Porazíš Mal-Ravanala pokud bude Dacyn nablízku"
 msgid ""
 "I have waited a long time for this day to come. I shall have my revenge, "
 "Dacyn!"
-msgstr "Na tento den jsem dlouho čekal. Konečne učiním svoji pomstu, Dacyne!"
+msgstr "Na tento den jsem dlouho čekal. Konečně vykonám svoji pomstu, Dacyne!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:101
 msgid "Indeed, it is time to end this."
-msgstr "Vskutku, je čas toto ukončit."
+msgstr "Vskutku, je čas to ukončit."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:107
@@ -3355,8 +3355,8 @@ msgid ""
 msgstr ""
 "Pravidla duelu jsou následující:\n"
 "Můžeš si naverbovat nebo přivolat maximálně 5 jednotek.\n"
-"Na konci prvního kola tvoje pevnost zmizí a musíš bojovat s tvými vojáky, "
-"které budeš mít k dispozici."
+"Na konci prvního kola tvoje pevnost zmizí a musíš bojovat pouze s těmi "
+"vojáky, které budeš v tu chvíli mít."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:115
@@ -3364,9 +3364,8 @@ msgid ""
 "When we attack Mal-Ravanal I will need to be nearby with the Null Stone to "
 "prevent his teleportation. We cannot afford to let him escape."
 msgstr ""
-"Když zaútočíme na Mal-Ravanala, budeme potřebovat, aby byl nablízku Nulového "
-"kamene, abychom zabránili jeho teleportaci. Nemůžeme si dovolit nechat ho "
-"utéct."
+"Až zaútočíme na Mal-Ravanala, potřebuji být nablízku s Nulovým kamenem, "
+"abych zabránil jeho teleportaci. Nemůžeme si dovolit nechat ho utéct."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:247
@@ -3587,7 +3586,7 @@ msgid ""
 "It is a great victory we have won here today, vanquishing the arch-lich Mal-"
 "Ravanal."
 msgstr ""
-"Je to velké vítězství, které jsem tu dnes vybojovali, porážka arci licha Mal-"
+"Je to velké vítězství, které jsme tu dnes vybojovali, porážka arci licha Mal-"
 "Ravanala."
 
 #. [message]: speaker=Gweddry
@@ -3614,7 +3613,7 @@ msgid ""
 "We will be years... perhaps decades... recovering from the ill he has "
 "wrought."
 msgstr ""
-"Budeme se roky... snad po desetilet... zotavovat ze škod, které způsobil."
+"Budeme se roky... snad po desetiletí... zotavovat ze škod, které způsobil."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:125
@@ -3638,8 +3637,8 @@ msgid ""
 "It shall be so. But first, know that you have served Us, and Our Kingdom, "
 "full well. We are minded to reward you."
 msgstr ""
-"Nechť se tak stane. Ale první, bychom neměli zapomenout jak jste sloužili "
-"Nám a Nášemu králoství. Mám v úmyslu Vás odměnit."
+"Nechť se tak stane. Ale v první řadě bychom neměli zapomenout, jak jste "
+"sloužili Nám a Našemu království. Mám v úmyslu vás odměnit."
 
 #. [message]: speaker=Konrad II
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:148
@@ -3647,14 +3646,14 @@ msgid ""
 "Sir Terraent, your service to the crown has been a beacon of light in these "
 "dark times. We are appointing you to command the River Guard in Estmark."
 msgstr ""
-"Sire Terraente, Tvá služby byla majákem v těchto temných časech. Tímto Tě "
+"Sire Terraente, Tvá služba byla majákem v těchto temných časech. Tímto Tě "
 "povyšuji na velitele Říční Stráže v Estmarku."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:152
 msgid ""
 "It is an honor to serve my kingdom, and I humbly accept your commission."
-msgstr "Je mi ctí sloužit svému králoství a pokorně příjmám Váš rozkaz."
+msgstr "Je mi ctí sloužit svému království a pokorně příjmám Váš rozkaz."
 
 #. [message]: speaker=Konrad II
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:164
@@ -3662,7 +3661,7 @@ msgid ""
 "Grug, Gweddry has told me of the help you and your tribe provided his men. "
 "We wish to offer you a new home in the Estmark Hills along with Our thanks."
 msgstr ""
-"Grug a Gweddry mi řekli o tvé pomoci, které jsi ty a tvůj klan poskytli jeho "
+"Grugu, Gweddry mi řekl o tvé pomoci, kterou jsi ty a tvůj klan poskytl jeho "
 "mužům. Rád bych vám přidělil nový domov v kopcích Estmarku spolu s naším "
 "vděkem."
 
@@ -3677,8 +3676,8 @@ msgid ""
 "Dacyn. I would have you remain by Our side, here; as you counseled these two "
 "in war, so shall you counsel Us in peace and the rebuilding of the Kingdom."
 msgstr ""
-"Dacyne. Zůstaneš po našem boku. Jak si dvakrát radil během válek, tak teď "
-"budeš radit i mě počas míru, jak znovu vybudovat království."
+"Dacyne. Zůstaneš po našem boku. Jak jsi dvakrát radil během válek, tak teď "
+"budeš radit i mně po čas míru, jak znovu vybudovat království."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:179
@@ -3691,7 +3690,7 @@ msgid ""
 "Engineer, much of Estmark region stands in ruins. The crown has need of your "
 "skills to clear the wreckage and organize the reconstruction."
 msgstr ""
-"Inženíře, většina Estmarku je v ruinách. Koruna bude potrebovat tvoje "
+"Inženýre, většina Estmarku je v ruinách. Koruna bude potřebovat tvoje "
 "schopnosti na vyčištění trosek a řízenou obnovu."
 
 #. [message]: speaker=Engineer
@@ -3721,9 +3720,9 @@ msgid ""
 "command to you your own wish; go from here, secure our borders, and show all "
 "that the might of Wesnoth will endure."
 msgstr ""
-"Vstaň, Owaecu, Rytíři a veliteli Královské jízdy. A vezmi si svůj první "
-"úkol, který je podle tvého přání; běž, zabezpeč naše hranice a ukáž všem, že "
-"moc Wesnothu trvá."
+"Vstaň, Owaeci, Rytíři a veliteli Královské jízdy. A přijmi svůj první úkol, "
+"který je podle tvého přání; běž, zabezpeč naše hranice a ukaž všem, že moc "
+"Wesnothu trvá."
 
 #. [message]: speaker=Konrad II
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:251
