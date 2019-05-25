@@ -8,36 +8,36 @@ Czech translations of The Battle for Wesnoth
 ## Translations Stats
 | Text Domain            | %        |
 | ---------------------- |:--------:|
-| `wesnoth`              | **95%**  |
-| `wesnoth-ai`           | **61%**  |
+| `wesnoth`              | **94%**  |
+| `wesnoth-ai`           | **62%**  |
 | `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
-| `wesnoth-aoi`          | **100%** |
-| `wesnoth-did`          | **95%**  |
+| `wesnoth-aoi`          | **99%**  |
+| `wesnoth-did`          | **22%**  |
 | `wesnoth-dm`           | **100%** |
-| `wesnoth-dw`           | **100%** |
+| `wesnoth-dw`           | **99%**  |
 | `wesnoth-editor`       | **100%** |
-| `wesnoth-ei`           | **100%** |
-| `wesnoth-help`         | **95%**  |
-| `wesnoth-httt`         | **99%**  |
-| `wesnoth-l`            | **100%** |
-| `wesnoth-lib`          | **94%**  |
-| `wesnoth-low`          | **100%** |
+| `wesnoth-ei`           | **99%**  |
+| `wesnoth-help`         | **94%**  |
+| `wesnoth-httt`         | **98%**  |
+| `wesnoth-l`            | **98%**  |
+| `wesnoth-lib`          | **93%**  |
+| `wesnoth-low`          | **99%**  |
 | `wesnoth-manpages`     | **64%**  |
 | `wesnoth-manual`       | **96%**  |
-| `wesnoth-multiplayer`  | **82%**  |
+| `wesnoth-multiplayer`  | **80%**  |
 | `wesnoth-nr`           | **91%**  |
 | `wesnoth-sof`          | **98%**  |
-| `wesnoth-sota`         | **98%**  |
+| `wesnoth-sota`         | **97%**  |
 | `wesnoth-sotbe`        | **100%** |
 | `wesnoth-steam`        | **100%** |
-| `wesnoth-tb`           | **100%** |
+| `wesnoth-tb`           | **95%**  |
 | `wesnoth-test`         | **100%** |
-| `wesnoth-thot`         | **86%**  |
-| `wesnoth-trow`         | **100%** |
+| `wesnoth-thot`         | **84%**  |
+| `wesnoth-trow`         | **99%**  |
 | `wesnoth-tsg`          | **29%**  |
-| `wesnoth-tutorial`     | **65%**  |
-| `wesnoth-units`        | **82%**  |
+| `wesnoth-tutorial`     | **64%**  |
+| `wesnoth-units`        | **81%**  |
 | `wesnoth-utbs`         | **96%**  |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
@@ -48,7 +48,8 @@ Czech translations of The Battle for Wesnoth
 ## Contributors
 * [SuperTukan](https://github.com/SuperTukan)
 * [tapikuv](https://github.com/tapikuv)
-* [Dondor17](https://github.com/tapikuv)
+* [Dondor17](https://github.com/Dondor17)
+* [celerini](https://github.com/celerini)
 
 ## wesnoth-announcement
 `wesnoth-announcement.po` originate from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
