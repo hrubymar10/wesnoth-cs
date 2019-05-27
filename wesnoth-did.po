@@ -33,7 +33,7 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:14
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:5
 msgid "Descent into Darkness"
-msgstr "Pád Do Temnoty"
+msgstr "Pád do Temnoty"
 
 #. [campaign]: id=Descent_into_Darkness
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:15
@@ -77,7 +77,7 @@ msgid ""
 "orcish incursion.\n"
 "\n"
 msgstr ""
-"Nauč se temnému umění nekromancie, aby jsi zachránil svůj lid od skřetích "
+"Nauč se temnému umění nekromancie, abys zachránil svůj lid od skřetích "
 "útoků.\n"
 "\n"
 
@@ -88,27 +88,23 @@ msgstr "(Obtížnost: pokročilý hráč, 12 scénářů)"
 
 #. [about]
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:28
-#, fuzzy
-#| msgid "Campaign Design"
 msgid "Original Campaign Design"
-msgstr "Návrh tažení"
+msgstr "Původní návrh tažení"
 
 #. [about]
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:34
-#, fuzzy
-#| msgid "Campaign Design"
 msgid "Latest Campaign Revision"
-msgstr "Návrh tažení"
+msgstr "Poslední úprava tažení"
 
 #. [about]
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:40
 msgid "Artwork and Graphics Design"
-msgstr "Kresby a grafika"
+msgstr "Kresby a grafika"
 
 #. [about]
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:55
 msgid "Dialogue Comments and Revisions"
-msgstr ""
+msgstr "Poznámky a úpravy rozhovorů"
 
 #. [scenario]: id=01_Saving_Parthyn
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:5
@@ -127,15 +123,6 @@ msgstr "Záchrana Parthynu"
 #. Things to be careful about while editing: there are some poems in S8 and S11, please be mindful when making wording changes there. Some commas are added for readability even though they may not be grammatically correct.
 #. If the target language has a specialized term for a fortified town, like Latin "oppidum", use it for Parthyn.
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:33
-#, fuzzy
-#| msgid ""
-#| "Malin Keshar was born ten years after the death of Haldric IV. He grew up "
-#| "in the northern border town of Parthyn, the second child and eldest son "
-#| "of the baron of the city. Every summer when the mountain passes became "
-#| "clear, orcs came down from the north to prove themselves in battle. Every "
-#| "year Parthyn’s guards repelled the raids, though some of the townsfolk "
-#| "were always lost. Malin’s father led raiding parties to disrupt the orc "
-#| "encampments and send the orcs back to the north."
 msgid ""
 "Malin Keshar was born ten years after the death of Haldric IV. He grew up in "
 "the northern border town of Parthyn, the second child and eldest son of the "
@@ -145,13 +132,12 @@ msgid ""
 "led the townsfolk to repel the raids and force the orcs to retreat back to "
 "the north."
 msgstr ""
-"Malin Kešar se narodil 10 let po smrti Haldrika IV. Vyrostl na severu v "
-"pohraničním městě Parthyn, jako druhé dítě a nejstarší syn zdejšího barona. "
-"Každé léto, když sníh ustoupil z horských průsmyků, scházeli skřeti z hor ze "
-"severu, aby složili zkoušku v bitvě. Každý rok je Parthynská stráž zahnala, "
-"ale pokaždé při tom někdo z Parthynských zemřel. Malinův otec vedl jízdní "
-"oddíl, jehož úkolem bylo zničit skřetí tábory a zahnat nájezdníky zpět na "
-"sever."
+"Malin Kešar se narodil deset let po smrti Haldrika IV. Vyrostl na severu "
+"v pohraničním městě Parthyn jako druhé dítě a nejstarší syn zdejšího barona. "
+"Každé léto v čase, kdy horské cesty a vysoké průsmyky vysvlékly svůj zimní "
+"háv, sestupovali skřeti ze severních kopců, aby pustošili pohraniční osady. "
+"Každý rok vedl Malinův otec obyvatele města, aby odrazili nájezdníky "
+"a přinutili skřety stáhnout se zpět na sever."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:37
@@ -162,6 +148,11 @@ msgid ""
 "magic from basic control over the elements, to the mystic arts and scrying, "
 "to alchemy and simple medicine."
 msgstr ""
+"Když bylo Malinovi deset, kolemjdoucí mág vycítil v chlapci silné magické "
+"schopnosti a doporučil, aby byl poslán na ostrov Alduin, kde by se cvičil "
+"v magických uměních. Malin zde studoval osm let a naučil se nejrůznější "
+"způsoby magie od základního ovládání živlů přes mystická umění a věštění až "
+"po alchymii a jednoduché lékařství."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:41
@@ -174,6 +165,12 @@ msgid ""
 "of failed experiments, one of which took the life of a fellow student. For "
 "his transgressions, he was expelled."
 msgstr ""
+"Ačkoli jeho žití na Alduinu bylo přepychové a pokojné, Malin zjistil, že "
+"učení mágských odborníků je na jeho vkus až příliš klidné. V myšlenkách se "
+"vracel zpátky do Parthynu, kde byla k odražení skřetů nutná hrubá síla "
+"a nikoli teoretické úvahy. Časem začal na vlastní pěst zkoumat nová kouzla, "
+"ale nedostatek jeho zkušeností vedl k řadě neúspěšných pokusů, z nichž jeden "
+"si vyžádal život spolužáka. Za své přestupky byl vyloučen."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:45
@@ -184,15 +181,14 @@ msgid ""
 "night, a particularly powerful strike stormed the city and Malin could only "
 "watch as his father was cut down by one of the savage orcish warriors."
 msgstr ""
+"Když se Malin vrátil do Parthynu, město už bylo pod útokem skřetů. Přestože "
+"dělal vše, co mohl, aby je odrazil, nájezdníci byli mnohem neústupnější "
+"a obrana města daleko slabší, než si pamatoval. Jedné noci se městem přehnal "
+"zvlášť silný útok a Malin mohl pouze přihlížet, jak byl jeho otec poražen "
+"divokým skřetím válečníkem."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:49
-#, fuzzy
-#| msgid ""
-#| "Shaken by the loss of their commander, the human defense began to falter. "
-#| "As the orcs roared in anticipation of victory, skeleton warriors poured "
-#| "out of the woods to the orcs’ rear. The soldiers watched in amazement as "
-#| "the skeletons cut down orc after orc and then melted back into the forest."
 msgid ""
 "Shaken by the loss of their commander, the human defense began to falter. "
 "The orcs roared in anticipation of victory, but before they could overrun "
@@ -203,22 +199,17 @@ msgid ""
 "bleeding with fetid magic. All was dreadfully still as the blood and carnage "
 "settled in the rank darkness."
 msgstr ""
-"Snad šokem ze ztráty svého velitele, začala obrana města ochabovat. Avšak "
-"právě ve chvíli, kdy skřeti vycítili vítězství, vyhrnuli se zpoza stromů "
-"kostliví válečníci a vpadli skřetům přímo do zad. Vojáci v úžasu pozorovali, "
-"jak kostlivci rozsekali jednoho skřeta za druhým a po bitvě se zase zpátky "
-"rozplynuli v lese."
+"Otřeseni ztrátou svého velitele, začali lidští obránci ochabovat. Skřeti "
+"řičeli v očekávání vítězství, ale před tím, než mohli obsadit město, "
+"vyhrnula se z lesa záplava kostlivých válečníků a vpadla jim do zad. Nemrtví "
+"poráželi skřeta za skřetem, meče a sekery roztínaly maso a kosti s neúnavnou "
+"účinností. Vojáci sledovali napůl v úžasu a napůl se strachem klesající "
+"skřety a k nim obrácené kostlivce, z jejichž prázdných očí vyzařovalo "
+"páchnoucí kouzlo. Zavládl děsivý klid, jak se krvavý masakr nořil do odporné "
+"temnoty."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:53
-#, fuzzy
-#| msgid ""
-#| "Shortly a man dressed in the robes of a necromancer emerged from the "
-#| "trees. <i>“Allow me to introduce myself. I am Darken Volk. While I know "
-#| "your kingdom does not love my kind, I think it vital that we put aside "
-#| "our differences for the moment. The orc menace grows in the North, and I "
-#| "misdoubt any of the border towns can stand without some assistance. For "
-#| "now, I ask only to rest in your town for a few days.”</i>"
 msgid ""
 "The silence was broken by the irregular shuffle of a man emerging from the "
 "trees. He stood before them, a hunched figure with a rasping voice "
@@ -228,22 +219,16 @@ msgid ""
 "in even greater force. You cannot hope to defend against them without my... "
 "help.”</i>"
 msgstr ""
-"Chvíli poté vyšel z lesa muž v róbě nekromanta. <i>„Dovolte mi, abych se "
-"představil. Jsem Darken Volk. Vím, že vaše království nemá zrovna v lásce "
-"takové, jako jsme já, ale myslím, že je důležité, abychom na naše rozdíly na "
-"chvíli zapomněli. Skřetí hrozba na severu roste a pochybuji, že nějaké "
-"pohraniční město může obstát samo bez pomoci. Pro teď jen žádám, abych si "
-"mohl na chvíli odpočinout ve vašem městě.“</i>"
+"Ticho bylo přerušeno nepravidelným zvukem šourajících nohou muže vynořivšího "
+"se z lesa. Stál před nimi, shrbená postava s chraplavým hlasem připomínající "
+"skřípající kosti. <i>„Jsem Darken Volk. I když vím, že nemáte našince "
+"v lásce, mám za to, že je životně důležité, abychom na chvíli odložili "
+"stranou naše vzájemné odlišnosti. Na severu roste skřetí hrozba a oni se "
+"brzy vrátí v ještě větší síle. Nemůžete doufat, že se jim ubráníte bez mé... "
+"pomoci.”</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:57
-#, fuzzy
-#| msgid ""
-#| "Drogan, the captain of the guard, replied, <i>“Surely you know that the "
-#| "penalty for necromancy is death. For your aid we will promise you rest "
-#| "and safety. Upon your departure, however, you are banished from these "
-#| "lands, not to return on pain of death. We thank you for your help, but "
-#| "need no alliances with those who deal only in dark magic.”</i>"
 msgid ""
 "Drogan, the captain of the guard, replied, <i>“Nay, you surely know that the "
 "penalty for necromancy is death. Seeing that you have saved our village, "
@@ -251,26 +236,21 @@ msgid ""
 "your departure, you are banished from Parthyn. Should you return, we will "
 "attack you on sight.”</i>"
 msgstr ""
-"Drogan, kapitán stráže odpověděl: <i>„Jistě víte, že trestem za nekromancii "
-"je smrt. Za vaši pomoc vám ale slibujeme odpočinek a bezpečnost. Po vašem "
-"odjezdu však budete vyhoštěn z těchto zemí pod hrozbou smrti. Děkujeme vám "
-"za vaši pomoc, ale nebudeme se spolčovat s těmi co používají temnou magii.“</"
-"i>"
+"Kapitán stráže Drogan odpověděl: <i>„Mno, jistě víte, že trestem za "
+"nekromancii je smrt. Vzhledem k tomu, že jste zachránil naši obec, však "
+"dovolíme, abyste si tu několik málo dní odpočinul. Nicméně ihned po vašem "
+"odjezdu budete z Parthynu vypovězen. Pokud se vrátíte, zaútočíme na vás bez "
+"varování.“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:61
-#, fuzzy
-#| msgid ""
-#| "Malin, troubled by his father’s death, argues to no avail that Darken "
-#| "Volk be allowed to stay to help defend the town. The necromancer leaves "
-#| "Parthyn without incident."
 msgid ""
 "Malin, troubled by his father’s death and the strength of the orcish "
 "assault, argued to no avail that Darken Volk be allowed to stay. After a "
 "couple days, the necromancer left Parthyn without incident."
 msgstr ""
-"Malin, zarmoucený otcovou smrtí, zbytečně žádal, aby Darken Volk mohl zůstat "
-"a pomoci při ochraně města. Nekromant opustil Parthyn bez rozruchu."
+"Malin, znepokojen otcovou smrtí a silou skřetího útoku, se marně přel o to, "
+"aby mohl Darken Volk zůstat. Za pár dní nekromant v tichosti opustil Parthyn."
 
 #. [side]
 #. [side]: type=Sergeant, id=Drogan
@@ -327,15 +307,13 @@ msgstr "Ubraň říční brod po dvě noci"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:185
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:173
-#, fuzzy
-#| msgid "Kill the orc leader"
 msgid "Kill the orcish leader"
 msgstr "Zabij skřetího velitele"
 
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:189
 msgid "Orcs reach the outskirts of Parthyn"
-msgstr ""
+msgstr "Skřeti dosáhnou okraje Parthynu"
 
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:193
@@ -371,11 +349,13 @@ msgid ""
 "Was it really a good idea to send out a raiding party so soon after the orcs "
 "just attacked us? Even father is no longer here..."
 msgstr ""
+"Vážně to byl dobrý nápad vyslat jízdní oddíl tak brzy po útoku skřetů? Ani "
+"otec už tu není..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:219
 msgid "Nor is Darken Volk. We are truly defenseless."
-msgstr ""
+msgstr "A ani Darken Volk. Jsme opravdu bezbranní."
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:224
@@ -383,6 +363,8 @@ msgid ""
 "Not like we needed him. I cannot believe that you would even consider "
 "trusting a necromancer!"
 msgstr ""
+"Ne že bychom ho potřebovali. Nemůžu uvěřit, že jsi vůbec zvažoval důvěřovat "
+"nekromantovi!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:229
@@ -391,18 +373,19 @@ msgid ""
 "assault, the orcish encampments will be greatly weakened. The raiding party "
 "should be able to clear them out and leave us a relatively quiet summer."
 msgstr ""
+"Přestaňte se hašteřit, vy dva. Potom, co byla při útoku většina jejich sil "
+"zmasakrovaná, budou skřetí ležení notně oslabená. Jízdní oddíl by měl být "
+"schopen je vyčistit a nastolit tak poměrně klidné léto."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:234
-#, fuzzy
-#| msgid "So much for quiet, Drogan. Orcs mass north of the river!"
 msgid "So much for quiet, Drogan. Orcs amass north of the river!"
 msgstr "Tolik ke klidu, Drogane. Skřeti se hromadí na sever od řeky!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:239
 msgid "What? Curses! How can there still be so many of them?"
-msgstr ""
+msgstr "Cože? Proklatě! Jak to, že je jich pořád tolik?"
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:244
@@ -410,51 +393,40 @@ msgid ""
 "You sent most of our soldiers away to attack the orcs, and we haven’t even "
 "begun to rebuild the city walls..."
 msgstr ""
+"Poslal jsi většinu našich vojáků pryč, aby napadli skřety a my ani nezačali "
+"s opravou městských hradeb..."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:249
-#, fuzzy
-#| msgid ""
-#| "Curse them! You must hold the river fort, Malin, or they shall surely "
-#| "overrun the town. I will bring what soldiers remain to your aid. The "
-#| "raiding party is due to return in two days, and the orcs will not dare "
-#| "fight with such a force attacking from behind."
 msgid ""
 "Quiet, you. Malin, you must hold the river fort, or they shall surely "
 "overrun the town. If you can defend for two days, the raiding party should "
 "return by then and we will be able to fight the orcs off. For now, I will "
 "bring what soldiers remain to your aid."
 msgstr ""
-"Proklínám je! Musíš udržet říční brod, Maline, nebo město určitě padne. "
-"Pošlu ti zbývající vojáky na pomoc. Naše jízda se vrátí během dvou dnů a "
-"skřeti se neodváží bojovat s takovou silou útočící na ně zezadu."
+"Buď zticha. Maline, musíš udržet říční brod nebo město určitě padne. Jestli "
+"ho dokážeš ubránit dva dny, jízda by se měla tou dobou vrátit a my budeme "
+"schopni skřety odrazit. Zatím ti pošlu na pomoc zbývající vojáky."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:263
-#, fuzzy
-#| msgid "What in blazes is that thing? Has the necromancer returned?"
 msgid ""
 "What in blazes is that thing? Has the necromancer returned? His timing could "
 "not be worse..."
-msgstr "Co je sakra tohle? Nekromant se vrátil?"
+msgstr ""
+"Co je sakra tohle? Nekromant se vrátil? Nemohl si vybrat horší načasování..."
 
 #. [message]: speaker=Malin Keshar
 #. stewpots means a big pot that orcs cook things in, like humans in this case
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:270
-#, fuzzy
-#| msgid ""
-#| "No, Drogan. I raised this corpse with the skills Darken Volk taught to me "
-#| "before he left. While I have no love for it, without the help of the dead "
-#| "we consign ourselves and our families to orcish stewpots! Surely you can "
-#| "see that!"
 msgid ""
 "No, Drogan. I raised this corpse with the skills Darken Volk taught me "
 "before he left. While I have no love for it, without the help of the dead, "
 "we consign ourselves and our families to orcish stewpots!"
 msgstr ""
 "Ne, Drogane. Pozvedl jsem tuto mrtvolu díky znalostem, které mi Darken Volk "
-"předal předtím, než odešel. I když se mi to nelíbí, bez pomoci mrtvých "
-"odsuzujeme sami sebe a naše rodiny ke skřetí nadvládě. To snad vidíš sám!"
+"předal předtím, než odešel. I když se mi to nelíbí, bez pomoci mrtvých "
+"posíláme sami sebe a naše rodiny do skřetích hrnců!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:275
@@ -462,48 +434,40 @@ msgid ""
 "You say it will ensure our survival, but at what price? Defiling the bodies "
 "of our dead? Your soul, sold to black magic?"
 msgstr ""
+"Říkáš, že nám to zajistí přežití, ale za jakou cenu? Zneuctěná těla našich "
+"mrtvých? Tvá duše zaprodaná černé magii?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:280
 msgid "What? I am hardly evil, Drogan!"
-msgstr ""
+msgstr "Co? Nejsem tak zlý, Drogane!"
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:285
-#, fuzzy
-#| msgid ""
-#| "No benefit is worth the price of defiling the bodies of our dead! You "
-#| "have been very close-mouthed about why the mages sent you home from "
-#| "Alduin; if it was for dabbling in such arts, it is no wonder they cast "
-#| "you out!"
 msgid ""
 "You say that, brother, but you have been very close-mouthed about why the "
 "mages sent you home from Alduin. I am beginning to think that you were "
 "already dabbling in this witchcraft even before you met that necromancer!"
 msgstr ""
-"Žádná výhoda nesmí být získána na úkor pošpinění těl našich mrtvých! Nebyl "
-"jsi moc sdílný ohledně toho, proč tě mágové poslali domů z Alduinu. Jestli "
-"to bylo kvůli pohrávání si s takovou mocí, není divu, že tě vyhnali!"
+"To říkáš ty, bratříčku, ale nebyl jsi moc sdílný ohledně toho, proč tě "
+"mágové poslali domů z Alduinu. Začínám si myslet, že už sis s tímhle "
+"čarodějnictvím zahrával ještě před tím, než jsi potkal nekromanta!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:290
-#, fuzzy
-#| msgid ""
-#| "No! No... it was nothing like that... But I will not stand by and allow "
-#| "the orcs to destroy my home while I have the skills to prevent it!"
 msgid ""
 "No! No... it was something stupid, something silly... it does not matter "
 "now! I will not stand by and allow the orcs to destroy my home while I have "
 "the skills to prevent it!"
 msgstr ""
-"Ne! Ne... nebylo to nic takového... ale nebudu tu stát a sledovat, jak "
-"skřeti ničí můj domov, přestože mám moc tomu zabránit!"
+"Ne! Ne... bylo to něco pitomého, hloupého... to je teď jedno! Nebudu tu stát "
+"a sledovat, jak skřeti ničí můj domov, přestože mám moc tomu zabránit!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:305
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:517
 msgid "Welcome to Parthyn"
-msgstr "Vítejte v Parthynu"
+msgstr "Vítejte v Parthynu"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:320
@@ -511,15 +475,13 @@ msgid ""
 "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. "
 "Hate leads to suffering."
 msgstr ""
-"Strach se cestou k temné straně. Strach vede k hněvu. Hněv vede k nenávisti. "
-"Nenávist vede k utrpení."
+"Strach je cestou na temnou stranu. Strach vede k hněvu. Hněv vede "
+"k nenávisti. Nenávist vede k utrpení."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:337
-#, fuzzy
-#| msgid "The orcs have broken through our line. Parthyn is open to attack!"
 msgid "The orcs have broken through. Parthyn is open to attack!"
-msgstr "Skřeti prolomili naše linie. Parthyn není chráněný před útokem!"
+msgstr "Skřeti prorazili. Parthyn není chráněný před útokem!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:354
@@ -529,7 +491,7 @@ msgstr "Kdo zbude na obranu Parthynu?"
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:370
 msgid "I’m... dying..."
-msgstr ""
+msgstr "Já... umírám..."
 
 #. [message]: speaker=Soldier
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:401
@@ -537,6 +499,8 @@ msgid ""
 "We’ve returned from ransacking the orcish camps, Drogan. It seems like we’re "
 "just in time!"
 msgstr ""
+"Vrátili jsme se z plenění skřetích táborů, Drogane. Zdá se, že jdeme právě "
+"včas!"
 
 #. [message]: speaker=Kreg'a'shar Trr
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:405
@@ -544,13 +508,13 @@ msgid ""
 "More humans! We will need the Chief if we are to fight them now. Grunts, "
 "retreat!"
 msgstr ""
+"Další lidi! Budeme potřebovat náčelníka, jestli s nima máme teď bojovat. "
+"Pěšáci, ústup!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:425
-#, fuzzy
-#| msgid "The orcs are broken, dead or fled."
 msgid "The orcs are dead!"
-msgstr "Skřeti jsou poraženi, mrtví nebo rozprášení."
+msgstr "Skřeti jsou mrtví!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:452
