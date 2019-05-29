@@ -689,17 +689,10 @@ msgstr "Nakonec uvidíš, že mám pravdu, Delo. Už jsem se rozhodl."
 #. [scenario]: id=02_Peaceful_Valley
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:5
 msgid "Peaceful Valley"
-msgstr "Mírumilovné údolí"
+msgstr "Poklidné údolí"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:20
-#, fuzzy
-#| msgid ""
-#| "Fighting tears and rage, Malin follows the back-trail of the orcish band. "
-#| "He curses the elder mages for sending him from the Isle of Alduin half-"
-#| "prepared, only to be thrust into conflict. He curses Drogan for lacking "
-#| "the courage to see what must be done. Most fiercely, he curses the orcs "
-#| "for ravaging his family and home through their ceaseless attacks."
 msgid ""
 "Bitter and alone, Malin follows the back-trail of the orcish band north from "
 "Parthyn. He curses the mages for casting him out from the Isle of Alduin "
@@ -708,21 +701,15 @@ msgid ""
 "fiercely, he curses the orcs for their mindless savagery, pillagers and "
 "raiders who view violence as little more than sport."
 msgstr ""
-"Bojujíc se slzami a vztekem, Malin sledoval stopu skřetí bandy. Proklínal "
-"starší mágy za to, že ho poslali z Ostrova Alduin napůl připraveného, jen "
-"aby se ocitl ihned v boji. Proklínal Drogana, že neměl odvahu udělat to, co "
-"je nezbytné. Ale nejdivočeji proklínal skřety za zničení jeho rodiny a "
-"domova jejich neustálými útoky."
+"Zahořklý a sám, Malin sledoval stopu skřetí bandy severně od Parthynu. "
+"Proklínal mágy za to, že ho vyhnali z ostrova Alduinu jen napůl vycvičeného "
+"a nepřipraveného na střet. Proklínal Drogana, že mu chybělo odhodlání učinit "
+"nezbytnou oběť na ochranu jejich domovů. Ale nejdivočeji proklínal skřety "
+"pro jejich tupou divokost, drancíře a nájezdníky, kteří vidí v násilí jen "
+"trochu víc než sport."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:24
-#, fuzzy
-#| msgid ""
-#| "Three days’ travel outside Parthyn, Malin meets Darken Volk, the same "
-#| "necromancer who had saved Parthyn and taught Malin to raise the dead not "
-#| "long ago. The necromancer takes pity on Malin in his friendless state, "
-#| "and asks Malin to travel with him. As the weeks pass, he teaches Malin "
-#| "more dark magic."
 msgid ""
 "Three days’ travel northeast, Malin stumbles upon Darken Volk, the "
 "necromancer who had saved Parthyn and taught him to raise the dead. The dark "
@@ -730,10 +717,11 @@ msgid ""
 "abandoned by his kinsmen. As the weeks pass, Darken Volk teaches Malin more "
 "dark magic."
 msgstr ""
-"Tři dny cesty od Parthynu potkal Malin Darken Volka, toho nekromanta, který "
-"zachránil Parthyn a naučil Malina pozvednout nedávné zemřelé. Nekromant se "
-"slitoval nad zuboženým Malinem a přizval ho, aby cestoval s ním. Jak týdny "
-"plynuly, učil Malina více temných kouzel."
+"Tři dny cesty na severovýchod Malin narazil na Darken Volka, toho "
+"nekromanta, který zachránil Parthyn a naučil Malina pozvednout zemřelé. "
+"Temný mág navrhl, aby cestovali společně; Malin, opuštěn vlastními "
+"příbuznými, vyhověl. Jak plynou týdny, učí Darken Volk Malina více temných "
+"kouzel."
 
 #. [side]
 #. [unit]: id=Malin Keshar, type=Dark Mage
@@ -779,13 +767,6 @@ msgstr "Darken Volk zemře"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:121
-#, fuzzy
-#| msgid ""
-#| "In truth, I share your hatred for the orcs. The Northlands have been "
-#| "my... home... for many years, and the orcs have been a growing "
-#| "infestation in them. They despoil the beauty of the land wherever they "
-#| "go. If you are interested, I would be happy to take you on as my "
-#| "apprentice so that you can... aid me in the fight against them."
 msgid ""
 "In truth, I share your hatred for the orcs. The Northlands have been my home "
 "for many years and the orcs have been a growing infestation in recent times. "
@@ -794,10 +775,11 @@ msgid ""
 "but brutish barbarians. If you are interested, I would be happy to take you "
 "on as my... apprentice... so that you can aid me in the fight against them."
 msgstr ""
-"Popravdě, sdílím tvou nenávist ke skřetům. Severní země byly mým... "
-"domovem... po mnoho let, ale skřeti je zamořili. Vydrancují zemi a zbaví "
-"krásy, všude kde se objeví. Jestli máš zájem, rád tě učiním svým učněm, "
-"takže mi budeš moci... pomoct v boji proti nim."
+"Popravdě sdílím tvou nenávist ke skřetům. Severní země byly mým domovem po "
+"mnoho let a v nedávné době vzrostlo jejich zamoření skřety. Kamkoli přijdou, "
+"plundrují krásy přírody, sekají a pálí lesy a zvěř svými hrubými zbraněmi. "
+"Vskutku nejsou nic víc než krutí divoši. Jestli máš zájem, rád tě učiním "
+"svým... učněm..., takže mi můžeš pomoci v boji proti nim."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:126
@@ -806,19 +788,18 @@ msgid ""
 "name. It is time someone did the same to them. They deserve to suffer for "
 "what they have done to us."
 msgstr ""
+"Ano! Tahle odporná stvoření zničila naše životy více způsoby, než můžu "
+"pojmenovat. Je čas, aby jim to někdo oplatil. Zaslouží si trpět za to, co "
+"nám udělali."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:131
-#, fuzzy
-#| msgid ""
-#| "Who knows? Perhaps removing the threat of orc raids will persuade the "
-#| "people of Parthyn to... welcome you home."
 msgid ""
 "Perhaps removing the threat of orcish raids will persuade the people of "
 "Parthyn to welcome you home."
 msgstr ""
-"Kdo ví? Možná odstraněním nebezpečí skřetích nájezdů přesvědčí lid Parthynu, "
-"aby tě opět uvítal doma."
+"Možná by odstranění hrozby skřetích nájezdů přimělo lid Parthynu, aby tě "
+"opět uvítal doma."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:136
@@ -826,6 +807,9 @@ msgid ""
 "They should be grateful. Imagine. No need to rebuild our homes year after "
 "year. No more needless deaths, no more senseless bloodshed, no more fear..."
 msgstr ""
+"Měli by být vděčni. Zkus si to představit. Už nebude třeba rok co rok znovu "
+"budovat naše domovy. Už žádná zbytečná úmrtí, žádné nesmyslné krveprolití, "
+"žádný strach..."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:141
@@ -833,37 +817,31 @@ msgid ""
 "But first, training. The orcs are powerful in the hills, strong enough that "
 "even I dare not confront them directly."
 msgstr ""
+"Ale nejprve výcvik. Skřeti jsou v horách mocní, příliš silní na to, abych si "
+"troufnul utkat se s nimi tváří v tvář."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:146
 msgid "Then what shall we do?"
-msgstr ""
+msgstr "Co tedy máme dělat?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:151
-#, fuzzy
-#| msgid ""
-#| "A goblin village lies in this valley, just ahead. They are a bastard race "
-#| "born of the orcs, and help them in their wars against humans and dwarves. "
-#| "These do not know of our coming. Subduing them will give us souls upon "
-#| "which to call in our fight against the orcs."
 msgid ""
 "Strike at them where they are weak. A goblin village lies in this valley, "
 "just ahead. They are the bastard children of the orcs, feeble creatures "
 "individually, but annoying enough in large numbers. Subduing them will "
 "provide us a supply of fresh corpses and souls to use against the orcs."
 msgstr ""
-"Gobliní vesnice leží v údolí přímo před námi. Jsou zvrhlá rasa zrozená ze "
-"skřetů a pomáhají jim v jejich válce proti lidem a trpaslíkům. Nevědí o "
-"našem příchodu. Jejich podrobení nám dá duše, které můžeme povolat v boji "
-"proti skřetům."
+"Zasáhnout je tam, kde jsou slabí. V údolí přímo před námi leží gobliní "
+"vesnice. Jsou to skřetí parchanti, jako jednotlivci chabá stvoření, ale dost "
+"protivní ve větším počtu. Jejich podrobení nám poskytne zásobu čerstvých "
+"mrtvol a duší, kterou použijeme proti skřetům."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:156
-#, fuzzy
-#| msgid "It will be a worthwhile test of your new skills."
 msgid "... It will be a worthwhile test of your skills."
-msgstr "Bude to hodnotný test tvých nových schopností."
+msgstr "... Bude to přínosná zkouška tvých dovedností."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:170
@@ -891,32 +869,23 @@ msgstr "Ed"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:293
-#, fuzzy
-#| msgid ""
-#| "Ahhh... I did not realize there was a swamp near this village. Malin, I "
-#| "believe it would be beneficial for your training if you and I were to "
-#| "investigate the swamp."
 msgid ""
 "Ahhh... I did not realize there was a swamp near this village. Malin, it "
 "would be beneficial for your training if you and I were to investigate the "
 "swamp."
 msgstr ""
-"Ahhh... neuvědomil jsem si, že je tu bažina. Věřím, že bude prospěšné pro "
-"tvůj výcvik, když ty a já tu bažinu prozkoumáme."
+"Ahhh... neuvědomil jsem si, že je tu blízko vesnice bažina. Maline, pro tvůj "
+"výcvik bude prospěšné, když ty a já tu bažinu prozkoumáme."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:308
-#, fuzzy
-#| msgid "Rise, rise from the realms of death and decay!"
 msgid "Rise from the realms of death and decay!"
-msgstr "Povstaňte, povstaňte z říše smrti a rozkladu!"
+msgstr "Povstaňte z říší smrti a rozkladu!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:345
-#, fuzzy
-#| msgid "What are those things?"
 msgid "What are these things?"
-msgstr "Co to je?"
+msgstr "Co jsou tyto věci?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:350
@@ -925,6 +894,9 @@ msgid ""
 "of disease and poison. Those that outlive their masters gravitate towards "
 "the natural decay present in swamps and bogs."
 msgstr ""
+"Jsou to požírači mrtvých: odporné bytosti přetvořené z živého masa na těla "
+"choroby a jedu. Ti, kteří přežijí své pány, tíhnou k místům přirozeného "
+"rozkladu, jako jsou bažiny a močály."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:355
@@ -933,22 +905,16 @@ msgstr "Zdá se kruté je přeměnit do tak odporné formy."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:360
-#, fuzzy
-#| msgid ""
-#| "They are ghouls. Once, they were... evil men... murderers and outlaws. "
-#| "Through magic they have been transformed so their outsides match the "
-#| "spirits within. Those that outlive their masters gravitate towards the "
-#| "swamps and bogs, drawn by the natural decay there."
 msgid ""
 "You need not pity them. Once, these were... evil men... murderers and "
 "outlaws, no better than the orcs you hunt. I have transformed them so their "
 "physical forms match the spirits within. Is that not fitting? No punishment "
 "is too great for their kind."
 msgstr ""
-"To jsou požírači mrtvých. Kdysi byli... zlými muži... vrahy a psanci. Díky "
-"magii byli přetvořeni, takže jejich zevnějšek odráží jejich ducha uvnitř. "
-"Tihle tu přežili své pány, protože je přitahují močály a bažiny, kde je "
-"obklopuje přirozený rozklad."
+"Nemusíš je litovat. Kdysi byli... zlými muži... vrahy a psanci, ne lepší než "
+"skřeti, které hledáš. Přeměnil jsem je tak, že jejich tělesná podoba "
+"odpovídá duchu uvnitř. Není to příhodné? Žádný trest není dost velký pro "
+"takové jako jsou oni."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:365
@@ -958,20 +924,16 @@ msgstr "Asi ano..."
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:377
 msgid "The goblin knight is dead, master."
-msgstr ""
+msgstr "Gobliní rytíř je mrtvý, mistře."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:413
-#, fuzzy
-#| msgid ""
-#| "Sacking goblin villages is all well and good, but walking corpses and "
-#| "bats won’t stand up to full orcish warriors."
 msgid ""
 "Sacking goblin villages is all well and good, but walking corpses and bats "
 "will not stand up to full orcish warriors."
 msgstr ""
-"Drancování gobliních vesnic je velmi jednoduché, ale těla bez duše a "
-"netopýři nemohou obstát proti opravdovým skřetím vojákům."
+"Nic proti zabírání gobliních vesnic, ale těla bez duše a netopýři nemohou "
+"obstát proti opravdovým skřetím vojákům."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:418
@@ -981,13 +943,15 @@ msgid ""
 "mastered the basics, we will then assault the orcs and you will see your "
 "forces grow quickly."
 msgstr ""
+"Měj trochu trpělivosti. Sotva jsme začali s tvým výcvikem. Tyto mrtvoly "
+"a duše ti doplní zásoby na procvičování. Až zvládneš základy, napadneme "
+"skřety a uvidíš, že tvé síly rychle porostou."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:423
-#, fuzzy
-#| msgid "Excellent. I’m eager to move on to the real foes."
 msgid "Excellent. I’m eager to move on to some real foes."
-msgstr "Skvěle. Jsem nedočkavý přesunout se ke skutečnému nepříteli."
+msgstr ""
+"Skvěle. Nemůžu se dočkat, až přejdeme na nějakého skutečného nepřítele."
 
 #. [scenario]: id=03_A_Haunting_in_Winter
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:5
