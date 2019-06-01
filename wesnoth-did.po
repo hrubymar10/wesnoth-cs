@@ -1375,7 +1375,7 @@ msgstr ""
 #. [scenario]: id=04_Beginning_of_the_Revenge
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:5
 msgid "Outset of Vengeance"
-msgstr ""
+msgstr "Počátek pomsty"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:20
@@ -1388,16 +1388,15 @@ msgid ""
 "he listens and it speaks back — he senses its will and lets it guide him — "
 "he embraces the dark magic as an extension of himself."
 msgstr ""
+"Míjejí týdny ve studených, holých jeskyních. Je tu málo světla i jídla, ale "
+"Malina spaluje touha po pomstě, která ho drží při výcviku. Jak roste moc "
+"černé magie, tak i jeho vláda nad nemrtvými. Zjišťuje, že je to mistrovství "
+"jiného druhu, než ho učili na Akademii. Magie k němu promlouvá jako nikdy "
+"předtím; naslouchá a ona odpovídá — cítí tu vůli a nechává se jí vést — "
+"přijímá temnou magii jako rozšíření sebe sama."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:24
-#, fuzzy
-#| msgid ""
-#| "When spring comes, the two head north to a mountain pass known to Darken "
-#| "Volk. In the higher reaches the snow is just beginning to melt, making "
-#| "the passage treacherous. The elder necromancer insists that they press "
-#| "on. He says that he hopes to catch the orc fighters unprepared by "
-#| "arriving early in the year, thereby inflicting as much damage as possible."
 msgid ""
 "When spring comes, Darken Volk leads Malin toward the jagged mountain peaks "
 "in the north. In the higher reaches, snow begins to melt into rivulets of "
@@ -1406,11 +1405,12 @@ msgid ""
 "traverse, the elder necromancer insists that they press on, saying that he "
 "hopes to catch the orcish fighters unprepared by arriving early in the year."
 msgstr ""
-"Když jaro přišlo, dvojice zamířila na sever k Darkenovi dobře známému "
-"horskému průsmyku. Ve vyšších místech začal sníh sotva tát a průsmyk byl "
-"zrádný. Starší nekromant trval na tom, aby pokračovali. Tvrdil, že chce "
-"zastihnout skřety nepřipravené hned na začátku roku a tak jim způsobit co "
-"největší škody."
+"V nastávajícím jaru vede Darken Volk Malina směrem k rozeklaným horským "
+"vrcholkům na severu. Ve vyšších oblastech začíná tát sníh a mění se "
+"v potůčky a říčky valící se dolů a tříštící ledový příkrov řeky Listry. "
+"Třebaže je přechod vratkého terénu nebezpečný, starší nekromant trvá na tom, "
+"aby pokračovali v cestě, protože doufá, že příchod počátkem roku umožní "
+"zastihnout skřetí bojovníky nepřipravené."
 
 #. [side]: type=Orcish Warlord, id=Gron'r Hronk
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:62
@@ -1425,7 +1425,7 @@ msgstr "K’rrlar Oban"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:115
 msgid "Move Malin to the end of the mountain pass"
-msgstr "Dojdi s Malinem na konec horského průsmyku"
+msgstr "Dojdi s Malinem na konec horského průsmyku"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:120
@@ -1440,11 +1440,15 @@ msgid ""
 "which is also the namesake of the dominant clan in this region. They are the "
 "very same who killed your father."
 msgstr ""
+"Na opačné straně tohoto průsmyku leží východní okraj samotných Srdcových "
+"hor. Pro jejich osobitý tvar jim skřeti říkají hory ‚Bílého tesáku‘, což je "
+"také jméno nejsilnějšího klanu v tomto kraji. Jsou to ti samí, kteří zabili "
+"tvého otce."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:196
 msgid "The Whitefang orcs... so that is their name."
-msgstr ""
+msgstr "Skřeti od Bílého tesáku... tak to je jejich jméno."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:201
@@ -1452,34 +1456,36 @@ msgid ""
 "To reach them, we must first destroy the orcs who block our way out of this "
 "mountain pass. Then, we can move on to our main target."
 msgstr ""
+"Abychom se k nim dostali, musíme nejprve zničit skřety, kteří nám brání "
+"v cestě horským průsmykem. Pak můžeme pokračovat k našemu hlavnímu cíli."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:206
 msgid ""
 "I have anticipated this day for a long time. At last, we shall have revenge."
-msgstr ""
+msgstr "Dlouho jsem čekal na tento den. Konečně se pomstíme."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:224
 msgid "Feel my wrath, vile creature!"
-msgstr "Pociť můj hněv, odporná nestvůro!"
+msgstr "Zakus můj hněv, odporná nestvůro!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:240
 msgid "These orcs aren’t so strong after all!"
-msgstr ""
+msgstr "Tihle skřeti nakonec nejsou tak silní!"
 
 #. [message]: speaker=K'rrlar Oban
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:257
 msgid ""
 "Wait, human! I may be of use to you! What is it that you desire? Slaves? "
 "Gold? Land?"
-msgstr ""
+msgstr "Počkej člověče! Můžu ti být užitečný! Co chceš? Otroky? Zlato? Půdu?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:261
 msgid "What I desire is your death."
-msgstr ""
+msgstr "Chci tvou smrt."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:287
@@ -1501,7 +1507,7 @@ msgid ""
 "The weak ice gives way beneath the undead creature, who becomes mired in the "
 "thick mud at the lake’s bottom."
 msgstr ""
-"Slabý led se podlomil pod nemrtvou nestvůrou, která uvízla v hustém blátě na "
+"Slabý led se podlomil pod nemrtvou nestvůrou, která uvízla v hustém blátě na "
 "dně jezera."
 
 #. [message]: speaker=narrator
@@ -1516,7 +1522,7 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:426
 msgid "It’s time to hunt down the Whitefangs."
-msgstr ""
+msgstr "Je čas dopadnout skřety od Bílého tesáku."
 
 #. [scenario]: id=05_Orc_War
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:5
