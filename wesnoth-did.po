@@ -960,12 +960,6 @@ msgstr "Lov v zimě"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:25
-#, fuzzy
-#| msgid ""
-#| "Malin and Darken Volk spend the summer and fall traveling up and down the "
-#| "lower Northlands. They attack small goblin villages and orc camps when "
-#| "they find them. Malin’s power grows considerably under the constant "
-#| "tutelage of the necromancer."
 msgid ""
 "Malin and Darken Volk spend the summer and fall traveling across the lower "
 "Northlands. They attack goblin villages and small orcish camps when they "
@@ -973,9 +967,10 @@ msgid ""
 "proves to be an effective mentor. Malin’s power grows considerably under the "
 "necromancer’s tutelage."
 msgstr ""
-"Malin a Darken Volk strávili léto a podzim cestováním Severními zeměmi. "
-"Útočili na malé gobliní vesnice a skřetí tábory, kdekoliv je našli. Malinova "
-"moc značně vzrostla pod neustálým dohledem nekromanta."
+"Malin a Darken Volk strávili léto a podzim cestováním Severními zeměmi. "
+"Útočili na gobliní vesnice a malé skřetí tábory, kdekoliv je našli. Ačkoli "
+"je Darken Volk občas náročný a popudlivý, projevuje se jako schopný učitel. "
+"Malinova moc pod vedením nekromanta značně roste."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:29
@@ -987,16 +982,20 @@ msgid ""
 "fortune, they stumble across a mostly abandoned cave just as the winter sets "
 "in."
 msgstr ""
+"Nakonec barevný podzim odchází a na holou zem se snáší sníh. Noci se "
+"prodlužují, jak slunce mizí za zdánlivě věčnou mlhou bledých mračen. Dva "
+"nekromanti, pronásledováni živly, odchází do kopců, aby zde hledali úkryt. "
+"Dílem štěstěny naráží na téměř prázdnou jeskyni, právě když nastává zima."
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:99
 msgid "Explore"
-msgstr ""
+msgstr "Zkoumej"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:131
 msgid "Defeat both young ogres"
-msgstr ""
+msgstr "Poraz oba mladé obry"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:254
@@ -1005,41 +1004,44 @@ msgid ""
 "likely they are merely nothing more than beasts. Still, we may be able to "
 "use them to continue your training."
 msgstr ""
+"V téhle jeskyni cítím mnoho forem života, ale žádná není příliš silná. "
+"S největší pravděpodobností nejsou o nic víc než zvířata. Nicméně bychom "
+"měli být schopni použít je pro tvůj další výcvik."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:259
 msgid "Better than nothing. Which way do these creatures lie?"
-msgstr ""
+msgstr "Lepší než nic. Kterým směrem se ti tvorové nachází?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:264
 msgid "East."
-msgstr ""
+msgstr "Na východ."
 
 #. [message]: speaker=YOgre1
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:281
 msgid "Me kill you!"
-msgstr ""
+msgstr "Já tě zabít!"
 
 #. [message]: speaker=YOgre2
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:304
 msgid "No, me kill you!"
-msgstr ""
+msgstr "Ne, já tě zabít!"
 
 #. [message]: speaker=YOgre1
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:327
 msgid "No, me kill— I see human!"
-msgstr ""
+msgstr "Ne, já tě— Já vidět člověka!"
 
 #. [message]: speaker=YOgre2
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:332
 msgid "Human! We smash human!"
-msgstr ""
+msgstr "Člověk! My zničit člověka!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:337
 msgid "Simple-minded, obtuse creatures."
-msgstr ""
+msgstr "Prostoduší, omezení tvorové."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:342
@@ -1047,24 +1049,24 @@ msgid ""
 "This should be an easy task for you. Once you have slain them both, we shall "
 "turn them into skeletons."
 msgstr ""
+"Měl by to být pro tebe snadný úkol. Jakmile je oba zabiješ, proměníme je "
+"v kostlivce."
 
 #. [message]: speaker=YOgre1
 #. this line is just a death scream
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:357
 msgid "Arrghhaaugghhh..."
-msgstr ""
+msgstr "Arrghhaaugghhh..."
 
 #. [message]: speaker=YOgre2
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:373
 msgid "Me... die..."
-msgstr ""
+msgstr "Já... umřít..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:414
-#, fuzzy
-#| msgid "The orcs are broken, dead or fled."
 msgid "The ogres are dead."
-msgstr "Skřeti jsou poraženi, mrtví nebo rozprášení."
+msgstr "Obři jsou mrtví."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:419
@@ -1074,17 +1076,21 @@ msgid ""
 "ghouls, flesh and blood are useless for undead creatures. First, let out the "
 "blood and innards and dispose of them."
 msgstr ""
+"Dobře... Už dříve jsem ti ukázal, jak pozvednout kostlivce, ale snad bude "
+"nejlépe, když to... projdeme znovu. Na rozdíl od požíračů mrtvých, nemrtví "
+"tvorové nepotřebují maso a krev. Nejdřív tedy vypusť krev a zbav se "
+"vnitřností."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:424
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:611
 msgid "Very well."
-msgstr ""
+msgstr "Výborně."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:442
 msgid "What a mess."
-msgstr ""
+msgstr "To je sajrajt."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:447
@@ -1093,11 +1099,14 @@ msgid ""
 "here. Next, strip away the flesh. A little remaining is fine; too much will "
 "hamper your skeletons’ movement."
 msgstr ""
+"Požírači mrtvých se o to postarají, jakmile budeme mít možnost si je tu "
+"držet. Teď odstraň maso. Může ho trochu zbýt; více by bránilo tvým "
+"kostlivcům v pohybu."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:472
 msgid "And then?"
-msgstr ""
+msgstr "A pak?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:477
@@ -1109,34 +1118,38 @@ msgid ""
 "twine from your hand. If your will is strong enough, the skeleton will be "
 "able to move on its own."
 msgstr ""
+"Přivaž ke kosti provazy síly. Kostlivci nejsou nic víc než loutky. "
+"Začátečníci budou ovládat jejich pohyb přímo proudy temné magie, ale takové "
+"hrubé způsoby by ti neměly být zapotřebí. Místo toho oznam kostlivci svou "
+"vůli, roztáhni nad kostmi nitě a nech volně vyklouznout provázek z ruky. "
+"Jestli je tvá vůle dost silná, kostlivec se bude schopen pohybovat sám."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:482
-#, fuzzy
-#| msgid "I... I will try."
 msgid "I will try."
-msgstr "Já... pokusím se."
+msgstr "Pokusím se."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:511
 msgid "Do it again."
-msgstr ""
+msgstr "Udělej to znovu."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:554
 msgid "Good, good. Now head north. I sense another young ogre there."
-msgstr ""
+msgstr "Dobře, dobře. Teď zamiř na sever. Cítím tam dalšího mladého obra."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:571
 msgid "I can turn this one into a skeleton as well."
-msgstr ""
+msgstr "Toho taky můžu přeměnit na kostlivce."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:606
 msgid ""
 "The ogre seems to have looted a bow. Use it to create a Skeleton Archer."
 msgstr ""
+"Zdá se, že ten obr ukořistil luk. Použij jej a vytvoř kostlivce lučištníka."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:641
@@ -1144,11 +1157,14 @@ msgid ""
 "It seems that raising skeletons is already a trivial matter for you now. You "
 "are indeed... talented."
 msgstr ""
+"Vypadá to, že pozvedání kostlivců je pro tebe už nyní jednoduchou "
+"záležitostí. Jsi vskutku... nadaný."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:646
 msgid "Perhaps, but I will need more than a few skeletons to fight the orcs."
 msgstr ""
+"Možná, ale pro boj se skřety budu potřebovat víc než jen pár kostlivců."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:651
@@ -1156,11 +1172,13 @@ msgid ""
 "They will come in time, when you learn to control more of them at once. For "
 "now, continue exploring these caves. We may yet find something else of use."
 msgstr ""
+"Včas přijdou, až se jich naučíš ovládat více najednou. Zatím pokračuj "
+"v průzkumu těchto jeskyní. Snad najdeme k použití ještě něco jiného."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:689
 msgid "This cave is infested with giant scorpions!"
-msgstr ""
+msgstr "Tahle jeskyně je zamořena obřími škorpióny!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:694
@@ -1168,40 +1186,42 @@ msgid ""
 "Annoying pests, no more than that. Killing them, however, may provide some "
 "useful experience to your skeletons."
 msgstr ""
+"Otravní škůdci, nic víc. Avšak jejich zabití může tvým kostlivcům poskytnout "
+"užitečné zkušenosti."
 
 #. [message]: speaker=Naga1
 #. Hsss is just a hissing sound that nagas make. The extra s's in spy and must are also intended to be the same sound.
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:716
 msgid "Hssss, I ssspy human vermin... I mussst kill."
-msgstr ""
+msgstr "Sssss, sssleduji lidssskou pakáž... Musssím zabít."
 
 #. [message]: speaker=Naga2
 #. The extra s's in slay are also intended to mimic a hissing sound.
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:722
 msgid "We will ssslay him..."
-msgstr ""
+msgstr "Sssejmeme ho..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:727
 msgid "I do not think I will be the one dying here."
-msgstr ""
+msgstr "Nemyslím, že to budu já, kdo tu zemře."
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:734
 msgid "Defeat both nagas"
-msgstr ""
+msgstr "Poraz obě nágy"
 
 #. [message]: speaker=Naga1
 #. this line is also just a death scream
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:754
 msgid "Hsssss..."
-msgstr ""
+msgstr "Ssssss..."
 
 #. [message]: speaker=Naga2
 #. again, drawn out s's are just to mimic hissing
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:771
 msgid "Evil... dark... magicssssss..."
-msgstr ""
+msgstr "Zlé... temné... koussssssky..."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:811
@@ -1210,38 +1230,36 @@ msgid ""
 "control spirits. The souls of the recently deceased do not stray far from "
 "their bodies. You should be able to sense them still."
 msgstr ""
+"Jelikož už jsi zvládl oživování kostlivců, naučím tě teď ovládat duchy. Duše "
+"nedávno zemřelých nebloudí daleko od svých těl. Měl bys být schopen je dosud "
+"vycítit."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:841
 msgid "I feel them."
-msgstr ""
+msgstr "Vnímám je."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:846
-#, fuzzy
-#| msgid ""
-#| "Be careful when imprisoning a soul and use all your might to retain "
-#| "control over it or it might attempt to break free and destroy you!"
 msgid ""
 "Controlling spirits can be somewhat hazardous even for experienced "
 "necromancers. When imprisoning a soul, use all your might to retain control "
 "over it. You must exert your will over its own, or the spirit will break "
 "free and destroy you."
 msgstr ""
-"Buď opatrný, když uvězňuješ duši, a použij na ni veškerou moc, aby jsi nad "
-"ní převzal kontrolu, nebo se může pokusit osvobodit a zničit tě!"
+"Ovládání duchů může být i pro zkušené nekromanty poněkud nebezpečné. Když "
+"uvězňuješ duši, použij veškerou svou moc, abys nad ní udržel vládu. Musíš "
+"vyvinou více vůle než ona sama nebo se duch osvobodí a zničí tě."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:851
-#, fuzzy
-#| msgid "I... I will try."
 msgid "I... I will do my best."
-msgstr "Já... pokusím se."
+msgstr "Já... Udělám, co budu moci."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:879
 msgid "I... think I did it—"
-msgstr ""
+msgstr "Já... myslím, že jsem to dokázal—"
 
 #. [message]: speaker=S3_Rebel_Soul
 #. more s's indicating hissing
@@ -1249,7 +1267,7 @@ msgstr ""
 msgid ""
 "Freedom! Your sssorceries sssshall not sshackle me any longer, Malin the "
 "Damned!"
-msgstr ""
+msgstr "Sssvoboda! Tvé čáry už mě nessspoutávají, Maline Proklatý!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:911
@@ -1259,12 +1277,16 @@ msgid ""
 "Let your will slip further and you shall join other young necromancers who "
 "have died at the hands of their own servants."
 msgstr ""
+"Ty užvaněný blázne! Jak jsi mohl podlehnout polointeligentnímu tvoru, který "
+"dá stěží dohromady jednu souvislou větu?! Nech svou vůli ještě více "
+"poklesnout a můžeš se připojit k ostatním mladým nekromantům, kteří zahynuli "
+"rukou vlastních služebníků."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:916
 msgid ""
 "My will is strong, but he still does not return to me. What should I do?"
-msgstr ""
+msgstr "Moje vůle je silná, ale on se ke mně stále nevrací. Co mám dělat?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:921
@@ -1272,27 +1294,27 @@ msgid ""
 "Subdue the rebel! When you have sapped it of its energies, exert your power "
 "over it and do not lose focus."
 msgstr ""
+"Podmaň si toho vzbouřence! Když tomu podkopeš síly, uplatni nad tím svou moc "
+"a neztrať soustředění."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:933
 msgid "Seize control back while it is weakened!"
-msgstr ""
+msgstr "Převezmi zpátky vládu, dokud je to oslabené!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:963
-#, fuzzy
-#| msgid ""
-#| "I think I’ve got the rest of them under control now. That was a close "
-#| "call."
 msgid ""
 "I think I’ve got it under control again. That was a close call. Let me try "
 "the other one now."
-msgstr "Myslím, že mám zbytek pevně pod kontrolou. To bylo o vlásek."
+msgstr ""
+"Myslím, že to mám znovu pevně ve svých rukou. To bylo o fous. Dovol mi "
+"zkusit toho dalšího."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:994
 msgid "No mishaps this time, but you will need to practice more."
-msgstr ""
+msgstr "Tentokrát žádné nehody, ale budeš potřebovat více cvičit."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1034
@@ -1300,11 +1322,13 @@ msgid ""
 "Rail tracks and mines... dwarves used to live here, but there do not seem to "
 "be any guards. I wonder where they went?"
 msgstr ""
+"Koleje a doly... žili tu trpaslíci, ale nezdá se, že by tu byly nějaké "
+"stráže. Kam asi odešli?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1049
 msgid "Trolls! I suppose I should have expected this."
-msgstr ""
+msgstr "Trollové! Předpokládám, že jsem to měl čekat."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1054
@@ -1312,18 +1336,18 @@ msgid ""
 "Threats to your skeletons, but no more than fodder for your ghosts. "
 "Eliminate them all."
 msgstr ""
+"Hrozba pro tvé kostlivce, ale ne víc než krmení pro tvé duchy. Všechny je "
+"zlikviduj."
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1071
-#, fuzzy
-#| msgid "Defeat the foolish hero"
 msgid "Defeat the trolls"
-msgstr "Poraz bláhového hrdinu"
+msgstr "Poraz trolly"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1107
 msgid "The trolls are defeated."
-msgstr ""
+msgstr "Trollové jsou poraženi."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1124
@@ -1331,11 +1355,13 @@ msgid ""
 "<i>If I act quickly, I can enslave another ghost to help me fight off the "
 "rest of these trolls.</i>"
 msgstr ""
+"<i>Když budu rychlý, můžu zotročit dalšího ducha, aby mi pomohl s těmi "
+"zbylými trolly.</i>"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1154
 msgid "<i>The boy learns quickly. He should be of great use after all.</i>"
-msgstr ""
+msgstr "<i>Ten hoch se učí rychle. Nakonec by měl být velmi užitečný.</i>"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1165
@@ -1343,6 +1369,8 @@ msgid ""
 "You have done well enough so far, but I still have much more to teach you. "
 "Come, we have work to do."
 msgstr ""
+"Zatím sis vedl dost dobře, ale stále tě mám hodně co učit. Pojď, máme "
+"nějakou práci."
 
 #. [scenario]: id=04_Beginning_of_the_Revenge
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:5
@@ -5082,8 +5110,6 @@ msgstr "sobě"
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/utils/deaths.cfg:12
-#, fuzzy
-#| msgid "I’m not ready to die..."
 msgid "I’m not ready to die yet..."
 msgstr "Ještě nejsem připraven zemřít..."
 
