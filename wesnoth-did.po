@@ -12,21 +12,22 @@
 # Anežka Bubeníčková <masozravapalma@gmail.com>, 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-02-15 11:28+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
-"Language-Team: Český <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-06-02 10:43+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Gtranslator 3.30.1\n"
 
 #. [scenario]: id=11_Descent_into_Darkness
 #. [campaign]: id=Descent_into_Darkness
@@ -184,7 +185,7 @@ msgstr ""
 "Když se Malin vrátil do Parthynu, město už bylo pod útokem skřetů. Přestože "
 "dělal vše, co mohl, aby je odrazil, nájezdníci byli mnohem neústupnější "
 "a obrana města daleko slabší, než si pamatoval. Jedné noci se městem přehnal "
-"zvlášť silný útok a Malin mohl pouze přihlížet, jak byl jeho otec poražen "
+"zvlášť silný útok a Malin mohl pouze přihlížet, jak byl jeho otec zabit "
 "divokým skřetím válečníkem."
 
 #. [part]
@@ -202,7 +203,7 @@ msgstr ""
 "Otřeseni ztrátou svého velitele, začali lidští obránci ochabovat. Skřeti "
 "řičeli v očekávání vítězství, ale před tím, než mohli obsadit město, "
 "vyhrnula se z lesa záplava kostlivých válečníků a vpadla jim do zad. Nemrtví "
-"poráželi skřeta za skřetem, meče a sekery roztínaly maso a kosti s neúnavnou "
+"zabíjeli skřeta za skřetem, meče a sekery roztínaly maso a kosti s neúnavnou "
 "účinností. Vojáci sledovali napůl v úžasu a napůl se strachem klesající "
 "skřety a k nim obrácené kostlivce, z jejichž prázdných očí vyzařovalo "
 "páchnoucí kouzlo. Zavládl děsivý klid, jak se krvavý masakr nořil do odporné "
@@ -1391,9 +1392,9 @@ msgstr ""
 "Míjejí týdny ve studených, holých jeskyních. Je tu málo světla i jídla, ale "
 "Malina spaluje touha po pomstě, která ho drží při výcviku. Jak roste moc "
 "černé magie, tak i jeho vláda nad nemrtvými. Zjišťuje, že je to mistrovství "
-"jiného druhu, než ho učili na Akademii. Magie k němu promlouvá jako nikdy "
-"předtím; naslouchá a ona odpovídá — cítí tu vůli a nechává se jí vést — "
-"přijímá temnou magii jako rozšíření sebe sama."
+"jiného druhu, než ho učili na Akademii. Magie jej oslovuje jako nikdy "
+"předtím; on naslouchá a ona k němu mluví — cítí tu vůli a nechává se jí vést "
+"— přijímá temnou magii jako rozšíření sebe sama."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:24
@@ -1527,7 +1528,7 @@ msgstr "Je čas dopadnout skřety od Bílého tesáku."
 #. [scenario]: id=05_Orc_War
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:5
 msgid "Orc War"
-msgstr "Skřetí Válka"
+msgstr "Skřetí válka"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:19
@@ -1539,6 +1540,12 @@ msgid ""
 "but the still burning image of his father being cut down amidst the ruins of "
 "his home is imprinted at the forefront of his mind."
 msgstr ""
+"Roční doby víří a ještě jednou se překuluje léto s podzimem. Malin často "
+"obrací své myšlenky zpátky k Parthynu, kde byl ještě před rokem obklopen "
+"rodinou a přáteli ve venkovském městečku, na které stále vzpomíná jako na "
+"svůj domov. Myslí si, že se mezitím stal opuštěným tulákem, ale dosud "
+"planoucí obraz jeho otce, zabitého uprostřed trosek jeho domova, se mu "
+"vtiskl hluboko do paměti."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:23
@@ -1548,17 +1555,12 @@ msgid ""
 "there is no point in reminiscing on his once peaceful, pastoral life. He has "
 "never been one for regrets."
 msgstr ""
+"Společnost přátel a klid... možná je to jen fraška a určitě nemožné se stále "
+"se rýsující hrozbou skřetích klanů. Možná nemá cenu oddávat se vzpomínkám na "
+"jeho kdysi pokojný venkovský život. Nikdy ničeho nelitoval."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:27
-#, fuzzy
-#| msgid ""
-#| "All through the summer and fall, the necromancer and his apprentice "
-#| "travel through orc-held lands. At night, they cause skeletons and ghosts "
-#| "to emerge from the forests to terrorize and kill entire camps of orcs and "
-#| "their goblin minions. Word spreads among the orcish towns, which begin to "
-#| "post guards and leave torches burning all night. These measures do little "
-#| "to help them."
 msgid ""
 "Malin turns his attention to the task at hand. Darken Volk leads him through "
 "the heart of the Whitefang territory, where they terrorize and murder entire "
@@ -1566,22 +1568,14 @@ msgid ""
 "towns, which begin to post more guards and dispatch frequent patrols to "
 "exterminate the two necromancers. All of their attempts fail."
 msgstr ""
-"Po celé léto a podzim nekromant a jeho učedník cestovali skřetími državami. "
-"Po nocích vyvolávali duchy a kostlivce, kteří se vždy vyhrnuli z lesa a "
-"terorizovali a vybíjeli celá ležení skřetů a jejich poskoků goblinů. Zpráva "
-"o tom se rozlétla skřetími městy a tak začali stavět hlídky a pochodně "
-"hořely celou noc. Tato opatřením skřetům trochu pomohla."
+"Malin obrací svou pozornost k současnému úkolu. Darken Volk jej vede srdcem "
+"území Bílého tesáku, kde se svými nemrtvými pohůnky zastrašují a drtí celé "
+"tábory skřetů. Zpráva se šíří mezi skřetími městy, kde posilují stráže "
+"a vysílají časté hlídky s cílem vyhladit oba nekromanty. Všechny jejich "
+"pokusy selhávají."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:31
-#, fuzzy
-#| msgid ""
-#| "Word spreads to the south as well, of the many battles won against the "
-#| "orc tribes, as Darken Volk tells Malin. As spring rolls around, a number "
-#| "of dark adepts, eager to aid in the fight, travel northwards and join the "
-#| "pair. <i>“They are quite useful in battle,”</i> the necromancer says to "
-#| "Malin, <i>“but none of them have even a tenth of your potential power.”</"
-#| "i>"
 msgid ""
 "Word spreads to the south as well when the ever present raids are suddenly "
 "absent this year. The people at the frontier towns go about their days, "
@@ -1591,21 +1585,15 @@ msgid ""
 "i> Darken Volk says to Malin, <i>“but none of them have even a tenth of your "
 "potential power.”</i>"
 msgstr ""
-"Zpráva o tolika vítězných bitvách se rozšířila i jihem, jak Darken Volk řekl "
-"Malinovi. Když přišlo jaro, mnoho temných učedníků chtivých pomoci v boji "
-"cestovalo na sever a připojilo se k páru. <i>„Jsou docela užiteční v "
-"bitvě,“</i> řekl nekromant Malinovi, <i>„ale žádný z nich nemá ani desetinu "
-"tvé potenciální moci“.</i>"
+"Zprávy se šíří také na jih, kde tento rok znenadání nepřichází vždy přítomné "
+"nájezdy. Lidé v pohraničních městech si jdou po svém, přetřásají novinky "
+"o nemrtvých, někdo znechuceně, jiný se zájmem. Když mine zima a přichází "
+"jaro, množství temných tovaryšů cestuje na sever a připojuje se ke dvojici "
+"nekromantů. <i>„Mohou být celkem užiteční,“</i> říká Darken Volk Malinovi, "
+"<i>„ale žádný z nich nemá ani desetinu potenciálu tvé moci.“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:35
-#, fuzzy
-#| msgid ""
-#| "The damage inflicted by Malin and Darken Volk over the past year forces "
-#| "the usually fractious local chieftains to unite in opposition. "
-#| "Eventually, at a narrow place in the river men call the Longlier and "
-#| "Elves call the Arkan-thoria, they manage to surround the humans and force "
-#| "a fight."
 msgid ""
 "Malin and Darken Volk continue their raids on the orcs and eventually force "
 "the usually fractious Whitefang chieftains to unite in opposition. The orcs "
@@ -1613,10 +1601,11 @@ msgid ""
 "Longlier and Elves call the Arkan-thoria, where they manage to surround the "
 "humans and force a fight."
 msgstr ""
-"Škody způsobené Malinem a Darkenem během roku spojily obvykle soupeřící "
-"místní velitele do jednotné opozice. Nakonec dokázali lidi obklíčit a "
-"přinutit k boji na místě, kde se řeka Longlier, známá mezi elfy jako Arkan-"
-"thoria, zužuje."
+"Malin a Darken Volk pokračují ve svých nájezdech na skřety a nakonec přinutí "
+"obvykle znesvářené náčelníky od Bílého tesáku, aby se spojili v odporu. "
+"Skřeti sledují dva nekromanty na východ směrem k ústí řeky, kterou lidé "
+"nazývají Longlier a elfové Arkan-thoria, kde se jim daří obklíčit lidi "
+"a přinutit je k boji."
 
 #. [side]: type=Orcish Warlord, id=Borth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:71
@@ -1641,25 +1630,11 @@ msgstr "Řeka Longlier"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:190
-#, fuzzy
-#| msgid "Kill the orc leaders"
 msgid "Kill the orcish leaders"
 msgstr "Zabij skřetí velitele"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:221
-#, fuzzy
-#| msgid ""
-#| "Since the very founding of Wesnoth you have hounded humans at every turn. "
-#| "You have raided my home at every opportunity. You have trampled our "
-#| "fields, slaughtered our livestock. You have brought war to a place of "
-#| "peace, and death to a place of life. You have killed without remorse, and "
-#| "despoiled that which was once beautiful. You have murdered my father and "
-#| "caused endless trouble to me. Now I shall have my revenge on you. Expect "
-#| "no mercy from me, because you have long since lost the right to it. I "
-#| "will crush you into the dust. The attacks on Parthyn will stop here and "
-#| "now. When I bring word of your demise the town will cheer my triumphant "
-#| "return."
 msgid ""
 "Even before the very founding of Wesnoth, you have hounded my people at "
 "every turn. You have trampled our fields, slaughtered our livestock, and "
@@ -1668,43 +1643,35 @@ msgid ""
 "Your kind deserves no mercy and shall receive none. I will crush you into "
 "the dust and make you into my slaves for all eternity."
 msgstr ""
-"Od samého počátku Wesnothu jste pronásledovali lidi na každém kroku. "
-"Pořádali jste nájezdy na můj domov při každé příležitosti. Rozšlapali jste "
-"naše pole a zmasakrovali náš dobytek. Přinesli jste válku a smrt do zemí "
-"míru a plných života. Zabíjeli jste bez slitování a vydrancovali to, co bylo "
-"kdysi krásné. Zabili jste mého otce a způsobili mi nekonečné problémy. Nyní "
-"se vám pomstím. Neočekávejte ode mne žádné milosrdenství, protože už dávno "
-"jste na něj ztratili právo. Rozdrtím vás na prach. Útoky na Parthyn zastavím "
-"teď a tady. Až přinesu zprávu o vašem odchodu z tohoto světa do mého města, "
-"budou mě vítat, bude to můj triumfální návrat."
+"Ještě před samým založením Wesnothu jste pronásledovali můj lid na každém "
+"kroku. Pošlapali jste naše pole, poráželi náš dobytek a vypalovali naše "
+"domy. Přinesli jste válku tam, kde byl pokoj a smrt tam, kde byl život. Jste "
+"jen nemilosrdní zabijáci a divoká zvířata. Váš druh si nezaslouží slitování "
+"a také žádné nedostane. Na prach vás rozdrtím a na věčnost zotročím."
 
 #. [message]: speaker=Borth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:226
-#, fuzzy
-#| msgid ""
-#| "Stop your silly talk, foul necromancer. You have caused enough trouble. "
-#| "It is time for you to die."
 msgid ""
 "The silly necromancer is trying to talk us to death! Puny human, you have "
 "caused us enough trouble. It is time for you to die."
 msgstr ""
-"Přestaň s těmi pošetilými řečičkami, nečistý nekromante. Způsobil jsi už "
-"dost problémů. Je čas chcípnout."
+"Hloupý nekromant, zkouší nás umluvit k smrti! Maličký človíčku, už ses nás "
+"dost natrápil. Je čas, abys chcípnul."
 
 #. [message]: speaker=P'Gareth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:231
 msgid "Ummm... unless... you are already dead, like the skeletons?"
-msgstr "Ummm... a když... jsi už mrtvý, jako kostlivci?"
+msgstr "Ummm... pokud... už nejsi mrtvý jako kostlivci?"
 
 #. [message]: speaker=K'Vark
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:236
 msgid "Then, it will be time for you to die again!"
-msgstr "Pak je čas zemřít znovu!"
+msgstr "Pak je čas, abys zemřel znovu!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:262
 msgid "How puny and weak you look in death, orc."
-msgstr ""
+msgstr "Jak malý a slabý vypadáš v hodině svojí smrti, skřete."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:289
@@ -1712,18 +1679,18 @@ msgid ""
 "Death is only the beginning for you. After this battle, you can be sure that "
 "I will make you into my thrall. And now for the last one—"
 msgstr ""
+"Smrt je pro tebe jen začátek. Můžeš si být jistý, že po téhle bitvě zůstaneš "
+"v mém područí. A teď ten poslední—"
 
 #. [message]: speaker=$remaining_orc_leader.id
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:342
 msgid "Retreat!"
-msgstr ""
+msgstr "Ústup!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:368
-#, fuzzy
-#| msgid "The last chieftain... he’s escaping! The coward!"
 msgid "The last chieftain flees! The coward!"
-msgstr "Poslední náčelník... utíká! Zbabělec!"
+msgstr "Poslední náčelník utíká! Ten zbabělec!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:373
@@ -1734,11 +1701,16 @@ msgid ""
 "the other orcish clans as well. You must hunt this chieftain down before he "
 "can alert the others, else we may soon have dozens more on our tail."
 msgstr ""
+"Skřeti jsou jen zvířata. Pouští hrůzu na slabší nepřátele, aby si připadali "
+"ohromně mocní, ale vždy prchají tváří v tvář drtivé síle. Nicméně, těch od "
+"Bílého tesáku je stále dost a také mají nějaké vazby na ostatní skřetí "
+"klany. Ty musíš dopadnout toho náčelníka předtím než bude moci varovat "
+"ostatní, jinak jich můžeme mít brzy za patami tucetkrát víc."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:378
 msgid "By ‘you’, you mean... on my own?"
-msgstr ""
+msgstr "Tím ‚ty‘ myslíš... mě samotného?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:383
@@ -1749,6 +1721,11 @@ msgid ""
 "other things that I must attend to in preparation. In a few weeks, meet with "
 "me to the west, near the town of Tath. For now, hunt down the last chieftain."
 msgstr ""
+"Tvé učednictví už skoro končí; jsi více než schopen poradit si sám s jedním "
+"napůl mrtvým skřetem. Poté tě požádám o malou laskavost. Ta bude tvořit "
+"poslední část tvého... výcviku. Připravuji nějaké další věci, které musím "
+"vyřídit. Za pár týdnů se setkáme na západě, blízko města Tath. Zatím chyť "
+"toho posledního náčelníka."
 
 #. [scenario]: id=06_Return_to_Parthyn
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:5
