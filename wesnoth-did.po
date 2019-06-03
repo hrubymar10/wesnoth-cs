@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-06-02 22:10+0200\n"
+"PO-Revision-Date: 2019-06-03 22:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1268,7 +1268,7 @@ msgstr "Já... myslím, že jsem to dokázal—"
 msgid ""
 "Freedom! Your sssorceries sssshall not sshackle me any longer, Malin the "
 "Damned!"
-msgstr "Sssvoboda! Tvé čáry už mě nessspoutávají, Maline Proklatý!"
+msgstr "Sssvoboda! Tvé čáry už mě nessspoutávají, Maline Zatracený!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:911
@@ -1992,7 +1992,7 @@ msgid ""
 "good.</i>"
 msgstr ""
 "<i>Jestliže chci, aby mě lidé z Parthynu přijali zpátky, musím být opatrný. "
-"Krom Drogana nesmím zabít nikoho z nich nebo mě určitě vyženou nadobro.</i>"
+"Krom Drogana nesmím zabít nikoho z nich, nebo mě určitě vyženou nadobro.</i>"
 
 #. [message]
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:422
@@ -2206,7 +2206,7 @@ msgid ""
 "Drogan, no! Malin, you monster, how could you just murder Drogan in cold "
 "blood?"
 msgstr ""
-"Drogane ne! Maline, ty zrůdo, jak jsi mohl Drogana tak chladnokrevně "
+"Drogane, ne! Maline, ty zrůdo, jak jsi mohl Drogana tak chladnokrevně "
 "zavraždit?"
 
 #. [message]: speaker=Malin Keshar
@@ -2321,7 +2321,7 @@ msgid ""
 "and secured Parthyn against further raids, you can be sure that I will hunt "
 "you down. You are my brother no longer."
 msgstr ""
-"Uteč, dokud ještě můžeš, Maline Proklatý! Až porazím tyhle skřety "
+"Uteč, dokud ještě můžeš, Maline Zatracený! Až porazím tyhle skřety "
 "a zabepečím Parthyn před dalšími nájezdy, tak tě chytím, tím si můžeš být "
 "jistý. Už nejsi mým bratrem."
 
@@ -2332,7 +2332,7 @@ msgid ""
 "against further raids, you can be sure that I will hunt you down. You are my "
 "brother no longer."
 msgstr ""
-"Uteč, dokud ještě můžeš, Maline Proklatý! Až zabepečím Parthyn před dalšími "
+"Uteč, dokud ještě můžeš, Maline Zatracený! Až zabepečím Parthyn před dalšími "
 "nájezdy, tak tě chytím, tím si můžeš být jistý. Už nejsi mým bratrem."
 
 #. [message]: speaker=Malin Keshar
@@ -2366,7 +2366,7 @@ msgstr ""
 #. [scenario]: id=07_A_Small_Favor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:5
 msgid "A Small Favor"
-msgstr "Malá Laskavost"
+msgstr "Malá laskavost"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:84
@@ -2377,6 +2377,11 @@ msgid ""
 "few hours from his mind, but the darkness only makes the images all the more "
 "vivid. He is tired, <i>so</i> tired, but sleep does not come."
 msgstr ""
+"Jak Malin prchá z města svého narození, utíká do lesnatých kopců severně od "
+"Velké řeky. Nakonec zastavuje kousek západně po několika dnech bez oddechu "
+"a spánku. Zavírá oči, aby vymazal z mysli těch pár posledních hodin, ale tma "
+"ty obrazy jen o to víc oživuje. Je unavený, <i>tak</i> unavený, ale spánek "
+"nepřichází."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:88
@@ -2387,6 +2392,10 @@ msgid ""
 "feels foreign and alien. <i>‘There could have been another way. You might "
 "have been wrong.’</i>"
 msgstr ""
+"<i>„Ničeho nelituju. Ničeho nelituju...“</i> Šeptá si to pod vousy jako "
+"mantru a ve svém napůl vědomém stavu to opakuje zas a znovu. Po chvíli se "
+"přidává druhý hlas, který zní velmi podobně jako jeho vlastní, ale zdá se "
+"být nějak cizí a odlišný. <i>‚Mohlo to být jinak. Možná ses zmýlil.‘</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:92
@@ -2400,6 +2409,13 @@ msgid ""
 "first a choir, then a duet, both male, then just one, a single voice alone "
 "in the darkness."
 msgstr ""
+"<i>„Ne, ne. I kdyby tu byla jiná cesta, zavrhli by mě úplně stejně. Mýlí "
+"se... jsou slepí. Nelituju toho, co jsem udělal. Ničeho nelituju...“</i> "
+"Umlčuje ten hlas. Přichází spánek, dlouhá, bezesná temnota, krátce "
+"přerušovaná děsivými tvary — pokroucenými, ohyzdnými věcmi, které šeptají "
+"strašidelně známými hlasy. <i>‚Jsi prokletý, Maline Zatracený! Prokletý! "
+"Prokletý. Prokletý...‘</i> Ty hlasy zní ozvěnou znovu a znovu, nejdříve "
+"sbor, pak mužský dvojzpěv a nakonec sám v temnotě pouze jeden jediný hlas."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:96
@@ -2408,16 +2424,12 @@ msgid ""
 "brief thought before heading farther west toward Tath. Soon, he reunites "
 "with his teacher."
 msgstr ""
+"Malin vstává a vidí na východě stoupat sloup kouře. Věnuje tomu jen krátkou "
+"myšlenku, než zamíří dál na západ směrem k Tath. Brzy se znovu shledává se "
+"svým učitelem."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:100
-#, fuzzy
-#| msgid ""
-#| "<i>“For your final test as my apprentice, you will aid me in retrieving a "
-#| "book,”</i> the necromancer says. <i>“The book was... stolen from me long "
-#| "ago. Since it has personal value to me, think of the task as a small "
-#| "favor. I should warn you that it will require you to act against your "
-#| "countrymen of Wesnoth, since it was one of them who stole it from me.”</i>"
 msgid ""
 "<i>“For your final test as my apprentice, you will aid me in retrieving a "
 "book,”</i> the necromancer says. <i>“The book was... stolen from me long "
@@ -2425,43 +2437,29 @@ msgid ""
 "However, this task will require you to act against your countrymen of "
 "Wesnoth, since it was one of them who took it from me.”</i>"
 msgstr ""
-"<i>„Tvůj konečný test jako mého učedníka bude spočívat v tom, že mi pomůžeš "
-"znovu získat knihu,“</i> řekl nekromant. <i>„Kniha mi byla... ukradena před "
-"dlouhou dobou. Protože pro mne měla osobní hodnotu, přemýšlej o tom úkolu "
-"jako o laskavosti. Měl bych tě varovat, že to bude vyžadovat čin proti tvým "
-"krajanům z Wesnothu, protože to byl jeden z nich, který mi ji ukradl.“</i>"
+"<i>„Tvá závěrečná zkouška, jako mého učedníka, bude spočívat v tom, že mi "
+"pomůžeš znovu získat knihu,“</i> říká nekromant. <i>„Ta kniha mi byla... "
+"ukradena před dlouhou dobou. Má pro mne osobní význam, takže to můžeš brát "
+"jako malou laskavost. Nicméně, tento úkol si vyžádá, abys jednal proti svým "
+"krajanům z Wesnothu, protože to byl jeden z nich, kdo mi ji vzal.“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:104
-#, fuzzy
-#| msgid ""
-#| "Malin replies, <i>“They are no longer countrymen of mine, since they have "
-#| "rejected me twice now.”</i>"
 msgid "Malin replies, <i>“They are no longer countrymen of mine.”</i>"
-msgstr ""
-"Malin odpověděl, <i>„Už nejsou více mými krajany, protože mne už dvakrát "
-"odmítli.“</i>"
+msgstr "Malin odpovídá: <i>„Už nejsou mými krajany.“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:108
-#, fuzzy
-#| msgid ""
-#| "Darken Volk continues, <i>“Excellent. We travel, then, to the city of "
-#| "Tath. There is a lord of that city by the name of Karres. He was trained "
-#| "as a mage in his youth, and now uses his wealth to support a large number "
-#| "of mages in their studies. Among his library is the book we seek. We will "
-#| "need to break into his manor and seek the book inside.”</i>"
 msgid ""
 "Darken Volk continues, <i>“Excellent. There is a lord of Tath by the name of "
 "Karres. He was trained as a mage in his youth and now uses his wealth to "
 "support a large number of mages in their studies. Among his library is the "
 "book we seek. We shall break into his manor to seek the book.”</i>"
 msgstr ""
-"Darken Volk pokračoval: <i>„Skvěle. Pocestujeme tedy do města Tath. Pán "
-"tohoto města se jmenuje Karres. Byl v mládí vycvičen jako mág a nyní používá "
-"jeho bohatství k podpoře mnoha mágů v jejich studiích. V jeho knihovně je "
-"kniha, kterou hledáme. Budeme se muset dostat do jeho sídla a najít knihu "
-"uvnitř.“</i>"
+"Darken Volk pokračuje: <i>„Výborně. Pán města Tath se jmenuje Karres. "
+"V mládí byl vycvičen na mága a nyní používá své bohatství na podporu studií "
+"velkého množství mágů. Uvnitř jeho knihovny je kniha, o kterou usilujeme. "
+"Musíme vniknout do jeho sídla, abychom ji mohli vyhledat.“</i>"
 
 #. [side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:122
