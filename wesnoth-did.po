@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-06-03 22:30+0200\n"
+"PO-Revision-Date: 2019-06-04 21:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2378,10 +2378,10 @@ msgid ""
 "vivid. He is tired, <i>so</i> tired, but sleep does not come."
 msgstr ""
 "Jak Malin prchá z města svého narození, utíká do lesnatých kopců severně od "
-"Velké řeky. Nakonec zastavuje kousek západně po několika dnech bez oddechu "
-"a spánku. Zavírá oči, aby vymazal z mysli těch pár posledních hodin, ale tma "
-"ty obrazy jen o to víc oživuje. Je unavený, <i>tak</i> unavený, ale spánek "
-"nepřichází."
+"Velké řeky. Po několika dnech bez oddechu a spánku se nakonec zastavuje "
+"o kus dál na západ. Zavírá oči, aby vymazal z mysli těch pár posledních "
+"hodin, ale tma ty obrazy jen o to víc oživuje. Je unavený, <i>tak</i> "
+"unavený, ale spánek nepřichází."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:88
@@ -2393,7 +2393,7 @@ msgid ""
 "have been wrong.’</i>"
 msgstr ""
 "<i>„Ničeho nelituju. Ničeho nelituju...“</i> Šeptá si to pod vousy jako "
-"mantru a ve svém napůl vědomém stavu to opakuje zas a znovu. Po chvíli se "
+"mantru a ve svém napůl vědomém stavu to opakuje stále dokola. Po chvíli se "
 "přidává druhý hlas, který zní velmi podobně jako jeho vlastní, ale zdá se "
 "být nějak cizí a odlišný. <i>‚Mohlo to být jinak. Možná ses zmýlil.‘</i>"
 
@@ -2414,8 +2414,8 @@ msgstr ""
 "Umlčuje ten hlas. Přichází spánek, dlouhá, bezesná temnota, krátce "
 "přerušovaná děsivými tvary — pokroucenými, ohyzdnými věcmi, které šeptají "
 "strašidelně známými hlasy. <i>‚Jsi prokletý, Maline Zatracený! Prokletý! "
-"Prokletý. Prokletý...‘</i> Ty hlasy zní ozvěnou znovu a znovu, nejdříve "
-"sbor, pak mužský dvojzpěv a nakonec sám v temnotě pouze jeden jediný hlas."
+"Prokletý. Prokletý...‘</i> Ty hlasy zní ozvěnou zas a znovu, nejdříve sbor, "
+"pak mužský dvojzpěv a nakonec sám v temnotě pouze jeden jediný hlas."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:96
@@ -2424,8 +2424,8 @@ msgid ""
 "brief thought before heading farther west toward Tath. Soon, he reunites "
 "with his teacher."
 msgstr ""
-"Malin vstává a vidí na východě stoupat sloup kouře. Věnuje tomu jen krátkou "
-"myšlenku, než zamíří dál na západ směrem k Tath. Brzy se znovu shledává se "
+"Malin vstává a vidí na východě stoupat sloup kouře. Jen krátce se nad tím "
+"zamyslí, než zamíří dál na západ směrem k Tath. Brzy se znovu shledává se "
 "svým učitelem."
 
 #. [part]
@@ -2437,11 +2437,11 @@ msgid ""
 "However, this task will require you to act against your countrymen of "
 "Wesnoth, since it was one of them who took it from me.”</i>"
 msgstr ""
-"<i>„Tvá závěrečná zkouška, jako mého učedníka, bude spočívat v tom, že mi "
-"pomůžeš znovu získat knihu,“</i> říká nekromant. <i>„Ta kniha mi byla... "
-"ukradena před dlouhou dobou. Má pro mne osobní význam, takže to můžeš brát "
-"jako malou laskavost. Nicméně, tento úkol si vyžádá, abys jednal proti svým "
-"krajanům z Wesnothu, protože to byl jeden z nich, kdo mi ji vzal.“</i>"
+"<i>„Pro tebe, jako mého učedníka, bude závěrečnou zkouškou pomoci mi získat "
+"zpět knihu,“</i> říká nekromant. <i>„Ta kniha mi byla... ukradena před "
+"dlouhou dobou. Má pro mne osobní význam, takže to můžeš brát jako malou "
+"laskavost. Nicméně, tento úkol si vyžádá, abys jednal proti svým krajanům "
+"z Wesnothu, protože ten, kdo mi ji vzal, byl jeden z nich.“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:104
@@ -2457,9 +2457,9 @@ msgid ""
 "book we seek. We shall break into his manor to seek the book.”</i>"
 msgstr ""
 "Darken Volk pokračuje: <i>„Výborně. Pán města Tath se jmenuje Karres. "
-"V mládí byl vycvičen na mága a nyní používá své bohatství na podporu studií "
-"velkého množství mágů. Uvnitř jeho knihovny je kniha, o kterou usilujeme. "
-"Musíme vniknout do jeho sídla, abychom ji mohli vyhledat.“</i>"
+"V mládí byl vycvičen na mága a nyní používá své bohatství na podporu velkého "
+"množství mágů v jejich studiích. Uvnitř jeho knihovny je kniha, o kterou "
+"usilujeme. Musíme vniknout do jeho sídla, abychom ji mohli vyhledat.“</i>"
 
 #. [side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:122
@@ -2471,10 +2471,8 @@ msgstr "Vetřelci"
 
 #. [side]: type=General, id=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:150
-#, fuzzy
-#| msgid "Taylor"
 msgid "General Taylor"
-msgstr "Taylor"
+msgstr "Generál Taylor"
 
 #. [side]: type=General, id=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:160
@@ -2499,10 +2497,8 @@ msgstr "Stráž brány"
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:175
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:187
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:194
-#, fuzzy
-#| msgid "Gate Guard"
 msgid "City Guard"
-msgstr "Stráž brány"
+msgstr "Městská stráž"
 
 #. [side]: type=General, id=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:179
@@ -2511,47 +2507,38 @@ msgstr "Stráž brány"
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:186
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:192
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:193
-#, fuzzy
-#| msgid "Gate Guard"
 msgid "Mage Guard"
-msgstr "Stráž brány"
+msgstr "Mágova stráž"
 
 #. [side]: type=General, id=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:181
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:188
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:195
 msgid "Head Trainer"
-msgstr "Hlavní Učitel"
+msgstr "Hlavní učitel"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:392
 msgid "Move Malin and Darken Volk into the Mage Lord’s manor"
-msgstr "Malin a Darken Volk vstoupí do Mágova sídla"
+msgstr "Malin a Darken Volk vstoupí do sídla lorda mága"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:396
 msgid "OR: Defeat General Taylor"
-msgstr ""
+msgstr "NEBO: Poraz generála Tailora"
 
 #. [note]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:415
 msgid "This scenario takes place entirely at night."
-msgstr "Tento scénář probíhá celý v noci."
+msgstr "Celý tento scénář se odehrává v noci."
 
 #. [note]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:418
 msgid "Enemy units have reduced vision (radius 3)"
-msgstr ""
+msgstr "Nepřátelské jednotky mají omezený rozhled (okruh 3)."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:454
-#, fuzzy
-#| msgid ""
-#| "The stolen book lies within Lord Karres’s manor on the north end of the "
-#| "city. We cannot defeat the entire city guard, so we must stay hidden as "
-#| "long as possible. The cover of the night and this fog will aid us. Once "
-#| "we are seen by the night watchmen, we will have to make a run for it. Our "
-#| "forces are not strong enough to take the whole city."
 msgid ""
 "The stolen book lies within Lord Karres’s manor at the north end of the "
 "city. It will be difficult for us to defeat the entire city guard, so we "
@@ -2559,11 +2546,11 @@ msgid ""
 "advantage. I shall use it to cast a spell to obscure the town guards’ "
 "vision. It should not affect us, however."
 msgstr ""
-"Ukradená kniha je uvnitř sídla Lorda Karrese na severu města. Nemůžeme "
-"porazit celou městskou stráž, takže musíme zůstat skryti tak dlouho jak to "
-"bude možné. Příkrov noci a této mlhy nám pomůže. Jakmile budeme spatřeni "
-"nočními hlídači, musíme spěchat. Naše jednotky nejsou dostatečně silné k "
-"dobytí celého města."
+"Ukradená kniha se nachází na severu města uvnitř sídla lorda Karrese. Bylo "
+"by pro nás obtížné přemoci celou městskou stráž, proto musíme zůstat skryti "
+"co nejdéle. Zatím můžeme s výhodou použít tuto mlhu. Využiji ji na seslání "
+"kouzla, které městským strážím zastře rozhled. Avšak na nás by to nemělo mít "
+"vliv."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:475
@@ -2573,70 +2560,65 @@ msgid ""
 "make a run for it. The faster we enter the manor, the more time we shall "
 "have to search for the book before the guards can pursue us."
 msgstr ""
+"Toto kouzlo nás neskryje úplně. Jesliže zabloudíme nebezpečně blízko "
+"strážím, pořád nás budou moci spatřit. Jakmile nás zahlédnou, musíme se "
+"zachránit útěkem. Čím rychleji vstoupíme do sídla, tím víc času budeme mít "
+"na pátrání po knize, než nás stráže dokáží pronásledovat."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:480
 msgid ""
 "Note: Only the units you recruit now will be available to you once inside."
 msgstr ""
-"Poznámka: Uvnitř budeš mít k dispozici jenom jednotky, které naverbuješ teď."
+"Poznámka: Uvnitř budeš mít k dispozici pouze ty jednotky, které teď "
+"naverbuješ."
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:496
 msgid "This blasted fog is so thick! I can’t see a thing!"
-msgstr ""
+msgstr "Zpropadená hustá mlha! Nevidím ani na krok!"
 
 #. [message]: speaker=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:501
 msgid "Stay alert, soldier. Report anything unusual immediately."
-msgstr ""
+msgstr "Zůstaň ostražitý, vojáku. Okamžitě ohlas cokoli neobvyklého."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:522
-#, fuzzy
-#| msgid "Undead creatures are coming out of the forest! To arms, men!"
 msgid "Undead are emerging from the forest!"
-msgstr "Nemrtvé nestvůry přicházejí z lesa! Do zbraně, muži!"
+msgstr "Z lesa se vynořují nemrtví!"
 
 #. [message]: speaker=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:528
-#, fuzzy
-#| msgid "To arms, men!"
 msgid "Wake the guard! To arms, men!"
-msgstr "Do zbraně, muži!"
+msgstr "Probuďte stráž! Muži, do zbraně!"
 
 #. [message]: speaker=unit
 #. Ooouuuh is a cry of pain
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:565
 msgid "Ooouuuh! It burns... burrrrnnns..."
-msgstr "Aaaa! To pálí... páááállííí...."
+msgstr "Aaaa! To pálí... páááállííí..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:588
 msgid "What was that?!"
-msgstr ""
+msgstr "Co to bylo?!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:593
-#, fuzzy
-#| msgid ""
-#| "This was the impact of what is known as holy water among common people. "
-#| "It is brewed in a complicated and mysterious procedure only known to a "
-#| "few priests and often used to fight resurrected creatures."
 msgid ""
 "That was the impact of what is known as holy water among commoners. It is "
 "brewed in a complicated procedure only known to a few priests. As you might "
 "imagine, it is quite effective against undead."
 msgstr ""
-"To byl účinek toho, co je známo mezi nižšími vrstvami lidu jako svěcená "
-"voda. Vyrábí se komplikovanou a tajemnou cestou, známou jen několika knězům "
-"a často se používá proti oživeným stvořením kvůli skvělému účinku, který na "
-"ně má."
+"To byl dopad toho, co je mezi prostými lidmi známo jako svěcená voda. "
+"Připravuje se to složitým postupem, který je znám jen několika málo kněžím. "
+"Jak si můžeš představit, je to proti nemrtvým vcelku účinné."
 
 #. [message]: speaker=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:605
 msgid "The undead are too strong! Retreat and regroup!"
-msgstr ""
+msgstr "Nemrtví jsou příliš silní! Ustoupit a přeskupit se!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:643
@@ -2650,23 +2632,23 @@ msgid ""
 "entire city guard is alerted to our presence. Your incompetence is truly "
 "appalling."
 msgstr ""
+"Nemáme naději na vstup do sídla teď, když se rozednilo a celá městská stráž "
+"o nás ví. Tvá neschopnost je skutečně děsivá."
 
 #. [scenario]: id=08_A_Small_Favor2
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:5
 msgid "A Small Favor — Part 2"
-msgstr "Malá Laskavost - Část druhá"
+msgstr "Malá laskavost — část druhá"
 
 #. [time]: id=indoors
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:13
 msgid "Indoors"
-msgstr ""
+msgstr "Uvnitř"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:121
-#, fuzzy
-#| msgid "Lord Karres"
 msgid "Find Lord Karres"
-msgstr "Lord Karres"
+msgstr "Najdi lorda Karrese"
 
 #. [unit]: type=Great Mage, type=Arch Mage, id=Lord Karres
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:177
