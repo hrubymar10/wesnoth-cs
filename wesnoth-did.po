@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-06-04 21:28+0200\n"
+"PO-Revision-Date: 2019-06-05 21:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1393,8 +1393,8 @@ msgstr ""
 "Malina spaluje touha po pomstě, která ho drží při výcviku. Jak roste moc "
 "černé magie, tak i jeho vláda nad nemrtvými. Zjišťuje, že je to mistrovství "
 "jiného druhu, než ho učili na Akademii. Magie jej oslovuje jako nikdy "
-"předtím; on naslouchá a ona k němu mluví — cítí tu vůli a nechává se jí vést "
-"— přijímá temnou magii jako rozšíření sebe sama."
+"předtím; on naslouchá a ona k němu mluví – cítí tu vůli a nechává se jí vést "
+"– přijímá temnou magii jako rozšíření sebe sama."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:24
@@ -2283,7 +2283,7 @@ msgid ""
 "body as well? How could you turn him into such a... a twisted, abominable "
 "thing? I cannot believe how depraved you have become!"
 msgstr ""
-"Co jsi to udělal?! Zabít Drogana ti bylo málo — musel jsi také poskvrnit "
+"Co jsi to udělal?! Zabít Drogana ti bylo málo – musel jsi také poskvrnit "
 "jeho tělo? Jak jsi ho mohl proměnit v takovou... zvrhlou, odpornou věc? "
 "Nemůžu uvěřit jak zvráceným ses stal!"
 
@@ -2412,7 +2412,7 @@ msgstr ""
 "<i>„Ne, ne. I kdyby tu byla jiná cesta, zavrhli by mě úplně stejně. Mýlí "
 "se... jsou slepí. Nelituju toho, co jsem udělal. Ničeho nelituju...“</i> "
 "Umlčuje ten hlas. Přichází spánek, dlouhá, bezesná temnota, krátce "
-"přerušovaná děsivými tvary — pokroucenými, ohyzdnými věcmi, které šeptají "
+"přerušovaná děsivými tvary – pokroucenými, ohyzdnými věcmi, které šeptají "
 "strašidelně známými hlasy. <i>‚Jsi prokletý, Maline Zatracený! Prokletý! "
 "Prokletý. Prokletý...‘</i> Ty hlasy zní ozvěnou zas a znovu, nejdříve sbor, "
 "pak mužský dvojzpěv a nakonec sám v temnotě pouze jeden jediný hlas."
@@ -2508,19 +2508,19 @@ msgstr "Městská stráž"
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:192
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:193
 msgid "Mage Guard"
-msgstr "Mágova stráž"
+msgstr "Mágská stráž"
 
 #. [side]: type=General, id=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:181
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:188
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:195
 msgid "Head Trainer"
-msgstr "Hlavní učitel"
+msgstr "Vrchní cvičitel"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:392
 msgid "Move Malin and Darken Volk into the Mage Lord’s manor"
-msgstr "Malin a Darken Volk vstoupí do sídla lorda mága"
+msgstr "Malin a Darken Volk vstoupí do sídla mága lorda"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:396
@@ -2591,7 +2591,7 @@ msgstr "Z lesa se vynořují nemrtví!"
 #. [message]: speaker=Taylor
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:528
 msgid "Wake the guard! To arms, men!"
-msgstr "Probuďte stráž! Muži, do zbraně!"
+msgstr "Vzbuďte stráž! Muži, do zbraně!"
 
 #. [message]: speaker=unit
 #. Ooouuuh is a cry of pain
@@ -2638,7 +2638,7 @@ msgstr ""
 #. [scenario]: id=08_A_Small_Favor2
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:5
 msgid "A Small Favor — Part 2"
-msgstr "Malá laskavost — část druhá"
+msgstr "Malá laskavost – část druhá"
 
 #. [time]: id=indoors
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:13
@@ -2663,35 +2663,27 @@ msgstr "Stráž"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:406
-#, fuzzy
-#| msgid ""
-#| "Malin and Darken Volk enter the mage lord’s manor, quickly closing the "
-#| "heavy gates behind them."
 msgid ""
 "Malin and Darken Volk enter the mage lord’s manor, closing the heavy gates "
 "behind them."
 msgstr ""
-"Malin a Darken Volk vstoupili do lordova sídla a rychle za sebou zavřeli "
-"těžkou bránu."
+"Malin a Darken Volk vchází do sídla mága lorda a zavírají za sebou těžkou "
+"bránu."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:411
-#, fuzzy
-#| msgid ""
-#| "That gate won’t hold back the soldiers for more than a few hours. We’d "
-#| "better hurry."
 msgid "That gate will not hold back the soldiers for long. We must hurry."
-msgstr "Brána nezadrží vojáky na déle než pár hodin. Měli bychom si pospíšit."
+msgstr "Brána nezadrží vojáky nadlouho. Musíme spěchat."
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:426
 msgid "Undead have entered the manor! Defend yourselves!"
-msgstr ""
+msgstr "Do sídla vstoupili nemrtví! Braňte se!"
 
 #. [message]
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:626
 msgid "Hunt down the undead! Destroy them all!"
-msgstr ""
+msgstr "Dopadněte nemrtvé! Všechny je zničte!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:630
@@ -2699,31 +2691,32 @@ msgid ""
 "The city guard has entered the manor. We will have to hold them off while we "
 "search."
 msgstr ""
+"Do sídla vstoupila městská stráž. Musíme je pozdržet, zatímco budeme pátrat."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:644
 msgid "More guards are coming. We must hasten our search!"
-msgstr ""
+msgstr "Přichází další stráže. Musíme uspíšit naše pátrání!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:658
 msgid "It does not look like we have much time left!"
-msgstr ""
+msgstr "Vypadá to, že nám nezbývá moc času!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:672
 msgid "The only thing we have to fear is fear itself."
-msgstr ""
+msgstr "Jediné, z čeho musíme mít strach, je strach sám."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:686
 msgid "<i>... nameless, unreasoning, unjustified terror...</i>"
-msgstr ""
+msgstr "<i>... bezejmenná, nesmyslná, neopodstatněná hrůza...</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:699
 msgid "<i>There is nothing good or bad, but thinking makes it so.</i>"
-msgstr ""
+msgstr "Nic není dobré nebo špatné, takové to dělá až přemýšlení.</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:712
