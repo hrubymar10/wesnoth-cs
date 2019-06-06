@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-06-05 21:41+0200\n"
+"PO-Revision-Date: 2019-06-06 20:22+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -718,7 +718,7 @@ msgid ""
 "abandoned by his kinsmen. As the weeks pass, Darken Volk teaches Malin more "
 "dark magic."
 msgstr ""
-"Tři dny cesty na severovýchod Malin narazil na Darken Volka, toho "
+"Tři dny cesty na severovýchod Malin narazil na Darkena Volka, toho "
 "nekromanta, který zachránil Parthyn a naučil Malina pozvednout zemřelé. "
 "Temný mág navrhl, aby cestovali společně; Malin, opuštěn vlastními "
 "příbuznými, vyhověl. Jak plynou týdny, učí Darken Volk Malina více temných "
@@ -2563,7 +2563,7 @@ msgstr ""
 "Toto kouzlo nás neskryje úplně. Jesliže zabloudíme nebezpečně blízko "
 "strážím, pořád nás budou moci spatřit. Jakmile nás zahlédnou, musíme se "
 "zachránit útěkem. Čím rychleji vstoupíme do sídla, tím víc času budeme mít "
-"na pátrání po knize, než nás stráže dokáží pronásledovat."
+"na pátrání po knize, než nás stráže budou schopny pronásledovat."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:480
@@ -2725,6 +2725,9 @@ msgid ""
 "Piercing, unblinking, a pitiless reflection,\n"
 "Shattering our brittle, fancied reality.</i>"
 msgstr ""
+"<i>Bleděmodrá zrcadla upřeně hledí,\n"
+"pronikavý, upřený, nelítostný odraz,\n"
+"drtí naši křehkou představu skutečnosti.</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:727
@@ -2733,6 +2736,9 @@ msgid ""
 "Touched by shadow, the dark dye of black,\n"
 "A fetid stain of pestilence.</i>"
 msgstr ""
+"<i>Smaragdově zelená se dává na ústup,\n"
+"dotčena stínem, temně černá,\n"
+"páchnoucí morová skvrna.</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:742
@@ -2741,16 +2747,19 @@ msgid ""
 "Flesh and blood flow away to rot,\n"
 "Leaving only bones to remain.</i>"
 msgstr ""
+"Karmínové jezírko, podstata života,\n"
+"maso a krev odplynou v rozkladu,\n"
+"nechají pouze kosti, jež zůstanou.</i>"
 
 #. [message]: speaker=Lord Karres
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:763
 msgid "Darken Volk! I should have known it was you! What are you doing here?"
-msgstr ""
+msgstr "Darken Volk! Měl jsem vědět, že jsi to ty! Co tu děláš?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:767
 msgid "Taking back what is rightfully mine."
-msgstr ""
+msgstr "Beru si zpět, co mi právem náleží."
 
 #. [message]: speaker=Lord Karres
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:771
@@ -2758,19 +2767,20 @@ msgid ""
 "As impudent as ever. What lies in that book is not meant for human eyes — "
 "yours or mine."
 msgstr ""
+"Opovážlivý jako vždy. To, co stojí v té knize, není určeno pro lidské oči – "
+"tvé ani mé."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:775
-#, fuzzy
-#| msgid "I’m not ready to die..."
 msgid "I am not here to argue."
-msgstr "Ještě nejsem připraven zemřít..."
+msgstr "Nejsem tu proto, abych se dohadoval."
 
 #. [message]: speaker=Lord Karres
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:779
 msgid ""
 "Of course you are not. I assume your arrogance has only grown over the years."
 msgstr ""
+"Jistěže ne. Předpokládám, že za ty roky tvá namyšlenost pouze vzrostla."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:783
@@ -2778,67 +2788,59 @@ msgid ""
 "If you wish to continue lecturing me, by all means, do so. It will only make "
 "you easier to kill."
 msgstr ""
+"Pokud máš chuť dál mi kázat, tak si každopádně posluž. Jen mi to usnadní tě "
+"zabít."
 
 #. [message]: speaker=Lord Karres
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:787
 msgid "I regret that it has come to this."
-msgstr ""
+msgstr "Mrzí mne, že to došlo až sem."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:799
 msgid "Someone was... messing... with some potions here."
-msgstr ""
+msgstr "Někdo tu... pomíchal... některé lektvary."
 
 #. [message]: speaker=Lord Karres
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:811
 msgid "How... dare you..."
-msgstr ""
+msgstr "Jak... se opovažuješ..."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:815
 msgid "Cease your prattle, you decrepit old man."
-msgstr ""
+msgstr "Přestaň žvatlat, vetchý starče."
 
 #. [message]: speaker=Darken Volk
 #. a vault is a big underground room, sort of like a gigantic basement
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:836
-#, fuzzy
-#| msgid ""
-#| "I feel the breaking of an illusion spell. The book must be in the great "
-#| "hall, in the northwest corner of the manor. Let us move quickly now!"
 msgid ""
 "I feel the breaking of an illusion spell. The book is in the vault in the "
 "northwest corner of the manor. We must find the passageway leading there!"
 msgstr ""
-"Cítím jak mizí krycí kouzlo. Kniha musí být ve velké hale v severozápadním "
-"rohu pevnosti. Musíme se tam dostat, rychle!"
+"Cítím, jak mizí krycí kouzlo. Kniha je v zabezpečeném prostoru "
+"v severozápadním rohu sídla. Musíme najít průchod, který tam vede!"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:843
-#, fuzzy
-#| msgid ""
-#| "Move Malin Keshar or Darken Volk through the passageway in the northwest "
-#| "leading to the great hall"
 msgid ""
 "Move Malin Keshar or Darken Volk through the passageway in the northwest "
 "leading to the vault"
 msgstr ""
-"Dostaň Malin Keshara nebo Darken Volka se k průchodu na severozápadě, "
-"vedoucímu do velké haly"
+"Přesuň Malina Kešara nebo Darkena Volka průchodem na severozápadě vedoucím "
+"do zabezpečené místnosti"
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:867
-#, fuzzy
-#| msgid "I think I found the passage to the great hall. Follow me quickly!"
 msgid "I found the passage to the vault!"
-msgstr "Myslím, že jsem našel průchod do velké haly. Rychle za mnou!"
+msgstr "Našel jsem průchod do zabezpečené místnosti!"
 
 #. [message]: speaker=RGuard
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:917
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:946
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:1067
 msgid "Surround those necromancers! They cannot escape now!"
-msgstr ""
+msgstr "Obkličte ty nekromanty! Teď už nemohou uniknout!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:921
@@ -2846,6 +2848,8 @@ msgid ""
 "Fool boy! You took too long to defeat Karres! Now we are at the mercy of the "
 "city guards!"
 msgstr ""
+"Hloupý kluku! Trvalo ti moc dlouho, než jsi přemohl Karrese! Teď jsme vydáni "
+"na milost městským strážím!"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_A_Small_Favor2.cfg:950
@@ -2853,11 +2857,13 @@ msgid ""
 "Fool boy! You took too long to find the path to the vault! Now we are at the "
 "mercy of the city guards!"
 msgstr ""
+"Hloupý kluku! Trvalo ti moc dlouho, než jsi našel cestu do zabezpečené "
+"místnosti! Teď jsme vydáni na milost městským strážím!"
 
 #. [scenario]: id=09_A_Small_Favor3
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:5
 msgid "A Small Favor — Part 3"
-msgstr "Malá Laskavost - Část třetí"
+msgstr "Malá laskavost – část třetí"
 
 #. [side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:47
@@ -2868,14 +2874,12 @@ msgstr "Strážce"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:196
 msgid "Retrieve the book and escape"
-msgstr "Najdi knihu a uteč"
+msgstr "Získej knihu a uteč"
 
 #. [command]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:362
-#, fuzzy
-#| msgid "Dark Mage"
 msgid "Mage"
-msgstr "Temný mág"
+msgstr "Mág"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:465
