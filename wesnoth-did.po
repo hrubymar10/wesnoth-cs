@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-06-09 00:33+0200\n"
+"PO-Revision-Date: 2019-06-10 23:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -34,7 +34,7 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:14
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:5
 msgid "Descent into Darkness"
-msgstr "Pád do Temnoty"
+msgstr "Pád do temnoty"
 
 #. [campaign]: id=Descent_into_Darkness
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:15
@@ -3470,15 +3470,6 @@ msgstr "<i>„Kdo se chce stát lichem, musí nejdříve zemřít.“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:33
-#, fuzzy
-#| msgid ""
-#| "So reads the book that Malin has reclaimed. <i>“The spells of necromancy "
-#| "bind the spirit, but only once it has been unbound from the body. To "
-#| "become a lich, the mage must make the necessary incantations with his "
-#| "dying breaths. He thus binds his own spirit in much the same way "
-#| "necromancers bind the spirits of others. Because he retains his own will, "
-#| "however, the lich can call upon the awesome powers of the spirit world.”</"
-#| "i>"
 msgid ""
 "So reads the book that Malin has reclaimed. <i>“The spells of necromancy can "
 "free the spirit from the limitations of the flesh, but only once the soul "
@@ -3487,12 +3478,12 @@ msgid ""
 "same way he binds the spirits of others. Because he retains his own will, "
 "however, the lich can call upon the awesome powers of the spirit world.”</i>"
 msgstr ""
-"V knize, kterou Malin získal, stálo: <i>„Kouzla nekromancie svazují ducha, "
-"ale jenom jakmile jsou přerušeny jeho vazby s tělem. Pro dosáhnutí "
-"lichovského bytí musí mág vykonat nezbytná zaklínadla s odumírajícím dechem. "
-"Tak sváže svého vlastního ducha, stejně jako nekromanté vážou duchy jiných. "
-"Díky tomu si udrží vlastní vůli. Poté může lich povolat úžasné síly z říše "
-"duchů.“</i>"
+"V knize, kterou Malin získal, stojí: <i>„Kouzla nekromancie mohou osvobodit "
+"ducha od omezení tělem, ale jen tehdy, když byla z těla uvolněna duše. Svým "
+"umírajícím dechem musí nekromant vyslovit zaklínadla a pak si podrobit "
+"vlastního ducha téměř stejně, jako svazuje duchy jiných. Nicméně, protože si "
+"ponechá svou vlastní vůli, může lich vyzvat děsivé mocnosti z duchovního "
+"světa.“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:37
@@ -3503,37 +3494,27 @@ msgid ""
 "in the back of his mind. Life has offered him nothing; could death be any "
 "worse? Death... and not rebirth, but undeath."
 msgstr ""
+"Malin zavírá knihu. Po takové době a po tom všem, za co bojoval, mohl přežít "
+"jen aby si zoufal a zahynul? Mohl by... byl by se jen vzdal, přesně takhle? "
+"Přesto ta slova, ta úděsná představa, utkvěla v jeho podvědomí. Život mu nic "
+"nenabídl; mohla by smrt být ještě horší? Smrt... a ne znovuzrození, ale "
+"nemrtvo."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:41
-#, fuzzy
-#| msgid ""
-#| "The words, and the idea, stick in the back of his mind. With all of "
-#| "Wesnoth forbidden to him, Malin finds refuge in a nameless frontier "
-#| "village where few questions are asked. When word filters to the town that "
-#| "Parthyn has been overrun by orcs, it rekindles hatred within him. With "
-#| "renewed purpose, he raises his undead minions and travels northward."
 msgid ""
 "With all of Wesnoth forbidden to him, Malin finds refuge in a secluded "
 "frontier village where few questions are asked. When word eventually filters "
 "to the town that Parthyn has been overrun by orcs, Malin rouses himself from "
 "his listless state without really knowing why, and heads northward."
 msgstr ""
-"Ta slova a myšlenka se mu pevně usadily v mysli. Celý Wesnoth na něj "
-"zapomněl a on našel útočiště v bezejmenné pohraniční vesničce, kde se ho "
-"nikdo moc neptal. Když se doslechl, že Parthyn byl obsazen skřety, probudilo "
-"to v něm opět nenávist. Pozvedl své nemrtvé služebníky s obnoveným cílem a "
-"vydal se na sever."
+"S tím, že je mu veškerý Wesnoth zapovězený, nachází Malin útočiště v odlehlé "
+"pohraniční vesnici, kde se ho nikdo nevyptává. Když nakonec do vsi pronikne "
+"zpráva, že byl Parthyn obsazen skřety, probírá se Malin z netečnosti, aniž "
+"by doopravdy věděl proč a zamíří směrem na sever."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:45
-#, fuzzy
-#| msgid ""
-#| "Malin soon finds the track of an enormous orc army, and follows them "
-#| "until he reaches their camp. As he sees the number of orcs, the enormity "
-#| "of his quest begins to dawn on him. He attacks the camp anyway but is "
-#| "quickly driven back, and badly injured by a thrown orcish dagger as he "
-#| "retreats. He finds refuge in a small cave."
 msgid ""
 "Malin soon finds the track of an enormous orc army and follows them until he "
 "reaches their camps. As he sees the number of orcs, he begins to realize the "
@@ -3541,10 +3522,11 @@ msgid ""
 "different task than waging a truly meaningful war against them as a whole. "
 "Then again, perhaps he is beyond the point of ordinary reason."
 msgstr ""
-"Malin brzy našel stopu obrovské skřetí armády a sledoval ji dokud nenašel "
-"jejich ležení. Když viděl tolik skřetů, velikost jeho úkolu na něj těžce "
-"dolehla. I tak ale napadl skřetí ležení, ale byl rychle zatlačen zpět a "
-"těžce zraněn hozenou skřetí dýkou, když ustupoval. Schoval se v malé jeskyni."
+"Malin brzy nachází stopu obrovské skřetí armády a sleduje ji, dokud nedorazí "
+"k jejich ležení. Jak před sebou vidí množství skřetů, začíná si uvědomovat "
+"marnost svého hledání - dorážet a dotírat na jeden skřetí klan je úkol na "
+"hony vzdálený tomu, vést opravdu smysluplnou válku proti nim jako celku. Na "
+"druhou stranu je možná za bodem běžného uvažování."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:49
@@ -3554,6 +3536,10 @@ msgid ""
 "entire army is destroyed and he is badly injured by a poisoned dagger. Malin "
 "retreats and finds refuge in a small cave."
 msgstr ""
+"<i>Stejně mi nic jiného nezbývá,</i> myslí si Malin a pozvedá své nemrtvé, "
+"aby napadl tábor. Během pouhých několika minut je skoro veškeré jeho vojsko "
+"zničeno a on sám těžce raněn otrávenou dýkou. Malin ustupuje a nachází "
+"útočiště v malé jeskyni."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:243
