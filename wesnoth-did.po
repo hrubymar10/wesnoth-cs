@@ -895,9 +895,9 @@ msgid ""
 "of disease and poison. Those that outlive their masters gravitate towards "
 "the natural decay present in swamps and bogs."
 msgstr ""
-"Jsou to požírači mrtvých: odporné bytosti přetvořené z živého masa na těla "
-"choroby a jedu. Ti, kteří přežijí své pány, tíhnou k místům přirozeného "
-"rozkladu, jako jsou bažiny a močály."
+"Jsou to požírači mrtvých: odporné bytosti přetvořené z živých těl na "
+"zdechliny plné choroby a jedu. Ti, kteří přežijí své pány, tíhnou k místům "
+"přirozeného rozkladu, jako jsou bažiny a močály."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:355
@@ -3456,7 +3456,7 @@ msgid ""
 "is gone. Everyone is dead. Is this truly all that I am left with?"
 msgstr ""
 "Vše, za co jsem bojoval, všichni, které jsem se snažil chránit, všechno je "
-"pryč. Všichni jsou mrtví. Je to opravdu to celé, co mi zbylo?"
+"pryč. Všichni jsou mrtví. Opravdu mi nic nezbylo?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Alone_at_Last.cfg:959
@@ -3478,12 +3478,12 @@ msgid ""
 "same way he binds the spirits of others. Because he retains his own will, "
 "however, the lich can call upon the awesome powers of the spirit world.”</i>"
 msgstr ""
-"V knize, kterou Malin získal, stojí: <i>„Kouzla nekromancie mohou osvobodit "
-"ducha od omezení tělem, ale jen tehdy, když byla z těla uvolněna duše. Svým "
-"umírajícím dechem musí nekromant vyslovit zaklínadla a pak si podrobit "
-"vlastního ducha téměř stejně, jako svazuje duchy jiných. Nicméně, protože si "
-"ponechá svou vlastní vůli, může lich vyzvat děsivé mocnosti z duchovního "
-"světa.“</i>"
+"Tak to stojí v knize, kterou Malin získal: <i>„Kouzla nekromancie mohou "
+"osvobodit ducha od omezení tělem, ale jen tehdy, když byla z těla uvolněna "
+"duše. Svým umírajícím dechem musí nekromant vyslovit zaklínadla a pak si "
+"podrobit vlastního ducha téměř stejně, jako svazuje duchy jiných. Nicméně, "
+"protože si ponechá svou vlastní vůli, může lich vyzvat děsivé mocnosti "
+"z duchovního světa.“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:37
@@ -3495,10 +3495,10 @@ msgid ""
 "worse? Death... and not rebirth, but undeath."
 msgstr ""
 "Malin zavírá knihu. Po takové době a po tom všem, za co bojoval, mohl přežít "
-"jen aby si zoufal a zahynul? Mohl by... byl by se jen vzdal, přesně takhle? "
-"Přesto ta slova, ta úděsná představa, utkvěla v jeho podvědomí. Život mu nic "
-"nenabídl; mohla by smrt být ještě horší? Smrt... a ne znovuzrození, ale "
-"nemrtvo."
+"jen aby si zoufal a zahynul? Mohl by... chtěl by se jen vzdát, přesně "
+"takhle? Přesto ta slova, ta úděsná představa, utkvěla v jeho podvědomí. "
+"Život mu nic nenabídl; mohla by smrt být ještě horší? Smrt... a ne "
+"znovuzrození, ale nemrtvo."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:41
@@ -3526,7 +3526,7 @@ msgstr ""
 "k jejich ležení. Jak před sebou vidí množství skřetů, začíná si uvědomovat "
 "marnost svého hledání - dorážet a dotírat na jeden skřetí klan je úkol na "
 "hony vzdálený tomu, vést opravdu smysluplnou válku proti nim jako celku. Na "
-"druhou stranu je možná za bodem běžného uvažování."
+"druhou stranu, on je možná za hranicí, kdy uvažuje normálně."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:49
@@ -3544,26 +3544,22 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:243
 msgid "Cursed beasts!"
-msgstr ""
+msgstr "Prokletá zvěř!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:255
-#, fuzzy
-#| msgid ""
-#| "I won’t go down like this, felled by an orc’s blade. I won’t see them "
-#| "defeat me!"
 msgid "I won’t go down like this, felled by an orc’s blade!"
-msgstr "Nechci umřít takhle, padnout skřetí čepelí. Nechci, aby mne porazili!"
+msgstr "Takhle nezajdu, padnout skřetí čepelí!"
 
 #. [message]: role=advisor
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:363
 msgid "Master, you are gravely injured!"
-msgstr "Mistře, jste smrtelně zraněn!"
+msgstr "Pane, jste smrtelně zraněn!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:368
 msgid "So it seems..."
-msgstr ""
+msgstr "Už to tak vypadá..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:373
@@ -3571,13 +3567,13 @@ msgid ""
 "Perhaps it would be a suitable end. The orcs were the ones who provoked this "
 "journey of mine. Would it not be fitting for them to end my quest as well?"
 msgstr ""
+"Možná by to byl příhodný konec. Skřeti byli ti, kdo tuhle moji cestu "
+"vyprovokovali. Nebylo by pro ně případné, kdyby také ukončili mé hledání?"
 
 #. [message]: role=advisor
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:378
-#, fuzzy
-#| msgid "There is another way, master. Remember the book..."
 msgid "There is another way, master. Remember the book!"
-msgstr "Je tu jiná cesta mistře. Pamatujte na knihu..."
+msgstr "Je tu ještě jiná cesta, pane. Pamatujte na knihu!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:383
@@ -3587,18 +3583,20 @@ msgid ""
 "damned necromancer! And in the end, he betrayed me too, just like Drogan, "
 "just like Dela..."
 msgstr ""
+"Ano... ano. Kniha. Ta polorozpadlá, salátová bichle, za kterou jsem dal duši "
+"a cedil krev. Opustil jsem můj lid, mou rodinu, můj domov... abych "
+"následoval toho zatraceného nekromanta! A nakonec mě taky zradil, stejně "
+"jako Drogan, stejně jako Dela..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:388
 msgid "Everyone has betrayed me. I am alone. All that is left..."
-msgstr ""
+msgstr "Všichni mě zradili. Jsem sám. Všechno, co zbývá..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:417
-#, fuzzy
-#| msgid "Leave me now while I prepare."
 msgid "Leave me while I prepare."
-msgstr "Nech mne o samotě, dokud nebudu připraven."
+msgstr "Nech mě, abych se připravil."
 
 #. [message]: role=advisor
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:422
@@ -3608,7 +3606,7 @@ msgstr "Ano, pane."
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:458
 msgid "... I suppose I have never been one for regrets..."
-msgstr ""
+msgstr "... Mám za to, že jsem nikdy nelitoval..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:478
@@ -3622,35 +3620,34 @@ msgstr "Jsem připraven. Udělej to."
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:791
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:994
 msgid "Limbo"
-msgstr ""
+msgstr "Mimo"
 
 #. [unit]: id=MKFlesh, type=Necrophage
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:569
-#, fuzzy
-#| msgid "Death of Malin Keshar"
 msgid "Flesh of Malin Keshar"
-msgstr "Malin Kešar zemře"
+msgstr "Tělo Malina Kešara"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:617
 msgid "I feel... different. Where am I?"
-msgstr ""
+msgstr "Cítím se... jinak. Kde to jsem?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:622
 msgid "Why is my body still intact? Am I still alive? Or..."
-msgstr ""
+msgstr "Proč je moje tělo pořád netknuté? Jsem stále ještě naživu? Nebo..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:627
 msgid "... something isn’t quite right."
-msgstr ""
+msgstr "... něco není tak docela v pořádku."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:653
 msgid ""
 "I see, accepting death was not enough. To become a lich, I must master it."
 msgstr ""
+"Aha, přijmout smrt nestačilo. Musím se to naučit, abych se stal lichem."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:658
@@ -3658,6 +3655,8 @@ msgid ""
 "First comes the flesh, the physical form of life. Blood is the crux of life "
 "for mortal creatures, but if I wish to ascend beyond that..."
 msgstr ""
+"Nejdřív je tělo, fyzická forma života. Podstatou života smrtelných tvorů je "
+"krev, ale pokud chci dosáhnout až za to..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:711
@@ -3666,27 +3665,29 @@ msgid ""
 "additional abilities he obtains if he steps off of the corresponding "
 "runestone."
 msgstr ""
+"Šlápnutí na runy poskytne Malinovi dočasné vylepšení. Jestliže z příslušného "
+"runového kamene vykročí, ztratí všechny dodatečné schopnosti, které získal."
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:719
 msgid "Complete the ritual"
-msgstr ""
+msgstr "Dokonči obřad"
 
 #. [note]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:726
 msgid ""
 "While Malin is standing on a runestone, he receives additional abilities"
-msgstr ""
+msgstr "Dokud Malin stojí na runovém kameni, získává dodatečné schopnosti"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:762
 msgid "The flesh dies, and then..."
-msgstr ""
+msgstr "Tělo umírá a pak..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:827
 msgid "Drain the blood, strip away the meat, and all that is left is the bone."
-msgstr ""
+msgstr "Vypustit krev, odstranit maso a zbyde pouze kost."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:853
@@ -3698,23 +3699,27 @@ msgid ""
 "and friends, yes, but they were nothing but simpletons. Would that they had "
 "tried to understand me instead of shunning me outright."
 msgstr ""
+"Pamatuji doby, kdy jsem myslel, že kostlivci jsou odpudivé, nechutné věci. "
+"Počítám, že je pro živé jen přirozené, když se bojí toho nejvýraznějšího "
+"zosobnění smrti. I kdybych z takového bláhového myšlení vyrostl... Mám za "
+"to, že jsem nemohl očekávat, že Drogan a Dela tak snadno udělají totéž. Má "
+"rodina a přátelé, ano, ale nebyli to nic než prosťáčci. Kéž by mi zkusili "
+"porozumět místo aby se mi úplně vyhýbali."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:858
 msgid "I do not really regret following my own path that much."
-msgstr ""
+msgstr "Doopravdy zas tak moc nelituji, že se držím své vlastní cesty."
 
 #. [unit]: id=MKBone, type=Revenant
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:923
-#, fuzzy
-#| msgid "Death of Malin Keshar"
 msgid "Bones of Malin Keshar"
-msgstr "Malin Kešar zemře"
+msgstr "Kosti Malina Kešara"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:965
 msgid "The physical form collapses altogether. What remains?"
-msgstr ""
+msgstr "Tělesná podoba se úplně hroutí. Co zůstává?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1053
@@ -3722,6 +3727,8 @@ msgid ""
 "The soul. Dela always said I was a creature without a soul. I suppose she "
 "was jesting at the time, but perhaps not after I killed Drogan."
 msgstr ""
+"Duše. Dela vždycky říkala, že jsem tvor bez duše. Předpokládám, že tenkrát "
+"vtipkovala, ale asi ne potom, co jsem zabil Drogana."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1058
@@ -3732,6 +3739,11 @@ msgid ""
 "to orcs than follow my ‘sorcerous ways’. Drogan, Dela... all of them! They "
 "are the ones without souls, not me!"
 msgstr ""
+"Pcha! Tuhle hru můžou hrát dva. Vždycky jsem bojoval, jen abych chránil svůj "
+"lid a svou rodinu, ale za to jsem si vysloužil jen opovržení a vyhnanství. "
+"Vlastní sestra mě nebude poslouchat. Moji lidé raději nakrmí skřety sami "
+"sebou, než aby chápali mé ‚čarodějnické způsoby‘. Drogan, Dela... ti "
+"všichni! To oni jsou bez duše, ne já!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1063
@@ -3739,18 +3751,18 @@ msgid ""
 "I should not really care anymore. According to them, I have forsaken my soul "
 "already. So what does it matter?"
 msgstr ""
+"Už bych to fakt neměl řešit. Podle nich už jsem svou duši opustil. Tak co na "
+"tom záleží?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1068
 msgid "I should not regret anything. I’m not really one for regrets..."
-msgstr ""
+msgstr "Neměl bych vůbec litovat. Opravdu ničeho nelituju..."
 
 #. [unit]: id=MKSpirit, type=Spectre
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1135
-#, fuzzy
-#| msgid "Death of Malin Keshar"
 msgid "Soul of Malin Keshar"
-msgstr "Malin Kešar zemře"
+msgstr "Duše Malina Kešara"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1192
@@ -3758,17 +3770,19 @@ msgid ""
 "These thralls contain only a meager amount of energy, but enough to sustain "
 "me."
 msgstr ""
+"Tihle porobení obsahují jen mizerné množství síly, ale dost na to, abych "
+"vydržel."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1208
 msgid ""
 "The flesh appears, distorted and warped, but somehow strangely familiar."
-msgstr ""
+msgstr "Tělo vypadá zkrouceně a pokřiveně, ale nějak zvláštně povědomé."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1222
 msgid "I feel an aching in my bones, as if my joints are about to fall apart."
-msgstr ""
+msgstr "Cítím bolest v kostech, jako by se moje klouby chystaly rozpadnout."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1236
@@ -3776,36 +3790,38 @@ msgid ""
 "Cold... it’s so very cold. Not a biting chill, but a numbness, an emptiness, "
 "as if there is nothing left inside of me..."
 msgstr ""
+"Studené... je to hodně studené. Ne palčivý mráz, ale znecitlivění, "
+"prázdnota, jako by uvnitř mne nic nezůstalo."
 
 #. [leadership]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1270
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1271
 msgid "conscience"
-msgstr ""
+msgstr "svědomí"
 
 #. [leadership]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1272
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1273
 msgid "This unit has its damage increased by 50%"
-msgstr ""
+msgstr "Tato jednotka zvýšila své poškození o 50%"
 
 #. [resistance]: id=carapace
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1324
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1325
 msgid "carapace"
-msgstr ""
+msgstr "krunýř"
 
 #. [resistance]: id=carapace
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1326
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1327
 msgid "This unit gains 40% to all resistances."
-msgstr ""
+msgstr "Tato jednotka získává 40% ke všem odolnostem."
 
 #. [regenerate]: id=lifeblood
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1374
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1375
 msgid "lifeblood"
-msgstr ""
+msgstr "životní síla"
 
 #. [regenerate]: id=lifeblood
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1376
@@ -3813,6 +3829,8 @@ msgid ""
 "This unit will heal 40 HP every turn. If it is poisoned, it will remove the "
 "poison instead of healing."
 msgstr ""
+"Tato jednotka se každé kolo uzdraví o 40 životů. Jestliže je otrávena, je "
+"místo uzdravování odstraněn jed."
 
 #. [regenerate]: id=lifeblood
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1377
@@ -3820,11 +3838,13 @@ msgid ""
 "This unit will 40 HP every turn. If it is poisoned, it will remove the "
 "poison instead of healing."
 msgstr ""
+"Tato jednotka se každé kolo uzdraví o 40 životů. Jestliže je otrávena, je "
+"místo uzdravování odstraněn jed."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1504
 msgid "These runes seem to be useful."
-msgstr ""
+msgstr "Tyhle runy vypadají užitečně."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1560
@@ -3834,30 +3854,25 @@ msgstr "Temnota..."
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1569
 msgid "and peace..."
-msgstr "a mír..."
+msgstr "a klid..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1578
 msgid "for a moment."
-msgstr "na chvíli."
+msgstr "na okamžik."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1587
-#, fuzzy
-#| msgid ""
-#| "Then they are replaced by a pulling, a pain too strong to resist, and "
-#| "then..."
 msgid ""
 "Then, they are replaced by a pulling, a pain too strong to resist, and "
 "then..."
-msgstr "Potom jsou nahrazeni bolestí tak silnou, že nelze vzdorovat a pak..."
+msgstr ""
+"Potom jsou vystřídány křečí, bolestí tak silnou, že nejde vydržet a pak..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1592
-#, fuzzy
-#| msgid "by emptiness."
 msgid "... by emptiness."
-msgstr "...prázdnota."
+msgstr "... prázdnotou."
 
 #. [modify_side]
 #. [side]
@@ -3879,10 +3894,8 @@ msgstr "Zima, pálí!"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1697
-#, fuzzy
-#| msgid "I need warmth... life... I sense some here!"
 msgid "I need warmth... life..."
-msgstr "Potřebuji teplo... života... cítím ho tu!"
+msgstr "Potřebuju teplo... život..."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1755
@@ -3890,11 +3903,12 @@ msgid ""
 "I sense some primitive life in that direction. Perhaps I can sustain myself "
 "upon them."
 msgstr ""
+"Tímhle směrem tuším nějaký primitivní život. Možná se na nich můžu přiživit."
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:1907
 msgid "Regain your strength"
-msgstr "Získej zpět svou moc"
+msgstr "Získej zpět svou sílu"
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
