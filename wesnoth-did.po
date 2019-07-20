@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-03-11 13:09 UTC\n"
-"PO-Revision-Date: 2019-06-16 12:10+0200\n"
+"PO-Revision-Date: 2019-07-20 11:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3952,7 +3952,7 @@ msgstr "Zpropadené krysy!"
 msgid ""
 "Dela used to be afraid of spiders. Imagine if I showed her something like "
 "this..."
-msgstr "Dela se bála pavouků. Představ si, kdybych jí ukázal něco takového..."
+msgstr "Dela se bála pavouků. Co teprv kdybych jí ukázal něco takového..."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:2059
@@ -4087,7 +4087,7 @@ msgid ""
 "with a draining touch."
 msgstr ""
 "Popel zavíří vzhůru, spálené zbytky kdysi živého. Uhel z kosti, uhlíky "
-"z masa, stráví bledý popel, vysaje sílu dotekem jež vyčerpává."
+"z masa, on sní bledé oharky, načerpá sílu dotekem vysátí."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:2801
@@ -4112,8 +4112,8 @@ msgid ""
 "I sense the lair of something powerful nearby. Capturing that castle may be "
 "a worthwhile endeavor, but I shall have to approach carefully."
 msgstr ""
-"Cítím nedaleko doupě něčeho mocného. Dobýt tenhle hrad může stát za námahu, "
-"ale měl bych postupovat opatrně."
+"Cítím doupě něčeho mocného nedaleko odtud. Dobýt tenhle hrad může stát za "
+"námahu, ale měl bych postupovat opatrně."
 
 #. [unit]: id=Xanthric, type=Fire Dragon
 #. [unit]: id=Xanthric, type=Skeletal Dragon
@@ -4126,12 +4126,12 @@ msgstr "Xanthric"
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:2978
 msgid ""
 "<i><big>What manner of vile creature intrudes upon my domain?!</big></i>"
-msgstr ""
+msgstr "<i><big>Co za odporného tvora tu narušuje moje panství?!</big></i>"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:2983
 msgid "<i>I suppose there is some irony in this.</i>"
-msgstr ""
+msgstr "<i>Řekl bych, že je v tom trochu ironie.</i>"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:2988
@@ -4139,6 +4139,8 @@ msgid ""
 "I was not aware that dragons still existed. This was most unexpected. "
 "Nevertheless, this shall be a worthwhile test of my new powers."
 msgstr ""
+"Nevěděl jsem, že draci stále existují. Toho bych se nenadál. Nicméně, bude "
+"to přínosná zkouška mých nových schopností."
 
 #. [message]: speaker=Xanthric
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:2993
@@ -4147,6 +4149,9 @@ msgid ""
 "Even my lowly elementals will be more than a match for you. Rise, my thralls!"
 "</big></i>"
 msgstr ""
+"<i><big>Taková zchrátralá mrtvola jako ty nemá právo vyzvat na souboj draka! "
+"I moji obyčejní elementálové budou pro tebe víc než dost. Povstaňte, mí "
+"otroci!</big></i>"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3018
@@ -4154,6 +4159,8 @@ msgid ""
 "Fire magic. Annoying, but you are not the only one who can summon minions to "
 "your aid."
 msgstr ""
+"Ohnivá magie. Nepříjemné, ale nejsi jediný, kdo si může na pomoc povolat "
+"služebníky."
 
 #. [message]: speaker=Xanthric
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3084
@@ -4161,6 +4168,8 @@ msgid ""
 "<i><big>A few decrepit souls will do you no good, necromancer. Your bones "
 "shall soon join my garden of carcasses!</big></i>"
 msgstr ""
+"<i><big>Pár vetchých duší ti nebude k ničemu, nekromante. Tvé kosti brzy "
+"přibudou do mé zahrady koster!</big></i>"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3105
@@ -4170,7 +4179,7 @@ msgstr "Poraz Xanthrica"
 #. [note]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3116
 msgid "At most one rune may be activated each turn"
-msgstr ""
+msgstr "Každé kolo může být aktivována nejvýše jedna runa."
 
 #. [message]: speaker=Xanthric
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3139
@@ -4178,6 +4187,8 @@ msgid ""
 "<i><big>How dare you?! That stone is <b>my</b> throne! I am the king of this "
 "domain!</big></i>"
 msgstr ""
+"<i><big>Jak se opovažuješ?! Tento kámen je <b>mým</b> trůnem! Já jsem králem "
+"tohoto panství!</big></i>"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3144
@@ -4185,11 +4196,13 @@ msgid ""
 "Peasant, warrior, king or emperor, all living things are the subjects of "
 "death. Eternity will claim your soul as its own if I do not."
 msgstr ""
+"Rolník, válečník, král nebo císař, vše živé podléhá smrti. Když ne já, tak "
+"věčnost si vyžádá tvou duši jako svoji vlastní."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3391
 msgid "There are many corpses around here. I can use them to my advantage."
-msgstr ""
+msgstr "Je tu všude kolem dost mrtvol. Můžu je využít pro svůj prospěch."
 
 #. [message]: speaker=Xanthric
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3420
@@ -4198,15 +4211,13 @@ msgstr "Jak se to mohlo stát..."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3425
-#, fuzzy
-#| msgid "You are even more of a fool than I thought."
 msgid "You were not as powerful as you thought."
-msgstr "Jsi hloupější, než jsem si myslel."
+msgstr "Nebyls tak silný, jak sis myslel."
 
 #. [message]: speaker=Xanthric
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3440
 msgid "<i>I feel... so... cold...</i>"
-msgstr ""
+msgstr "<i>Je mi... taková... zima...</i>"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3450
@@ -4215,6 +4226,8 @@ msgid ""
 "later. First, I shall have to test the extent to which I can push these new "
 "powers."
 msgstr ""
+"Takže to zvíře umírá. Později budu muset tohle doupě trochu upravit. Nejdřív "
+"ale musím vyzkoušet rozsah svých nových schopností."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3552
@@ -4225,6 +4238,10 @@ msgid ""
 "draw breath! I laugh, for now, you are all naught but remains and dust, and "
 "I live on, alone..."
 msgstr ""
+"Výborně! Má vůle je dost silná i na zdolání draka. Už není, kdo by se mohl "
+"proti mně postavit! Těm, kdo mne dříve proklínali: Plivu na vás! Protože já "
+"jsem Mal Kešar Zatracený, zavržen všemi lidmi, opuštěn vším co žije a dýchá! "
+"Teď se směju, všichni nejste víc než ostatky a prach a já žiju dál, sám..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:3570
