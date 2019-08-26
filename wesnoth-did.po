@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-08-22 03:23 UTC\n"
-"PO-Revision-Date: 2019-07-20 11:39+0200\n"
+"PO-Revision-Date: 2019-08-26 03:39+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Descent_into_Darkness
 #. [scenario]: id=11_Descent_into_Darkness
@@ -350,10 +350,8 @@ msgstr "Malin Kešar zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:197
-#, fuzzy
-#| msgid "Death of Malin Keshar"
 msgid "Death of Dela Keshar"
-msgstr "Malin Kešar zemře"
+msgstr "Dela Kešar zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:201
@@ -4652,10 +4650,8 @@ msgstr "Jsem odsouzen, abych navždy bojoval s bláznivými hrdiny?"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:916
-#, fuzzy
-#| msgid "Is this going to keep happening?"
 msgid "How long is this going to keep happening?"
-msgstr "Bude se to dít stále?"
+msgstr "Jak dlouho se to ještě bude opakovat?"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:929
@@ -4745,10 +4741,8 @@ msgstr "<small>(předstírá bolest)</small> Aaargh!"
 #. [message]: role=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1088
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1116
-#, fuzzy
-#| msgid "It’s not catching fire, sir."
 msgid "It’s not catching fire!"
-msgstr "Nechytá to oheň, pane."
+msgstr "Nechytá to oheň!"
 
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1093
@@ -5017,10 +5011,8 @@ msgstr ""
 #. [message]: role=speakinghero
 #. regular english - Yes. Let's get to work.
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1441
-#, fuzzy
-#| msgid "Phew! Let’s get out of here."
 msgid "Aye. Let’s git to workin’."
-msgstr "Uf! Rychle odsud."
+msgstr "Uf! Rychle do práce."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1449
@@ -5053,13 +5045,13 @@ msgstr ""
 #. [message]: role=speakinghero
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1498
 msgid "Well, what is it?"
-msgstr ""
+msgstr "Co je to?"
 
 #. [message]: role=second
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1503
 msgid ""
 "I don’t know, but it looks like someone wrote something inside! It says:"
-msgstr ""
+msgstr "Nevím, ale vypadá to, že někdo něco napsal dovnitř! Píše se tu:"
 
 #. [message]: speaker=narrator
 #. hahaha is Zephrin laughing
@@ -5142,18 +5134,15 @@ msgstr "Temný mág"
 
 #. [unit_type]: id=Dark Mage, race=human
 #: data/campaigns/Descent_Into_Darkness/units/Dark_Mage.cfg:17
-#, fuzzy
-#| msgid ""
-#| "Although Malin’s sword has grown rusty from lack of proper care, his "
-#| "increasing skill with magic more than compensates."
 msgid ""
 "Although Malin’s sword has grown rusty from lack of proper care, he "
 "continues to use it for melee combat, perhaps more as a keepsake than an "
 "effective weapon. His increasing skill with magic, however, is more than "
 "enough to compensate."
 msgstr ""
-"Ačkoli Malinův meč zrezavěl díky nedostatku pořádné péče, jeho vzrůstající "
-"magické síly to více než vynahrazují."
+"Ačkoli Malinův meč zrezavěl díky nedostatku pořádné péče, nadále ho využívá "
+"pro boj na blízko, možná ale více na památku než jako účinnou zbraň. Jeho "
+"vzrůstající magické síly to ale více než vynahrazují."
 
 #. [unit_type]: id=Frontier Baroness, race=human
 #: data/campaigns/Descent_Into_Darkness/units/Frontier_Baroness.cfg:6
@@ -5193,20 +5182,13 @@ msgstr "Ještě nejsem připraven zemřít..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/utils/deaths.cfg:48
-#, fuzzy
-#| msgid ""
-#| "Fool boy! You have allowed my death, and now none in this world will aid "
-#| "you."
 msgid "Fool boy! With my demise, none in this world will aid you..."
-msgstr "Hloupý kluku! Dopustil jsi mou smrt a teď ti nikdo na světě nepomůže."
+msgstr "Hloupý kluku! Díky mému zániku vám v tomto světě nikdo nepomůže..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/utils/deaths.cfg:66
-#, fuzzy
-#| msgid ""
-#| "No! I will not fall this close to achieving the goal of so many years!"
 msgid "No! I was so close... to achieving my goal... of so many years..."
-msgstr "Ne! Nepadnu tak blízko cíle po tolika letech!"
+msgstr "Ne! Byl jsem tak blízko... k dosažení mého cíle... po tolika letech..."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/utils/deaths.cfg:81

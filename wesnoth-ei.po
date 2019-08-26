@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-08-22 03:23 UTC\n"
-"PO-Revision-Date: 2019-05-25 21:15+0200\n"
+"PO-Revision-Date: 2019-08-26 03:51+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:13
@@ -663,19 +663,14 @@ msgstr "Nalezli jsme vás, smrtelníci! Připravte se na smrt!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:452
-#, fuzzy
-#| msgid ""
-#| "They follow us... we must get out of this tunnel. It looks like it is "
-#| "leading east. That is unfortunate, for it will take us beyond the borders "
-#| "of Wesnoth. But it is our only option."
 msgid ""
 "They follow us... we must escape through this tunnel. That is unfortunate, "
 "for it will take us into the Estmark hills, beyond the borders of Wesnoth. "
 "But it is our only option."
 msgstr ""
-"Pronásledují nás... musíme sa dostat z tohoto tunelu. Zdá sa, že vede na "
-"východ. To je smůla, protože nás to odvede dál od Weldynu. Ale je to naše "
-"jediná možnost."
+"Pronásledují nás... musíme utéct tímto tunelem. To je smůla, protože nás to "
+"zavede do Estmarkských hor, za hranicemi Wesnothu. Ale je to naše jediná "
+"možnost."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:489
@@ -751,30 +746,23 @@ msgstr "To ovšem bude tvůj problém."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:214
-#, fuzzy
-#| msgid ""
-#| "These undead are toying with us! This adept is weak — we may be able to "
-#| "take his fort."
 msgid ""
 "These undead are toying with us! This adept is weak — we should attack at "
 "once and take his fort."
 msgstr ""
-"Títo nemrtví si s námi hrají! Tento učedník je slabý - mohli bychom zabrat "
-"jeho hrad."
+"Títo nemrtví si s námi hrají! Tento učedník je slabý - měli bychom zaútočit "
+"najednou a zabrat jeho pevnost."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:219
-#, fuzzy
-#| msgid ""
-#| "A good idea. Then, we must kill either of the dark sorcerers. I would "
-#| "prefer to attack the western one, so we can return to Wesnoth."
 msgid ""
 "Indeed, I see no better option. Then, we must kill either of the dark "
 "sorcerers. I would prefer to attack the western one, so we can return to "
 "Wesnoth."
 msgstr ""
-"Dobrý nápad. Musíme teda zabít některého z temných čarodějů. Raději bych "
-"zabil toho na západě, abychom se mohli dostat zpět do Wesnothu."
+"Přesně tak. Nevidím žádnou lepší možnost. Musíme teda zabít některého z "
+"temných čarodějů. Raději bych zabil toho na západě, abychom se mohli dostat "
+"zpět do Wesnothu."
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:231
@@ -1684,10 +1672,8 @@ msgstr "Grug"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07a_The_Crossing.cfg:104
-#, fuzzy
-#| msgid "Move Gweddry and Owaec across the river"
 msgid "Move Gweddry, Owaec, and Dacyn across the river"
-msgstr "Přesuň Gweddryho a Owaeca přes řeku"
+msgstr "Přesuň Gweddryho, Owaeca a Dacyna přes řeku"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07a_The_Crossing.cfg:145
@@ -2195,7 +2181,7 @@ msgstr "Proklatí elfi! Asi jsme se měli spojit s lidmi..."
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:393
 msgid "Let us forge onward toward Lake Vrug."
-msgstr ""
+msgstr "Pokračujme směrem k jezeru Vrug."
 
 #. [scenario]: id=10_Lake_Vrug
 #: data/campaigns/Eastern_Invasion/scenarios/10_Lake_Vrug.cfg:4
