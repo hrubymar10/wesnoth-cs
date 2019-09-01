@@ -4151,7 +4151,7 @@ msgid ""
 "with a draining touch."
 msgstr ""
 "Popel zavíří vzhůru, spálené zbytky kdysi živého. Uhel z kosti, uhlíky "
-"z masa, on sní bledé oharky, načerpá sílu dotekem vysátí."
+"z masa, on pozře bledé oharky, načerpá sílu dotekem vysátí."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:2801
@@ -4319,22 +4319,16 @@ msgstr "Noc bez konce"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Years pass. Every summer when the mountain passes become clear, the lich "
-#| "sends his soldiers to attack the orcs, removing any human, elven, or "
-#| "dwarvish patrols that get in the way. Every year the undead inflict some "
-#| "damage before being repelled and retreating to the caves."
 msgid ""
 "Years pass. Every summer, by the time the mountainous paths and high passes "
 "shed their wintry gowns of snow, the lich sends his soldiers to attack the "
 "orcs, removing all human, elven, and dwarven patrols that impede them. Every "
 "year, the undead inflict some damage before being repelled."
 msgstr ""
-"Roky plynuly. Každé léto, když sníh v horských průsmycích roztál, lich "
-"poslal své vojáky k útoku na skřety, přičemž zlikvidoval každou lidskou, "
-"elfskou nebo trpasličí patrolu, která mu stála v cestě. Každý rok nemrtví "
-"způsobili nějakou škodu, než byli zapuzeni a ustoupili do jeskyní."
+"Roky plynou. Každé léto v čase, kdy horské cesty a vysoké průsmyky "
+"vysvléknou svůj zimní háv, posílá lich své vojáky napadnout skřety "
+"odstraňuje všechny lidské, elfí a trpasličí hlídky, které jim brání. Každý "
+"rok nemrtví způsobí nějakou škodu, než jsou odraženi."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:29
@@ -4343,11 +4337,14 @@ msgid ""
 "crusade, but then again, so what? Life, unlife, death... nothing has ever "
 "given his existence meaning. And yet, he still persists on? For what?"
 msgstr ""
+"Lich někdy uvažuje, zda jeho úsilí není nic než bezvýsledné tažení, ale na "
+"druhou stranu, no a co? Život, neživot, smrt... nic nikdy nedalo jeho bytí "
+"smysl. A přesto v tom stále pokračuje? K čemu?"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:33
 msgid "<i>Reason and purpose...</i>"
-msgstr ""
+msgstr "<i>Důvod a smysl...</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:37
@@ -4358,24 +4355,21 @@ msgid ""
 "deliberation, for what use is there to dwell on any alternative? He has "
 "never been one for regrets."
 msgstr ""
+"Nepotřebuje je. Filozofie plodí pouze trápení. Podstatou jeho bytí bylo "
+"násilí a krutost, ty síly, které kdysi řídily jeho život, ty samé "
+"neopustitelné v nemrtvu. Raději bez rozmyšlení jednoduše zabít, k čemu je "
+"rozebírat všechny možnosti? On nikdy ničeho nelitoval."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:47
 msgid "Mal Keshar continues to study the book and re-reads the final entry."
-msgstr ""
+msgstr "Mal Kešar pokračuje ve studiu knihy a znovu čte poslední zápis."
 
 #. [part]
 #. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
 #. This text comes from the epilogue of Secrets of the Ancients, edited to avoid revealing the name of the campaign or the names of the protagonists
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:52
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:67
-#, fuzzy
-#| msgid ""
-#| "<i>“I realize now... the world is not ready for our knowledge. I give up "
-#| "on all of them. I am going to live in the old troll city and learn the "
-#| "applications of mountain fire. In some future time, less conservative "
-#| "attitudes will dominate, and I can certainly afford to wait. In the "
-#| "meantime, we are doing what we can to hasten that day.”</i>"
 msgid ""
 "<i>“We prevailed today on the field, but our victory did not please me. I "
 "realize now... the world is not ready for our knowledge. They cannot "
@@ -4386,11 +4380,13 @@ msgid ""
 "use. I can certainly afford to wait. In the meantime, we are doing what we "
 "can to hasten that day.”</i>"
 msgstr ""
-"<i>“Nyní jsem si to uvědomil… Svět ještě není připravený na naší moudrost. "
-"Vzdala jsem se všeho a všech. Jdu žít do starého města trolů a naučím se "
-"využít horský oheň. Někdy v budoucnu převládne méně konzervativní myšlení a "
-"mně se a to určitě vyplatí počkat. Zatím se vynasnažíme udělat vše pro to, "
-"aby se ten den přiblížil.”</i>"
+"<i>„Dnes jsme opanovali pole, ale naše vítězství mne netěší. Nyní si "
+"uvědomuji... svět není připraven pro naše vědění. Nemohou rozumět tomu, že "
+"jsme přemohli prvotní strach: smrt. Místo toho, když na nás pohlížejí, soud "
+"našeho vzezření je vede k nevědomé hrůze. Vzdávám to s nimi. [...] Někdy "
+"v budoucnu mohou převládnout méně konzervativní postoje a naše vědění se "
+"bude hodit. Jistě si mohu dovolit čekat. Mezitím děláme co se dá, abychom "
+"uspíšili ten den.“</i>"
 
 #. [part]
 #. More text from the epilogue of Secrets of the Ancients
@@ -4405,6 +4401,11 @@ msgid ""
 "minded. Tath, in particular, is home to many mages. It only takes one who is "
 "willing to learn...”</i>"
 msgstr ""
+"<i>„Co se mne týká, učiním můj deník na tomto bojišti nápadným. Mám dojem, "
+"že většina se ho bude bát dost na to, aby jej zničila, ale umístil jsem do "
+"svého deníku několik ochran, abych jej zajistil. Tak by měl přetrvat dost "
+"dlouho na to, aby si našel cestu do rukou někoho více otevřeného. Obzvláště "
+"Tath je domovem mnoha mágů. Stačí jeden, který bude ochoten se učit...“</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:76
@@ -4413,6 +4414,9 @@ msgid ""
 "both of them were being used as pawns by the author of the book. Has his "
 "whole existence been nothing more than that of a puppet?"
 msgstr ""
+"Ten poslední zápis Malina Kešara sžírá. Zatímco byl figurkou Darkena Volka, "
+"oba byli použiti jako figurky autorem této knihy. Nebyl celý svůj život "
+"pouhou loutkou?"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:80
@@ -4425,6 +4429,13 @@ msgid ""
 "necromancy as merely another magical art, could it eventually be accepted in "
 "society?"
 msgstr ""
+"Nicméně navzdory svým pochybnostem o tom, jak byl ovládán, cítí, že se z té "
+"knihy může něco naučit. Skřeti byli vždy pouze polovinou příběhu – tou "
+"druhou byli jeho vlastní lidé neschopní přijmout jeho používání temné magie. "
+"Ale kdyby dovolil bláhovému hrdinovi vzít si opis té knihy, mohli by nakonec "
+"další kráčet v jeho stopách? Kdyby dost lidí začalo pohlížet na nekromancii "
+"jako na pouhé další magické umění, mohla by být nakonec přijata ve "
+"společnosti?"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:89
@@ -4432,6 +4443,8 @@ msgid ""
 "The book still sits on a dusty shelf in Mal Keshar’s keep, untended and "
 "untouched, but constantly plaguing the forefront of the lich’s mind."
 msgstr ""
+"Kniha stále leží na zaprášené polici ve tvrzi Mala Kešara, opomíjená, "
+"netknutá, ale lich ji nemůže dostat z hlavy."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:93
@@ -4444,19 +4457,21 @@ msgid ""
 "any conclusions, but a slightly embellished copy of the tome sits there in "
 "his lair, waiting to be taken."
 msgstr ""
+"Kdyby dovolil bláhovému hrdinovi vzít si opis té knihy, mohli by nakonec "
+"další kráčet v jeho stopách? Bude autorův záměr uskutečněn nebo budou lidé "
+"stále nahlížet na nekromancii jako na kazící moc? Jeden hlas mu říká, že být "
+"přijat společností je něco, co by ho nemělo znepokojovat. Jiný říká, že by "
+"mu nic neudělalo, kdyby to zkusil. Nedochází k žádným závěrům, ale lehce "
+"okrášlený opis bichle leží v jeho doupěti a čeká, kdo si ho vezme."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:99
-#, fuzzy
-#| msgid ""
-#| "Rumors circulate of a lich that preys on scouting patrols. A hero, "
-#| "gathering his loyal troops to him, decides to put an end to the evil."
 msgid ""
 "Rumors circulate of a lich who preys on scouting patrols. A hero, gathering "
 "his loyal troops to him, decides to put an end to the evil."
 msgstr ""
-"Kolovaly zvěsti o lichovi lovícím hlídkující jednotky. Hrdina, shromažďující "
-"jednotky jemu věrné se rozhodl, že s tím zlem skoncuje."
+"Kolují zvěsti o lichovi lovícím výzvědné hlídky. Hrdina, shromažďující "
+"oddíly jemu věrné, se rozhoduje s tím zlem skoncovat."
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:161
@@ -4500,7 +4515,7 @@ msgstr ""
 #. [set_menu_item]: id=lichify
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:243
 msgid "Transform into a lich"
-msgstr ""
+msgstr "Přeměnit na licha"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:273
