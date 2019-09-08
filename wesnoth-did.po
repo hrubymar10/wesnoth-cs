@@ -19,15 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-08-22 03:23 UTC\n"
-"PO-Revision-Date: 2019-08-26 03:39+0200\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
-"Language-Team: Český <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-09-08 15:02+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Gtranslator 3.30.1\n"
 
 #. [campaign]: id=Descent_into_Darkness
 #. [scenario]: id=11_Descent_into_Darkness
@@ -80,6 +80,11 @@ msgid ""
 "sacrificing his own soul in the process.\n"
 "\n"
 msgstr ""
+"Severské pohraniční město Parthyn každoročně čelí nájezdům sousedících "
+"skřetích kmenů. Malin Kešar, vypovězený mág, hledá jakoukoli možnost jak "
+"bránit svůj domov a pomstít se skřetům, i kdyby to znamenalo obětovat při "
+"tom svou vlastní duši.\n"
+"\n"
 
 #. [campaign]: id=Descent_into_Darkness
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:25
@@ -210,15 +215,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:53
-#, fuzzy
-#| msgid ""
-#| "The silence was broken by the irregular shuffle of a man emerging from "
-#| "the trees. He stood before them, a hunched figure with a rasping voice "
-#| "reminiscent of crackling bones. <i>“I am Darken Volk. While I know you do "
-#| "not love my kind, I think it is vital that we put aside our differences "
-#| "for the moment. The orcish menace grows in the north and they will soon "
-#| "return in even greater force. You cannot hope to defend against them "
-#| "without my... help.”</i>"
 msgid ""
 "The silence was broken by the irregular shuffle of a man emerging from the "
 "trees. He stood before them, a hunched figure with a rasping voice "
@@ -229,12 +225,13 @@ msgid ""
 "help. For now, however, I ask only to refresh myself in your town.”</i>"
 msgstr ""
 "Ticho bylo přerušeno nepravidelným zvukem šourajících nohou muže vynořivšího "
-"se z lesa. Stál před nimi, shrbená postava s chraplavým hlasem připomínající "
-"skřípající kosti. <i>„Jsem Darken Volk. I když vím, že nemáte našince "
-"v lásce, mám za to, že je životně důležité, abychom na chvíli odložili "
-"stranou naše vzájemné odlišnosti. Na severu roste skřetí hrozba a oni se "
-"brzy vrátí v ještě větší síle. Nemůžete doufat, že se jim ubráníte bez mé... "
-"pomoci.”</i>"
+"se z lesa. Stál před nimi, shrbená postava s chraplavým hlasem "
+"připomínajícím skřípající kosti. <i>„Jsem Darken Volk. I když vím, že nemáte "
+"našince v lásce, mám za to, že je životně důležité, abychom na chvíli "
+"odložili stranou naše vzájemné odlišnosti. Na severu roste skřetí hrozba "
+"a oni se brzy vrátí v ještě větší síle. Nemůžete doufat, že se jim ubráníte "
+"bez mé... pomoci. Prozatím ale pouze žádám o to, abych se mohl zotavit ve "
+"vašem městě.”</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:57
@@ -360,10 +357,6 @@ msgstr "Drogan zemře"
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:218
-#, fuzzy
-#| msgid ""
-#| "Was it really a good idea to send out a raiding party so soon after the "
-#| "orcs just attacked us? Even father is no longer here..."
 msgid ""
 "Was it really a good idea to send out a raiding party so soon after the orcs "
 "just attacked us? Even Father is no longer here..."
@@ -437,19 +430,14 @@ msgstr ""
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:272
-#, fuzzy
-#| msgid ""
-#| "No, Drogan. I raised this corpse with the skills Darken Volk taught me "
-#| "before he left. While I have no love for it, without the help of the "
-#| "dead, we consign ourselves and our families to orcish stewpots!"
 msgid ""
 "No, Drogan. I raised this corpse with the skills Darken Volk taught me "
 "before he left. While I have no love for it, we cannot hope to repel the "
 "orcs without the help of the dead!"
 msgstr ""
 "Ne, Drogane. Pozvedl jsem tuto mrtvolu díky znalostem, které mi Darken Volk "
-"předal předtím, než odešel. I když se mi to nelíbí, bez pomoci mrtvých "
-"posíláme sami sebe a naše rodiny do skřetích hrnců!"
+"předal předtím, než odešel. I když se mi to nelíbí, nemůžeme doufat "
+"v odražení skřetů bez pomoci mrtvých!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:277
@@ -467,11 +455,6 @@ msgstr "Co? Nejsem tak zlý, Drogane!"
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:287
-#, fuzzy
-#| msgid ""
-#| "You say that, brother, but you have been very close-mouthed about why the "
-#| "mages sent you home from Alduin. I am beginning to think that you were "
-#| "already dabbling in this witchcraft even before you met that necromancer!"
 msgid ""
 "You say that, Brother, but you have been very close-mouthed about why the "
 "mages sent you home from Alduin. I am beginning to think that you were "
@@ -621,12 +604,6 @@ msgstr "Táhni, Maline. Nechci tě tu znovu vidět."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:505
-#, fuzzy
-#| msgid ""
-#| "That was bravely done, lad, holding the orcs off by yourself. But I fear "
-#| "the raiding party brings grave news from the north. More warlords have "
-#| "begun to mass armies in the hills, no more than a few days north of the "
-#| "Great River. I do not know if we possess the strength to fight them off."
 msgid ""
 "That was bravely done, lad, holding the orcs off by yourself. But I fear the "
 "raiding party brings grave news from the north. More warlords have begun to "
@@ -1628,13 +1605,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:35
-#, fuzzy
-#| msgid ""
-#| "Malin and Darken Volk continue their raids on the orcs and eventually "
-#| "force the usually fractious Whitefang chieftains to unite in opposition. "
-#| "The orcs pursue the two necromancers east toward the mouth of the river "
-#| "men call the Longlier and Elves call the Arkan-thoria, where they manage "
-#| "to surround the humans and force a fight."
 msgid ""
 "Malin and Darken Volk continue their raids on the orcs and eventually force "
 "the usually fractious Whitefang chieftains to unite in opposition. The orcs "
@@ -2378,15 +2348,6 @@ msgstr ""
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:854
-#, fuzzy
-#| msgid ""
-#| "O Gods, how did it come to this? My own sister determined to personally "
-#| "see to my demise. Banished from Parthyn, my country, my home... spurned "
-#| "by my people, whom I have given everything for... nothing has gone right "
-#| "ever since I got into an argument with that fat, orc-loving toad Zephrin "
-#| "and tried to curse him. I was only testing my new spell on him! It was "
-#| "only supposed to be a simple curse! How was I supposed to know it would "
-#| "kill him? Blasted Academy."
 msgid ""
 "O gods, how did it come to this? My own sister determined to personally see "
 "to my demise. Banished from Parthyn, my country, my home... spurned by my "
@@ -3038,17 +2999,17 @@ msgstr "Počkej, nechceš mě tu nechat, že ne?"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:1057
-#, fuzzy
-#| msgid "Escape via the tunnel in the northeast cellar"
 msgid ""
 "Escape the manor (Malin reaches the tunnel in the northeast cellar before "
 "Darken Volk)"
-msgstr "Uteč podzemní chodbou v severovýchodním sklepě"
+msgstr ""
+"Uteč ze sídla (Malin se dostane k podzemní chodbě v severovýchodním sklepě "
+"dříve než Darken Volk)"
 
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:1061
 msgid "Darken Volk reaches the tunnel before Malin does"
-msgstr ""
+msgstr "Darken Volk se dostane k podzemní chodbě dříve než Malin"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_A_Small_Favor3.cfg:1085
@@ -3204,10 +3165,6 @@ msgstr "Proč nic neříkáš?! Je ti to úplně jedno?!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Alone_at_Last.cfg:325
-#, fuzzy
-#| msgid ""
-#| "... you can’t abandon me too, not the way they did... father, Drogan, "
-#| "Dela..."
 msgid ""
 "... you can’t abandon me too, not the way they did... Father, Drogan, Dela..."
 msgstr "... nemůžeš mě taky opustit, ne tak, jako oni... otec, Drogan, Dela..."
