@@ -13,7 +13,7 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
 | `wesnoth-aoi`          | **100%** |
-| `wesnoth-did`          | **87%**  |
+| `wesnoth-did`          | **89%**  |
 | `wesnoth-dm`           | **100%** |
 | `wesnoth-dw`           | **99%**  |
 | `wesnoth-editor`       | **100%** |
@@ -39,6 +39,7 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-tutorial`     | **64%**  |
 | `wesnoth-units`        | **81%**  |
 | `wesnoth-utbs`         | **96%**  |
+| `wesnoth-wov`          |  **0%**  |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
@@ -62,4 +63,3 @@ Czech translations of The Battle for Wesnoth
 * "Konvence českého překladu" on wesnoth wiki: https://wiki.wesnoth.org/CS:Konvence
 * Translation stats of stable branch: https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs
 * Translation stats of master branch: https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs
-
