@@ -39,7 +39,7 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-tutorial`     | **64%**  |
 | `wesnoth-units`        | **81%**  |
 | `wesnoth-utbs`         | **96%**  |
-| `wesnoth-wov`          |  **0%**  |
+| `wesnoth-wov`          | **29%**  |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
