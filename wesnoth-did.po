@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-08-22 03:23 UTC\n"
-"PO-Revision-Date: 2019-09-08 15:02+0200\n"
+"PO-Revision-Date: 2019-09-12 00:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4495,14 +4495,12 @@ msgstr "Příliš bláhový hrdina"
 #. [message]: speaker=Too Foolish Hero
 #. the text that the "Too Foolish Hero" speaks is identical to that in the start event and can probably be copied over
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:394
-#, fuzzy
-#| msgid ""
-#| "Your doom is at hand, foul lich! I shall bring you down by my own hand."
 msgid ""
 "Your doom is at hand, lich! It is nigh time you answered for your evil "
 "crimes!"
 msgstr ""
-"Tvá zkáza je na dosah, hnusný lichi. Srazím tě k zemi mou vlastní rukou."
+"Tvůj osud se naplnil, lichu! Blíží se čas, kdy se budeš zodpovídat ze svých "
+"zločinů!"
 
 #. [modify_side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:399
@@ -4514,15 +4512,12 @@ msgstr "Lidé"
 #. [message]: speaker=Foolish Hero
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:455
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:957
-#, fuzzy
-#| msgid ""
-#| "You have preyed on too many of my boys. I have come here to end this, "
-#| "once and for all."
 msgid ""
 "You have preyed on too many of my men. Our territory will be much more "
 "secure without your undead pestering us."
 msgstr ""
-"Pobil jsi příliš mnoho mých chlapců. Přišel jsem to ukončit jednou provždy."
+"Padlo ti za oběť příliš mnoho mých mužů. Náš kraj bude mnohem bezpečnější "
+"bez tvých nemrtvých, kteří nás obtěžují."
 
 #. [modify_side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:460
@@ -4539,6 +4534,9 @@ msgid ""
 "deeds, ensnaring the living with your dark sorceries and molding them into "
 "your slaves. Your wretched unlife ends here!"
 msgstr ""
+"Konečně jsme tě našli, lichu! Už dlouho slýcháme o tvých ohavných skutcích, "
+"jak si podmaňuješ živé svými temnými čáry a přetváříš je na své otroky. Tvůj "
+"mrzký neživot tu končí!"
 
 #. [modify_side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:521
@@ -4596,10 +4594,8 @@ msgstr "Bláhový hrdina"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:883
-#, fuzzy
-#| msgid "I will destroy you like the last foolish hero."
 msgid "I will destroy you like the last foolish hero who challenged me."
-msgstr "Zničím tě stejně, jako minulého bláhového hrdinu."
+msgstr "Zničím tě, stejně jako předchozího bláhového hrdinu, který mne vyzval."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:890
