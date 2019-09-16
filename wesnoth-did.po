@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-08-22 03:23 UTC\n"
-"PO-Revision-Date: 2019-09-15 12:19+0200\n"
+"PO-Revision-Date: 2019-09-16 21:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4868,7 +4868,8 @@ msgid ""
 "descends to repel the assailants."
 msgstr ""
 "Kolují zvěsti o duchu štěstěny, který ochraňuje tyto stráže. Říká se, že "
-"když jou v noci napadeny skřety, sama temnota sestoupí, aby zahnala útočníky."
+"když jsou v noci napadeny skřety, sama temnota sestoupí, aby zahnala "
+"útočníky."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1297
@@ -5101,22 +5102,20 @@ msgstr "... Takže můj boj proti skřetům je ztracen!"
 #. [unit_type]: id=Apprentice Mage, race=human
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Mage.cfg:4
 msgid "Apprentice Mage"
-msgstr "Mág začátečník"
+msgstr "Mág učedník"
 
 #. [unit_type]: id=Apprentice Mage, race=human
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Mage.cfg:17
-#, fuzzy
-#| msgid ""
-#| "Trained in swordsmanship as a boy and the magical arts as a young man, "
-#| "Malin Keshar is talented at both but an expert in neither."
 msgid ""
 "Trained in swordsmanship as a boy and the magical arts as a young man, Malin "
 "Keshar is talented at both but an expert in neither. Although not as "
 "powerful as other fighters in direct combat, Malin’s sharp wit often allows "
 "him to outsmart his foes without putting himself in much danger."
 msgstr ""
-"Cvičen v šermu jako chlapec a magických uměních jako mladý muž, Malin Kešar "
-"je zdatný v obojím, ale skutečně dobrý ani v jednom."
+"Cvičen v šermu jako chlapec a magických uměních jako mladý muž, Malin Kešar "
+"je zdatný v obojím, ale skutečně dobrý není ani v jednom. Přestože v souboji "
+"tělo na tělo není tak silný jako ostatní bojovníci, Malinův ostrovtip mu "
+"často dovoluje vyzrát nad nepřáteli, aniž by se vystavil velkému nebezpečí."
 
 #. [attack]: type=impact
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Mage.cfg:33
@@ -5126,7 +5125,7 @@ msgstr "magická vlna"
 #. [unit_type]: id=Apprentice Necromancer, race=human
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Necromancer.cfg:4
 msgid "Apprentice Necromancer"
-msgstr "Nekromant začátečník"
+msgstr "Nekromant učedník"
 
 #. [unit_type]: id=Apprentice Necromancer, race=human
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Necromancer.cfg:16
@@ -5137,6 +5136,11 @@ msgid ""
 "little time for him to improve his swordsmanship, but he still holds on to "
 "his short sword as his melee weapon of choice."
 msgstr ""
+"Pod vedením Darkena Volka se Malin stal odborníkem ve využívání nekromancie "
+"jednak jako nástroje pro vyvolání armády nemrtvých, jednak jako prostředku "
+"pro zvýšení jeho vlastní osobní moci. Malinovo zaměření na zlepšení jeho "
+"magických dovedností mu nenechalo moc času na zdokonalení šermu, ale při "
+"výběru zbraně na blízko se stále drží svého krátkého meče."
 
 #. [unit_type]: id=Dark Mage, race=human
 #: data/campaigns/Descent_Into_Darkness/units/Dark_Mage.cfg:4
@@ -5171,6 +5175,13 @@ msgid ""
 "powerful skirmishers and are highly adept at reconnaissance, allowing them "
 "to often outmaneuver and entrap orcish raiders."
 msgstr ""
+"V pohraničí Wesnothu musí být všichni tělesně zdatní muži a ženy v časech "
+"nouze schopni bránit své domovy. Muži jsou většinou cvičeni v používání meče "
+"nebo luku a jako vojáci, kteří odolají náporu skřetích útoků, využíváni "
+"k tomu, aby zadržovali nájezdníky. Naproti tomu ženy se učí používat hůl "
+"a prak a jsou nejužitečnější jako zvědové a útočníci ze zálohy. Ty "
+"nejschopnější jsou zdatné harcovnice a značně zkušené v průzkumu, což jim "
+"často dovoluje přechytračit a chytit do pasti skřetí nájezdníky."
 
 #: data/campaigns/Descent_Into_Darkness/utils/characters.cfg:28
 msgid "Dela Keshar"
