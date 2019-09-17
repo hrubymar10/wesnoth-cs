@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-08-22 03:08 UTC\n"
+"POT-Creation-Date: 2019-09-16 08:33 UTC\n"
 "PO-Revision-Date: 2018-04-05 14:38+0200\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
@@ -464,36 +464,36 @@ msgid "teamname^South"
 msgstr "Jižané"
 
 #. [objective]: condition=win
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:289
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:288
 #, fuzzy
 #| msgid "Death of your team leaders"
 msgid "Defeat enemy leader(s)"
 msgstr "Vůdci tvých týmů zemřou"
 
 #. [note]
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:293
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:292
 msgid ""
 "The Great Mage Sulla has transported your armies to this bizarre nexus, and "
 "demands that you amuse her by doing battle."
 msgstr ""
 
 #. [note]
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:296
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:295
 msgid ""
 "Units may not move into a hex with a rock cairn. They may, however, be "
 "recruited to, and move from, such hexes."
 msgstr ""
 
 #. [note]
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:299
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:298
 msgid ""
 "Beginning on turn 4, the Great Mage Sulla will begin to unite the two halves "
 "of the battlefield. The process will be complete by the end of turn 6."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:312
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:329
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:311
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:328
 msgid "The Aethermaw growls."
 msgstr "Tlama éteru zavrčela."
 
@@ -1940,19 +1940,19 @@ msgstr ""
 msgid "3p — Alirok Marsh"
 msgstr "3p — Mokřina Alirok"
 
-#. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
-#. [multiplayer]: id=multiplayer_3p_Morituri
-#. [multiplayer]: id=multiplayer_4p_Morituri
-#. [multiplayer]: id=multiplayer_Blue_Water_Province
-#. [multiplayer]: id=multiplayer_Loris_River
+#. [multiplayer]: id=multiplayer_Alirok_Marsh
 #. [multiplayer]: id=multiplayer_Island_of_the_Horatii
-#. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
-#. [multiplayer]: id=multiplayer_8p_Morituri
+#. [multiplayer]: id=multiplayer_3p_Morituri
+#. [multiplayer]: id=multiplayer_Blue_Water_Province
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
-#. [multiplayer]: id=multiplayer_4p_Underworld
 #. [multiplayer]: id=multiplayer_Clash
 #. [multiplayer]: id=multiplayer_4p_Hamlets
-#. [multiplayer]: id=multiplayer_Alirok_Marsh
+#. [multiplayer]: id=multiplayer_4p_Morituri
+#. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
+#. [multiplayer]: id=multiplayer_4p_Underworld
+#. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
+#. [multiplayer]: id=multiplayer_8p_Morituri
+#. [multiplayer]: id=multiplayer_Loris_River
 #: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:6
 #: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:6
 #: data/multiplayer/scenarios/3p_Morituri.cfg:6
@@ -2391,8 +2391,8 @@ msgstr "V této různorodé krajině svede 5 armád boj o nadvládu."
 msgid "5p — The Wilderlands"
 msgstr "5p — Divočina"
 
-#. [multiplayer]: id=multiplayer_Crusaders_Field
 #. [multiplayer]: id=multiplayer_The_Wilderlands
+#. [multiplayer]: id=multiplayer_Crusaders_Field
 #: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:38
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:7
 msgid " Recommended setting of 1 gold per village."

@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-08-22 03:23 UTC\n"
+"POT-Creation-Date: 2019-06-30 12:14 UTC\n"
 "PO-Revision-Date: 2019-02-15 21:25+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
@@ -1410,8 +1410,8 @@ msgstr ""
 "světélkovaly, což mi pomáhalo, abych pořád neklopýtala. Nakonec jsem před "
 "sebou spatřila jasnější světlo."
 
-#. [unit]: type=Sacrifice, id=necromancer_on_altar
 #. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
+#. [unit]: type=Sacrifice, id=necromancer_on_altar
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:36
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:38
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:279
@@ -2022,8 +2022,8 @@ msgid ""
 msgstr ""
 "Zajímalo by mě, koho jsou. Velkého nelétavého ptáka možná? Podívejme se."
 
-#. [message]: speaker=Ardonna
 #. [message]: speaker=$other_human
+#. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:242
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:241
 msgid "Oh, you were right!"

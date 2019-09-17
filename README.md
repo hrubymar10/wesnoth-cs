@@ -13,7 +13,7 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
 | `wesnoth-aoi`          | **100%** |
-| `wesnoth-did`          | **91%**  |
+| `wesnoth-did`          | **98%**  |
 | `wesnoth-dm`           | **100%** |
 | `wesnoth-dw`           | **99%**  |
 | `wesnoth-editor`       | **100%** |
