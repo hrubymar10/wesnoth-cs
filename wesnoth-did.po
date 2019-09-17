@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-08-22 03:23 UTC\n"
-"PO-Revision-Date: 2019-09-16 21:08+0200\n"
+"PO-Revision-Date: 2019-09-17 22:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4554,6 +4554,8 @@ msgid ""
 "Been a long time since I’ve smashed me some undead. Ye gots ye plenty o’ "
 "bones for me hammer ta break."
 msgstr ""
+"Je to už dávno, co jsem naposled rozmlátil nějaké nemrtvé. Máš pro mé "
+"kladivo spoustu kostí na zlámání."
 
 #. [modify_side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:583
@@ -4761,8 +4763,6 @@ msgstr ""
 #. [message]: speaker=unit
 #. regular english: That's an evil grimoire!
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1144
-#, fuzzy
-#| msgid "That’s an evil grimoire!"
 msgid "That be an evil grimoire!"
 msgstr "To je grimoár zla!"
 
@@ -4770,13 +4770,13 @@ msgstr "To je grimoár zla!"
 #. regular english: Try destroying the darned thing.
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1150
 msgid "Try destroyin’ the blasted thing."
-msgstr ""
+msgstr "Zkus tu zpropadenou věc zničit."
 
 #. [message]: speaker=unit
 #. regular english: My axe can't cut the paper. It's protected by magic!
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1161
 msgid "Me axe kinna cut tha paper. It be protected by magic!"
-msgstr ""
+msgstr "Má sekera ten papír neprotne. Je to chráněno kouzlem!"
 
 #. [message]: role=speakinghero
 #. regular english: Yes, but the lich still seems to be hurt. Let's take it and retreat. Maybe the forge can destroy it.
@@ -4785,6 +4785,8 @@ msgid ""
 "Aye, but the lich still seems ta be hurtin’. Let’s take it ’n retreat. Maybe "
 "tha forge ken destroy it."
 msgstr ""
+"Dobře, ale přesto se zdá, že lich trpí. Vezměme to a ustupme. Možná to "
+"kovárna pomůže zničit."
 
 #. [message]: speaker=unit
 #. this orc has bad grammar on purpose
@@ -4983,13 +4985,13 @@ msgstr ""
 #. regular english - the lich is nothing but a pile of bones now
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1417
 msgid "Tha lich be nae but a pile o’ bones now."
-msgstr ""
+msgstr "Teď už je z licha jen hromádka kostí."
 
 #. [message]: role=second
 #. regular english - I wonder what kind of human he was in life
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1423
 msgid "I wonder what kind o’ human he did be in life."
-msgstr ""
+msgstr "Rád bych věděl, co to bylo za člověka, když ještě žil."
 
 #. [message]: role=speakinghero
 #. regular english - I guess he was some crazy mage who wanted to make other humans his slaves. Why else do you think he would turn to dark magic?
@@ -4998,18 +5000,20 @@ msgid ""
 "Me guess be that he be some loonie mage who wanted ta make other humans inta "
 "’is slaves. Why else d’ye think tha lad woul’ turn ta dark magic?"
 msgstr ""
+"Hádám že to byl nějaký šílený mág, který si chtěl z ostatních lidí udělat "
+"otroky. Proč myslíš, že by se jinak obrátil k temné magii?"
 
 #. [message]: role=second
 #. regular english - I don't know. You think the lich's castle can be useful
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1435
 msgid "I dinna know. Ye think tha lich’s castle ken be useful?"
-msgstr ""
+msgstr "Nevím. Myslíš, že může být lichův hrad užitečný?"
 
 #. [message]: role=speakinghero
 #. regular english - Yes. Let's get to work.
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1441
 msgid "Aye. Let’s git to workin’."
-msgstr "Uf! Rychle do práce."
+msgstr "Ano. Dejme se do práce."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:1449
