@@ -555,7 +555,7 @@ msgid ""
 "currently inhabited by trolls, who are blocking our path through the tunnel."
 msgstr ""
 "Toto je stará úniková cesta ze základny. Bohužel, tyto jeskyně jsou od teď "
-"obývané troly, kteří nám blokují cestu z tunelu."
+"obývané trolly, kteří nám blokují cestu z tunelu."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:245
@@ -592,7 +592,7 @@ msgstr "Kdo tam?"
 msgid ""
 "We are soldiers of the king of Wesnoth. Will you help us fight these trolls?"
 msgstr ""
-"My jsme královští vojáci Wesnothu. Pomůžete nám bojovat s těmito troly?"
+"My jsme královští vojáci Wesnothu. Pomůžete nám bojovat s těmito trolly?"
 
 # pův.: "Kdokoliv koho napadli, si myslím zaslouží pomoc."
 #. [message]: speaker=unit
@@ -647,8 +647,8 @@ msgid ""
 "It seems these trolls were hiding some gold. I think I can count fifty gold "
 "pieces!"
 msgstr ""
-"Zdá se, že tito trolové skrývali nějaké zlato. Myslím, že zde mohu napočítat "
-"padesát zlatých!"
+"Zdá se, že tito trollové skrývali nějaké zlato. Myslím, že zde mohu "
+"napočítat padesát zlatých!"
 
 #. [unit]: type=Necromancer, id=Mal-Bakral
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:437
@@ -2245,7 +2245,7 @@ msgid ""
 "Few enough remained before the trolls and gryphons took up residence in the "
 "mountains. But now the school is deserted, and has been for decades."
 msgstr ""
-"Hodně málo jich tu zůstalo po té, co se trolové a gryfoni usadili v horách. "
+"Hodně málo jich tu zůstalo po té, co se trollové a gryfoni usadili v horách. "
 "Teď je, ale škola už po několik desetiletí opuštěná."
 
 #. [message]: speaker=Gweddry
@@ -2254,8 +2254,8 @@ msgid ""
 "Very well, we will take care of the trolls and gryphons. Search the library "
 "and may you find us an answer. Onward!"
 msgstr ""
-"Výborně postaráme se o těch pár trolů s gryfy. Najdi knížku, ať můžem získat "
-"nějaké odpovědi. Vpřed!"
+"Výborně postaráme se o těch pár trollů s gryfy. Najdi knížku, ať můžem "
+"získat nějaké odpovědi. Vpřed!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Lake_Vrug.cfg:187
@@ -2285,7 +2285,7 @@ msgstr ""
 msgid ""
 "Very well. Let us rally there after the trolls and gryphons are defeated."
 msgstr ""
-"Velmi dobře. Teď se můžeme shromáždit, když jsou trolové i gryfoni poraženi."
+"Velmi dobře. Teď se můžeme shromáždit, když jsou trollové i gryfoni poraženi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/10_Lake_Vrug.cfg:235
@@ -2377,7 +2377,7 @@ msgstr "Jsem si jistý, že nás velitel přijde zachránit a dostane nás odtud
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:430
 msgid "What? Didn't you see those huge trolls drag them away? It's hopeless!"
 msgstr ""
-"Cože? Neviděl jsi, jak ho ti obrovští trolové tahali pryč? Je to beznadějné!"
+"Cože? Neviděl jsi, jak ho ti obrovští trollové tahali pryč? Je to beznadějné!"
 
 #. [message]: role=escapee leader
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:435
@@ -2450,7 +2450,7 @@ msgid ""
 "past those trolls we could free our comrades."
 msgstr ""
 "Ostatní vězeňské cely by měli být na sever odtud. Pokud se dostaneme přes "
-"tyto troly, mohli bychom osvobodit ostatní."
+"tyto trolly, mohli bychom osvobodit ostatní."
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:635
