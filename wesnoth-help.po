@@ -12,21 +12,22 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:32+0300\n"
-"PO-Revision-Date: 2019-09-21 20:51+0200\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
-"Language-Team: Český <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-09-22 11:03+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Gtranslator 3.30.1\n"
 
 #. [time]: id=underground
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:495
@@ -2234,7 +2235,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Několik jednotek má speciální <ref>dst'..=abilities_section' "
+"Několik jednotek má speciální <ref>dst='..abilities_section' "
 "text='schopnosti'</ref>, které ovlivňují poškození během boje. Nejběžnější z "
 "nich je schopnost <ref>dst='weaponspecial_charge' text='výpadu'</ref>, která "
 "zdvojnásobuje poškození jak útočníka, tak obránce, pokud útočí jednotka s "
@@ -3041,7 +3042,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<header>text=Tažení a scénáře</header>"
+"<header>text='Tažení a scénáře'</header>"
 
 #. [topic]: id=using_addons
 #: data/core/help.cfg:484
@@ -3066,7 +3067,7 @@ msgstr ""
 "\n"
 "Tažení pro jednoho hráče je sbírkou scénářů, která dohromady tvoří příběh. "
 "Dostupné jsou jednak samostatné scénáře — pokud jsou takto zamýšlené — tak "
-"běžná tažení, která jsou dostupná z menu <italic>text=Tažení'</italic> na "
+"běžná tažení, která jsou dostupná z menu <italic>text='Tažení'</italic> na "
 "úvodní stránce."
 
 #. [topic]: id=using_addons
@@ -3531,10 +3532,10 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Změní vlastníka strany (číslo strany jako <i>side</i>) na uživatele nebo "
-"pozorovatele (jméno hráče nebo pozorovatele jako <i>username</i>). Která "
-"strana patří kterému hráči lze snadno zjistit v dialogu „Nastavení scénáře“ "
-"- dostanete se tam tlačítkem „<bold>text='Více'</bold>“ v "
+"Změní vlastníka strany (číslo strany jako side) na uživatele nebo "
+"pozorovatele (jméno hráče nebo pozorovatele jako username). Která strana "
+"patří kterému hráči lze snadno zjistit v dialogu „Nastavení scénáře“ - "
+"dostanete se tam tlačítkem „<bold>text='Více'</bold>“ v "
 "„<bold>text='Přehledové tabulce'</bold>“ (při výchozím nastavení alt+s). "
 "Hostitel může změnit vlastníka jakékoliv strany.\n"
 "\n"
@@ -3548,7 +3549,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Oteve dialog, který vám pomůže se změnou živých vlastníků zúčastněných "
+"Otevře dialog, který vám pomůže se změnou živých vlastníků zúčastněných "
 "stran.\n"
 "\n"
 

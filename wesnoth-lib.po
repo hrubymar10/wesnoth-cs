@@ -12,21 +12,22 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-02-15 22:53+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
-"Language-Team: Český <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-09-22 10:17+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Gtranslator 3.30.1\n"
 
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=fence
@@ -260,8 +261,8 @@ msgid ""
 "small sand pits or beaches, however for gameplay purposes they are "
 "identical. See <ref>dst='..terrain_sand' text='sand'</ref>."
 msgstr ""
-"<italic>text='Pouště'</italic>mají poněkud odlišné složení než malé jámy s "
-"pískem nebo pláže, hru ale ovlivňují obdobně. Podívejte se na <ref>dst=‘.."
+"<italic>text='Pouště'</italic> mají poněkud odlišné složení než malé jámy s "
+"pískem nebo pláže, hru ale ovlivňují obdobně. Podívejte se na <ref>dst='.."
 "terrain_sand' text='Písek'</ref>"
 
 #. [terrain_type]: id=sand_beach
@@ -273,7 +274,7 @@ msgstr "Písek"
 #. [terrain_type]: id=sand_beach
 #: data/core/terrain.cfg:305
 msgid "Beach Sands"
-msgstr "Pláž"
+msgstr "Plážové písky"
 
 #. [terrain_type]: id=sand_beach
 #. [terrain_type]: id=sand
@@ -1659,7 +1660,7 @@ msgstr ""
 #. [terrain_type]: id=sand
 #: data/core/terrain.cfg:2745
 msgid "Sands"
-msgstr "Pláž"
+msgstr "Písky"
 
 #. [terrain_type]: id=reef
 #: data/core/terrain.cfg:2762
