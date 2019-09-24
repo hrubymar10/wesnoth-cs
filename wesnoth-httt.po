@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:32 UTC\n"
-"PO-Revision-Date: 2019-09-23 23:27+0200\n"
+"PO-Revision-Date: 2019-09-24 23:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5872,10 +5872,8 @@ msgstr "Dostaň se na konec řeky"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:84
-#, fuzzy
-#| msgid "Move Konrad to the north side of the river"
 msgid "Move Konrad to the cave"
-msgstr "Přesuň Konráda na severní stranu řeky"
+msgstr "Přesuň Konráda do jeskyně"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:92
@@ -6255,7 +6253,7 @@ msgid ""
 "Li’sar, do I have to remind you again that it is Konrad, not you, who is the "
 "rightful heir?"
 msgstr ""
-"Lisar, musím ti snad opět připomenizt, že právoplatným dědicem nejsi ty, ale "
+"Lisar, musím ti snad opět připomenout, že právoplatným dědicem nejsi ty, ale "
 "Konrád?"
 
 #. [message]: speaker=Li'sar
@@ -6950,16 +6948,13 @@ msgstr ""
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:257
-#, fuzzy
-#| msgid ""
-#| "Change is coming to the human lands. We rush to Elensiria seeking "
-#| "assistance, and the perils of the Longlier presented the quickest route."
 msgid ""
 "Change is coming to the human lands. We rush to Elensiria seeking "
 "assistance, and the perils of the Arkan-thoria presented the quickest route."
 msgstr ""
-"Do zemí lidí přichází změny. Spěcháme do Elensirie hledat pomoc a "
-"nejrychlejší cesta, která se naskytla byl riskantní pochod to přes Longlier."
+"Do zemí lidí přichází změny. Spěcháme do Elensirie hledat pomoc "
+"a nejrychlejší cesta, která se naskytla, byl riskantní přechod přes Arkan-"
+"thorii."
 
 #. [message]: speaker=Bona-Melodia
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:262
