@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:32 UTC\n"
-"PO-Revision-Date: 2019-09-24 23:41+0200\n"
+"PO-Revision-Date: 2019-09-25 21:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6917,6 +6917,9 @@ msgid ""
 "powerful, and under different circumstances, might have provided us with "
 "some insights about these caves."
 msgstr ""
+"Je politováníhodné, že nám drakonidé nedůvěřovali. Keh Ohn se zdál být "
+"vznešený a mocný a za jiných okolností nám mohl o těchto jeskyních "
+"poskytnout nějakou představu."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:198
@@ -7903,23 +7906,19 @@ msgstr "Zkouška klanů"
 
 #. [lua]: wesnoth.wml_actions.show_countdown
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:25
-#, fuzzy
-#| msgid "Defeat $units_to_slay enemy units"
 msgid "Defeat one more enemy unit"
 msgid_plural "Defeat $units_to_slay enemy units"
-msgstr[0] "Poraz $units_to_slay nepřátelských jednotek"
-msgstr[1] "Poraz $units_to_slay nepřátelských jednotek"
+msgstr[0] "Poraz ještě jednu nepřátelskou jednotku"
+msgstr[1] "Poraz $units_to_slay nepřátelské jednotky"
 msgstr[2] "Poraz $units_to_slay nepřátelských jednotek"
 
 #. [lua]: wesnoth.wml_actions.show_countdown
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:28
-#, fuzzy
-#| msgid "Still $units_to_slay clan members to defeat!"
 msgid "Still $units_to_slay clan member to defeat!"
 msgid_plural "Still $units_to_slay clan members to defeat!"
-msgstr[0] "Zbývá porazit $units_to_slay klanových bojovníků!"
-msgstr[1] "Zbývá porazit $units_to_slay klanových bojovníků!"
-msgstr[2] "Zbývá porazit $units_to_slay klanových bojovníků!"
+msgstr[0] "Zbývá porazit $units_to_slay člena klanu!"
+msgstr[1] "Zbývá porazit $units_to_slay členy klanu!"
+msgstr[2] "Zbývá porazit $units_to_slay členů klanu!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:70
@@ -8091,6 +8090,8 @@ msgid ""
 "If you reduce Lord Bayar, Sir Ruga, Sir Daryn, or Sir Alric to 0HP, you’ll "
 "receive a reward!"
 msgstr ""
+"Jestliže snížíš život lorda Bayara, sira Rugy, sira Daryna nebo sira Alrica "
+"na 0 bodů, tak dostaneš odměnu!"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:339
