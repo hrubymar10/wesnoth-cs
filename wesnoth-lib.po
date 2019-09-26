@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-09-22 10:17+0200\n"
+"PO-Revision-Date: 2019-09-26 21:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6955,7 +6955,7 @@ msgstr "Zopakuj verbování"
 
 #: src/hotkey/hotkey_command.cpp:106
 msgid "Show/Hide Labels"
-msgstr "Zobrazuj popisky"
+msgstr "Zobraz/skryj popisky"
 
 #: src/hotkey/hotkey_command.cpp:107
 msgid "End Turn"
@@ -7076,17 +7076,17 @@ msgstr "Ukončit záznam"
 #. TRANSLATORS: whiteboard menu entry: toggle planning mode
 #: src/hotkey/hotkey_command.cpp:145
 msgid "whiteboard^Planning Mode"
-msgstr "Zapnout plánovací mód"
+msgstr "Plánovací mód"
 
 #. TRANSLATORS: whiteboard menu entry: execute planned action
 #: src/hotkey/hotkey_command.cpp:147
 msgid "whiteboard^Execute Action"
-msgstr "Provede všechny akce"
+msgstr "Proveď akci"
 
 #. TRANSLATORS: whiteboard menu entry: execute all planned actions
 #: src/hotkey/hotkey_command.cpp:149
 msgid "whiteboard^Execute All Actions"
-msgstr "Provede všechny akce"
+msgstr "Proveď všechny akce"
 
 #. TRANSLATORS: whiteboard menu entry: delete planned action
 #: src/hotkey/hotkey_command.cpp:151
@@ -7096,12 +7096,12 @@ msgstr "Smaž akci"
 #. TRANSLATORS: whiteboard menu entry: move planned action up queue
 #: src/hotkey/hotkey_command.cpp:153
 msgid "whiteboard^Move Action Up"
-msgstr "Posunout akci ve frontě nahoru"
+msgstr "Posuň akci ve frontě nahoru"
 
 #. TRANSLATORS: whiteboard menu entry: move planned action down queue
 #: src/hotkey/hotkey_command.cpp:155
 msgid "whiteboard^Move Action Down"
-msgstr "Posunout akci ve frontě dolů"
+msgstr "Posuň akci ve frontě dolů"
 
 #. TRANSLATORS: whiteboard menu entry: plan as though the chosen unit were dead
 #: src/hotkey/hotkey_command.cpp:157
