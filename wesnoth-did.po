@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-08-22 03:23 UTC\n"
-"PO-Revision-Date: 2019-09-17 22:02+0200\n"
+"PO-Revision-Date: 2019-09-27 21:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4466,8 +4466,8 @@ msgstr "Noc bez konce $timesForever"
 msgid ""
 "To turn a necromancer into a lich, right-click on it while it is in a castle."
 msgstr ""
-"Chcete-li přeměnit temného učedníka na licha, klepněte na něj pravým "
-"tlačítkem, když je v tvrzi."
+"Chceš-li změnit nekromanta na licha, klikni na něj pravým tlačítkem, když je "
+"v hradu."
 
 #. [set_menu_item]: id=lichify
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:243
@@ -4645,7 +4645,7 @@ msgid ""
 "against humanity!"
 msgstr ""
 "Tvůj osud se naplnil, lichu! Blíží se čas, kdy se budeš zodpovídat ze svých "
-"zločinů proti lidskosti!"
+"zločinů proti lidstvu!"
 
 #. [message]: speaker=Mal Keshar
 #. cityfolk - just a person from the city, e.g. Weldyn
