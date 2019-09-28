@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-09-26 21:03+0200\n"
+"PO-Revision-Date: 2019-09-28 10:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2451,7 +2451,7 @@ msgstr "OK"
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:82
 msgid "Base damage"
-msgstr ""
+msgstr "Základní poškození"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:84
@@ -2483,7 +2483,7 @@ msgstr "Šance na zásah"
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:95
 msgid "Chance of being unscathed"
-msgstr ""
+msgstr "Šance nebýt poškozen"
 
 #. [label]
 #: data/gui/window/attack_predictions.cfg:185
@@ -2503,7 +2503,7 @@ msgstr "Útočník"
 #. [column]
 #: data/gui/window/attack_predictions.cfg:282
 msgid "Defender"
-msgstr "Gender:"
+msgstr "Obránce"
 
 #. [label]
 #: data/gui/window/campaign_dialog.cfg:174
@@ -5293,7 +5293,7 @@ msgstr "Čím se má stát vítězná jednotka?"
 #. [button]: id=damage_calculation
 #: data/gui/window/unit_attack.cfg:192
 msgid "Damage Calculation"
-msgstr "Výpočet zranění"
+msgstr "Výpočet poškození"
 
 #. [button]: id=ok
 #: data/gui/window/unit_attack.cfg:220
@@ -5893,11 +5893,11 @@ msgstr "Žádná použitelná zbraň"
 
 #: src/gui/dialogs/attack_predictions.cpp:188
 msgid "Defender resistance vs"
-msgstr ""
+msgstr "Odolnost obránce vs."
 
 #: src/gui/dialogs/attack_predictions.cpp:190
 msgid "Attacker vulnerability vs"
-msgstr ""
+msgstr "Zranitelnost útočníka vs."
 
 #: src/gui/dialogs/campaign_selection.cpp:318
 #: src/gui/dialogs/multiplayer/lobby.cpp:465
