@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:32+0300\n"
-"PO-Revision-Date: 2019-09-22 11:03+0200\n"
+"PO-Revision-Date: 2019-10-02 20:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2910,13 +2910,6 @@ msgstr ""
 
 #. [topic]: id=..terrains_section
 #: data/core/help.cfg:448
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "You can see what basic types a mixed terrain is comprised of by mousing "
-#| "over its hex and checking the terrain type icons displayed in the upper "
-#| "right, (under the default theme)."
 msgid ""
 "\n"
 "\n"
@@ -2926,9 +2919,9 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Můžete se podívat, z jakých základních typů je smíšený terén poskládaný, "
-"když najedete myší na šestiúhelník s tímto terénem a kliknete na ikonku "
-"terénu vpravo nahoře (pod výchozím tématem)."
+"Můžete se podívat, z jakých základních typů je smíšený terén poskládaný, "
+"když najedete myší na šestiúhelník s tímto terénem a prozkoumáte ikonky typů "
+"terénu zobrazené vpravo nahoře (ve výchozím tématu)."
 
 #. [topic]: id=..terrains_section
 #: data/core/help.cfg:450
@@ -6193,7 +6186,7 @@ msgstr "Mořská panna"
 #. [race]: id=merman
 #: data/core/units.cfg:289
 msgid "race^Merfolk"
-msgstr "Vodní lid"
+msgstr "Mořský lid"
 
 #. [race]: id=merman
 #: data/core/units.cfg:291
@@ -6208,15 +6201,15 @@ msgid ""
 "ocean. They are typically wary of dry land, as they are awkward and clumsy "
 "there and they struggle greatly to move over rough or forested terrain."
 msgstr ""
-"Někde na půl cesty mezi člověkem a rybami, mořský lid je tajemná rasa, která "
-"sdílí rysy jak rybí, tak lidské. Mají silné ocasy, které jim umožňují rychlý "
-"pohyb ve vodním prostředí, zatímco jejich obratné ruce a bystrá mysl "
-"umožňují výrobu vynikajících řemeslných výrobků a nástrojů. Napůl žijící ve "
-"vodě, mořský lid může bez problémů dýchat pod vodou. Navzdory tomu, že jsou "
-"schopni přežívat na souši, jsou mnohem rychlejší a obraznější ve vodě a jen "
-"vyjímečně se s nimi můžete setkat dál od moře. Většinou se vyhýbají vyschlé "
-"zemi, kde jsou neohrabaní a těžkopádní a také pohyb lesnatou krajinou jim "
-"činí nemalé obtíže."
+"Někde na půl cesty mezi člověkem a rybami, mořský lid je tajemná rasa, která "
+"sdílí rysy jak rybí, tak lidské. Mají silné ocasy, které jim propůjčují "
+"rychlý pohyb ve vodním prostředí, zatímco jejich obratné ruce a bystrá mysl "
+"jim umožňují být zručnými řemeslníky a výrobci nástrojů. Ve své podstatě "
+"napůl vodní, mořský lid může bez obtíží dýchat na vzduchu i pod vodou. "
+"Navzdory tomu, že jsou schopni přežívat na souši, jsou mnohem rychlejší "
+"a obratnější ve vodě a jen výjimečně se s nimi můžete setkat dál od moře. "
+"Většinou se vyhýbají vyschlé zemi, kde jsou neohrabaní a těžkopádní a také "
+"pohyb lesnatou krajinou jim činí nemalé obtíže."
 
 #. [race]: id=monster
 #: data/core/units.cfg:299
