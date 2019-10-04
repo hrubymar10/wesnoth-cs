@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-10-01 23:17+0200\n"
+"PO-Revision-Date: 2019-10-04 19:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6874,7 +6874,7 @@ msgstr "Oddal pohled"
 
 #: src/hotkey/hotkey_command.cpp:89
 msgid "Default Zoom"
-msgstr "Implicitní pohled"
+msgstr "Výchozí pohled"
 
 #: src/hotkey/hotkey_command.cpp:90
 msgid "Toggle Full Screen"
@@ -7289,23 +7289,23 @@ msgstr "Věrný"
 
 #: src/hotkey/hotkey_command.cpp:210
 msgid "Toggle Minimap Unit Coding"
-msgstr "Aktivovat zobrazení jednotek na minimapě"
+msgstr "Přepnout odlišení jednotek na minimapě"
 
 #: src/hotkey/hotkey_command.cpp:211
 msgid "Toggle Minimap Terrain Coding"
-msgstr "Aktivovat rozlišování povrchu na minimapě"
+msgstr "Přepnout odlišení povrchu na minimapě"
 
 #: src/hotkey/hotkey_command.cpp:213
 msgid "Toggle Minimap Unit Drawing"
-msgstr "Aktivovat zobrazení jednotek na minimapě"
+msgstr "Přepnout zobrazení jednotek na minimapě"
 
 #: src/hotkey/hotkey_command.cpp:214
 msgid "Toggle Minimap Village Drawing"
-msgstr "Aktivovat zobrazení vesnic na minimapě"
+msgstr "Přepnout zobrazení vesnic na minimapě"
 
 #: src/hotkey/hotkey_command.cpp:215
 msgid "Toggle Minimap Terrain Drawing"
-msgstr "Aktivovat zobrazení povrchu na minimapě"
+msgstr "Přepnout zobrazení povrchu na minimapě"
 
 #: src/hotkey/hotkey_command.cpp:217
 msgid "Next Brush"
