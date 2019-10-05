@@ -11,21 +11,22 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2008 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-02-15 21:34+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
-"Language-Team: Český <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-10-05 08:37+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Gtranslator 3.30.1\n"
 
 # Název tažení
 #. [campaign]: id=The_Hammer_of_Thursagan
@@ -286,7 +287,7 @@ msgid ""
 msgstr ""
 "Následně po vítězství nad skřety byl Aiglondur povolán do audienční síně k "
 "lordu Hamelovi, vládci Knalgy a spoluvládci Severní Aliance. Vedle trůnu "
-"stál neznámý trpaslík, oblečen v hávu Obřadního Bratrstva ..."
+"stál neznámý trpaslík, oblečen v hávu Obřadního Bratrstva..."
 
 #. [side]: type=Dwarvish Lord, id=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:53
@@ -436,7 +437,7 @@ msgstr ""
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:158
 msgid "And for what cause ha’ I heard naught o’ this?"
-msgstr "A jak to že o tom nic nevím?"
+msgstr "A jak to, že o tom nic nevím?"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:163
@@ -499,7 +500,7 @@ msgstr "Uhádl jsi můj úmysl, Aiglondure. Nejsi náhodou můj příbuzný?"
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:193
 msgid "Your great-nephew, my lord."
-msgstr "Jsme váš prasynovec, lorde."
+msgstr "Jsem váš prasynovec, lorde."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:198
@@ -731,7 +732,7 @@ msgstr "Poraz Gronka"
 #. [message]: speaker=Gronk
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:133
 msgid "Dis a troll bridge. You pay toll. Er..."
-msgstr "To být trollů most. Vy platit trollovi. He ..."
+msgstr "To být trollů most. Vy platit trollovi. He..."
 
 #. [message]: speaker=Gronk
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:138
@@ -824,8 +825,8 @@ msgid ""
 "Stay alert, everyone, and keep together. This is bandit country — more than "
 "likely where Gothras and his gang came from."
 msgstr ""
-"Mějte se všichni na pozoru a držte se pohromadě. Tohle je kraj banditů ... "
-"horší než ten, odkud přišel Gothras a jeho spolek."
+"Mějte se všichni na pozoru a držte se pohromadě. Tohle je kraj banditů – je "
+"víc než pravděpodobné, že odtud přišel Gothras a jeho tlupa."
 
 #. [message]: role=scout
 #. 'muckle' = Scottish/archaic English meaning 'great' or 'large'
@@ -859,7 +860,7 @@ msgstr ""
 #. [message]: speaker=Tan-Grolak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg:247
 msgid "Yeah, boss. Anything to get away from those masked ones..."
-msgstr "Jasně šéfe. Cokoli, co nás dostane pryč od těch maskovanců ..."
+msgstr "Jasně šéfe. Cokoli, co nás dostane pryč od těch maskovanců..."
 
 # říká Tan-Malgar (skřet)
 #. [message]: speaker=Tan-Malgar
@@ -919,7 +920,7 @@ msgstr "Ratheln zemře"
 msgid ""
 "Behold, the High Pass. By the old maps, we are halfway to Kal Kartha here."
 msgstr ""
-"Dívejte, Vysoký průsmyk. Podle staré mapy bychom měli být v půlce cesty do "
+"Hleďte, Vysoký průsmyk. Podle staré mapy bychom měli být v půlce cesty do "
 "Kal Karthy."
 
 # říká Aiglondur (trpaslík)
@@ -930,7 +931,7 @@ msgid ""
 "Being caught in a blizzard on those heights would be no laughing matter."
 msgstr ""
 "Musíme se rychle dostat na druhou stranu. Za námi se žene ukrutná bouře. "
-"Pokud nás chytne v téhle výšce blizard, zamrzne nám úsměv na rtech ... ale "
+"Pokud nás chytne v téhle výšce blizard, zamrzne nám úsměv na rtech, ale "
 "věčně."
 
 #. [message]: role=keen nose
