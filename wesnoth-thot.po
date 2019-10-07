@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-06 22:41+0200\n"
+"PO-Revision-Date: 2019-10-07 20:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -853,8 +853,8 @@ msgid ""
 "Well, boys, we were planning to invade the Northern Alliance anyway... These "
 "dwarves should make a tasty appetizer."
 msgstr ""
-"No, beztak jsme chtěli vpadnout do Severní Aliance ... takže tyhle "
-"trpajzlíci budou jen chutnej předkrm."
+"No, beztak jsme chtěli vpadnout do Severní Aliance... takže tyhle trpajzlíci "
+"budou jen chutnej předkrm."
 
 # říká Tan-Grolak (skřet)
 #. [message]: speaker=Tan-Grolak
@@ -1376,7 +1376,7 @@ msgstr "Nic ti od nás nehrozí. Co je to tam na východě?"
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:241
 msgid "You wear no mask. You... you’re not with them?"
-msgstr "Nemáte masky. Vy ... nejste od nich?"
+msgstr "Nemáte masky. Vy... nejste od nich?"
 
 # říká Aiglondur (trpaslík)
 #. [message]: speaker=Aiglondur
@@ -1388,7 +1388,7 @@ msgstr "O čem to mluvíš?"
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:251
 msgid "The masked dwarves. Killing, burning, kidnapping. Look..."
-msgstr "Maskovaní trpaslíci. Zabíjí, pálí, unáší. Podívejte ..."
+msgstr "Maskovaní trpaslíci. Zabíjí, pálí, unáší. Podívejte..."
 
 # říká maskovaný (trpaslík)
 #. [message]: speaker=Masked Dwarf Leader
@@ -1430,7 +1430,7 @@ msgid ""
 "A witness? My name is... my name is not important. My deed will speak its "
 "own truth."
 msgstr ""
-"Dohlížitel? Jmenuji se ...\n"
+"Dohlížitel? Jmenuji se...\n"
 "\n"
 "moje jméno není důležité. Mé činy mluví samy za sebe."
 
@@ -1495,7 +1495,7 @@ msgid ""
 "tales, of course, but to hear it with one’s own ears? It was... unsettling."
 msgstr ""
 "Ještě nikdy jsem neviděl formální zavržení. Samozřejmě jsem o tom četl ve "
-"starých příbězích, ale slyšet to na vlastní uši? Bylo to ... znepokojující."
+"starých příbězích, ale slyšet to na vlastní uši? Bylo to... znepokojující."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:362
@@ -1693,8 +1693,8 @@ msgid ""
 "Ahhh... more stinky-midgets, come to get killed just like these cowards in "
 "their den."
 msgstr ""
-"Ah ... další smradlavý skrčci. Zabijem vás stejně jako ty, co se zbaběle "
-"krčí v tom jejich pelechu."
+"Ah... další smradlavý skrčci. Zabijem vás stejně jako ty, co se zbaběle krčí "
+"v tom jejich pelechu."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:284
@@ -1941,7 +1941,7 @@ msgstr ""
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:272
 msgid "No... no... it is horrible! My lord, how did you come to this?"
-msgstr "Ne ... ne ... to je strašné! Co se vám vám to stalo můj pane?"
+msgstr "Ne... ne... to je strašné! Co se vám vám to stalo můj pane?"
 
 # říká Karrag (lich)
 #. [message]: speaker=Karrag
@@ -1984,8 +1984,8 @@ msgid ""
 "Wait... the lich’s apparent death was another illusion. In truth he ran "
 "through that doorway behind the throne."
 msgstr ""
-"Počkejte ... lichova zdánlivá smrt byla jen další iluze. Ve skutečnosti "
-"utekl těmi dveřmi za trůnem."
+"Počkejte... lichova zdánlivá smrt byla jen další iluze. Ve skutečnosti utekl "
+"těmi dveřmi za trůnem."
 
 # říká Dulcatulos (trpaslík)
 #. [message]: speaker=Dulcatulos
@@ -2034,7 +2034,7 @@ msgid ""
 "personal followers used this level. I can't believe I never wondered about "
 "that before."
 msgstr ""
-"Je to ... je to už mnoho let, co jsem tu nebyl. Tyhle prostory používal jen "
+"Je to... je to už mnoho let, co jsem tu nebyl. Tyhle prostory používal jen "
 "Karrag a jeho následovníci. Nemohu uvěřit, proč mě to nikdy předtím nepřišlo "
 "divné."
 
@@ -2233,7 +2233,7 @@ msgstr ""
 #, fuzzy
 #| msgid "The key has been uttered, these doors should open..."
 msgid "The keys have been found. The door should open..."
-msgstr "Klíč byl vysloven, dveře by měly jít otevřít ..."
+msgstr "Klíč byl vysloven, dveře by měly jít otevřít..."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1091
@@ -2504,7 +2504,7 @@ msgid ""
 "Loremaster... None of us is fit to take up the lordship. Karrag fooled us "
 "all, made us the tools of his foul scheme."
 msgstr ""
-"Obřadníku ... nikdo z nás se nehodí k převzetí vlády. Karrag nás všechny "
+"Obřadníku... nikdo z nás se nehodí k převzetí vlády. Karrag nás všechny "
 "oklamal a udělal z nás nástroje svého podivného plánu."
 
 #. [message]: speaker=Pelias
@@ -2548,7 +2548,7 @@ msgstr ""
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:184
 msgid "(<i>Wonderingly</i>) A Lord Companion? And kin of ours..."
-msgstr "(<i>Udiveně</i>): Spoluvládcem? Jeden z nás ..."
+msgstr "(<i>Udiveně</i>): Spoluvládcem? Jeden z nás..."
 
 #. [message]: speaker=Narithil
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:189
