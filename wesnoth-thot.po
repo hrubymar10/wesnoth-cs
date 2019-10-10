@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-07 20:57+0200\n"
+"PO-Revision-Date: 2019-10-10 20:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1316,7 +1316,7 @@ msgstr "Maskovaní trpaslíci"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:169
 #: data/campaigns/The_Hammer_of_Thursagan/utils/macros.cfg:170
 msgid "Masked Dwarf"
-msgstr "Maskovaní trpaslíci"
+msgstr "Maskovaný trpaslík"
 
 # Návěští scénáře
 #. [objective]: condition=win
@@ -1430,9 +1430,8 @@ msgid ""
 "A witness? My name is... my name is not important. My deed will speak its "
 "own truth."
 msgstr ""
-"Dohlížitel? Jmenuji se...\n"
-"\n"
-"moje jméno není důležité. Mé činy mluví samy za sebe."
+"Dohlížitel? Jmenuji se... moje jméno není důležité. Mé činy mluví samy za "
+"sebe."
 
 # říká Angarthing (trpaslík)
 #. [message]: speaker=Angarthing
@@ -1441,8 +1440,8 @@ msgid ""
 "You speak without honor. Mine is the power of our ancient Law; speak your "
 "name and give up your murder, or the Law will cast you forth. I am a witness!"
 msgstr ""
-"Tvá řeč není čestná. Starodávné právo stojí na mé straně. Řekni své jméno a "
-"odlož své vraždění nebo tě dle Práva odvrhnu. Jsem dohlížitel!"
+"Tvá řeč není čestná. Starodávný Zákon stojí na mé straně. Řekni své jméno "
+"a odlož své vraždění nebo tě dle Zákona odvrhnu. Jsem dohlížitel!"
 
 # říká maskovaný (trpaslík)
 #. [message]: speaker=Masked Dwarf Leader
@@ -1458,9 +1457,7 @@ msgstr ""
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:297
 msgid "The Law speaks: you are cast out. You are un-dwarf. I AM A WITNESS!"
-msgstr ""
-"Dle Práva vyhlašuji, jsi zavržen! Už nejsi trpaslík! To prohlašuji jako "
-"dohlížitel!"
+msgstr "Dle Zákona vyhlašuji, jsi zavržen! Už nejsi trpaslík! JSEM DOHLÍŽITEL!"
 
 # říká Aiglondur (trpaslík)
 #. [message]: speaker=Aiglondur
@@ -1504,9 +1501,9 @@ msgid ""
 "But look at what these filth were carrying if you have any doubt it was "
 "merited."
 msgstr ""
-"Neděláme to často. Naposledy jsme to udělali, když ještě žil můj děd. Ale "
-"podívej, co za utrpení tato spodina přinášela a nebudeš o záslužnosti tohoto "
-"mít žádné pochybnosti."
+"Neděláme to často. Poslední takový případ byl, když ještě žil můj děd. Ale "
+"podívej se, co tato spodina měla u sebe, jestli pochybuješ o tom, zda to "
+"bylo zasloužené."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:367
@@ -1514,15 +1511,11 @@ msgid ""
 "Whips. Shackles. No, Angarthing, I would not doubt you, even if it were my "
 "place to doubt a loremaster."
 msgstr ""
-"Biče. Pouta. Ne, Angarthingu, nepochyboval bych o tobě a to i kdybych musel "
-"pochybovat o obřadnících."
+"Biče. Pouta. Ne, Angarthingu, nepochyboval bych o tobě, a to i kdybych musel "
+"pochybovat o obřadnících."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_Fear.cfg:372
-#, fuzzy
-#| msgid ""
-#| "They were seeking captives. To what purpose, I cannot say. But I doubt it "
-#| "was any good one."
 msgid ""
 "They were seeking captives. To what purpose, I cannot say, but I doubt it "
 "was any good one."
@@ -1561,7 +1554,7 @@ msgstr "Burumardir-Athelorand"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:137
 msgid "Move both Aiglondur and Angarthing to the eastern signpost"
-msgstr "Dostaň Aiglondura i Angarthinga ke značce na východě"
+msgstr "Dostaň Aiglondura i Angarthinga k ukazateli na východě"
 
 #. [note]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:152
@@ -1569,6 +1562,8 @@ msgid ""
 "To win, either move Aiglondor to the signpost and Angarthing next to him, or "
 "move Angarthing to the signpost and Aiglondur next to him."
 msgstr ""
+"Abys vyhrál, přesuň buď Aiglondura na ukazatel a Angarthinga vedle něj anebo "
+"Angarthinga na ukazatel a Aiglondura vedle něj."
 
 #. [unit]: type=Elvish Scout, id=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:203
@@ -1578,14 +1573,14 @@ msgstr "Elurin"
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:212
 msgid "Who disturbs our forest?"
-msgstr "Kdo nás to ruší v našem lese?"
+msgstr "Kdo vyrušuje náš les?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:217
 msgid ""
 "A delegation of the Northern Alliance, seeking the road through to Kal "
 "Kartha."
-msgstr "Vyslanci Severní Aliance. Hledáme tudy cestu do Kal Karthy."
+msgstr "Vyslanci Severní aliance. Hledáme tudy cestu do Kal Karthy."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_Forbidden_Forest.cfg:222
@@ -1594,9 +1589,9 @@ msgid ""
 "ones began to trouble our eastern margins. No axe-bearers shall come near "
 "our trees. Return whence you came!"
 msgstr ""
-"Dovolili jsme jít po našich lesních stezkách jen několika cizincům. Od doby, "
-"co ti maskovaní trpaslíci začali dělat problémy na naší východní hranici, už "
-"nikdy trpaslíkům! Nikdo, kdo nosí sekeru, se nesmí přiblížit k našim "
+"Dovolili jsme jít po našich lesních stezkách jen několika cizincům a už "
+"žádným trpaslíkům od té doby, co ti maskovaní začali dělat problémy na naší "
+"východní hranici. Nikdo, kdo nosí sekeru, se nesmí přiblížit k našim "
 "stromům. Vraťte se, odkud jste přišli!"
 
 #. [message]: speaker=Aiglondur
