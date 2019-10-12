@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:32 UTC\n"
-"PO-Revision-Date: 2019-09-30 22:58+0200\n"
+"PO-Revision-Date: 2019-10-12 08:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4967,6 +4967,9 @@ msgid ""
 "places are anathema to my kind. Whatever monsters may abide in these depths, "
 "are known not to my kin."
 msgstr ""
+"Jak bych mohl vědět, milosti? Bez řeky, co by tu tekla, jsou taková horká, "
+"suchá místa prokletím mého druhu. Ať už v těchto hlubinách dlí jakékoli "
+"příšery, má rodina je nezná."
 
 #. [message]: race=merman
 #. Comic relief
@@ -4977,6 +4980,11 @@ msgid ""
 "gladly die for you, milord, but I would that you didn't spend my life for "
 "nothing, looking for another dwarf to rescue when there is none."
 msgstr ""
+"Ani nevím, vaše výstřednosti, co dělám v jeskyni. Ještě žádný Mořan "
+"nevstoupil do jeskyní pod horou a dožil se toho, aby o tom mohl vyprávět. "
+"S radostí bych pro vás zemřel, milosti, ale raději bych, kdybyste pro nic za "
+"nic neprobendil můj život při zachraňování dalšího ztraceného trpaslíka, "
+"když tu žádný není."
 
 #. [message]: race=dwarf
 #. "sowl" is a rare word synonymous with "sully", meaning "contaminate".
@@ -4989,6 +4997,11 @@ msgid ""
 "sowling the air? I beseech that we not tarry ’ere any more than we ha’ to, "
 "lest the forming abysses claim us."
 msgstr ""
+"Lorde Konráde, ono dunění nezpůsobil žádný živý tvor. To, co jsme slyšeli, "
+"jsou ozvy samotného skalního podloží, které se pod námi sesedá a drolí. "
+"Nemáte pocit, že vedro zesílilo? Není dýchání obtížnější díky popílku "
+"znečišťujícímu ovzduší? Zapřísahám vás, abychom tu už nemeškali déle, než "
+"musíme, aby nás snad tvořící se propasti nepohltily."
 
 #. [message]: type=Arch Mage,Great Mage,Silver Mage
 #. "din" means "loud noise". It refers to an ambient sound of collapsing cave walls.
@@ -4999,6 +5012,10 @@ msgid ""
 "this cave even now. We must tread with caution, for the very ground we stand "
 "on may turn against us."
 msgstr ""
+"Princi Konráde, tento hlomoz nezpůsobilo nic živého. Byl to zvuk samotné "
+"země, která kolem nás vře, ohně a lávy, které i teď proráží do této jeskyně. "
+"Musíme našlapovat obezřetně, neboť sama zem, na které stojíme, se může "
+"obrátit proti nám."
 
 #. [message]: id=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:681
