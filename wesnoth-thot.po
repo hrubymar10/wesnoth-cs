@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-10 20:44+0200\n"
+"PO-Revision-Date: 2019-10-13 07:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -151,10 +151,10 @@ msgid ""
 "year 550 after the founding of Wesnoth, the captain of the East Gate "
 "received a warning that a small band of rogue orcs had been sighted."
 msgstr ""
-"Ale nebezpečí, které představovali nepřátelští skřeti, zločinní lidé i zbylí "
-"nemrtví stále trvalo. Trpaslíci postavili silné stráže u vstupů do Knalgy.\n"
-" V roce 550 po založení Wesnothu, velitel stráže na Východní bráně dostal "
-"hlášení o tom, že se blíží menší skupina ničemných skřetů."
+"Ale nebezpečí, které představovali nepřátelští skřeti, zločinní lidé i zbylí "
+"nemrtví, stále trvalo. Trpaslíci postavili silné stráže u vstupů do Knalgy. "
+"V roce 550 po založení Wesnothu velitel stráže na Východní bráně dostal "
+"hlášení o tom, že se blíží menší skupina ničemných skřetů."
 
 #. [side]
 #. [side]: type=Dwarvish Lord, id=Hamel
@@ -332,9 +332,9 @@ msgid ""
 "keepers since a hero of their line recovered it from the Caverns of Flame, "
 "centuries ago."
 msgstr ""
-"A já se obávám toho, co se stalo s Thursaganovým kladivem. Naši příbuzní v "
-"Kal Kartha ho uchovávali od té doby, co ho jeden jejich hrdina před "
-"staletími vynesl z Jeskyní Ohně."
+"A já se obávám toho, co se stalo s Thursaganovým kladivem. Naši příbuzní "
+"v Kal Kartha ho uchovávali od té doby, co ho jeden jejich hrdina před "
+"staletími vynesl z Ohnivých jeskyní."
 
 # říká Aiglondur (trpaslík)
 #. [message]: speaker=Aiglondur
@@ -353,9 +353,8 @@ msgid ""
 msgstr ""
 "Ano. Artefakt, kterým náš největší runový kovář ukoval Ohnivé žezlo. Ale "
 "jeho původ sahá dále do minulosti, daleko před dobu, kdy Thursagan žil. On "
-"byl pouze poslední, kdo ho třímal a používal.\n"
-"Nejstarší pověsti tvrdí, že to bylo právě toto kladivo, které vykovalo "
-"trpasličí rod v útrobách země."
+"byl pouze poslední, kdo ho třímal a používal. Nejstarší pověsti tvrdí, že to "
+"bylo právě toto kladivo, které vykovalo trpasličí rod v útrobách země."
 
 # říká Aiglondur (trpaslík)
 #. [message]: speaker=Aiglondur
@@ -687,9 +686,8 @@ msgid ""
 "than against. But we cannot linger here to celebrate; we are journeying east."
 msgstr ""
 "My děkujeme vám, že jste nám dokázali, že existují skřeti, kteří stojí za "
-"to, abychom bojovali po jejich boku místo proti nim.\n"
-"\n"
-"Ale nemůžeme tu dál otálet a oslavovat, cestujeme na východ."
+"to, abychom bojovali po jejich boku, místo proti nim. Ale nemůžeme tu dál "
+"otálet a oslavovat, cestujeme na východ."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:259
@@ -1722,15 +1720,11 @@ msgstr ""
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:330
-#, fuzzy
-#| msgid ""
-#| "A runemaster? There had been none such since Thursagan’s day. And for one "
-#| "to lead a holding was unheard-of; they tended towards the solitary life."
 msgid ""
 "A runemaster? There have been none such since Thursagan’s day. And for one "
 "to lead a holding was unheard-of; they tended towards the solitary life."
 msgstr ""
-"Runový mistr? Od Thursaganových časů nikdo takový nebyl. A aby byl vůdcem, "
+"Runový mistr? Od Thursaganových časů nikdo takový nebyl. A aby byl vůdcem, "
 "to je neslýchané. Vždy dávali přednost osamělému životu."
 
 # říká Dulcatulos (trpaslík)
@@ -1743,11 +1737,11 @@ msgid ""
 "wounded near to death; none thought he would recover. But he leads us today, "
 "and his runelore has oft been the only shield between us and the orcs."
 msgstr ""
-"Opravdu? No, asi víš o těchto věcech víc než já, obřadníku. Náš Karrag roky "
-"tvrdě studoval, aby znovu objevil dávné umění. Byl povýšen, když náš starý "
-"lord padl v bitvě s otravnými skřety. Karrag sám byl těžce zraněn, nikdo "
-"netuší, jak to mohl přežít. Ale teď je naším vůdcem a jeho umění bylo často "
-"to jediné, co nás před skřeťákama zachránilo."
+"Opravdu? No, asi víš o těchto věcech víc než já, obřadníku. Náš Karrag "
+"dlouhé roky dřel, aby obnovil řemeslnou tradici. Byl povýšen, když náš starý "
+"lord padl v bitvě s otravnými skřety. Karrag sám byl těžce zraněn; nikdo si "
+"nemyslel, že se uzdraví. Ale teď je naším vůdcem a jeho znalosti run byly "
+"často to jediné, co nás před skřeťákama zachránilo."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:340
@@ -1761,8 +1755,8 @@ msgid ""
 "followers. He has promised all of us that the Hammer’s power will smash and "
 "scatter all our enemies."
 msgstr ""
-"Ano. Studoval ho pečlivě v dílně v podzemí se svými následovníky.\n"
-"Slíbil nám všem, že síla Kladiva rozdrtí a rozpráší všechny naše nepřátele."
+"Ano. Se svými následovníky na něm tvrdě pracoval v dílně v podzemí. Slíbil "
+"nám všem, že síla kladiva rozdrtí a rozpráší všechny naše nepřátele."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:350
@@ -1770,23 +1764,18 @@ msgid ""
 "That is strange. The Hammer is a tool of crafting and making, not a weapon. "
 "What can he mean to do with it?"
 msgstr ""
-"To je divné. Kladivo je nástroj umění a dovedností, není to zbraň. Jak to "
-"myslel, že s ním dokáže toto?"
+"To je divné. Kladivo je nástroj pro výrobu a tvoření, není to zbraň. Co může "
+"zamýšlet s ním udělat?"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:355
-#, fuzzy
-#| msgid ""
-#| "That’s for lords and loremasters to worry about, not the likes of me. I "
-#| "must see to my troop’s care. Food will be brought to you; rest well, we "
-#| "will speak again."
 msgid ""
 "That’s for lords and loremasters to worry about, not the likes of me. I must "
 "see to my troop’s care. Food will be brought to you; rest well. We will "
 "speak again."
 msgstr ""
-"To je starost vůdců a obřadníků, ne moje. Musím se postarat o mé vojáky. "
-"Přineseme vám jídlo. Odpočiňte si, budeme rokovat později."
+"To je starost pánů a obřadníků, ne takových jako já. Musím se postarat o mé "
+"vojáky. Přineseme vám jídlo; dobře si odpočiňte. Promluvíme si znovu."
 
 #. [scenario]: id=11_The_Court_of_Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:5
@@ -1870,7 +1859,7 @@ msgstr ""
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:219
 msgid "It is remembered in Knalga that Kal Kartha holds the Hammer."
-msgstr "Je nám známo, že Kal Kartha vlastní Kladivo."
+msgstr "Je nám známo, že Kal Kartha vlastní kladivo."
 
 # říká Karrag (trpaslík)
 #. [message]: speaker=Karrag
@@ -1879,9 +1868,8 @@ msgid ""
 "Yes! And the Hammer holds the soul of the dwarves, the true people. "
 "Together, we can march to greater victories! Will you of Knalga join me?"
 msgstr ""
-"Ano! A v Kladivu jsou uchovány duše trpaslíků pravé rasy!\n"
-"Spolu můžeme pochodovat k velkolepějším vítězstvím. Přidáte se ke mně i vy z "
-"Knalgy?"
+"Ano! A v kladivu jsou uchovány duše trpaslíků, pravé rasy! Spolu můžeme "
+"pochodovat k velkolepějším vítězstvím. Přidáte se ke mně i vy z Knalgy?"
 
 # říká Angarthing (trpaslík)
 #. [message]: speaker=Angarthing
@@ -1920,8 +1908,8 @@ msgid ""
 "Impertinent fool! It is not for you to dictate to a lord in his own holding, "
 "much less one who holds the very soul of the dwarves in his hand."
 msgstr ""
-"Drzý blázne! Ty nejsi ten, kdo by měl poroučet lordu v jeho vlastním hradě, "
-"tím méně tomu, kdo vlastní Duši všech trpaslíků!"
+"Drzý blázne! Ty nejsi ten, kdo by měl poroučet lordu v jeho vlastním hradě, "
+"tím méně tomu, kdo třímá ve svých rukou samotnou duši trpaslíků."
 
 # říká Angarthing (trpaslík)
 #. [message]: speaker=Angarthing
@@ -1929,14 +1917,12 @@ msgstr ""
 msgid ""
 "The Law speaks. Against him with the eyes to see, no deception can hold. I "
 "AM A WITNESS!"
-msgstr ""
-"Zákon hovoří jasně. Před ním neobstojí žádný klam. Já tu stojím jako "
-"dohlížitel!"
+msgstr "Zákon hovoří jasně. Před ním neobstojí žádný klam. JSEM DOHLÍŽITEL!"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:272
 msgid "No... no... it is horrible! My lord, how did you come to this?"
-msgstr "Ne... ne... to je strašné! Co se vám vám to stalo můj pane?"
+msgstr "Ne... ne... to je strašné! Co se vám to stalo můj pane?"
 
 # říká Karrag (lich)
 #. [message]: speaker=Karrag
@@ -1959,10 +1945,10 @@ msgid ""
 "your new friends will be the last sacrifices I require to bind the entire "
 "dwarvish race to my purpose. TAKE THEM!"
 msgstr ""
-"A vy jste zpečetili svůj osud. Stovky pozemských červů již zemřely, aby "
-"utkaly síť krve kolem Kladiva a Duše trpaslíků. Vy a vaši noví přátelé "
-"budete poslední oběti, které potřebuji k připojení celé trpasličí rasy k "
-"mému záměru. Chopte se jich!"
+"A vy jste zpečetili svůj osud. Stovky pozemských červů již zemřely, aby "
+"utkaly síť krve kolem kladiva a duše trpaslíků. Vy a vaši noví přátelé "
+"budete poslední oběti, které potřebuji k připojení celé trpasličí rasy "
+"k mému záměru. CHOPTE SE JICH!"
 
 # Oznámení
 #. [message]: speaker=narrator
@@ -1999,9 +1985,9 @@ msgid ""
 "merely mad raving, but we cannot allow the risk that his foul spell might "
 "succeed."
 msgstr ""
-"Musíme za ním. Rychle! Jeho řeči o zneužití Kladiva mohly být jen bláhovým "
+"Musíme za ním. Rychle! Jeho řeči o zneužití kladiva mohly být jen bláhovým "
 "blouzněním, ale my si nemůžeme dovolit riskovat. Co kdyby jeho bláznivé "
-"kouzlení fungovalo!"
+"kouzlení fungovalo."
 
 # Název scénáře
 #. [scenario]: id=12_The_Underlevels
@@ -2019,7 +2005,7 @@ msgstr "Najdi a poraz Karraga"
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:280
 msgid "This place reeks of death."
-msgstr "Tohle místo má zápach smrti."
+msgstr "Tohle místo zavání smrtí."
 
 # říká Dulcatulos (trpaslík)
 #. [message]: speaker=Dulcatulos
@@ -2030,42 +2016,34 @@ msgid ""
 "that before."
 msgstr ""
 "Je to... je to už mnoho let, co jsem tu nebyl. Tyhle prostory používal jen "
-"Karrag a jeho následovníci. Nemohu uvěřit, proč mě to nikdy předtím nepřišlo "
+"Karrag a jeho následovníci. Nemohu uvěřit, že mi to nikdy předtím nepřišlo "
 "divné."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:291
-#, fuzzy
-#| msgid ""
-#| "Karrag’s will, and his dark magic. I think he has been casting glamours "
-#| "on all of you ever since he passed over."
 msgid ""
 "It is Karrag's doing—his will, and his dark magic. I think he has been "
 "casting glamours on all of you ever since he passed over."
 msgstr ""
-"To zařídila Karragova vůle a temná magie. Myslím, že vám jeho kouzla vše "
-"idealizovala, dokud nepominula."
+"Je to Karragova práce – jeho vůle a temná magie. Myslím, že na vás všechny "
+"sesílal kouzla už od té doby, co přešel na druhou stranu."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:296
 msgid ""
 "Where <i>is</i> Karrag? We can’t have been more than seconds behind him."
-msgstr "Kde <i>je</i> Karrag? Nemohl mít před námi moc velký náskok."
+msgstr "Kde <i>je</i> Karrag? Nemůže mít před námi moc velký náskok."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:301
-#, fuzzy
-#| msgid ""
-#| "More likely he has cloaked himself, thinking to run ahead to gather his "
-#| "followers. He could be within a spear-cast of us now and we wouldn’t know "
-#| "it in this gloom."
 msgid ""
 "Most likely he has cloaked himself, thinking to run ahead to gather his "
 "followers. He could be within a spear-cast of us now and we wouldn’t know it "
 "in this gloom."
 msgstr ""
-"Nejpravděpodobněji se zahalil a chce utéct, aby shromáždil své věrné. Může "
-"být od nás na dosah oštěpu a stejně ho v tom šeru neuvidíme."
+"S největší pravděpodobností se zahalil a chce utéct, aby shromáždil své "
+"věrné. Mohl by být teď od nás co by kamenem dohodil a v tomhle šeru bychom "
+"to nevěděli."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:310
@@ -2079,7 +2057,7 @@ msgid ""
 "hellspawn the lich will summon. AXES UP!"
 msgstr ""
 "Jo. Karrag svolává své jednotky do bitvy. Jen Temní bohové vědí, co za "
-"pekelnou čeládku vyvolal. Do zbraně!"
+"pekelnou čeládku vyvolal. DO ZBRANĚ!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:338
@@ -2104,17 +2082,17 @@ msgstr "Našel jsem zlato!"
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:452
 msgid "The gates are locked. I will have to break them open by force!"
-msgstr ""
+msgstr "Brány jsou uzamčené. Budu je muset vyrazit!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:458
 msgid "The gates are locked!"
-msgstr ""
+msgstr "Brány jsou uzamčené!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:463
 msgid "Force them open!"
-msgstr ""
+msgstr "Vyražte je!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:468
@@ -2124,7 +2102,7 @@ msgstr "Ano, pane!"
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:501
 msgid "Let us proceed onward."
-msgstr ""
+msgstr "Pokračujme kupředu."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:527
@@ -2149,30 +2127,26 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:613
 msgid "The dirtgrubber-friends have come! Slay them all!"
-msgstr ""
+msgstr "Kamarádi hlínohrabů dorazili! Zabte je všechny!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:618
 msgid "You could not stop us before and you won't be stopping us now!"
-msgstr ""
+msgstr "Nemohls nás zastavit dřív a nezastavíš nás ani teď!"
 
 #. [message]: speaker=Dufon
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:639
-#, fuzzy
-#| msgid ""
-#| "You cannot pass, fools. The doors I guard are sealed by the power of the "
-#| "Hammer itself."
 msgid ""
 "You shall never pass through here! The doors I guard are sealed by the power "
 "of the Hammer itself."
 msgstr ""
-"Neprojdete blázni. Dveře, které hlídám, jsou uzamčeny silou samotného "
-"Kladiva."
+"Nikdy tudy neprojdete! Dveře, které střežím, jsou zapečetěny silou samotného "
+"kladiva."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:644
 msgid "You won't stop us!"
-msgstr ""
+msgstr "Nás nezastavíš!"
 
 #. [message]: speaker=Dufon
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:649
@@ -2180,6 +2154,8 @@ msgid ""
 "Fools! Even should you defeat me, the master's ritual will soon be complete "
 "and you shall all become his slaves!"
 msgstr ""
+"Hlupáci! I kdybyste mne přemohli, mistrův obřad bude brzy dokončen a vy "
+"všichni se stanete jeho otroky!"
 
 #. [message]: speaker=Aragoth
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:669
@@ -2360,10 +2336,8 @@ msgstr ""
 
 #. [message]: speaker=Dufon
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1313
-#, fuzzy
-#| msgid "Our master’s ritual must not be interrupted. Stop them!"
 msgid "The master's ritual... must not be... interrupted..."
-msgstr "Rituál našeho pána nesmí být přerušen. Zastavte je!"
+msgstr "Mistrův obřad... nesmí být... přerušen..."
 
 #. [message]: speaker=Dranath
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1325
@@ -2619,9 +2593,8 @@ msgstr ""
 "Obřadníci jsou mudrci trpasličí rasy. Váleční vůdci i náčelníci si velmi "
 "cení jejich rad a obyčejní trpaslíci je zahrnují úctou. Jsou to ti, co "
 "schraňují nejhlubší a nejtajnější tajemství trpasličích znalostí a umění. "
-"Říká se, že kde je obřadník, tam se nachází duše trpaslíků.\n"
-"Ke schopnostem letopisců se u obřadníků přidává schopnost poskytnout "
-"ošetření."
+"Říká se, že kde je obřadník, tam se nachází duše trpaslíků. Ke schopnostem "
+"letopisců se u obřadníků přidává schopnost poskytnout ošetření."
 
 #. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg:4
