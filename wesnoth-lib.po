@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-10-04 19:38+0200\n"
+"PO-Revision-Date: 2019-10-14 19:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2419,10 +2419,8 @@ msgstr "Modifikátor denní doby"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:85
-#, fuzzy
-#| msgid "Leader"
 msgid "Leadership bonus"
-msgstr "Vůdce"
+msgstr "Bonus z velení"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:86
@@ -2844,7 +2842,7 @@ msgstr "Zlato:"
 #: data/gui/window/editor_edit_side.cfg:277
 #: src/gui/dialogs/multiplayer/lobby.cpp:483
 msgid "Gold per village:"
-msgstr "Příjem za vesnici:"
+msgstr "Zlato za vesnici:"
 
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:305 data/gui/window/mp_staging.cfg:362
@@ -2854,7 +2852,7 @@ msgstr "Příjem:"
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:333
 msgid "Support per village:"
-msgstr "Zlaté na vesnici:"
+msgstr "Podpora za vesnici:"
 
 #. [label]
 #: data/gui/window/editor_edit_side.cfg:363
@@ -3312,7 +3310,7 @@ msgid ""
 "Gold"
 msgstr ""
 "Počáteční\n"
-"Zlato"
+"zlato"
 
 #. [toggle_button]: id=sort_3
 #: data/gui/window/game_stats.cfg:325
@@ -3329,7 +3327,7 @@ msgid ""
 "Gold Per\n"
 "Village"
 msgstr ""
-"Zlaté na\n"
+"Zlato za\n"
 "vesnici"
 
 #. [toggle_button]: id=sort_5
@@ -3338,8 +3336,8 @@ msgid ""
 "Support Per\n"
 "Village"
 msgstr ""
-"Zlaté na\n"
-"vesnici"
+"Podpora\n"
+"za vesnici"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
@@ -6974,11 +6972,11 @@ msgstr "Umísti týmový popisek"
 
 #: src/hotkey/hotkey_command.cpp:127
 msgid "Set Label"
-msgstr "Umísti popisek"
+msgstr "Nastav popisek"
 
 #: src/hotkey/hotkey_command.cpp:128
 msgid "Clear Labels"
-msgstr "Smaž popisek"
+msgstr "Smaž popisky"
 
 #: src/hotkey/hotkey_command.cpp:129
 msgid "Show Enemy Moves"
@@ -7410,7 +7408,7 @@ msgstr "Otoč mapu"
 
 #: src/hotkey/hotkey_command.cpp:244
 msgid "Apply a Mask"
-msgstr "Aplikovat masku"
+msgstr "Aplikuj masku"
 
 #: src/hotkey/hotkey_command.cpp:245
 msgid "Create Mask"
@@ -7418,7 +7416,7 @@ msgstr "Vytvoř masku"
 
 #: src/hotkey/hotkey_command.cpp:246
 msgid "Refresh Display"
-msgstr "Obnovit pohled"
+msgstr "Obnov pohled"
 
 #: src/hotkey/hotkey_command.cpp:248
 msgid "Update Terrain Transitions"
@@ -7446,17 +7444,15 @@ msgstr "Obnov obrazovou paměť"
 
 #: src/hotkey/hotkey_command.cpp:258
 msgid "Draw Hex Coordinates"
-msgstr "Zobrazuj souřadnice políček"
+msgstr "Zobraz souřadnice políček"
 
 #: src/hotkey/hotkey_command.cpp:259
 msgid "Draw Terrain Codes"
-msgstr "Zobrazuj kódy terénu"
+msgstr "Zobraz kódy terénu"
 
 #: src/hotkey/hotkey_command.cpp:260
-#, fuzzy
-#| msgid "Number of turns"
 msgid "Draw Number of Bitmaps"
-msgstr "Počet kol"
+msgstr "Zobraz počet bitmap"
 
 #: src/hotkey/hotkey_command.cpp:262
 msgid "Save Selection to Area"
