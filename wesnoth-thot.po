@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-13 07:44+0200\n"
+"PO-Revision-Date: 2019-10-17 19:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -85,7 +85,7 @@ msgid ""
 "though great, pale beside the evil they will face at its end.\n"
 "\n"
 msgstr ""
-"V prvních letech existence Severní Aliance byla z Knalgy vyslána výprava, "
+"V prvních letech existence Severní aliance byla z Knalgy vyslána výprava, "
 "aby pátrala po příbuzném klanu od Kal Karthy a po osudu legendárního "
 "Thursaganova kladiva. Nebezpečí, s kterými se střetla při své cestě skrze "
 "divoké Severní kraje, byla veliká. Jejich hrozivost však bledne ve srovnání "
@@ -137,7 +137,7 @@ msgid ""
 "mining their past for inspiration to rebuild Knalga even greater than "
 "before, and began also reaching out for contact with their scattered kinfolk."
 msgstr ""
-"V prvních letech ustavení Severní Aliance byli trpaslíci z Knalgy i lidé od "
+"V prvních letech ustavení Severní aliance byli trpaslíci z Knalgy i lidé od "
 "Trpasličích dveří plně zaměstnáni obnovou všeho, co bylo zničeno během "
 "skřetí okupace. Brzy však začali znovu prosperovat. Trpaslíci začali s "
 "těžebními pracemi, s motivací obnovit a rozšířit velikost Knalgy a dostat se "
@@ -245,8 +245,8 @@ msgid ""
 "<i>Up axes!</i> We will be the Northern Alliance’s arm today, and kill or "
 "scatter these invaders."
 msgstr ""
-"<i>Do zbraně!</i> Dnes budeme pěstí Aliance a rozdrtíme a rozprášíme tyhle "
-"vetřelce."
+"<i>Do zbraně!</i> Dnes budeme pěstí Severní aliance a rozdrtíme a rozprášíme "
+"tyhle vetřelce."
 
 #. [message]: speaker=Bashnark
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:125
@@ -286,8 +286,8 @@ msgid ""
 "Loremasters..."
 msgstr ""
 "Následně po vítězství nad skřety byl Aiglondur povolán do audienční síně k "
-"lordu Hamelovi, vládci Knalgy a spoluvládci Severní Aliance. Vedle trůnu "
-"stál neznámý trpaslík, oblečen v hávu Obřadního Bratrstva..."
+"lordu Hamelovi, vládci Knalgy a spoluvládci Severní aliance. Vedle trůnu "
+"stál neznámý trpaslík, oblečen v hávu Obřadního bratrstva..."
 
 #. [side]: type=Dwarvish Lord, id=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:53
@@ -376,8 +376,8 @@ msgid ""
 "with them. That is why there are nae runesmiths among the Dwarves today, and "
 "sorely we miss them."
 msgstr ""
-"Protože když Thursagan zemřel s rukou na Kladivu, všichni mistři run a "
-"zasvěcenci, všichni co zapřisáhli své umění a svázali je se silou Kladiva, "
+"Protože když Thursagan zemřel s rukou na kladivu, všichni mistři run a "
+"zasvěcenci, všichni co zapřisáhli své umění a svázali je se silou kladiva, "
 "ti všichni najednou bez zjevné příčiny zemřeli v ten samý okamžik. Jejich "
 "tajemná umění zemřela s nimi. A to je ten důvod, proč dnes nejsou mezi "
 "trpaslíky žádní runoví kováři. Jak bolestně je postrádáme!"
@@ -391,7 +391,7 @@ msgid ""
 "actually, quite as lost as we believed."
 msgstr ""
 "To je to, co se říkalo, můj pane, a skutečně to platí. Ovšem s jednou "
-"výjimkou: Obřadní Bratrstvo mi dovolilo odhalit vám, že ona tajemná umění "
+"výjimkou: Obřadní bratrstvo mi dovolilo odhalit vám, že ona tajemná umění "
 "nejsou již tak ztracená, jak se soudilo."
 
 #. [message]: speaker=Hamel
@@ -429,7 +429,7 @@ msgstr ""
 "Knihu. Thursaganovu knihu, uloženou v tajném a uzavřeném oddělení, které "
 "musel sám vlastnoručně vybudovat ve skále. Zával to oddělení porušil a tak "
 "zpřístupnil. Bylo pro nás velmi namáhavé vyluštit Thursaganovo tajné písmo. "
-"Ale vypadá to, že s pomocí této knihy - a pokud budeme mít Kladivo - budeme "
+"Ale vypadá to, že s pomocí této knihy - a pokud budeme mít kladivo - budeme "
 "moci znovu trénovat a zasvěcovat runové kováře."
 
 # říká Hamel (trpaslík)
@@ -449,7 +449,7 @@ msgstr ""
 "Můj pane, objevili jsme to nedávno. Stále ještě luštíme obsah knihy. A také "
 "je třeba uvážit jednu delikátní věc - kdo by měl právo trénovat nové runové "
 "kováře, my zde, kteří vlastníme knihu nebo ti v Kal Kartha, kteří vlastní "
-"Kladivo?"
+"kladivo?"
 
 # říká Angarthing (trpaslík)
 #. [message]: speaker=Angarthing
@@ -480,8 +480,8 @@ msgid ""
 "That is obvious; the Order of Loremasters wants to send an expedition to Kal "
 "Kartha to find what has become of our kindred and the Hammer."
 msgstr ""
-"Je přece jasné, že Bratrstvo Obřadníků chce vyslat výpravu do Kal Karthy, "
-"která by zjistila, co se stalo s našimi příbuznými a s Kladivem."
+"Je přece jasné, že Obřadní bratrstvo chce vyslat výpravu do Kal Karthy, "
+"která by zjistila, co se stalo s našimi příbuznými a s kladivem."
 
 # říká Angarthing (trpaslík)
 #. [message]: speaker=Angarthing
@@ -550,7 +550,7 @@ msgid ""
 "were all too common."
 msgstr ""
 "Angarthing a Aiglondur se svou trpasličí družinou rychle cestovali na východ "
-"skrz obydlené krajiny Severní Aliance. Brzy se dostali do divočejších "
+"skrz obydlené krajiny Severní aliance. Brzy se dostali do divočejších "
 "krajin, plundrovaných až příliš často nájezdy velkých skupin nepřátelských "
 "skřetů a lidí."
 
@@ -607,7 +607,7 @@ msgstr "Marth-Tak zemře"
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:179
 msgid "In the name of the Alliance, quit these lands now!"
-msgstr "Vyzývám vás jménem Aliance, kliďte se z tohodle území!"
+msgstr "Vyzývám vás jménem aliance, kliďte se z tohodle území!"
 
 # říká Gothras (člověk)
 #. [message]: speaker=Gothras
@@ -616,15 +616,16 @@ msgid ""
 "We will fare where we will and take what we will, dog of an orc. To the Dark "
 "Gods with you and your precious ‘Alliance’."
 msgstr ""
-"Půjdeme, kam budeme chtít a vezmeme si to, co budeme chtít, vy hovada "
-"skřetí. Do temnoty s vámi i s tou vaší „drahou“ Aliancí."
+"Půjdeme, kam budeme chtít a vezmeme si to, co budeme chtít, vy hovada "
+"skřetí. Do temnoty s vámi i s tou vaší drahou ‚aliancí‘."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:189
 msgid ""
 "Now that is a sight still strange to my eyes — an orc fighting for the "
 "Northern Alliance."
-msgstr "Jak zvláštní pohled se mi naskýtá — skřet bojuje na straně Aliance."
+msgstr ""
+"Jak zvláštní pohled se mi naskýtá — skřet bojuje na straně Severní aliance."
 
 # říká Aiglondur (trpaslík)
 #. [message]: speaker=Aiglondur
@@ -633,14 +634,14 @@ msgid ""
 "I’m surprised myself that so many of the orcish tribes came over to the "
 "Alliance. Not so strange to see humans raiding us, worse luck."
 msgstr ""
-"Sám jsem byl překvapen, kolik skřetích kmenů přešlo k Alianci. Bohužel, není "
+"Sám jsem byl překvapen, kolik skřetích kmenů přešlo k alianci. Bohužel, není "
 "zas tak překvapivé vidět lidi, kteří nás rabují."
 
 # říká Marth Tak (skřet)
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:201
 msgid "You, on the road! Are you of the Northern Alliance or not?"
-msgstr "Hej vy, vy na cestě! Patříte k Severní Alianci?"
+msgstr "Hej vy, vy na cestě! Patříte k Severní alianci?"
 
 # říká Aiglondur (trpaslík)
 #. [message]: speaker=Aiglondur
@@ -663,12 +664,12 @@ msgstr "Je to naše povinnost!"
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:221
 msgid "For the Alliance! Axes up!"
-msgstr "Za Alianci! Do zbraně!"
+msgstr "Za alianci! Do zbraně!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:233
 msgid "We have failed our duty to the Alliance."
-msgstr "Nesplnili jsme, co od nás Aliance očekávala."
+msgstr "Nesplnili jsme, co od nás aliance očekávala."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:249
@@ -676,7 +677,7 @@ msgid ""
 "My thanks, dwarves. These bandits might have hacked a bloody swathe through "
 "the Alliance’s tribes if we had not killed them here."
 msgstr ""
-"Dík, trpaslíci. Tyhle bandité mohli prolít hodně krve obyvatel Aliance, "
+"Dík, trpaslíci. Tyhle bandité mohli prolít hodně krve obyvatel aliance, "
 "pokud bysme je tu nezkrouhli."
 
 #. [message]: speaker=Aiglondur
@@ -708,7 +709,7 @@ msgid ""
 "east to the easternmost edge of the Northern Alliance’s lands."
 msgstr ""
 "Aiglondur a jeho družina pokračovali v cestě k nejvýchodnějšímu cípu území "
-"Severní Aliance. Ještě cestou však stále nevěřícně potřásali hlavami z toho "
+"Severní aliance. Ještě cestou však stále nevěřícně potřásali hlavami z toho "
 "zážitku, že bojovali po boku skřetů místo proti nim."
 
 #. [side]: type=Troll, id=Gronk
@@ -761,7 +762,7 @@ msgid ""
 "Then it will be of the Alliance’s making, right enough, like this road that "
 "leads to it. It won’t do to have wild trolls squatting on it. Axes up!"
 msgstr ""
-"Pak bude vytvořený obyvateli Aliance, stejně jako ta cesta, co k němu vede. "
+"Pak bude vytvořený obyvateli aliance, stejně jako ta cesta, co k němu vede. "
 "Nezaslouží si, aby na něm opruzovali divocí trollové. Do zbraně!"
 
 # říká přemožitel Gronka (trpaslík)
@@ -782,7 +783,7 @@ msgid ""
 "The Alliance’s road ended at the troll bridge. East of it lay only the "
 "wildlands."
 msgstr ""
-"Cesta patřící Alianci skončila u trollího mostu. Východně od něj leží už jen "
+"Cesta patřící alianci skončila u trollího mostu. Východně od něj leží už jen "
 "divočina."
 
 #. [side]: type=Orcish Warlord, id=Tan-Malgar
@@ -842,7 +843,7 @@ msgid ""
 "What’s this? Large orcish war-bands so close to the Alliance’s border? That "
 "can only mean trouble."
 msgstr ""
-"Co se to děje? Velké skřetí manévry u hranic Aliance? To může značit jen "
+"Co se to děje? Velké skřetí manévry u hranic aliance? To může značit jen "
 "potíže."
 
 #. [message]: speaker=Tan-Malgar
@@ -851,7 +852,7 @@ msgid ""
 "Well, boys, we were planning to invade the Northern Alliance anyway... These "
 "dwarves should make a tasty appetizer."
 msgstr ""
-"No, beztak jsme chtěli vpadnout do Severní Aliance... takže tyhle trpajzlíci "
+"No, beztak jsme chtěli vpadnout do Severní aliance... takže tyhle trpajzlíci "
 "budou jen chutnej předkrm."
 
 # říká Tan-Grolak (skřet)
@@ -2483,7 +2484,7 @@ msgid ""
 "the Lord Protector of the Alliance."
 msgstr ""
 "Bylo mi řečeno, že tady najdu Aiglondura z Knalgy. Nesu zprávu od Lorda "
-"Tallina, Protektora Aliance."
+"Tallina, Protektora aliance."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:168
@@ -2501,8 +2502,8 @@ msgid ""
 msgstr ""
 "Jel jsem ve vašich stopách týdny. Zvěst o vašem drtivém vítězství nad Tan-"
 "Malgarem a jeho spojenci se rozšířila a donesla se Tallinovi. Tenkrát jste "
-"udělal Alianci větší službu, než jste tušil pane. Tan-Malgar si posílal "
-"vzkazy s určitými skřetími náčelníky uvnitř Aliance a vaše vítězství "
+"udělal alianci větší službu, než jste tušil pane. Tan-Malgar si posílal "
+"vzkazy s určitými skřetími náčelníky uvnitř aliance a vaše vítězství "
 "zabránilo nebezpečné revoltě."
 
 #. [message]: speaker=Pelias
@@ -2511,7 +2512,7 @@ msgid ""
 "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He bids "
 "you return to Knalga as soon as convenient, for your investiture."
 msgstr ""
-"Aiglondure, Protektor vás jmenoval spoluvládcem Aliance. Nabídl vám, abyste "
+"Aiglondure, Protektor vás jmenoval spoluvládcem aliance. Nabídl vám, abyste "
 "se vrátil kvůli investituře do Knalgy, jakmile to bude vhodné."
 
 #. [message]: speaker=Dulcatulos
