@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-17 19:26+0200\n"
+"PO-Revision-Date: 2019-10-20 07:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1775,7 +1775,7 @@ msgid ""
 "see to my troop’s care. Food will be brought to you; rest well. We will "
 "speak again."
 msgstr ""
-"To je starost pánů a obřadníků, ne takových jako já. Musím se postarat o mé "
+"To je starost pánů a obřadníků, ne takových jako já. Musím se postarat o mé "
 "vojáky. Přineseme vám jídlo; dobře si odpočiňte. Promluvíme si znovu."
 
 #. [scenario]: id=11_The_Court_of_Karrag
@@ -1803,7 +1803,7 @@ msgid ""
 "Psst, Angarthing... Karrag and those dwarves on the dais, they’re all "
 "<i>masked</i>."
 msgstr ""
-"Psst, Angarthingu... Karrag a všichni trpaslíci u trůnu, ti všichni <i>mají "
+"Psst, Angarthingu... Karrag a všichni trpaslíci u trůnu, ti všichni <i>mají "
 "masky</i>."
 
 # říká Angarthing (trpaslík)
@@ -1826,7 +1826,7 @@ msgid ""
 "We are from Knalga; your clans are kin to ours of old. We but did our duty "
 "to kin."
 msgstr ""
-"Přicházíme z Knalgy. Náš klan je rodově spřízněný s vaším. Pouze jsme "
+"Přicházíme z Knalgy. Náš klan je rodově spřízněný s vaším. Pouze jsme "
 "splnili povinnost, kterou máme ke svým bratrům."
 
 # říká Karrag (trpaslík)
@@ -1836,14 +1836,14 @@ msgid ""
 "All dwarves are kin, and must prevail against orcs and humans and other "
 "dirtgrubbers. You can be part of the fist that smites them."
 msgstr ""
-"Všichni trpaslíci jsou bratři a musí si podrobit skřety, lidi a jiné "
-"pozemské červy. I vy můžete být tou pěstí, která na ně udeří."
+"Všichni trpaslíci jsou bratři a musí si podrobit skřety, lidi a jiné "
+"pozemské červy. I vy můžete být tou pěstí, která na ně udeří."
 
 # říká Angarthing (trpaslík)
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:209
 msgid "We did not come to smite anyone, but to re-open contact and trade."
-msgstr "Nepřišli jsme někoho drtit, ale abychom obnovili kontakt a obchod."
+msgstr "Nepřišli jsme někoho drtit, ale abychom obnovili kontakt a obchod."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_The_Court_of_Karrag.cfg:214
@@ -1853,7 +1853,7 @@ msgid ""
 "our ancient heirloom, the Hammer of Thursagan."
 msgstr ""
 "Obchod? Zničení otravných skřetů je daleko vznešenější čin než obchodování. "
-"Můžete zažít ještě mnoho takových vítězství. A to díky síle našeho "
+"Můžete zažít ještě mnoho takových vítězství. A to díky síle našeho "
 "starodávného dědictví, síle Thursaganova kladiva."
 
 # říká Angarthing (trpaslík)
@@ -1879,7 +1879,7 @@ msgid ""
 "On one condition. You must take off that mask and show your true face. I am "
 "a witness."
 msgstr ""
-"Pod jednou podmínkou. Musíš sundat masku a ukázat nám svou pravou tvář. Jsem "
+"Pod jednou podmínkou. Musíš sundat masku a ukázat nám svou pravou tvář. Jsem "
 "dohlížitel."
 
 # říká Karrag (trpaslík)
@@ -1899,7 +1899,7 @@ msgid ""
 "But the Law must see. A dwarf must put his name and his face behind his "
 "deeds. I am a witness."
 msgstr ""
-"Ale Zákon si to žádá. Trpaslík musí za své činy ručit svým jménem a tváří. "
+"Ale Zákon si to žádá. Trpaslík musí za své činy ručit svým jménem a tváří. "
 "To prohlašuji jako dohlížitel."
 
 # říká Karrag (trpaslík)
@@ -1933,9 +1933,9 @@ msgid ""
 "sustained me, until I became as I am. I will have revenge; I will destroy "
 "the orcs, and the humans, and the elves, and all but the true people!"
 msgstr ""
-"Týdny jsem zápasil v agónii. Pouze má nenávist a dávné runové umění mě "
+"Týdny jsem zápasil v agónii. Pouze má nenávist a dávné runové umění mě "
 "držely, dokud jsem se nestal tím, čím jsem. Pomstím se! Zničím všechny "
-"skřety, lidi a elfy, prostě všechny, kteří nejsou pravé rasy!"
+"skřety, lidi a elfy, prostě všechny, kteří nejsou pravé rasy!"
 
 # říká Karrag (lich)
 #. [message]: speaker=Karrag
@@ -1957,7 +1957,7 @@ msgstr ""
 msgid ""
 "Neither side can recruit or recall. You must win with the troops you have."
 msgstr ""
-"Žádná strana nemůže verbovat ani přivolávat jednotky. Musíš zvítězit s tím, "
+"Žádná strana nemůže verbovat ani přivolávat jednotky. Musíš zvítězit s tím, "
 "co máš."
 
 #. [message]: speaker=Angarthing
@@ -2108,22 +2108,22 @@ msgstr "Pokračujme kupředu."
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:527
 msgid "There's something behind this door. I shall break it down!"
-msgstr ""
+msgstr "Za těmi dveřmi něco je. Vyrazím je!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:533
 msgid "There's something behind this door."
-msgstr ""
+msgstr "Za těmi dveřmi něco je."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:538
 msgid "Break it down!"
-msgstr ""
+msgstr "Vyraž je!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:575
 msgid "It looks like there is a rune behind this gate!"
-msgstr ""
+msgstr "Vypadá to, že za tou bránou je runa!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:613
@@ -2133,7 +2133,7 @@ msgstr "Kamarádi hlínohrabů dorazili! Zabte je všechny!"
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:618
 msgid "You could not stop us before and you won't be stopping us now!"
-msgstr "Nemohls nás zastavit dřív a nezastavíš nás ani teď!"
+msgstr "Nemohls nás zastavit dřív a nezastavíš nás ani teď!"
 
 #. [message]: speaker=Dufon
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:639
@@ -2164,28 +2164,30 @@ msgid ""
 "Your path forward ends here! Once the lord's spell is complete, your souls "
 "will soon be chained to his will!"
 msgstr ""
+"Vaše cesta vpřed zde končí! Jakmile lord dohotoví své kouzlo, budou vaše "
+"duše brzy spoutány s jeho vůlí!"
 
 #. [message]: speaker=Dranath
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:690
 msgid "The dirtgrubbers have come! Stop their advance!"
-msgstr ""
+msgstr "Přišli hlínohrabové! Zastavte jejich postup!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:717
 msgid "This must be one of the runic keys!"
-msgstr ""
+msgstr "To musí být jeden z runových klíčů!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:757
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:923
 msgid "We still need to find the other one!"
-msgstr ""
+msgstr "Ještě potřebujeme najít ten druhý!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:763
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:929
 msgid "Find and activate the runic keys (one remaining)"
-msgstr ""
+msgstr "Najdi a použij runové klíče (jeden zbývající)"
 
 #. [note]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:779
@@ -2194,35 +2196,28 @@ msgstr ""
 msgid ""
 "You may teleport units between matching runes (the destination must be clear)"
 msgstr ""
+"Můžeš teleportovat jednotky mezi odpovídajícími runami (cíl musí být volný)"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:883
 msgid "We've found a runic key!"
-msgstr ""
+msgstr "Našli jsme runový klíč!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1039
-#, fuzzy
-#| msgid "The key has been uttered, these doors should open..."
 msgid "The keys have been found. The door should open..."
-msgstr "Klíč byl vysloven, dveře by měly jít otevřít..."
+msgstr "Klíče byly nalezeny. Dveře by se měly otevřít..."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1091
 msgid "The lich surely awaits us within. We must be on guard."
-msgstr ""
+msgstr "Lich nás uvnitř jistě očekává. Musíme se mít na pozoru."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1139
-#, fuzzy
-#| msgid ""
-#| "It seems that guard spoke truth. These doors cannot be forced open by any "
-#| "means we have!"
 msgid ""
 "It seems that the guard spoke the truth. These doors will not open to us!"
-msgstr ""
-"Vypadá to, že ten strážce mluvil pravdu. Tyhle dveře nejdou vypáčit žádným "
-"způsobem který máme k dispozici!"
+msgstr "Zdá se, že ten strážce mluvil pravdu. Tyhle dveře se nám neotevřou!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1144
@@ -2230,11 +2225,13 @@ msgid ""
 "They are sealed by the ancient runelore of the Hammer. No amount of force "
 "can open these doors - we will need to find the keys to the seals here."
 msgstr ""
+"Jsou zapečetěné prastarým runovým uměním kladiva. Žádná síla nemůže ty dveře "
+"otevřít – bude potřeba najít tady k těm pečetím klíče."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1150
 msgid "Find and activate the runic keys to the sealed door"
-msgstr ""
+msgstr "Najdi a použij runové klíče k zapečetěným dveřím"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1182
@@ -2346,11 +2343,13 @@ msgid ""
 "Imbeciles! Once the master's dark rite is complete, I will return to slay "
 "you myself!"
 msgstr ""
+"Blbci! Hned jak bude mistrův temný obřad hotov, sám se vrátím, abych vás "
+"zabil!"
 
 #. [message]: speaker=Aragoth
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1337
 msgid "The heathens... have slain me-"
-msgstr ""
+msgstr "Ti bezvěrci... mě zabili—"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1348
