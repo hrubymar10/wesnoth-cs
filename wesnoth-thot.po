@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-20 07:28+0200\n"
+"PO-Revision-Date: 2019-10-21 22:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2236,17 +2236,17 @@ msgstr "Najdi a použij runové klíče k zapečetěným dveřím"
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1182
 msgid "My lord, the dirtgrubbers have entered our sanctuary!"
-msgstr ""
+msgstr "Můj pane, hlínohrabové vstoupili do naší svatyně!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1187
 msgid "Excellent! Their blood will provide plenty of fuel for my ritual!"
-msgstr ""
+msgstr "Výborně! Jejich krev poskytne mému obřadu dostatek paliva!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1208
 msgid "So, the usurpers have arrived at last."
-msgstr ""
+msgstr "Tak uchvatitelé konečně dorazili."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1213
@@ -2254,6 +2254,8 @@ msgid ""
 "We are not the usurpers but the liberators of Kal Kartha! We are here to "
 "free our kin from your dark sorcery!"
 msgstr ""
+"Nikoliv uchvatitelé, nýbrž osvoboditelé Kal Karthy! Jsme tu, abychom zbavili "
+"náš rod tvého temného čarodějnictví!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1218
@@ -2618,15 +2620,6 @@ msgstr "Maskovaný trpasličí lord"
 
 #. [unit_type]: id=Dwarvish Masked Lord, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:17
-#, fuzzy
-#| msgid ""
-#| "Feared in dwarven legend is the Dwarf Lord who masks his face, using the "
-#| "formidable fighting powers of his kind without accounting to his peers "
-#| "and the loremasters of Dwarven-kind for the dark and bloody uses to which "
-#| "he puts his weapons. Like his barefaced kin, the Dwarf Lord wields axe "
-#| "and hammer with masterful skill, and can hit a target with a thrown hand "
-#| "axe at several paces. Though slow on their feet, these dwarves are a "
-#| "testament to the prowess of their kind."
 msgid ""
 "Feared in dwarven legend is the Dwarf Lord who masks his face, using the "
 "formidable fighting powers of his kind without accounting to his peers and "
@@ -2636,13 +2629,12 @@ msgid ""
 "several paces. Though slow on their feet, these dwarves are a testament to "
 "the prowess of their kind."
 msgstr ""
-"Obávaná postava trpasličího vyprávění, Trpasličí lord maskující svou tvář, "
-"používá impozantní bojovou sílu svého rodu bez zodpovídání se ostatním "
-"lordům a obřadníkům trpasličího rodu za temné a krvavé použití jeho "
-"výzbroje. Tak jako jeho odhalení bratři i on dokonale vládne sekerou a "
-"palicí a hozenou sekyrkou je schopen zasáhnout pohyblivý cíl na mnoho stop. "
-"Ačkoliv jsou při pochodu pomalí, jsou tito trpaslíci dokladem statečnosti "
-"svého národa."
+"Obávaná postava trpasličího vyprávění, trpasličí lord maskující svou tvář, "
+"používá impozantní bojovou sílu svého druhu, aniž by skládal účty ostatním "
+"lordům a obřadníkům trpasličího rodu za temné a krvavé použití svých zbraní. "
+"Tak jako jeho odhalení bratři i on dokonale vládne sekerou a palicí a je "
+"schopen hozenou sekyrkou zasáhnout cíl na mnoho stop. Ačkoliv jsou při "
+"pochodu pomalí, jsou tito trpaslíci dokladem statečnosti svého národa."
 
 #. [unit_type]: id=Dwarvish Masked Sentinel, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Sentinel.cfg:4
