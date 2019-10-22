@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-21 22:44+0200\n"
+"PO-Revision-Date: 2019-10-22 22:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2226,12 +2226,12 @@ msgid ""
 "can open these doors - we will need to find the keys to the seals here."
 msgstr ""
 "Jsou zapečetěné prastarým runovým uměním kladiva. Žádná síla nemůže ty dveře "
-"otevřít – bude potřeba najít tady k těm pečetím klíče."
+"otevřít – bude potřeba najít tady k těm pečetím klíče."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1150
 msgid "Find and activate the runic keys to the sealed door"
-msgstr "Najdi a použij runové klíče k zapečetěným dveřím"
+msgstr "Najdi a použij runové klíče k zapečetěným dveřím"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1182
@@ -2264,6 +2264,8 @@ msgid ""
 "cleansed the lands of the true people from all unworthy scum! Kal Kartha "
 "owes me everything!"
 msgstr ""
+"Ty nestydatý blázne! To já přivedl Kal Karthu ke slávě a já to byl, kdo "
+"očistil země pravé rasy od vší podřadné spodiny! Kal Kartha mi vděčí za vše!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1223
@@ -2272,6 +2274,9 @@ msgid ""
 "their minds with your foul magic and now we are here to put an end to your "
 "tyrannical rule!"
 msgstr ""
+"Ne! Ty jsi ten, který dluží našim bratřím jejich svobodu! Podmanil sis "
+"jejich myšlenky svou odpornou magií a my teď na místě ukončíme tvou "
+"krutovládu!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1228
@@ -2279,11 +2284,13 @@ msgid ""
 "Any enemy of my rule is no better than the filthiest of dirtgrubbers. You no "
 "longer belong to the true people. You will become my slaves!"
 msgstr ""
+"Žádný nepřítel mého panování není lepší než ten nejšpinavější hlínohrab. Už "
+"více nepatříte k pravé rase. Stanete se mými otroky!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1233
 msgid "Not if we stop you here. AXES UP!"
-msgstr ""
+msgstr "Ne, když tě tady zastavíme. DO ZBRANĚ!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1251
