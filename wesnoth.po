@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-10-15 04:28+0200\n"
+"PO-Revision-Date: 2019-10-23 22:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4818,6 +4818,11 @@ msgid ""
 "villages unoccupied, but keep in mind that an enemy unit becomes much harder "
 "to dislodge from a village! Plan your movements accordingly."
 msgstr ""
+"Ať už se to týká jakéhokoli hráče, často je klíčem k vítězství ve scénáři "
+"ovládání vesnic. Této znalosti můžeš využít, abys vlákal své protivníky do "
+"pasti tím, že necháš některé vesnice neobsazené, ale měj na paměti, že "
+"vypudit nepřátelskou jednotku z vesnice je o moc těžší! Podle toho plánuj "
+"své přesuny."
 
 #. [tip]
 #: data/tips.cfg:153
@@ -8252,13 +8257,11 @@ msgstr "Tato denní doba je pouze útržek!"
 
 #. TRANSLATORS: Current value for WML code increase_damage, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:356
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> damage"
 msgid_plural "<span color=\"$color\">$number_or_percent</span> damage"
-msgstr[0] "útok za kolo"
-msgstr[1] "útok za kolo"
-msgstr[2] "útok za kolo"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span> poškození"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span> poškození"
+msgstr[2] "<span color=\"$color\">$number_or_percent</span> poškození"
 
 #: src/units/attack_type.cpp:365
 msgid "$number damage"
@@ -8364,19 +8367,15 @@ msgid "$attack_list|: $effect_description"
 msgstr "$attack_list|: $effect_description"
 
 #: src/units/unit.cpp:1781
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> HP"
-msgstr "útok za kolo"
+msgstr "<span color=\"$color\">$number_or_percent</span> bodů života"
 
 #: src/units/unit.cpp:1791
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> move"
 msgid_plural "<span color=\"$color\">$number_or_percent</span> moves"
-msgstr[0] "útok za kolo"
-msgstr[1] "útok za kolo"
-msgstr[2] "útok za kolo"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span> krok"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span> kroky"
+msgstr[2] "<span color=\"$color\">$number_or_percent</span> kroků"
 
 #: src/units/unit.cpp:1797
 #, fuzzy
@@ -8391,10 +8390,9 @@ msgid "<span color=\"$color\">$number_or_percent</span> jamming"
 msgstr "útok za kolo"
 
 #: src/units/unit.cpp:1806
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> XP to advance"
-msgstr "útok za kolo"
+msgstr ""
+"<span color=\"$color\">$number_or_percent</span> bodů zkušenosti k postupu"
 
 #: src/units/unit.cpp:1810
 #, fuzzy
