@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-10-14 19:36+0200\n"
+"PO-Revision-Date: 2019-10-24 21:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -121,7 +121,7 @@ msgstr "Šedý pobřežní útes"
 #. [terrain_type]: id=medium_reef
 #: data/core/terrain.cfg:110
 msgid "Medium Coastal Reef"
-msgstr "Střední Pobřežní útes"
+msgstr "Střední pobřežní útes"
 
 #. [terrain_type]: id=tropical_reef
 #: data/core/terrain.cfg:121
@@ -601,22 +601,22 @@ msgstr "Základní kamenná podlaha"
 #: data/core/terrain.cfg:831 data/core/terrain.cfg:841
 #: data/core/terrain.cfg:851
 msgid "Rug"
-msgstr ""
+msgstr "Kobereček"
 
 #. [terrain_type]: id=rug_floor
 #: data/core/terrain.cfg:834
 msgid "Royal Rug"
-msgstr ""
+msgstr "Královský kobereček"
 
 #. [terrain_type]: id=rug2_floor
 #: data/core/terrain.cfg:844
 msgid "Normal Rug"
-msgstr "Normální pokrývka"
+msgstr "Obyčejný kobereček"
 
 #. [terrain_type]: id=rug3_floor
 #: data/core/terrain.cfg:854
 msgid "Cave Rug"
-msgstr "Jeskynní pokrývka"
+msgstr "Jeskynní kobereček"
 
 #. [terrain_type]: id=wood_floor
 #: data/core/terrain.cfg:861
