@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-22 22:29+0200\n"
+"PO-Revision-Date: 2019-10-25 18:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1987,7 +1987,7 @@ msgid ""
 "succeed."
 msgstr ""
 "Musíme za ním. Rychle! Jeho řeči o zneužití kladiva mohly být jen bláhovým "
-"blouzněním, ale my si nemůžeme dovolit riskovat. Co kdyby jeho bláznivé "
+"blouzněním, ale my si nemůžeme dovolit riskovat. Co kdyby jeho bídné "
 "kouzlení fungovalo."
 
 # Název scénáře
@@ -2295,23 +2295,22 @@ msgstr "Ne, když tě tady zastavíme. DO ZBRANĚ!"
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1251
 msgid "No! No! No! Dirtgrubbers must die! The true people must rule all!"
-msgstr ""
-"Ne! Ne! Ne! Pozemští červi musí zemřít! Pravá rasa musí všemu vládnout!"
+msgstr "Ne! Ne! Ne! Hlínohrabové musí zemřít! Pravá rasa musí vládnout všem!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1256
 msgid "The ‘true people’ speak through our axes. Die, foul lich."
-msgstr "„Pravá rasa“ se pozná po ostří své sekery! Chcípni, zkažený lichi!"
+msgstr "‚Pravá rasa‘ mluví našimi sekerami. Zemři, odporný lichu!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1261
 msgid "Nooo! My power... it wanes..."
-msgstr ""
+msgstr "Neee! Má síla... se vytrácí..."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1271
 msgid "And your rule is at an end, Karrag, once the brave lord of Kal Kartha."
-msgstr ""
+msgstr "A tvá vláda je u konce, Karragu, kdysi statečný pane Kal Karthy."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1276
@@ -2320,6 +2319,9 @@ msgid ""
 "ago when his lust for power consumed him. It is now time to put the past "
 "behind and right the wrongs that have been wrought here."
 msgstr ""
+"Netruchli nad jeho odchodem, Dulcatule. Karrak, jak jsi ho znal, zemřel před "
+"mnoha lety, kdy ho zničila jeho mocichtivost. Teď je čas nechat minulost za "
+"sebou a napravit křivdy, které tu byly napáchány."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1281
