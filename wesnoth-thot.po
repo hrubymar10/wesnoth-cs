@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-25 18:56+0200\n"
+"PO-Revision-Date: 2019-10-26 09:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2330,6 +2330,9 @@ msgid ""
 "darkness is gone, there is still much to do. Much will have to be done to "
 "amend the desecration of the Hammer and the evil that has been done here."
 msgstr ""
+"Aiglondur mluví pravdu. Čin je dokonán. Ačkoli je srdce temnoty pryč, je tu "
+"stále hodně co dělat. Mnoho bude třeba vykonat, aby se odstranilo znesvěcení "
+"kladiva a odčinilo zlo, ke kterému tu došlo."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1286
@@ -2337,11 +2340,13 @@ msgid ""
 "But first, we must bring this news to the rest of Kal Kartha. A new Lord "
 "must be chosen."
 msgstr ""
+"Ale nejprve musíme tu zprávu přinést zbytku Kal Karthy. Musí být zvolen nový "
+"pán."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1291
 msgid "Aye, let us go."
-msgstr ""
+msgstr "Ba, pojďme."
 
 #. [message]: speaker=Dufon
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1313
@@ -2365,7 +2370,7 @@ msgstr "Ti bezvěrci... mě zabili—"
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1348
 msgid "The air is cold with the stench of death."
-msgstr ""
+msgstr "Vzduch je studený a zapáchá smrtí."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1353
@@ -2373,11 +2378,13 @@ msgid ""
 "No doubt it is this ritual that the masked ones spoke of. We must hurry and "
 "stop Karrag!"
 msgstr ""
+"Bezpochyby je to ten obřad, o kterém mluvili maskovaní. Musíme si pospíšit "
+"a zastavit Karraga!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1372
 msgid "I feel as if the life is being sapped out of my body!"
-msgstr ""
+msgstr "Cítím, jako by život unikal z mého těla!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1377
@@ -2385,6 +2392,8 @@ msgid ""
 "Karrag's spell grows more powerful with every passing moment. If we do not "
 "defeat him now, we will all turn into his thralls!"
 msgstr ""
+"Karragovo kouzlo sílí každým okamžikem. Jestliže ho teď neporazíme, všichni "
+"se staneme jeho poddanými!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:1386
@@ -2392,6 +2401,9 @@ msgid ""
 "HAHAHAHA! Yes, yes, YES! The rite of death is complete at last! Die, you "
 "filthy dirtgrubbers, die so that I may raise you again as my mindless slaves!"
 msgstr ""
+"HAHAHAHA! Ano, ano, ANO! Obřad smrti je konečně hotov! Zemřete, vy špinaví "
+"hlínohrabové, zemřete, abych vás mohl znovu pozvednout jako mé nemyslící "
+"otroky!"
 
 #. [scenario]: id=13_Epilogue
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:5
