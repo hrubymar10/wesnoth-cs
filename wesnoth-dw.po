@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-10-09 16:22+0200\n"
+"PO-Revision-Date: 2019-10-27 08:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: čeština <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Gtranslator 3.30.1\n"
+"X-Generator: Gtranslator 3.32.1\n"
 
 # Název zvolen po delší úvaze a je schválně nedoslovný. Moře tu značí jak vlastní vodu, domov mořských lidí, tak i označení velkého množství.
 #. [campaign]: id=Dead_Water
@@ -90,12 +90,12 @@ msgid ""
 "your troops!\n"
 "\n"
 msgstr ""
-"Jsi Kai Krellis, syn a následník krále mořského lidu, zatím však spíše dítě. "
-"Nekromancer dělá z tvých poddaných nemrtvé otroky! Veď svůj lid, splňte "
-"poslání a přesvědčte mocnou mořskou pannu, aby vám pomohla zapudit vetřelce. "
-"Vody oceánu u pobřeží Severních zemí jsou nebezpečné, takže budeš potřebovat "
-"k přežití dostatek rafinovanosti a statečnosti. Především ale budeš "
-"potřebovat získat respekt u svých vojáků!\n"
+"Jsi Kai Krellis, syn a následník krále mořského lidu, zatím však spíše dítě. "
+"Nekromancer dělá z tvých poddaných nemrtvé otroky! Veď svůj lid, splňte "
+"poslání a přesvědčte mocnou mořskou pannu, aby vám pomohla zapudit vetřelce. "
+"Vody oceánu u pobřeží Severních zemí jsou nebezpečné, takže budeš potřebovat "
+"k přežití dostatek rafinovanosti a statečnosti. Především ale budeš "
+"potřebovat získat respekt u svých vojáků!\n"
 "\n"
 
 #. [campaign]: id=Dead_Water
@@ -143,14 +143,14 @@ msgid ""
 "always, they were driven back to dry land with heavy losses, the salt water "
 "of the bay stinging their wounds."
 msgstr ""
-"V Severních zemích, tam, kde pohoří Dorth přechází do pobřeží, leží zátoka "
-"spojená s mořem úzkým průlivem. V klidných vodách této zátoky leží město "
-"Jota, patřící mořskému lidu. Výhodnost tohoto přirozeného přístavu spojená s "
-"prosperitou jeho mořských obyvatel přitahovala mnoho závistivých očí. Ale "
-"nikdo nebyl schopen soupeřit se statečností mořského lidu v jeho vodní "
-"domovině. Po mnoho let, skřetí nájezdy z přístavu Tirigaz, ležícího severně "
-"odtud, přicházely tak pravidelně jako jarní deště. Skřeti byli vždy s "
-"těžkými ztrátami odraženi zpět na pevninu s ranami, v kterých je pálila "
+"V Severních zemích, tam, kde pohoří Dorth přechází do pobřeží, leží zátoka "
+"spojená s mořem úzkým průlivem. V klidných vodách této zátoky leží město "
+"Jota, patřící mořskému lidu. Výhodnost tohoto přirozeného přístavu spojená "
+"s prosperitou jeho mořských obyvatel přitahovala mnoho závistivých očí. Ale "
+"nikdo nebyl schopen soupeřit se statečností mořského lidu v jeho vodní "
+"domovině. Po mnoho let přicházely skřetí nájezdy z přístavu Tirigaz, "
+"ležícího severně odtud, tak pravidelně jako jarní deště. Skřeti byli vždy "
+"s těžkými ztrátami odraženi zpět na pevninu s ranami, v kterých je pálila "
 "slaná voda zálivu."
 
 #. [part]
@@ -213,7 +213,7 @@ msgstr ""
 "dlouho zapomenout. Byla však těžce zaplacena. Kai Laudiss padl otráven "
 "skřetí šipkou a většina jeho armády byla zničena.\n"
 "Když se přeživší vojáci vrátili do Joty, začal se Krellis, mladý syn Kai "
-"Laudisse, učit být novým Kai."
+"Laudisse, učit být novým kai."
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:65
@@ -227,8 +227,8 @@ msgid ""
 msgstr ""
 "Kai Krellis se cítil příliš mladý, aby nesl odpovědnost za království, proto "
 "se spoléhal na moudrost kněžky jménem Cyllana. Byla přítelkyní jeho otce a "
-"Kai Krellis ji znal již od dětství co mu paměť sahala. Cyllana truchlila pro "
-"předchozího Kaie, ale věřila, že jeho oběť by mohla umožnit Krellisovi "
+"Kai Krellis ji znal již od dětství, co mu paměť sahala. Cyllana truchlila "
+"pro předchozího kaie, ale věřila, že jeho oběť by mohla umožnit Krellisovi "
 "vládnout ve věku míru. Naneštěstí tomu tak nemělo být. Z hor se vyrojil nový "
 "nepřítel."
 
@@ -303,9 +303,9 @@ msgid ""
 "our weapons. And they smelled like nothing in the sea, of dank earth and "
 "rottenness."
 msgstr ""
-"Nikdy předtím jsem je v životě neviděl. Vypadají jako lidé, ale nemají "
-"žádnou kůži. Naše oštěpy skrz ně procházely a oni se nám jen VYSMÍVALI. A "
-"smrděli jak nesmrdí nic v moři, po vlhké zemi a hnilobě."
+"Nikdy v životě jsem je neviděl. Vypadají jako lidé, ale nemají žádnou kůži. "
+"Naše oštěpy skrz ně procházely; <i>vysmívali</i> se naším zbraním. A smrděli "
+"jak nesmrdí nic v moři, po vlhké zemi a hnilobě."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:347
@@ -324,7 +324,7 @@ msgid ""
 "skills."
 msgstr ""
 "Kai prosím, veď nás proti nim ty sám, lid to povzbudí. A — pokud dovolíš — "
-"stejně jsi už dosáhl věku, kdy se Kai musí učit válečným dovednostem."
+"stejně jsi už dosáhl věku, kdy se kai musí učit válečným dovednostem."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:357
@@ -332,8 +332,8 @@ msgid ""
 "Gwabbo speaks wisely. You must fight; I will protect you as much as I can..."
 "but when war looms, a kai must lead. It is our way."
 msgstr ""
-"Gwabbo mluví moudře. Musíš bojovat. Budu tě chránit, jak jen budu moci... "
-"ale když válečné bubny zní, Kai se musí postavit do čela vojska. Je to tvůj "
+"Gwabbo mluví moudře. Musíš bojovat. Budu tě chránit, jak jen budu moci..., "
+"ale když válečné bubny zní, kai se musí postavit do čela vojska. Je to tvůj "
 "úděl."
 
 #. [message]: speaker=narrator
@@ -342,14 +342,13 @@ msgid ""
 "You have few trained fighters, so you can only recruit three of each level 1 "
 "unit. There is no limit on citizens."
 msgstr ""
-"Máš k dispozici jen málo trénovaných jednotek, takže nebudeš schopen "
-"naverbovat víc jak 3 zástupce daného druhu jednotek první úrovně. Počet "
-"verbovatelných obyvatel je bez limitu."
+"Máš málo vycvičených bojovníků, takže můžeš naverbovat jen tři od každé "
+"jednotky úrovně 1. U obyvatel není žádné omezení."
 
 #. [message]: speaker=Mal-Kevek
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:391
 msgid "Rise, my slaves! We will create an army for Lord Ravanal."
-msgstr "Povstaňte, mí otroci! Vytvoříme armádu pro Lorda Ravanala."
+msgstr "Povstaňte, mí otroci! Vytvoříme armádu pro lorda Ravanala."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:400
@@ -357,13 +356,13 @@ msgid ""
 "He is raising our dead to fight against us! Even though they were your own "
 "citizens, Krellis, show no mercy. Destroy them if you can."
 msgstr ""
-"Probouzí naše mrtvé, aby bojovali proti nám! I když jsou to tví vlastní "
-"obyvatelé, Krellisi, neměj s nimi žádné slitování. Pokud můžeš, znič je!"
+"Probouzí naše mrtvé, aby bojovali proti nám! I když to byli tví spoluobčané, "
+"Krellisi, neměj s nimi žádné slitování. Pokud můžeš, znič je!"
 
 #. [message]: id=Mal-Kevek
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:421
 msgid "Foolish fish-men. You cannot kill <i>me</i> that easily."
-msgstr "Bláhový rybí muži. <i>MĚ</i> nemůžeš zabít takhle snadno."
+msgstr "Bláhový rybí muži. <i>Mě</i> nemůžeš zabít takhle snadno."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:426
@@ -635,7 +634,7 @@ msgid ""
 "You have proven your courage in battle, as tradition required of a kai; they "
 "will follow you now."
 msgstr ""
-"Osvědčil jsi odvahu v bitvě, tak jak velí tradice Kai. Budou tě teď "
+"Osvědčil jsi odvahu v bitvě, tak jak velí tradice kai. Budou tě teď "
 "následovat."
 
 #. [message]: speaker=Mal-Kevek
@@ -1167,7 +1166,7 @@ msgid ""
 "Those are the words of a true kai and your father’s son. I am proud of you, "
 "Krellis."
 msgstr ""
-"To byla slova pravého Kaie a syna svého otce. Jsem na tebe hrdá, Krellisi."
+"To byla slova pravého kaie a syna svého otce. Jsem na tebe hrdá, Krellisi."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:427
