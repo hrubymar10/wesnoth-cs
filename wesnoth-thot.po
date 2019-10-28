@@ -18,15 +18,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-26 09:27+0200\n"
+"PO-Revision-Date: 2019-10-28 07:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: čeština <hrubymar10@gmail.com>\n"
+"Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Gtranslator 3.30.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 # Název tažení
 #. [campaign]: id=The_Hammer_of_Thursagan
@@ -1412,8 +1412,8 @@ msgid ""
 "Does it matter? He is only a dirtgrubbing human, not fit to polish the boots "
 "of the true people."
 msgstr ""
-"Záleží na tom? Je to prostě pozemský červ, který si nezaslouží ani leštit "
-"boty příslušníkům pravé rasy."
+"Záleží na tom? Je to jenom člověk – hlínohrab, který si nezaslouží ani "
+"leštit boty příslušníkům pravé rasy."
 
 # říká Angarthing (trpaslík)
 #. [message]: speaker=Angarthing
@@ -1449,7 +1449,7 @@ msgid ""
 "If you were a witness of the true people, you would not let a dirtgrubber "
 "hide behind your robes. I deny you!"
 msgstr ""
-"Kdyby jsi byl dohlížitel pravých trpaslíků, nedovolil bys pozemskému červu "
+"Kdyby jsi byl dohlížitel pravých trpaslíků, nedovolil bys hlínohrabovi "
 "schovávat se za vašimi plášti. Neuznávám tě!"
 
 # Angarthing
@@ -1725,8 +1725,8 @@ msgid ""
 "A runemaster? There have been none such since Thursagan’s day. And for one "
 "to lead a holding was unheard-of; they tended towards the solitary life."
 msgstr ""
-"Runový mistr? Od Thursaganových časů nikdo takový nebyl. A aby byl vůdcem, "
-"to je neslýchané. Vždy dávali přednost osamělému životu."
+"Runový mistr? Od Thursaganových časů nikdo takový nebyl. A aby byl vůdcem "
+"državy, to je neslýchané. Vždy dávali přednost osamělému životu."
 
 # říká Dulcatulos (trpaslík)
 #. [message]: speaker=Dulcatulos
@@ -1837,7 +1837,7 @@ msgid ""
 "dirtgrubbers. You can be part of the fist that smites them."
 msgstr ""
 "Všichni trpaslíci jsou bratři a musí si podrobit skřety, lidi a jiné "
-"pozemské červy. I vy můžete být tou pěstí, která na ně udeří."
+"hlínohraby. I vy můžete být tou pěstí, která na ně udeří."
 
 # říká Angarthing (trpaslík)
 #. [message]: speaker=Angarthing
@@ -1909,7 +1909,7 @@ msgid ""
 "Impertinent fool! It is not for you to dictate to a lord in his own holding, "
 "much less one who holds the very soul of the dwarves in his hand."
 msgstr ""
-"Drzý blázne! Ty nejsi ten, kdo by měl poroučet lordu v jeho vlastním hradě, "
+"Drzý blázne! Ty nejsi ten, kdo by měl poroučet pánu v jeho vlastní državě, "
 "tím méně tomu, kdo třímá ve svých rukou samotnou duši trpaslíků."
 
 # říká Angarthing (trpaslík)
@@ -1946,10 +1946,10 @@ msgid ""
 "your new friends will be the last sacrifices I require to bind the entire "
 "dwarvish race to my purpose. TAKE THEM!"
 msgstr ""
-"A vy jste zpečetili svůj osud. Stovky pozemských červů již zemřely, aby "
-"utkaly síť krve kolem kladiva a duše trpaslíků. Vy a vaši noví přátelé "
-"budete poslední oběti, které potřebuji k připojení celé trpasličí rasy "
-"k mému záměru. CHOPTE SE JICH!"
+"A vy jste zpečetili svůj osud. Stovky hlínohrabů již zemřely, aby utkaly síť "
+"krve kolem kladiva a duše trpaslíků. Vy a vaši noví přátelé budete poslední "
+"oběti, které potřebuji k připojení celé trpasličí rasy k mému záměru. CHOPTE "
+"SE JICH!"
 
 # Oznámení
 #. [message]: speaker=narrator
@@ -2477,9 +2477,9 @@ msgid ""
 "harbored a great evil. Who now will take the burden of cleansing this "
 "holding of its taint?"
 msgstr ""
-"Trpaslíci z Kal Karthy, mluví k vám Zákon. Váš domov je padlý, zabředli jste "
-"do velkého zla. Kdo nyní vezme na svá bedra tíhu očištění tohoto místa od "
-"této nákazy?"
+"Trpaslíci z Kal Karthy, mluví k vám Zákon. Váš rod je zdeptaný; poskytli "
+"jste útočiště velkému zlu. Kdo nyní vezme na svá bedra tíhu očištění této "
+"državy od její zkaženosti?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:132
@@ -2505,8 +2505,8 @@ msgid ""
 "I was told I’d find Aiglondur of Knalga here. I bear a message from Tallin, "
 "the Lord Protector of the Alliance."
 msgstr ""
-"Bylo mi řečeno, že tady najdu Aiglondura z Knalgy. Nesu zprávu od Lorda "
-"Tallina, Protektora aliance."
+"Bylo mi řečeno, že tady najdu Aiglondura z Knalgy. Nesu zprávu od lorda "
+"Tallina, protektora aliance."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:168
@@ -2534,7 +2534,7 @@ msgid ""
 "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He bids "
 "you return to Knalga as soon as convenient, for your investiture."
 msgstr ""
-"Aiglondure, Protektor vás jmenoval spoluvládcem aliance. Nabídl vám, abyste "
+"Aiglondure, protektor vás jmenoval spoluvládcem aliance. Nabídl vám, abyste "
 "se vrátil kvůli investituře do Knalgy, jakmile to bude vhodné."
 
 #. [message]: speaker=Dulcatulos
@@ -2548,8 +2548,8 @@ msgid ""
 "It would be no shame for a Lord Companion to rule this holding, as Hamel "
 "does at Knalga."
 msgstr ""
-"Nebude jistě žádnou hanbou pro spoluvládce řídit toto místo, tak jak to dělá "
-"lord Hamel v případě Knalgy."
+"Pro spoluvládce nebude jistě žádnou hanbou řídit tuto državu tak, jak to "
+"dělá lord Hamel v případě Knalgy."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:194
@@ -2570,7 +2570,7 @@ msgid ""
 "Pelias, my thanks to the Lord Protector; I will attend him in the spring. "
 "But it seems that I have some work to do here first."
 msgstr ""
-"Peliasi, vyřiď mé díky Lordu Protektorovi. Navštívím ho na jaře. Ale nejdřív "
+"Peliasi, vyřiď mé díky lordu protektorovi. Navštívím ho na jaře. Ale nejdřív "
 "tady budu muset asi udělat spoustu práce."
 
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
