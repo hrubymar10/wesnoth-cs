@@ -18,15 +18,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-10-27 08:56+0100\n"
+"PO-Revision-Date: 2019-10-29 21:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: čeština <hrubymar10@gmail.com>\n"
+"Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Gtranslator 3.32.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 # Název zvolen po delší úvaze a je schválně nedoslovný. Moře tu značí jak vlastní vodu, domov mořských lidí, tak i označení velkého množství.
 #. [campaign]: id=Dead_Water
@@ -381,7 +381,7 @@ msgstr "Vyvolává mrtvé z každé vesnice!"
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:596
 msgid "This will be a dark day, but we <i>will</i> prevail."
-msgstr "Bude to temný den, ale <i>MY</i> v něm obstojíme."
+msgstr "Bude to temný den, ale <i>my</i> v něm obstojíme."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:622
@@ -409,10 +409,10 @@ msgid ""
 "The news they brought him was not good."
 msgstr ""
 "Kai Krellis se obával, že by se mohli nemrtví vrátit. Proto se rozhodl "
-"dozvědět se o nich co možná nejvíce. Jediným klíčem byl nekromantem "
-"zmiňovaný <i>„Lord Ravanal“</i>. Kai poslal rychlé plavce na sever a na jih "
-"podle pobřeží, aby vyhledali něco o Ravanalovi. Novinky, které pak slyšel ho "
-"nepotěšily."
+"dozvědět se o nich co možná nejvíce. Jediným klíčem byl nekromantem "
+"zmiňovaný <i>„lord Ravanal“</i>. Kai poslal rychlé plavce na sever a na jih "
+"podle pobřeží, aby vyhledali něco o Ravanalovi. Novinky, které pak slyšel, "
+"ho nepotěšily."
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:41
@@ -425,9 +425,9 @@ msgid ""
 "slaves. Krellis’ scouts reported that more dark armies were heading north."
 msgstr ""
 "Mal-Ravanal, jak zněly zvěsti, byl velký lidský čaroděj, který se stal "
-"lichem. Zaútočil na okrajové části království Wesnothu a začal tam budovat "
-"hrůzostrašnou armádu nemrtvých lidí. Také vyslal nekromaty, aby zaútočili na "
-"skřety a dokonce na elfy a vyzískali tak nemrtvé vojáky různých ras. "
+"lichem. Zaútočil na okrajové části království Wesnothu a začal tam budovat "
+"hrůzostrašnou armádu nemrtvých lidí. Také vyslal nekromanty, aby zaútočili "
+"na skřety, a dokonce na elfy a vyzískali tak nemrtvé vojáky různých ras. "
 "Vypadalo to, že má zálusk také na mořské lidi. Krellisovi zvědové hlásili, "
 "že na sever míří další temné armády."
 
@@ -530,8 +530,8 @@ msgid ""
 "leave her enclave."
 msgstr ""
 "Obávám se, že nemůžeme. Potřebujeme pomoc. Má bývalá učitelka Tyjegea "
-"vyučuje na ostrově na severu. Ona a její kněžky jsou mocné. S jejich pomocí "
-"bysme nejspíš mohli tyto nepřátele porazit. Musíme ji jen přesvědčit, aby "
+"vyučuje na ostrově na severu. Ona a její kněžky jsou mocné. S jejich pomocí "
+"bychom nejspíš mohli tyto nepřátele porazit. Musíme ji jen přesvědčit, aby "
 "opustila svou enklávu."
 
 #. [message]: speaker=Kai Krellis
@@ -558,7 +558,7 @@ msgstr ""
 msgid ""
 "You will just have to trust me on this. She will listen to you. I will say "
 "no more on the matter."
-msgstr "Musíš mi v tom prostě důvěrovat. Vyslechne tě. Nebudu to dál rozvádět."
+msgstr "Musíš mi v tom prostě důvěřovat. Vyslechne tě. Nebudu to dál rozvádět."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:332
@@ -878,7 +878,7 @@ msgstr "Vlčí pobřeží"
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:21
 msgid "Distrustful of the open ocean, Kai Krellis led his people up the coast."
-msgstr "Nedůvěříce otevřenému oceánu, vedl Kai Krellis svůj lid podél pobřeží."
+msgstr "Nedůvěřuje otevřenému oceánu, vedl Kai Krellis svůj lid podél pobřeží."
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:26
@@ -889,10 +889,10 @@ msgid ""
 "to bother the merfolk, but these goblins were bandits and outcasts even to "
 "their own kind."
 msgstr ""
-"Právě zrovna začali svou cestu, když narazili na bojechtivé vlky. Mnohé z "
-"vlků řídili goblini. Skřeti z Tirigasu, ztrestaní Kai Laudissovým "
-"vítězstvím, se mohli rozhodnout neobtěžovat mořské lidi, ale tito goblini "
-"byli bandité a vyvrhelové i u svého druhu."
+"Sotva začali svou cestu, když narazili na bojechtivé vlky. Mnohé z vlků "
+"řídili goblini. Skřeti z Tirigasu, ztrestaní Kai Laudissovým vítězstvím, se "
+"možná rozhodli mořské lidi neobtěžovat, ale tito goblini byli bandité "
+"a vyvrhelové i u svého druhu."
 
 #. [side]: id=Gashnok, type=Goblin Knight, type=Goblin Knight, type=Direwolf Rider, type=Direwolf Rider
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:81
@@ -916,16 +916,12 @@ msgstr "Vrunt"
 
 #. [message]: speaker=Gashnok
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:210
-#, fuzzy
-#| msgid ""
-#| "Smells like lots of death in the south. There must be a good feast near "
-#| "that merman town."
 msgid ""
 "Smells like lots of death in the south near that merman town. Hey, Vrunt, "
 "you think the wolves like eatin’ merfish?"
 msgstr ""
-"Z jihu je fakt dost cítit smrt. U toho rybočlověčího města musí být pořádná "
-"hodovačka."
+"Z jihu blízko města mořskejch lidí je fakt dost cítit smrt. Hej, Vrunte, "
+"myslíš, že vlci rádi žerou mořský ryby?"
 
 #. [message]: speaker=Vrunt
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:215
@@ -933,6 +929,8 @@ msgid ""
 "Talking or not, fish are fish. Wolves’ll probably love them. Besides, look "
 "there! Some fresh ones are coming our way!"
 msgstr ""
+"Ryba je ryba, ať už mluví nebo ne. Vlci je asi budou milovat. Navíc mrkni "
+"támhle! Nějaký čerstvý nám jdou zrovna do rány!"
 
 #. [message]: speaker=Gashnok
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:220
@@ -940,11 +938,12 @@ msgid ""
 "They look mighty good to me. Might even have a taste later, myself. Let’s "
 "get ’em, boys!"
 msgstr ""
+"Připadaj mi dost dobrý. Možná nakonec dostanu chuť i já. Pojďme na ně, hoši!"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:225
 msgid "Beware, people!"
-msgstr "Pozor lidi!"
+msgstr "Lidi pozor!"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:253
@@ -957,6 +956,7 @@ msgid ""
 "I wonder why such a strangely colored wolf emerged from the forest over "
 "there."
 msgstr ""
+"Rád bych věděl, proč se z támhletoho lesa vynořil tak divně zbarvený vlk."
 
 #. [message]: speaker=unit
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:306
@@ -973,7 +973,7 @@ msgstr "Vím, co to je. Je to trojzubec bouře. Zřejmě umožnuje sesílat bles
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:318
 msgid "The trident is 14×2, magical, ranged, with <i>fire</i> damage."
-msgstr "Trojzubec - útok na dálku 14x2, magický, <i>ohnivé</i> poškození."
+msgstr "Trojzubec – útok na dálku 14x2, magický, <i>ohnivé</i> poškození."
 
 #. [option]
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:325
