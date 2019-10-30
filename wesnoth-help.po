@@ -19,15 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:32+0300\n"
-"PO-Revision-Date: 2019-10-09 16:23+0200\n"
+"PO-Revision-Date: 2019-10-30 20:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: čeština <hrubymar10@gmail.com>\n"
+"Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Gtranslator 3.30.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. [time]: id=underground
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:495
@@ -1955,17 +1955,6 @@ msgstr ""
 
 #. [topic]: id=movement
 #: data/core/help.cfg:270
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "Another thing to keep in mind while moving is <italic>text='zones of "
-#| "control'</italic>. Each unit — except for level 0 units — generates a "
-#| "zone of control in the hexes immediately surrounding it, and any enemy "
-#| "unit entering those hexes immediately ends its movement. Learning how to "
-#| "use zones of control to your advantage is an important part of Wesnoth, "
-#| "as only <ref>dst='ability_skirmisher' text='skirmishers'</ref> can ignore "
-#| "zones of control."
 msgid ""
 "\n"
 "\n"
@@ -1979,13 +1968,13 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Další věcí, kterou je třeba při pohybu mít na paměti je <italic>text='oblast "
-"kontroly'</italic>. Každá jednotka — kromě jednotek na úrovni 0 — vytváří "
-"oblast kontroly na políčkách které jí bezprostředně obklopují a jakmile na "
-"ně vstoupí jakákoliv cizí jednotka, ihned ukončí svůj pohyb. Naučit se "
-"používat tyto oblasti pro svůj prospěch je důležitou částí Wesnothu, protože "
-"pouze <ref>dst='ability_skirmisher' text='průbojné'</ref> jednotky mohou "
-"tyto oblasti ignorovat."
+"Další věcí, kterou je třeba mít při pohybu na paměti, je "
+"<italic>text='oblast kontroly'</italic>. Každá jednotka — kromě jednotek na "
+"úrovni 0 — vytváří oblast kontroly na políčkách, které ji bezprostředně "
+"obklopují a jakmile na ně vstoupí jakákoliv cizí jednotka, ihned ukončí svůj "
+"pohyb. Naučit se používat tyto oblasti pro svůj prospěch je důležitou částí "
+"Wesnothu, protože pouze <ref>dst='ability_skirmisherskirmisher' "
+"text='průbojné'</ref> jednotky mohou tyto oblasti ignorovat."
 
 #. [topic]: id=movement
 #: data/core/help.cfg:272
@@ -1998,9 +1987,9 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Pro pohled na pozice, na které se může v příštím tahu nepřítel přesunout "
-"stiskněte Ctrl-v nebo Cmd-v. Ctrl-b nebo Cmd-b ukáže kam by se nepřítel mohl "
-"přesunout pokud by vaše jednotky jeho postup neblokovali."
+"Pro pohled na pozice, na které se může v příštím tahu nepřítel přesunout, "
+"stiskněte Ctrl-v nebo Cmd-v. Ctrl-b nebo Cmd-b ukáže, kam by se nepřítel "
+"mohl přesunout, pokud by vaše jednotky jeho postup neblokovaly."
 
 #. [topic]: id=shroud_and_fog
 #: data/core/help.cfg:281
@@ -2462,16 +2451,12 @@ msgstr ""
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:362
-#, fuzzy
-#| msgid ""
-#| "Some role-playing scenarios take place indoors — these regions are "
-#| "similarly intermediate."
 msgid ""
 "Some role-playing scenarios take place indoors — these regions are similarly "
 "intermediate.\n"
 msgstr ""
-"Některé scénáře s RPG prvky se odehrávají uvnitř — tato místa jsou také "
-"neutrální."
+"Některé scénáře s RPG prvky se odehrávají uvnitř — tato místa jsou také "
+"neutrální.\n"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:364
@@ -2481,6 +2466,9 @@ msgid ""
 "<ref>dst='terrain_lava' text='lava'</ref> change the time of day bonus "
 "around them."
 msgstr ""
+"Konečně jednotky se schopností <ref>dst='ability_illuminationilluminates' "
+"text='osvětlení'</ref> a terénní prvky jako třeba <ref>dst='terrain_lava' "
+"text='láva'</ref> mění okolo sebe bonus denní doby."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:371
