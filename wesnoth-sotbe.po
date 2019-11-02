@@ -15,21 +15,22 @@
 # Anežka Bubeníčková <masozravapalma@gmail.cz>, 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-08-26 04:16+0200\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-11-02 07:45+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:9
@@ -435,10 +436,9 @@ msgid ""
 "they will help us. And what true orc has ever feared dwarvish dirt-grubbers? "
 "Move it! We leave within the hour. If you’re not ready by then, stay and die."
 msgstr ""
-"Nebuď takový zbabělec. Trollové byli v minulosti našimi spojenci — možná nám "
-"pomohou. A který skutečný skřet se kdy bál trpasličích požíračů hlíny? "
-"Dělej! Odcházíme za hodinu. Jestli do té doby nebudeš připraven, zůstaň a "
-"zemři."
+"Nebuď takový zbabělec. Trollové byli v minulosti našimi spojenci — možná nám "
+"pomohou. A který skutečný skřet se kdy bál trpasličích hlínohrabů? Dělej! "
+"Odcházíme za hodinu. Jestli do té doby nebudeš připraven, zůstaň a zemři."
 
 #. [option]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:268
