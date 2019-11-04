@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-10-29 21:24+0100\n"
+"PO-Revision-Date: 2019-11-04 05:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -456,7 +456,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:85
 msgid "(different bonus for each)"
-msgstr "(rozdílný bonus při splnění)"
+msgstr "(za každého jiná odměna)"
 
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:85
@@ -468,7 +468,7 @@ msgstr "Poraz všechny nepřátelské vůdce"
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:92
 msgid "Have a unit pick up the ring of power."
-msgstr "Tvá jednotka sebere Prsten síly."
+msgstr "Tvá jednotka sebere prsten síly."
 
 #. [side]: type=Lich, id=Mal-Kevek
 #. [side]: type=Necromancer, id=Mel Daveth
@@ -705,7 +705,7 @@ msgid ""
 "But it isn’t attacking <i>me</i>. Do you think, with its master gone, it "
 "might desire a new one?"
 msgstr ""
-"Ale <i>on neútočí</i> na mě. Myslíte, že když jeho pán padl, tak si chce "
+"Ale on na <i>mě</i> neútočí. Myslíte, že když jeho pán padl, tak si chce "
 "najít nového?"
 
 #. [message]: speaker=Kai Krellis
@@ -813,7 +813,7 @@ msgstr "Podívejte! Tady v rohu je netopýr. Hýbe se, ale vypadá polomrtvý."
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:771
 msgid "No, that thing is all the way dead."
-msgstr "Ne, ta věc vypadá že umře každou chvíli."
+msgstr "Ne, ta věc vypadá, že každou chvíli umře."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:777
@@ -826,8 +826,8 @@ msgid ""
 "I believe it is undead and has no will of its own, but the Kai may have the "
 "will power to direct it."
 msgstr ""
-"Myslím že je nemrtvý a nemá svou vlastní vůli. Možná by ale Kai mohl mít "
-"dost silnou vůli aby ho vedl."
+"Myslím, že je nemrtvý a nemá svou vlastní vůli. Možná by ale Kai mohl mít "
+"dost silnou vůli, aby ho vedl."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:787
@@ -854,7 +854,7 @@ msgstr "Hýbá mi žlučí, že utíkáme ze svého domova, ale vrátíme se."
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:921
 msgid "Have a unit pick up the ring to end the scenario."
-msgstr "Tvá jednotka ať sebere Prsten síly než skončí scénář."
+msgstr "Aby skončil scénář, musí tvá jednotka sebrat prsten síly."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:936
@@ -1070,7 +1070,7 @@ msgid ""
 "my wake, and without your protection they will surely kill me."
 msgstr ""
 "Jmenuji se Teeloa. Byl jsem otrok tamtěch ještěráků skoro dva roky. Viděl "
-"jsem vás připlouvat k pobřeží s vojáky, tak jsem utekl. Jdou po mě a jestli "
+"jsem vás připlouvat k pobřeží s vojáky, tak jsem utekl. Jdou po mně a jestli "
 "mě neochráníte, určitě mě zabijí."
 
 #. [message]: speaker=Kai Krellis
@@ -1112,7 +1112,7 @@ msgid ""
 "Those were the words of a man and a leader, Kai Krellis, and well spoken. "
 "The folk are truly yours now."
 msgstr ""
-"To byla slova pravého může a vůdce Kai Krellisi, velmi dobře řečeno. Lid ti "
+"To byla slova pravého muže a vůdce, Kai Krellisi, velmi dobře řečeno. Lid ti "
 "teď bude věřit."
 
 #. [message]: speaker=narrator
@@ -1122,8 +1122,8 @@ msgid ""
 "from fleeing their enemies, cheered his ultimatum and made ready to fight "
 "with a will."
 msgstr ""
-"Kai Krellis viděl, že je tomu tak. Mořstí uprchlíci, rozbolavělí studem, že "
-"museli utéct před nepřáteli, přivítali toto ultimátum a připravovali se "
+"Kai Krellis viděl, že je tomu tak. Mořstí uprchlíci, zraněni ve své pýše, že "
+"museli utéct před nepřáteli, přivítali toto ultimátum a připravovali se "
 "směle na boj."
 
 #. [message]: speaker=Gilak
@@ -1139,7 +1139,7 @@ msgid ""
 "Perhaps if I called out to the slaves, I could rouse them to help us fight "
 "against their captors."
 msgstr ""
-"Možná když vyzvu otroky, tak bych je mohl povzbudit k tomu, aby nám pomohli "
+"Třeba když vyzvu otroky, tak bych je mohl povzbudit k tomu, aby nám pomohli "
 "bojovat proti svým věznitelům."
 
 #. [message]: speaker=Gwabbo
@@ -1148,8 +1148,8 @@ msgid ""
 "I think that would work. If I may make a suggestion though, I think we "
 "should wait for a more strategic moment."
 msgstr ""
-"To by mohlo jít. Pokud bych ale mohl něco navrhnout, myslím, že bysme s tím "
-"měli počkat na strategičtější okamžik."
+"Myslím, že by to šlo. Ačkoli jestli můžu něco navrhnout, myslím, že bychom "
+"s tím měli počkat na strategičtější okamžik."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:417
@@ -1157,8 +1157,8 @@ msgid ""
 "Never hesitate to speak your counsel to me, Gwabbo. You have been my right "
 "arm on this journey; your courage and loyalty are well proven."
 msgstr ""
-"Nikdy se mi nezdráhej říct svou radu či soud, Gwabbo. Jsi během mé cesty mou "
-"pravou rukou a tvá kuráž a loajalita jsou dostatečně zřejmé."
+"Nikdy se nezdráhej říct mi svou radu či soud, Gwabbo. Na téhle cestě jsi byl "
+"mou pravou rukou; tvá kuráž a loajalita jsou dostatečně zřejmé."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:421
@@ -1174,8 +1174,8 @@ msgid ""
 "I believe that would work, but many of them will be killed if you do it now. "
 "It might be better to wait."
 msgstr ""
-"Věřím, že to bude fungovat, ale pokud to uděláš teď, tak mnoho z nich zemře. "
-"Možná bude lepší počkat."
+"Věřím, že by to šlo, ale pokud to uděláš teď, tak mnoho z nich zemře. Možná "
+"bude lepší počkat."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:435
@@ -3310,7 +3310,8 @@ msgid ""
 "The ring of power increases the damage of all its owner’s attacks by one, "
 "and adds three hitpoints."
 msgstr ""
-"Prsten síly zvyšuje sílu všech nositelových útoků o jedna a přidává 3 životy."
+"Prsten síly zvyšuje o jedna poškození u všech útoků svého majitele a přidává "
+"tři body života."
 
 #. [option]
 #: data/campaigns/Dead_Water/utils/items.cfg:210
@@ -3358,8 +3359,8 @@ msgid ""
 "Killing these enemies was good, but there were many more on the way. I’m "
 "sure it is still unsafe here."
 msgstr ""
-"Pobití těchto nepřátel byl úspěch, ale mířilo jich k nám mnohem víc. Jsem si "
-"pořád jistá, že není bezpečné tu zůstat."
+"Pobití těchto nepřátel bylo dobré, ale mířilo jich k nám mnohem víc. Jsem si "
+"jistá, že pořád není bezpečné tu zůstat."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/utils/items.cfg:361
