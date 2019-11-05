@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:32+0300\n"
-"PO-Revision-Date: 2019-11-03 07:51+0100\n"
+"PO-Revision-Date: 2019-11-05 18:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -693,24 +693,20 @@ msgstr ""
 #. [topic]: id=great_river
 #: data/core/encyclopedia/geography.cfg:32
 msgid "Great River"
-msgstr "Veká řeka"
+msgstr "Velká řeka"
 
 #. [topic]: id=great_river
 #: data/core/encyclopedia/geography.cfg:33
-#, fuzzy
-#| msgid ""
-#| "The continent on which the <ref>dst='kingdom_wesnoth' text='Kingdom of "
-#| "Wesnoth'</ref> lies. Its west coast is surrounded by the "
-#| "<ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgid ""
 "The Great River forms the boundary between the <ref>dst='kingdom_wesnoth' "
 "text='Kingdom of Wesnoth'</ref> and the <ref>dst='northlands' "
 "text='Northlands'</ref>. It empties to the <ref>dst='great_ocean' "
 "text='Great Ocean'</ref> at <ref>dst='elensefar' text='Elensefar'</ref>."
 msgstr ""
-"Kontinent, na němž se nachází <ref>dst='kingdom_wesnoth' text='Wesnothské "
-"království'</ref>. Jeho západní pobřeží omývá <ref>dst='great_ocean' "
-"text='Velký oceán'</ref>."
+"Velká řeka tvoří hranici mezi <ref>dst='kingdom_wesnoth' text='Wesnothským "
+"královstvím'</ref> a <ref>dst='northlands' text='Severními zeměmi'</ref>. U "
+"<ref>dst='elensefar' text='Elensefaru'</ref> se vlévá do "
+"<ref>dst='great_ocean' text='Velkého oceánu'</ref>."
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:38
