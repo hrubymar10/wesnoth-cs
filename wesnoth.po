@@ -19,15 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-10-23 22:14+0200\n"
+"PO-Revision-Date: 2019-11-09 06:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: čeština <hrubymar10@gmail.com>\n"
+"Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Gtranslator 3.30.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. [multiplayer_side]: id=Custom
 #: data/_main.cfg:22
@@ -343,7 +343,6 @@ msgstr "Joystick: number of the thrust axis"
 msgid "Joystick: deadzone of the thruster"
 msgstr "Joystick: deadzone of the thruster"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:360
@@ -358,7 +357,6 @@ msgstr "otrávený"
 msgid "Gold carryover:"
 msgstr "Přenesené zlato:"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [note]
 #. [lua]: generate_objectives
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:272
@@ -3578,7 +3576,6 @@ msgstr "Jeskyně"
 msgid "Fungus"
 msgstr "Houby"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 #: data/core/team-colors.cfg:188 src/terrain/terrain.cpp:176
 msgid "Village"
@@ -3609,13 +3606,11 @@ msgstr "Neschůdný"
 msgid "Impassable"
 msgstr "Neschůdný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 #: data/core/team-colors.cfg:224 src/game_initialization/lobby_data.cpp:467
 msgid "Fog"
 msgstr "Mlha"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 #: data/core/team-colors.cfg:230 src/game_initialization/lobby_data.cpp:470
 #: src/game_initialization/lobby_data.cpp:473
@@ -3970,7 +3965,6 @@ msgstr "Ano"
 msgid "No"
 msgstr "Ne"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/screenshot_notification.cfg:95
 #: src/hotkey/command_executor.cpp:627
@@ -4011,7 +4005,6 @@ msgstr ""
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "(Poznámka: Měl bys místo toho použít $replacement)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 #: data/lua/core.lua:194 src/deprecation.cpp:69
 msgid "Invalid deprecation level $level (should be 1-4)"
@@ -4022,31 +4015,26 @@ msgstr "Neplatná úroveň zastarání $level (měla by být 1-4)"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "Neplatná úroveň zastarání (měla by být 1-4)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:1061
 msgid "female^poisoned"
 msgstr "otrávená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1068
 msgid "female^slowed"
 msgstr "zpomalená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1068
 msgid "slowed"
 msgstr "zpomalený"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1074
 msgid "female^petrified"
 msgstr "zkamenělá"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1074
 msgid "petrified"
@@ -4062,14 +4050,12 @@ msgstr "neléčitelná"
 msgid "unhealable"
 msgstr "neléčitelný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 #: data/lua/wml/message.lua:395 src/scripting/game_lua_kernel.cpp:2787
 #: src/scripting/game_lua_kernel.cpp:2822
 msgid "input"
 msgstr "vstup"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:36 src/game_initialization/mp_game_utils.cpp:74
 msgid "Victory:"
@@ -4093,7 +4079,6 @@ msgstr[2] "(zbývá %d tahů)"
 msgid "%d%% of gold carried over to the next scenario."
 msgstr "%d%% zlata přeneseno do dalšího scénáře."
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/2p_Tombs_of_Kesorak.cfg:156
 #: src/game_initialization/mp_game_utils.cpp:76
@@ -4439,9 +4424,10 @@ msgid ""
 "a unit in. Placing units wisely can sometimes let you reach a village a turn "
 "earlier."
 msgstr ""
-"Příkazy pro verbování a přivolávání je možno aktivovat i z menu po kliknutí "
-"pravým tlačítkem na políčko hradu. To vám umožní přesně určit, kam umístit "
-"novou jednotku, což někdy může pomoci — například získat vesnici o tah dříve."
+"Příkazy pro <b>verbování</b> a <b>přivolávání</b> je možno aktivovat i z "
+"menu po kliknutí pravým tlačítkem na políčko hradu. To vám umožní přesně "
+"určit, kam umístit novou jednotku, což někdy může pomoci — například získat "
+"vesnici o tah dříve."
 
 #. [tip]
 #: data/tips.cfg:36
@@ -4451,7 +4437,7 @@ msgid ""
 "you are doing in comparison."
 msgstr ""
 "Z hlavního menu lze otevřít několik užitečných souhrnů: například "
-"„<b>Přehledová tabulka</b>“ přehledně ukazuje, jak si vedete ve srovnání s "
+"<b>Přehledová tabulka</b> přehledně ukazuje, jak si vedete ve srovnání s "
 "nepřítelem ohledně financí a velikosti armády."
 
 #. [tip]
@@ -4461,9 +4447,9 @@ msgid ""
 "can be very important when moving through difficult terrain such as water or "
 "caves. It can make the difference between being able to move one hex or two."
 msgstr ""
-"Jednotky s vlastností „<i>rychlý</i>“ mohou dojít o jedno políčko za tah "
-"dále. Při pohybu členitým terénem jako jeskyně nebo voda to může "
-"představovat podstatnou výhodu celého jednoho hexu."
+"Jednotky s vlastností <i>rychlý</i> mohou dojít o jedno políčko za tah dále. "
+"Při pohybu členitým terénem jako jeskyně nebo voda to může představovat "
+"podstatnou výhodu celého jednoho hexu."
 
 #. [tip]
 #: data/tips.cfg:41 data/tips.cfg:117 data/tips.cfg:226 data/tips.cfg:238
@@ -4654,9 +4640,9 @@ msgid ""
 "does not move or attack, it will recover two hitpoints at the beginning of "
 "its next turn."
 msgstr ""
-"Pokud to není zapotřebí, nepřesunuj raněné jednotky - nech je na místě. "
-"Jednotky, které se nepohnou ani neútočí během svého kola, odpočívají a "
-"uzdraví se na začátku příštího kola o dva životy."
+"Pokud to není zapotřebí, nepřesunuj raněné jednotky – nech je na místě. "
+"Jednotky, které se nepohnou ani neútočí během svého kola, odpočívají "
+"a uzdraví se na začátku příštího kola o dva životy."
 
 #. [tip]
 #: data/tips.cfg:100
@@ -4807,8 +4793,8 @@ msgid ""
 "village."
 msgstr ""
 "Zpravidla netáhni do těsné blízkosti neobsazené vesnice. Může se do ní "
-"přesunout nepřátelská jednotka a zaútočit na tebe, využívajíc přitom výhod "
-"vesnice - obranu a léčení."
+"přesunout nepřátelská jednotka a zaútočit na tebe, využívajíc přitom výhod "
+"vesnice – obranu a léčení."
 
 #. [tip]
 #: data/tips.cfg:152
@@ -4964,8 +4950,8 @@ msgid ""
 "retaining the ability to undo, or use the new Whiteboard planning tool."
 msgstr ""
 "Pohyb odstraňující mlhu nebo zahalení tmou nelze vrátit. Pokud potřebujete "
-"přesouvat jednotky při zachování možnosti vracení, zapněte volbu „<b>Pozdrž "
-"překreslování mlhy</b>“ nebo využijte plánovací režim."
+"přesouvat jednotky při zachování možnosti vracení, zapněte volbu <b>Pozdrž "
+"překreslování mlhy</b> nebo využijte plánovací režim."
 
 #. [tip]
 #: data/tips.cfg:209
