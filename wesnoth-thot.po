@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-28 07:56+0100\n"
+"PO-Revision-Date: 2019-11-10 08:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -95,7 +95,7 @@ msgstr ""
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:26
 msgid "(Intermediate level, 11 scenarios.)"
-msgstr "(Obtížnost: pokročilý hráč, 11 scénářů)"
+msgstr "(Úroveň pokročilý hráč, 11 scénářů.)"
 
 #. [about]
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:29

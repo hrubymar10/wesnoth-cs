@@ -8,28 +8,29 @@
 #
 #
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-02-15 21:25+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-11-10 08:19+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:10
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:68
 msgid "Secrets of the Ancients"
-msgstr "Tajemství Předků"
+msgstr "Tajemství předků"
 
 #. [campaign]: id=Secrets of the Ancients
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:11
@@ -68,22 +69,16 @@ msgstr "Náročná"
 
 #. [campaign]: id=Secrets of the Ancients
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Rediscover the secrets known by the lich lords of the Green Isle. They "
-#| "knew how to live forever, so why can't you?\n"
-#| "\n"
-#| "(Hard level, 21 scenarios.)\n"
 msgid ""
 "Rediscover the secrets known by the lich lords of the Green Isle. They knew "
 "how to live forever, so why can't you?\n"
 "\n"
 "(Hard level, 18 scenarios.)\n"
 msgstr ""
-"Znovu objev tajemství lichů ze Zeleného ostrova. Proč by jsi nemohl žít "
-"navždy, stejně jako oni?\n"
+"Znovu objev tajemství lichů ze Zeleného ostrova. Proč bys nemohl žít navždy, "
+"stejně jako oni?\n"
 "\n"
-"(Obtížnost: těžká, 21 scénářů.)\n"
+"(Úroveň těžká, 18 scénářů.)\n"
 
 #. [about]
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:28

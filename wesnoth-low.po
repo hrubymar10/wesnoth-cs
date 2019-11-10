@@ -11,21 +11,22 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-08-26 04:31+0200\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-11-10 08:18+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:52
@@ -53,7 +54,7 @@ msgstr ""
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:56
 msgid "(Hard level, 18 scenarios.)"
-msgstr "(Obtížnost: těžká, 18 scénářů)"
+msgstr "(Úroveň těžká, 18 scénářů.)"
 
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:58

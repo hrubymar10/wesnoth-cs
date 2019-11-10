@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-11-02 07:45+0100\n"
+"PO-Revision-Date: 2019-11-10 08:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -35,7 +35,7 @@ msgstr ""
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:9
 msgid "Son of the Black-Eye"
-msgstr "Syn Černého Oka"
+msgstr "Syn Černého oka"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:10
@@ -93,7 +93,7 @@ msgstr ""
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:24
 msgid "(Expert level, 18 scenarios.)"
-msgstr "(Obtížnost: expert, 18 scénářů)"
+msgstr "(Úroveň expert, 18 scénářů.)"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:29
