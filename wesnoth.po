@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-11-09 06:19+0100\n"
+"PO-Revision-Date: 2019-11-13 18:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3625,7 +3625,7 @@ msgstr "Wesnoth (Výchozí)"
 #. [core]: id=default
 #: data/cores.cfg:8
 msgid "The standard Wesnoth core."
-msgstr "Standartní jádro Wesnothu."
+msgstr "Standardní jádro Wesnothu."
 
 #. [language]
 #: data/english.cfg:3
@@ -4327,8 +4327,8 @@ msgid ""
 "In the map editor, select <i>New Scenario</i> in the <i>File</i> menu to "
 "make use of advanced features."
 msgstr ""
-"Abyste mohli použít pokročilé vlastnosti, vyberte v menu <i>Soubor</i> "
-"možnost <i>Nový scénář</i>."
+"Abyste mohli v editoru map použít pokročilé prvky, vyberte v menu <i>Soubor</"
+"i> možnost <i>Nový scénář</i>."
 
 #. [tip]
 #: data/tips.cfg:12
@@ -4574,9 +4574,8 @@ msgid ""
 msgstr ""
 "Otrávené jednotky ztrácejí každé kolo 8 životů, dokud jim nezbude jeden "
 "jediný. Tak zůstanou až do doby, než jsou uzdraveny. Léčitelé mohou pozdržet "
-"účinky jedu, ale jed odstraní pouze schopnost „<i>regenerace</i>“, pobyt na "
-"začátku kola ve vesnici nebo vedle jednotky se schopností „<i>uzdravování</"
-"i>“."
+"účinky jedu, ale jed odstraní pouze schopnost <i>regenerace</i>, pobyt na "
+"začátku kola ve vesnici nebo vedle jednotky se schopností <i>uzdravování</i>."
 
 #. [tip]
 #: data/tips.cfg:80
@@ -4585,9 +4584,9 @@ msgid ""
 "the <b>Actions</b> menu. By recalling the same units over and over, you can "
 "build up a powerful and experienced army."
 msgstr ""
-"Můžeš využívat jednotky z minulých scénářů vybráním „<b>Přivolej</b>“ z menu "
-"„<b>Akce</b>“. Přivoláváním stále stejných jednotek znovu a znovu lze "
-"vybudovat silnou a zkušenou armádu."
+"Můžeš využívat jednotky z minulých scénářů vybráním <b>Přivolej</b> z menu "
+"<b>Akce</b>. Přivoláváním stále stejných jednotek znovu a znovu lze "
+"vybudovat silnou a zkušenou armádu."
 
 #. [tip]
 #: data/tips.cfg:84
@@ -4664,9 +4663,9 @@ msgid ""
 "terrain types, while most mounted units do not gain any defensive advantages "
 "from villages or castles."
 msgstr ""
-"Většina pěších jednotek se brání lépe ve vesnicích a hradech než ve většině "
-"ostatních terénů, zatímco většina jízdních jednotek nezískává ve vesnicích a "
-"hradech žádnou obrannou výhodu."
+"Většina pěších jednotek se brání lépe ve vesnicích a hradech než ve většině "
+"ostatních terénů, zatímco většina jízdních jednotek nezískává ve vesnicích "
+"a hradech žádnou obrannou výhodu."
 
 #. [tip]
 #: data/tips.cfg:105 data/tips.cfg:189
@@ -4867,7 +4866,7 @@ msgid ""
 "The <i>Slow</i> attack makes enemy units move slower and halves the damage "
 "they do on all attacks until they end a turn."
 msgstr ""
-"Útok „<i>zpomalení</i>“ jednak zpomaluje pohyb nepřátelských jednotek, ale "
+"Útok <i>zpomalení</i> jednak zpomaluje pohyb nepřátelských jednotek, ale "
 "také zmenšuje poškození způsobená jakýmkoliv jejich útokem na polovinu, a to "
 "do konce kola."
 
@@ -4908,8 +4907,8 @@ msgid ""
 "benefits of advancing a level, so it is generally wiser to advance your "
 "lower-level units instead."
 msgstr ""
-"Namísto povyšování mají jednotky na nejvyšší úrovni schopnost „<i>rozvoje po "
-"dosažení maximální úrovně</i>“ (<i>After Maximum Level Advancement — AMLA</"
+"Namísto povyšování mají jednotky na nejvyšší úrovni schopnost <i>rozvoje po "
+"dosažení maximální úrovně</i> (<i>After Maximum Level Advancement — AMLA</"
 "i>), která obvykle zvýší maximální počet životů o 3 a uzdraví je. Toto není "
 "velký zisk, a navíc každá dosažená AMLA ztíží podmínky pro dosažení další; "
 "proto je většinou vhodnější pokusit se povýšit jednotky nižší úrovně."
@@ -4971,8 +4970,8 @@ msgid ""
 "a similar manner, and dwarves can do the same with mountains."
 msgstr ""
 "Ve vodě má dobrou obranu velmi málo jednotek. Linie jednotek podél vody "
-"dokáže nepříteli bojujícímu z ní způsobit těžké ztráty. Podobně lze využít i "
-"další rozhraní oblastí s nízkou a vysokou obranou - např. elfy v lese, "
+"dokáže nepříteli bojujícímu z ní způsobit těžké ztráty. Podobně lze využít "
+"i další rozhraní oblastí s nízkou a vysokou obranou – např. elfy v lese, "
 "trpaslíky na horách atd."
 
 #. [tip]
@@ -5024,9 +5023,9 @@ msgid ""
 "little experience it has. Sometimes it’s worth paying a premium to know "
 "exactly what traits a new arrival will have."
 msgstr ""
-"Před propuštěním jednotek ze seznamu pro přivolání se raději rozmysli. I "
-"kdyby jednotka neměla žádné zkušenosti, znalost jejích vlastností a možnost "
-"volby mají také svou cenu."
+"Před propuštěním jednotek ze seznamu pro přivolání se raději rozmysli. "
+"I kdyby jednotka neměla žádné zkušenosti, znalost jejích vlastností "
+"a možnost volby mají také svou cenu."
 
 #. [tip]
 #: data/tips.cfg:233
@@ -5051,9 +5050,9 @@ msgid ""
 "work to combine, for example, <i>Leadership</i>, <i>Illuminates</i> and "
 "<i>Charge</i> against a slowed opponent, the results can be impressive."
 msgstr ""
-"Kombnace několika speciláních schopností může být smrtící. I když bude "
+"Kombinace několika speciálních schopností může být smrtící. I když bude "
 "obtížnější připravit celou situaci, například současné použití <i>velení</"
-"i>, <i>osvětlení</i> a <i>výpadu</i> proti zpomalenému protivníkovi, účinky "
+"i>, <i>osvětlení</i> a <i>výpadu</i> proti zpomalenému protivníkovi, účinky "
 "mohou být naprosto drtivé."
 
 #. [tip]
@@ -5437,7 +5436,7 @@ msgstr "Modifikace"
 
 #: src/addon/info.cpp:175
 msgid "addon_type^Core"
-msgstr "Zdroje"
+msgstr "Jádro"
 
 #: src/addon/info.cpp:177
 msgid "addon_type^Resources"
@@ -5864,21 +5863,21 @@ msgstr "Neplatná barva v rozsahu: "
 #: src/game_config_manager.cpp:199 src/game_config_manager.cpp:208
 #: src/game_config_manager.cpp:220
 msgid "Error validating data core."
-msgstr "Chyba při ověřování datového zdroje."
+msgstr "Chyba při ověřování datového jádra."
 
 #: src/game_config_manager.cpp:200
 msgid "Found a core without id attribute."
-msgstr "Nalezen zdroj bez atributu id."
+msgstr "Nalezeno jádro bez atributu id."
 
 #: src/game_config_manager.cpp:201 src/game_config_manager.cpp:211
 #: src/game_config_manager.cpp:224
 msgid "Skipping the core."
-msgstr "Vynechávání zdroje."
+msgstr "Vynechávání jádra."
 
 #: src/game_config_manager.cpp:209 src/game_config_manager.cpp:221
 #: src/game_config_manager.cpp:244
 msgid "Core ID: "
-msgstr "ID zdroje: "
+msgstr "ID jádra: "
 
 #: src/game_config_manager.cpp:210
 msgid "The ID is already in use."
@@ -5886,7 +5885,7 @@ msgstr "Toto ID už někdo používá."
 
 #: src/game_config_manager.cpp:222
 msgid "Core Path: "
-msgstr "Cesta ke zdroji: "
+msgstr "Cesta k jádru: "
 
 #: src/game_config_manager.cpp:223
 msgid "File not found."
@@ -5894,19 +5893,19 @@ msgstr "Soubor nenalezen."
 
 #: src/game_config_manager.cpp:243 src/game_config_manager.cpp:255
 msgid "Error loading core data."
-msgstr "Chyba při načítání zdrojových dat."
+msgstr "Chyba při načítání jaderných dat."
 
 #: src/game_config_manager.cpp:245
 msgid "Error loading the core with named id."
-msgstr "Chyba při načítání zdroje s pojmenovaným id."
+msgstr "Chyba při načítání jádra s pojmenovaným id."
 
 #: src/game_config_manager.cpp:246
 msgid "Falling back to the default core."
-msgstr "Použití výchozího zdroje."
+msgstr "Použití výchozího jádra."
 
 #: src/game_config_manager.cpp:256
 msgid "Can't locate the default core."
-msgstr "Nepodařilo se najít výchozí zdroj."
+msgstr "Nepodařilo se najít výchozí jádro."
 
 #: src/game_config_manager.cpp:257
 msgid "The game will now exit."
@@ -5926,7 +5925,7 @@ msgid ""
 "default core files."
 msgstr ""
 "Chyba při nahrávání konfiguračních souborů. Hra se načte za použití "
-"výchozích zdrojových souborů."
+"výchozích souborů jádra."
 
 #: src/game_config_manager.cpp:329
 msgid ""
@@ -6552,7 +6551,7 @@ msgstr "<header>text='Jednotky s touto schopností'</header>"
 
 #: src/help/help_impl.cpp:570
 msgid "Era:"
-msgstr "Věk:"
+msgstr "Éra:"
 
 #: src/help/help_impl.cpp:578
 msgid "Factions"
