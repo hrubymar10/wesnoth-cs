@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-11-10 08:16+0100\n"
+"PO-Revision-Date: 2019-11-17 18:21+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1210,7 +1210,8 @@ msgid ""
 "were to hand. Screams and curses came from the saurian castles."
 msgstr ""
 "Z několika vesnic se rozezněl jásot a dřívější otroci je chvatně opouštěli. "
-"Když se jim podařilo najít nějaké zbraně, vzali si je, když ne, vyšli jen s holými pěstmi a kameny. Z ještěráckých tvrzí se ozýval křik a kletby."
+"Když se jim podařilo najít nějaké zbraně, vzali si je, když ne, vyšli jen "
+"s holými pěstmi a kameny. Z ještěráckých tvrzí se ozýval křik a kletby."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:541
@@ -1240,7 +1241,8 @@ msgid ""
 "fearsome, but honorable, creatures. I think we can let him out of the cage."
 msgstr ""
 "Věřím, že náš netopýr je ohromen! To musí být drakonid. Slyšel jsem, že jsou "
-"to hrůzostrašná, ale čestná stvoření. Myslím, že bychom ho mohli pustit z klece."
+"to hrůzostrašná, ale čestná stvoření. Myslím, že bychom ho mohli pustit "
+"z klece."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:598
@@ -1291,7 +1293,8 @@ msgid ""
 "I was hunting north of here when the small ones captured me. I killed many, "
 "but I was humiliated in the end."
 msgstr ""
-"Lovil jsem severně odsud, když mě ti skrčkové zaskočili. Mnoho jich padlo, ale nakonec jsem byl pokořen."
+"Lovil jsem severně odsud, když mě ti skrčkové zaskočili. Mnoho jich padlo, "
+"ale nakonec jsem byl pokořen."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:655
@@ -1471,7 +1474,8 @@ msgid ""
 "Actually, we have some ghosts after us now, and we would like to shelter "
 "here for a while."
 msgstr ""
-"Momentálně po nás jdou nějací duchové a my bychom se tu rádi na chvíli ukryli."
+"Momentálně po nás jdou nějací duchové a my bychom se tu rádi na chvíli "
+"ukryli."
 
 #. [message]: speaker=Marg-Tonz
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:387
@@ -1513,7 +1517,8 @@ msgstr "Udivuje mě, jak může mít s takovými způsoby nějaké zákazníky."
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:407
 msgid ""
 "One hour will work for us. It will not take all of us to defeat the undead. "
-msgstr "Hodina nám bude stačit. Na poražení nemrtvých nebude potřeba nás všech. "
+msgstr ""
+"Hodina nám bude stačit. Na poražení nemrtvých nebude potřeba nás všech. "
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:407
@@ -2447,8 +2452,8 @@ msgstr ""
 "To co si pamatuji starý blázne, je to, jak jsi zdrhal, zatímco za tebou "
 "doutnala těla skřetů, které sis najal na krádež mého meče. Teď sis přivedl "
 "mořské lidi aby udělali tvou špinavou práci. Až se budou v posledních "
-"křečích plácat jako ryba na suchu, nezdrhneš snad zase? Ty <i>mně</i> o strachu "
-"nevykládej."
+"křečích plácat jako ryba na suchu, nezdrhneš snad zase? Ty <i>mně</i> o "
+"strachu nevykládej."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:312
@@ -2888,8 +2893,9 @@ msgid ""
 "I suppose this <i>does</i> look a little overwhelming. I may enjoy it "
 "though. It can be satisfying to rain holy fire down on misbehaving spirits."
 msgstr ""
-"Pravděpodobně to <i>vypadá</i> jako trochu větší přesila. Nicméně bych si to mohla "
-"užít. S uspokojením spláchnu tyhle nevychované duchy deštěm svatého ohně."
+"Pravděpodobně to <i>vypadá</i> jako trochu větší přesila. Nicméně bych si to "
+"mohla užít. S uspokojením spláchnu tyhle nevychované duchy deštěm svatého "
+"ohně."
 
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:547
