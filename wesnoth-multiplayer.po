@@ -19,15 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-09-22 10:17+0200\n"
+"PO-Revision-Date: 2019-11-18 18:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: čeština <hrubymar10@gmail.com>\n"
+"Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Gtranslator 3.30.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
@@ -42,7 +42,7 @@ msgstr "Náhodný"
 #. [era]: id=era_default, type=hybrid
 #: data/multiplayer/eras.cfg:53
 msgid "Default"
-msgstr "Standardní"
+msgstr "Základní"
 
 #. [era]: id=era_default, type=hybrid
 #: data/multiplayer/eras.cfg:54
@@ -63,24 +63,17 @@ msgid ""
 "units available for recruit. Consists of six factions. Not considered "
 "balanced."
 msgstr ""
-"Věk obsahující jdnotky na vyšších úrovních: velitele na úrovni tři schopného "
-"verbovat jedotky na úrovních jedna a dva. Nepokládá se za vyrovnaný."
+"Věk obsahující jednotky na vyšších úrovních: velitele na úrovni tři schopné "
+"verbovat jednotky na úrovních jedna a dva. Sestává ze šesti frakcí. "
+"Nepokládá se za vyrovnaný."
 
 #. [era]: id=era_dunefolk
 #: data/multiplayer/eras.cfg:83
 msgid "Default + Dunefolk"
-msgstr ""
+msgstr "Základní + pouštní lid"
 
 #. [era]: id=era_dunefolk
 #: data/multiplayer/eras.cfg:84
-#, fuzzy
-#| msgid ""
-#| "An era featuring an additional faction besides the six factions from "
-#| "Default Era. Khalifate units use no magic, but instead rely on careful "
-#| "use of terrain and coordinated strikes around dusk or dawn.\n"
-#| "\n"
-#| "This era is still under development, so please be sure to report any "
-#| "problems that arise."
 msgid ""
 "An era featuring an additional faction besides the six factions from Default "
 "Era. Dunefolk units rely on careful use of terrain and coordinated strikes "
@@ -89,30 +82,20 @@ msgid ""
 "This era is still under development, so please be sure to report any "
 "problems that arise."
 msgstr ""
-"Věk který kromě šesti základních ras obsahuje některé navíc. Jednotky "
-"Chalífátu nepoužívají magii, ale místo toho spoléhají na precizní využití "
-"povrchu a koordinované údery za svítání nebo soumraku.\n"
+"Věk, který kromě šesti základních ras, obsahuje některé navíc. Jednotky "
+"pouštního lidu spoléhají na precizní využití povrchu a koordinované údery za "
+"svítání nebo soumraku.\n"
 "\n"
-"Tento věk je stále ve vývoji, takže buďte prosím tolerantní a všechny "
+"Tento věk je stále ve vývoji, takže buďte prosím tolerantní a všechny "
 "nalezené problémy hlašte."
 
 #. [era]: id=era_dunefolk_heroes
 #: data/multiplayer/eras.cfg:94
-#, fuzzy
-#| msgid "Age of Heroes"
 msgid "Age of Heroes + Dunefolk"
-msgstr "Věk hrdinů"
+msgstr "Věk hrdinů + pouštní lid"
 
 #. [era]: id=era_dunefolk_heroes
 #: data/multiplayer/eras.cfg:95
-#, fuzzy
-#| msgid ""
-#| "An era featuring an additional faction besides the six factions from Age "
-#| "of Heroes Era. Khalifate units use no magic, but instead rely on careful "
-#| "use of terrain and coordinated strikes around dusk or dawn.\n"
-#| "\n"
-#| "This era is still under development, so please be sure to report any "
-#| "problems that arise."
 msgid ""
 "An era featuring an additional faction besides the six factions from Age of "
 "Heroes Era. Dunefolk units rely on careful use of terrain and coordinated "
@@ -121,11 +104,11 @@ msgid ""
 "This era is still under development, so please be sure to report any "
 "problems that arise."
 msgstr ""
-"Věk který kromě šesti základních ras obsahuje některé rasy z Věku hrdinů "
-"navíc. Jednotky Chalífátu nepoužívají magii, ale místo toho spoléhají a "
-"precizní využití povrchu a koordinované údery za svítání nebo soumraku.\n"
+"Věk, který kromě šesti základních ras, obsahuje navíc některé rasy z Věku "
+"hrdinů. Jednotky pouštního lidu spoléhají na precizní využití povrchu "
+"a koordinované údery za svítání nebo soumraku.\n"
 "\n"
-"Tento věk je stále ve vývoji, takže buďte prosím tolerantní a všechny "
+"Tento věk je stále ve vývoji, takže buďte prosím tolerantní a všechny "
 "nalezené problémy hlašte."
 
 #. [lua]: f
@@ -187,7 +170,7 @@ msgstr ""
 #: data/multiplayer/factions/dunefolk-aoh.cfg:4
 #: data/multiplayer/factions/dunefolk-default.cfg:4
 msgid "Dunefolk"
-msgstr ""
+msgstr "Pouštní lid"
 
 #. [multiplayer_side]: id=Dunefolk, type=random
 #: data/multiplayer/factions/dunefolk-aoh.cfg:14
