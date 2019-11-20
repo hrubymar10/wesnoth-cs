@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-11-13 18:12+0100\n"
+"PO-Revision-Date: 2019-11-20 19:08+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4327,7 +4327,7 @@ msgid ""
 "In the map editor, select <i>New Scenario</i> in the <i>File</i> menu to "
 "make use of advanced features."
 msgstr ""
-"Abyste mohli v editoru map použít pokročilé prvky, vyberte v menu <i>Soubor</"
+"Abyste mohli v editoru map použít pokročilé prvky, vyberte v menu <i>Soubor</"
 "i> možnost <i>Nový scénář</i>."
 
 #. [tip]
@@ -4336,8 +4336,8 @@ msgid ""
 "Scenarios saved from the editor in their default folder can be selected in "
 "the <i>Custom Scenarios</i> section of the Multiplayer “Create Game” screen."
 msgstr ""
-"Scénáře uložené v editoru do výchozího umístění můžete vybrat v sekci "
-"<i>Uživatelský scénář</i> při vytváření nové hry pro více hráčů."
+"Scénáře uložené v editoru do výchozího umístění můžete vybrat v sekci "
+"<i>Vlastní scénáře</i> při vytváření nové hry pro více hráčů."
 
 #. [tip]
 #: data/tips.cfg:16
@@ -4463,8 +4463,8 @@ msgid ""
 "the <b>Help</b> screen carefully. Details become important as scenarios get "
 "harder!"
 msgstr ""
-"Až dohrajete vašich prvních pár scénářů, přečtěte si sekci „<b>Pravidla hry</"
-"b>“ v nápovědě. Jak se scénáře stávají těžšími, záleží na detailech čím dál "
+"Až dohrajete vašich prvních pár scénářů, přečtěte si sekci <b>Pravidla hry</"
+"b> v nápovědě. Jak se scénáře stávají těžšími, záleží na detailech čím dál "
 "více!"
 
 #. [tip]
@@ -4780,7 +4780,7 @@ msgid ""
 "the same side fight better. You can move these units slowly along your "
 "battle lines and give bonuses to large numbers of lower-level troops."
 msgstr ""
-"Jednotky se schopností „<i>velení</i>“ zlepšují bojové schopnosti jednotek "
+"Jednotky se schopností <i>velení</i> zlepšují bojové schopnosti jednotek "
 "nižší úrovně na sousedních polích. Posunováním velitelů podél početné linie "
 "jednotek nižší úrovně lze dosáhnout značné výhody."
 
@@ -4853,7 +4853,7 @@ msgid ""
 "Use healers to support your attacks — they will win you battles without "
 "needing to attack anything themselves."
 msgstr ""
-"Ber s sebou do útoků i léčitele — vyhrají tvé bitvy, aniž musí sami zaútočit."
+"Ber s sebou do útoků i léčitele – vyhrají tvé bitvy, aniž musí sami zaútočit."
 
 #. [tip]
 #: data/tips.cfg:173 data/tips.cfg:218
@@ -4986,9 +4986,9 @@ msgid ""
 msgstr ""
 "Schopnost <i>zpomalení</i> je velmi silná, neboť má nepřímo vliv na mnoho "
 "dalších efektů. Nepřátelští nemrtví získají <i>vysátím</i> pouze polovinu "
-"výhody, bonus za útok <i>zezadu</i> nebo s <i>výpadem</i> je zrušen, boje "
-"<i>na život a na smrt</i> jsou také slabší. Rychlí nepřátelé již neuniknou, "
-"pomalí se téměř nehnou, a tvé jednotky jsou méně zraněny při nepřátelské "
+"výhody, bonus za útok <i>zezadu</i> nebo s <i>výpadem</i> je zrušen, boje "
+"<i>na život a na smrt</i> jsou také slabší. Rychlí nepřátelé již neuniknou, "
+"pomalí se téměř nehnou a tvé jednotky jsou méně zraněny při nepřátelské "
 "obraně, takže je není třeba tolik uzdravovat."
 
 #. [tip]
@@ -7889,10 +7889,8 @@ msgid "Upkeep"
 msgstr "Výdaje"
 
 #: src/reports.cpp:1381
-#, fuzzy
-#| msgid "Income"
 msgid "Net Income"
-msgstr "Příjmy"
+msgstr "Čistý příjem"
 
 #: src/reports.cpp:1381
 msgid ""
