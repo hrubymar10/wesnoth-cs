@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-10-31 22:07+0100\n"
+"PO-Revision-Date: 2019-11-23 08:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4590,19 +4590,6 @@ msgstr "Mořský zaplétač"
 
 #. [unit_type]: id=Merman Entangler, race=merman
 #: data/core/units/merfolk/Entangler.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Merfolk tend to use a combination of both nets and clubs in fishing; nets "
-#| "to collect the fish, and clubs to finish the kill. Both of these tools "
-#| "have seen adaptation for warfare, and are valuable enough that "
-#| "auxilliaries who specialize in using them are deliberately brought to "
-#| "battle.\n"
-#| "\n"
-#| "Mermen often find themselves in a standoff with land-based enemies; the "
-#| "merfolk are too strong in the water, and are too weak to make any offense "
-#| "on land. Nets are a key bit of leverage; without nets, mermen can’t give "
-#| "any effective chase over land, and are at a great disadvantage in hand-to-"
-#| "hand combat."
 msgid ""
 "Merfolk tend to use a combination of both nets and clubs in fishing; nets to "
 "collect the fish, and clubs to finish the kill. Both of these tools have "
@@ -4615,13 +4602,13 @@ msgid ""
 "effective chase over land, and are at a great disadvantage in hand-to-hand "
 "combat."
 msgstr ""
-"Mořský lid využívá při lovu ryb kombinaci sítí a kyjů - sítěmi ryby lapají, "
-"kyjemi je dorážejí. Oba nástroje doznaly pro bojové využití jistých proměn a "
-"ukazují se tak užitečnými, že pomocné jednotky speciálně jimi vybavené "
+"Mořský lid využívá při lovu ryb kombinaci sítí a kyjů – sítěmi ryby lapají, "
+"kyji je dorážejí. Oba nástroje doznaly pro bojové využití jistých proměn "
+"a ukazují se tak užitečnými, že pomocné jednotky speciálně jimi vybavené "
 "bývají běžně posílány do boje.\n"
 "\n"
-"Mořští lidé se často v boji proti suchozemcům nalézají v situaci, kdy ani "
-"jedna strana nemůže nijak postoupit kvůli převaze protivníka v jeho vlastním "
+"Mořští lidé se často v boji proti suchozemcům nalézají v situaci, kdy ani "
+"jedna strana nemůže nijak postoupit kvůli převaze protivníka v jeho vlastním "
 "živlu. Sítě přitom poskytují jistou výhodu; bez nich nemohou dobře mořští "
 "lidé na suchu pronásledovat nepřítele ani útočit."
 
@@ -4639,6 +4626,12 @@ msgid ""
 "iconic tridents make them mighty foes to try to combat in the seas, but they "
 "lose almost all their mobility if forced to fight on land."
 msgstr ""
+"Společenství mořských lidí cvičí své vojenské složky přesně a důkladně "
+"a výsledkem toho je, že mír v jejich království je udržován vojáky, kteří "
+"jsou nepopiratelnými šampióny své vodní domoviny. Jejich houževnatost "
+"a dovednost s věhlasnými trojzubci z nich dělá mocné nepřátele na to zkoušet "
+"s nimi zápasit v mořích, ale přichází o téměř veškerou svou pohyblivost, "
+"pokud jsou nuceni bojovat na pevnině."
 
 #. [unit_type]: id=Merman Hoplite, race=merman
 #: data/core/units/merfolk/Hoplite.cfg:4
@@ -4665,22 +4658,16 @@ msgstr "Mořský lovec"
 
 #. [unit_type]: id=Merman Hunter, race=merman
 #: data/core/units/merfolk/Hunter.cfg:18
-#, fuzzy
-#| msgid ""
-#| "The skills employed by mermen in spear-fishing are easily translated into "
-#| "warfare, especially against those who are not at home in the water. In "
-#| "times of need, many mermen of that occupation will volunteer to swell the "
-#| "ranks of their military."
 msgid ""
 "The skills employed by merfolk in spear-fishing are easily translated into "
 "warfare, especially against those who are not at home in the water. In times "
 "of need, many merfolk of that occupation will volunteer to swell the ranks "
 "of their military."
 msgstr ""
-"Ty samé dovednosti, které uplatňuje mořský lid při lovení ryb oštěpem se "
-"dají použít i v boji, obzvláště proti nepřátelům neuvyknutým na boj pod "
-"hladinou. Mnoho mužů moře zručných v lovu ryb se v případě potřeby přidává k "
-"armádě."
+"Ty samé dovednosti, které uplatňuje mořský lid při lovení ryb oštěpem, se "
+"dají použít i v boji, obzvláště proti nepřátelům neuvyknutým na boj pod "
+"hladinou. Mnoho mužů moře zručných v lovu ryb se v případě potřeby přidává "
+"k armádě."
 
 #. [unit_type]: id=Mermaid Initiate, race=merman
 #: data/core/units/merfolk/Initiate.cfg:4
@@ -4712,21 +4699,14 @@ msgstr "Mořský muž oštěpař"
 
 #. [unit_type]: id=Merman Javelineer, race=merman
 #: data/core/units/merfolk/Javelineer.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Those mermen who master the art of the javelin can become nearly as "
-#| "effective as an archer — though the heft of their weapons impedes their "
-#| "range, the impact of one is considerably greater. In the water, the "
-#| "mobility of the mermen more than makes up for this when facing foes who "
-#| "cannot swim."
 msgid ""
 "Those merfolk who master the art of the javelin can become nearly as "
 "effective as an archer — though the heft of their weapons impedes their "
 "range, the impact of one is considerably greater. In the water, the mobility "
 "of the merfolk more than makes up for this when facing foes who cannot swim."
 msgstr ""
-"Mořští muži zruční v oštěpaření jsou skoro stejně efektivní jako lučištníci "
-"- i když vzhledem k povaze zbraně mají menší dostřel, účinek zásahu je "
+"Mořští muži zruční v oštěpaření jsou skoro stejně efektivní jako lučištníci "
+"– i když vzhledem k povaze zbraně mají menší dostřel, účinek zásahu je "
 "mnohem větší. Dalším velkým plusem je schopnost rychlého pohybu těchto "
 "válečníků pod vodou, což vyvažuje menší dosah jejich zbraní."
 
@@ -4769,13 +4749,6 @@ msgstr "Víla kněžka"
 
 #. [unit_type]: id=Mermaid Priestess, race=merman
 #: data/core/units/merfolk/Priestess.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Among mermen, mysticism is generally left to the mermaids, who are more "
-#| "inclined to it. It is they who dedicate themselves to the ideal of "
-#| "bringing peace and life to the world, and to the arts which make that "
-#| "possible. Their piety also grants them certain powers, allowing them to "
-#| "guard their people against magical or unnatural things."
 msgid ""
 "Among merfolk, mysticism is generally left to the mermaids, who are more "
 "inclined to it. It is they who dedicate themselves to the ideal of bringing "
@@ -4783,10 +4756,10 @@ msgid ""
 "piety also grants them certain powers, allowing them to guard their people "
 "against magical or unnatural things."
 msgstr ""
-"Mořský lid přenechává většinu jednání s božstvy mořským pannám. To ony "
-"zasvěcují své životy udržování míru a života ve světě a také studují umění "
-"léčitelství. Jejich pracovitost a zbožnost jim také přináší jisté duchovní "
-"síly, které jim umožňují bránit svůj druh proti nemrtvým a jiným nezemským "
+"Mořský lid přenechává většinu jednání s božstvy mořským pannám. To ony "
+"zasvěcují své životy udržování míru a života ve světě a také studují umění "
+"léčitelství. Jejich pracovitost a zbožnost jim také přináší jisté duchovní "
+"síly, které jim umožňují bránit svůj druh proti nemrtvým a jiným nezemským "
 "bytostem."
 
 #. [unit_type]: id=Mermaid Siren, race=merman
@@ -4829,14 +4802,6 @@ msgstr "Mořský kopiník"
 
 #. [unit_type]: id=Merman Spearman, race=merman
 #: data/core/units/merfolk/Spearman.cfg:17
-#, fuzzy
-#| msgid ""
-#| "Archery is little favored by the mermen, for whom use of javelins serves "
-#| "a similar function. Though thrown javelins are of little use under the "
-#| "water, they are extremely effective at the surface, where their weight "
-#| "allows them to plunge several feet below the water while retaining enough "
-#| "momentum to wreak damage. They are also useful in melee, even deep under "
-#| "the surface, which is something that certainly cannot be said of arrows."
 msgid ""
 "Archery is little favored by the merfolk, for whom use of javelins serves a "
 "similar function. Though thrown javelins are of little use under the water, "
@@ -4845,11 +4810,11 @@ msgid ""
 "wreak damage. They are also useful in melee, even deep under the surface, "
 "which is something that certainly cannot be said of arrows."
 msgstr ""
-"Lukostřelba není mezi mořskými válečníky příliš oblíbená a stejnou funkci "
-"zastává hod oštěpy. I když jsou házecí oštěpy málo použitelné pod vodou, "
-"ukázaly se velmi účinné při vrhu z hladiny, díky své váze zasáhnou efektivně "
-"svůj cíl ještě několik stop pod vodou. Další použití je v boji na blízko a "
-"to dokonce hluboko pod hladinou, což se jistě nedá říct o šípech."
+"Lukostřelba není mezi mořským lidem příliš oblíbená, pro něj obdobnou úlohu "
+"zastává hod oštěpy. I když jsou házecí oštěpy málo použitelné pod vodou, "
+"ukázaly se velmi účinné při vrhu z hladiny, odkud díky své váze zasáhnou "
+"efektivně svůj cíl ještě několik stop pod vodou. Další použití je v boji na "
+"blízko, a to dokonce hluboko pod hladinou, což se jistě nedá říct o šípech."
 
 #. [unit_type]: id=Merman Triton, race=merman
 #: data/core/units/merfolk/Triton.cfg:4
@@ -4858,11 +4823,6 @@ msgstr "Mořský triton"
 
 #. [unit_type]: id=Merman Triton, race=merman
 #: data/core/units/merfolk/Triton.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Tritons are combat masters of the sea. Skilled in use of the trident, "
-#| "Tritons easily defeat any enemy foolish enough to wander into their "
-#| "preferred environment."
 msgid ""
 "Tritons are combat masters of the sea. Skilled in use of the trident, "
 "Tritons easily defeat any enemy foolish enough to wander into their "
@@ -4870,8 +4830,11 @@ msgid ""
 "flexibility in its use, and the highest-ranking among them use weaponry more "
 "comparable to halberds than simple spears."
 msgstr ""
-"Tritoni jsou pánové moří. Zruční v boji trojzubcem, Tritoni lehce porazí "
-"nepřátele dost hloupé na to, aby bojovali v jejich prostředí."
+"Tritoni jsou pánové moří. Zruční v boji trojzubcem, tritoni lehce porazí "
+"nepřátele dost hloupé na to, aby bojovali v jejich prostředí. Dokonalé "
+"ovládání jejich zbraně jim dovoluje pružnost při jejím použití a ti mezi "
+"nimi nejvýše postavení používají zbraně spíše jako halapartny než jako "
+"obyčejná kopí."
 
 #. [unit_type]: id=Merman Warrior, race=merman
 #: data/core/units/merfolk/Warrior.cfg:4
@@ -4886,6 +4849,10 @@ msgid ""
 "races, but doubly so considering the difficulties of fighting underwater, as "
 "any who try to match them in their homes can attest."
 msgstr ""
+"Mořští válečníci tvoří jádro vojsk mořského lidu. Ohání se svými trojzubci "
+"s dovedností a pílí srovnatelnou s vojáky jiných národů, ale dvojnásob "
+"působivou vzhledem k obtížím při boji pod hladinou, jak může potvrdit každý, "
+"kdo s nimi zkoušel soupeřit v jejich živlu."
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 #: data/core/units/monsters/Cuttle_Fish.cfg:4
