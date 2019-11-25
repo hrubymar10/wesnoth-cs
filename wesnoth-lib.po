@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-11-22 20:32+0100\n"
+"PO-Revision-Date: 2019-11-25 19:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -691,19 +691,6 @@ msgstr "Skalnatá jeskyně"
 
 #. [terrain_type]: id=rocky_cave
 #: data/core/terrain.cfg:967
-#, fuzzy
-#| msgid ""
-#| "<italic>text='Rockbound cave'</italic> terrain is formed by the action of "
-#| "water and wind, carrying erosive particles that carve the rock. It "
-#| "resembles a scraggy underground cavern which reduces efficiency of most "
-#| "units, but shoulders defense. Dwarves and trolls, who are main settlers "
-#| "of caves, have a relatively easy time navigating this terrain. Dwarves, "
-#| "who by dint of their small size have the full advantage of navigation in "
-#| "such topography. Occasionally caves are "
-#| "<ref>dst='terrain_illuminated_cave' text='illuminated'</ref>\n"
-#| "\n"
-#| "Most units have about 50% defense in rocky caves, whereas cavalry are "
-#| "limited to 40%. Dwarves enjoy 60% defense in rockbound caves."
 msgid ""
 "<italic>text='Rockbound cave'</italic> terrain is formed by the action of "
 "water and wind, carrying erosive particles that carve the rock. It resembles "
@@ -718,14 +705,16 @@ msgid ""
 "Occasionally caves are <italic>text='illuminated'</italic>."
 msgstr ""
 "<italic>text='Skalnatá jeskyně'</italic> je terén utvářený erozivní činností "
-"vody a větru ve skále. Připomíná rozeklanou podzemní dutinu, která snižuje "
-"efektivitu většiny jednotek a zvyšuje obranné možnosti. Trpaslíci a trollové "
-"žijící v jeskyních nemají s pohybem v tomto terénu problémy, zvláště "
-"trpaslíci díky jejich malému vzrůstu. Někdy jsou jeskyně "
-"<ref>dst='terrain_illuminated_cave' text='osvětlené'</ref>\n"
+"vody a větru ve skále. Připomíná rozeklanou podzemní dutinu, která zvyšuje "
+"obranné možnosti, ale pro většinu jednotek je obtížné ji přejít. Pouze "
+"obyvatelé jeskyň, jako trpaslíci a trollové, jsou zcela schopni najít "
+"v takovém terénu správný směr.\n"
 "\n"
-"Většina jednotek má ve skalnatých jeskyních obranný bonus okolo 50%, jízda "
-"pouze 40% a trpaslíci 60%."
+"Většina jednotek má ve skalnatých jeskyních obranný bonus okolo 50%, zatímco "
+"jízda je omezena na 40%. Trpaslíci, díky jejich malému vzrůstu, se ve "
+"skalnatých jeskyních těší obraně 60%.\n"
+"\n"
+"Někdy jsou jeskyně <italic>text='osvětlené'</italic>."
 
 #. [terrain_type]: id=mine_rails
 #. [terrain_type]: id=mine_railsdiag1
@@ -1605,24 +1594,6 @@ msgstr ""
 
 #. [terrain_type]: id=cave
 #: data/core/terrain.cfg:2732
-#, fuzzy
-#| msgid ""
-#| "<italic>text='Cave'</italic> terrain represents any underground cavern "
-#| "with enough room for a unit to pass.\n"
-#| "Most units are wholly unfamiliar with the terrain, and thus are both "
-#| "slowed down and hindered in defense. Dwarves and trolls, who make their "
-#| "homes in caves, both have a relatively easy time navigating this terrain, "
-#| "especially dwarves, who by dint of their small size can navigate many "
-#| "obstacles that other races cannot. Occasionally caves are "
-#| "<ref>dst='terrain_illuminated_cave' text='illuminated'</ref>.\n"
-#| "\n"
-#| "Rare patches of the underground world are illuminated by light from the "
-#| "surface shining down into the gloomy darkness. This provides an attack "
-#| "bonus for lawful units and removes the attack bonus from chaotic units. "
-#| "In all other regards this terrain is functionally identical to normal "
-#| "cave terrains.\n"
-#| "\n"
-#| "Most units receive 20 to 40% defense in caves, whereas dwarves have 50%."
 msgid ""
 "<italic>text='Cave'</italic> terrain represents any underground cavern with "
 "enough room for a unit to pass.\n"
@@ -1641,19 +1612,20 @@ msgid ""
 "\n"
 "Most units receive 20 to 40% defense in caves, whereas dwarves have 50%."
 msgstr ""
-"<italic>text='Jeskyně'</italic> představuje jakoukoliv podzemní sluj s "
-"dostatkem místa pro pohyb.\n"
-"Většina jednotek se v tomto terénu neumí pohybovat a tak jsou zpomaleny a "
-"překáží jim to v obraně. Trpaslíci a Trollové, kteří zde bydlí, tu jsou jako "
-"doma, a to zejména trpaslíci, kteří se zde mohou díky své malé výšce snadno "
-"pohybovat a překonávat překážky. To jiným činí problémy. Někdy jsou jeskyně "
-"<ref>dst='terrain_illuminated_cave' text='osvětlené'</ref>\n"
+"<italic>text='Jeskyně'</italic> představuje jakoukoliv podzemní sluj "
+"s dostatkem místa pro pohyb.\n"
+"Většina jednotek se v tomto terénu neumí pohybovat a tak jsou zpomaleny "
+"a překáží jim to v obraně. Trpaslíci a trollové, kteří zde bydlí, tu jsou "
+"jako doma, a to zejména trpaslíci, kteří se zde mohou díky své malé výšce "
+"snadno pohybovat a překonávat překážky. To jiným činí problémy. Někdy jsou "
+"jeskyně <italic>text='osvětlené'</italic>.\n"
 "\n"
-"Výjimečně jsou podzemní cesty osvětlené světlem z povrchu. Taková místa "
-"poskytují bonusy zákonným jednotkám a naopak ruší bonusy pro jednotky "
-"chaotické. Ve všech ostatních ohledech je osvětlená jeskyně shodná s "
-"normální jeskyní. Většina jednotek zde získá 20 až 40% obranný bonus, "
-"zatímco trpaslíci 50%."
+"Výjimečně jsou podzemní cesty osvětlené světlem z povrchu. Taková místa "
+"poskytují bonusy zákonným jednotkám a naopak ruší bonusy pro jednotky "
+"chaotické. Ve všech ostatních ohledech je osvětlená jeskyně shodná "
+"s normální jeskyní.\n"
+"\n"
+"Většina jednotek zde získá 20 až 40% obranný bonus, zatímco trpaslíci 50%."
 
 #. [terrain_type]: id=sand
 #: data/core/terrain.cfg:2745
@@ -3633,7 +3605,7 @@ msgstr "Informace o hráči - "
 #: data/gui/window/lobby_player_info.cfg:94
 #: data/gui/window/preferences/05_multiplayer.cfg:263
 msgid "Add Friend"
-msgstr "Přidej přítele"
+msgstr "Přidat přítele"
 
 #. [button]: id=add_ignored
 #. [button]: id=add_to_ignores
@@ -3690,32 +3662,32 @@ msgstr "Zastavit hru"
 #. [label]
 #: data/gui/window/logging.cfg:93
 msgid "Logging Options"
-msgstr "Nastavení logování"
+msgstr "Možnosti zaznamenávání"
 
 #. [row]
 #: data/gui/window/logging.cfg:136
 msgid "Debug level logging: maximum information"
-msgstr ""
+msgstr "Úroveň zaznamenávání debug: maximum informací"
 
 #. [row]
 #: data/gui/window/logging.cfg:137
 msgid "Info level logging: more information"
-msgstr ""
+msgstr "Úroveň zaznamenávání info: více informací"
 
 #. [row]
 #: data/gui/window/logging.cfg:138
 msgid "Warning level logging: less information"
-msgstr ""
+msgstr "Úroveň zaznamenávání warning: méně informací"
 
 #. [row]
 #: data/gui/window/logging.cfg:139
 msgid "Error level logging: minimum information"
-msgstr ""
+msgstr "Úroveň zaznamenávání error: minimum informací"
 
 #. [row]
 #: data/gui/window/logging.cfg:140
 msgid "Disable logging"
-msgstr "Vypnout logování"
+msgstr "Vypnout zaznamenávání"
 
 #. [button]: id=clear
 #: data/gui/window/lua_interpreter.cfg:117
@@ -3959,7 +3931,7 @@ msgstr "Zlato na vesnici"
 #. [grid]
 #: data/gui/window/mp_create_game.cfg:336
 msgid "The number of unit levels each village can support"
-msgstr ""
+msgstr "Počet úrovní jednotek, které může každá vesnice podporovat"
 
 #. [grid]
 #: data/gui/window/mp_create_game.cfg:336
@@ -4339,17 +4311,13 @@ msgstr "Vybrat"
 
 #. [menu_button]: id=controller
 #: data/gui/window/mp_staging.cfg:245
-#, fuzzy
-#| msgid "Change the music volume"
 msgid "Change the side's controller"
-msgstr "Změna hlasitosti hudebního doprovodu"
+msgstr "Změnit, kdo ovládá tuto stranu"
 
 #. [menu_button]: id=ai_controller
 #: data/gui/window/mp_staging.cfg:261
-#, fuzzy
-#| msgid "Change the music volume"
 msgid "Change the AI side's behaviour"
-msgstr "Změna hlasitosti hudebního doprovodu"
+msgstr "Změnit chování strany s UI"
 
 #. [menu_button]: id=side_team
 #: data/gui/window/mp_staging.cfg:288
@@ -4358,10 +4326,8 @@ msgstr "Jakému týmu náleží tato strana"
 
 #. [menu_button]: id=side_color
 #: data/gui/window/mp_staging.cfg:304
-#, fuzzy
-#| msgid "The team color"
 msgid "This side’s color"
-msgstr "Barva týmu"
+msgstr "Barva této strany"
 
 #. [button]: id=ok
 #: data/gui/window/mp_staging.cfg:422
@@ -4430,6 +4396,8 @@ msgid ""
 "Speed at which unit moves and animations play when ‘Accelerated speed’ is "
 "enabled or when Shift is held down in-game"
 msgstr ""
+"Rychlost, kterou se pohybuje jednotka a přehrávají animace, když je zapnuta "
+"‚Zrychlená hra‘ nebo když je ve hře držen stisknutý Shift."
 
 #. [toggle_button]: id=disable_auto_moves
 #: data/gui/window/preferences/01_general.cfg:100
@@ -4917,7 +4885,7 @@ msgstr "Odstraň tuto přezdívku ze seznamu"
 #. [label]: id=no_friends_notice
 #: data/gui/window/preferences/05_multiplayer.cfg:311
 msgid "You have not befriended or ignored any other players."
-msgstr ""
+msgstr "Nespřátelil ses s dalšími hráči ani jsi žádné neignoroval."
 
 #. [button]: id=open
 #: data/gui/window/screenshot_notification.cfg:49
