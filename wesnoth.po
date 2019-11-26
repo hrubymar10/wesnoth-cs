@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-11-20 19:08+0100\n"
+"PO-Revision-Date: 2019-11-26 17:52+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -190,7 +190,7 @@ msgstr "Vybrat barvy orbů"
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:156
 msgid "Logging"
-msgstr "Logování"
+msgstr "Zaznamenávání"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:162
@@ -1639,10 +1639,8 @@ msgid "holy water^Leave it"
 msgstr "Nech ji zde"
 
 #: data/core/macros/items.cfg:276
-#, fuzzy
-#| msgid "I am not suited to the use of this item! Let another take it."
 msgid "$unit.name has no need for this Holy Water! Let another take it."
-msgstr "Nedokáži použít tento předmět! Ať ho vezme někdo jiný."
+msgstr "$unit.name nepotřebuje tuto posvěcenou vodu! Ať ji vezme někdo jiný."
 
 #. [object]
 #: data/core/macros/items.cfg:281
@@ -4546,10 +4544,10 @@ msgid ""
 "affect it the most."
 msgstr ""
 "Existuje šest druhů útoku: <i>čepelí</i>, <i>bodnutím</i>, <i>úderem</i>, "
-"<i>ohněm</i>, <i>chladem</i> a <i>nezemský</i> útok. Různé jednotky jsou "
+"<i>ohněm</i>, <i>chladem</i> a <i>nezemský</i> útok. Různé jednotky jsou "
 "snadno zranitelné různými typy útoku. Klikni na jednotku pravým tlačítkem "
-"myši a vyber „<b>Popis jednotky</b>“ pro zobrazení informací, jak je "
-"jednotka odolná vůči jednotlivým typům útoku."
+"myši a vyber <b>Popis jednotky</b> pro zobrazení informací, jak je jednotka "
+"odolná vůči jednotlivým typům útoku."
 
 #. [tip]
 #: data/tips.cfg:72
@@ -4572,10 +4570,11 @@ msgid ""
 "poison will not be removed unless the unit regenerates, or begins a turn in "
 "a village or next to a unit with the <i>Cures</i> ability."
 msgstr ""
-"Otrávené jednotky ztrácejí každé kolo 8 životů, dokud jim nezbude jeden "
-"jediný. Tak zůstanou až do doby, než jsou uzdraveny. Léčitelé mohou pozdržet "
-"účinky jedu, ale jed odstraní pouze schopnost <i>regenerace</i>, pobyt na "
-"začátku kola ve vesnici nebo vedle jednotky se schopností <i>uzdravování</i>."
+"Otrávené jednotky ztrácejí každé kolo osm bodů života, dokud jim nezbude "
+"jeden jediný. Pak zůstanou na prahu smrti až do doby, než jsou uzdraveny. "
+"Léčitelé mohou pozdržet účinky jedu, ale jed odstraní pouze schopnost "
+"<i>regenerace</i>, pobyt na začátku kola ve vesnici nebo vedle jednotky se "
+"schopností <i>uzdravování</i>."
 
 #. [tip]
 #: data/tips.cfg:80
@@ -4597,12 +4596,11 @@ msgid ""
 "between them and still create a barrier to the enemy. Beware, though: "
 "skirmishers can pass through these gaps."
 msgstr ""
-"Všechny jednotky mají <i>oblast kontroly</i> skládající se ze sousedních "
-"políček. Pokud se jednotka posune do oblasti kontroly nepřítele, nemůže se "
-"už v tomto kole pohnout dále. Znamená to také, že pro vytvoření neprůchodné "
-"linie stačí umístit jednotky dvě políčka od sebe. (Jednotky stupně 0 jsou "
-"pro vytvoření oblasti kontroly příliš slabé; průbojné jednotky jsou natolik "
-"obratné, že tyto oblasti ignorují.)"
+"Jednotky úrovně jedna a vyšší mají <i>oblast kontroly</i> skládající se ze "
+"sousedních políček. Pokud se jednotka posune do oblasti kontroly nepřítele, "
+"nemůže se už v tomto kole pohnout dále. Znamená to také, že pro vytvoření "
+"neprůchodné linie stačí umístit jednotky dvě políčka od sebe. Přesto pozor: "
+"průbojné jednotky jsou natolik obratné, že tyto oblasti ignorují."
 
 #. [tip]
 #: data/tips.cfg:88
@@ -4827,7 +4825,9 @@ msgstr "<i>― princezna Lisar, 515 YW</i>"
 #. [tip]
 #: data/tips.cfg:160
 msgid "Read the <b>Hotkeys</b> list in the <b>Preferences</b> menu."
-msgstr "Přečti si seznam „<b>Klávesové zkratky</b>“ v menu <b>Nastavení</b>."
+msgstr ""
+"Přečti si seznam klávesových zkratek – <b>Klávesy</b> v menu <b>Nastavení</"
+"b>."
 
 #. [tip]
 #: data/tips.cfg:164
@@ -5145,8 +5145,6 @@ msgstr ""
 #. between multiple advancements of a unit, this text is sent to
 #. other players. It will be embedded within a message.
 #: src/actions/advancement.cpp:225
-#, fuzzy
-#| msgid "an advancement choice"
 msgid "waiting for^an advancement choice"
 msgstr "výběr povýšení"
 
@@ -5283,17 +5281,14 @@ msgid ""
 msgstr ""
 
 #: src/addon/client.cpp:172
-#, fuzzy
-#| msgid ""
-#| "The add-on <i>$addon_title</i> has an invalid file or directory name and "
-#| "cannot be installed."
 msgid ""
 "The add-on <i>$addon_title</i> contains files or directories with case "
 "conflicts. File or directory names may not be differently-cased versions of "
 "the same string."
 msgstr ""
-"Rozšíření <i>$addon_title</i> obsahuje neplatný název souboru nebo složky a "
-"nebude instalováno."
+"Rozšíření <i>$addon_title</i> obsahuje soubory nebo adresáře s kolizí malých "
+"a velkých písmen. Názvy souborů nebo adresářů nesmí být shodné řetězce znaků "
+"lišící se pouze velikostí písmen."
 
 #: src/addon/client.cpp:184
 msgid "Sending add-on <i>$addon_title</i>..."
@@ -5316,16 +5311,12 @@ msgstr ""
 "nebude instalováno."
 
 #: src/addon/client.cpp:264
-#, fuzzy
-#| msgid ""
-#| "The add-on <i>$addon_title</i> has an invalid file or directory name and "
-#| "cannot be installed."
 msgid ""
 "The add-on <i>$addon_title</i> has file or directory names with case "
 "conflicts. This may cause problems."
 msgstr ""
-"Rozšíření <i>$addon_title</i> obsahuje neplatný název souboru nebo složky a "
-"nebude instalováno."
+"Rozšíření <i>$addon_title</i> má názvy souborů nebo adresářů s kolizí malých "
+"a velkých písmen. To může způsobit problémy."
 
 #: src/addon/client.cpp:321
 msgid "The server responded with an error:"
@@ -7050,7 +7041,7 @@ msgstr "Obnoví grafické rozhraní."
 
 #: src/menu_events.cpp:1185
 msgid "Switch a side to/from AI control."
-msgstr "Předá/odejme ovládání strany AI."
+msgstr "Předá/odejme ovládání strany umělé inteligenci."
 
 #. TRANSLATORS: These are the arguments accepted by the "droid" command,
 #. which must be a side-number and then optionally one of "on", "off" or "full".
@@ -7060,6 +7051,8 @@ msgid ""
 "[<side> [on/off]]\n"
 "“on” = enable control by the AI, “off” = side is controlled by the player"
 msgstr ""
+"[<strana> [on/off]]\n"
+"„on“ = zapnout ovládání umělou inteligencí, „off“ = strana je ovládána hráčem"
 
 #: src/menu_events.cpp:1190
 msgid "Switch a side to/from idle state."
@@ -7069,10 +7062,8 @@ msgstr "Označit stranu jako nečinnou."
 #. which must be a side-number and then optionally "on" or "off".
 #. As with the command's name, "on" and "off" are hardcoded, and shouldn't change in the translation.
 #: src/menu_events.cpp:1194
-#, fuzzy
-#| msgid "do not translate the on/off^[<side> [on/off]]"
 msgid "command_idle^[<side> [on/off]]"
-msgstr "[<strana> on/off]"
+msgstr "[<strana> [on/off]]"
 
 #: src/menu_events.cpp:1197
 msgid "<side> <nickname>"
@@ -7534,20 +7525,20 @@ msgstr ""
 "Síťové spojení bylo přerušeno a hra nemůže pokračovat. Chcete ji uložit?"
 
 #: src/playsingle_controller.cpp:349
-#, fuzzy
-#| msgid "Do you really want to surrender the game?"
 msgid ""
 "\n"
 "Do you want to save the game?"
-msgstr "Opravdu se chcete v této hře vzdát?"
+msgstr ""
+"\n"
+"Chcete uložit hru?"
 
 #: src/playsingle_controller.cpp:349
-#, fuzzy
-#| msgid "The game has been saved."
 msgid ""
 "This game has been ended.\n"
 "Reason: "
-msgstr "Hra byla uložena."
+msgstr ""
+"Tato hra byla ukončena.\n"
+"Důvod: "
 
 #: src/playsingle_controller.cpp:440
 msgid "It is now $name|’s turn"
@@ -7883,10 +7874,15 @@ msgid ""
 "cost of upkeep, including that covered by villages — in other words, the "
 "amount of gold that would be deducted if you lost all villages."
 msgstr ""
+"Výdaje na zaopatření tvého vojska vzniklé na konci každého kola. První číslo "
+"je množství zlatých, které bude odečteno. Je stejné, jako počet úrovní "
+"jednotek, které nejsou podporovány vesnicemi. Druhé číslo jsou celkové "
+"náklady na údržbu zahrnující ty, které jsou kryty vesnicemi – jinými slovy "
+"množství zlatých, které bude odečteno, pokud ztratíš všechny vesnice."
 
 #: src/reports.cpp:1344
 msgid "Upkeep"
-msgstr "Výdaje"
+msgstr "Údržba"
 
 #: src/reports.cpp:1381
 msgid "Net Income"
@@ -7897,6 +7893,8 @@ msgid ""
 "The net amount of gold you gain or lose each turn, taking into account "
 "income from controlled villages and payment of upkeep."
 msgstr ""
+"Čisté množství zlatých, které každé kolo získáš nebo ztratíš s ohledem na "
+"příjem z ovládaných vesnic a platbu za údržbu."
 
 #: src/reports.cpp:1549
 msgid "Observers:"
