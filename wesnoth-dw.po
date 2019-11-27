@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-11-17 18:21+0100\n"
+"PO-Revision-Date: 2019-11-27 18:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1663,7 +1663,7 @@ msgstr "Tak kdo si dá svačinku z „plodů moře“?"
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/06_Uncharted_Islands.cfg:186
 msgid "Brace yourselves."
-msgstr "Sám se vychystej."
+msgstr "Sám se přichystej."
 
 # nevím, jestli je ta fráze správně přeložena
 #. [message]: speaker=Kai Krellis
@@ -1697,8 +1697,8 @@ msgid ""
 "friends. They could be your friends too. Spare me, and I’ll give you my "
 "favorite cuttle fish. His name is Inky."
 msgstr ""
-"Jsou to moji přátelé. Byl jsem tu tak sám... a vy jste zabili tolik mých "
-"přátel. Mohli být i vašimi přáteli. Ušetřte mě a poskytnu vám svou oblíbenou "
+"Jsou to moji přátelé. Byl jsem tu tak sám... a vy jste zabili tolik mých "
+"přátel. Mohli být i vašimi přáteli. Ušetřte mě a poskytnu vám svou oblíbenou "
 "sépii. Jmenuje se Inky."
 
 #. [message]: speaker=Kai Krellis
@@ -1804,8 +1804,8 @@ msgid ""
 "She kill drakes. If you are her friend, we will kill you. We do not want "
 "MORE merfolk blasting and stabbing."
 msgstr ""
-"Zabíjí drakonidy. Jestli jsste její přátelé, zabiju váss. Nesstojíme o žádné "
-"DALŠŠÍ sstřílející a píchající rybáky."
+"Zabíjí drakonidy. Jestli jste její přátelé, zabijeme vás. Nestojíme o žádné "
+"DALŠÍ střílející a píchající rybáky."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:148
@@ -1815,17 +1815,17 @@ msgstr "Poplujeme kolem ostrova, ať o nás budeš stát nebo nebudeš."
 #. [message]: speaker=Vlagnor
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:152
 msgid "This is OUR territory and you will not pass."
-msgstr "Tohle je NAŠŠE teritorium a vy tu proplouvat nebudete."
+msgstr "Tohle je NAŠE teritorium a vy tu proplouvat nebudete."
 
 #. [message]: speaker=Vlagnor
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:162
 msgid "You! Drake. Do we kill you too?"
-msgstr "Ty! Drakonide! Máme tě taky ssejmout?"
+msgstr "Ty! Drakonide! Máme tě taky sejmout?"
 
 #. [message]: speaker=Keshan
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:166
 msgid "These are my friends. I will fight with them."
-msgstr "Tohle ssou mí přátelé. Budu zza ně bojovat."
+msgstr "Tohle jsou mí přátelé. Budu za ně bojovat."
 
 #. [message]: speaker=Vlagnor
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:170
@@ -1852,7 +1852,7 @@ msgstr ""
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:37
 #: data/campaigns/Dead_Water/scenarios/11_Getting_Help.cfg:35
 msgid "Tyegëa and Priestesses"
-msgstr "Tyjegea a Kněžky"
+msgstr "Tyjegea a kněžky"
 
 #. [side]: id=Tyegea, type=Mermaid Diviner
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:41
@@ -1919,8 +1919,8 @@ msgid ""
 "And what makes you think I want to leave my comfortable home and risk death "
 "by attacking armies of undead?"
 msgstr ""
-"A co tě vede k doměnce, že budu chtít opustit svůj pohodlný domov a riskovat "
-"smrt při útoku na nemrtvá vojska?"
+"A co tě vede k domněnce, že budu chtít opustit svůj pohodlný domov a "
+"riskovat smrt při útoku na nemrtvá vojska?"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:139
@@ -1939,7 +1939,7 @@ msgstr ""
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:147
 msgid "(Sigh.) I had hoped to avoid this, but it seems I cannot."
-msgstr "(Povzdech) Doufala jsem, že se tomu vyhnu, ale vypadá to, že ne."
+msgstr "(Povzdech.) Doufala jsem, že se tomu vyhnu, ale vypadá to, že ne."
 
 #. [message]: speaker=Tyegea
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:151
@@ -1948,9 +1948,9 @@ msgid ""
 "in the matter. Now Indress and Maudin are dead, and I am not. Tell the boy "
 "the truth."
 msgstr ""
-"Nikdy jsem nesouhlasila s tím, že je nutné s tím dělat tajnosti, ale "
-"respektovala jsem v té záležitosti Maudinovo přání. Nicméně Indress a Maudin "
-"už nežijí, zatímco já ano. Řekni chlapci pravdu."
+"Nikdy jsem nesouhlasila, že je nutné s tím dělat tajnosti, ale respektovala "
+"jsem v té záležitosti Maudinovo přání. Nicméně Indress a Maudin už nežijí, "
+"zatímco já ano. Řekni chlapci pravdu."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:155
@@ -1976,8 +1976,8 @@ msgid ""
 "grandmother Indress agreed to keep it secret and raise the infant as her own."
 msgstr ""
 "Když si tvůj dědeček vzal Indress, nevěděl, že mu již Tyjegea porodila syna. "
-"Když s ním pak přišla Tyjegea do Joty, tvá babička Indress souhlasila s tím, "
-"že to udrží v tajnosti a vychová dítě jako své vlastní."
+"Když s ním pak přišla Tyjegea do Joty, tvá babička Indress souhlasila s tím, "
+"že to udrží v tajnosti a vychová dítě jako své vlastní."
 
 # "Což ze mě ale nedělá špatnou matku." ???
 #. [message]: speaker=Tyegea
@@ -2003,8 +2003,8 @@ msgid ""
 "prove that my blood flows in your veins. Prove that your are, despite "
 "appearances, courageous, and worthy of my help."
 msgstr ""
-"Zbývá si ujasnit jedno. Shledávám jako znepokojující, že by Kai a můj "
-"potomek sem přišel žebrat o pomoc. Než budu souhlasit, že vás zachráním, "
+"Zbývá si ujasnit jedno. Shledávám jako znepokojující, že by Kai – a můj "
+"potomek – sem přišel žebrat o pomoc. Než budu souhlasit, že vás zachráním, "
 "musíš prokázat, že má krev proudí v tvých žilách. Dokaž že jsi, ač se to "
 "nezdá, kurážný a zasloužíš mou pomoc."
 
@@ -2071,8 +2071,8 @@ msgid ""
 "There is only one of them. If you cannot defeat even one lich, you must be "
 "expecting me to get rid of all of your undead myself!"
 msgstr ""
-"Je jenom jeden. Nedokážeš-li porazit jednoho liche, nemůžeš ode mě očekávat, "
-"že tě sama zbavím všech těch tvých nemrtvích!"
+"Je jenom jeden. Nedokážeš-li porazit jednoho licha, nemůžeš ode mě očekávat, "
+"že tě sama zbavím všech těch tvých nemrtvých!"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:207
@@ -2110,7 +2110,7 @@ msgid ""
 "Now, go. Come back with the flaming sword, and my priestesses and I will "
 "help you take back Jotha."
 msgstr ""
-"Teď jdi. Vrať se s plameným mečem a já ti se svými kněžkami pomůžu znovu "
+"Teď jdi. Vrať se s plamenným mečem a já ti se svými kněžkami pomůžu znovu "
 "získat Jotu."
 
 #. [scenario]: id=09_The_Mage
@@ -2129,13 +2129,14 @@ msgid ""
 "sometimes angry at Tyegëa for sending him on this extra journey, and "
 "sometimes grateful that she was willing to help at all."
 msgstr ""
-"Skupina se vrátila zpět ke kontinentu a pokračovala na sever podél pobřeží. "
-"Kai Krellis měl mnoho námětů k přemýšlení. Především, díky tomu, co mu "
-"Tyjegea odhalila o jeho původu se mu v hlavě rojily otázky, na které neměl "
-"odpověd. Pak byl nervózní ohledně úkolu, který ho čekal. Věděl, že se na své "
-"lidi může spolehnout, ale obával se, že bude muset zaplatit mnoha mrtvými a "
-"raněnými pro splnění úkolu. Někdy ho přepadal vztek, že ho Tyjegea poslala "
-"na tuto zvláštní cestu a někdy jí byl vděčný, že mu vůbec chce pomoci."
+"Skupina se vrátila zpět ke kontinentu a pokračovala na sever podél pobřeží. "
+"Kai Krellis měl mnoho námětů k přemýšlení. Především, díky tomu, co mu "
+"Tyjegea odhalila o jeho původu, se mu v hlavě rojily otázky, na které neměl "
+"odpověď. Pak byl nervózní ohledně úkolu, který ho čekal. Věděl, že se na své "
+"lidi může spolehnout, ale obával se, že bude muset pro splnění úkolu "
+"zaplatit mnoha mrtvými a raněnými. Někdy ho přepadal vztek, že ho Tyjegea "
+"poslala na tuto zvláštní cestu a někdy jí byl vděčný, že mu vůbec chce "
+"pomoci."
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:26
@@ -2147,9 +2148,9 @@ msgid ""
 "decided to go ashore and try to find the mage immediately."
 msgstr ""
 "Za několik dní, právě když se pach bažiny stal zřetelným, našli malé ruiny "
-"hradu na místě, odpovídajícím Tyjegeninu popisu. Padala tma a mezi stromy "
-"nebylo skoro vidět, ale Krellis pospíchal, neboť cíl cesty byl nadosah. "
-"Rozhodl, aby pokračovali dál do nitra pevniny a pokusili se najít mága co "
+"hradu na místě, odpovídajícím Tyjegeinu popisu. Padala tma a mezi stromy "
+"nebylo skoro vidět, ale Krellis pospíchal, neboť cíl cesty byl na dosah. "
+"Rozhodl, aby pokračovali dál do nitra pevniny a pokusili se najít mága co "
 "nejdřív."
 
 #. [side]
@@ -2168,7 +2169,7 @@ msgid ""
 "I do not much care for the look of this area. The darkness seems to hang "
 "beneath the trees, unnaturally dense."
 msgstr ""
-"Nestarám se moc o to jak to tu vypadá. Ta tma visí mezi stromy nepřirozeně "
+"Nestarám se moc o to, jak to tu vypadá. Ta tma visí mezi stromy nepřirozeně "
 "hustě."
 
 #. [message]: speaker=Teeloa
@@ -2286,7 +2287,7 @@ msgstr ""
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:459
 msgid "We would be very grateful if you would guide us."
-msgstr "Byli bysme velmi potěšeni, kdybys byl náš průvodce."
+msgstr "Byli bychom velmi potěšeni, kdybys byl náš průvodce."
 
 #. [message]: speaker=Caladon
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:463
