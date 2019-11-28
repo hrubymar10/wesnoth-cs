@@ -8,36 +8,36 @@ Czech translations of The Battle for Wesnoth
 ## Translations Stats
 | Text Domain            | %        |
 | ---------------------- |:--------:|
-| `wesnoth`              | **95%**  |
+| `wesnoth`              | **96%**  |
 | `wesnoth-ai`           | **75%**  |
 | `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
 | `wesnoth-aoi`          | **100%** |
 | `wesnoth-did`          | **100%** |
 | `wesnoth-dm`           | **100%** |
-| `wesnoth-dw`           | **99%**  |
+| `wesnoth-dw`           | **100%** |
 | `wesnoth-editor`       | **100%** |
 | `wesnoth-ei`           | **100%** |
-| `wesnoth-help`         | **94%**  |
-| `wesnoth-httt`         | **98%**  |
+| `wesnoth-help`         | **99%**  |
+| `wesnoth-httt`         | **100%** |
 | `wesnoth-l`            | **100%** |
-| `wesnoth-lib`          | **92%**  |
+| `wesnoth-lib`          | **95%**  |
 | `wesnoth-low`          | **100%** |
 | `wesnoth-manpages`     | **61%**  |
 | `wesnoth-manual`       | **96%**  |
-| `wesnoth-multiplayer`  | **80%**  |
+| `wesnoth-multiplayer`  | **82%**  |
 | `wesnoth-nr`           | **90%**  |
 | `wesnoth-sof`          | **98%**  |
 | `wesnoth-sota`         | **97%**  |
 | `wesnoth-sotbe`        | **100%** |
 | `wesnoth-steam`        | **100%** |
-| `wesnoth-tb`           | **95%**  |
+| `wesnoth-tb`           | **100%** |
 | `wesnoth-test`         | **100%** |
-| `wesnoth-thot`         | **84%**  |
+| `wesnoth-thot`         | **100%** |
 | `wesnoth-trow`         | **99%**  |
 | `wesnoth-tsg`          | **28%**  |
 | `wesnoth-tutorial`     | **64%**  |
-| `wesnoth-units`        | **81%**  |
+| `wesnoth-units`        | **85%**  |
 | `wesnoth-utbs`         | **96%**  |
 | `wesnoth-wov`          | **29%**  |
 
