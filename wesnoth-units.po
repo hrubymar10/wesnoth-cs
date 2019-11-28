@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-11-23 08:57+0100\n"
+"PO-Revision-Date: 2019-11-28 20:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1167,13 +1167,6 @@ msgstr "Planoucí drakonid"
 
 #. [unit_type]: id=Drake Flare, race=drake
 #: data/core/units/drakes/Flare.cfg:17
-#, fuzzy
-#| msgid ""
-#| "Respected for the heat of their flame and revered for their charisma, "
-#| "Flares aspire to become great leaders of their people, both in war and "
-#| "peace. Though a small isolated tribe will sometimes accept a Flare as a "
-#| "leader, they are more often seen leading small war parties or mediating "
-#| "disputes with a subtle hand."
 msgid ""
 "Respected for the heat of their flame and revered for their charisma, Flares "
 "aspire to become great leaders of their people, both in war and in peace. "
@@ -1181,8 +1174,8 @@ msgid ""
 "they are more often seen leading small war parties or mediating disputes "
 "with a subtle hand."
 msgstr ""
-"Planoucí drakonidé se snaží stát vůdci v dobách míru i války. Ostatní "
-"drakonidé k nim chovají velký respekt jak pro žhavost ohně, tak pro "
+"Planoucí drakonidé se snaží stát vůdci v dobách míru i války. Ostatní "
+"drakonidé k nim chovají velký respekt jak pro žhavost ohně, tak pro "
 "charisma. Menší odloučené kmeny někdy přijmou planoucí drakonidy jako "
 "náčelníky, ale častěji vedou do boje menší skupinky či urovnávají rozepře."
 
@@ -2641,17 +2634,6 @@ msgstr "Elfí eskorta"
 
 #. [unit_type]: id=Elvish Outrider, race=elf
 #: data/core/units/elves/Outrider.cfg:20
-#, fuzzy
-#| msgid ""
-#| "Elvish Outriders are trained as the royal couriers of the elven kingdoms. "
-#| "Despite the peaceful nature of their people, their experience makes them "
-#| "quite deadly in combat. No human has ever come close to their skill in "
-#| "using a bow on horseback — in fact, most would be hard pressed to equal "
-#| "it standing on solid ground.\n"
-#| "\n"
-#| "The speed of these soldiers allows the elves to strike when and where "
-#| "they choose when fighting on their home ground, a fact that has saved "
-#| "many of their number from death."
 msgid ""
 "Elvish Outriders are trained as the royal couriers of the elven kingdoms. "
 "Despite the peaceful nature of their people, their experience makes them "
@@ -2665,12 +2647,12 @@ msgid ""
 msgstr ""
 "Členové elfích eskort jsou trénováni jako královští kurýři elfího "
 "království. Navzdory mírumilovné nátuře těchto lidí je jejich zkušenosti "
-"dělají v boji smrtícími. Žádný člověk sem jim ani neblíží v jejich "
-"schopnosti použití luku ze sedla koně - ve skutečnosti by se jim většina "
-"stěží dokázala vyrovnat i na pevné zemi.\n"
+"dělají v boji smrtícími. Jen ti nejlepší z nejlepších překonávají tyto elfy "
+"v jejich dovednosti jízdních lučištníků – ve skutečnosti by se jim většina "
+"stěží dokázala vyrovnat i na pevné zemi.\n"
 "\n"
 "Rychlost těchto vojáků umožňuje elfům při boji ve známém terénu zaútočit "
-"kdykoli a kdekoli si vyberou, tak již zachránili spoustu svých "
+"kdykoli a kdekoli si vyberou, tak již zachránili spoustu svých "
 "spolubojovníků od jisté smrti."
 
 #. [unit_type]: id=Elvish Ranger, race=elf
@@ -3004,19 +2986,6 @@ msgstr "Jezdec na vlku"
 
 #. [unit_type]: id=Wolf Rider, race=wolf
 #: data/core/units/goblins/Wolf_Rider.cfg:30
-#, fuzzy
-#| msgid ""
-#| "No one is quite sure how the practice of taming and riding wolves came "
-#| "into being, but the advantages of it for a goblin are obvious. Goblins "
-#| "are smaller and much weaker than their orcish kin, and are often tasked "
-#| "to the most dangerous and unwanted parts of a fight. Any who can manage "
-#| "to win themselves a mount have a much safer, and daresay, more amusing "
-#| "role in combat.\n"
-#| "\n"
-#| "Wolves, likely, could never support the weight of a man in plate, but a "
-#| "goblin in leather armor is a simple load to bear. Quite unlike horses, "
-#| "these mounts have a rather easy time traversing the mountains, though "
-#| "water and woods will still slow them down."
 msgid ""
 "No one is quite sure how the practice of taming and riding wolves came into "
 "being, but the advantages of it for a goblin are obvious. Goblins are much "
@@ -3029,15 +2998,16 @@ msgid ""
 "horses, these mounts have a rather easy time traversing the mountains, "
 "though water and woods will still slow them down."
 msgstr ""
-"Nikdo si dnes už není jistý, kdy poprvé někdo ochočil a osedlal vlka, ale "
-"důvody jsou zřejmé. Goblini jsou menší a o mnoho slabší než skřeti, kteří "
-"jim přenechávají nejnevděčnější části bitvy. Kdokoli z nich, kdo si dokáže "
-"přivlastnit vlka, má mnohem bezpečnější a troufáme si tvrdit, i zábavnější "
-"roli v bitvě.\n"
+"Nikdo si dnes už není jistý, kdy poprvé někdo ochočil a osedlal vlka, ale "
+"výhody jsou zřejmé. Goblini jsou mnohem menší a slabší než jejich skřetí "
+"příbuzní a bývají často posíláni do nejnebezpečnějších a nejnepříjemnějších "
+"částí boje. Kterýkoli z nich, kdo zvládne zkrotit vlka, má pak v bitce "
+"mnohem bezpečnější úlohu.\n"
 "\n"
-"Vlci pochopitelně nemohou unést váhu muže v plátovém brnění, ale s goblinem "
-"v koženém brnění nemají žádný problém. Oproti koním vlčí spřežení nemají "
-"problémy s cestováním přes hory, ale voda a lesy je stále zpomalí."
+"Ačkoli jen málo vlků může snést na svém hřbětě váhu skutečného skřeta, "
+"goblin je zcela v mezích schopností mnoha vlků, co se rychlé přepravy týče. "
+"Oproti koním nemají vlci problémy s cestováním přes hory, ale voda a lesy je "
+"stále zpomalí."
 
 #. [unit_type]: id=Gryphon, race=gryphon
 #: data/core/units/gryphons/Gryphon.cfg:4
@@ -4986,10 +4956,8 @@ msgstr "klepeta"
 
 #. [unit_type]: id=Giant Scorpling, race=monster
 #: data/core/units/monsters/Giant_Scorpling.cfg:4
-#, fuzzy
-#| msgid "Giant Scorpion"
 msgid "Giant Scorpling"
-msgstr "Obří škorpion"
+msgstr "Obří škorpioně"
 
 #. [unit_type]: id=Giant Scorpling, race=monster
 #: data/core/units/monsters/Giant_Scorpling.cfg:18
@@ -5401,10 +5369,8 @@ msgstr ""
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
 #: data/core/units/orcs/Nightblade.cfg:4
-#, fuzzy
-#| msgid "Orcish Leader"
 msgid "Orcish Nightblade"
-msgstr "Skřetí vůdce"
+msgstr "Skřetí šerobřit"
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
 #: data/core/units/orcs/Nightblade.cfg:27
@@ -5419,15 +5385,13 @@ msgstr ""
 
 #. [attack]: type=blade
 #: data/core/units/orcs/Nightblade.cfg:31
-#, fuzzy
-#| msgid "war blade"
 msgid "blade"
-msgstr "válečná čepel"
+msgstr "čepel"
 
 #. [attack]: type=impact
 #: data/core/units/orcs/Nightblade.cfg:40
 msgid "kick"
-msgstr "vyhodit"
+msgstr "kop"
 
 #. [unit_type]: id=Orcish Ruler, race=orc
 #: data/core/units/orcs/Ruler.cfg:4
