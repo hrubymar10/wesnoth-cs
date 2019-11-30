@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-11-26 17:52+0100\n"
+"PO-Revision-Date: 2019-11-30 19:14+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -7701,7 +7701,7 @@ msgstr "Obrana: "
 
 #: src/reports.cpp:620 src/reports.cpp:621
 msgid "vision:"
-msgstr "vidění:"
+msgstr "rozhled:"
 
 #: src/reports.cpp:625 src/reports.cpp:626
 msgid "jamming:"
@@ -8253,13 +8253,11 @@ msgstr[2] "$number poškození"
 
 #. TRANSLATORS: Current value for WML code increase_attacks, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:374
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> strike"
 msgid_plural "<span color=\"$color\">$number_or_percent</span> strikes"
-msgstr[0] "útok za kolo"
-msgstr[1] "útok za kolo"
-msgstr[2] "útok za kolo"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span> úder"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span> údery"
+msgstr[2] "<span color=\"$color\">$number_or_percent</span> úderů"
 
 #. TRANSLATORS: Current value for WML code set_attacks, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:383
@@ -8276,10 +8274,8 @@ msgstr "$number| přesnost"
 
 #. TRANSLATORS: Current value for WML code increase_accuracy, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:399
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent|%</span> accuracy"
-msgstr "útok za kolo"
+msgstr "<span color=\"$color\">$number_or_percent|%</span> přesnost"
 
 #. TRANSLATORS: Current value for WML code set_parry, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:406
@@ -8288,10 +8284,8 @@ msgstr "$number vykrývání"
 
 #. TRANSLATORS: Current value for WML code increase_parry, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:413
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> parry"
-msgstr "útok za kolo"
+msgstr "<span color=\"$color\">$number_or_percent</span> vykrývání"
 
 #. TRANSLATORS: Current value for WML code set_movement_used, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:420
@@ -8303,13 +8297,11 @@ msgstr[2] "$number bodů pohybu"
 
 #. TRANSLATORS: Current value for WML code increase_movement_used, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:429
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> movement point"
 msgid_plural "<span color=\"$color\">$number_or_percent</span> movement points"
-msgstr[0] "útok za kolo"
-msgstr[1] "útok za kolo"
-msgstr[2] "útok za kolo"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span> bod pohybu"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span> body pohybu"
+msgstr[2] "<span color=\"$color\">$number_or_percent</span> bodů pohybu"
 
 #: src/units/types.cpp:545 src/units/types.hpp:181
 msgid "chaotic"
@@ -8359,16 +8351,12 @@ msgstr[1] "<span color=\"$color\">$number_or_percent</span> kroky"
 msgstr[2] "<span color=\"$color\">$number_or_percent</span> kroků"
 
 #: src/units/unit.cpp:1797
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> vision"
-msgstr "útok za kolo"
+msgstr "<span color=\"$color\">$number_or_percent</span> rozhled"
 
 #: src/units/unit.cpp:1801
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> jamming"
-msgstr "útok za kolo"
+msgstr "<span color=\"$color\">$number_or_percent</span> rušení"
 
 #: src/units/unit.cpp:1806
 msgid "<span color=\"$color\">$number_or_percent</span> XP to advance"
@@ -8376,20 +8364,16 @@ msgstr ""
 "<span color=\"$color\">$number_or_percent</span> bodů zkušenosti k postupu"
 
 #: src/units/unit.cpp:1810
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> attack per turn"
 msgid_plural ""
 "<span color=\"$color\">$number_or_percent</span> attacks per turn"
-msgstr[0] "útok za kolo"
-msgstr[1] "útok za kolo"
-msgstr[2] "útok za kolo"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span> útok za kolo"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span> útoky za kolo"
+msgstr[2] "<span color=\"$color\">$number_or_percent</span> útoků za kolo"
 
 #: src/units/unit.cpp:1817
-#, fuzzy
-#| msgid "attack per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> cost to recall"
-msgstr "útok za kolo"
+msgstr "<span color=\"$color\">$number_or_percent</span> cena za přivolání"
 
 #: src/units/unit.cpp:2205
 msgid "$effect_description per level"
