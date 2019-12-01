@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-11-27 18:48+0100\n"
+"PO-Revision-Date: 2019-12-01 07:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2368,14 +2368,15 @@ msgstr "Cylanna zemře"
 msgid "Death of Caladon"
 msgstr "Kaladon zemře"
 
+# spy_unit u mne byla Motea, takže vypouštím slyšel jsem
 #. [message]: speaker=$spy_unit.id
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:268
 msgid ""
 "(whisper) Kai, I heard Caladon muttering about the sword. I think he may try "
 "to take it for himself."
 msgstr ""
-"(šeptem) Kai, slyšel jsem, co si Kaladon mumlal o meči. Myslím, že se ho "
-"pokusí získat pro sebe."
+"(šeptem) Kai, Kaladon mumlal něco o meči. Myslím, že se ho pokusí získat pro "
+"sebe."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:272
@@ -2383,7 +2384,7 @@ msgid ""
 "Thank you, $spy_unit.name|. I will keep that in mind, but it may be hard for "
 "us to stop him with that teleporting trick he has."
 msgstr ""
-"Děkuji ti. Budu na to myslet. Bude ale pro nás těžké ho zastavit, s těmi "
+"Děkuji ti. Budu na to myslet, ale může být pro nás těžké ho zastavit, s těmi "
 "jeho teleportačními triky."
 
 #. [message]: speaker=Caladon
@@ -2439,8 +2440,8 @@ msgid ""
 "A voice came back like wind moaning through dry leaves. Though it was only "
 "whispered, all heard it better than they wanted."
 msgstr ""
-"Odpověděl jim hlas znějící jako vítr co úpí v suchých listech stromů. Ačkoli "
-"to byl pouze šepot, všichni ho slyšeli zřetelněji než jim to bylo milé."
+"Odpověděl jim hlas znějící jako vítr, co úpí v suchých listech stromů. "
+"Ačkoli to byl pouze šepot, všichni ho slyšeli zřetelněji, než jim bylo milé."
 
 #. [message]: speaker=Mal-Govon
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:308
@@ -2450,9 +2451,9 @@ msgid ""
 "dirty work. When they lay expiring like gasping fish on the shore, will you "
 "not flee again? Do not speak to <i>me</i> of fear."
 msgstr ""
-"To co si pamatuji starý blázne, je to, jak jsi zdrhal, zatímco za tebou "
+"To, co si pamatuji, ty starý blázne, je to, jak jsi zdrhal, zatímco za tebou "
 "doutnala těla skřetů, které sis najal na krádež mého meče. Teď sis přivedl "
-"mořské lidi aby udělali tvou špinavou práci. Až se budou v posledních "
+"mořské lidi, aby udělali tvou špinavou práci. Až se budou v posledních "
 "křečích plácat jako ryba na suchu, nezdrhneš snad zase? Ty <i>mně</i> o "
 "strachu nevykládej."
 
@@ -2501,8 +2502,8 @@ msgid ""
 "I am Kai Krellis of Jotha. I am attempting to defeat Mal-Govon and take his "
 "sword. Will you to join us in battle against a common enemy?"
 msgstr ""
-"Jsem Kai Krellis z Joty. Pokouším se porazit Mal-Govona a získat jeho meč. "
-"Přidáte se k nám v bitvě proti tomuto společnému nepříteli?"
+"Jsem Kai Krellis z Joty. Pokouším se porazit Mal-Govona a získat jeho meč. "
+"Přidáte se k nám v bitvě proti tomuto společnému nepříteli?"
 
 #. [message]: speaker=Howyrth
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:375
@@ -2523,8 +2524,8 @@ msgid ""
 "You can now recruit human villagers, but you will not be able to recall them "
 "in future scenarios."
 msgstr ""
-"V této chvíli můžeš verbovat obyvatele lidských vesnic. Nebudeš je ale moci "
-"přivolat v budoucích scénářích."
+"V této chvíli můžeš verbovat obyvatele lidských vesnic. Nebudeš je ale moci "
+"přivolat v budoucích scénářích."
 
 #. [message]: speaker=Siddry
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:428
@@ -2553,10 +2554,10 @@ msgid ""
 "join you in your fight, Kai Krellis. We are yours to command, and we refuse "
 "to be paid."
 msgstr ""
-"Howyrthe, Kai Krellis patří k těm, co mě vysvobodili z otroctví. Slíbil jsem "
-"mu, že se mu odvděčím, jestli budu moct. Teď mám šanci. Připojím se se svými "
-"přáteli k tobě a pomůžeme ti v tvém boji, Kai Krellisi. Nasloucháme tvým "
-"dalším rozkazům a nechceme za to žádný žold."
+"Howyrthe, Kai Krellis je ten, kdo mě vysvobodil z otroctví. Slíbil jsem, že "
+"se mu odvděčím, jestli budu moct. Teď mám šanci. Připojím se se svými "
+"přáteli k tobě a pomůžeme ti v tvém boji, Kai Krellisi. Nasloucháme tvým "
+"dalším rozkazům a nechceme za to žádný žold."
 
 #. [message]: speaker=Dorcyn
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:501
