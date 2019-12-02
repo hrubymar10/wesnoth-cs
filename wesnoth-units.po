@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-11-29 18:23+0100\n"
+"PO-Revision-Date: 2019-12-02 19:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1470,7 +1470,7 @@ msgstr ""
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/dunefolk/Elder_Falcon.cfg:4
 msgid "Elder Falcon"
-msgstr "Starý Sokol"
+msgstr "Starý sokol"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/dunefolk/Elder_Falcon.cfg:18
@@ -1526,7 +1526,7 @@ msgstr ""
 #: data/core/units/dunefolk/Swiftrider.cfg:30
 #: data/core/units/dunefolk/Windrider.cfg:31
 msgid "composite bow"
-msgstr "složený luk"
+msgstr "skládaný luk"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/dunefolk/Falcon.cfg:4
@@ -3645,11 +3645,6 @@ msgstr "Seržant"
 
 #. [unit_type]: id=Sergeant, race=human
 #: data/core/units/humans/Loyalist_Sergeant.cfg:18
-#, fuzzy
-#| msgid ""
-#| "The Sergeant is a low-ranking officer in the ranks of an army. Though "
-#| "academically trained, he will need some experience in the field before "
-#| "his leadership is sound and acknowledged."
 msgid ""
 "Sergeants are low-ranking officers of human armies. Though academically "
 "trained, they need some experience in the field before their leadership is "
@@ -3657,9 +3652,11 @@ msgid ""
 "combat means they can more effectively rouse civilians and peasants in "
 "trying situations."
 msgstr ""
-"Seržant je nižším důstojníkem v řadách královské armády. Ačkoli obdržel "
-"teoretické vzdělání, k tomu, aby mohl uvést do praxe svoji schopnost velet, "
-"bude nejdříve potřebovat získat nějaké bojové zkušenosti."
+"Seržanti jsou nižšími důstojníky lidských armád. Ačkoli obdrželi teoretické "
+"vzdělání, k tomu, aby mohli uvést do praxe svoji schopnost velet, potřebují "
+"nejdříve získat nějaké bojové zkušenosti. Přesto však jejich svědomité "
+"vystupování a základní pochopení boje znamenají, že mohou v těžkých "
+"situacích účinněji zburcovat civilisty a sedláky."
 
 #. [unit_type]: id=Shock Trooper, race=human
 #: data/core/units/humans/Loyalist_Shock_Trooper.cfg:4
@@ -4303,12 +4300,6 @@ msgstr "Sedlák"
 
 #. [unit_type]: id=Peasant, race=human
 #: data/core/units/humans/Peasant.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Peasants are the backbone of the rural economy, and the soldiers of last "
-#| "resort. While not warlike by nature, they will stubbornly defend their "
-#| "homes. However, if you’re hurling peasants at your foes, you’re clearly "
-#| "out of superior forces."
 msgid ""
 "Peasants are the backbone of the rural economy, and the soldiers of last "
 "resort. While not warlike by nature, they will stubbornly defend their "
@@ -4316,9 +4307,11 @@ msgid ""
 "line, though; their reliance on farming tools as weaponry means they are "
 "only on the field of battle under the most desperate situations."
 msgstr ""
-"Sedláci jsou páteří venkovské ekonomiky a vojáci z nouze. I když nejsou "
-"zrovna hrůzostrašní, budou tvrdošíjně bránit své domovy. Je jasné, že "
-"sedláci přicházejí v boji na řadu, až když už nemáme žádné jiné jednotky."
+"Sedláci jsou páteří venkovské ekonomiky a vojáci z nouze. I když nejsou "
+"zrovna hrůzostrašní, budou tvrdošíjně bránit své domovy, třebaže nedostatek "
+"výcviku a kázně je činí nezpůsobilými pro udržení fronty. Při výběru zbraní "
+"se spoléhají na své zemědělské nářadí, a to znamená, že na bitevním poli se "
+"ocitají pouze v těch nejzoufalejších situacích."
 
 #. [attack]: type=pierce
 #: data/core/units/humans/Peasant.cfg:23 data/core/units/humans/Peasant.cfg:32
@@ -6396,16 +6389,6 @@ msgstr "Prastarý stromový muž"
 
 #. [unit_type]: id=Ancient Wose, race=wose
 #: data/core/units/wose/Ancient.cfg:17
-#, fuzzy
-#| msgid ""
-#| "There is a curious story of a farmer who had a great oak in his lawn, a "
-#| "tree which had stood when his father first broke the soil on that land, "
-#| "and under which his family had many memories. It was thus a shock to him, "
-#| "one morning, when he awoke to find it somehow spirited away, with nothing "
-#| "but a bare patch of earth where it once stood.\n"
-#| "\n"
-#| "Such encounters are all that is known of what are presumably the most "
-#| "ancient of woses."
 msgid ""
 "There is a curious story of a farmer who had a great oak in his lawn, a tree "
 "which had stood when his father first broke the soil on that land, and under "
@@ -6417,11 +6400,12 @@ msgid ""
 "ancient of woses."
 msgstr ""
 "Je znám velice zajímavý příběh farmáře, který měl na své louce obrovský dub. "
-"Tento strom tu stál, už když jeho otec oral půdu této země a jeho rodina pod "
+"Tento strom tu stál, už když jeho otec oral půdu této země a jeho rodina pod "
 "ním často sedávala. Takže to pro něho byl šok, když se jednoho rána probudil "
-"a zjistil, že strom doslova zmizel, nezbylo po něm nic víc než trocha hlíny "
-"na místě, kde stával.\n"
-"Toto a jiná podobná setkání jsou vším, co je nám známo o Prastarých "
+"a zjistil, že na místě, kde strom stával, po něm nezbylo nic víc než trocha "
+"hlíny, jako kdyby v pozdních nočních hodinách ožil a zmizel.\n"
+"\n"
+"Toto a jiná podobná setkání jsou vším, co je nám známo o prastarých "
 "stromových mužích."
 
 #. [unit_type]: id=Elder Wose, race=wose
