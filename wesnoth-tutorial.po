@@ -12,21 +12,22 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-02-15 21:40+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2019-12-04 22:18+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. [lua]: wml_actions.select_character
 #: data/campaigns/tutorial/lua/character_selection.lua:25
@@ -36,7 +37,7 @@ msgstr "Vyber si postavu"
 #. [lua]: wml_actions.select_character
 #: data/campaigns/tutorial/lua/character_selection.lua:36
 msgid "Who do you want to play?"
-msgstr "Za koho bys chtěl hrát?"
+msgstr "Za koho chceš hrát?"
 
 #. [side]: type=Fighter, id=student
 #. [lua]: wml_actions.select_character
@@ -60,7 +61,7 @@ msgstr "Lisar"
 #. If you have any questions, ask in the forums or in the #wesnoth-dev channel on the Freenode IRC network.
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:8
 msgid "Wesnoth Tutorial — Part I"
-msgstr "Tutoriál Bitvy o Wesnoth — kapitola I"
+msgstr "Tutoriál Bitvy o Wesnoth — část I"
 
 #. [side]: type=Fighter, id=student
 #. [side]
@@ -115,9 +116,9 @@ msgid ""
 "Part 1 will teach you the basics about movement, attacking, healing, and "
 "recruiting. Firstly, you’ll choose a hero (both heroes play the same)."
 msgstr ""
-"Jedná se o dvoudílný tutoriál určený pro lidi, kteří jsou ve hře noví. Část "
-"1 tě naučí základy pohybu, útočení, uzdravení a verbování. Nejprve si "
-"vyberete hrdinu (oba hrdinové hrají stejně)."
+"Jedná se o dvoudílný tutoriál určený pro lidi, kteří jsou ve hře noví. "
+"Část 1 tě naučí základy pohybu, útočení, uzdravení a verbování. Nejprve si "
+"vybereš hrdinu (oba hrdinové hrají stejně)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:158
@@ -127,9 +128,9 @@ msgid ""
 "mouse over a unit to see a summary of its abilities and stats on the right "
 "of the screen."
 msgstr ""
-"V tomto tutoriálu hraješ za Konráda. Stojíš v tvrzi. Tvůj mentor Delfador je "
-"na východní straně řeky. Můžeš přesunout myš na jednotku, aby jsi v pravé "
-"části obrazovky zjistil, jaké má vlastnosti a schopnosti."
+"V tomto tutoriálu hraješ za Konráda. Stojíš v tvrzi. Tvůj mentor Delfador je "
+"na východní straně řeky. Můžeš přesunout myš na jednotku a v pravé části "
+"obrazovky zjistíš, jaké má vlastnosti a schopnosti."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:166
@@ -140,8 +141,8 @@ msgid ""
 "of the screen."
 msgstr ""
 "V tomto tutoriálu hraješ za Lisar. Stojíš v tvrzi. Tvůj mentor Delfador je "
-"na východní straně řeky. Můžeš přesunout myš na jednotku, aby jsi v pravé "
-"části obrazovky zjistil, jaké má vlastnosti a schopnosti."
+"na východní straně řeky. Můžeš přesunout myš na jednotku a v pravé části "
+"obrazovky zjistíš, jaké má vlastnosti a schopnosti."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:172
@@ -157,12 +158,14 @@ msgstr "Klikni na Lisar"
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:316
 msgid "To undo your last move, press <b>u</b> or use the right-click menu."
 msgstr ""
+"Stiskni <b>u</b> nebo použij menu pod pravým tlačítkem pro vrácení tvého "
+"posledního tahu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:357
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:365
 msgid "Movement"
-msgstr "Pohyby"
+msgstr "Pohyb"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:359
@@ -174,6 +177,13 @@ msgid ""
 "simply click on Konrad and then your destination. (You can press <b>u</b> to "
 "undo a move if you move to the wrong place.)"
 msgstr ""
+"Když vybereš jednotku, v tomto případě Konráda, nebo nad ní přejedeš myší, "
+"zvýrazní se místa, kam se může přesunout. Všechny jednotky mají určitý počet "
+"<i>bodů pohybu</i>, který určuje, o kolik políček se daná jednotka může za "
+"kolo posunout. Posun o jedno políčko po rovném terénu obvykle stojí jeden "
+"pohybový bod. Pro přesun stačí jednoduše kliknout na Konráda a pak na místo "
+"určení. (Jestliže se přesuneš na nesprávné místo, můžeš stisknout <b>u</b> "
+"pro vrácení tahu.)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:367
@@ -185,6 +195,13 @@ msgid ""
 "simply click on Li’sar and then your destination. (You can press <b>u</b> to "
 "undo a move if you move to the wrong place.)"
 msgstr ""
+"Když vybereš jednotku, v tomto případě Lisar, nebo nad ní přejedeš myší, "
+"zvýrazní se místa, kam se může přesunout. Všechny jednotky mají určitý počet "
+"<i>bodů pohybu</i>, který určuje, o kolik políček se daná jednotka může za "
+"kolo posunout. Posun o jedno políčko po rovném terénu obvykle stojí jeden "
+"pohybový bod. Pro přesun stačí jednoduše kliknout na Lisar a pak na místo "
+"určení. (Jestliže se přesuneš na nesprávné místo, můžeš stisknout <b>u</b> "
+"pro vrácení tahu.)"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:378
@@ -214,12 +231,12 @@ msgstr "No, tedy..."
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:408
 msgid "Have you found an orc for me to fight, huh? A troll?"
-msgstr "Máš pro mě nějakého skřeta na zaválčení si, ha? Trolla?"
+msgstr "Máš pro mě nějakého skřeta, abych si zaválčil, ha? Trolla?"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:409
 msgid "female^Have you found an orc for me to fight, huh? A troll?"
-msgstr "Máš pro mě nějakého skřeta na zaválčení si, ha? Trolla?"
+msgstr "Máš pro mě nějakého skřeta, abych si zaválčila, ha? Trolla?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:414
@@ -247,7 +264,7 @@ msgid ""
 "Young man, you have $student_hp hitpoints and a sword. I’m fairly sure "
 "you’ll win."
 msgstr ""
-"Mladá muži, máš $student_hp životů a meč. Jsem si docela jistý, že zvítězíš."
+"Mladý muži, máš $student_hp životů a meč. Jsem si docela jistý, že zvítězíš."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:503
@@ -265,33 +282,23 @@ msgstr "Útočení"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:512
-#, fuzzy
-#| msgid ""
-#| "To attack the quintain, first select the attacker (Konrad) then the "
-#| "target (the quintain). You will see an attack description. When you click "
-#| "<b>OK</b>, Konrad will attack."
 msgid ""
 "To attack the quintain, first select the attacker (Konrad), then the target "
 "(the quintain). You will see an attack description. Click <b>Attack</b> when "
 "you’re ready."
 msgstr ""
 "Pro útok na panáka nejprve vyber útočníka (Konrád) a pak cíl (panák). Uvidíš "
-"podrobný přehled útoku. Když stiskneš <b>OK</b>, Konrád zaútočí."
+"podrobný přehled útoku. Až se připravíš, klikni na <b>Zaútočit</b>."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:519
-#, fuzzy
-#| msgid ""
-#| "To attack the quintain, first select the attacker (Li’sar) then the "
-#| "target (the quintain). You will see an attack description. When you click "
-#| "<b>OK</b>, Li’sar will attack."
 msgid ""
 "To attack the quintain, first select the attacker (Li’sar), then the target "
 "(the quintain). You will see an attack description. Click <b>Attack</b> when "
 "you’re ready."
 msgstr ""
 "Pro útok na panáka nejprve vyber útočníka (Lisar) a pak cíl (panák). Uvidíš "
-"podrobný přehled útoku. Když stiskneš <b>OK</b>, Lisar zaútočí."
+"podrobný přehled útoku. Až se připravíš, klikni na <b>Zaútočit</b>."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:534
@@ -335,7 +342,7 @@ msgid ""
 msgstr ""
 "Malá zlatá koruna nad tvým vůdcem (Konrád) naznačuje, že je vůdcem tvé "
 "strany. Ve většině scénářů prohraješ, když bude tvůj vůdce zabit. Zajisti, "
-"aby byl v bezpečí!"
+"aby byl v bezpečí!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:565
@@ -346,7 +353,7 @@ msgid ""
 msgstr ""
 "Malá zlatá koruna nad tvým vůdcem (Lisar) naznačuje, že je vůdcem tvé "
 "strany. Ve většině scénářů prohraješ, když bude tvůj vůdce zabit. Zajisti, "
-"aby byl v bezpečí!"
+"aby byla v bezpečí!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:592
@@ -363,22 +370,14 @@ msgstr "Tenhle <i>panák</i> bude mít tah?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:602
-#, fuzzy
-#| msgid ""
-#| "Yes. It’s a magical quintain.\n"
-#| "Now, this quintain gets 5 chances to hit you for 3 damage each. If it "
-#| "hits every time, you’ll drop from $student_hp to $future_hp hit points. "
-#| "Brace yourself!"
 msgid ""
 "Yes. It’s a magical quintain! If it hits you, it does 3 damage, and has 5 "
 "chances. If it hits every time, you’ll drop from $student_hp to "
 "$($student_hp-15) hitpoints. Brace yourself!"
 msgstr ""
-"Ano - je to kouzelný panák.\n"
-"A nyní se tě při útoku pokusí pětkrát zasáhnout, přičemž ti při zásahu ubere "
-"tři životy.\n"
-"Pokud tě pokaždé zasáhne, zbude ti jen $future_hp ze současných $student_hp "
-"životů. Drž se!"
+"Ano. Je to kouzelný panák! Když tě zasáhne, ubere 3 body života a má 5 "
+"pokusů. Pokud tě zasáhne pokaždé, zbude ti jen $($student_hp-15) ze "
+"současných $student_hp bodů života. Drž se!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:609
@@ -396,6 +395,13 @@ msgid ""
 "turn it is, and any applicable turn limit, next to the flag icon at the top "
 "of the screen."
 msgstr ""
+"Každé kolo dostane každá jednotlivá strana možnost učinit svůj tah. Jakmile "
+"dokončíš vše, co si přeješ v tomto kole udělat, klikni na tlačítko "
+"<b>Ukončit kolo</b> v pravém dolním rohu obrazovky. Pak udělají své tahy "
+"ostatní týmy, ať už ovládané UI nebo jinými lidskými hráči. Některé scénáře "
+"musí být dokončeny do určitého počtu kol. Vedle obrázku vlajky na vrchu "
+"obrazovky můžeš vidět, kolikáté je to kolo a jakékoli uplatněné omezení "
+"počtu kol."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:614
@@ -408,24 +414,20 @@ msgstr "Ukonči své kolo"
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:633
 msgid "Ouch! I need to heal! Only $student_hp hitpoints left!"
-msgstr "Au! Musím se vyléčit! Zbývá mi jen $student_hp životů!"
+msgstr "Au! Musím se vyléčit! Zbývá mi jen $student_hp bodů života!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:634
 msgid "female^Ouch! I need to heal! Only $student_hp hitpoints left!"
-msgstr "Au! Musím se vyléčit! Zbývá mi jen $student_hp životů!"
+msgstr "Au! Musím se vyléčit! Zbývá mi jen $student_hp bodů života!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:639
-#, fuzzy
-#| msgid ""
-#| "There is a village on the other side of the river. Visiting villages is a "
-#| "good idea, and ending your turn in one will heal you. To the village!"
 msgid ""
 "There are two villages within your reach. Visiting villages is a good idea, "
 "and ending your turn on one will heal you. To a village!"
 msgstr ""
-"Na druhé straně řeky je vesnice. Navštěvovat vesnice je dobrý nápad, a pokud "
+"Máš na dosah dvě vesnice. Navštěvovat vesnice je dobrý nápad, a pokud "
 "ukončíš svůj tah ve vesnici, na začátku příštího se uzdravíš. Tedy vzhůru do "
 "vesnice!"
 
@@ -925,7 +927,7 @@ msgstr ""
 #. [tutorial]: id=2_Tutorial
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:5
 msgid "Wesnoth Tutorial — Part II"
-msgstr "Tutoriál Bitvy o Wesnoth — kapitola II"
+msgstr "Tutoriál Bitvy o Wesnoth — část II"
 
 #. [side]: type=Orcish Warrior, id=Thrag
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:43
@@ -2073,8 +2075,8 @@ msgid ""
 "attack from enemies. However, they have the potential to become great "
 "warriors one day."
 msgstr ""
-"Mladí a neomalení, Bojovníci používají k boji meč, vůči útokům nepřátelských "
-"jednotek jsou zranitelní. Dřímá v nich však potenciál stát se jednoho dne "
+"Bojovníci, mladí a neomalení, to umí s meči a vůči útokům nepřátelských "
+"jednotek jsou zranitelní. Dřímá v nich však potenciál stát se jednoho dne "
 "velkými válečníky."
 
 #. [unit_type]: id=Fighteress, race=human
