@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:13 UTC\n"
-"PO-Revision-Date: 2019-12-01 07:32+0100\n"
+"PO-Revision-Date: 2019-12-05 21:34+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2570,7 +2570,7 @@ msgid ""
 "The merfolk clapped their hands over their ears as a terrible wail echoed "
 "off the castle walls."
 msgstr ""
-"Mořští lidé si zacpávali rukama uši, když se hrozný skřek nesl ozvěnou "
+"Mořští lidé si rukama zacpávali uši, když se hrozný skřek nesl ozvěnou "
 "hradních zdí."
 
 #. [message]: speaker=Kai Krellis
@@ -2597,7 +2597,7 @@ msgstr ""
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:718
 msgid "What? We won that sword!"
-msgstr "Cože? My jsem ten meč vyhráli!"
+msgstr "Cože? My jsme ten meč vyhráli!"
 
 #. [message]: speaker=Caladon
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:723
@@ -2606,7 +2606,7 @@ msgid ""
 "so leave my realm. Go on. I will grant you some time. The benevolence of "
 "Caladon will be LEGENDARY! Heh heh, HA!"
 msgstr ""
-"No je pravda, že jste mi pomohli a proto vás nezabiju. Ale nevěřím vám, "
+"No, je pravda, že jste mi pomohli, a proto vás nezabiju. Ale nevěřím vám, "
 "takže opustťe mou říši. Jděte. Poskytnu vám na to nějaký čas. Benevolence "
 "Kaladona SE STANE legendou! HA ha, HA !"
 
@@ -2661,7 +2661,7 @@ msgstr "Tohle není jídlo. A také to rozhodně není hračka. Nechte to být."
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:990
 msgid "This sword is 8×4, magical, with <i>fire</i> damage."
-msgstr "Tento meč má <i>ohnivý</i> magický útok 8x4"
+msgstr "Tento meč má <i>ohnivý</i> magický útok 8x4."
 
 #. [option]
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:997
@@ -2689,8 +2689,8 @@ msgid ""
 "We thank all you humans for your help, and release you from any farther "
 "obligations. Where we are going, you cannot easily follow."
 msgstr ""
-"Děkujeme vám všem lidem za pomoc a propouštíme vás s tím, že nám již nejste "
-"ničím zavázáni. Tam kam jdeme, nás těžko můžete následovat."
+"Děkujeme vám všem lidem za pomoc a propouštíme vás s tím, že nám již nejste "
+"ničím zavázáni. Tam, kam jdeme, nás těžko můžete následovat."
 
 #. [message]: speaker=Caladon
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1149
@@ -2719,7 +2719,7 @@ msgid ""
 "straight for Tyegëa’s island to show her the flaming sword."
 msgstr ""
 "Kai Krellis a jeho lid si to již bez obav namířili přes otevřené moře přímou "
-"cestou k Tyjegeinu ostrovu, aby ji ukázali plamenný meč."
+"cestou k Tyjegeinu ostrovu, aby jí ukázali plamenný meč."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/11_Getting_Help.cfg:100
@@ -2747,10 +2747,9 @@ msgid ""
 "travel with you to your home and help you rid it of restless spirits. My "
 "priestesses will come as well, and will be at your disposal."
 msgstr ""
-"Nevadí. Byl to blázen.\n"
-"Nyní, když jsi můj vnuku splnil, oč jsem žádala, půjdu s tebou do tvého "
-"domova a pomůžu ti zbavit se těch nemrtvých duší. Moje kněžky půjdou také a "
-"budou ti k dispozici."
+"Nevadí. Byl to blázen. Nyní, můj vnuku, když jsi splnil, oč jsem žádala, "
+"půjdu s tebou do tvého domova a pomůžu ti zbavit se těch nemrtvých duší. "
+"Moje kněžky půjdou také a budou ti k dispozici."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/11_Getting_Help.cfg:148
@@ -2783,10 +2782,10 @@ msgid ""
 "whole contingent of them. Tyegëa was even more powerful, though as "
 "unpredictable as Cylanna had said."
 msgstr ""
-"Mise byla těžší než Kai Krellis na počátku předpokládal. Přesto byl konečně "
-"cíl v dohledu. Viděl, jak mohou kněžky kosit masy nemrtvých tak hladce jako "
-"když nůž projde máslem. A to jich teď měl celou jednotku. Tyjegea byla ještě "
-"mnohem silnější, a i v tom se splnila její nepředvídatelnost, na kterou "
+"Mise byla těžší, než Kai Krellis na počátku předpokládal. Přesto byl konečně "
+"cíl v dohledu. Viděl, jak mohou kněžky kosit masy nemrtvých tak hladce, jako "
+"když nůž projde máslem. A to jich teď měl celou skupinu. Tyjegea byla ještě "
+"mnohem silnější a i v tom se splnila její nepředvídatelnost, na kterou "
 "Cylanna už zpočátku upozorňovala."
 
 #. [part]
@@ -2799,9 +2798,9 @@ msgid ""
 "headed south along the coast to some outlying villages to gather news of the "
 "invaders."
 msgstr ""
-"Lid který utekl z Joty jako nebojeschopný se vrátil jako armáda vyztužená "
+"Lid, který utekl z Joty jako nebojeschopný, se vrátil jako armáda vyztužená "
 "zkušenými bojovníky a vedený králem válečníkem. Ač byli již unaveni "
-"cestováním, slabost z nich padala jak se blížili k domovu. Mořští lidé "
+"cestováním, jak se blížili k domovu, slabost z nich spadla. Mořští lidé "
 "dorazili během noci. Zjistili, že ústí zátoky je hlídáno, takže zamířili "
 "jižně podél pobřeží do tamních odlehlých vesniček získat nové zprávy o "
 "vetřelcích."
@@ -2821,8 +2820,8 @@ msgid ""
 "No, most of us escaped. I thought your settlements might be far enough away "
 "to escape harm, but you look as if you had seen battle."
 msgstr ""
-"Ne, většina z nás uprchla. Domníval jsem se, že vaše domovina je dost daleko "
-"aby unikla hrozbě. Přesto, vypadáte jako byste prošli bitvou."
+"Ne, většina z nás uprchla. Domníval jsem se, že vaše domovina je dost "
+"daleko, aby unikla hrozbě. Přesto vypadáte, jako byste prošli bitvou."
 
 #. [message]: speaker=Nebthun
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:447
@@ -2831,9 +2830,9 @@ msgid ""
 "fouling the waters and making the bay more to their liking. We worry that "
 "they will soon be back to finish with us, and I fear we will not survive."
 msgstr ""
-"Jistě, ačkoli jsme nebyli pod nějakým velkým tlakem. Kreatury se víc "
-"zabývaly zaneřádováním vod a předěláváním zátoky podle svého gusta. Obáváme "
-"se, že se brzy vrátí, aby s námi skoncovaly. Bojím se, že to nepřežijeme."
+"Jistě, ačkoli jsme nebyli pod nějakým velkým tlakem. Ti tvorové se víc "
+"zabývali zaneřáďováním vod a předěláváním zátoky podle svého gusta. Obáváme "
+"se, že se brzy vrátí, aby s námi skoncovali. Bojím se, že to nepřežijeme."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:451
@@ -2841,8 +2840,8 @@ msgid ""
 "We come prepared for battle, and have brought help. We will reclaim our home "
 "and make yours safe as well. Mal-Ravanal will pay this day."
 msgstr ""
-"Přicházíme připraveni na boj a přinášíme pomoc. Znovu získáme svůj domov a "
-"zabezpečíme ho, stejně jako váš. V ten den bude Mal Ravanal těžce platit."
+"Přicházíme připraveni na boj a přinášíme pomoc. Znovu získáme svůj domov "
+"a zabezpečíme ho, stejně jako váš. V ten den bude Mal Ravanal těžce platit."
 
 #. [message]: speaker=Nebthun
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:455
@@ -2852,9 +2851,9 @@ msgid ""
 "our base. The undead cut down many trees there to make bridges, and it is "
 "much easier to move through now."
 msgstr ""
-"Dobře. Připojíme se k tobě. Budeš koukat jak rychle tady Tabomo klátí "
-"kostlivce. Myslím, že bysme si měli udělat základnu v té ruině hradu na "
-"pevnině. Nemrtví tam pokáceli mnoho stromů a udělali mosty a tak je teď "
+"Dobře. Připojíme se k tobě. Budeš koukat, jak rychle tady Tabomo drtí "
+"kostlivce. Myslím, že bychom si měli udělat základnu v té ruině hradu na "
+"pevnině. Nemrtví tam pokáceli mnoho stromů a udělali mosty, a tak je teď "
 "mnohem jednodušší se tudy dostávat."
 
 #. [message]: speaker=narrator
