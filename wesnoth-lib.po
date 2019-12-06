@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-11-25 19:03+0100\n"
+"PO-Revision-Date: 2019-12-06 22:51+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4509,7 +4509,7 @@ msgstr "Filtr:"
 #. [text_box]: id=filter
 #: data/gui/window/preferences/02_hotkeys.cfg:67
 msgid "Filters on hotkey description."
-msgstr ""
+msgstr "Filtry na popis klávesové zkratky."
 
 #. [toggle_button]: id=sort_0
 #: data/gui/window/preferences/02_hotkeys.cfg:111
@@ -5181,7 +5181,7 @@ msgstr "Výpočet poškození"
 #. [button]: id=ok
 #: data/gui/window/unit_attack.cfg:220
 msgid "Attack"
-msgstr "Útok!"
+msgstr "Zaútočit"
 
 #. [label]
 #: data/gui/window/unit_attack.cfg:305
@@ -5256,17 +5256,17 @@ msgstr "Propustit"
 #. [button]: id=ok
 #: data/gui/window/unit_recall.cfg:442 src/hotkey/hotkey_command.cpp:105
 msgid "Recall"
-msgstr "Přivolej"
+msgstr "Přivolat"
 
 #. [label]
 #: data/gui/window/unit_recruit.cfg:155
 msgid "Recruit Unit"
-msgstr "Naverbuj"
+msgstr "Naverbovat"
 
 #. [button]: id=ok
 #: data/gui/window/unit_recruit.cfg:231 src/hotkey/hotkey_command.cpp:103
 msgid "Recruit"
-msgstr "Naverbuj"
+msgstr "Naverbovat"
 
 #. [label]
 #: data/gui/window/wml_error.cfg:40 src/gui/dialogs/message.cpp:210
@@ -5953,7 +5953,7 @@ msgstr "Rozšíření: "
 
 #: src/gui/dialogs/game_stats.cpp:71
 msgid "controller^AI"
-msgstr "AI"
+msgstr "UI"
 
 #: src/gui/dialogs/game_stats.cpp:71
 msgid "controller^Idle"
@@ -6835,7 +6835,7 @@ msgstr "Zobraz/skryj popisky"
 
 #: src/hotkey/hotkey_command.cpp:107
 msgid "End Turn"
-msgstr "Ukonči kolo"
+msgstr "Ukončit kolo"
 
 #: src/hotkey/hotkey_command.cpp:109
 msgid "Toggle Ellipses"
@@ -6891,11 +6891,11 @@ msgstr "Umísti týmový popisek"
 
 #: src/hotkey/hotkey_command.cpp:127
 msgid "Set Label"
-msgstr "Nastav popisek"
+msgstr "Nastavit popisek"
 
 #: src/hotkey/hotkey_command.cpp:128
 msgid "Clear Labels"
-msgstr "Smaž popisky"
+msgstr "Smazat popisky"
 
 #: src/hotkey/hotkey_command.cpp:129
 msgid "Show Enemy Moves"
@@ -7403,7 +7403,7 @@ msgstr "Odebrat stranu"
 
 #: src/hotkey/hotkey_command.cpp:271
 msgid "Delay Shroud Updates"
-msgstr "Pozdrž překreslování mlhy"
+msgstr "Pozdržet překreslování mlhy"
 
 #: src/hotkey/hotkey_command.cpp:272
 msgid "Update Shroud Now"
