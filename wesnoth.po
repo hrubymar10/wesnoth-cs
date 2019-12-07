@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-11-30 19:14+0100\n"
+"PO-Revision-Date: 2019-12-07 10:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4216,7 +4216,7 @@ msgstr "Akce"
 #: data/themes/classic.cfg:120 data/themes/cutscene.cfg:53
 #: data/themes/default.cfg:131
 msgid "End Turn"
-msgstr "Ukonči kolo"
+msgstr "Ukončit kolo"
 
 # !!!!
 #. [action]: id=button-endturn
@@ -4704,8 +4704,8 @@ msgid ""
 "Elvish units move and fight well in forest. Dwarvish units move and fight "
 "well in hills, mountains and caves."
 msgstr ""
-"Elfské jednotky se pohybují a bojují velmi dobře v lese. Trpasličí jednotky "
-"se pohybují a bojují velmi dobře v kopcích a horách."
+"Elfské jednotky se pohybují a bojují velmi dobře v lese. Trpasličí jednotky "
+"se pohybují a bojují velmi dobře v kopcích a horách."
 
 #. [tip]
 #: data/tips.cfg:120
@@ -6575,7 +6575,7 @@ msgstr "Dostupnost: "
 
 #: src/help/help_impl.cpp:717
 msgid "Must-have"
-msgstr ""
+msgstr "Musí mít"
 
 #: src/help/help_impl.cpp:719
 msgid "Unavailable"
@@ -6980,7 +6980,7 @@ msgstr[2] "K přivolání jednotky potřebuješ nejméně $cost zlaťáků"
 
 #: src/menu_events.cpp:546
 msgid "You cannot end your turn yet!"
-msgstr "Ještě nelze ukončit tah!"
+msgstr "Ještě nemůžeš ukončit své kolo!"
 
 #: src/menu_events.cpp:559
 msgid ""
