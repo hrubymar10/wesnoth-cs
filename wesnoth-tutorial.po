@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-12-04 22:18+0100\n"
+"PO-Revision-Date: 2019-12-08 07:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -428,7 +428,7 @@ msgid ""
 "and ending your turn on one will heal you. To a village!"
 msgstr ""
 "Máš na dosah dvě vesnice. Navštěvovat vesnice je dobrý nápad, a pokud "
-"ukončíš svůj tah ve vesnici, na začátku příštího se uzdravíš. Tedy vzhůru do "
+"ukončíš své kolo ve vesnici, na začátku příštího se uzdravíš. Tedy vzhůru do "
 "vesnice!"
 
 #. [label]
@@ -453,24 +453,17 @@ msgstr "Vesnice"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:674
-#, fuzzy
-#| msgid ""
-#| "You have captured a village! It now flies your flag and has been added to "
-#| "your total village count. (The house icon at the top of the screen shows "
-#| "how many villages you currently control.) Villages provide the gold "
-#| "needed to recruit units. Each turn, you gain two gold plus one for every "
-#| "village you own."
 msgid ""
 "You have captured a village! It now flies your colors and has been added to "
 "your total village count (the house icon at the top of the screen shows how "
 "many villages you currently control). Villages provide the gold needed to "
 "recruit units. Each turn, you gain 2 gold, plus 1 for every village you own."
 msgstr ""
-"Teď „vlastníš“ tuto vesnici! Můžeš si všimnout, že je na ní nyní tvá vlajka; "
-"také byla přidána k počtu vesnic, které vlastníš (číslo vedle ikony domečku "
-"je právě toto). Vesnice dávají peníze, potřebné pro najímání nových "
-"jednotek. Každý tah získáš dva zlaté jako základ plus jeden za každou "
-"obsazenou vesnici."
+"Zabral(a) jsi vesnici! Teď tam vlají tvé barvy a byla přidána k celkovému "
+"počtu tvých vesnic (obrázek domečku na vrchu obrazovky ukazuje, kolik vesnic "
+"nyní ovládáš). Vesnice poskytují zlato potřebné pro verbování jednotek. "
+"Každé kolo získáš 2 zlaté a k tomu 1 zlatý za každou vesnici, kterou "
+"vlastníš."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:696
@@ -480,17 +473,15 @@ msgid ""
 "whichever is less. In your case, you regained $student_hp_heal_amount "
 "hitpoints."
 msgstr ""
+"Jelikož jsi začal(a) své kolo ve vesnici, znovu jsi získal(a) nějaké zdraví! "
+"Vesnice každé kolo vyléčí jednotky o 8 bodů života nebo o to, co jim zbývá "
+"do úplného uzdravení, cokoli z toho je menší. V tvém případě jsi znovu "
+"získal(a) $student_hp_heal_amount bodů života."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:701
-#, fuzzy
-#| msgid ""
-#| "You’re about to be healed by $hp_difference hitpoints, but it’s time to "
-#| "summon some help against that quintain."
 msgid "Now, it’s time to summon some help against that quintain."
-msgstr ""
-"Za chvíli se uzdravíš o $hp_difference životů. Přesto si myslím, že budeš "
-"proti tomu panákovi potřebovat nějakou pomoc."
+msgstr "Nyní je čas povolat proti tomu panákovi nějakou pomoc."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:706
@@ -504,17 +495,14 @@ msgstr "Naverbuji nějaké elfy!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:712
-#, fuzzy
-#| msgid ""
-#| "A splendid idea. You can recruit two units if you return to the keep. You "
-#| "have plenty of gold for that."
 msgid ""
 "A splendid idea! It’s probably best not to attempt attacking the quintain "
 "this turn. Instead, you should return to the keep and recruit two units; you "
 "have plenty of gold for that."
 msgstr ""
-"Dobrý nápad. Pokud se vrátíš do své tvrze, můžeš naverbovat dvě jednotky. "
-"Máš k tomu spoustu peněz."
+"Skvělý nápad! Asi bude nejlepší nepokoušet se v tomto kole panáka napadnout. "
+"Místo toho by ses měl(a) vrátit do tvrze a naverbovat dvě jednotky; máš na "
+"to spoustu zlata."
 
 #. [label]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:717
@@ -538,11 +526,6 @@ msgstr "Verbování"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:753
-#, fuzzy
-#| msgid ""
-#| "Whenever you’re on a <i>keep</i>, you can <i>recruit</i> into the castle "
-#| "tiles around it by right-clicking and selecting <b>Recruit</b>. This time "
-#| "you will only be given one type of unit to choose: the Elvish Fighter."
 msgid ""
 "Whenever you’re on a <i>keep</i>, you can <i>recruit</i> units on the castle "
 "tiles around it by right-clicking and selecting <b>Recruit</b>. Note that "
@@ -550,14 +533,16 @@ msgid ""
 "to use them next turn. This scenario you have only one type of unit to "
 "choose from: the Elvish Fighter."
 msgstr ""
-"Kdykoliv jsi ve <i>tvrzi</i>, můžeš verbovat jednotky do políček hradu kolem "
-"ní kliknutím pravým tlačítkem a vybráním „<b>Naverbuj</b>“. Pro tentokrát "
-"dostaneš k verbování pouze jeden druh jednotky: Elfí bojovníky."
+"Kdykoliv jsi ve <i>tvrzi</i>, můžeš <i>verbovat</i> jednotky do políček "
+"hradu kolem ní kliknutím pravým tlačítkem a vybráním <b>Naverbovat</b>. "
+"Povšimni si, že nově naverbované jednotky nemohou v kole, ve kterém jsi je "
+"naverboval, nic dělat; budeš je moci použít příští kolo. V tomto scénáři máš "
+"na výběr pouze jeden druh jednotky: elfího bojovníka."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:756
 msgid "Recruit two Elvish Fighters"
-msgstr "Naverbuj dva elfské bojovníky"
+msgstr "Naverbuj dva elfí bojovníky"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:775
@@ -2101,7 +2086,7 @@ msgstr ""
 #. [unit_type]: id=Warrior, race=human
 #: data/campaigns/tutorial/units/Warrior.cfg:4
 msgid "Warrior"
-msgstr ""
+msgstr "Válečník"
 
 #. [unit_type]: id=Warrior, race=human
 #. [unit_type]: id=Warrioress, race=human
@@ -2114,10 +2099,8 @@ msgstr ""
 
 #. [unit_type]: id=Warrioress, race=human
 #: data/campaigns/tutorial/units/Warrioress.cfg:4
-#, fuzzy
-#| msgid "female^Fighter"
 msgid "female^Warrior"
-msgstr "Bojovnice"
+msgstr "Válečnice"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/utils/utils.cfg:57
