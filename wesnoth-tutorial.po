@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-12-09 19:37+0100\n"
+"PO-Revision-Date: 2019-12-10 17:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -881,19 +881,18 @@ msgstr "Doufám, že se po tomto budu moci stáhnout!"
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:120
 msgid "One lucky attack by an Orcish Grunt, and I’m done for!"
-msgstr "Jeden dobrý útok skřetího pěšáka, a je po mně!"
+msgstr "Jeden dobrý útok skřetího pěšáka a je po mně!"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:121
-#, fuzzy
-#| msgid "Ouch! I could make use of some healing in a village."
 msgid "I could make use of some healing in a village."
-msgstr "Au! Docela rád bych se uzdravil v nějaké vesnici."
+msgstr "Docela rád bych se uzdravil v nějaké vesnici."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:122
 msgid "I had better retreat, before I get caught out with such low health!"
 msgstr ""
+"Měl bych se raději stáhnout, než mě někdo nachytá s tak nízkým zdravím!"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:123
@@ -903,18 +902,19 @@ msgstr "Doufám, že se po tomto budu moci stáhnout!"
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:124
 msgid "female^One lucky attack by an Orcish Grunt, and I’m done for!"
-msgstr "Jeden dobrý útok skřetího pěšáka, a je po mně!"
+msgstr "Jeden dobrý útok skřetího pěšáka a je po mně!"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:125
 msgid "female^I could make use of some healing in a village."
-msgstr "Docela ráda bych se uzdravila v nějaké vesnici."
+msgstr "Docela ráda bych se uzdravila v nějaké vesnici."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:126
 msgid ""
 "female^I had better retreat, before I get caught out with such low health!"
 msgstr ""
+"Měla bych se raději stáhnout, než mě někdo nachytá s tak nízkým zdravím!"
 
 #. [objective]: condition=win
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:131
@@ -1131,7 +1131,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:293
 msgid "Recruit or recall your troops"
-msgstr "Naverbuj, nebo přivolej svoje jednotky"
+msgstr "Naverbuj nebo přivolej svoje oddíly"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:307
