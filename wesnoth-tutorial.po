@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-12-10 17:45+0100\n"
+"PO-Revision-Date: 2019-12-12 17:54+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -943,6 +943,9 @@ msgid ""
 "teach you about recalling units, abilities and weapon specials, income and "
 "upkeep, long-distance movement, zone of control, and time of day."
 msgstr ""
+"Vítej zpět! Toto je druhá část dvoudílného výcviku. Část 2 tě bude učit "
+"o povolávání jednotek, schopnostech a speciálních útocích, příjmu a údržbě, "
+"přesunu na větší vzdálenosti, oblastech kontroly a denní době."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:194
@@ -964,39 +967,29 @@ msgstr ""
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:201
-#, fuzzy
-#| msgid ""
-#| "Orcs have encamped across the river. This is elven country; they are "
-#| "fools to enter here. We Elves are fast and hard to hit in forests. You "
-#| "must defeat their leader so they never threaten us again. I will advise "
-#| "you."
 msgid ""
 "This is no game, Konrad! Orcs have encamped across the river. This is elven "
 "country; they are fools to enter here. We Elves are fast and hard to hit in "
 "forests. You must defeat their leader so they never threaten us again. I "
 "will advise you."
 msgstr ""
-"Za řekou se utábořili skřeti. Toto je země elfů; my elfové jsme v lesích "
-"rychlí a obtížně zasáhnutelní. Jsou to hlupáci, když se sem hrnou. Musíš "
-"porazit jejich vůdce, aby nás už nikdy neobtěžovali. Budu ti radit."
+"To není hra, Konráde! Za řekou se utábořili skřeti. Toto je země elfů; jsou "
+"to hlupáci, když se sem hrnou. My elfové jsme v lesích rychlí a obtížně "
+"zasáhnutelní. Musíš porazit jejich vůdce, aby nás už nikdy neobtěžovali. "
+"Budu ti radit."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:206
-#, fuzzy
-#| msgid ""
-#| "Orcs have encamped across the river. This is elven country; they are "
-#| "fools to enter here. We Elves are fast and hard to hit in forests. You "
-#| "must defeat their leader so they never threaten us again. I will advise "
-#| "you."
 msgid ""
 "This is no game, Li’sar! Orcs have encamped across the river. This is elven "
 "country; they are fools to enter here. We Elves are fast and hard to hit in "
 "forests. You must defeat their leader so they never threaten us again. I "
 "will advise you."
 msgstr ""
-"Za řekou se utábořili skřeti. Toto je země elfů; my elfové jsme v lesích "
-"rychlí a obtížně zasáhnutelní. Jsou to hlupáci, když se sem hrnou. Musíš "
-"porazit jejich vůdce, aby nás už nikdy neobtěžovali. Budu ti radit."
+"To není hra, Lisar! Za řekou se utábořili skřeti. Toto je země elfů; jsou to "
+"hlupáci, když se sem hrnou. My elfové jsme v lesích rychlí a obtížně "
+"zasáhnutelní. Musíš porazit jejich vůdce, aby nás už nikdy neobtěžovali. "
+"Budu ti radit."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:212
@@ -1015,7 +1008,7 @@ msgid ""
 "the river. He should be little trouble."
 msgstr ""
 "Za prvé, musíme se vypořádat se skřetím pěšákem usazeným uprostřed řeky. To "
-"by nemělo by být příliš obtížné."
+"by nemělo být příliš obtížné."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:218
@@ -1024,7 +1017,7 @@ msgid ""
 "the real fight will begin."
 msgstr ""
 "Tou dobou už bude mít jejich vůdce naverbované jednotky, které proti nám "
-"pošle, a pak začne opravdová bitva."
+"pošle a pak začne opravdová bitva."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:220
@@ -1046,7 +1039,7 @@ msgid ""
 "the key: it has a village for healing injured units and forests in which we "
 "fight so well."
 msgstr ""
-"Pravděpodobnější je tedy útok po mostě. Ostrov uprostřed je klíčový - má "
+"Pravděpodobnější je tedy útok po mostě. Ostrov uprostřed je klíčový: má "
 "vesnici pro uzdravování raněných jednotek a les, ve kterém tak dobře "
 "bojujeme."
 
@@ -1068,6 +1061,8 @@ msgid ""
 "Hang on! You need to gather your forces. Or do you intend to fight the orcs "
 "single-handedly?"
 msgstr ""
+"Vydrž! Potřebuješ shromáždit své ozbrojené síly. Nebo máš v úmyslu bojovat "
+"se skřety sám?"
 
 #. [message]: speaker=Galdrad
 #. Addressing Li'sar
@@ -1076,6 +1071,8 @@ msgid ""
 "female^Hang on! You need to gather your forces. Or do you intend to fight "
 "the orcs single-handedly?"
 msgstr ""
+"Vydrž! Potřebuješ shromáždit své ozbrojené síly. Nebo máš v úmyslu bojovat "
+"se skřety sama?"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:255
@@ -1085,6 +1082,10 @@ msgid ""
 "carefully, though; if a unit has too little experience, it might be better "
 "to recruit a new one."
 msgstr ""
+"Vidím, že máš ze svého tréninku zkušené oddíly! Měl(a) bys je <i>povolat</"
+"i>, abys začal(a) bitvu se zkušenějšími jednotkami. Ačkoli, důkladně to "
+"rozmysli; jestliže má jednotka příliš málo zkušeností, může být lepší "
+"naverbovat novou."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:261
@@ -1092,6 +1093,8 @@ msgid ""
 "Some of your units have also managed to level up. They’re even more "
 "formidable, so you should recall them as well."
 msgstr ""
+"Některé tvé jednotky také dokázaly povýšit o úroveň. Ty vzbuzují ještě větší "
+"respekt, takže bys je měl(a) také povolat."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:276
@@ -1101,11 +1104,15 @@ msgid ""
 "<i>recalled</i> them to battle this scenario. More experienced units would "
 "have been of help against these orcs."
 msgstr ""
+"Naneštěstí žádné tvé oddíly nepřežily tvůj výcvik, takže budeš muset "
+"naverbovat nové jednotky. Kdybys měl nějaké zkušené oddíly, mohl bys je "
+"v tomto scénáři <i>povolat</i> k boji. Pomohlo by mít proti těmto skřetům "
+"zkušenější jednotky."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:283
 msgid "Recalling"
-msgstr "Přivolávání"
+msgstr "Povolávání"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:285
@@ -1118,6 +1125,13 @@ msgid ""
 "while your leader stands on a keep and select the <i>Recall</i> option. "
 "Remember to also recruit new troops in addition to recalling old ones."
 msgstr ""
+"Kromě verbování nových jednotek v každém scénáři můžeš také <i>povolat</i> "
+"své ostřílené veterány z předchozích scénářů za cenu 20 zlatých za každého. "
+"To ti v průběhu mnoha scénářů umožní vybudovat hrozivé vojsko povoláváním "
+"oddílů na nejvyšších úrovních nebo těch s dobrými kombinacemi vlastností "
+"a schopností. Abys povolal(a) jednotku, klikni pravým tlačítkem, zatímco "
+"tvůj velitel stojí v tvrzi, a vyber možnost <i>Přivolat</i>. Nezapomeň krom "
+"povolávání bývalých oddílů také naverbovat nové."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:290
@@ -1127,11 +1141,15 @@ msgid ""
 "them. Personally, I would recommend a balanced force of two archers, two "
 "fighters, and a shaman."
 msgstr ""
+"V tomto scénáři máš také na verbování dva nové druhy jednotek: elfí "
+"lučištníky a elfí šamanky. Řeknu ti o nich více, až je naverbuješ. Co se mne "
+"týče, doporučil bych vyváženou sílu dvou lučištníků, dvou bojovníků a jedné "
+"šamanky."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:293
 msgid "Recruit or recall your troops"
-msgstr "Naverbuj nebo přivolej svoje oddíly"
+msgstr "Naverbuj nebo povolej svoje oddíly"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:307
