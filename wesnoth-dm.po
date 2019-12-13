@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 18:29 UTC\n"
-"PO-Revision-Date: 2019-12-11 21:00+0100\n"
+"PO-Revision-Date: 2019-12-13 21:51+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -381,9 +381,9 @@ msgid ""
 "magecraft to aid those they traveled among and to deepen their understanding "
 "of the hidden currents and powers of the world."
 msgstr ""
-"Delfadorovo putování s Methorem je přivedlo na mnohá podivuhodná místa, a to "
-"jak ve světě lidí, tak mimo něj. Studovali a trénovali, používali magii jako "
-"nástroj ku pomoci těm, kolem kterých putovali, a k prohloubení poznání "
+"Delfadorovo putování s Methorem je přivedlo na mnohá podivuhodná místa, a to "
+"jak ve světě lidí, tak mimo něj. Studovali a trénovali, používali magii jako "
+"nástroj ku pomoci těm, kolem kterých putovali a k prohloubení poznání "
 "skrytých mocností světa."
 
 #. [part]
@@ -423,7 +423,7 @@ msgid ""
 "my slaves..."
 msgstr ""
 "Poslouchejte, lidská chásko! Toto údolí teď patří mně. Navalte sem všecko co "
-"máte! V klidu se vzdejte a můžete mi sloužit. Udělám z vás své otroky. "
+"máte! V klidu se vzdejte a můžete mi sloužit. Udělám z vás své otroky. "
 "Jinak..."
 
 #. [message]: speaker=Methor
@@ -1582,10 +1582,10 @@ msgid ""
 "dead. He promises life to all those who follow him. Such is against the way "
 "of things."
 msgstr ""
-"Mé jméno je Rorthin. Zemřel jsem před ... dávno, ve velké bitvě. Skoro "
-"všechno jsem už zapomněl... Iliah Malal je také živý muž, jako ty, který "
-"chodí mezi mrtvými. Nám všem, kdo jej budeme následovat, slíbil nový život! "
-"To je proti fungování věcí."
+"Mé jméno je Rorthin. Zemřel jsem dávno, ve velké bitvě... Skoro všechno jsem "
+"už zapomněl... Iliah Malal je také živý muž, jako ty, který chodí mezi "
+"mrtvými. Nám všem, kdo jej budeme následovat, slíbil nový život! To je proti "
+"fungování věcí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:255
@@ -3333,7 +3333,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:24
 msgid "but the King was in an unenviable position..."
-msgstr "ale král byl v nezáviděníhodné pozici ..."
+msgstr "ale král byl v nezáviděníhodné pozici..."
 
 #. [side]: type=King of Wesnoth, id=Garard II
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:47
@@ -3899,10 +3899,10 @@ msgid ""
 "was a perilous road. Delfador was constrained to avoid well-trodden paths. "
 "This meant a detour..."
 msgstr ""
-"Delfador se s malým doprovodem vydal na sever aby se pokusil o uzavření "
-"portálu. Ale s Iliah-Malalovou armádou roztaženou po celém severním břehu "
+"Delfador se s malým doprovodem vydal na sever aby se pokusil o uzavření "
+"portálu. Ale s Iliah-Malalovou armádou roztaženou po celém severním břehu "
 "Velké řeky to byla velice nebezpečná pouť. Delfador musel putovat mimo "
-"silnice, mimo prošlapané cesty. To znamenalo zajížďku ..."
+"silnice, mimo prošlapané cesty. To znamenalo zajížďku..."
 
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:53
@@ -4381,8 +4381,8 @@ msgid ""
 "Oracles? What nonsense you babble... After you die, I will raise your corpse "
 "and compel you to tell me how to reopen my portal!"
 msgstr ""
-"Věštci? O čem to blábolíš? ... no nic. Až umřeš, znovu tě přivolám zpět a "
-"přinutím tě prozradit mi, jak znovu otevřít můj portál!"
+"Věštci? Co to blábolíš za nesmysly... Až umřeš, znovu tě přivolám zpět "
+"a přinutím tě prozradit mi, jak znovu otevřít můj portál!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:259
@@ -5225,7 +5225,7 @@ msgstr "Byl jsem poražen!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:69
 msgid "No! All is now lost..."
-msgstr "Ne! Vše je ztraceno…"
+msgstr "Ne! Vše je ztraceno..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:83
@@ -5248,7 +5248,7 @@ msgstr "Zlo se šíří z těchto kamenů a já nemám sílu to zastavit..."
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/utils/items.cfg:17
 msgid "Ahh... I can slake my thirst at this well. Glug, glug glug..."
-msgstr "Ách... Konečně mohu uhasit svou žízeň... glo, glo, glo ..."
+msgstr "Ách... Konečně mohu uhasit svou žízeň... glo, glo, glo..."
 
 #. [object]: id=staff_lightning
 #: data/campaigns/Delfadors_Memoirs/utils/items.cfg:42
