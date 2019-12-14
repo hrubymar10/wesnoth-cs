@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-11-18 18:24+0100\n"
+"PO-Revision-Date: 2019-12-14 09:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -449,10 +449,8 @@ msgstr "Jižané"
 
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:288
-#, fuzzy
-#| msgid "Death of your team leaders"
 msgid "Defeat enemy leader(s)"
-msgstr "Vůdci tvých týmů zemřou"
+msgstr "Poraz nepřátelské(ho) vůdce"
 
 #. [note]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:292
@@ -614,10 +612,8 @@ msgstr ""
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:89
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:95
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:91
-#, fuzzy
-#| msgid "teamname^Southwest"
 msgid "teamname^Statues"
-msgstr "Jihozápadní"
+msgstr "Sochy"
 
 # pův.: "Větry temné oblohy duly tak chladně\n
 # Měsíc byl vysoko, noc byla stará\n
@@ -1799,10 +1795,8 @@ msgstr "2p — Pevnost tisíce žihadel"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:39
-#, fuzzy
-#| msgid "A strange place. Designed by Doc Paterson"
 msgid "A strange place. Designed by Doc Paterson."
-msgstr "Podivné místo. Návrhl Doc Patterson."
+msgstr "Podivné místo. Navrhl Doc Paterson."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:93
