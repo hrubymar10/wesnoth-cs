@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 18:29 UTC\n"
-"PO-Revision-Date: 2019-12-13 21:51+0100\n"
+"PO-Revision-Date: 2019-12-15 07:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -78,10 +78,10 @@ msgid ""
 "all life in Wesnoth?\n"
 "\n"
 msgstr ""
-"Wesnoth nezadržitelně upadá do chaosu. Bandy skřetů drancují Wesnoth. "
-"Pronikají stále hlouběji a hlouběji na jih od Velké Řeky. Záhadné vraždící "
-"stvůry se procházejí nocí. Kdo je záhadný Iliah-Malal? Dokážeš jej zastavit "
-"dřív, než zničí vše živé ve Wesnothu?\n"
+"Zdá se, že Wesnoth nezadržitelně upadá do chaosu, jak loupeživí skřeti "
+"proudí na jih od Velké řeky a nocí se potulují záhadné a vraždící stvůry. "
+"Kdo je záhadný Iliah-Malal? Dokážeš jej zastavit dřív, než zničí vše živé ve "
+"Wesnothu?\n"
 "\n"
 
 #. [campaign]: id=Delfadors_Memoirs
@@ -168,10 +168,9 @@ msgid ""
 "tale of how he became the most famous and powerful of all the mages of "
 "Wesnoth."
 msgstr ""
-"Toto je pravdivý příběh o Delfadorovi Velikém, ještě z dob, kdy tak nebyl "
-"nazýván. Vypráví, jak se stal slavným a nejmocnějším stvořením, které kdy "
-"chodilo po pláních Wesnothu. Byl by to skvělý hrdinský epos, kdyby se to "
-"skutečně nestalo."
+"Toto je pravdivý příběh o Delfadorovi Velikém od jeho skromných začátků; "
+"legenda o tom, jak se stal nejslavnějším a nejmocnějším ze všech mágů "
+"Wesnothu."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:47
@@ -179,7 +178,7 @@ msgid ""
 "It begins on the Isle of Alduin, at the Academy which trains mages from "
 "throughout the Great Continent."
 msgstr ""
-"Příběh začíná na ostrově Alduin, v Akademii, kde se učí mágové z celého "
+"Příběh začíná na ostrově Alduin, v akademii, kde se učí mágové z celého "
 "kontinentu."
 
 #. [part]
@@ -188,13 +187,13 @@ msgid ""
 "After ten years of training, two tests stand between that apprentice and "
 "attainment of the degree of Mage:"
 msgstr ""
-"Po deseti letech studia dělí učedníky od udělení titulu Mág dvě poslední "
+"Po deseti letech studia dělí učedníky od udělení titulu mág dvě poslední "
 "zkoušky:"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:53
 msgid "<i>The New Mage Ceremony</i>"
-msgstr "<i>Obřad Nového Mága</i>"
+msgstr "<i>Obřad nového mága</i>"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:56
@@ -204,12 +203,12 @@ msgstr "a"
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:59
 msgid "<i>The Name Journey</i>"
-msgstr "<i>Pouť Nového Jména</i>"
+msgstr "<i>Pouť nového jména</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:79
 msgid "Academy of Magic, Isle of Alduin."
-msgstr "Kouzelnická škola Světla, ostrov Alduin."
+msgstr "Kouzelnická škola, ostrov Alduin."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:85
@@ -292,7 +291,7 @@ msgstr "O O"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:165
 msgid "The light fills me!"
-msgstr "Vstoupilo do mne Světlo!"
+msgstr "Vstoupilo do mne světlo!"
 
 #. [message]: speaker=First Oracle
 #. [message]: speaker=Second Oracle
@@ -337,7 +336,7 @@ msgstr "Jsem připraven."
 #. [scenario]: id=02_This_Valley_Belongs_to_Me
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:3
 msgid "This Valley Belongs to Me"
-msgstr "Toto údolí je MOJE"
+msgstr "To údolí patří mně"
 
 #. [side]: type=Goblin Pillager, id=Grogor-Tuk
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:42
@@ -371,7 +370,7 @@ msgstr "Grogor-Tuk"
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:149
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:176
 msgid "Pillagers"
-msgstr "Marodér"
+msgstr "Drancíři"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:59
@@ -400,7 +399,7 @@ msgstr ""
 "opuštění Alduinu se Methor usadil v poklidném údolí na úpatí Dulatských "
 "kopců, kousek jihovýchodně od hlavního města Weldynu. Otevřel tam vlastní "
 "malou školu a s Delfadorovou asistencí začal trénovat pár mladíků, kteří by "
-"jednou mohli vstoupit do velké Alduinské Akademie."
+"jednou mohli vstoupit do velké Alduinské akademie."
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:73
@@ -410,7 +409,7 @@ msgid ""
 "you will take my advice, and enroll yourself in the service of King Garard. "
 "I have many contacts at the court and..."
 msgstr ""
-"Delfadore, čas tvého učednictví je skoro u konce. Jsi plně vyučený Mág a "
+"Delfadore, čas tvého učednictví je skoro u konce. Jsi plně vyučený mág a "
 "jako takový máš plné právo si sám zvolit svou vlastní cestu. Věřím ale, že "
 "by pro tebe bylo nejlepší, kdybys užíval svou sílu ve službách Krále "
 "Gararda. Mám mnoho kontaktů u dvora a..."
@@ -439,8 +438,8 @@ msgid ""
 "That’s where you are wrong, puny mage. War is coming, humans... War! Take "
 "their villages, and spare no-one!"
 msgstr ""
-"To ti venca písk, starý brachu! Válka se valí, lidský červe... Válka! "
-"Obsaďte jejich vesnice a všechny zabijte!"
+"To ti Véna písk, starý brachu! Válka se valí, lidský červe... Válka! Obsaďte "
+"jejich vesnice a všechny zabijte!"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:90
@@ -602,7 +601,7 @@ msgid ""
 msgstr ""
 "Vidíš mě vyzbrojeného na válku, protože jsme se zrovna chystali na pomoc "
 "našim bratrům. Můžeme si pomoct navzájem — nebudeš litovat, žes bojoval po "
-"našem boku, v tomto kraji se rodí nejlepší lučištníci ve Wesnothu."
+"našem boku, v tomto kraji se rodí nejlepší lučištníci ve Wesnothu."
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:157
@@ -1201,7 +1200,7 @@ msgstr "Znič kameny"
 #. [note]
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:124
 msgid "Mages and Paladins are capable of destroying the stones"
-msgstr "Mágové a Paladinové jsou schopni zničit kameny"
+msgstr "Mágové a paladinové jsou schopni zničit kameny"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:138
@@ -1938,7 +1937,7 @@ msgstr ""
 msgid ""
 "I... I serve life against death. Love against fear. Light against darkness."
 msgstr ""
-"Sloužím...sloužím životu proti smrti. Lásce proti strachu. Světlu proti "
+"Sloužím... sloužím životu proti smrti. Lásce proti strachu. Světlu proti "
 "temnotě."
 
 #. [message]: speaker=narrator
@@ -2871,7 +2870,7 @@ msgid ""
 "throughout Wesnoth. After centuries of squabbling, a warlord emerged to "
 "unite the Orcs. This was ill tidings for men and Elves alike."
 msgstr ""
-"Zatímco byl Delfador na Akademii, velké události se odehrávaly po celém "
+"Zatímco byl Delfador na akademii, velké události se odehrávaly po celém "
 "Wesnothu. Po staletích svárů povstal válečník, který skřety sjednotil. To "
 "byla špatná zpráva jak pro všechny lidi, tak i elfy."
 
@@ -5096,7 +5095,7 @@ msgstr ""
 #. [unit_type]: id=Journeyman Mage
 #: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:7
 msgid "Journeyman Mage"
-msgstr "Potulný mág"
+msgstr "Mág tovaryš"
 
 #. [unit_type]: id=Journeyman Mage
 #: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:12
@@ -5104,8 +5103,8 @@ msgid ""
 "A mage who has just finished his apprenticeship is known as a journeyman. "
 "Journeyman mages travel far in search of employment and experience."
 msgstr ""
-"Mágové, kteří úspěšně ukončili učňovské zkoušky se nazývají Potulní mágové — "
-"putují daleko ve svém hledání sama sebe, zaměstnání a zkušeností."
+"Mág, který právě dokončil své učení, je znám jako tovaryš. Mágové tovaryši "
+"putují daleko při hledání zaměstnání a zkušeností."
 
 #. [unit_type]: id=King of Wesnoth
 #: data/campaigns/Delfadors_Memoirs/units/King_of_Wesnoth.cfg:7
@@ -5158,7 +5157,7 @@ msgstr ""
 #. [unit_type]: id=Mage Magister
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:7
 msgid "Mage Magister"
-msgstr "Starší Mág"
+msgstr "Starší mág"
 
 #. [unit_type]: id=Mage Magister
 #: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:18
@@ -5166,7 +5165,7 @@ msgid ""
 "A Mage Magister, though equivalent in degree to a Great Mage, has special "
 "abilities of command and healing derived from extensive experience of battle."
 msgstr ""
-"Starší Mág, mág rovnocenného stupně s Velkým Mágem, má zvláštní schopnosti "
+"Starší mág, mág rovnocenného stupně s Velkým mágem, má zvláštní schopnosti "
 "velení a uzdravování, které pramení z jeho bohatých zkušeností z mnoha bitev."
 
 #. [unit_type]: id=Wose Shaman, race=wose
