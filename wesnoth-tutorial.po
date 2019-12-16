@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-12-12 17:54+0100\n"
+"PO-Revision-Date: 2019-12-16 18:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1029,7 +1029,7 @@ msgid ""
 msgstr ""
 "Vidíš tu temně modrou vodu? Je příliš hluboká, ani jedna strana ji nemůže "
 "překročit. Mohli by se pomalu brodit tím tenkým proužkem mělčí bledě modré "
-"vody na východě, ale my můžeme stát na pobřeží a donutit je bojovat ve vodě, "
+"vody na východě, ale my můžeme stát na břehu a donutit je bojovat ve vodě, "
 "kde jsou zranitelnější a nás chrání les."
 
 #. [event]
@@ -1158,19 +1158,14 @@ msgstr "Elfí šamanka"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:308
-#, fuzzy
-#| msgid ""
-#| "The Shaman is a fairly weak unit, but she has the ability to <i>heal</i> "
-#| "friendly units around her. She also has a special attack which <i>slows</"
-#| "i> enemies, halving the damage they do."
 msgid ""
 "The Shaman is a fairly weak unit, but she has the ability to <i>heal</i> "
 "friendly units around her. She also has a special attack which <i>slows</i> "
 "enemies, halving the damage they do for one turn."
 msgstr ""
 "Šamanka je docela slabá jednotka, ale dokáže <i>ošetřovat</i> jednotky okolo "
-"sebe. Má také speciální útok, který <i>zpomaluje</i> nepřátele, přičemž se "
-"sníží na polovinu zranění jimi způsobené."
+"sebe. Má také speciální útok, který <i>zpomaluje</i> nepřátele, přičemž na "
+"jedno kolo sníží o polovinu zranění jimi způsobená."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:313
@@ -1188,6 +1183,13 @@ msgid ""
 "at the start of each turn. Unit types with abilities, especially ones like "
 "Heal, can be very useful, so be careful when sending them into battle."
 msgstr ""
+"Určité typy jednotek mají zvláštní <i>schopnosti</i>. Na rozdíl od "
+"vlastností, které obvykle poskytují malé zlepšení nebo zhoršení, schopnosti "
+"způsobují u jednotek zvláštní chování, které obyčejné jednotky nemají. "
+"V tomto případě má elfí šamanka schopnost ošetření, která jí umožňuje na "
+"začátku každého kola léčit sousední spojenecké jednotky o 4 body života. "
+"Typy jednotek, které mají schopnosti, zvláště takové jako ošetření, mohou "
+"být velmi užitečné, takže dej pozor, když je posíláš do bitvy."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:322
@@ -1202,6 +1204,16 @@ msgid ""
 "A full list of abilities and weapons specials, along with traits, may be "
 "found in help."
 msgstr ""
+"Speciální útoky jsou zvlášť upravené útoky, které určité z nich činí "
+"silnějšími. Takže ještě jednou, šamanka má v tomto případě při svém útoku "
+"zamotání zvláštnost zpomalení. Když je tento útok použit proti nepříteli, na "
+"jedno kolo zmenší o polovinu zranění, která nepřátelé působí. Ostatní "
+"speciální útoky zahrnují první úder, který tomuto útoku umožňuje vždy "
+"zasáhnout první bez ohledu na to, kdo první zaútočí a magický, jež dává "
+"takovému útoku stálou 70% možnost zasáhnout.\n"
+"\n"
+"Úplný seznam schopností a speciálních útoků spolu s vlastnostmi lze najít "
+"v nápovědě."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:339
@@ -1216,6 +1228,11 @@ msgid ""
 "melee attacks with strong ranged attacks, and vice versa. This allows your "
 "units to take less damage overall when your enemy counterattacks."
 msgstr ""
+"Na rozdíl od elfího bojovníka, který má silné útoky na blízko, má elfí "
+"lučištník silné útoky na dálku. Hodí se útočit silnými útoky na dálku proti "
+"nepřátelským jednotkám, které mají silné útoky na blízko a naopak. To tvým "
+"jednotkám dovoluje utrpět celkově menší zranění, až tvůj nepřítel provede "
+"protiútok."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:367
@@ -1223,21 +1240,18 @@ msgid ""
 "You certainly have a fondness for shamans, I see. They will provide a lot of "
 "healing, but not much offensive potential."
 msgstr ""
+"Aha, ty máš určitě slabost pro šamanky. Poskytnou ti mnoho ošetření, ale už "
+"ne tolik útočných možností."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:378
-#, fuzzy
-#| msgid ""
-#| "While none of your recruited units can move, you still can. Your five "
-#| "units cost you 5 gold in upkeep, leaving you 3 gold poorer per turn. You "
-#| "need more income."
 msgid ""
 "While none of your recruited units can move yet, you still can. You need "
 "more income; there are some villages near the keep you can capture."
 msgstr ""
-"Ačkoli žádná tvá právě naverbovaná jednotka se nemůže pohnout, ty ano. Tvých "
-"pět jednotek tě stojí každé kolo 5 zlatých, takže jsi každé kolo chudší o 3 "
-"zlaté. Potřebuješ větší příjmy."
+"Ačkoli se žádná z tvých naverbovaných jednotek už nemůže pohnout, ty ještě "
+"můžeš. Potřebuješ vyšší příjem; blízko tvrze jsou nějaké vesnice, které "
+"můžeš zabrat."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:381
