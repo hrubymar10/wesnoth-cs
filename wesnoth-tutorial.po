@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-12-16 18:57+0100\n"
+"PO-Revision-Date: 2019-12-17 09:49+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1264,6 +1264,8 @@ msgid ""
 "Excellent! As Delfador mentioned earlier, each captured village will support "
 "one unit and provide you with 1 extra gold per turn."
 msgstr ""
+"Výtečně! Jak už Delfador zmínil, každá zabraná vesnice bude podporovat jednu "
+"jednotku a poskytovat ti navíc každé kolo 1 zlatý."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:401
@@ -1279,6 +1281,11 @@ msgid ""
 "per turn. Be careful, as owning too many units can cause you to have "
 "negative income and lose gold each turn!"
 msgstr ""
+"Každé kolo získáš 2 zlaté a k tomu jeden za každou vesnici, kterou vlastníš. "
+"Nicméně z toho je odečtena <i>údržba</i>. Můžeš podporovat tolik úrovní "
+"jednotek, kolik vesnic vlastníš; co je nad, to tě stojí 1 zlatý za kolo. Buď "
+"šetrný, neboť vlastnictví příliš mnoha jednotek může způsobit, že budeš mít "
+"záporný příjem a každé kolo ztratíš zlaté!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:408
