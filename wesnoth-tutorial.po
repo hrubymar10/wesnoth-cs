@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-12-17 09:49+0100\n"
+"PO-Revision-Date: 2019-12-20 18:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1300,6 +1300,10 @@ msgid ""
 "a side may be hidden; however, it is still useful to check this table when a "
 "scenario begins. You can access it in the <b>Menu</b> menu."
 msgstr ""
+"Stavová tabulka podrobně zobrazuje současný stav a startovní podmínky stran. "
+"Mlha a zahalení tmou ovlivní, co v této tabulce můžeš vidět a strana může "
+"být občas skrytá; nicméně i tak je užitečné na začátku scénáře tuto tabulku "
+"prozkoumat. Můžeš se k ní dostat přes menu <b>Menu</b>."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:428
@@ -1307,6 +1311,8 @@ msgid ""
 "Now, young man, it is time to discuss strategy. Your units are ready to "
 "attack, and the orcish leader has begun gathering his own troops."
 msgstr ""
+"Nyní je čas, mladý pane, probrat strategii. Tvé jednotky jsou připraveny "
+"zaútočit a vůdce skřetů začal shromažďovat své vlastní oddíly."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:433
@@ -1314,6 +1320,8 @@ msgid ""
 "Now, young lady, it is time to discuss strategy. Your units are ready to "
 "attack, and the orcish leader has begun gathering his own troops."
 msgstr ""
+"Nyní je čas, mladá dámo, probrat strategii. Tvé jednotky jsou připraveny "
+"zaútočit a vůdce skřetů začal shromažďovat své vlastní oddíly."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:439
@@ -1321,6 +1329,8 @@ msgid ""
 "Galdrad, if I go by the ford, I could sneak up near his keep and dispatch "
 "him quickly."
 msgstr ""
+"Galdrade, pokud půjdu brodem, mohl bych se proplížit do blízkosti jeho tvrze "
+"a rychle ho sprovodit ze světa."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:440
@@ -1328,6 +1338,8 @@ msgid ""
 "female^Galdrad, if I go by the ford, I could sneak up near his keep and "
 "dispatch him quickly."
 msgstr ""
+"Galdrade, pokud půjdu brodem, mohla bych se proplížit do blízkosti jeho "
+"tvrze a rychle ho sprovodit ze světa."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:445
@@ -1339,6 +1351,12 @@ msgid ""
 "there; your Fighters will only suffer a 40% chance of being hit in return, "
 "while Shamans and Archers will only incur a 30% chance."
 msgstr ""
+"Možná. Avšak elfové (a skřeti) mají ve vodě špatnou <i>obranu</i>. Když se "
+"zkusíš pomalu brodit přes řeku, budeš zranitelnější; nepřítel bude mít 80% "
+"šanci tě zasáhnout. Radím ti držet se mezi stromy a útočit na skřety odtud, "
+"jelikož elfové mají v lese dobrou obranu; na oplátku budou tví bojovníci "
+"trpět jen 40% rizikem zásahu, zatímco šamanky a lučištníci se vystaví jen "
+"30% možnosti být zasaženi."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:450
@@ -1347,19 +1365,21 @@ msgid ""
 "our forces. It might do to send a few units to defend the banks, and the "
 "village there."
 msgstr ""
+"Nicméně na ten brod dávej pozor. Skřeti se mohou pokusit proklouznout okolo "
+"za naše oddíly. Může se poslat pár jednotek na obranu břehů a tamní vesnice."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:455
 msgid ""
 "Alright. The bridge it is, then, but I’ll be careful about the crossing."
-msgstr ""
+msgstr "Dobrá. Tak tedy most, ale na přechod přes řeku dohlédnu."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:456
 msgid ""
 "female^Alright. The bridge it is, then, but I’ll be careful about the "
 "crossing."
-msgstr ""
+msgstr "Dobrá. Tak tedy most, ale na přechod přes řeku dohlédnu."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:459
@@ -1371,11 +1391,17 @@ msgid ""
 "villages on this side of the river. You should secure them for income and "
 "healing."
 msgstr ""
+"Ten skřetí pěšák nám pořád brání v cestě. Nemá útoky na dálku, takže tví "
+"lučištníci by jej mohli zaměstnat, aniž by moc riskovali. Smůla je, že se "
+"tvoji lučištníci v tomto kole k němu nemůžou dostat, ale ty bys je neměl "
+"nechat hnít! Přesuň je na takové místo, aby mohli zaútočit příští kolo. Na "
+"této straně řeky jsou také další vesnice. Měl(a) bys je zajistit kvůli "
+"příjmu a léčení."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:463
 msgid "Long-distance Movement"
-msgstr "Pohyb do větší vzdálenosti"
+msgstr "Přesun na větší vzdálenost"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:465
@@ -1384,8 +1410,8 @@ msgid ""
 "clicking on the destination. A number will indicate how many turns it will "
 "take to get there."
 msgstr ""
-"Můžeš jednotce dát rozkaz k přesunu trvajícímu několik kol. Stačí vybrat "
-"jednotku a kliknout na cíl. Číslo ti ukáže, kolik kol bude jednotce trvat, "
+"Můžeš dát jednotce rozkaz k přesunu trvajícímu několik kol. Stačí vybrat "
+"jednotku a kliknout na cíl. Číslo ti ukáže, kolik kol bude jednotce trvat, "
 "než se dostane na místo určení."
 
 #. [message]: speaker=student
@@ -1413,6 +1439,9 @@ msgid ""
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
 msgstr ""
+"Neučil ses nadarmo, Konráde. To je vskutku dobrý nápad, nechat na počátku "
+"hry velitele v bezpečí a chráněného na dosah své tvrze. Vlna bojů se může "
+"rychle obrátit a ty se nechceš ocitnout odříznutý od verbování posil."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:482
@@ -1422,6 +1451,9 @@ msgid ""
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
 msgstr ""
+"Neučila ses nadarmo, Lisar. To je vskutku dobrý nápad, nechat na počátku hry "
+"velitele v bezpečí a chráněného na dosah své tvrze. Vlna bojů se může rychle "
+"obrátit a ty se nechceš ocitnout odříznutá od verbování posil."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:492
@@ -1436,13 +1468,13 @@ msgid ""
 "command from the <b>Actions</b> menu."
 msgstr ""
 "Když nad nepřítele přesuneš myš, uvidíš, kam může dojít. Všechny možné "
-"pohyby všech nepřátelských jednotek můžeš zobrazit najednou volbou „<b>Ukaž "
-"tahy nepřítele</b>“ z menu „<b>Akce</b>“."
+"pohyby všech nepřátelských jednotek můžeš zobrazit najednou volbou <b>Ukaž "
+"tahy nepřítele</b> z menu <b>Akce</b>."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:497
 msgid "We must occupy that island before the Wolf Riders reach it!"
-msgstr "Musíme zabrat ten ostrov dříve, než se tam dostanou jezdci na vlku!"
+msgstr "Musíme zabrat ten ostrov dříve, než se tam dostanou jezdci na vlcích!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:502
@@ -1457,21 +1489,15 @@ msgstr "Nemůžeme kolem těch skřetů prostě projít?"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:517
-#, fuzzy
-#| msgid ""
-#| "No. Once you move close to an enemy unit, you are in its <i>Zone of "
-#| "Control</i> and cannot move further that turn.\n"
-#| "To move your troops onto that island without wading slowly through the "
-#| "water, you’ll have to kill the Grunt."
 msgid ""
 "No. Once you move close to an enemy unit, you are in its <i>Zone of Control</"
 "i> and cannot move further that turn. To move your troops onto that island "
 "without wading slowly through the water, you’ll have to kill the Grunt."
 msgstr ""
-"Ne. Jakmile se jednou přesuneš vedle nepřátelské jednotky, jsi v její "
-"<i>zóně kontroly</i> (ZoC) a nemůžeš se v tomto tahu posunout dále.\n"
-"K přesunu tvých jednotek na ostrov bez zdlouhavého brodění vodou jej budeš "
-"muset zabít."
+"Ne. Jakmile se jednou přesuneš vedle nepřátelské jednotky, jsi v její "
+"<i>oblasti kontroly</i> (ZoC) a nemůžeš se v tomto tahu posunout dále. Budeš "
+"muset zabít Grunta, abys přesunul své jednotky na ten ostrov bez zdlouhavého "
+"brodění vodou."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:521
@@ -1488,6 +1514,12 @@ msgid ""
 "prevent stronger enemies from reaching key locations, such as villages, even "
 "if you have limited manpower."
 msgstr ""
+"Políčka bezprostředně okolo jednotky tvoří její <i>oblast kontroly</i>. Když "
+"na tato políčka vstoupí nepřátelská jednotka, nemůže se v tomto kole nikam "
+"dál posunout. (Výjimkou jsou jednotky se schopností <i>průbojnost</i>, na "
+"které oblast kontroly nepůsobí.) To může být použito pro vytvoření blokády, "
+"která zabrání silnějším nepřátelům v dosažení klíčových pozic, jako jsou "
+"vesnice, i když máš omezenou sílu jednotek."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:538
