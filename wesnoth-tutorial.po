@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-12-22 08:40+0100\n"
+"PO-Revision-Date: 2019-12-23 18:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1718,7 +1718,7 @@ msgstr ""
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:759
 msgid "Hurry up and defeat the orcs before they become entrenched!"
-msgstr ""
+msgstr "Pospěš a poraz ty skřety dřív, než se opevní!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:787
@@ -2023,6 +2023,11 @@ msgid ""
 "Incursion</i> you have an Elvish army, similarly to this tutorial, but with "
 "seven scenarios for your units to gain experience and advance levels."
 msgstr ""
+"Porazil jsi skřety! Možná, že pak budeš chtít zkusit jedno z tažení pro "
+"zelenáče, které obsahuje rady pro strategii. Nejjednodušší je <i>Příběh dvou "
+"bratrů</i> a je doporučené jako první. V tažení <i>Skřetí nájezd</i> máš "
+"elfí vojsko, podobně jako v tomto výcviku, ale se sedmi scénáři, aby mohly "
+"tvé jednotky získat zkušenosti a postoupit o úrovně."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1229
@@ -2030,6 +2035,8 @@ msgid ""
 "You can also refer to the in-game help browser if you ever need to refresh "
 "your memory on gameplay mechanics."
 msgstr ""
+"Pokud někdy budeš potřebovat osvěžit paměť ohledně herních mechanik, můžeš "
+"se také podívat do prohlížeče nápovědy zabudovaného ve hře."
 
 #. [unit_type]: id=Fighter, race=human
 #: data/campaigns/tutorial/units/Fighter.cfg:4
@@ -2065,7 +2072,7 @@ msgid ""
 "Quintains are used to practice swordplay and jousting on. It would be "
 "extremely unusual to be attacked by one."
 msgstr ""
-"Panáci se používají k výcviku boje s mečem a k tréninku před turnaji. Bylo "
+"Panáci se používají k výcviku boje s mečem a k tréninku před turnaji. Bylo "
 "by extrémně neobvyklé, kdyby panák sám od sebe někoho napadl."
 
 #. [unit_type]: id=Warrior, race=human
@@ -2081,6 +2088,8 @@ msgid ""
 "With more experience, Fighters have honed their skills with the sword and "
 "become powerful Warriors."
 msgstr ""
+"Díky dalším zkušenostem vybrousili bojovníci své dovednosti s mečem a stali "
+"se mocnými válečníky."
 
 #. [unit_type]: id=Warrioress, race=human
 #: data/campaigns/tutorial/units/Warrioress.cfg:4
