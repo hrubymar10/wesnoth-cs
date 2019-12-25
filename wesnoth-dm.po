@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 18:29 UTC\n"
-"PO-Revision-Date: 2019-12-19 06:20+0100\n"
+"PO-Revision-Date: 2019-12-25 09:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1505,11 +1505,12 @@ msgid ""
 "abuse one of the hated human mages, was to strike Delfador with his "
 "gauntleted fist."
 msgstr ""
-"Byl to jeden z těch okamžiků, které rozhodují o osudu celého světa. Skřetí "
-"válečník měl mnoho různých možností, co v danou chvíli udělat. Mohl "
+"Byl to jeden z těch okamžiků, které rozhodují o osudu celého světa. Skřetí "
+"válečník měl mnoho různých možností, co v danou chvíli udělat. Mohl "
 "Delfadora jednoduše probodnout či mu useknout hlavu. Takto by zajistil, že "
-"by skřeti ovládli celý Wesnoth a po mnoho věků by mu spokojeně vládli. Ale "
-"on pouze slezl ze svého vlka a praštil ho."
+"by skřeti ovládli celý Wesnoth a po mnoho věků by mu spokojeně vládli. Ale "
+"to, co si vybral, když pomyslel, jak vzácná zábava je potýrat jednoho "
+"z nenáviděných lidských mágů, bylo udeřit Delfadora pěstí v obrněné rukavici."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:79
@@ -1631,7 +1632,7 @@ msgid ""
 msgstr ""
 "Mě se nemusíš bát, Delfadore. To je mé prokletí, že vypadám tak, jak "
 "vypadám. Byl jsem vazalem velmi krutého šlechtice. Vybíral vysoké daně, aby "
-"mohl válčit v mnoha válkách... pak přišly povodně... a my umírali hlady. "
+"mohl válčit v mnoha válkách..., pak přišly povodně... a my umírali hlady. "
 "Ten, kdo chtěl přežít, musel jíst maso těch, kteří zemřeli."
 
 #. [scenario]: id=09_Houses_of_the_Dead
@@ -1823,7 +1824,7 @@ msgstr "KDO VSTUPUJE DO HROBKY AN-USRUKHARA?"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:526
 msgid "I... I am Delfador, a mage of Wesnoth."
-msgstr "Jsem...jsem Delfador, wesnothský mág."
+msgstr "Jsem... jsem Delfador, wesnothský mág."
 
 #. [message]: speaker=narrator
 #. "bestrode" = past tense of archaic verb "bestride", literally
@@ -1946,7 +1947,7 @@ msgid ""
 "IT IS WELL. Take up, O servant of light, the Staff of An-Usrukhar. The "
 "trials before you will be great. So is its power."
 msgstr ""
-"TAK TO MÁ BÝT. Služebníku světla, vezmi Hůl An-Usrukhara a užívej ji. "
+"TAK TO MÁ BÝT. Služebníku světla, vezmi hůl An-Usrukhara a užívej ji. "
 "Zkoušky, které tě čekají, jsou nesmírné. Taková je i její síla."
 
 #. [scenario]: id=10_The_Gate_Between_Worlds
@@ -1966,8 +1967,9 @@ msgid ""
 "among the dead. You have come in time to see my greatest achievement — an "
 "end to death itself!"
 msgstr ""
-"To je ten, o kterém mi říkali mí poddaní... živý muž kráčející mezi mrtvými. "
-"Přišel jsi právě včas, abys uviděl můj největší čin — konec smrti samotné!"
+"To je ten, o kterém mi říkali mí poddaní..., živý muž kráčející mezi "
+"mrtvými. Přišel jsi právě včas, abys uviděl můj největší čin — konec smrti "
+"samotné!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:100
@@ -1996,8 +1998,8 @@ msgid ""
 "Now, my living followers, I summon you! See that death is nothing, and fear "
 "not to fight for me!"
 msgstr ""
-"Nyní, mí věrní smrtelníci, přijďte! Přivolávám Vás. Vězte, že smrt je pouhé "
-"nic! Přijďte a bojujte za mne!"
+"Nyní, mí věrní smrtelníci, přijďte! Přivolávám vás. Vězte, že smrt je pouhé "
+"nic! Přijďte a bojujte za mne!"
 
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:176
@@ -2032,7 +2034,7 @@ msgid ""
 "Kill the unbeliever... he will join us then."
 msgstr ""
 "Myslím, že při pohledu na meč uvidíš věci jinak, příteli. Mí věrní! Zabte "
-"toho nevěřícího... aby se k nám mohl přidat!"
+"toho nevěřícího..., aby se k nám mohl přidat!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:215
@@ -2050,8 +2052,8 @@ msgid ""
 "This portal Iliah-Malal has created is a great and terrible work of magic. I "
 "must catch him, and somehow force him to close it!"
 msgstr ""
-"Portál, který Iliah-Malal vytvořil, je velkým a hrůzným činem magie. Musím "
-"jít, polapit jej a nějak přinutit, aby jej zavřel!"
+"Portál, který Iliah-Malal vytvořil, je velkým a hrůzným činem magie. Musím "
+"jít, polapit jej a nějak přinutit, aby jej zavřel!"
 
 #. [scenario]: id=11_Wasteland
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:3
@@ -2104,7 +2106,7 @@ msgid ""
 "It’s hopeless, I’ve lost all track of Iliah-Malal... and I shall freeze "
 "unless I find shelter soon. Perhaps in that forest to the north..."
 msgstr ""
-"Je to beznadějné. Ztratil jsem jeho stopu... a pokud brzy nenajdu úkryt, "
+"Je to beznadějné. Ztratil jsem jeho stopu..., a pokud brzy nenajdu úkryt, "
 "zmrznu na kost. Snad v těch lesích na severu..."
 
 #. [objective]: condition=win
@@ -2786,10 +2788,10 @@ msgid ""
 "movements or of any trap in wait for him. And he certainly does not know of "
 "the undead menace."
 msgstr ""
-"Když jsme opouštěli Lintanir, zrovna dorazila zpráva, že vysoký lord Kalenz "
-"šikuje armádu elfů proti skřetům, ale neví o králových pohybech ani o žádné "
-"pasti, která by na něj byla nastražena. A jistě také neví o hrozbě ze strany "
-"nemrtvých."
+"Když jsme opouštěli Lintanir, zrovna dorazila zpráva, že nejvyšší lord "
+"Kalenz šikuje armádu elfů proti skřetům, ale neví o králových pohybech ani o "
+"žádné pasti, která by na něj byla nastražena. A jistě také neví o hrozbě ze "
+"strany nemrtvých."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1273
@@ -2820,7 +2822,7 @@ msgid ""
 msgstr ""
 "Není mi to dáno, Delfadore. Musím se vrátit do Lintaniru jak rychle to jen "
 "půjde. Severní elfové musí být okamžitě zpraveni o stavu věcí — a možná "
-"najdu vysokého lorda Kalenze nebo mu alespoň dám poslat zprávu."
+"najdu nejvyššího lorda Kalenze nebo mu alespoň dám poslat zprávu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1285
@@ -2889,8 +2891,8 @@ msgstr ""
 "Byl to elf jménem Kalenz. který se stovky let před narozením Delfadora stal "
 "legendou mezi lidmi i elfy. Příběh o něm, <i>Wesmerská legenda</i>, je znám "
 "ve všech elfích zemích. Lektvar nekromanta mu prodloužil život, a tak se po "
-"smrti své milované vzdal titulu Vysoký Lord elfů a vydal se toulat Velkým "
-"Kontinentem."
+"smrti své milované vzdal titulu nejvyšší lord elfů a vydal se toulat Velkým "
+"kontinentem."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:27
@@ -2960,7 +2962,7 @@ msgid ""
 "The orcs are retreating! And... what is this? A shyde flying towards us as "
 "if hell were on her heels..."
 msgstr ""
-"Skřeti prchají! A...co se to děje? Letí sem nějaká víla jako by ji hnalo "
+"Skřeti prchají! A... co se to děje? Letí sem nějaká víla jako by ji hnalo "
 "samo peklo..."
 
 #. [message]: id=Kalenz
@@ -2969,7 +2971,7 @@ msgid ""
 "The orcs are retreating! And... what is this? A druid running to meet us as "
 "though hell were on her heels..."
 msgstr ""
-"Skřeti prchají! A...co se to děje? Nějaká druidka běží sem k nám jako by ji "
+"Skřeti prchají! A... co se to děje? Nějaká druidka běží sem k nám jako by ji "
 "hnalo samo peklo..."
 
 #. [message]: id=Chantal
@@ -3286,7 +3288,7 @@ msgid ""
 "the Elves, and we are in your debt today."
 msgstr ""
 "Jsem rád, že tě poznávám, Delfadore. Chantal mi o tobě hodně vyprávěla. Jsem "
-"Kalenz, Vyšší Lord Elfů, kteří ti jsou dnes za mnohé zavázáni."
+"Kalenz, nejvyšší lord elfů, kteří ti jsou dnes za mnohé zavázáni."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:369
@@ -3419,7 +3421,7 @@ msgstr ""
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:284
 msgid "My King, this is Kalenz, High Lord of the Elves."
-msgstr "Můj králi, toto je Kalenz, Vyšší lord Elfů."
+msgstr "Můj králi, toto je Kalenz, nejvyšší lord elfů."
 
 #. [message]: id=Garard II
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:288
@@ -4403,7 +4405,7 @@ msgstr ""
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:288
 msgid "Delfador... You raise undead?!"
-msgstr "Delfadore...ty jsi nechal povstat nemrtvé?"
+msgstr "Delfadore... ty jsi nechal povstat nemrtvé?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:293
@@ -4655,7 +4657,7 @@ msgid ""
 "will confirm the treaty between us."
 msgstr ""
 "Generálové Wesnotští! Zaútočili jste na nechráněné elfí území. Urychleně "
-"musíte opustit tyto země. Jsem Kalenz, Vysoký Lord elfů. Delfador Veliký "
+"musíte opustit tyto země. Jsem Kalenz, nejvyšší lord elfů. Delfador Veliký "
 "jistě potvrdí dohody mezi námi uzavřené."
 
 #. [message]: id=Eldred
@@ -5260,8 +5262,8 @@ msgid ""
 "A wizard’s staff of power. This allows the bearer to summon powerful "
 "lightning bolts which strike their enemies, even at close range."
 msgstr ""
-"Čarodějova Hůl Moci. Umožňuje majiteli sesílat mocné blesky, které zasáhnou "
-"nepřítele jak zblízka tak z dálky."
+"Čarodějova hůl moci. Umožňuje majiteli sesílat mocné blesky, které zasáhnou "
+"nepřítele jak zblízka, tak z dálky."
 
 #. [object]: id=staff_lightning
 #: data/campaigns/Delfadors_Memoirs/utils/items.cfg:46
@@ -5271,7 +5273,7 @@ msgstr "Pouze mocný mág ji může nosit."
 #. [effect]
 #: data/campaigns/Delfadors_Memoirs/utils/items.cfg:51
 msgid "staff of power"
-msgstr "Hůl Moci"
+msgstr "hůl moci"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/utils/misc.cfg:37
