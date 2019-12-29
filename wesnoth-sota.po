@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-11-10 08:19+0100\n"
+"PO-Revision-Date: 2019-12-29 19:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1028,7 +1028,7 @@ msgstr ""
 #. [scenario]: id=05_Blackwater
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:13
 msgid "Blackwater"
-msgstr "Přístav temných vod"
+msgstr "Přístav Temných Vod"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:26
@@ -1191,7 +1191,7 @@ msgstr "Ty jsi duch… opravdový duch! Budu tě sledovat. Věd mě."
 msgid ""
 "Blackwater Port is defeated, but we must let none escape. Finish them all."
 msgstr ""
-"Přístav temných vod je dobyt, ale nesmíme nechat nikoho uniknout. Zabijte je "
+"Přístav Temných Vod je dobyt, ale nesmíme nechat nikoho uniknout. Zabijte je "
 "všechny."
 
 #. [scenario]: id=06_Following_the_Shadow
@@ -1696,8 +1696,8 @@ msgid ""
 "Or... you know. Thanks so much for getting us out, sir. We would be glad to "
 "follow you!"
 msgstr ""
-"Nebo ... víte. Díky moc za to, že jste nás dostali ven, pane. Rádi bychom "
-"vás následovali!"
+"Nebo... víte. Díky moc za to, že jste nás dostali ven, pane. Rádi bychom vás "
+"následovali!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:293
