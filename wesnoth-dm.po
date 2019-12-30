@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 18:29 UTC\n"
-"PO-Revision-Date: 2019-12-25 09:11+0100\n"
+"PO-Revision-Date: 2019-12-30 18:02+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2117,7 +2117,7 @@ msgstr "Najdi Delfadorovi úkryt dříve než umrzne"
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:168
 msgid "What are you doing in our forests, stranger?"
-msgstr "Co tvé kroky přivádí do našich lesů, cizinče?"
+msgstr "Co přivádí tvé kroky do našich lesů, cizinče?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:172
@@ -2125,7 +2125,7 @@ msgid ""
 "It’s a long story... but I wonder whether I might first ask for your "
 "hospitality? I’m lost, and freezing to death here!"
 msgstr ""
-"To je dlouhý příběh... ale velmi rád bych vás nejdřív požádal o vaši "
+"To je dlouhý příběh..., ale velmi rád bych vás nejdřív požádal o vaši "
 "pohostinnost. Ztratil jsem se a jsem k smrti prokřehlý."
 
 #. [message]: speaker=unit
@@ -2147,7 +2147,7 @@ msgstr "Vítej, Delfadore!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:222
 msgid "Er, hello... you know my name, then...?"
-msgstr "Ehm, dobrý den... ty znáš mé jméno?"
+msgstr "Ehm, dobrý den..., ty znáš mé jméno?"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:226
@@ -2158,9 +2158,9 @@ msgid ""
 "none before have returned unchanged. Fate is heavy upon you, and you deserve "
 "our help."
 msgstr ""
-"Ano. Jsem Chantal, a znám mnohé. Přicházíš z velkého státu lidí na jihu a "
-"jsi mistrem nad mistry v největším umění, v magii. Střetl ses s mnohým, "
-"navštívil jsi místa, odkud je jen malá naděje na návrat, a odkud se doposud "
+"Ano. Jsem Chantal a znám mnohé. Přicházíš z velkého státu lidí na jihu a jsi "
+"mistrem nad mistry v největším umění, v magii. Střetl ses s mnohým, "
+"navštívil jsi místa, odkud je jen malá naděje na návrat a odkud se doposud "
 "nikdo nevrátil nezměněn. Osud Ti kráčí v patách. Jsi hoden naší pomoci."
 
 #. [message]: speaker=Delfador
@@ -2171,10 +2171,10 @@ msgid ""
 "school against the orcs, and then to find out the source of the undead "
 "activity... and I have failed at both."
 msgstr ""
-"Och... díky... je to od tebe moc hezké, ale já se necítím být hybatelem "
-"osudu. Ve skutečnosti jsem totálně selhal! Pouze jsem se snažil bránit školu "
-"svého mistra Methora před skřety a poté najít prapůvod aktivity nemrtvých... "
-"a v obojím jsem totálně selhal!"
+"Och... díky..., je to od tebe moc hezké, ale já se necítím být hybatelem "
+"osudu. Já to totiž určitě zpackal! Pouze jsem se snažil bránit školu svého "
+"mistra Methora před skřety a poté najít prapůvod aktivity nemrtvých... "
+"a v obojím jsem selhal."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:234
@@ -2193,12 +2193,12 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:238
 msgid "You mean Iliah-Malal?"
-msgstr "Máš na mysli Iliah-Malala?"
+msgstr "Míníš tím Iliah-Malala?"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:242
 msgid "Yes, that is who I mean."
-msgstr "Ano, to byl muž v mé mysli."
+msgstr "Ano, toho myslím."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:246
@@ -2217,10 +2217,10 @@ msgid ""
 "wasteland inhabited only by barbarians and orcs. To the south again, the "
 "Great River, and your home. Of your friends, I know nothing."
 msgstr ""
-"Jsi v Lese Lintanir, domově Elfů Severu. Naše umění zadržuje zimní chlad v "
-"těchto lesích. Na jih a na západ leží pustiny obydlené jenom barbary a "
-"skřety. Na jih leží Velká Řeka, kterou nazýváte Abez, a za ní Tvůj domov. "
-"Ale o tvých přátelích nevím nic."
+"Jsi v lese Lintanir, domově elfů Severu. Naše umění zadržuje zimní chlad "
+"v těchto lesích. Na jih a na západ leží pustiny obydlené jenom barbary "
+"a skřety. Jižně také leží Velká řeka, kterou nazýváte Abez, a za ní Tvůj "
+"domov. Ale o tvých přátelích nevím nic."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:254
@@ -2289,7 +2289,7 @@ msgid ""
 msgstr ""
 "S Tvou pomocí, Delfadore, jsme rozdrtili skřetí nájezdníky v těchto "
 "končinách. V našich lesích je zase bezpečno. Natolik bezpečno, že Tě mohu "
-"doprovodit při Tvé cestě na jih... nejméně k Velké Řece."
+"doprovodit při Tvé cestě na jih... nejméně k Velké řece."
 
 #. [scenario]: id=12_Terror_at_the_Ford_of_Parthyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:5
@@ -2341,8 +2341,8 @@ msgid ""
 msgstr ""
 "Toto je nejbližší lidská posádka, Delfadore. Zde je jediné místo, kde se dá "
 "řeka přebrodit. Brzy poté, co poslední král Wesnothu začal vládnout, umístil "
-"sem silné opevnění kousek jižně odtud ve městě Parthyn a od těch dob skřeti "
-"ještě nikdy nepřekročili řeku v těchto místech."
+"nedaleko odtud na jih ve městě Parthynu silné opevnění a od té doby skřeti "
+"nedokázali přes tuto část řeky přejít do Wesnothu."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:251
@@ -2430,7 +2430,7 @@ msgstr "Připravte se na boj! Musíme zabezpečit brod!"
 #. [message]: role=Commander
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:470
 msgid "Halt! Who goes there?"
-msgstr "Stát! Kdo to je?"
+msgstr "Stát! Kdo je to?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:474
@@ -2565,7 +2565,7 @@ msgstr "Přicházejí v noci... a nikoho nenechávají naživu..."
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:722
 msgid "Get hold of yourself, soldier! Who is ‘they’?"
-msgstr "Vzpamatuj se! Kdo jsou „oni“?"
+msgstr "Vzpamatuj se! Kdo jsou ‚oni‘?"
 
 #. [message]: speaker=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:726
@@ -2573,8 +2573,8 @@ msgid ""
 "I do not know. No one has seen their faces and lived. All I could hear is my "
 "comrades’ screams as they were being slaughtered."
 msgstr ""
-"Nevím. Nikdo ještě neviděl jejich obličeje a přežil to. Slyšel jsem jen křik "
-"svých kamarádů, když byli pobíjeni."
+"Nevím. Žádný, kdo spatřil jejich tváře, nepřežil. Slyšel jsem jen křik svých "
+"kamarádů, když byli pobíjeni."
 
 #. [unit]: type=Heavy Infantryman, id=Donc
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:754
@@ -3111,7 +3111,7 @@ msgid ""
 "find there were grimmer foes awaiting them."
 msgstr ""
 "Kalenzovu vojsku se dařilo rychle postupovat na jih a pak na západ podél "
-"severního břehu Velké Řeky. Úspěšně se vyhnuli skřetům, ale brzy zjistí, že "
+"severního břehu Velké řeky. Úspěšně se vyhnuli skřetům, ale brzy zjistí, že "
 "na ně čekají pochmurnější nepřátelé."
 
 #. [side]: type=Death Knight, id=Rudimil
@@ -3314,7 +3314,7 @@ msgid ""
 "Yes. We will follow you to the Ford of Abez, Delfador. Let us hope we are "
 "not too late to prevent an orcish victory there."
 msgstr ""
-"Ano. Budeme tě, Delfadore, následovat k Brodu přes Velkou Řeku. Doufejme, že "
+"Ano. Budeme tě, Delfadore, následovat k Brodu přes Velkou řeku. Doufejme, že "
 "ještě není pozdě překazit skřetům jejich plány"
 
 #. [scenario]: id=15_Save_the_King
@@ -3380,7 +3380,7 @@ msgid ""
 "tribe north of the Great River. Look at their army, it is vast!"
 msgstr ""
 "Bojím se, že jsme přišli příliš pozdě. Nový náčelník musel shromáždit "
-"veškeré síly skřetů na sever od Velké Řeky! Podívejte na jeho armádu! Je "
+"veškeré síly skřetů na sever od Velké řeky! Podívejte na jeho armádu! Je "
 "jich nepočítaně!"
 
 #. [message]: id=Zorlan
