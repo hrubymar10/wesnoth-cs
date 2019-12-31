@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2019-11-10 08:21+0100\n"
+"PO-Revision-Date: 2019-12-31 20:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -47,26 +47,20 @@ msgid ""
 "remaining men of the derelict South Guard to defend his country.\n"
 "\n"
 msgstr ""
+"Mladý rytíř Deoran je vyslán do provincie Kerlathu v jižním Wesnothu, aby "
+"prozkoumal vypleněná hraniční města. Deoran, rychle vtažen do nešťastného "
+"sporu proti drancujícím banditům, musí shromáždit zbývající muže zanedbané "
+"Jižní hlídky, aby bránil svou zemi.\n"
+"\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:21
-#, fuzzy
-#| msgid ""
-#| "A young Knight, Deoran, is dispatched to take command of the South "
-#| "Guard.\n"
-#| "\n"
-#| "Note: This campaign is designed as an introduction to Wesnoth. The "
-#| "‘Civilian’ difficulty level is aimed at first-time players.\n"
-#| "\n"
 msgid ""
 "This campaign is designed as an introduction to Wesnoth. The ‘Civilian’ "
 "difficulty level is aimed at first-time players."
 msgstr ""
-"Mladý rytíř, Deoran, je vyslán převzít velení nad Jižní hlídkou.\n"
-"\n"
-"Poznámka: Toto tažení je navrženo jako úvod ke hraní Wesnothu. Obtížnost "
-"‚Civilista‘ je určena pro hráče, kteří se s hrou seznamují poprvé.\n"
-"\n"
+"Toto tažení je navrženo jako úvod ke hraní Wesnothu. Obtížnost ‚Civilista‘ "
+"je určena pro začínající hráče."
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:23
@@ -394,18 +388,13 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:388
-#, fuzzy
-#| msgid ""
-#| "Bowmen have a strong ranged attack, and are very effective against units "
-#| "that lack a ranged attack, like Thieves and Thugs. They also carry a "
-#| "sword and can defend themselves against melee attacks."
 msgid ""
 "Bowmen have a strong ranged attack and are very effective against units that "
 "lack a ranged attack, like Thieves and Thugs. They also carry a sword and "
 "can defend themselves against melee attacks."
 msgstr ""
 "Lučištníci mají silný útok na dálku a jsou velmi efektivní při použití proti "
-"jednotkám které nemohou na dálku bojovat - například zloději nebo lupiči. "
+"jednotkám které nemohou na dálku bojovat – například zloději nebo lupiči. "
 "Mají také meč a tudíž se mohou bránit útokům zblízka."
 
 #. [message]: speaker=narrator
@@ -3674,7 +3663,7 @@ msgstr ""
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:667
 msgid "Mebrin..."
-msgstr "Mebrine…"
+msgstr "Mebrine..."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:672
@@ -3703,7 +3692,7 @@ msgstr ""
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:682
 msgid "Mebrin, please..."
-msgstr "Mebrine prosím…"
+msgstr "Mebrine prosím..."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:687
@@ -5133,7 +5122,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:21
 msgid "I have failed my kingdom and duty..."
-msgstr "Selhal jsem. Má čest i mé království ..."
+msgstr "Selhal jsem. Má čest i mé království..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:44
@@ -5263,22 +5252,16 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:7
-#, fuzzy
-#| msgid ""
-#| "During the reign of Haldric VII, the land of Wesnoth was peaceful. Konrad "
-#| "I had driven off the orcs in the north. The eastern forts were quiet and "
-#| "almost deserted. The elves in the western forest kept to their own "
-#| "affairs. In the prosperous south men built new towns and farms."
 msgid ""
 "The reign of Haldric VII was a time of great prosperity and peace in "
 "Wesnoth. Konrad I had driven off the orcs in the north. The eastern forts "
 "were quiet and secure. The elves in the western forest kept to their own "
 "affairs. In the south, men built new towns and farms."
 msgstr ""
-"Během vlády Haldrika VII. byl Wesnoth v bezpečí. Konrád I. vytlačil skřety "
-"na severu. Východní pevnosti byly klidné a téměř opuštěné. Elfové v západním "
-"lese se zabývali svými vlastními problémy. Na blahobytném jihu postavili "
-"lidé nová města a farmy."
+"Doba panování Haldrika VII. byla pro Wesnoth časem míru a velkého blahobytu. "
+"Na severu Konrád I. vyhnal skřety. Východní pevnosti byly klidné a bezpečné. "
+"Elfové v západním lese se zabývali svými vlastními záležitostmi. Na jihu "
+"stavěli lidé nová města a farmy."
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:12
