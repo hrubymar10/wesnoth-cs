@@ -12,14 +12,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
-# Michal Žejdl <lachim@emer.cz>, 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 11:33+0300\n"
-"PO-Revision-Date: 2019-12-07 10:13+0100\n"
+"PO-Revision-Date: 2020-01-01 08:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4529,9 +4529,9 @@ msgid ""
 "terrain, because units can only see as far as they can move in one turn."
 msgstr ""
 "Pokud hrajete se zapnutou <b>mlhou</b> či <b>zahalením tmou</b>, není jasné, "
-"proti čemu stojíte. V takovém případě se velmi hodí průzkumné jednotky s "
-"velkou rychlostí pohybu. Oblast, kterou jednotka vidí, odpovídá tomu kam "
-"dojde v příštím tahu, takže je vhodné uvážit i rychlost pohybu na různých "
+"proti čemu stojíte. V takovém případě se velmi hodí průzkumné jednotky "
+"s velkou rychlostí pohybu. Oblast, kterou jednotka vidí, odpovídá tomu, kam "
+"dojde v příštím tahu, takže je vhodné uvážit i rychlost pohybu na různých "
 "terénech pro co největší rozhled."
 
 #. [tip]
@@ -5594,7 +5594,7 @@ msgstr "vyžaduji informace o uživateli $nick"
 
 #: src/chat_command_handler.hpp:66
 msgid "(A) — admin command"
-msgstr "(A) - administrátorský příkaz"
+msgstr "(A) – administrátorský příkaz"
 
 #: src/chat_command_handler.hpp:73 src/menu_events.cpp:1154
 msgid "(admin only)"
@@ -6291,7 +6291,7 @@ msgstr "Zlata dohromady: "
 
 #: src/game_initialization/playcampaign.cpp:73
 msgid "Carryover percentage: "
-msgstr "Podíl přenesených peněz: "
+msgstr "Procento přenesených peněz: "
 
 #: src/game_initialization/playcampaign.cpp:76
 msgid "Bonus gold: "
