@@ -12,14 +12,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
-# Michal Žejdl <lachim@emer.cz>, 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-06-30 12:14 UTC\n"
-"PO-Revision-Date: 2019-12-02 19:53+0100\n"
+"PO-Revision-Date: 2020-01-02 20:10+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2508,7 +2508,7 @@ msgstr ""
 #. [unit_type]: id=Elvish High Lord, race=elf
 #: data/core/units/elves/High_Lord.cfg:4
 msgid "Elvish High Lord"
-msgstr "Vysoký elfí lord"
+msgstr "Nejvyšší elfí lord"
 
 #. [unit_type]: id=Elvish High Lord, race=elf
 #. "awesome" is used here in the sense of "causing awe", not in the sense of "very good".
@@ -2519,10 +2519,10 @@ msgid ""
 "and wisdom. Quiet and contemplative in times of peace, a High Lord in the "
 "full of his wrath is an awesome sight indeed."
 msgstr ""
-"Vůdcové elfů se u své rasy těší instinktivní odevzdanosti, kterou jim "
-"ostatní vůdci mohou pouze závidět. Získávají ji velkou moudrostí a "
-"uvědomělostí. Jakkoliv klidný a rozjímavý v dobách klidu, rozhněvaný Vysoký "
-"lord je vskutku strašlivý a hrůzu nahánějící pohled."
+"Vůdcové elfů se u své rasy těší instinktivní odevzdanosti, kterou jim "
+"ostatní vůdci mohou pouze závidět. Získávají ji velkou moudrostí "
+"a uvědomělostí. Jakkoliv klidný a rozjímavý v dobách klidu, rozhněvaný "
+"nejvyšší lord je vskutku strašlivý a hrůzu nahánějící pohled."
 
 #. [unit_type]: id=Elvish Lady, race=elf
 #: data/core/units/elves/Lady.cfg:5
