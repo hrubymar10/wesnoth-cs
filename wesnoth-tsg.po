@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2020-01-03 20:07+0100\n"
+"PO-Revision-Date: 2020-01-04 14:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -216,7 +216,7 @@ msgstr "Sir Gerrick zemře"
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:173
 msgid "Upon arrival, Deoran found the land completely overrun by bandits."
-msgstr ""
+msgstr "Hned po příjezdu Deoran zjistil, že zem je plně v rukou banditů."
 
 #. [unit]: id=Moreth
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:187
@@ -225,30 +225,23 @@ msgstr "Moreth"
 
 #. [message]: speaker=Moreth
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:200
-#, fuzzy
-#| msgid ""
-#| "You’ll never take this village! I’ve seen your kind kill too many "
-#| "townsmen, and I’ll defend them to the death!"
 msgid ""
 "You will never take this village! I have watched too many of your kind "
 "ransack our homes and kill the townsfolk! I’ll defend them to the death if I "
 "must!"
 msgstr ""
-"Nikdy nedobudeš tuto vesnici! Viděl jsem už takové jako ty zabít příliš "
-"mnoho vesničanů a budu je bránit do posledního dechu!"
+"Tuhle vesnici nikdy nezískáš! Sledoval jsem příliš mnoho takových jako ty, "
+"jak brakují naše domovy a zabíjí místní obyvatele! Jestli není vyhnutí, budu "
+"je bránit do posledního dechu!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:206
-#, fuzzy
-#| msgid ""
-#| "My kind? I am a soldier of Wesnoth, a messenger of King Haldric, and the "
-#| "new commander of the South Guard! What do you mean, <i>“my kind”</i>?"
 msgid ""
 "My kind? I am a knight of Wesnoth and a messenger appointed by the King "
 "himself! What do you mean, <i>“my kind”</i>? And where is the South Guard?"
 msgstr ""
-"Takové jako já? Jsem voják Wesnothu, posel krále Haldrika a nový velitel "
-"Jižní hlídky! Co myslíš tím „<i>takové jako ty</i>“?"
+"Takových jako já? Jsem rytíř Wesnothu a posel jmenovaný samotným králem! Co "
+"myslíš tím <i>„takových jako já“</i>? A kde je Jižní hlídka?"
 
 #. [message]: speaker=Moreth
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:211
@@ -258,35 +251,28 @@ msgid ""
 "their numbers were too great. Alas, Sir Gerrick and I are now the last two "
 "who remain. The South Guard is no more."
 msgstr ""
+"Hluboce se omlouvám, pane! Bandité rabují vesnice a zabíjejí sedláky – "
+"dělali jsme, co se dalo, abychom se ubránili a vyhnali je, ale bylo jich "
+"příliš mnoho. Bohužel, teď jsme zůstali pouze poslední dva, sir Gerrick "
+"a já. Už není žádná Jižní hlídka."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:216
-#, fuzzy
-#| msgid ""
-#| "I have been sent to take command of the South Guard and set things right. "
-#| "We must arm the villagers and drive off the bandits before they can do "
-#| "any more harm!"
 msgid ""
 "What? I was sent here merely to question Sir Loris, but it seems that the "
 "circumstances here are more dire than I had thought. We must arm the "
 "villagers and drive off the bandits before they can do any more harm!"
 msgstr ""
-"Byl jsem vyslán převzít velení nad Jižní hlídkou a dát věci do pořádku. "
-"Musíme ozbrojit vesničany a vyhnat bandity dříve než stihnou způsobit další "
-"škody!"
+"Cože? Poslali mne sem, pouze abych vyzpovídal sira Lorise, ale zdá se, že "
+"zdejší situace je zoufalejší, než jsem si myslel. Musíme vyzbrojit vesničany "
+"a vyhnat bandity dříve, než budou moci způsobit nějakou další škodu!"
 
 #. [message]: speaker=Moreth
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:221
-#, fuzzy
-#| msgid ""
-#| "Someone should head to the river fort! Sir Gerrick will want to know that "
-#| "reinforcements have arrived!"
 msgid ""
 "Then we must head to the river fort! Sir Gerrick is guarding the armory "
 "there!"
-msgstr ""
-"Někdo by měl jít k říční pevnosti! Sir Gerrick se určitě rád doví, že přišly "
-"posily!"
+msgstr "Pak musíme zamířit k říční pevnosti! Sir Gerrick tam hlídá zbrojnici!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:230
@@ -299,16 +285,12 @@ msgstr ""
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:236
-#, fuzzy
-#| msgid ""
-#| "Ha! This new commander is a mere boy. He will soon share the fate of that "
-#| "swine Loris!"
 msgid ""
 "Ha! This new commander is merely a boy. What kind of fool sent him here to "
 "stop us? This sniveling child will soon share the fate of that swine Loris!"
 msgstr ""
-"Cha! Tenhle nový velitel je jen klouček. Jeho osud nebude jiný než měla ta "
-"svině Loris!"
+"Cha! Ten novej velitel je jen klouček. Kterej blázen ho sem poslal, aby nás "
+"zastavil? Tohodle usmrkánka brzo potká stejnej osud, jako tu svini Lorise!"
 
 #. [unit]: type=Infantry Lieutenant, id=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:258
@@ -325,6 +307,11 @@ msgid ""
 "were slain. I have barely managed to defend this fort, but the South Guard "
 "has fallen and I do not know how much longer I can hold..."
 msgstr ""
+"Konečně posily! Pane rytíři, bandité zabrali celý kraj, bezohledně rabují "
+"a zabíjí bez slitování. Moji muži a já jsme je zkoušeli přemoci, ale "
+"naneštěstí nás na hlavu porazili a většina mých mužů byla pobita. Jen taktak "
+"se mi podařilo ubránit tuto pevnost, ale Jižní hlídka padla a já nevím, jak "
+"dlouho ještě dokážu udržet..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:276
@@ -333,6 +320,9 @@ msgid ""
 "villagers and re-man the posts. Are there any weapons left in the citadel’s "
 "armory?"
 msgstr ""
+"Nezoufej! Jsem si jist, že můžeme tyhle zbojníky odrazit, když dáme "
+"dohromady vesničany a znovu obsadíme pozice. Nezůstaly v pevnostní zbrojnici "
+"nějaké zbraně?"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:281
@@ -340,6 +330,8 @@ msgid ""
 "A small supply of spears and bows still remains. I will distribute them to "
 "the peasants if that is your wish, commander."
 msgstr ""
+"Ještě zbývá malá zásoba kopí a luků. Jestli je to tvé přání veliteli, "
+"rozdělím je mezi sedláky."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:286
@@ -350,6 +342,11 @@ msgid ""
 "raise the white and red banners and lead us against them. The South Guard "
 "fights again!"
 msgstr ""
+"<i>Takže on došel k názoru, že jsem tu, abych převzal velení? Výborně, nikdy "
+"jsem nebyl z těch, kdo by couvli před výzvou.</i> Ano, měli bychom v mém "
+"ležení shromáždit tolik oddílů, kolik můžeme a připravit frontu proti "
+"banditům. Pozvednu červenobílé korouhve a povedu nás proti nim. Jižní hlídka "
+"znovu bojuje!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:298
@@ -5299,7 +5296,7 @@ msgid ""
 msgstr ""
 "Bez hrozícího nebezpečí Jižní hlídka v průběhu času zlenivěla, spokojená "
 "sama se sebou. Hlášení pro krále Haldrika se zpožďovala a na jaře devátého "
-"roku ustala úplně. Král, nespokojený s vedením sira Lorise, se rozhodl "
+"roku ustala úplně. Král nesl s nelibostí vedení sira Lorise a rozhodl se "
 "někoho vyslat, aby to prošetřil."
 
 #. [part]
