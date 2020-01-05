@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2020-01-04 14:42+0100\n"
+"PO-Revision-Date: 2020-01-05 08:28+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -345,8 +345,8 @@ msgstr ""
 "<i>Takže on došel k názoru, že jsem tu, abych převzal velení? Výborně, nikdy "
 "jsem nebyl z těch, kdo by couvli před výzvou.</i> Ano, měli bychom v mém "
 "ležení shromáždit tolik oddílů, kolik můžeme a připravit frontu proti "
-"banditům. Pozvednu červenobílé korouhve a povedu nás proti nim. Jižní hlídka "
-"znovu bojuje!"
+"banditům. Pozvednu červenobílou korouhev a povedu vás proti nim. Jižní "
+"hlídka znovu bojuje!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:298
@@ -605,29 +605,23 @@ msgstr ""
 
 #. [message]: speaker=Aleron
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:595
-#, fuzzy
-#| msgid "Not more bandits... We have nothing left. Begone!"
 msgid "More bandits? Begone, we have nothing left for you."
-msgstr "Snad ne zas další lupiči... Nemáme už nic. Odejděte!"
+msgstr "Další banditi? Jděte pryč, nezbylo nám pro vás nic."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:599
-#, fuzzy
-#| msgid ""
-#| "We are no bandits. The banner of the South Guard flies again! Help us "
-#| "drive these criminals from your land."
 msgid ""
 "We fight under the banner of the South Guard <i>against</i> the bandits! "
 "Join us if you wish to drive these brigands from your land!"
 msgstr ""
-"Nejsme lupiči. Vlajka Jižní hlídky je opět vztyčena! Pomoz nám vyhnat ty "
-"zločince ze své země."
+"My pod korouhví Jižní hlídky bojujeme <i>proti</i> banditům! Připoj se "
+"k nám, jestli chceš tyhle zbojníky vyhnat ze své země!"
 
 #. [message]: speaker=Aleron
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:603
 msgid ""
 "The South Guard has risen again? I would be proud to fight alongside you!"
-msgstr ""
+msgstr "Jižní hlídka znovu povstala? S hrdostí budu bojovat po tvém boku!"
 
 #. [unit]: type=Footpad, id=Glasar
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:613
@@ -883,10 +877,8 @@ msgstr "Pastor Hylas"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:332
-#, fuzzy
-#| msgid "The master of the undead is defeated!"
 msgid "More bandits?! Prepare to die!"
-msgstr "Vládce nemrtvých byl poražen!"
+msgstr "Další bandité?! Připravte se na smrt!"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:336
@@ -5098,6 +5090,11 @@ msgid ""
 "Wesnoth' s army, where they gain experience leading fellow troops and honing "
 "their prowess in battle."
 msgstr ""
+"Panoši nejsou ve svých sotva 17 nebo 18 letech plnoprávnými rytíři, ale "
+"přesto mají znalosti a dovednosti nutné k ovládnutí svých koní, když jsou "
+"v plné zbroji. Nadaní panoši někdy dostanou na povel malé jednotky ve "
+"wesnothském vojsku, kde získají zkušenosti s vedením spolubojovníků a při "
+"zdokonalování své zdatnosti v bitvě."
 
 #. [unit_type]: id=Mounted General, race=human
 #: data/campaigns/The_South_Guard/units/Mounted_General.cfg:4
