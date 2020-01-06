@@ -11,14 +11,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
-# Michal Žejdl <lachim@emer.cz>, 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2020-01-05 08:28+0100\n"
+"PO-Revision-Date: 2020-01-06 20:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -355,6 +355,9 @@ msgid ""
 "capable leader, raising the fighting spirit of less experienced troops near "
 "him and causing their attacks to deal more damage."
 msgstr ""
+"Sir Gerrick je jako polní důstojník pěchoty zároveň mocným válečníkem a také "
+"schopným vůdcem, který pozvedá bojového ducha méně zkušených oddílů ve své "
+"blízkosti a způsobuje, že svým útokem udílejí větší zranění."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:304
@@ -363,25 +366,21 @@ msgid ""
 "them die, you will lose the scenario, so guard them carefully!"
 msgstr ""
 "Jednotky, které mají označení <i>hrdiny</i> jsou životně důležité pro tvé "
-"tažení. Pokud některá z nich zemře, prohraješ scénář, hlídej je tedy pozorně!"
+"tažení. Pokud některá z nich zemře, prohraješ scénář, hlídej je tedy pozorně!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:329
 msgid "Head back to the encampment where you started and recruit some troops!"
-msgstr "Vrať se do ležení, kde jsi začal, a naverbuj nějaké jednotky!"
+msgstr "Vrať se do ležení, kde jsi začal, a naverbuj nějaké jednotky!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:382
-#, fuzzy
-#| msgid ""
-#| "While you’re in your camp, you can recruit more troops. Build up a small "
-#| "force to use against the bandits that Urza Mathin recruits."
 msgid ""
 "While you are in your camp, you can recruit more units. Build an army to use "
 "against the bandits that Urza Mathin recruits."
 msgstr ""
-"Když jsi v ležení, můžeš verbovat další jednotky. Sestav menší vojsko pro "
-"boj s bandity, které najímá Urza Mathin."
+"Když jsi v ležení, můžeš verbovat další jednotky. Postav vojsko pro boj "
+"s bandity, které najímá Urza Mathin."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:388
@@ -390,24 +389,19 @@ msgid ""
 "lack a ranged attack, like Thieves and Thugs. They also carry a sword and "
 "can defend themselves against melee attacks."
 msgstr ""
-"Lučištníci mají silný útok na dálku a jsou velmi efektivní při použití proti "
-"jednotkám které nemohou na dálku bojovat – například zloději nebo lupiči. "
-"Mají také meč a tudíž se mohou bránit útokům zblízka."
+"Lučištníci mají silný útok na dálku a jsou velmi efektivní při použití proti "
+"jednotkám, které nemohou na dálku bojovat – například proti zlodějům nebo "
+"lupičům. Mají také meč, a tudíž se mohou bránit útokům zblízka."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:393
-#, fuzzy
-#| msgid ""
-#| "Spearmen have a strong melee attack, and are effective against most "
-#| "units. They also have a weak ranged attack. They form the backbone of the "
-#| "South Guard."
 msgid ""
 "Spearmen have a strong melee attack and are effective against most units. "
 "They also have a weak ranged attack. They form the backbone of the South "
 "Guard."
 msgstr ""
-"Kopiníci mají silný útok zblízka a jsou efektivní proti většině jednotek. "
-"Kromě toho disponují i slabým útokem na dálku. Tvoří hlavní bojové složky "
+"Kopiníci mají silný útok zblízka a jsou efektivní proti většině jednotek. "
+"Kromě toho disponují i slabým útokem na dálku. Tvoří hlavní bojové složky "
 "Jižní hlídky."
 
 #. [message]: speaker=narrator
@@ -436,95 +430,63 @@ msgstr "Ylla"
 #. [message]: speaker=Myssh
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:454
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:543
-#, fuzzy
-#| msgid ""
-#| "Your people have been our allies in the past, ever since the days of Lord "
-#| "Typhon. We will help you drive these bandits from your land if you allow "
-#| "us to live here in peace."
 msgid ""
 "Your people have been our allies ever since the days of Lord Typhon. We will "
 "help you drive these bandits from your lands if you allow us to continue "
 "living here in peace."
 msgstr ""
-"Vaši lidé byli našimi spojenci v minulosti, a to už od doby lorda Typhona. "
-"Pomůžeme vám odstranit ty bandity z vašeho kraje, pokud nám povolíte usadit "
-"se zde v míru."
+"Už za dnů lorda Tyfona byl tvůj lid naším spojencem. Když nám dovolíš žít tu "
+"dál v míru, pomůžeme ti vyhnat ty bandity z vašich končin."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:459
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:548
-#, fuzzy
-#| msgid ""
-#| "We welcome your aid in the fight against these criminals! The rivers of "
-#| "this land are yours if you will aid us in our battles."
 msgid ""
 "We welcome your aid! The rivers of this land will remain yours when we are "
 "victorious."
 msgstr ""
-"Uvítáme vaši pomoc v boji proti těmto zločincům! Řeky této země jsou vaše, "
-"pokud nám budete pomáhat v bitvách."
+"Vaše pomoc je nám vítaná! Jestli zvítězíme, zůstanou řeky v této zemi vaše."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:466
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:555
-#, fuzzy
-#| msgid ""
-#| "You may now recruit Merman Hunters. Mermen are aquatic creatures. Keep "
-#| "them in rivers and swamps and they will fight well! Put them on dry land "
-#| "and they’re in trouble!"
 msgid ""
 "You may now recruit Merman Hunters. Merfolk are aquatic creatures and fight "
 "best in rivers and swamps. They are much less effective on dry land."
 msgstr ""
-"Od této chvíle můžeš verbovat mořské lovce. Mořští lidé jsou vodní tvorové. "
-"Nech je v řekách a bažinách a budou bojovat výborně; vystup s nimi na suchou "
-"zem a budou s nimi jen trable!"
+"Nyní můžeš verbovat mořské lovce. Mořští lidé jsou vodní tvorové a nejlépe "
+"bojují v řekách a močálech. Na souši jsou mnohem méně zdatní."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:490
-#, fuzzy
-#| msgid ""
-#| "Sir, bandits are most dangerous at night. Let us hold the north bank of "
-#| "the river until dawn and press our attack in the morning!"
 msgid ""
 "Bandits are most dangerous at night, Sir Deoran. Let us hold the north bank "
 "of the river until dawn and press our attack in the morning!"
 msgstr ""
-"Pane, bandité jsou nejnebezpečnější v noci. Navrhuji držet do svítání "
-"severní břeh řeky a s kuropěním zaútočit!"
+"Sire Deorane, bandité jsou nejnebezpečnější v noci. Navrhuji držet do "
+"svítání severní břeh řeky a s kuropěním zaútočit!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:496
-#, fuzzy
-#| msgid ""
-#| "All of your units are <i>lawful</i>. This means that they receive a "
-#| "combat bonus during the day, and a penalty at night. Urza Mathin’s units "
-#| "are all <i>chaotic</i>, which means that they receive a bonus at night "
-#| "and a penalty during the day. You will be much more effective fighting "
-#| "during the day."
 msgid ""
 "All of your units are <i>lawful</i>. This means that they receive a combat "
 "bonus during the day and a penalty at night. Urza Mathin’s units are all "
 "<i>chaotic</i>, which means that they receive a bonus at night and a penalty "
 "during the day. You will be much more effective fighting during the day."
 msgstr ""
-"Všechny tvé jednotky jsou <i>zákonné</i>. Znamená to, že jsou v boji během "
-"dne zvýhodněny a po setmění v nevýhodě. Jednotky Urzy Mathina jsou všechny "
-"<i>chaotické</i>, což znamená přesný opak - bonus v noci, penalizace ve dne. "
+"Všechny tvé jednotky jsou <i>zákonné</i>. Znamená to, že jsou v boji během "
+"dne zvýhodněny a po setmění v nevýhodě. Jednotky Urzy Mathina jsou všechny "
+"<i>chaotické</i>, což znamená přesný opak – bonus v noci, penalizace ve dne. "
 "Tudíž je pro tebe mnohem výhodnější bojovat ve dne."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:515
-#, fuzzy
-#| msgid ""
-#| "My lord! The dawn is breaking — now is the time for us to attack and "
-#| "drive these bandits from our lands. To me men of the South Guard!"
 msgid ""
 "The dawn breaks — now is the time for us to attack and drive these bandits "
 "from our lands. To me, men of the South Guard!"
 msgstr ""
-"Můj pane! Rozednívá se — je čas zaútočit a vymést ty bandity z naší země. "
-"Muži Jižní hlídky, ke mně!"
+"Rozednívá se — je čas zaútočit a vyhnat ty bandity z naší země. Muži Jižní "
+"hlídky, ke mně!"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:521
@@ -532,20 +494,18 @@ msgid ""
 "Curses! They actually managed to survive the night! I must hold out until my "
 "brothers send more men my way."
 msgstr ""
+"Proklatě! Voni vážně zvládli přežít noc! Musim vydržet, dokud mi moji braši "
+"nepošlou další muže."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:528
-#, fuzzy
-#| msgid ""
-#| "During the day your units will deal more damage, and Urza Mathin’s less. "
-#| "The more of his troops you can defeat during the day, the better!"
 msgid ""
 "During the day, your units will deal more damage and the bandits will deal "
 "less. The more of Urza Mathin’s troops you can defeat during the day, the "
 "better."
 msgstr ""
-"Během dne způsobují tvé jednotky větší poškození a jednotky Urzy Mathina "
-"méně. Čím více jeho jednotek porazíš ve dne, tím lépe!"
+"Během dne způsobují tvé jednotky větší zranění a bandité menší. Čím více "
+"jednotek Urzy Mathina porazíš ve dne, tím lépe."
 
 #. [unit]: type=Longbowman, id=Aleron
 #. [unit]: type=Peasant, id=Aleron
@@ -556,36 +516,26 @@ msgstr "Aleron"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:558
-#, fuzzy
-#| msgid "Who goes there! Come out of the house now!"
 msgid "Who goes there? Show yourself!"
-msgstr "Kdo tam? Vylez z toho domu!"
+msgstr "Kdo tam? Ukaž se!"
 
 #. [message]: speaker=Aleron
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:562
-#, fuzzy
-#| msgid ""
-#| "Stay! It’s me, Aleron! The villagers hid me from the bandits when the "
-#| "town was overrun. They have kept me safe, though I was gravely wounded..."
 msgid ""
 "Stay your hand! It is I, Aleron! The villagers hid me from the bandits when "
 "the town was overrun. They tended to my wounds while I was gravely wounded."
 msgstr ""
-"Klid! To jsem já, Aleron. Vesničané mě ukryli před lupiči, když bylo město "
-"dobyto. Byl jsem v bezpečí, i když těžce raněn..."
+"Zadrž svou ruku! To jsem já, Aleron! Když bylo město dobyto, vesničané mě "
+"ukryli před bandity. Ošetřovali má zranění v době, kdy jsem byl těžce raněn."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:566
-#, fuzzy
-#| msgid ""
-#| "I am glad to find you alive Aleron, we feared the worst when you did not "
-#| "return after the battle!"
 msgid ""
 "Thank the light! I am glad to find you alive, Aleron. We feared the worst "
 "when you did not return after the battle."
 msgstr ""
-"Alerone, rád tě nacházím živého! Když jsi se po bitvě nevrátil, obávali jsme "
-"se nejhoršího."
+"Světlo budiž pochváleno! Alerone, rád tě vidím živého. Když jsi se po bitvě "
+"nevrátil, obávali jsme se nejhoršího."
 
 #. [message]: speaker=Aleron
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:570
@@ -593,6 +543,8 @@ msgid ""
 "No matter, I am healed now and ready to fight. Let us punish these bandits "
 "for their crimes and murders!"
 msgstr ""
+"To už je pryč, teď jsem zdráv a připraven bojovat. Ztrestejme ty bandity za "
+"jejich zločiny a vraždy!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:574
@@ -5038,6 +4990,10 @@ msgid ""
 "powerful warriors, these men patrol the countryside and eliminate any and "
 "all threats to peace in the frontier villages."
 msgstr ""
+"Velitelé na koni, vůdci pohraničních hlídek, mají na povel posádky, které "
+"udržují mír v okrajových provinciích Wesnothu. Tito muži, zdatní vůdci "
+"a mocní válečníci, střeží venkov a likvidují bez výjimky každé ohrožení míru "
+"v pohraničních vesnicích."
 
 #. [unit_type]: id=Infantry Commander, race=human
 #: data/campaigns/The_South_Guard/units/Infantry_Commander.cfg:4
