@@ -12,14 +12,14 @@
 # Anežka Bubeníčková, 2011
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2019.
-# Michal Žejdl <lachim@emer.cz>, 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 18:29 UTC\n"
-"PO-Revision-Date: 2019-12-30 18:02+0100\n"
+"PO-Revision-Date: 2020-01-07 21:09+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2594,12 +2594,12 @@ msgstr "Je čas vzchopit se a bojovat... Co to je?"
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:788
 msgid "Friends, soldiers. Why were you hiding?"
-msgstr "Přátelé. Proč se schováváte?"
+msgstr "Přátelé, vojáci. Proč jste se schovali?"
 
 #. [message]: speaker=Stanis
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:792
 msgid "Our post was overrun. Very few of us survived."
-msgstr "Naše stanoviště bylo přemoženo. Jen hrstka nás přežila."
+msgstr "Naše základna byla obsazena. Přežila nás jen hrstka."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:796
@@ -2743,9 +2743,9 @@ msgid ""
 "done my duty attacking the Wesnoth perimeter, so that no Wesnoth forces can "
 "come to the aid of your doomed army. It will be a glorious massacre!"
 msgstr ""
-"Porazil jsi mě, ale velký Zorlan mě pomstí! Splnil jsem svou povinnost "
-"zaútočit na Wesnothský perimetr, takže žádné wesnothské jednotky nemohou "
-"přijít na pomoc vaší ubohé armádě. Bude to slavný masakr!"
+"Porazil jsi mě, ale velký Zorlan mne pomstí! Splnil jsem svou povinnost "
+"zaútočit na hranici Wesnothu, takže žádné wesnothské jednotky nemohou přijít "
+"na pomoc vaší armádě, která je odsouzena ke zkáze. Bude to slavný masakr!"
 
 #. [message]: speaker=Dirator
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1236
