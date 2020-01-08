@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2020-01-06 20:03+0100\n"
+"PO-Revision-Date: 2020-01-08 17:37+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -494,7 +494,7 @@ msgid ""
 "Curses! They actually managed to survive the night! I must hold out until my "
 "brothers send more men my way."
 msgstr ""
-"Proklatě! Voni vážně zvládli přežít noc! Musim vydržet, dokud mi moji braši "
+"Proklatě! Oni vážně zvládli přežít noc! Musím vydržet, dokud mi moji bratři "
 "nepošlou další muže."
 
 #. [message]: speaker=narrator
@@ -642,24 +642,17 @@ msgstr ""
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:720
-#, fuzzy
-#| msgid ""
-#| "My days of pillage and plunder are over! My brothers will avenge me..."
 msgid "My days of pillage and plunder are over! Avenge me, my brothers..."
-msgstr "Mé dny lupu a plenění jsou sečteny! Bratři mne pomstí..."
+msgstr "Mé dny lupu a plenění jsou sečteny! Pomstěte mne, mí bratři..."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:748
-#, fuzzy
-#| msgid ""
-#| "Urza Mathin is dead! Congratulations, commander. We thought we would "
-#| "never see reinforcements — Did Sir Loris send word of our plight?"
 msgid ""
 "Urza Mathin is dead! Congratulations, commander, though I am surprised that "
 "the King sent only you to help us. Did Sir Loris not send word of our plight?"
 msgstr ""
-"Urza Mathin je mrtvý! Veliteli, blahopřeji. Mysleli jsme, že nikdy neuvidíme "
-"posily — poslal Sir Loris zprávu o naší situaci?"
+"Urza Mathin je mrtvý! Veliteli, blahopřeji, i když mě překvapuje, že král "
+"nám vyslal na pomoc jen tebe. Poslal Sir Loris zprávu o naší vážné situaci?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:753
@@ -668,6 +661,10 @@ msgid ""
 "heard word from you in weeks. I was prepared to take command of the South "
 "Guard if necessary, but not to fight so many bandits with so few men!"
 msgstr ""
+"Ne. Původně jsem byl králem Haldrikem vyslán na průzkum, protože od vás "
+"týdny nedostal žádnou zprávu. Byl jsem připraven v případě nutnosti převzít "
+"velení nad Jižní hlídkou, ale ne bojovat s tak málo muži proti tolika "
+"banditům!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:758
@@ -676,6 +673,9 @@ msgid ""
 "predicament. I do wish that the King had sent more reinforcements, though "
 "you seem to be quite a capable commander despite your age."
 msgstr ""
+"Jasně, nemohli jste to vědět, jestliže sir Loris neohlásil naši ošemetnou "
+"situaci. Přál bych si, aby král vyslal více posil, ačkoli ty navzdory svému "
+"věku vypadáš jako celkem schopný velitel."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:763
@@ -685,16 +685,13 @@ msgid ""
 "to remedy these harrowing circumstances. How long have you been fighting "
 "against these bandits anyway?"
 msgstr ""
+"Cvičil jsem s nejlepšími, a to snad vynahradí veškerý nedostatek zkušeností, "
+"který můžu mít. Přinejmenším se musíme modlit, aby to, že tu jsem, stačilo "
+"k nápravě zdejší trýznivé situace. Jak vlastně dlouho bojujete proti těmto "
+"banditům?"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:768
-#, fuzzy
-#| msgid ""
-#| "Almost two months. Sir Loris took one of our patrols along the Westin "
-#| "road and never returned; and the next night, bandits struck and killed "
-#| "eight of my men. We held the citadel, and held out vain hope for "
-#| "reinforcement from Westin. We never thought we would see men sent from "
-#| "the King!"
 msgid ""
 "Almost two months! I know not why, but one night, Sir Loris took several of "
 "our patrols along the Westin road and never returned. The very next evening, "
@@ -702,10 +699,11 @@ msgid ""
 "and held out, hoping for reinforcements, but they never came. Something must "
 "have happened in Westin, else Sir Loris would have relieved us by now."
 msgstr ""
-"Téměř dva měsíce. Sir Loris vyjel na jednu z hlídek po silnici k Westinu a "
-"už se nevrátil. A další noc bandité zaútočili, přičemž zabili osm mých mužů. "
-"Drželi jsme citadelu a doufali v příchod posil z Westinu. Nikdy by nás "
-"nenapadlo, že by se mohli objevit královi posli!"
+"Téměř dva měsíce! Nevím proč, ale jedné noci sir Loris sebral několik stráží "
+"podél westinské silnice a už se nevrátil. Hned následující večer nás napadli "
+"ti gauneři a zabili osm mých mužů. Bránili jsme pevnost a odolávali s nadějí "
+"na příchod posil, ale ty nikdy nedorazily. Ve Westinu se muselo něco stát, "
+"jinak by nás sir Loris už osvobodil."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:773
@@ -714,6 +712,9 @@ msgid ""
 "staying here. We will have to seek out Sir Loris in Westin for answers. "
 "Come, men, let us ride to the city!"
 msgstr ""
+"To je vskutku velmi zvláštní příběh, ale když tu budeme stát, ničeho "
+"nedosáhneme. Pro odpovědi musíme zajet do Westinu a vyhledat sira Lorise. "
+"Muži, pojeďme do města!"
 
 #. [scenario]: id=02_Proven_by_the_Sword
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:5
