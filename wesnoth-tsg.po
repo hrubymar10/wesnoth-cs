@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2020-01-08 17:37+0100\n"
+"PO-Revision-Date: 2020-01-09 19:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -582,24 +582,17 @@ msgstr "Glasar"
 
 #. [message]: speaker=Glasar
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:619
-#, fuzzy
-#| msgid "This village is ours to plunder! Begone or I will kill you all!"
 msgid "This village is ours to plunder! Leave now or perish!"
-msgstr "Tuto vesnici vydrancujeme my! Ztraťte se nebo vás všechny pobiju!"
+msgstr "Tuto vesnici vydrancujeme my! Ztraťte se nebo zhyňte!"
 
-# pův.: " z našich rukou!"
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:623
-#, fuzzy
-#| msgid ""
-#| "Do you not see the banners flying in the wind? The South Guard fights "
-#| "again. Flee while you can, or you will meet swift death on our spears!"
 msgid ""
 "Do you not see the banners we bear? The South Guard has risen again! Flee "
 "while you can, or you will meet a swift death at our hand!"
 msgstr ""
-"Nevidíš zástavy vlající ve větru? Jižní hlídka opět bojuje. Prchni dokud "
-"můžeš, sic tě nemine rychlá smrt na našich kopích!"
+"Nevidíš korouhve, které třímáme? Jižní hlídka opět povstala! Prchni, dokud "
+"můžeš, sic tě z našich rukou stihne rychlá smrt!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:646
@@ -607,24 +600,19 @@ msgid ""
 "Remember, Moreth told you that you should go meet Sir Gerrick at the river "
 "fort. Move Deoran there and find out what Sir Gerrick has to say!"
 msgstr ""
-"Pamatuj, Moreth ti radil setkat se se Sirem Gerrickem v říční pevnosti. "
-"Přesuň tam Deorana a zjisti co ti může Sir Gerrick říci!"
+"Pamatuj, Moreth ti radil setkat se se sirem Gerrickem v říční pevnosti. "
+"Přesuň tam Deorana a zjisti, co ti může sir Gerrick říci!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:679
-#, fuzzy
-#| msgid ""
-#| "Remember, your job is to defeat Urza Mathin. He should be your main "
-#| "target. Archers will be especially effective against him, because he has "
-#| "no ranged attack. Surround him, and kill him!"
 msgid ""
 "Remember, your job is to defeat Urza Mathin. He should be your main target. "
 "Archers will be especially effective against him because he has no ranged "
 "attack."
 msgstr ""
-"Pamatuj, tvým cílem je porážka Urzy Mathina. On by měl být tvým hlavním "
-"cílem. Nejúčinnější jsou na něj lučištníci, protože nemá útok na dálku. "
-"Obklič jej a zab!"
+"Pamatuj, tvým úkolem je porazit Urzu Mathina. Ten by měl být tvým hlavním "
+"cílem. Proti němu budou obvzlášť účinní lučištníci, protože on nemá útok na "
+"dálku."
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:702
@@ -632,13 +620,15 @@ msgid ""
 "Reinforcements from my brothers! Excellent. Let us go and crush this vermin "
 "boy who fancies himself a knight. These lands belong to the brothers Urza!"
 msgstr ""
+"Posily od mých bratrů! Výtečně. Pojďme a zlikvidujme toho fracka, který si "
+"hraje na rytíře. Tyto země patří bratřím Urzům!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:706
 msgid ""
 "There are too many of them! I have no choice but to abandon the villagers "
 "here and retreat..."
-msgstr ""
+msgstr "Je jich příliš mnoho! Nezbývá mi než nechat tu vesničany a ustoupit..."
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:720
@@ -743,57 +733,40 @@ msgstr "Zločinec"
 
 #. [do]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:169
-#, fuzzy
-#| msgid "Criminal"
 msgid "female^Criminal"
-msgstr "Zločinec"
+msgstr "Zločinka"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:202
-#, fuzzy
-#| msgid ""
-#| "Look! There is smoke coming from Westin. That can only mean that bandits "
-#| "have overrun the garrison and are sacking the city!"
 msgid ""
 "Look there! Smoke rises from Westin! The bandits must have already overrun "
 "the garrison and are sacking the city!"
 msgstr ""
-"Pohleďte! Z Westinu stoupá dým; to může znamenat jediné - bandité přemohli "
-"posádku a plení město!"
+"Pohleďte! Z Westinu stoupá dým! Bandité už museli přemoct posádku a plení "
+"město!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:206
-#, fuzzy
-#| msgid ""
-#| "If too much time passes and they are unchecked, they will leave the city "
-#| "in ruins and make a great slaughter of all who live therein. We must act "
-#| "quickly."
 msgid ""
 "Then we must make haste before they leave the city in ruins and slaughter "
 "all who live therein."
 msgstr ""
-"Pokud je včas někdo nezastaví, nechají z města jen ruiny a povraždí všechny "
-"obyvatele. Musíme jednat rychle!"
+"Pak my musíme pospíšit, než zanechají město v troskách a povraždí všechny, "
+"kdo žijí v jeho zdech."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:213
-#, fuzzy
-#| msgid ""
-#| "What?! If there are soldiers of Wesnoth coming from the northern forts, "
-#| "then my brother Mathin is surely dead... They will pay for his death, "
-#| "just as Sir Loris paid for his pride!"
 msgid ""
 "What?! Those soldiers come from the northern forts... this can only mean my "
 "brother Mathin is dead. Those fiends! They will pay for his death!"
 msgstr ""
-"Cože? Pokud přicházejí vojáci Wesnothu ze severních pevností, pak je můj "
-"bratr Mathin dozajista mrtev... Za jeho smrt zaplatí, stejně jako Sir Loris "
-"pykal za svou pýchu!"
+"Cože?! Tihle vojáci přišli ze severních pevností..., to může znamenat "
+"jediné, že můj bratr Mathin je mrtev. Ty zrůdy! Za jeho smrt zaplatí!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:225
 msgid "Bring Deoran to the Citadel of Westin"
-msgstr "Doveď Deorana do Westinské citadely"
+msgstr "Doveď Deorana do westinské pevnosti"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:234
@@ -3103,7 +3076,7 @@ msgid ""
 "Westin. I pray that Deoran and Ethiliel find the strength to defeat the "
 "undead on their own."
 msgstr ""
-"Pospíším si zpět do Kerlathské provincie a vyhledám pomoc Westinské rady..."
+"Pospíším si zpět do Kerlathské provincie a vyhledám pomoc westinské rady..."
 
 #. [message]: speaker=Eliomir
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:468
@@ -4024,7 +3997,7 @@ msgid ""
 "summon the city council while I prepare the defenses. Sir Gerrick, Afalas, "
 "we shall return as soon as we can and relieve you."
 msgstr ""
-"Hylasi, pojeď se mnou do Westinu — musíš svolat Westinskou radu a já "
+"Hylasi, pojeď se mnou do Westinu — musíš svolat westinskou radu a já "
 "připravím obranu města. Vrátíme se s posilami co nejdříve a pomůžeme vám."
 
 #. [message]: speaker=Sir Gerrick
@@ -4079,7 +4052,7 @@ msgid ""
 "Starting with turn 6, each additional turn you survive strengthens the "
 "defenses of Westin."
 msgstr ""
-"Počínaje 6. tahem, každý další tah, který přežiješ, posílí Westinskou obranu."
+"Počínaje 6. tahem, každý další tah, který přežiješ, posílí westinskou obranu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:351
@@ -5273,21 +5246,15 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:30
-#, fuzzy
-#| msgid ""
-#| "Having defeated Urza Mathin, Deoran immediately sent scouts out into the "
-#| "whole countryside. His men reported bandits roaming freely over the "
-#| "border, terrorizing the peasants and villagers. Nowhere did they find "
-#| "soldiers of the South Guard."
 msgid ""
 "Having defeated Urza Mathin, Deoran immediately sent out scouts into the "
 "whole countryside. His men reported bandits roaming freely through the land, "
 "terrorizing the peasants and villagers. Nowhere did they find soldiers of "
 "the South Guard."
 msgstr ""
-"Po porážce Urzy Mathina Deoran ihned vyslal průzkumníky po celé krajině. "
-"Jeho muži hlásili, že bandité volně přecházejí hranice a terorizují rolníky "
-"a vesničany. Po vojácích Jižní hlídky nikde ani stopa."
+"Po porážce Urzy Mathina vyslal Deoran ihned po celé krajině zvědy. Jeho muži "
+"hlásili, že se bandité volně potulují zemí a zastrašují sedláky a vesničany. "
+"Vojáky Jižní hlídky nikde nenašli."
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:35
@@ -5298,6 +5265,11 @@ msgid ""
 "burning flesh and the shrill cries of screaming villagers. Troubled and "
 "concerned, Deoran hastened his pace toward the old city."
 msgstr ""
+"Deoran se rozhodl podniknout kroky k úplnému zničení banditů. Spolu se sirem "
+"Gerrickem shromáždili muže a kvapem ujížděli do Westinu. Jak se blížili, "
+"viděli vysoko do nebe stoupat sloupy dýmu a spolu s tím se vzduchem šířil "
+"pach spáleného masa a pronikavé volání křičících vesničanů. Ustaraný "
+"a znepokojený Deoran zrychlil a pospíchal do starého města."
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:45
