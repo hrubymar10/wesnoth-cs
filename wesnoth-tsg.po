@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2020-01-09 19:40+0100\n"
+"PO-Revision-Date: 2020-01-10 20:37+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -770,10 +770,8 @@ msgstr "Doveď Deorana do westinské pevnosti"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:234
-#, fuzzy
-#| msgid "Kill Urza Nalmath, the bandit leader"
 msgid "Defeat Urza Nalmath, the bandit leader"
-msgstr "Zabij Urzu Nalmata, vůdce banditů"
+msgstr "Poraz Urzu Nalmata, vůdce banditů"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:251
@@ -782,7 +780,7 @@ msgstr "Zabij Urzu Nalmata, vůdce banditů"
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:369
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:583
 msgid "Death of Minister Hylas"
-msgstr "Pastor Hylas zemře"
+msgstr "Purkmistr Hylas zemře"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:284
@@ -799,7 +797,7 @@ msgstr ""
 #. [unit]: type=White Mage, id=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:318
 msgid "Minister Hylas"
-msgstr "Pastor Hylas"
+msgstr "Purkmistr Hylas"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:332
@@ -812,6 +810,8 @@ msgid ""
 "Peace, I am a friend! I am Hylas, advisor to Sir Loris and Chief Minister of "
 "the town council. Thanks to your timely arrival, the city is saved!"
 msgstr ""
+"Klid, jsem přítel! Mé jméno je Hylas a jsem rádcem sira Lorise a předsedou "
+"městské rady. Díky tvému včasnému příjezdu je město zachráněno!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:340
@@ -819,6 +819,8 @@ msgid ""
 "Indeed, we have defeated most of the bandits in the city. But where is Sir "
 "Loris? And where is the city garrison?"
 msgstr ""
+"Jistě, porazili jsme většinu banditů ve městě. Ale kde je sir Loris? A kde "
+"městská posádka?"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:344
@@ -4427,7 +4429,7 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:478
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:493
 msgid "Minister Mefel"
-msgstr "Pastor Mefel"
+msgstr "Purkmistr Mefel"
 
 #. [message]: speaker=Minister Mefel
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:481
@@ -4585,12 +4587,12 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:657
 msgid "Minister Romand"
-msgstr "Pastor Romand"
+msgstr "Purkmistr Romand"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:658
 msgid "Minister Alanafel"
-msgstr "Pastor Alanafel"
+msgstr "Purkmistr Alanafel"
 
 #. [message]: speaker=Mal Tera
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:689
@@ -5162,8 +5164,8 @@ msgid ""
 msgstr ""
 "Kostlivci jsou kosti padlých válečníků, poháněné temnou magií. Jsou téměř "
 "imunní vůči bodným zbraním jako kopí nebo šípy. Útoky čepelí jako meč je "
-"poškodí a <i>nezemský</i> útok pastora Hylase je pro ně smrtící. Stejně jako "
-"ostatní bandité jsou nebezpeční ponejvíce v noci!"
+"poškodí a <i>nezemský</i> útok purkmistra Hylase je pro ně smrtící. Stejně "
+"jako ostatní bandité jsou nebezpeční ponejvíce v noci!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:137
