@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-01-21 18:29 UTC\n"
-"PO-Revision-Date: 2020-01-07 21:09+0100\n"
+"PO-Revision-Date: 2020-01-11 20:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2774,11 +2774,11 @@ msgid ""
 "has arisen among them, the King may be walking into a lethal trap at the "
 "Ford of Abez."
 msgstr ""
-"Ale ještě jiná věc, kterou říkali ti skřeti, mě znepokojuje. Připadlo mi "
-"zvláštní, že skřeti útočí jednotně po celých hranicích; obvykle se moc dobře "
-"zkoordinovat nedokážou. Jestliže to, co ten skřet říkal, byla pravda a mají "
-"silného vůdce schopného vést celé jejich hordy, král může kráčet u Abezského "
-"brodu kráčet do smrtící pasti."
+"Ale odlišným způsobem mne hluboce znepokojuje něco jiného, o čem mluvili ti "
+"skřeti. Připadalo mi zvláštní, že skřeti útočí jednotně po celých hranicích; "
+"obvykle se moc dobře zkoordinovat nedokážou. Jestliže to, co ten skřet "
+"říkal, byla pravda a mají silného vůdce schopného vést celé jejich hordy, "
+"král může u Abezského brodu nakráčet do smrtící pasti."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1268
@@ -2802,16 +2802,16 @@ msgid ""
 "quickly through these wildlands and head west from here."
 msgstr ""
 "Možná ještě můžeme varovat krále včas. Lionel už by touto dobou měl být zpět "
-"ve Weldynu. Pošlu za ním jednoho z posádkových jízdních poslů, nemám čas "
-"jezdit na jih sám. Seberu co nejvíc vojáků tak, abych byl schopen se s nimi "
-"rychle pohybovat touto divokou krajinou, a zamířím na západ."
+"ve Weldynu. Pošlu za ním jednoho z posádkových jízdních poslů, nemám čas "
+"jezdit na jih sám. Seberu co nejvíc vojáků tak, abych byl schopen se s nimi "
+"rychle pohybovat touto divokou krajinou a zamířím na západ."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1277
 msgid ""
 "Will you join me? Elves know these northern paths better than any human."
 msgstr ""
-"Přidáš se k mně? Elfové znají tyto severní cesty lépe než kterýkoliv člověk."
+"Přidáš se ke mně? Elfové znají tyto severní cesty lépe než kterýkoliv člověk."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1281
@@ -2820,8 +2820,8 @@ msgid ""
 "the Northern Elves must be informed immediately — and mayhap I can find High "
 "Lord Kalenz or get a message to him."
 msgstr ""
-"Není mi to dáno, Delfadore. Musím se vrátit do Lintaniru jak rychle to jen "
-"půjde. Severní elfové musí být okamžitě zpraveni o stavu věcí — a možná "
+"Není mi to dáno, Delfadore. Musím se vrátit do Lintaniru, jak rychle to jen "
+"půjde. Severní elfové musí být okamžitě zpraveni o stavu věcí — a možná "
 "najdu nejvyššího lorda Kalenze nebo mu alespoň dám poslat zprávu."
 
 #. [message]: speaker=Delfador
@@ -2830,8 +2830,8 @@ msgid ""
 "My King does not command him... but if Elves and Humans do not stand "
 "together in this, I fear we will fall separately."
 msgstr ""
-"Můj král mu nevelí... ale pokud elfové a lidé nebudou v této věci při sobě, "
-"bojím se, že padneme každý zvlášť."
+"Můj král mu nevelí..., ale pokud elfové a lidé nebudou v této věci stát při "
+"sobě, bojím se, že padneme každý zvlášť."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1289
@@ -2872,9 +2872,9 @@ msgid ""
 "throughout Wesnoth. After centuries of squabbling, a warlord emerged to "
 "unite the Orcs. This was ill tidings for men and Elves alike."
 msgstr ""
-"Zatímco byl Delfador na akademii, velké události se odehrávaly po celém "
-"Wesnothu. Po staletích svárů povstal válečník, který skřety sjednotil. To "
-"byla špatná zpráva jak pro všechny lidi, tak i elfy."
+"Zatímco byl Delfador na akademii, po celém Wesnothu se odehrávaly velké "
+"události. Po staletích svárů povstal válečník, který skřety sjednotil. To "
+"byla špatná zpráva jak pro lidi, tak i pro elfy."
 
 #. [part]
 #. "errantry" is an archaic English word associated with medieval
@@ -2888,11 +2888,11 @@ msgid ""
 "potion, he put aside the High Lordship of the Elves after the death of his "
 "beloved wife, and wandered the Great Continent in errantry."
 msgstr ""
-"Byl to elf jménem Kalenz. který se stovky let před narozením Delfadora stal "
-"legendou mezi lidmi i elfy. Příběh o něm, <i>Wesmerská legenda</i>, je znám "
-"ve všech elfích zemích. Lektvar nekromanta mu prodloužil život, a tak se po "
-"smrti své milované vzdal titulu nejvyšší lord elfů a vydal se toulat Velkým "
-"kontinentem."
+"Byl to elf jménem Kalenz, který se stal stovky let před narozením Delfadora "
+"legendou mezi lidmi i elfy. Ve všech elfích zemích je znám jeho příběh, "
+"<i>Wesmerská legenda</i>. Lektvar nekromanta mu prodloužil život, a tak se "
+"po smrti své milované vzdal titulu nejvyšší lord elfů a vydal se toulat "
+"Velkým kontinentem."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:27
@@ -2903,11 +2903,10 @@ msgid ""
 "Kalenz quickly gathered a small troop of picked guards. War had returned to "
 "the land of the Elves."
 msgstr ""
-"Ale Kalenz zpola věděl, zpola se bál, že bude znovu potřeba, a den, který "
-"již dávno předvídal, konečně nadešel. Dostal zprávu o masivních útocích "
-"skřetů na hranice elfích lesů, včetně samotného Lintaniru. Kalenz rychle "
-"shromáždil malou jednotku vybraných strážců. Válka se vrátila do elfích "
-"krajů."
+"Ale Kalenz zpola věděl, zpola se bál, že bude znovu potřeba a den, který již "
+"dávno předvídal, konečně nadešel. Dostal zprávu o masivních útocích skřetů "
+"na okrajích elfích lesů včetně samotného Lintaniru. Kalenz rychle shromáždil "
+"malou jednotku vybraných strážců. Válka se vrátila do elfích krajů."
 
 #. [side]: type=Orcish Warlord, id=Knafa-ord
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:68
@@ -2948,8 +2947,8 @@ msgid ""
 "Kill these filthy elves! All warlords will then accept our leader, Zorlan, "
 "as king and he will reward you all!"
 msgstr ""
-"Pobijte ty špinavé elfy! Všichni velitelé se pak pokloní našemu vůdci, "
-"Zorlanovi, jako svému králi a on vás všechny odmění!"
+"Pobijte ty špinavé elfy! Všichni velitelé se pak pokloní našemu vůdci "
+"Zorlanovi jako svému králi a on vás všechny odmění!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:216
