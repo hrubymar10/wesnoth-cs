@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2020-01-10 20:37+0100\n"
+"PO-Revision-Date: 2020-01-12 19:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -766,7 +766,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:225
 msgid "Bring Deoran to the Citadel of Westin"
-msgstr "Doveď Deorana do westinské pevnosti"
+msgstr "Doveď Deorana do westinské citadely"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:234
@@ -833,6 +833,13 @@ msgid ""
 "Sir Loris had sent a rider earlier, he might have survived long enough to "
 "stand with us here."
 msgstr ""
+"Běda, sir Loris před několika dny padl v bitvě. Přestože jsme ho týdny "
+"varovali před novou mocí těchto banditů, nikdy by proti nim nevedl své muže, "
+"dokud se jejich síla nestala příliš velkou na to, abychom ji zvládli. Vyslal "
+"jsem ke králi kurýra se zprávou o naší vážné situaci, ale muselo ho potkat "
+"nějaké neštěstí, protože vy jste první posily, které sem dorazily. Kdyby jen "
+"sir Loris poslal nějakého jezdce dříve, mohl přežít dost dlouho na to, aby "
+"tu s námi teď stál."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:350
@@ -841,6 +848,9 @@ msgid ""
 "death. With him gone, it seems that I must lead the townsfolk against the "
 "bandits and drive them from our city."
 msgstr ""
+"Vskutku. Ačkoli mohl být bláhový, přesto mne rmoutí dozvědět se o jeho "
+"smrti. Po jeho odchodu to vypadá, že budu muset vést měšťany proti banditům "
+"a vyhnat je z našeho města."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:354
@@ -872,29 +882,21 @@ msgstr "Tyborg"
 
 #. [message]: speaker=Ufes
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:374
-#, fuzzy
-#| msgid ""
-#| "We will do our best to hold the city — you lead your men across the river "
-#| "and kill the bandit leader!"
 msgid ""
 "We stand with you, Sir Deoran! We will hold the city while you lead your men "
 "across the river and defeat the bandit leader!"
 msgstr ""
-"Uděláme vše, co je v našich silách pro udržení města; Vy veďte své vojsko za "
-"řeku a odstraňte vůdce banditů!"
+"Sire Deorane, stojíme při době! Udržíme město zatímco povedeš své muže přes "
+"řeku a porazíš vůdce banditů!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:416
-#, fuzzy
-#| msgid ""
-#| "They are almost to the great hall! Hurry, Deoran! We must reach the "
-#| "citadel or all will be lost!"
 msgid ""
 "They are almost to the great hall! Hurry, Deoran! We must reach the citadel "
 "before it is stormed by the bandits!"
 msgstr ""
-"Téměř dosáhli radnice! Deorane, pospíchej! Musíme se dostat do pevnosti, "
-"jinak je vše ztraceno!"
+"Téměř dosáhli radnice! Deorane, pospíchej! Musíme se dostat do citadely, než "
+"ji bandité vezmou útokem!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:424
