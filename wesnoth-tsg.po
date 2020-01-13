@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-09-16 08:33 UTC\n"
-"PO-Revision-Date: 2020-01-12 19:46+0100\n"
+"PO-Revision-Date: 2020-01-13 19:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -953,43 +953,34 @@ msgstr ""
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:580
-#, fuzzy
-#| msgid ""
-#| "Now the Guard will feel the wrath of my new friends! It is time for the "
-#| "dead to wage war! Rise, warriors!"
 msgid ""
 "Now, the South Guard will feel the wrath of my new allies! Rise again, my "
 "undead warriors!"
 msgstr ""
-"Teď pocítí Hlídka sílu mých nových přátel! Je čas, aby mrtví zasáhli! "
-"Povstaňte, válečníci!"
+"Teď Jižní hlídka zakusí hněv mých nových spojenců! Znovu povstaňte, mí "
+"nemrtví válečníci!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:592
 msgid "What devilry is this?! Those are no living men that fight for him!"
-msgstr "Co je tohle za čertovinu?! Vždyť to nejsou živí tvorové!"
+msgstr "Co je tohle za čertovinu?! Ti, kdo za něj bojují, nejsou živí lidé!"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:597
-#, fuzzy
-#| msgid ""
-#| "He has made some pact with the undead. How could a mere brigand have "
-#| "gained such great powers?"
 msgid ""
 "This development is troubling to me as well. He must have made some pact "
 "with the undead, but how could a mere brigand gain such powers?"
 msgstr ""
-"Nějakým způsobem se spolčil s nemrtvými - jak by mohl takový žabař získat "
-"tak úžasné schopnosti?"
+"Tento vývoj událostí mne také znepokojuje. Musel udělat nějakou dohodu "
+"s nemrtvými, ale jak mohl pouhý zbojník získat takové schopnosti?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:602
-#, fuzzy
-#| msgid "However he has done this fell thing, we must defeat him!"
 msgid ""
 "It matters not. No matter how he has done this fell thing, we must defeat "
 "him!"
-msgstr "Nicméně už tak učinil, musíme jej porazit!"
+msgstr ""
+"Na tom nezáleží. Ať už tu zlou věc udělal jakkoliv, musíme jej porazit!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:610
