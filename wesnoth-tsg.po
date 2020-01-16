@@ -18,8 +18,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-13 20:30+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-01-16 18:14+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -793,6 +793,8 @@ msgid ""
 "Excellent, but the battle is not won yet, and there is still no sign of Sir "
 "Loris. Sir Deoran, you should secure the keep."
 msgstr ""
+"Výborně, ale ještě nemáme vyhranou bitvu a po siru Lorisovi stále není ani "
+"stopy. Sire Deorane, měl bys zajistit tvrz."
 
 #. [unit]: type=White Mage, id=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:318
@@ -991,10 +993,10 @@ msgstr ""
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:631
-#, fuzzy
-#| msgid "Leave nothing standing! Burn their villages down and kill them all!"
 msgid "Leave nothing standing! Raze their villages and kill them all!"
-msgstr "Nenechte kámen na kameni! Spalte jejich vesnice a všechny je pobijte!"
+msgstr ""
+"Nenechte kámen na kameni! Všechny je pobijte a jejich vesnice srovnejte se "
+"zemí!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:635
@@ -1003,10 +1005,8 @@ msgstr "Pomstíme smrt tvého bratra!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:639
-#, fuzzy
-#| msgid "They are burning our villages! We must stop them!"
 msgid "They are burning our homes! We must stop them!"
-msgstr "Vypalují naše vesnice! Musíme je zastavit!"
+msgstr "Vypalují naše domovy! Musíme je zastavit!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:682
@@ -5244,15 +5244,6 @@ msgstr ""
 #. [part]
 #. Intro to scenario 1
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:24
-#, fuzzy
-#| msgid ""
-#| "Haldric summoned a young, but promising cavalry officer named Deoran for "
-#| "the task. Though undistinguished, Deoran’s family had a decorated history "
-#| "in the army of Wesnoth: his grandfather, Haldiel, had fought alongside "
-#| "Konrad I in the war to reclaim the throne, and his father, Leonard, had "
-#| "served as an officer for thirty years. Thus, with full trust in the young "
-#| "officer, King Haldric knighted Deoran and tasked him with riding to "
-#| "Westin to demand accounting from Sir Loris."
 msgid ""
 "Haldric summoned a young, but promising cavalry officer named Deoran for the "
 "task. Though undistinguished, Deoran’s family had a decorated history in the "
@@ -5264,10 +5255,10 @@ msgid ""
 msgstr ""
 "Pro tento úkol povolal Haldric mladého, ale slibného důstojníka jezdectva "
 "jménem Deoran. Ačkoli Deoranova rodina nevyčnívala, měla v armádě Westnothu "
-"bohatou historii: jeho děd Haldiel bojoval ve válce o znovuzískání trůnu po "
-"boku Konráda I. a jeho otec Leonard sloužil třicet let jako důstojník. A tak "
-"král Haldrik s plnou důvěrou v mladého důstojníka pasoval Deorana na rytíře "
-"a uložil mu zajet do Westinu a žádat od sira Lorise, aby vydal počet."
+"bohatou historii: jeho praděd Haldiel bojoval ve válce o znovuzískání trůnu "
+"po boku Konráda I. a jeho otec Leonard sloužil třicet let jako důstojník. "
+"A tak král Haldrik s plnou důvěrou v mladého důstojníka pasoval Deorana na "
+"rytíře a uložil mu zajet do Westinu a žádat od sira Lorise, aby vydal počet."
 
 #. [part]
 #. Intro to scenario 2
