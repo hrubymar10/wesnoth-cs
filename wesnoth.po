@@ -19,8 +19,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-01-13 20:30+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-01-18 08:26+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -343,7 +343,6 @@ msgstr "Joystick: number of the thrust axis"
 msgid "Joystick: deadzone of the thruster"
 msgstr "Joystick: deadzone of the thruster"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:360
@@ -358,7 +357,6 @@ msgstr "otrávený"
 msgid "Gold carryover:"
 msgstr "Přenesené zlato:"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [note]
 #. [lua]: generate_objectives
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:272
@@ -3576,7 +3574,6 @@ msgstr "Jeskyně"
 msgid "Fungus"
 msgstr "Houby"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 #: data/core/team-colors.cfg:188 src/terrain/terrain.cpp:176
 msgid "Village"
@@ -3607,13 +3604,11 @@ msgstr "Neschůdný"
 msgid "Impassable"
 msgstr "Neschůdný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 #: data/core/team-colors.cfg:224 src/game_initialization/lobby_data.cpp:468
 msgid "Fog"
 msgstr "Mlha"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 #: data/core/team-colors.cfg:230 src/game_initialization/lobby_data.cpp:471
 #: src/game_initialization/lobby_data.cpp:474
@@ -3968,7 +3963,6 @@ msgstr "Ano"
 msgid "No"
 msgstr "Ne"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/screenshot_notification.cfg:95
 #: src/hotkey/command_executor.cpp:627
@@ -4009,7 +4003,6 @@ msgstr ""
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "(Poznámka: Měl bys místo toho použít $replacement)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 #: data/lua/core.lua:194 src/deprecation.cpp:69
 msgid "Invalid deprecation level $level (should be 1-4)"
@@ -4020,31 +4013,26 @@ msgstr "Neplatná úroveň zastarání $level (měla by být 1-4)"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "Neplatná úroveň zastarání (měla by být 1-4)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:1061
 msgid "female^poisoned"
 msgstr "otrávená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1068
 msgid "female^slowed"
 msgstr "zpomalená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1068
 msgid "slowed"
 msgstr "zpomalený"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1074
 msgid "female^petrified"
 msgstr "zkamenělá"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1074
 msgid "petrified"
@@ -4060,14 +4048,12 @@ msgstr "neléčitelná"
 msgid "unhealable"
 msgstr "neléčitelný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 #: data/lua/wml/message.lua:395 src/scripting/game_lua_kernel.cpp:2787
 #: src/scripting/game_lua_kernel.cpp:2822
 msgid "input"
 msgstr "vstup"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:36 src/game_initialization/mp_game_utils.cpp:74
 msgid "Victory:"
@@ -4177,7 +4163,7 @@ msgstr "Druh pohledu"
 #. [action]: id=button-continue
 #: data/themes/_initial.cfg:528
 msgid "Continue Play"
-msgstr "Pokračovat v přehrávání"
+msgstr "Hrát dál"
 
 #. [action]: id=button-continue
 #: data/themes/_initial.cfg:529
@@ -4565,9 +4551,9 @@ msgid ""
 "in the currently selected terrain is displayed in the top right corner of "
 "the screen."
 msgstr ""
-"Terén, ve kterém jsou tvé jednotky, určuje šanci, že je tvůj soupeř v bitvě "
-"zasáhne. Hodnocení obrany právě vybrané jednotky v právě vybraném terénu se "
-"zobrazuje v pravém horním rohu obrazovky."
+"Terén, ve kterém jsou tvé jednotky, určuje šanci, že je tvůj soupeř v bitvě "
+"zasáhne. Hodnocení obrany právě vybrané jednotky v právě vybraném terénu se "
+"zobrazuje v pravém horním rohu obrazovky."
 
 #. [tip]
 #: data/tips.cfg:76
@@ -5202,8 +5188,6 @@ msgid "You do not have a leader to recruit with."
 msgstr "Nemáš vůdce, který by verboval či přivolával."
 
 #: src/actions/create.cpp:478
-#, fuzzy
-#| msgid "None of your leaders are able to recruit that unit."
 msgid "None of your leaders are able to recruit this unit."
 msgstr "Tuto jednotku není schopen naverbovat žádný ze Tvých vůdců."
 
@@ -6559,10 +6543,8 @@ msgid "Only available during a scenario."
 msgstr "Dostupné pouze během scénáře."
 
 #: src/help/help_impl.cpp:358 src/help/help_impl.cpp:394
-#, fuzzy
-#| msgid "Time of day schedule:"
 msgid "Time of Day Schedule"
-msgstr "Rozvrh denní doby:"
+msgstr "Rozvrh denní doby"
 
 #: src/help/help_impl.cpp:385
 #, fuzzy
@@ -7004,10 +6986,8 @@ msgid "You have no units available to recruit."
 msgstr "Nemáš žádné jednotky k naverbování."
 
 #: src/menu_events.cpp:284
-#, fuzzy
-#| msgid "No unit recruited"
 msgid "No unit recruited."
-msgstr "Žádná jednotka nebyla naverbována"
+msgstr "Žádná jednotka nebyla naverbována."
 
 #: src/menu_events.cpp:309
 msgid "Internal error. Please report this as a bug! Details:\n"
@@ -7027,50 +7007,35 @@ msgid ""
 msgstr "K naverbování této jednotky nemáš dost peněz"
 
 #: src/menu_events.cpp:331
-#, fuzzy
-#| msgid "You do not have enough gold to recruit that unit"
 msgid "You do not have enough gold to recruit this unit."
-msgstr "K naverbování této jednotky nemáš dost peněz"
+msgstr "K naverbování této jednotky nemáš dost peněz."
 
 #: src/menu_events.cpp:374
-#, fuzzy
-#| msgid "You are separated from your soldiers and may not recall them"
 msgid "You are separated from your soldiers and may not recall them."
-msgstr "Jsi oddělen od svých vojáků a nemůžeš je přivolat"
+msgstr "Jsi oddělen od svých vojáků a nemůžeš je přivolat."
 
 #: src/menu_events.cpp:395
-#, fuzzy
-#| msgid ""
-#| "There are no troops available to recall\n"
-#| "(You must have veteran survivors from a previous scenario)"
 msgid ""
 "There are no troops available to recall.\n"
 "(You must have veteran survivors from a previous scenario.)"
 msgstr ""
-"Nelze přivolat jednotky\n"
-"(musíš mít zkušené jednotky, které přežily předchozí scénář)."
+"Nelze přivolat jednotky.\n"
+"(Musíš mít zkušené jednotky, které přežily předchozí scénář.)"
 
 #: src/menu_events.cpp:399
-#, fuzzy
-#| msgid "You currently can't recall at the highlighted location"
 msgid "You currently can't recall at the highlighted location."
-msgstr "V tuto chvíli nelze ve vybraném umístění přivolávat"
+msgstr "V tuto chvíli nelze ve vybraném umístění přivolávat."
 
 #: src/menu_events.cpp:411
-#, fuzzy
-#| msgid "No unit recalled"
 msgid "No unit recalled."
-msgstr "Žádná jednotka nebyla přivolána"
+msgstr "Žádná jednotka nebyla přivolána."
 
 #: src/menu_events.cpp:428
-#, fuzzy
-#| msgid "You must have at least 1 gold piece to recall a unit"
-#| msgid_plural "You must have at least $cost gold pieces to recall this unit"
 msgid "You must have at least 1 gold piece to recall a unit."
 msgid_plural "You must have at least $cost gold pieces to recall this unit."
-msgstr[0] "K přivolání jednotky potřebuješ nejméně 1 zlaťák"
-msgstr[1] "K přivolání jednotky potřebuješ nejméně $cost zlaťáky"
-msgstr[2] "K přivolání jednotky potřebuješ nejméně $cost zlaťáků"
+msgstr[0] "K přivolání jednotky potřebuješ nejméně 1 zlaťák."
+msgstr[1] "K přivolání jednotky potřebuješ nejméně $cost zlaťáky."
+msgstr[2] "K přivolání jednotky potřebuješ nejméně $cost zlaťáků."
 
 #: src/menu_events.cpp:572
 msgid "You cannot end your turn yet!"
@@ -7349,10 +7314,8 @@ msgid "Give gold to the current player."
 msgstr "Přidělí zlato stávájícímu hráči."
 
 #: src/menu_events.cpp:1289
-#, fuzzy
-#| msgid "<nickname>"
 msgid "<event name>"
-msgstr "<přezdívka>"
+msgstr "<název události>"
 
 #: src/menu_events.cpp:1289
 msgid "Fire a game event."

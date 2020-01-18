@@ -19,8 +19,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-01-13 20:30+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-01-18 08:27+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -565,7 +565,7 @@ msgstr ""
 #: data/core/units/saurians/Skirmisher.cfg:43
 #: data/core/units/undead/Skele_Chocobone.cfg:36
 msgid "spear"
-msgstr "oštěp"
+msgstr "kopí"
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Guardsman.cfg:37
@@ -1276,14 +1276,6 @@ msgstr "Nebeský drakonid"
 
 #. [unit_type]: id=Sky Drake, race=drake
 #: data/core/units/drakes/Sky.cfg:17
-#, fuzzy
-#| msgid ""
-#| "The lightweight ceramic armor that the Sky Drakes wear is a symbol of "
-#| "their rank, glazed silver to honor their connection to the air. As "
-#| "leaders of the hunt, they are often away from their homes for long "
-#| "periods of time. Each tries to bring as much game home as possible, "
-#| "competing to gain the respect of their tribe and, just possibly, time "
-#| "with one of the closely-guarded drake females."
 msgid ""
 "The lightweight ceramic armor that the Sky Drakes wear is a symbol of their "
 "rank, glazed silver to honor their connection to the air. As leaders of the "
@@ -1292,10 +1284,9 @@ msgid ""
 "of their tribe."
 msgstr ""
 "Lehoučký keramický pancíř nebeských drakonidů je vlastně symbolem jejich "
-"stavu - stříbrné doplňky symbolizují spojení se vzdušnými prostorami. "
-"Jakožto lovci se často nacházejí mimo domovy po delší dobu. Jejich cílem je "
-"donést zpět co nejvíce zvěře, v čemž soupeří o respekt jejich kmenů a snad "
-"povolení nějakého času s některou z přísně střežených drakonidských samic."
+"stavu – stříbrné doplňky symbolizují spojení se vzdušnými prostorami. "
+"Jakožto lovci se často nacházejí po delší dobu mimo domovy. Jejich cílem je "
+"donést zpět co nejvíce zvěře, v čemž soupeří o respekt svého kmene."
 
 #. [unit_type]: id=Drake Thrasher, race=drake
 #: data/core/units/drakes/Thrasher.cfg:4
@@ -3249,12 +3240,6 @@ msgstr "Jezdec"
 
 #. [unit_type]: id=Cavalier, race=human
 #: data/core/units/humans/Loyalist_Cavalier.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Cavaliers are masters at the use of both sword and crossbow from "
-#| "horseback. Their combination of striking power and mobility is fearsome; "
-#| "and they have a reputation for dash and aggressiveness to match it. The "
-#| "daring deeds of Cavaliers are the subject of many a tale and song."
 msgid ""
 "Cavaliers are masters at the use of both sword and crossbow from horseback. "
 "Their combination of striking power and mobility is fearsome, and they have "

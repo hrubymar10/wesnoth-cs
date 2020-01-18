@@ -13,15 +13,15 @@
 # Karel Doleček <KDolecek@seznam.cz>, 2008.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-01-13 20:30+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-01-18 08:27+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -328,21 +328,15 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:253
-#, fuzzy
-#| msgid ""
-#| "When the elves came to Weldyn, about ten years ago, they spoke of a mage "
-#| "named Crelanu, and of his advice about the ruby. He said that the "
-#| "radiance of the stone could be contained, and that doing so would stop "
-#| "the stone’s effect."
 msgid ""
 "When the elves came to Tath, about five years ago, they spoke of a mage "
 "named Crelanu, and of his advice about the ruby. He said that the radiance "
 "of the stone could be contained, and that doing so would stop the stone’s "
 "effect."
 msgstr ""
-"Když asi před deseti lety přišli elfové do Weldynu, mluvili o mágovi jménem "
-"Crelanu a jeho radě týkající se rubínu. Říkal, že jeho vyzařování by mohlo "
-"být ovládnuto a to by zastavilo působení kamene."
+"Když asi před pěti lety přišli elfové do Tathu, mluvili o mágovi jménem "
+"Crelanu a jeho radě týkající se rubínu. Říkal, že jeho vyzařování by mohlo "
+"být ovládnuto, a to by zastavilo působení kamene."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:257
@@ -909,23 +903,17 @@ msgid ""
 "Just watch. The gates wi’ close very soon. Then the elves outside — and, "
 "unfortunately, our dwarves who are still out there — wi’ become irrelevant."
 msgstr ""
-"Dívej se. Brány se brzy uzavřou. Pak se elfové venku... a bohužel i naši "
-"trpaslíci, kteří tam zůstanou... stanou bezvýznamnými."
+"Dívej se. Brány se brzy uzavřou. Pak se elfové venku – a bohužel i naši "
+"trpaslíci, kteří tam zůstanou – stanou bezvýznamnými."
 
 #. [message]: speaker=Baglur
 #. all the dwarves are inside, although there might still be some elves inside too
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:515
-#, fuzzy
-#| msgid ""
-#| "Just watch. The gates wi’ close very soon. Then the elves outside — and, "
-#| "unfortunately, our dwarves who are still out there — wi’ become "
-#| "irrelevant."
 msgid ""
 "Just watch. The gates wi’ close very soon. Then the elves outside wi’ become "
 "irrelevant."
 msgstr ""
-"Dívej se. Brány se brzy uzavřou. Pak se elfové venku... a bohužel i naši "
-"trpaslíci, kteří tam zůstanou... stanou bezvýznamnými."
+"Dívej se. Brány se brzy uzavřou. Pak se elfové venku stanou bezvýznamnými."
 
 #. [message]: speaker=Glindur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:550
