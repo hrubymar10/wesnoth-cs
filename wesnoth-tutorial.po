@@ -12,15 +12,15 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-01-13 20:30+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-01-19 20:02+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -768,7 +768,7 @@ msgstr "Au! Tento trénink je na mě příliš náročný..."
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1024
 msgid "female^Agh! This training is too much for me..."
-msgstr "Au! Tento trénink je na mě příliš náročný…"
+msgstr "Au! Tento trénink je na mě příliš náročný..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1060
@@ -943,6 +943,7 @@ msgid ""
 "You cannot end your turn until you have recruited troops and captured a "
 "village!"
 msgstr ""
+"Nemůžeš ukončit své kolo, dokud nenaverbuješ oddíly a neobsadíš vesnici!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:197
@@ -1029,13 +1030,6 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:229
-#, fuzzy
-#| msgid ""
-#| "See this dark blue water? It’s too deep for either side to cross. The "
-#| "orcs could slowly wade through that narrow band of shallow lighter-blue "
-#| "water in the east; but we could stand on the shore and force them to "
-#| "fight us from the water, where they are exposed and we are protected by "
-#| "the forest."
 msgid ""
 "See this dark blue water? It’s too deep for either side to cross. The orcs "
 "could slowly wade through that narrow band of shallow lighter-blue water in "
@@ -1044,7 +1038,7 @@ msgid ""
 msgstr ""
 "Vidíš tu temně modrou vodu? Je příliš hluboká, ani jedna strana ji nemůže "
 "překročit. Mohli by se pomalu brodit tím tenkým proužkem mělčí bledě modré "
-"vody na východě, ale my můžeme stát na břehu a donutit je bojovat ve vodě, "
+"vody na severu, ale my můžeme stát na břehu a donutit je bojovat ve vodě, "
 "kde jsou zranitelnější a nás chrání les."
 
 #. [event]
@@ -1176,25 +1170,21 @@ msgstr "Elfí šamanka"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:317
-#, fuzzy
-#| msgid ""
-#| "The Shaman is a fairly weak unit, but she has the ability to <i>heal</i> "
-#| "friendly units around her. She also has a special attack which <i>slows</"
-#| "i> enemies, halving the damage they do for one turn."
 msgid ""
 "The Shaman has the ability to <i>heal</i> friendly units around her. She "
 "also has a special attack which <i>slows</i> enemies, halving the damage "
 "they do for one turn. However, she’s physically weaker than fighters and "
 "archers, so be careful when sending her into battle."
 msgstr ""
-"Šamanka je docela slabá jednotka, ale dokáže <i>ošetřovat</i> jednotky okolo "
-"sebe. Má také speciální útok, který <i>zpomaluje</i> nepřátele, přičemž na "
-"jedno kolo sníží o polovinu zranění jimi způsobená."
+"Šamanka má schopnost <i>ošetřovat</i> spřátelené jednotky okolo sebe. Má "
+"také speciální útok, který <i>zpomaluje</i> nepřátele, přičemž na jedno kolo "
+"sníží o polovinu zranění jimi způsobená. Nicméně je tělesně slabší než "
+"bojovníci a lučištníci, takže si dej pozor, když ji posíláš do bitvy."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:322
 msgid "The <i>Heal</i> Ability"
-msgstr ""
+msgstr "Schopnost <i>ošetření</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:324
@@ -1208,28 +1198,22 @@ msgid ""
 "A detailed explanation of healing may be found in the <i>Gameplay</i> "
 "section of the help (default hotkey: <b>F1</b>)."
 msgstr ""
+"Spojenecké jednotky sousedící se šamankou se na začátku každého kola uzdraví "
+"o 4 body života, což je jen půlka toho, co by poskytla vesnice. Za ošetření "
+"nezíská šamanka žádné zkušenosti, to pouze za souboj, ale vyplatí se dělat "
+"s ní pokroky – po povýšení na elfí druidku poskytuje stejné léčení jako "
+"vesnice.\n"
+"\n"
+"Podrobné vysvětlení léčení lze nalézt v nápovědě, v oddílu <i>Pravidla hry</"
+"i> (výchozí klávesová zkratka: <b>F1</b>)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:331
-#, fuzzy
-#| msgid "Abilities and Weapon Specials"
 msgid "Weapon Specials"
-msgstr "Schopnosti a speciální útoky"
+msgstr "Speciální útoky"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:333
-#, fuzzy
-#| msgid ""
-#| "Weapon specials are special attack modifiers that make certain attacks "
-#| "more powerful. Once again, in this case, the Shaman has the Slows special "
-#| "on her entangle attack. When this attack is used on an enemy, it will "
-#| "halve the damage they do for one turn. Other weapon specials include "
-#| "First Strike, which allows that attack to always hit first no matter who "
-#| "attacks first, and Magical, which gives that attack a constant 70% chance "
-#| "to hit.\n"
-#| "\n"
-#| "A full list of abilities and weapons specials, along with traits, may be "
-#| "found in help."
 msgid ""
 "Weapon specials are special attack modifiers that make certain attacks more "
 "powerful. In this case, the Shaman has the Slows special on her entangle "
@@ -1242,21 +1226,21 @@ msgid ""
 "found in the help (default hotkey: <b>F1</b>)."
 msgstr ""
 "Speciální útoky jsou zvlášť upravené útoky, které určité z nich činí "
-"silnějšími. Takže ještě jednou, šamanka má v tomto případě při svém útoku "
-"zamotání zvláštnost zpomalení. Když je tento útok použit proti nepříteli, na "
-"jedno kolo zmenší o polovinu zranění, která nepřátelé působí. Ostatní "
-"speciální útoky zahrnují první úder, který tomuto útoku umožňuje vždy "
-"zasáhnout první bez ohledu na to, kdo první zaútočí a magický, jež dává "
-"takovému útoku stálou 70% možnost zasáhnout.\n"
+"silnějšími. V tomto případě má šamanka při svém útoku zamotání zvláštnost "
+"zpomalení. Když tento útok úspěšně zasáhne nepřítele, na jedno kolo zmenší "
+"o polovinu zranění, která nepřátelé působí. Ostatní speciální útoky zahrnují "
+"první úder, který tomuto útoku umožňuje vždy zasáhnout první bez ohledu na "
+"to, kdo první zaútočí a magický, jež dává takovému útoku stálou 70% možnost "
+"zasáhnout.\n"
 "\n"
 "Úplný seznam schopností a speciálních útoků spolu s vlastnostmi lze najít "
-"v nápovědě."
+"v nápovědě (výchozí klávesová zkratka: <b>F1</b>)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:363
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:374
 msgid "Multiple Healers"
-msgstr ""
+msgstr "Více léčitelů"
 
 #. [message]: speaker=narrator
 #. both healers are level one elvish shamans
@@ -1270,6 +1254,13 @@ msgid ""
 "adjacent units by 8 hitpoints per turn. A unit next to multiple healers is "
 "healed by the most advanced one."
 msgstr ""
+"Teď máš dva léčitele. Avšak každá jednotka může být ošetřena pouze jedním "
+"z nich – stále bude léčena pouze o 4 body zdraví za kolo, i když bude "
+"sousedit s oběma šamankami.\n"
+"\n"
+"Když kterákoli šamanka povýší na druidku, bude pak umět léčit sousední "
+"jednotky o 8 bodů života za kolo. Jednotka, která se nachází vedle více "
+"léčitelů, je léčena tím nejpokročilejším."
 
 #. [message]: speaker=narrator
 #. one healer is a level one shaman, but the other healer is a druid or (very unlikely) a shyde
@@ -1280,11 +1271,15 @@ msgid ""
 "healing from one healer — a unit next to multiple healers is healed by the "
 "most advanced one."
 msgstr ""
+"Teď máš dva léčitele. Tvoje druidka umí léčit sousední jednotky o 8 bodů "
+"života za kolo v porovnání se šamankou, která léčí o 4. Avšak každá jednotka "
+"může být léčena pouze jednou z nich – jednotka, která se nachází vedle více "
+"léčitelů, je léčena tím nejpokročilejším."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:383
 msgid "Healers and Villages"
-msgstr ""
+msgstr "Léčitelé a vesnice"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:384
@@ -1292,6 +1287,7 @@ msgid ""
 "A unit in a village will receive healing from the village instead of from "
 "adjacent healers."
 msgstr ""
+"Jednotka ve vesnici přijme léčení z vesnice místo od sousedních léčitelů."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:388
@@ -1301,6 +1297,10 @@ msgid ""
 "movement — the 2 hitpoints from rest-healing does combine with other sources "
 "of healing, so it’s often better to move a healer instead of an injured unit."
 msgstr ""
+"Mít více než jednoho léčitele jim umožňuje léčit se navzájem nebo obsáhnout "
+"oddělené oblasti bitevního pole. Také to může dovolit lepší taktický "
+"přesun – 2 body zdraví z léčení při odpočinku se spojí s dalšími zdroji "
+"léčení, takže je často lepší přesunout léčitele místo zraněné jednotky."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:403
@@ -1349,28 +1349,22 @@ msgstr "Obsaď vesnici"
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:448
-#, fuzzy
-#| msgid "Capture a village"
 msgid "You still have to capture a village!"
-msgstr "Obsaď vesnici"
+msgstr "Ještě musíš obsadit vesnici!"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:479
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:555
-#, fuzzy
-#| msgid ""
-#| "Don’t forget, you can press <b>u</b> to undo most things if you make a "
-#| "mistake."
 msgid ""
 "You forgot to recruit troops! You can press <b>u</b> to undo your last move."
 msgstr ""
-"Pamatuj, pokud jsi udělal(a) chybu, můžeš pro vrácení většiny akcí stisknout "
-"<b>u</b>."
+"Zapomněl(a) jsi naverbovat oddíly! Můžeš stisknout <b>u</b>, abys vrátil(a) "
+"svůj poslední tah."
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:482
 msgid "You still have to recruit troops!"
-msgstr ""
+msgstr "Ještě musíš naverbovat oddíly!"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:490
@@ -1421,16 +1415,12 @@ msgstr ""
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:568
-#, fuzzy
-#| msgid ""
-#| "You moved to the wrong place! After this message, you can press <b>u</b> "
-#| "to undo, then try again."
 msgid ""
 "You forgot to capture a village! You can press <b>u</b> to undo your last "
 "move."
 msgstr ""
-"Šel jsi na špatné místo! Až zmizí tato zpráva, stiskni <b>u</b> pro vrácení "
-"posledního kroku, pak to zkus znovu."
+"Zapomněl(a) jsi obsadit vesnici! Můžeš stisknout <b>u</b>, abys vrátil(a) "
+"svůj poslední tah."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:588
@@ -1585,7 +1575,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:712
 msgid "The tutorial isn’t meant to be this difficult"
-msgstr ""
+msgstr "Výcvik nemá být tak obtížný"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:714
@@ -1596,6 +1586,11 @@ msgid ""
 "\n"
 "Please report the bug."
 msgstr ""
+"Skřet na ostrově měl přejít přes most, aby mohl být napaden několika elfy "
+"najednou. Něco porušilo skriptovanou událost, takže byl ponechán v obranném "
+"postavení, což ztížilo scénář.\n"
+"\n"
+"Prosím, nahlaš chybu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:727
@@ -1665,40 +1660,26 @@ msgstr ""
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:779
-#, fuzzy
-#| msgid ""
-#| "I hope my units survive the counter-attack if I can’t take this grunt out "
-#| "this turn. I’d better grab more villages if I can and move everyone "
-#| "closer for next turn."
 msgid ""
 "I hope I will survive the counter-attack if my units can’t take this grunt "
 "out this turn. I should order them to grab more villages if they can and "
 "move everyone closer for next turn."
 msgstr ""
-"Doufám, že moje jednotky přežijí protiútok, když v tomhle kole nebudu moct "
-"sejmout toho pěšáka. Pokud to jde, raději bych měl(a) obsadit víc vesnic "
-"a před dalším kolem přesunout všechny blíž."
+"Doufám, že přežiju protiútok, když mé jednotky nebudou moci v tomto kole "
+"sejmout toho pěšáka. Pokud mohou zabrat další vesnice, měl(a) bych jim to "
+"nařídit a před dalším kolem přesunout všechny blíž."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:784
-#, fuzzy
-#| msgid ""
-#| "If one of your Shamans stands just behind your wounded units, she will "
-#| "heal them each 4 hitpoints at the beginning of the next turn."
 msgid ""
 "If one of your Shamans stands just behind you, she will heal you 4 hitpoints "
 "at the beginning of the next turn."
 msgstr ""
-"Jestliže právě za tvými zraněnými jednotkami stojí jedna ze tvých šamanek, "
-"na začátku příštího kola každou z nich vyléčí o 4 body zdraví."
+"Jestliže zrovna za tebou stojí jedna ze tvých šamanek, na začátku příštího "
+"kola tě vyléčí o 4 body zdraví."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:790
-#, fuzzy
-#| msgid ""
-#| "I hope my units survive the counter-attack if I can’t take this grunt out "
-#| "this turn. I’d better grab more villages if I can and move everyone "
-#| "closer for next turn."
 msgid ""
 "I hope my units will survive the counter-attack if I can’t take this grunt "
 "out this turn. I’d better grab more villages if I can and move everyone "
@@ -1789,19 +1770,14 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:941
-#, fuzzy
-#| msgid ""
-#| "We need to occupy that village, otherwise they will take it next turn! "
-#| "Move a unit into the village to stop the orcs capturing it. Whichever "
-#| "unit you choose will benefit from the village’s healing, too."
 msgid ""
 "We need to occupy that village, otherwise they will take it soon! Move a "
 "unit into the village to stop the orcs capturing it. Whichever unit you "
 "choose will benefit from the village’s healing, too."
 msgstr ""
-"Potřebujeme obsadit tu vesnici, jinak ji v příštím kole zaberou! Přesuň do "
-"ní nějakou jednotku, aby to již nemohl udělat nepřítel. Ať už vybereš "
-"kteroukoli, bude mít ve vesnici také výhodu léčení."
+"Potřebujeme obsadit tu vesnici, jinak ji brzy zaberou! Přesuň do ní nějakou "
+"jednotku, aby to již nemohl udělat nepřítel. Ať už vybereš kteroukoli, bude "
+"mít ve vesnici také výhodu léčení."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:947
@@ -1853,6 +1829,18 @@ msgid ""
 "from villages or healers, combining for a total of up to 10 hitpoints per "
 "turn."
 msgstr ""
+"Nezapomeň stahovat raněné jednotky do vesnic. Šamanky mohou léčit jen "
+"o 4 body života za kolo, zatímco vesnice je mohou léčit rychleji – o 8 za "
+"kolo.\n"
+"\n"
+"Různé zdroje léčení nejsou obvykle slučovány. Jestliže jednotka začíná své "
+"kolo vedle více léčitelů nebo ve vesnici a vedle léčitele, stejně bude "
+"léčena pouze jednou.\n"
+"\n"
+"Výjimkou z pravidla je léčení při odpočinku – pokud jednotka v kole nic "
+"neudělá, vyléčí se o 2 body života navíc k jakémukoli léčení, které může "
+"přijmout z vesnic nebo od léčitelů, což se spojí až do celkového počtu 10 "
+"bodů života za kolo."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1000
@@ -2030,16 +2018,12 @@ msgstr ""
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1294
-#, fuzzy
-#| msgid ""
-#| "Higher level units are powerful, but not invulnerable. Goodbye, $unit."
-#| "name|."
 msgid ""
 "Higher level units are powerful, but not invulnerable. We’ll miss you, $unit."
 "name|."
 msgstr ""
-"Jednotky vyšší úrovně jsou sice silné, ale ne nezranitelné. Sbohem, $unit."
-"name|."
+"Jednotky vyšší úrovně jsou sice silné, ale ne nezranitelné. Budeš nám "
+"chybět, $unit.name|."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1308
@@ -2201,22 +2185,15 @@ msgstr "Toto... bylo opravdu hloupé. Příště si dám větší pozor."
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1446
 msgid "female^That... was foolish. Next time I should be more careful."
-msgstr "Toto… bylo opravdu hloupé. Příště si dám větší pozor."
+msgstr "Toto... bylo opravdu hloupé. Příště si dám větší pozor."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1464
 msgid "Agh! Who will guide you to victory now?"
-msgstr ""
+msgstr "Agh! Kdo tě teď povede k vítězství?"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1479
-#, fuzzy
-#| msgid ""
-#| "You have beaten the orcs! You may want to try one of the rookie-level "
-#| "campaigns next, which include strategy hints. <i>A Tale of Two Brothers</"
-#| "i> is the easiest and is the recommended first campaign. In <i>An Orcish "
-#| "Incursion</i> you have an Elvish army, similarly to this tutorial, but "
-#| "with seven scenarios for your units to gain experience and advance levels."
 msgid ""
 "You have beaten the orcs! You may want to try one of the rookie-level "
 "campaigns next, which include strategy hints. <i>A Tale of Two Brothers</i> "
@@ -2224,9 +2201,7 @@ msgid ""
 msgstr ""
 "Porazil jsi skřety! Možná, že pak budeš chtít zkusit jedno z tažení pro "
 "zelenáče, které obsahuje rady pro strategii. Nejjednodušší je <i>Příběh dvou "
-"bratrů</i> a je doporučené jako první. V tažení <i>Skřetí nájezd</i> máš "
-"elfí vojsko, podobně jako v tomto výcviku, ale se sedmi scénáři, aby mohly "
-"tvé jednotky získat zkušenosti a postoupit o úrovně."
+"bratrů</i> a je doporučené jako první."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1484
