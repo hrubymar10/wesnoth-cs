@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-01-18 08:26+0100\n"
+"PO-Revision-Date: 2020-01-20 22:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4707,12 +4707,12 @@ msgstr ""
 #. [button]: id=choose_theme
 #: data/gui/window/preferences/03_display.cfg:291
 msgid "Theme"
-msgstr "Téma"
+msgstr "Motiv"
 
 #. [button]: id=choose_theme
 #: data/gui/window/preferences/03_display.cfg:292
 msgid "Change the in-game theme"
-msgstr "Změna tématu hry"
+msgstr "Změnit motiv hry"
 
 #. [label]
 #: data/gui/window/preferences/04_sound.cfg:38
@@ -5067,7 +5067,7 @@ msgstr "Vlajky"
 #. [label]
 #: data/gui/window/theme_list.cfg:51
 msgid "Choose Theme"
-msgstr "Vyber téma"
+msgstr "Vybrat motiv"
 
 #. [button]: id=help
 #: data/gui/window/title_screen.cfg:175
@@ -7558,7 +7558,7 @@ msgstr "cs"
 
 #: src/preferences/display.cpp:122
 msgid "No known themes. Try changing from within an existing game."
-msgstr "Žádná známá témata. Zkus změnit během existující hry."
+msgstr "Žádné známé motivy. Zkus změnit během existující hry."
 
 #: src/preferences/display.cpp:164
 msgid ""

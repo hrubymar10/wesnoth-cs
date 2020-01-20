@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:28-0300\n"
-"PO-Revision-Date: 2020-01-17 18:46+0100\n"
+"PO-Revision-Date: 2020-01-20 22:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3071,7 +3071,7 @@ msgstr ""
 "\n"
 "Můžete se podívat, z jakých základních typů je smíšený terén poskládaný, "
 "když najedete myší na šestiúhelník s tímto terénem a prozkoumáte ikonky typů "
-"terénu zobrazené vpravo nahoře (ve výchozím tématu)."
+"terénu zobrazené vpravo nahoře (ve výchozím motivu)."
 
 #. [topic]: id=..terrains_section
 #: data/core/help.cfg:504
@@ -3574,7 +3574,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Otevře menu pro výběr tématu.\n"
+"Otevře menu pro výběr motivu.\n"
 "\n"
 
 #. [topic]: id=general_commands
