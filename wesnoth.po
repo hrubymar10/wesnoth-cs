@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-01-18 08:26+0100\n"
+"PO-Revision-Date: 2020-01-20 22:37+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4188,12 +4188,12 @@ msgstr "pozastavit"
 #. [theme]: id=Classic
 #: data/themes/classic.cfg:11
 msgid "theme^Classic"
-msgstr "Klasické"
+msgstr "Klasický"
 
 #. [theme]: id=Classic
 #: data/themes/classic.cfg:13
 msgid "The classic, pre-1.12 theme"
-msgstr "Klasické téma z doby před verzí 1.12"
+msgstr "Klasický motiv z doby před verzí 1.12"
 
 #. [menu]: id=menu-main
 #: data/themes/classic.cfg:86 data/themes/cutscene.cfg:37
@@ -5130,14 +5130,15 @@ msgid ""
 "be healed on both sides’ turns. This way, a unit can be healed faster than "
 "otherwise possible."
 msgstr ""
+"Pokud je jednotka umístěna vedle léčitelů ze dvou spojeneckých stran, bude "
+"léčena v kolech obou stran. Takto může být jednotka léčena rychleji, než by "
+"jinak bylo možné."
 
 #. [tip]
 #. Translate the word "Flight" as in Wings of Victory
 #: data/tips.cfg:267
-#, fuzzy
-#| msgid "<i>― Kai Laudiss, 623YW</i>"
 msgid "<i>― Vank of Galun’s Flight, 6YW</i>"
-msgstr "<i>― Kai Laudiss, 623 YW</i>"
+msgstr "<i>― Vank z Galunovy letky, 6 YW</i>"
 
 #. [tip]
 #: data/tips.cfg:271
@@ -6547,28 +6548,20 @@ msgid "Time of Day Schedule"
 msgstr "Rozvrh denní doby"
 
 #: src/help/help_impl.cpp:385
-#, fuzzy
-#| msgid "Lawful units: "
 msgid "Lawful Bonus:"
-msgstr "Zákonné jednotky: "
+msgstr "Bonus zákonných:"
 
 #: src/help/help_impl.cpp:386
-#, fuzzy
-#| msgid "Neutral units: "
 msgid "Neutral Bonus:"
-msgstr "Neutrální jednotky: "
+msgstr "Bonus neutrálních:"
 
 #: src/help/help_impl.cpp:387
-#, fuzzy
-#| msgid "Chaotic units: "
 msgid "Chaotic Bonus:"
-msgstr "Chaotické jednotky: "
+msgstr "Bonus chaotických:"
 
 #: src/help/help_impl.cpp:388
-#, fuzzy
-#| msgid "Liminal units: "
 msgid "Liminal Bonus:"
-msgstr "Šeré jednotky: "
+msgstr "Bonus šerých:"
 
 #: src/help/help_impl.cpp:389
 msgid "Schedule"
@@ -6991,20 +6984,19 @@ msgstr "Žádná jednotka nebyla naverbována."
 
 #: src/menu_events.cpp:309
 msgid "Internal error. Please report this as a bug! Details:\n"
-msgstr ""
+msgstr "Vnitřní chyba. Prosím nahlaš to jako chybu programu! Podrobnosti:\n"
 
 #: src/menu_events.cpp:315
 msgid "You cannot recruit a $unit_type_name at this time."
-msgstr ""
+msgstr "V tuto chvíli nemůžeš verbovat jednotku $unit_type_name."
 
 #. TRANSLATORS: "plan" refers to Planning Mode
 #: src/menu_events.cpp:329
-#, fuzzy
-#| msgid "You do not have enough gold to recruit that unit"
 msgid ""
 "At this point in your plan, you will not have enough gold to recruit this "
 "unit."
-msgstr "K naverbování této jednotky nemáš dost peněz"
+msgstr ""
+"V tomto bodě tvého plánu nebudeš mít dost zlata k naverbování této jednotky."
 
 #: src/menu_events.cpp:331
 msgid "You do not have enough gold to recruit this unit."
@@ -7126,7 +7118,7 @@ msgstr "[<strana> [on/off]]"
 
 #: src/menu_events.cpp:1227
 msgid "Change the in-game theme."
-msgstr ""
+msgstr "Změnit motiv hry."
 
 #: src/menu_events.cpp:1229
 msgid "<side> <nickname>"
@@ -7274,12 +7266,12 @@ msgstr "Zobrazí proměnnou stavu hry."
 
 #. TRANSLATORS: Do not translate the word "advances"; it is a hardcoded literal argument.
 #: src/menu_events.cpp:1276
-#, fuzzy
-#| msgid "Modify a unit variable. (Only top level keys are supported.)"
 msgid ""
 "Modify a unit variable. (Only top level keys are supported, and "
 "advances=<number>.)"
-msgstr "Upraví vlastnost jednotky (pouze na svrchní úrovni)."
+msgstr ""
+"Upravit proměnnou jednotky. (Podporovány jsou pouze klíče nejvyšší úrovně "
+"a advances=<číslo>.)"
 
 #: src/menu_events.cpp:1283
 msgid "Discover all units in help."
@@ -7291,7 +7283,7 @@ msgstr "Opětovně zahalí v nápovědě všechny jednotky."
 
 #: src/menu_events.cpp:1285
 msgid "<unit type id>"
-msgstr ""
+msgstr "<id typu jednotky>"
 
 #: src/menu_events.cpp:1285
 msgid "Create a unit."
@@ -7307,7 +7299,7 @@ msgstr "Přepíná zobrazování tmy pro aktivní stranu."
 
 #: src/menu_events.cpp:1288
 msgid "<amount>"
-msgstr ""
+msgstr "<množství>"
 
 #: src/menu_events.cpp:1288
 msgid "Give gold to the current player."
