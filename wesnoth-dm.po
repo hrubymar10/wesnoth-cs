@@ -19,8 +19,8 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-13 20:30+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-01-21 23:45+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -2098,7 +2098,7 @@ msgstr ""
 "Jak Delfador následoval Iliah-Malala k portálu, zvedl se mrazivý vítr a "
 "vzduch zhoustl duchy valícími se do světa živých. Zem pod nohama začala "
 "mrznout, brzy se Delfador brodil v závějích sněhu. Jen chvíli mohl jít v "
-"nekromancerových šlépějích. Záhy se staly nezřetelnými..."
+"nekromantových šlépějích. Záhy se staly nezřetelnými..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:113
@@ -2961,8 +2961,8 @@ msgid ""
 "The orcs are retreating! And... what is this? A shyde flying towards us as "
 "if hell were on her heels..."
 msgstr ""
-"Skřeti prchají! A... co se to děje? Letí sem nějaká víla jako by ji hnalo "
-"samo peklo..."
+"Skřeti prchají! A..., co se to děje? Letí sem nějaká víla, jako by jí za "
+"patami hořelo..."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:234
@@ -3018,7 +3018,7 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:273
 msgid "This is very serious. Have you informed the elvish settlements?"
-msgstr "To je velmi vážné. Už jste informovali elfí obyvatele?"
+msgstr "To je velmi vážné. Už jste informovali elfí osady?"
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:277
@@ -3026,8 +3026,8 @@ msgid ""
 "Yes. And I have prepared holy water for our warriors. They should be able to "
 "hold against the undead in our forests, at least for now."
 msgstr ""
-"Ano. A navíc jsem pro naše bojovníky připravila svěcenou vodu. Měli by tak "
-"být schopni se v lesích ubránit proti hordám nemrtvých. Alespoň prozatím."
+"Ano. A pro naše válečníky jsem připravila svěcenou vodu. V našich lesích by "
+"měli být schopni se proti nemrtvým ubránit, alespoň prozatím."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:281
@@ -3035,8 +3035,8 @@ msgid ""
 "Holy water? What is this? Have you been dabbling where you should not, in "
 "the Book of Crelanu?"
 msgstr ""
-"Svěcenou vodu? Co je to? Ty jsi četla, co jsi neměla! Ty jsi studovala "
-"Krelanovu Knihu, přestože jsi nesměla?"
+"Svěcenou vodu? Co je to? Namočila ses do něčeho, do čeho bys neměla a četla "
+"Krelanovu knihu?"
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:285
@@ -3046,10 +3046,10 @@ msgid ""
 "one we have been awaiting since Cleodil accepted the guardianship of the "
 "Book. You know of what I speak."
 msgstr ""
-"Ne. Ale Cleodil svěřila nějaká nejméně nebezpečná tajemství své dceři, a já "
-"je zase dostala od své matky. A myslím, že jsem našla toho, na kterého tak "
-"čekáme od doby kdy Kleodil přijala úděl strážkyně Knihy. Vyvoleného. Víš, o "
-"kom to hovořím."
+"Ne. Ale Kleodil svěřila nějaká nejméně nebezpečná tajemství své dceři a já "
+"se je zase dozvěděla od své matky. A myslím, že jsem našla toho, kterého "
+"očekáváme od doby, kdy Kleodil přijala knihu do opatrování. Ty víš, o kom "
+"hovořím."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:289
@@ -3070,10 +3070,10 @@ msgid ""
 "Book of Crelanu so I can take it to him."
 msgstr ""
 "Delfador, mág, kterému dal král svou důvěru. Byť na pokraji sil, ale "
-"nezraněn a nezlomen, prošel Zemí mrtvých a vrátil se zpět. Pomohl nám "
-"porazit skřety plenící Lintanir. Bojovali jsme spolu u Parthynského Brodu s "
-"nemrtvými. Myslím, že na sever jsem měla jít částečně také proto, abych "
-"vzala Krelanovu Knihu a mohla mu ji předat."
+"nezraněn a nezlomen prošel Zemí mrtvých a vrátil se zpět. Pomohl nám porazit "
+"skřety plenící Lintanir. Bojovali jsme spolu u Parthynského brodu "
+"s nemrtvými. Myslím, že na sever jsem měla jít částečně také proto, abych "
+"vzala Krelanovu knihu a mohla mu ji předat."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:297
@@ -3093,9 +3093,9 @@ msgid ""
 "king; it is inner strength such as you describe that will turn back the "
 "darkness, if anything can. West, to the Ford of Abez!"
 msgstr ""
-"Musíme mu být tedy nápomocni a musím se s ním setkat. Král Wesnothu je pouze "
-"král; to vnitřní síla, ta, o které jsi hovořila, jen ta dokáže odvrátit "
-"přicházející temnotu. Na západ, k Brodu přes Abez!"
+"Musíme mu být tedy nápomocni a já se s ním musím setkat. Král Wesnothu je "
+"pouze král; to vnitřní síla, ta, o které jsi hovořila, jen ta dokáže "
+"odvrátit přicházející temnotu. Na západ, k brodu přes Abez!"
 
 #. [scenario]: id=14_Shadows_in_the_Dark
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:4
@@ -3138,7 +3138,7 @@ msgstr "Ten les vypadá tiše — až příliš. Buďte opatrní, vůbec se mi t
 #. [message]: id=Barth-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:179
 msgid "Living... Soon, you’ll be more troops for my master!"
-msgstr "Živí... Brzo už budete dalšími vojáky mého Mistra!"
+msgstr "Živí... Už brzo budete dalšími vojáky mého mistra!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:183
@@ -3236,8 +3236,8 @@ msgid ""
 "pass."
 msgstr ""
 "Ano! Vidím. Také můj vnitřní zrak jej vidí. Je jako planoucí oheň. Myslím, "
-"že jsi vybrala dobře, vnučko moje, on je skutečně ten, komu by Kniha "
-"Krelanova měla být předána."
+"že jsi vybrala dobře, vnučko moje, on je skutečně ten, komu by Krelanova "
+"kniha měla být předána."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:277
@@ -3252,13 +3252,13 @@ msgid ""
 "even our greatest mystics do not shine so brightly as this one."
 msgstr ""
 "Pokud by jsi byla člověkem, vybrala by sis dobře. Divné... jsou to takové "
-"nevlídné děti, surové a uhádané. A přesto, i naši největší mystikové nezáří "
+"nevlídné děti, surové a uhádané. A přesto ani naši největší mystikové nezáří "
 "tak jasně jako on."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:285
 msgid "I hope the Book does not destroy him."
-msgstr "Doufám, že jej Kniha nepohltí."
+msgstr "Doufám, že jej kniha nezničí."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:289
@@ -3295,8 +3295,8 @@ msgid ""
 "It is my honor to meet you. And it relieves my mind to know Chantal is safe "
 "and with her kin again."
 msgstr ""
-"Poctěn jsem já. Má mysl je mnohem klidnější, když vidím, že je Chantal a "
-"její lid zase v bezpečí."
+"To pro mne je ctí se s tebou setkat. Má mysl je mnohem klidnější, když vím, "
+"že je Chantal v bezpečí a opět mezi svými."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:373
@@ -3304,8 +3304,8 @@ msgid ""
 "I am not sure there is safety for anyone in these days, but we all travel "
 "the same road and face the same foes."
 msgstr ""
-"V těchto zlých časech si nemůžeme být jisti bezpečím, ale máme tutéž cestu "
-"stojíme proti stejnému nepříteli."
+"V těchto zlých časech si nemůžeme být bezpečím jisti, ale máme tutéž cestu "
+"a stojíme proti stejnému nepříteli."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:377
@@ -3313,8 +3313,8 @@ msgid ""
 "Yes. We will follow you to the Ford of Abez, Delfador. Let us hope we are "
 "not too late to prevent an orcish victory there."
 msgstr ""
-"Ano. Budeme tě, Delfadore, následovat k Brodu přes Velkou řeku. Doufejme, že "
-"ještě není pozdě překazit skřetům jejich plány"
+"Ano. Budeme tě, Delfadore, následovat k brodu přes Abez. Doufejme, že ještě "
+"není pozdě překazit skřetům jejich plány"
 
 #. [scenario]: id=15_Save_the_King
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:4
@@ -3370,7 +3370,8 @@ msgstr "Garard II zemře"
 msgid ""
 "It appears we have arrived just in time! The King stands at bay, surrounded "
 "by the enemy."
-msgstr "Tak jsme přišli právě včas! Král se stáhl na pláž, obklíčen nepřáteli."
+msgstr ""
+"Zdá se, že jsme přišli právě včas! Král stojí v šachu, obklíčen nepřáteli."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:256
@@ -3394,8 +3395,7 @@ msgstr ""
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:264
 msgid "We must destroy this warlord now, before his power grows any greater!"
-msgstr ""
-"Musíme toho válečníka zničit okamžitě, dokud jeho síla nevzroste ještě více!"
+msgstr "Teď musíme toho vojevůdce zničit, než jeho moc vzroste!"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:268
@@ -3425,13 +3425,14 @@ msgstr "Můj králi, toto je Kalenz, nejvyšší lord elfů."
 #. [message]: id=Garard II
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:288
 msgid "You will be forever welcome in the court of Wesnoth."
-msgstr "Vždy budete vítáni na dvoře Wesnothském."
+msgstr "Na wesnothském dvoře budete vždy vítáni."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:292
 msgid ""
 "We look forward to fighting beside you to defeat those threats that remain."
-msgstr "Bude mi potěšením se po vašem boku zúčastnit honu na ty zbylé hordy."
+msgstr ""
+"Bude mi potěšením bojovat vedle vás a vypořádat se se zbylými hrozbami."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:296
@@ -3441,10 +3442,10 @@ msgid ""
 "to the land of the dead. It must be closed at all costs, and I am afraid my "
 "skills may be insufficient for that task."
 msgstr ""
-"Vaše Veličenstvo, máme ještě naléhavější záležitosti. Leollyn mne poslal na "
-"misi zjistit, proč mrtví jsou tak neklidní. Šílený nekromancer otevřel "
-"portál do země mrtvých. Musí být uzavřen za každou cenu, a obávám se, že mé "
-"dovednosti mohou být nedostatečná pro tento úkol."
+"Vaše Veličenstvo, máme ještě naléhavější záležitosti. Leollyn mi dal za úkol "
+"zjistit, proč jsou mrtví tak neklidní. Odporný nekromant otevřel portál do "
+"země mrtvých. Musí být uzavřen za každou cenu a obávám se, že mé dovednosti "
+"mohou být pro tento úkol nedostatečné."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:300
@@ -3454,10 +3455,10 @@ msgid ""
 "book of lore, powerful knowledge, perilous secrets that it took Crelanu all "
 "his life to gather."
 msgstr ""
-"Delfadore, naše zbraně jsou slabé proti nemrtvým, ale možná jsme schopni "
-"jiné pomoci. Před sty lety nám velký mág Crelanu svěřil knihu jeho učení, "
-"mocných znalostí, nebezpečných tajemství. která Crelanu nasbíral za celý "
-"svůj život."
+"Delfadore, naše zbraně jsou proti nemrtvým slabé, ale možná máme něco "
+"jiného, co by ti mohlo pomoci. Před stovkami let nám velký mág Krelanu "
+"svěřil knihu vědění, mocných znalostí, nebezpečných tajemství, které Krelanu "
+"nasbíral za celý svůj život."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:304
@@ -3466,8 +3467,8 @@ msgid ""
 "believe you are that one, Delfador. The book may help you find a way to "
 "close that portal."
 msgstr ""
-"Crelanu nám uložil střežit Knihu, dokud se neobjeví někdo, kdo jí bude "
-"hoden. A věříme, že jsi jím právě ty, Delfadore. Snad ti tato kniha pomůže "
+"Krelanu nám uložil knihu střežit, dokud se neobjeví někdo, kdo jí bude "
+"hoden. A věříme, že jsi jím právě ty, Delfadore. Snad ti tato kniha pomůže "
 "nalézt odpověď, jak portál uzavřít."
 
 #. [message]: id=Delfador
@@ -3476,8 +3477,8 @@ msgid ""
 "Friends, your words do me perhaps greater honor than I deserve. I am not "
 "sure I am worthy of this charge."
 msgstr ""
-"Přátelé, nejsem hoden takových slov ani takového uznání. Nejsem si jist, že "
-"právě já jsem ten, kdo je hoden oné knihy."
+"Přátelé, vaše slova mi možná prokazují větší čest, než si zasloužím. Nejsem "
+"si jist, že jsem hoden vzít si ji na starost."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:312
@@ -3487,11 +3488,10 @@ msgid ""
 "upon us. And so it proved, though at the time we had no other choice. The "
 "victories you win with it may cost you as dearly."
 msgstr ""
-"Chantal i já jsme si jisti tvými kvalitami. Ale měj na paměti: ta Kniha je "
-"prokletá. Crelanu nás důrazně varoval, že její moc nám může přinést mnoho "
-"žalu. A tak se také v době, kdy jsme neměli jiné východisko, stalo. "
-"Vítězství, ke kterým ti dopomůže, mohou být velmi hořká, mohou tě připravit "
-"o mnohé."
+"Chantal i já jsme si jisti tvými kvalitami. Ale měj na paměti: ta kniha je "
+"prokletá. Krelanu nás důrazně varoval, že jeho umění nám přinese mnoho žalu. "
+"A to se i potvrdilo, ačkoli jsme tenkrát neměli jinou možnost. Vítězství, ke "
+"kterým ti dopomůže, tě mohou přijít draho."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:316
@@ -3507,9 +3507,8 @@ msgid ""
 "book’s help, it will be an honor to fight by your side, no matter what the "
 "outcome."
 msgstr ""
-"Toto rozhodnutí je pouze na tobě. Pokud budeme bojovat s nemrtvými bez "
-"pomoci knihy, bude mi velkou ctí stanout po tvém boku, nezáležíc, na "
-"výsledku."
+"Toto rozhodnutí je pouze na tobě. Pokud budeme bojovat s nemrtvými bez "
+"pomoci knihy, bude mi bez ohledu na výsledek ctí stanout po tvém boku."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:324
@@ -3517,7 +3516,7 @@ msgid ""
 "I think I, too, have no choice but to accept the book. I cannot allow the "
 "sure death of many humans and elves for fear of the curse."
 msgstr ""
-"Bojím se, že nemám na výběr. Přijmu tu Knihu. Kdybych ji odmítl kvůli tomu, "
+"Bojím se, že nemám na výběr. Přijmu tu knihu. Kdybych ji odmítl kvůli tomu, "
 "že se bojím kletby, měl bych na svědomí zbytečnou smrt mnoha a mnoha elfů a "
 "lidí."
 
@@ -3537,8 +3536,9 @@ msgid ""
 "haste, for I need to study the book and prepare for the battle with the "
 "undead."
 msgstr ""
-"Děkuji, přátelé. Doufám, že se potkáme ve šťastnějších časech. Nyní ale už "
-"musím jít. Musím knihu důkladně prostudovat. Musíme se připravit na válku."
+"Děkuji vám, přátelé. Snad se potkáme ve šťastnějších časech. Teď musím "
+"spěchat, neboť potřebuji prostudovat tu knihu a připravit se na bitvu "
+"s nemrtvými."
 
 #. [message]: speaker=Garard II
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:350
@@ -3546,8 +3546,8 @@ msgid ""
 "The enemy is drawing near. My personal guards must join the fight. We can "
 "only hope help arrives soon."
 msgstr ""
-"Nepřítel prorazil naše řady. Královská stráž! Do zbraně! Za Wesnoth! (pro "
-"sebe) Teď už nám zbývá jenom doufat, že se brzy dostaví nějaká pomoc."
+"Nepřítel se přibližuje. Má osobní stráž se musí připojit k boji. Můžeme jen "
+"doufat, že brzy dorazí pomoc."
 
 #. [unit]: id=Adamar, type=Royal Guard
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:362
@@ -3572,7 +3572,7 @@ msgstr "Za krále!"
 #. [message]: speaker=Zorlan
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:457
 msgid "Argh! It can't be, beaten by these swine!"
-msgstr "Argh! To není možné, poražen těmito prasaty!"
+msgstr "Argh! To není možné, ubitý těmi sviněmi!"
 
 #. [scenario]: id=16_Dark_Sky_Over_Weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:3
@@ -3591,7 +3591,7 @@ msgid ""
 msgstr ""
 "Kalenz a Chantal a jejich vojska se vydali pronásledovat zbytky skřetů Velké "
 "Hordy. Delfador se vrátil do Weldynu s králem a jeho darem od elfů, "
-"Krelanovou Knihou. Navzdory vítězství byl Delfador hluboce znepokojen "
+"Krelanovou knihou. Navzdory vítězství byl Delfador hluboce znepokojen "
 "hrozbou nemrtvých. Na zpáteční cestě se setkali s Lionelem, který přiváděl "
 "posily, a byl hluboce zarmoucen, když se dozvěděl, že za velmi podezřelých "
 "okolností zemřel Leollyn."
@@ -4487,7 +4487,7 @@ msgid ""
 msgstr ""
 "Pamatujte, poslední ránu musí zasadit jeden z našich nemrtvých "
 "spolubojovníků nebo já, protože Iliah-Malalův neživot může být ukončen jen "
-"dotekem neživota nebo silou knihy Crelanu."
+"dotekem neživota nebo silou Krelanovy knihy."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:374
@@ -4496,7 +4496,7 @@ msgid ""
 "only be ended by the power of the Book of Crelanu."
 msgstr ""
 "Pamatujte, poslední ránu musím zasadit já, protože Iliah-Malalův neživot "
-"může být ukončen jen silou knihy Crelanu."
+"může být ukončen jen silou Krelanovy knihy."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:395
@@ -4521,7 +4521,7 @@ msgid ""
 "Book of Crelanu, and found there your final doom at the hands of the dead "
 "themselves."
 msgstr ""
-"Ale ne již více. Kniha Krelanova mi umožnila nahlédnout do temného srdce "
+"Ale ne již více. Krelanova kniha mi umožnila nahlédnout do temného srdce "
 "nekromancie a tedy vím, že o tvé bytí tě může připravit zase jenom dotek "
 "smrti."
 
@@ -4531,7 +4531,7 @@ msgid ""
 "Not this time. For I have gazed upon the dark heart of necromancy in the "
 "Book of Crelanu, AND I REMAIN OF THE LIGHT!"
 msgstr ""
-"Ale ne již více. Kniha Krelanova mi umožnila nahlédnout do temného srdce "
+"Ale ne již více. Krelanova kniha mi umožnila nahlédnout do temného srdce "
 "nekromancie a tedy vím, jak tě připravit o tvé bytí. A budu to právě já, kdo "
 "nechá tvou temnou duši naplnit Bílým světlem!"
 
@@ -4723,10 +4723,10 @@ msgid ""
 "soul. Delfador, has anyone but you opened its covers since you got it from "
 "us?"
 msgstr ""
-"Byl bych rád, kdyby zde nebyla Kniha Krelanova; kdo ví, zda za tím nestojí. "
+"Byl bych rád, kdyby zde nebyla Krelanova kniha; kdo ví, zda za tím nestojí. "
 "Kniha sama o sobě není zlem, ale moc, kterou je prosycena, umocňuje zlo v "
 "duši každého, kdo ji použije. Delfadore, je ještě někdo jiný krom tebe, kdo "
-"nahlédl do tajů Knihy od toho okamžiku, kdy jsi ji od nás převzal?"
+"nahlédl do tajů knihy od toho okamžiku, kdy jsi ji od nás převzal?"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:241
@@ -4939,7 +4939,7 @@ msgstr "Najdi knihu"
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:123
 msgid "There is no doubt the book is here; I can feel its presence."
-msgstr "Je nepochybné, že Kniha je zde. Cítím její přítomnost."
+msgstr "Je nepochybné, že kniha je zde. Cítím její přítomnost."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:127
@@ -5008,7 +5008,7 @@ msgid ""
 "the same fate as he. Rise, my loyal soldiers!"
 msgstr ""
 "Pořád stejný Delfador. Arogantní, všechno ví, vždy nadřazuje sám sebe nad "
-"ostatní. Ale já se stal stejně velkým jako ty. Ovládl jsem Knihu! Vždy jsi "
+"ostatní. Ale já se stal stejně velkým jako ty. Ovládl jsem knihu! Vždy jsi "
 "mne podceňoval, stejně jako kdysi před tebou Leollyn. Nyní tě potká stejný "
 "osud jako jej. Povstaňte, mí vojáci!"
 
@@ -5018,7 +5018,7 @@ msgid ""
 "I see that the Book has mastered you, and destroyed you. Farewell, Sagus. "
 "You were a good man, once."
 msgstr ""
-"Vidím, že tě Kniha ovládla. A zničila tě. Sbohem, Sagusi. Býval jsi velkým "
+"Vidím, že tě kniha ovládla. A zničila tě. Sbohem, Sagusi. Býval jsi velkým "
 "mužem. Kdysi."
 
 #. [message]: speaker=Kalenz
@@ -5060,7 +5060,7 @@ msgid ""
 "armies to deal with the orcish menace, leading to the great battle at the "
 "Ford of Abez that was lost through betrayal."
 msgstr ""
-"Delfador se vrátil zpět do Weldynu, ale nejprve ukryl Krelanovu Knihu na "
+"Delfador se vrátil zpět do Weldynu, ale nejprve ukryl Krelanovu knihu na "
 "místo, které znal jen on. K jeho překvapení se Ašvíra již více nestarala o "
 "zprávy z panství. Ale nedlouho poté skřeti zesílili své nájezdy a ještě více "
 "se tak po celém království šířil strach. Král proto vytáhl se všemi svými "
