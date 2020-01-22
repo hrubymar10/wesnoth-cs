@@ -11,15 +11,15 @@
 # Petr 'Septim' Šlejhar, 2010 - 2011
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-01-13 20:30+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-01-22 21:33+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -1863,7 +1863,7 @@ msgstr "Tyjegea"
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:67
 msgid "Choose a unit to take the holy water"
-msgstr "Vyber jednotku, která si vezme posvěcenou vodu"
+msgstr "Vyber jednotku, která si vezme svěcenou vodu"
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:107
@@ -2086,7 +2086,7 @@ msgid ""
 "holy water for one of your soldiers."
 msgstr ""
 "Ale nepošlu tě pryč s úplně prázdnýma rukama. Mohu věnovat jednomu tvému "
-"vojákovi něco posvěcené vody."
+"vojákovi něco svěcené vody."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:222
@@ -2102,7 +2102,7 @@ msgstr ""
 #. [object]: id=holywater1
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:235
 msgid "Holy Water"
-msgstr "Posvěcená voda"
+msgstr "Svěcená voda"
 
 #. [message]: speaker=Tyegea
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:253

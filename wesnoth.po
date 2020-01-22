@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-01-20 22:37+0100\n"
+"PO-Revision-Date: 2020-01-22 21:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -908,7 +908,7 @@ msgstr "Runové kladivo"
 #. [object]
 #: data/core/editor/items.cfg:282 data/core/macros/items.cfg:278
 msgid "Holy Water"
-msgstr "Posvěcená voda"
+msgstr "Svěcená voda"
 
 #. [item]: id=key
 #: data/core/editor/items.cfg:288
@@ -1640,7 +1640,7 @@ msgstr "Nech ji zde"
 
 #: data/core/macros/items.cfg:276
 msgid "$unit.name has no need for this Holy Water! Let another take it."
-msgstr "$unit.name nepotřebuje tuto posvěcenou vodu! Ať ji vezme někdo jiný."
+msgstr "$unit.name nepotřebuje tuto svěcenou vodu! Ať ji vezme někdo jiný."
 
 #. [object]
 #: data/core/macros/items.cfg:281
