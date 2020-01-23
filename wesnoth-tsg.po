@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-16 18:14+0100\n"
+"PO-Revision-Date: 2020-01-23 20:49+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -911,23 +911,17 @@ msgstr ""
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:442
-#, fuzzy
-#| msgid "We’re too late! They’re burning the city..."
 msgid "We’re too late! They have burned the whole city..."
-msgstr "Nestihli jsme to! Zapálili město..."
+msgstr "Nestihli jsme to! Vypálili celé město..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:447
-#, fuzzy
-#| msgid ""
-#| "Westin has fallen! This is a problem too great for me to handle — I must "
-#| "return to Haldric and tell him of our loss..."
 msgid ""
 "Alas, Westin has fallen! There is nothing else I can do here — I can only "
 "return to the King and report our loss here..."
 msgstr ""
-"Westin padl! Tak velký problém sám nevyřeším, musím se vrátit k Haldrikovi a "
-"zpravit jej o této ztrátě..."
+"Běda, Westin padl! Už tu nic dalšího nedokážu – můžu se jen vrátit ke králi "
+"a ohlásit mu naše zdejší ztráty..."
 
 #. [unit]: type=Merman Fighter, id=Absu
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:477
@@ -940,6 +934,8 @@ msgid ""
 "The red and white banners of the South Guard! This is a welcome change from "
 "the bandits who have been trying to ransack my home."
 msgstr ""
+"Červenobílá korouhev Jižní hlídky! To je vítaná změna oproti banditům, kteří "
+"se snažili vybrakovat můj domov."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:492
@@ -947,11 +943,13 @@ msgid ""
 "Indeed, we have come to drive off these vile brigands. Would you like to "
 "join us in our battle to restore peace to Westin?"
 msgstr ""
+"Jistě, my přišli ty odporné zbojníky vyhnat. Nechtěl by ses k nám připojit "
+"v naší bitvě za obnovu míru ve Westinu?"
 
 #. [message]: speaker=Absu
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:496
 msgid "It would be an honor to fight alongside you, Sir Knight."
-msgstr ""
+msgstr "Bude mi ctí bojovat po tvém boku, pane rytíři."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:580
@@ -990,6 +988,8 @@ msgid ""
 "Minister Hylas can heal allied units near him and his <i>arcane</i> attack "
 "deals bonus damage to undead foes."
 msgstr ""
+"Purkmistr Hylas dokáže léčit spojenecké jednotky ve své blízkosti a jeho "
+"<i>nezemský</i> útok uděluje nemrtvým nepřátelům zranění navíc."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:631
@@ -1010,15 +1010,13 @@ msgstr "Vypalují naše domovy! Musíme je zastavit!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:682
-#, fuzzy
-#| msgid "My brother has died unavenged! What have we done?!"
 msgid "My brother has died unavenged! I have failed!"
-msgstr "Můj bratr zemřel nepomstěn! Co jen jsme to dopustili!?!"
+msgstr "Můj bratr zemřel nepomstěn! Selhal jsem!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:692
 msgid "The bandits are scattering! We have saved Westin!"
-msgstr ""
+msgstr "Bandité prchají na všechny strany! Zachránili jsme Westin!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:697
@@ -1026,6 +1024,8 @@ msgid ""
 "Indeed. Still, this victory is troubling. How can a mere outlaw have "
 "summoned undead?"
 msgstr ""
+"Vskutku. Nicméně tohle vítězství mi dělá starosti. Jak mohl pouhý psanec "
+"povolat nemrtvé?"
 
 #. [unit]: type=Death Knight, id=Ixlathal
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:712
@@ -1058,24 +1058,19 @@ msgstr ""
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:827
-#, fuzzy
-#| msgid ""
-#| "Just before the bandit raids began, an ambassador came to Sir Loris from "
-#| "the elves of the Aethenwood west of here. He asked that a knight be sent "
-#| "to discuss a new threat to Wesnoth."
 msgid ""
 "I do not know, but just before the bandit raids began, an ambassador came to "
 "Sir Loris from the elves of the Aethenwood. He asked that a knight be sent "
 "to discuss a new threat to Wesnoth."
 msgstr ""
-"Krátce před tím, než začaly nájezdy banditů, přišel k Siru Lorisovi vyslanec "
-"elfů z lesa západně odtud. Požadoval, aby byl vyslán rytíř k jednání o nové "
+"Nevím, ale těsně před tím, než začaly nájezdy banditů, přišel z Aethenwoodu "
+"k siru Lorisovi vyslanec elfů. Žádal, aby byl vyslán rytíř k rokování o nové "
 "hrozbě pro Wesnoth."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:832
 msgid "And did Sir Loris go to the elves?"
-msgstr "A šel Sir Loris za elfy?"
+msgstr "A šel sir Loris k elfům?"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:837
