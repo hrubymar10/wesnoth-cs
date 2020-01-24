@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-21 23:45+0100\n"
+"PO-Revision-Date: 2020-01-24 22:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1021,7 +1021,7 @@ msgstr ""
 "Dobrá! Lionel a jeho muži tě doprovodí, protože budeš na ochranu potřebovat "
 "nejen magii... zvláště tam, kde míříš, do divokých krajů severně od Tathu. I "
 "za poklidných časů jsou to docela nejistá místa a skřeti už mohli proniknout "
-"i na jih od Brodu."
+"i na jih od brodu."
 
 #. [scenario]: id=06_Swamps_of_Illuven
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:3
@@ -2961,7 +2961,7 @@ msgid ""
 "The orcs are retreating! And... what is this? A shyde flying towards us as "
 "if hell were on her heels..."
 msgstr ""
-"Skřeti prchají! A..., co se to děje? Letí sem nějaká víla, jako by jí za "
+"Skřeti ustupují! A..., co je to? Letí k nám nějaká víla, jako by jí za "
 "patami hořelo..."
 
 #. [message]: id=Kalenz
@@ -2970,8 +2970,8 @@ msgid ""
 "The orcs are retreating! And... what is this? A druid running to meet us as "
 "though hell were on her heels..."
 msgstr ""
-"Skřeti prchají! A... co se to děje? Nějaká druidka běží sem k nám jako by ji "
-"hnalo samo peklo..."
+"Skřeti ustupují! A..., co je to? Nějaká druidka nám běží naproti, jako by jí "
+"za patami hořelo..."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:253
@@ -3002,9 +3002,9 @@ msgid ""
 "the humans at the Ford of Abez. I think we must aid the humans, lest we be "
 "defeated separately once they are crushed."
 msgstr ""
-"Do boje vytáhl i nejvyšší náčelník skřetů a ten přichystal lidem u Brodu "
-"přes Abez past. Myslím, že je nutné, abychom lidem pomohli. Každý zvlášť "
-"nemáme šanci přežít. Padnou-li oni zde, vbrzku budeme poraženi i my."
+"Povstal nejvyšší náčelník skřetů a chystá lidem u brodu přes Abez léčku. "
+"Myslím, že musíme lidem pomoci, abychom snad nebyli poraženi každý zvlášť, "
+"když budou rozdrceni."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:269
@@ -3314,7 +3314,7 @@ msgid ""
 "not too late to prevent an orcish victory there."
 msgstr ""
 "Ano. Budeme tě, Delfadore, následovat k brodu přes Abez. Doufejme, že ještě "
-"není pozdě překazit skřetům jejich plány"
+"není pozdě překazit skřetům jejich plány."
 
 #. [scenario]: id=15_Save_the_King
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:4
@@ -3432,7 +3432,7 @@ msgstr "Na wesnothském dvoře budete vždy vítáni."
 msgid ""
 "We look forward to fighting beside you to defeat those threats that remain."
 msgstr ""
-"Bude mi potěšením bojovat vedle vás a vypořádat se se zbylými hrozbami."
+"Bude mi potěšením vedle vás bojovat a vypořádat se se zbylými hrozbami."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:296
@@ -3444,7 +3444,7 @@ msgid ""
 msgstr ""
 "Vaše Veličenstvo, máme ještě naléhavější záležitosti. Leollyn mi dal za úkol "
 "zjistit, proč jsou mrtví tak neklidní. Odporný nekromant otevřel portál do "
-"země mrtvých. Musí být uzavřen za každou cenu a obávám se, že mé dovednosti "
+"země mrtvých. Za každou cenu musí být uzavřen a obávám se, že mé dovednosti "
 "mohou být pro tento úkol nedostatečné."
 
 #. [message]: id=Kalenz
@@ -3457,8 +3457,8 @@ msgid ""
 msgstr ""
 "Delfadore, naše zbraně jsou proti nemrtvým slabé, ale možná máme něco "
 "jiného, co by ti mohlo pomoci. Před stovkami let nám velký mág Krelanu "
-"svěřil knihu vědění, mocných znalostí, nebezpečných tajemství, které Krelanu "
-"nasbíral za celý svůj život."
+"svěřil knihu vědění, mocných znalostí a nebezpečných tajemství, které "
+"Krelanu nasbíral za celý svůj život."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:304
@@ -3508,7 +3508,7 @@ msgid ""
 "outcome."
 msgstr ""
 "Toto rozhodnutí je pouze na tobě. Pokud budeme bojovat s nemrtvými bez "
-"pomoci knihy, bude mi bez ohledu na výsledek ctí stanout po tvém boku."
+"pomoci knihy, bude mi ctí stanout po tvém boku bez ohledu na výsledek."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:324
@@ -3517,8 +3517,7 @@ msgid ""
 "sure death of many humans and elves for fear of the curse."
 msgstr ""
 "Bojím se, že nemám na výběr. Přijmu tu knihu. Kdybych ji odmítl kvůli tomu, "
-"že se bojím kletby, měl bych na svědomí zbytečnou smrt mnoha a mnoha elfů a "
-"lidí."
+"že se bojím kletby, měl bych na svědomí zbytečnou smrt mnoha elfů a lidí."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:328
@@ -3589,11 +3588,11 @@ msgid ""
 "with Lionel who was arriving with reinforcements, and were deeply saddened "
 "to learn that Leollyn had died under very suspicious circumstances."
 msgstr ""
-"Kalenz a Chantal a jejich vojska se vydali pronásledovat zbytky skřetů Velké "
-"Hordy. Delfador se vrátil do Weldynu s králem a jeho darem od elfů, "
+"Kalenz, Chantal a jejich vojska se vydali pronásledovat zbytky skřetů Velké "
+"hordy. Delfador se vrátil do Weldynu s králem a svým darem od elfů, "
 "Krelanovou knihou. Navzdory vítězství byl Delfador hluboce znepokojen "
-"hrozbou nemrtvých. Na zpáteční cestě se setkali s Lionelem, který přiváděl "
-"posily, a byl hluboce zarmoucen, když se dozvěděl, že za velmi podezřelých "
+"hrozbou nemrtvých. Na zpáteční cestě se setkali s Lionelem, který přiváděl "
+"posily a byl hluboce zarmoucen, když se dozvěděl, že za velmi podezřelých "
 "okolností zemřel Leollyn."
 
 #. [part]
@@ -3616,9 +3615,10 @@ msgid ""
 "orcs have been defeated decisively. Their Great Chief is dead and their army "
 "has been scattered. We owe much of this great victory to Delfador."
 msgstr ""
-"Shromáždili jsme zde s dobrou a špatnou zprávu: Dobrou zprávou je, že skřeti "
-"byli utrpěli výraznou porážku. Jejich Velký šéf je mrtvý a jejich armáda "
-"byla rozprášena. Za mnohé z tohoto velkého vítězství vděčíme Delfadorovi."
+"Shromáždili jsme se zde a máme dobrou a špatnou zprávu: Dobrou zprávou je, "
+"že skřeti utrpěli výraznou porážku. Jejich Velký náčelník je mrtvý a jejich "
+"armáda byla rozprášena. Za mnohé z tohoto velkého vítězství vděčíme "
+"Delfadorovi."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:39
@@ -3637,8 +3637,8 @@ msgstr "Delfador"
 msgid ""
 "I did very little, sire. It was actually the elves who saved us on that day."
 msgstr ""
-"Já toho mnoho nevykonal. Ve skutečnosti to byli elfové, kteří zachránili "
-"tyto dny."
+"Já toho mnoho nevykonal. Ve skutečnosti to byli elfové, kteří nás toho dne "
+"zachránili."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:43
@@ -3659,7 +3659,7 @@ msgid ""
 "We owe the elves nothing, sire. They refused to send their archers when we "
 "needed them!"
 msgstr ""
-"Elfům nedlužíme vůbec nic, sire. Když jsme byli v nouze, odmítli nám poslat "
+"Elfům nedlužíme vůbec nic, sire. Když jsme byli v nouzi, odmítli nám poslat "
 "lukostřelce!"
 
 #. [part]
@@ -3670,10 +3670,10 @@ msgid ""
 "reports of an undead threat. He was able to fight them off at Parthyn Ford, "
 "but more are coming."
 msgstr ""
-"Uklidni se, Lioneli. Elfové bojovali dobře a získali si náš respekt. Ale "
+"Uklidni se, Lioneli. Elfové bojovali dobře a získali si náš respekt. Ale "
 "tato rada se zde sešla, aby našla řešení alarmující záležitosti. Mladý mág "
-"Delfador zde podal zprávy o hrozbě nemrtvých. Byl schopný postavit se jim a "
-"u Parthynského brodu je zničit, ale přichází další a další."
+"Delfador zde podal zprávy o hrozbě nemrtvých. Byl schopen se jim postavit "
+"a u Parthynského brodu je zničit, ale přichází další a další."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:51
@@ -3708,8 +3708,8 @@ msgid ""
 "I think our young and inexperienced friend overestimates the powers of the "
 "enemy. I’m sure they’ll be no match for Wesnothian troops."
 msgstr ""
-"Myslím, že náš mladý a nezkušený přítel přeceňuje sílu nepřítele. Jsem si "
-"jist, nesnese srovnání s mými vojáky."
+"Myslím, že náš mladý a nezkušený přítel přeceňuje sílu nepřítele. Jsem si "
+"jist, že se wesnothským oddílům nemohou rovnat."
 
 #. [part]
 #. [side]: type=Lich, id=Sagus
@@ -3731,7 +3731,8 @@ msgstr ""
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:67
 msgid ""
 "Are you saying Master Sagus speaks idly? Somebody needs to teach you respect!"
-msgstr "Chceš snad zpochybňovat slova Mistra Saguse?"
+msgstr ""
+"Chceš snad zpochybňovat slova mistra Saguse? Někdo by tě měl naučit úctě!"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:67
@@ -3773,8 +3774,8 @@ msgid ""
 "men to be his personal guard. Make sure nothing untoward happens to him, as "
 "the circumstances of Leollyn’s death are not fully clear."
 msgstr ""
-"Jako odměnu za Delfadorovu statečnost, dočasně jmenuji tebe a tvé muže jako "
-"jeho osobní strážce. Ujistěte se, že se mu nestane nic neobvyklého. "
+"Jako odměnu za Delfadorovu statečnost dočasně jmenuji tebe a tvé muže jako "
+"jeho osobní strážce. Ujistěte se, že se mu nestane nic nepředloženého. "
 "Okolnosti smrti Leollyna nejsou zcela jasné."
 
 #. [part]
@@ -3791,11 +3792,11 @@ msgid ""
 "with the few survivors fleeing in terror. Nothing stood now between Iliah-"
 "Malal’s army and Weldyn..."
 msgstr ""
-"A tak se stalo, že Wesnothská armáda opustila Weldyn a vydala se najít a "
-"zničit Iliah-Malala a jeho síly. Ale tato kampaň skončila katastrofou. Méně "
-"než hrstka vojáků se s hrůzou v očích vrátila. Armáda Wesnothu byla zničena, "
-"a těch několik málo přeživších se v hrůze rozprchlo. Nic teď nestálo mezi "
-"armádou Iliah-Malala a Weldynem..."
+"A tak se stalo, že wesnothská armáda opustila Weldyn a vydala se najít "
+"a zničit Iliah-Malala a jeho síly. Ale toto tažení skončilo katastrofou. "
+"Vrátila se méně než hrstka vystrašených vojáků. Armáda Wesnothu byla zničena "
+"a těch několik málo přeživších se v hrůze rozprchlo. Nic teď nestálo mezi "
+"armádou Iliah-Malala a Weldynem..."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:104
@@ -3803,8 +3804,8 @@ msgid ""
 "This is a disaster. I should have led the army myself and died with them. "
 "And I should have listened to you, Delfador."
 msgstr ""
-"Taková pohroma. Kéž bych sám vedl svou armádu a zemřel v jejím čele. Kéž "
-"bych byl Delfadora poslechl."
+"Taková pohroma. Já sám měl vést armádu a zemřít spolu s nimi. A měl jsem ti "
+"naslouchat, Delfadore."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:108
@@ -3817,7 +3818,7 @@ msgid ""
 "My Lord, things are very grave indeed, but all is not yet lost. There is "
 "still hope if we do not falter."
 msgstr ""
-"Můj Pane, situace je velmi kritická, ale ještě není vše ztraceno. Ještě je "
+"Můj pane, situace je velmi kritická, ale ještě není vše ztraceno. Pořád je "
 "naděje, pokud nebudeme dál váhat."
 
 #. [part]
@@ -3837,17 +3838,17 @@ msgid ""
 "Dead. I will need a small escort, but this must be done immediately."
 msgstr ""
 "Existují tři věci, které musíme udělat. Za prvé, musíme zorganizovat naši "
-"obranu, jak nejlépe umíme. Za druhé, musíme požádat o pomoc elfy, aby malými "
-"výpady znejistili a zpomalili Iliah-Malala. Elfové nebudou moci bojovat s "
-"nemrtvými v otevřené válce, ale mohou je obtěžovat tím, že udeří z lesů, kam "
-"se je nemrtví neodváží následovat. A nakonec to hlavní, mnoho času jsem "
-"studoval, a myslím, že už vím, jak uzavřít Iliah-Malalův portál do Země "
+"obranu, jak nejlépe umíme. Za druhé, musíme požádat o pomoc elfy, aby malými "
+"výpady znejistili a zpomalili Iliah-Malala. Elfové nebudou moci bojovat "
+"s nemrtvými v otevřené válce, ale mohou je obtěžovat tím, že udeří z lesů, "
+"kam se je nemrtví neodváží následovat. A nakonec to hlavní, mnoho času jsem "
+"studoval a myslím, že už vím, jak uzavřít Iliah-Malalův portál do Země "
 "mrtvých. Budu potřebovat malý doprovod, ale musí to být provedeno okamžitě."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:124
 msgid "My Lord, I can arrange the defenses around the city."
-msgstr "Můj Pane, ujmu se organizací obrany města."
+msgstr "Můj pane, mohu zajistit obranu města."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:128
@@ -3862,9 +3863,9 @@ msgid ""
 "every mage in Wesnoth, from Alduin and elsewhere. And you must prepare more "
 "heavy infantry."
 msgstr ""
-"To je ale pouze první krok. Pokud chceme porazit nemrtvé, musíme urychleně "
-"změnit výcvik tvých vojsk. Za prvé, musíš povolat každého mága z Wesnothu, z "
-"ostrova Alduin i odkudkoli jinde. A musíš nechat vycvičit těžkooděnce."
+"To je ale pouze první krok. Pokud chceme porazit nemrtvé, musíme cvičit "
+"a používat vojsko jinak než dosud. Za prvé, musíš povolat každého mága "
+"z Wesnothu, z ostrova Alduin i odjinud. A musíš připravit více těžkooděnců."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:136
@@ -3882,9 +3883,9 @@ msgid ""
 "mages in battle, for they are precious. Now, go, close the portal and come "
 "back soon!"
 msgstr ""
-"Delfador. A ty budeš velet těžkooděncům. Zajistíte v boji mágům bezpečí, aby "
-"se mohli soustředit. A nyní jděte, zavřete portál a co nejdříve se vraťte v "
-"pořádku zpět!"
+"Delfador by mohl. A ty budeš velet těžkooděncům. Zajistíte v boji mágům "
+"bezpečí, aby se mohli soustředit. A nyní jděte, zavřete portál a co nejdříve "
+"se vraťte v pořádku zpět!"
 
 #. [scenario]: id=17_A_New_Ally
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:3
@@ -3899,7 +3900,7 @@ msgid ""
 "was a perilous road. Delfador was constrained to avoid well-trodden paths. "
 "This meant a detour..."
 msgstr ""
-"Delfador se s malým doprovodem vydal na sever aby se pokusil o uzavření "
+"Delfador se vydal s malým doprovodem na sever, aby se pokusil o uzavření "
 "portálu. Ale s Iliah-Malalovou armádou roztaženou po celém severním břehu "
 "Velké řeky to byla velice nebezpečná pouť. Delfador musel putovat mimo "
 "silnice, mimo prošlapané cesty. To znamenalo zajížďku..."
@@ -3963,17 +3964,17 @@ msgstr "Trpaslíci, a obklíčeni nemrtvými. Musíme jim pomoci!"
 #. [message]: speaker=Gruv-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:153
 msgid "Then your corpses will also serve my master."
-msgstr "Pak také vaše kosti budou sloužit mému pánovi."
+msgstr "Pak také vaše mrtvoly budou sloužit mému pánovi."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:157
 msgid "Your master’s days are numbered. Yours will end this day!"
-msgstr "Dny tvého pána jsou sečteny. A tvé skončí dnešní den!"
+msgstr "Dny tvého pána jsou sečteny. A tvé skončí dnes!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:175
 msgid "I am Delfador. And you are dust!"
-msgstr "Já jsem Delfador, A ty pouhý prach!"
+msgstr "Já jsem Delfador. A ty pouhý prach!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:186
@@ -4003,9 +4004,9 @@ msgid ""
 "nearly under the eaves of Lintanir Forest. I must close it, or else we are "
 "all doomed."
 msgstr ""
-"Jsem Delfador. Přátelé, velké zlo bylo vypuštěno. Portál do země mrtvých byl "
-"otevřen, a to na severní výspě těchto hor. blízko kraje Lintanirského lesa. "
-"Musím jej uzavřít, nebo vše, co známe upadne do záhuby."
+"Jsem Delfador. Přátelé, bylo vypuštěno velké zlo. Portál do země mrtvých byl "
+"otevřen, a to na severní výspě těchto hor, blízko kraje lintanirského lesa. "
+"Musím jej uzavřít, nebo vše, co známe, upadne do záhuby."
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:210
@@ -4068,7 +4069,7 @@ msgstr "Relgorn je mrtvej, zachraň se kdo můžeš!"
 #. [scenario]: id=18_The_Portal_of_Doom
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:3
 msgid "The Portal of Doom"
-msgstr "Portál Zkázy"
+msgstr "Portál zkázy"
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:40
@@ -4078,9 +4079,9 @@ msgid ""
 "Far sooner than he would have believed possible they reached their "
 "destination, undetected by Iliah-Malal."
 msgstr ""
-"Trpaslíci vedli Delfadora opravdovým labyrintem tunelů. Delfadora ohromila "
-"rychlost, s níž se trpaslíci mohou pohybovat jejich tunely. Daleko dříve, "
-"než by býval věřil, dosáhli svého cíle, aniž by je Iliah-Malal zpozoroval."
+"Trpaslíci vedli Delfadora opravdovým labyrintem tunelů. Ohromila jej "
+"rychlost, s níž se tunely mohou pohybovat. Daleko dříve, než by býval věřil, "
+"dosáhli svého cíle, aniž by je Iliah-Malal zpozoroval."
 
 #. [side]: type=Death Knight, id=Prepolur
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:73
@@ -4096,7 +4097,7 @@ msgstr "Unuvim-Malal"
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:191
 msgid ""
 "Move Delfador to close the Portal and then return everyone to the tunnel"
-msgstr "Pčesuň Delfadora, aby zavřel portál a pak se vrať se všemi do tunelu"
+msgstr "Přesuň Delfadora, aby zavřel portál a pak se vrať se všemi do tunelu"
 
 #. [message]: speaker=Prepolur
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:233
@@ -4104,7 +4105,7 @@ msgid ""
 "Living men and dwarves are nearing. Rise, Portal Guard and slay the "
 "intruders!"
 msgstr ""
-"Smrtelníci a trpaslíci se blíží! Vzhůru, strážci Portálu! Pobijte narušitele!"
+"Smrtelníci a trpaslíci se blíží! Vzhůru, strážci portálu! Pobijte narušitele!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:237
@@ -4112,8 +4113,8 @@ msgid ""
 "The portal must be closed at any cost. You must allow me to get close to it, "
 "so I can seal it."
 msgstr ""
-"Portál musí být uzavřen za jakoukoli cenu. Musíte mi umožnit se k němu "
-"dostat co nejblíž. abych to byl schopen udělat."
+"Portál musí být uzavřen za jakoukoli cenu. Musíte mi umožnit dostat se "
+"k němu co nejblíž, abych byl schopen to udělat."
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:241
@@ -5064,7 +5065,7 @@ msgstr ""
 "místo, které znal jen on. K jeho překvapení se Ašvíra již více nestarala o "
 "zprávy z panství. Ale nedlouho poté skřeti zesílili své nájezdy a ještě více "
 "se tak po celém království šířil strach. Král proto vytáhl se všemi svými "
-"vojsky, aby odrazil skřetí nájezdníky. Výsledkem byla velká bitva o Brod "
+"vojsky, aby odrazil skřetí nájezdníky. Výsledkem byla velká bitva o brod "
 "přes Abez, která skončila díky zradě drtivou porážkou."
 
 #. [part]
