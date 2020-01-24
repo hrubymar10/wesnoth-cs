@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-23 20:49+0100\n"
+"PO-Revision-Date: 2020-01-24 20:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1035,19 +1035,19 @@ msgstr "Ixlathal"
 #. [message]: speaker=Ixlathal
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:719
 msgid "The master sends his regards. The command is to raze the city."
-msgstr ""
+msgstr "Pán posílá své pozdravy. Rozkaz zní srovnat město se zemí."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:723
 msgid "I am trying, but their resistance is strong..."
-msgstr ""
+msgstr "Snažím se, ale jejich odpor je silný..."
 
 #. [message]: speaker=Ixlathal
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:727
 msgid ""
 "Then step aside, living one. I will make use of the fresh corpses from this "
 "battle."
-msgstr ""
+msgstr "Tak tedy ustup stranou, žijící. Využiji čerstvé mrtvoly z této bitvy."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:818
@@ -1055,6 +1055,8 @@ msgid ""
 "More undead! Alas, we cannot hold against a force so great. We will have to "
 "abandon Westin and let them sack the city..."
 msgstr ""
+"Další nemrtví! Běda, nemůžeme se udržet proti takové přesile. Budeme muset "
+"opustit Westin a nechat je vyplenit město..."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:827
@@ -1074,46 +1076,33 @@ msgstr "A šel sir Loris k elfům?"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:837
-#, fuzzy
-#| msgid ""
-#| "No. He suspected the elves of some trickery and made no reply to them. "
-#| "Perhaps they know the origin of these dead warriors we now face."
 msgid ""
 "No. He suspected the elves of some trickery and made no reply to them. I "
 "believe that they may know the origin of these dead warriors we now face."
 msgstr ""
-"Nikoliv. Podezříval elfy ze lsti a neodpověděl jim. Možná věděli něco o "
-"původu těch nemrtvých, proti kterým teď stojíme."
+"Nikoliv. Podezříval elfy ze lsti a neodpověděl jim. Věřím, že mohou vědět, "
+"odkud se vzali tihle mrtví válečníci, kterým teď čelíme."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:842
-#, fuzzy
-#| msgid ""
-#| "My men have been trained to fight the living. I do not know that we can "
-#| "protect the city from foes so dark as these. I shall go meet the elves "
-#| "and see if they can be of any aid!"
 msgid ""
 "My men have been trained to fight the living. I do not know that we can "
 "protect the city from foes as unnatural as these by ourselves. It is "
 "probably best that I meet the elves in hope that their counsel will be of "
 "some aid."
 msgstr ""
-"Mí vojáci byli cvičeni pro boj s živými. Nevím, zda dokážeme město ubránit "
-"před tak temnými nepřáteli jako jsou tito. Půjdu za elfy a zjistím, jestli "
-"nám pomohou!"
+"Moji muži byli cvičeni pro boj s živými. Nevím, jestli my sami dokážeme "
+"ochránit město před nepřáteli tak nepřirozenými, jako jsou tito. Asi bude "
+"nejlepší, když se setkám s elfy v naději, že jejich rada nějak pomůže."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:847
-#, fuzzy
-#| msgid ""
-#| "I will accompany you, my lord. I have studied the arts of holy magic and "
-#| "my skill may be of some use against the dark ones."
 msgid ""
 "I will accompany you, Sir Deoran. I have studied sacred arts and my skills "
 "may be of some use against the dark ones."
 msgstr ""
-"Doprovodím vás, pane. Studoval jsem umění svaté magie a mé znalosti mohou "
-"být k užitku proti temným."
+"Doprovodím vás, sire Deorane. Studoval jsem posvátná umění a mé dovednosti "
+"se mohou proti těm temným hodit."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:852
@@ -1123,6 +1112,10 @@ msgid ""
 "days’ ride of here. I will send a message to them asking for a few riders, "
 "then we should make haste toward the Aethenwood to find the elves."
 msgstr ""
+"Výborně. I když by asi trvalo příliš dlouho vzkázat králi, že potřebujeme "
+"posily, vzpomínám si, že pár dní jízdy odtud je malá základna. Pošlu jim "
+"vzkaz a požádám je o pár jezdců a pak bychom měli pospíchat směrem "
+"k Aethenwoodu, abychom našli elfy."
 
 #. [scenario]: id=03_A_Desperate_Errand
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:5
@@ -1147,41 +1140,31 @@ msgstr "Ethiliel"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:205
-#, fuzzy
-#| msgid "Deoran and his men came to the eastern border of the Aethenwood..."
 msgid ""
 "Deoran and his men came to the eastern border of the Aethenwood, where the "
 "towering trees of the elven forest loomed close overhead."
-msgstr "Deoran a jeho doprovod dorazili k okraji Aethenwoodu..."
+msgstr ""
+"Deoran a jeho muži dorazili k východní hranici Aethenwoodu, kde těsně nad "
+"jejich hlavami čněly do výše stromy elfího lesa."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:211
-#, fuzzy
-#| msgid ""
-#| "Look, men! There is the forest of the Elves to the northwest. Let us "
-#| "hasten across the river and the hills."
 msgid ""
 "Look to the west! There lies the forest of the elves. Let us hasten across "
 "the river and the hills."
-msgstr ""
-"Pohleďte! Tam na severozápadě je les elfů. Pospěšme přes řeku a tamty kopce."
+msgstr "Pohleďte na západ! Tam leží les elfů. Pospěšme přes tu řeku a kopce."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:216
-#, fuzzy
-#| msgid ""
-#| "Be careful, Deoran. No man has set foot in the elvish woods for many a "
-#| "year. We do not know how they will receive us. Sir Loris thought that it "
-#| "was some trick of theirs trying to bring him into the woods..."
 msgid ""
 "I must advise caution, Sir Deoran. No man has set foot in the elvish woods "
 "for many a year. They have never been friendly toward humankind, and we do "
 "not know how they will receive us now, especially after Sir Loris spurned "
 "them."
 msgstr ""
-"Buď opatrný, Deorane. Do elfího lesa nikdo nevkročil po mnoho let. Nevíme "
-"jak nás přijmou. Sir Loris si myslel že je to nějaký jejich trik jak jej "
-"vylákat do lesa..."
+"Musím doporučit opatrnost, sire Deorane. Do elfích lesů po mnoho let "
+"nevkročila noha člověka. K lidem nebyli nikdy přátelští a nevíme, jak nás "
+"přijmou teď, zvlášť poté, co je sir Loris zavrhl."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:221
@@ -1192,6 +1175,11 @@ msgid ""
 "means to discover their source; we can only look to these elves for help, "
 "wary of men though they may be."
 msgstr ""
+"Nemůžeme se bát a vyhýbat všemu, čemu nerozumíme! Sir Loris mohl elfům "
+"nedůvěřovat, ale teď je pryč a já si troufám říct, že je to důsledek jeho "
+"vlastní pošetilosti! Nevládneme silou, abychom přemohli tyto nemrtvé, ani "
+"prostředky, abychom odhalili, odkud pochází; pomoc můžeme očekávat jen od "
+"těchto elfů, třebaže mohou být vůči lidem ostražití."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:226
@@ -1199,13 +1187,13 @@ msgid ""
 "Nevertheless, we musn’t charge in blindly. Even if the elves are unlikely to "
 "attack us, we do not know what else lies in these forests."
 msgstr ""
+"Nicméně tam nemůžeme vpadnout naslepo. I kdyby bylo nepravděpodobné, že nás "
+"elfové napadnou, nevíme, co dalšího mohou tyto lesy skrývat."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:231
-#, fuzzy
-#| msgid "Very well. We will seek the river and probe its secrets."
 msgid "Very well. We will proceed in formation, then."
-msgstr "Dobrá. Najdeme řeku a prozkoumáme její tajemství."
+msgstr "Dobře. Budeme tedy postupovat v šiku."
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:236
@@ -1214,6 +1202,9 @@ msgid ""
 "seems, may be more capable than I had thought. No matter. I will use my new "
 "powers against him and then surely he will fall!"
 msgstr ""
+"Díky tomu škvrněti jsem přišel o dva bratry! Tenhle Deoran, ač se zdá mladý, "
+"může být schopnější, než jsem myslel. Nevadí. Použiju proti němu své nové "
+"schopnosti a pak jistě padne!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:244
@@ -1227,10 +1218,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:256
-#, fuzzy
-#| msgid "Move Deoran to the elvish city in the northern woods"
 msgid "Move Deoran to the Elvish city in the western woods"
-msgstr "Přesuň Deorana do elfího města v severním lese"
+msgstr "Přesuň Deorana do elfího města v západních lesích"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:286
