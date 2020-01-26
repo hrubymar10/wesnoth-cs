@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-24 20:07+0100\n"
+"PO-Revision-Date: 2020-01-26 13:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1219,12 +1219,14 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:256
 msgid "Move Deoran to the Elvish city in the western woods"
-msgstr "Přesuň Deorana do elfího města v západních lesích"
+msgstr "Přesuň Deorana do elfího města v západních lesích"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:286
 msgid "There is so much ground to cover. If only our riders would arrive!"
-msgstr "Tolik země k pokrytí. Kdyby tu tak byli tak naši jezdci!"
+msgstr ""
+"Je tu příliš velké území na to, abychom ho obsáhli. Kéž by dorazili naši "
+"jezdci!"
 
 #. [unit]: id=Jarek
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:296
@@ -1256,21 +1258,17 @@ msgstr "Můžeš verbovat kavalérii!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:335
-#, fuzzy
-#| msgid ""
-#| "What have we done?! Even our undead allies cannot stand against this "
-#| "commander!"
 msgid ""
 "Even our undead allies cannot stand against this commander! The dark one "
 "lied to us!"
 msgstr ""
-"Co jsme zase zkazili? Dokonce ani naši nemrtví spojenci neobstojí proti tomu "
-"veliteli!"
+"Dokonce ani naši nemrtví spojenci neobstojí proti tomu veliteli! Ten temný "
+"nás obelhal!"
 
 #. [message]: role=second
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:351
 msgid "Ha! Take that, you criminal scum!"
-msgstr ""
+msgstr "Ha! Tumáš, ty zlořáde!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:356
@@ -1278,12 +1276,14 @@ msgid ""
 "Their leader is defeated! I hope that’s the last bandit we ever have to "
 "fight."
 msgstr ""
+"Jejich vůdce je poražen! Doufám, že je to poslední bandita, se kterým jsme "
+"kdy museli bojovat."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:361
 msgid ""
 "Even if the bandits are beaten, there is still the matter of the undead."
-msgstr ""
+msgstr "I když jsou bandité pobiti, je tu stále ta věc s nemrtvými."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:366
@@ -1291,6 +1291,8 @@ msgid ""
 "Indeed, we should press on toward the elves and see if they know anything "
 "about these dark foes."
 msgstr ""
+"Samozřejmě, měli bychom pokračovat v cestě k elfům a zjistit, zda o těchto "
+"temných nepřátelích něco neví."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:382
@@ -4976,8 +4978,8 @@ msgid ""
 "Veteran commanders have faced battle many times and led their men with "
 "steady hands and calm determination."
 msgstr ""
-"Velitelé - veteráni již mnohokrát čelili nepřátelům v bojích a vedli své "
-"muže s jistotou a chladným odhodláním."
+"Velitelé – veteráni již mnohokrát čelili nepřátelům v bojích a vedli své "
+"muže s jistotou a chladným odhodláním."
 
 #. [attack]: type=blade
 #: data/campaigns/The_South_Guard/units/Infantry_Commander.cfg:30
@@ -4998,9 +5000,9 @@ msgid ""
 "veteran soldiers, not nobility, and all have shown leadership and courage in "
 "battle."
 msgstr ""
-"Velitelé pěchoty Wesnothu jsou zodpovědní za posádku a obranu hraničních "
-"měst a vesnic. Jsou vybírání z řad zkušených vojáků, ne šlechty, a všichni "
-"již dokázali své vůdcovství a odvahu v boji."
+"Velitelé pěchoty Wesnothu jsou zodpovědní za posádku a obranu hraničních "
+"měst a vesnic. Jsou vybíráni z řad zkušených vojáků, ne šlechty, a všichni "
+"již dokázali své vůdcovství a odvahu v boji."
 
 #. [unit_type]: id=Junior Commander, race=human
 #: data/campaigns/The_South_Guard/units/Junior_Commander.cfg:4
