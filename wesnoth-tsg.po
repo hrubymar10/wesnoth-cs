@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-26 13:32+0100\n"
+"PO-Revision-Date: 2020-01-27 23:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1334,10 +1334,8 @@ msgstr "Talchar"
 
 #. [message]: speaker=Linderion
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:406
-#, fuzzy
-#| msgid "Halt! Who has entered our citadel without leave?"
 msgid "Halt! Who enters our sacred grove without leave?"
-msgstr "Stát! Kdo vstoupil do naší pevnosti bez povolení?"
+msgstr "Stát! Kdo bez dovolení vchází do našeho posvátného háje?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:411
@@ -1346,46 +1344,29 @@ msgstr "De—"
 
 #. [message]: speaker=Linderion
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:416
-#, fuzzy
-#| msgid ""
-#| "Speak carefully, for the penalty for trespass on our lands is death, and "
-#| "your life is thus forfeit."
 msgid ""
 "Choose your words wisely, human. Know that the penalty for trespassing on "
 "our lands is death. What is your name?"
 msgstr ""
-"Mluv obezřetně, protože cenou za vstup do našich zemí je smrt a tvůj život "
-"tak právě propadl."
+"Vol svá slova moudře, člověče. Věz, že trestem za nedovolený vstup do našich "
+"zemí je smrt. Jaké je tvé jméno?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:421
-#, fuzzy
-#| msgid "Deoran"
 msgid "Deora—"
-msgstr "Deoran"
+msgstr "Deora—"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:427
-#, fuzzy
-#| msgid ""
-#| "Stay a moment. This man wears the colors of Wesnoth, and Kalenz told us "
-#| "not all the folk of Wesnoth are foes of the elves. Tell us, then, what "
-#| "brings you to the hallowed citadel of Elrath?"
 msgid ""
 "Stay your hand, Linderion. This man bears the banner of Wesnoth and appears "
 "to come to us in peace. What brings you to the hallowed grove of Elrath?"
 msgstr ""
-"Počkej chvílí. Tento muž nosí barvy Wesnothu a Kalenz nám říkal, že ne "
-"všichni lidé z Wesnothu jsou nepřátelé elfů. Mluv, co tě přivádí do Elrathu?"
+"Zadrž svou ruku, Linderione. Tento muž nese korouhev Wesnothu a zdá se, že "
+"k nám přichází v míru. Co tě přivádí do posvátného háje Elrathu?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:432
-#, fuzzy
-#| msgid ""
-#| "My lady, we have come to the elves to seek guidance. Bandits and "
-#| "criminals in our land have summoned the dead to help them plunder our "
-#| "farms and villages. They are coming across the river from the great "
-#| "forest to the south of our lands, where no man has yet traveled."
 msgid ""
 "My lady, we have come to the elves to seek guidance. Bandits and criminals "
 "have summoned the dead to help them plunder our farms and villages. They "
@@ -1394,10 +1375,11 @@ msgid ""
 "cannot continue to battle them for much longer with the undead under their "
 "control."
 msgstr ""
-"Má paní, přicházíme k elfům hledat radu. Bandité a zločinci v naší zemi "
-"přivolali mrtvé, aby jim pomohli plenit naše usedlosti a vesnice. Přicházejí "
-"přes řeku z velkého lesa na jih od našich zemí, který ještě žádný člověk "
-"neprozkoumal."
+"Má paní, přicházíme k elfům hledat radu. Bandité a zločinci povolali mrtvé, "
+"aby jim pomohli drancovat naše farmy a vesnice. Přišli z velkého lesa za "
+"řekou jižně od nás, který dosud žádný člověk neprošel. Už jsme přemohli "
+"hodně banditů, ale bojím se, že už nad nimi o moc déle vítězit nedokážeme, "
+"když ovládají nemrtvé."
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:437
@@ -1406,6 +1388,9 @@ msgid ""
 "forewarned of the blight marching upon your land, and yet you did not "
 "prepare adequately."
 msgstr ""
+"Ohledně nemrtvých jsme k vám vyslali kurýre nebo ne? Byli jste varováni před "
+"pohromou, která je na pochodu do vaší země, a přesto jste se dostatečně "
+"nepřipravili."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:442
@@ -1414,25 +1399,25 @@ msgid ""
 "not know why the previous commander did not act on your advice, but I assure "
 "you that I will not make the same mistakes he did!"
 msgstr ""
+"Nehodlám se vymlouvat, ale jsem tu sotva týden! Nevím, proč předchozí "
+"velitel nejednal podle vašeho doporučení, ale ujišťuji vás, že nebudu "
+"opakovat jeho chyby!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:447
-#, fuzzy
-#| msgid ""
-#| "The elves know of the great southern forest, and have walked its paths "
-#| "many times. What would you do, Deoran?"
 msgid ""
 "For your own sake, I hope that you do not. As for the matter at hand, the "
 "elves know of the great southern forest, and have walked its paths many "
 "times."
 msgstr ""
-"Elfové znají velký les na jihu a mnohokrát jej navštívili. Co bys udělal, "
-"Deorane?"
+"V tvém vlastním zájmu doufám, že nebudeš. Pokud jde o právě projednávanou "
+"záležitost, elfové znají veliký jižní les a mnohokrát kráčeli po jeho "
+"stezkách."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:452
 msgid "And what do you know of the undead?"
-msgstr ""
+msgstr "A co víte o těch nemrtvých?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:457
@@ -1440,21 +1425,17 @@ msgid ""
 "My answer will depend on your motives, human. What would you do, knowing the "
 "secrets of the unholy ones?"
 msgstr ""
+"Má odpověď bude záviset na tvých pohnutkách, člověče. Co bys dělal, kdybys "
+"znal tajemství těch zvrácených?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:462
-#, fuzzy
-#| msgid ""
-#| "I would lead my men south of the river to find the source of these beings "
-#| "of darkness that we might destroy it. For surely, ere that be done, we "
-#| "cannot stand against them for long."
 msgid ""
 "I would lead my men south of the river to find and destroy the source of "
 "these beings of darkness."
 msgstr ""
-"Vedl bych své vojsko na jih od řeky najít zdroj těch tvorů temna, abychom "
-"jej mohli zničit. Dozajista se proti nim dlouho neudržíme, pokud se tak "
-"nestane."
+"Vedl bych své muže na jih od řeky, abych našel a zničil původ těchto bytostí "
+"tmy."
 
 #. [message]: speaker=Vardanos
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:467
@@ -5044,7 +5025,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:21
 msgid "I have failed my kingdom and duty..."
-msgstr "Selhal jsem. Má čest i mé království..."
+msgstr "Nesplnil jsem úkol a zklamal své království..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:44
