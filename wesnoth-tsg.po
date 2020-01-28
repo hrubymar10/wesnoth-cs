@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-27 23:48+0100\n"
+"PO-Revision-Date: 2020-01-28 22:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1388,7 +1388,7 @@ msgid ""
 "forewarned of the blight marching upon your land, and yet you did not "
 "prepare adequately."
 msgstr ""
-"Ohledně nemrtvých jsme k vám vyslali kurýre nebo ne? Byli jste varováni před "
+"Ohledně nemrtvých jsme k vám vyslali kurýra nebo ne? Byli jste varováni před "
 "pohromou, která je na pochodu do vaší země, a přesto jste se dostatečně "
 "nepřipravili."
 
@@ -1411,7 +1411,7 @@ msgid ""
 "times."
 msgstr ""
 "V tvém vlastním zájmu doufám, že nebudeš. Pokud jde o právě projednávanou "
-"záležitost, elfové znají veliký jižní les a mnohokrát kráčeli po jeho "
+"záležitost, elfové znají velký jižní les a mnohokrát kráčeli po jeho "
 "stezkách."
 
 #. [message]: speaker=Deoran
@@ -1443,13 +1443,15 @@ msgid ""
 "A fanciful delusion! A human untrained in the mystic arts stands no chance "
 "against the undead!"
 msgstr ""
+"Neskutečný výmysl! Člověk necvičený v tajemných uměních nemá proti nemrtvým "
+"žádnou šanci!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:472
 msgid ""
 "I have proven myself capable of defending my land and leading my men to "
 "victory—"
-msgstr ""
+msgstr "Ukázal jsem se schopným bránit svou zemi a vést své muže k vítězství–"
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:477
@@ -1457,16 +1459,20 @@ msgid ""
 "Only in battles against <i>other humans!</i> To fight such a fell evil is "
 "another matter altogether."
 msgstr ""
+"Jen v bitvách proti <i>jiným lidem!</i> Bojovat s takovým strašlivým zlem je "
+"úplně jiná záležitost."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:482
 msgid "But surely I cannot do nothing either!"
-msgstr ""
+msgstr "Ale určitě také nemůžu nedělat nic!"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:487
 msgid "<i>I warned him that the elves would not easily agree to help us.</i>"
 msgstr ""
+"<i>Varoval jsem ho, že elfové nebudou tak snadno souhlasit s tím, aby nám "
+"pomohli.</i>"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:492
@@ -1474,6 +1480,8 @@ msgid ""
 "<i>Indeed, but he is right as well. We must do something, or our people will "
 "surely be slaughtered.</i>"
 msgstr ""
+"<i>Jistě, ale on má rovněž pravdu. Musíme něco udělat, nebo budou naši lidé "
+"povražděni.</i>"
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:497
@@ -1482,26 +1490,23 @@ msgid ""
 "undead — she will be the best judge of what aid we would grant the humans "
 "against these abominations."
 msgstr ""
+"To stačí, vy všichni. Ethiliel je z nás jediná, která se střetla "
+"s nemrtvými – ona nejlépe posoudí, jakou pomoc bychom lidem poskytli proti "
+"těmto ohavnostem."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:502
-#, fuzzy
-#| msgid ""
-#| "Indeed you are brave to face such foes. But I fear that alone you will "
-#| "fail and fall. One elf now lives who remembers the secrets of the undead "
-#| "that we learned when Haldric I came to our land. His name is Mebrin, and "
-#| "he lives, secluded in the hills, near here. I will take you to him."
 msgid ""
 "These men are indeed brave to face such foes, but I fear that they will fall "
 "to the darkness if they fight it alone. There is one elf who still remembers "
 "the secrets of the undead that we learned when Haldric I came to our land. "
 "His name is Mebrin, and he lives secluded in the hills south of here."
 msgstr ""
-"Jste opravdu odvážní, když si troufáte čelit takovým nepřátelům. Ale obávám "
-"se že samotní selžete a padnete. Žije ještě jeden elf, který si pamatuje "
-"tajemství nemrtvých, která jsme odhalili, když Haldrik I. přišel do našich "
-"zemí. Jeho jméno je Mebrin a žije poblíž na samotě v horách. Vezmu vás za "
-"ním."
+"Tito muži jsou bezpochyby dost stateční na to, aby čelili takovým "
+"nepřátelům, ale obávám se, že padnou do temnoty, když budou bojovat sami. Je "
+"jeden elf, který si dosud pamatuje tajemstvý nemrtvých, jež jsme odhalili, "
+"když do naší země přišel Haldrik I. Jmenuje se Mebrin a žije osaměle "
+"v kopcích jižně odtud."
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:507
@@ -1510,6 +1515,9 @@ msgid ""
 "and Mebrin is not as powerful as he once was. You would not presume to put "
 "one of our great sages in danger, Ethiliel."
 msgstr ""
+"Jsi si tím jistá? Silnice na jih už není tak bezpečná, jak bývala kdysi "
+"a Mebrin už také není tak mocný. Neměla by sis dovolit vystavovat jednoho "
+"z našich velkých mudrců nebezpečí, Ethiliel."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:512
@@ -1519,16 +1527,20 @@ msgid ""
 "in danger for these humans, but you will not presume to tell me — nor Mebrin "
 "— what to do. Is that fair?"
 msgstr ""
+"<i>Já</i> doprovodím toho člověka a jeho muže k Mebrinovi a on se může "
+"rozhodnout, zda nám chce pomoct nebo ne. Nebudu vás žádat, abyste se pro "
+"tyto lidi vydávali do nebezpečí, ale nebudete si dovolovat mně – ani "
+"Mebrinovi – říkat, co máme dělat. Je to spravedlivé?"
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:517
 msgid "Yes, very well."
-msgstr "Dobře tedy."
+msgstr "Ano, výborně."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:523
 msgid "I welcome your aid, my lady."
-msgstr ""
+msgstr "Vítám tvou pomoc, má paní."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:584
