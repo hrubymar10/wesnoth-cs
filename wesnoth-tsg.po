@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-28 22:23+0100\n"
+"PO-Revision-Date: 2020-01-29 22:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1549,6 +1549,8 @@ msgid ""
 "attack Kerlath. We will have to return and fight them without the aid of the "
 "elves..."
 msgstr ""
+"Z východu přicházejí kostlivci! To může znamenat jediné, totiž že začali "
+"útočit na Kerlath. Musíme se vrátit a bojovat s nimi bez pomoci elfů..."
 
 #. [scenario]: id=04_Vale_of_Tears
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:5
@@ -1588,83 +1590,55 @@ msgstr "Jera Ilras"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:219
-#, fuzzy
-#| msgid ""
-#| "This is the Vale of Blossoming Trees. Our great sages come here to live "
-#| "when they feel that it is time for them to allow others to lead our "
-#| "people. The sage you speak of lives in a secluded village between the two "
-#| "lakes."
 msgid ""
 "This is the Vale of Blossoming Trees. Our great sages come here to find "
 "peace and enlightenment. Some other elves also live nearby — mostly artisans "
 "inspired by the tranquility of this valley."
 msgstr ""
-"Toto je údolí Kvetoucích stromů. Naši velcí myslitelé sem odcházejí žít, "
-"když cítí, že nadešel čas nechat jiné vést náš lid. Mudrc, o kterém jsem "
-"mluvila, bydlí v odloučené vesnici mezi dvěma jezery."
+"Toto je Údolí kvetoucích stromů. Naši velcí mudrci sem přicházejí najít "
+"pokoj a osvícení. Nedaleko žijí nějací další elfové – převážně řemeslníci "
+"naplnění klidem tohoto údolí."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:226
-#, fuzzy
-#| msgid ""
-#| "Why, my lady, are there humans camped to the south of us? Are they "
-#| "friends of the elves? I had thought that no humans had set foot in this "
-#| "valley."
 msgid ""
 "It does seem peaceful, but why are there humans camped to the south of us? "
 "Are they friends of the elves?"
 msgstr ""
-"Proč, má paní, jsou jižně od nás utáboření nějací lidé? Jsou to přátelé "
-"elfů? Myslel jsem že do tohoto údolí nevkročila lidská noha."
+"Vypadá poklidně, ale proč jižně od nás táboří lidé? Jsou to přátelé elfů?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:232
-#, fuzzy
-#| msgid ""
-#| "What?! Those are no friends of the elves! They are brigands, and they "
-#| "must be destroyed!"
 msgid ""
 "What?! Those marauders are no friends of ours! We must destroy them at once!"
-msgstr ""
-"Cože!? To nejsou žádní přátelé elfů! Jsou to lupiči a musí být zničeni!"
+msgstr "Cože?! Tihle drancíři nejsou našimi přáteli! Musíme je ihned zničit!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:237
-#, fuzzy
-#| msgid ""
-#| "Perhaps they are allied with the bandits who have been sacking our towns! "
-#| "They have grown bold to attack the elves!"
 msgid ""
 "Perhaps they are allied with the bandits who have been sacking Westin. They "
 "have grown quite bold if they are attacking the elves!"
 msgstr ""
-"Třeba jsou to spojenci těch banditů, kteří přepadávali naše města! Odvážili "
-"se zaútočit na elfy!"
+"Možná to jsou spojenci banditů, kteří plenili Westin. To si docela dost "
+"dovolují, když útočí na elfy!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:242
-#, fuzzy
-#| msgid ""
-#| "Destroy these intruders, and I will ask him to help you. He is ancient, "
-#| "and he remembers well Haldric’s betrayal of the elves, so if a human sets "
-#| "foot in his village first, he almost certainly will have nothing to do "
-#| "with us!"
 msgid ""
 "They would not dare without the aid of the dark ones, but we will vanquish "
 "them all nonetheless. Now, listen well to me, humans. The Great Sage Mebrin "
 "is ancient and remembers well Haldric’s betrayal of the elves. Should one of "
 "you set foot in his village first, he will certainly drive us away!"
 msgstr ""
-"Zničte ty narušitele a požádám Mebrina, aby vám pomohl. Je starobylý a dobře "
-"si pamatuje Haldrikovu zradu, takže pokud do vesnice vkročí první člověk, "
-"nebude s námi chtít nic mít!"
+"Neodvážili by se, kdyby jim nepomáhali ti temní, nicméně my je všechny "
+"přemůžeme. Nyní mne dobře poslouchejte, lidé. Velký mudrc Mebrin je prastarý "
+"a dobře si pamatuje Hadrikovu zradu na elfech. Kdyby do jeho vesnice nejprve "
+"vkročil jeden z vás, určitě by nás vyhnal!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:247
-#, fuzzy
-#| msgid "Sounds like a charming fellow..."
 msgid "Sounds like a charming fellow."
-msgstr "To je tedy báječný chlapík..."
+msgstr "To bude báječný chlapík."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:252
@@ -1673,6 +1647,9 @@ msgid ""
 "restore peace to his home, I am sure he will accept your request for his "
 "aid. That is, so long as I am the one who makes the request to him."
 msgstr ""
+"Ano, s Mebrinem... může být těžké pořízení. Avšak kdybychom vyčistili údolí "
+"a vrátili jeho domovu mír, jsem si jistá, že přijme vaši žádost o pomoc. "
+"Tedy pokud to budu já, kdo ho požádá."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:257
@@ -1680,16 +1657,16 @@ msgid ""
 "Very well, we will put our trust in you, Ethiliel. But first, we have a "
 "battle to attend to."
 msgstr ""
+"Výborně, máš naši důvěru, Ethiliel. Ale nejprve se musíme věnovat bitvě."
 
 #. [message]: speaker=Jera Ilras
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:262
-#, fuzzy
-#| msgid "Ha! You’re too late. We’ve taken what we want from this valley."
 msgid ""
 "Ha, you blabbering buffoons! Even should you defeat us here, it does not "
 "matter! We’ve already taken what we wanted from this valley."
 msgstr ""
-"Ha! Přicházíte pozdě. Už jsme si z tohoto údolí vzali to co jsme chtěli."
+"Ha, vy užvanění šašci! I kdybyste nás tu porazili, tak je to jedno! Už jsme "
+"si z toho údolí vzali to, co jsme chtěli."
 
 #. [message]: speaker=Mal A'kai
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:267
@@ -1697,11 +1674,13 @@ msgid ""
 "Weep, filthy flesh bags, weep and know that your tears will become the blood "
 "that stains the trees and feeds our powers!"
 msgstr ""
+"Plačte, vy špinavé pytle masa, plačte a vězte, že se vaše slzy změní v krev, "
+"která poskvrní stromy a nám dodá sil!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:285
 msgid "Cleanse the Vale of Tears"
-msgstr "Vyčisti údolí Slz"
+msgstr "Vyčisti Údolí slz"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:295
