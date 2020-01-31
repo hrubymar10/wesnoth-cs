@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-29 22:56+0100\n"
+"PO-Revision-Date: 2020-01-31 22:06+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1707,74 +1707,57 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:373
-#, fuzzy
-#| msgid ""
-#| "We must clear out these undead if you are to reach Mebrin’s village! What "
-#| "should we do?"
 msgid ""
 "We must clear out these undead if you are to reach Mebrin’s village, but our "
 "weapons are ineffective against them! What should we do?"
 msgstr ""
-"Musíme se zbavit těch nemrtvých, abychom se dostali k Mebrinově vesnici! Co "
-"teď?"
+"Pokud se máš dostat do Mebrinovy vesnice, tak se musíme zbavit těch "
+"nemrtvých, ale naše zbraně jsou proti nim neúčinné! Co máme dělat?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:378
-#, fuzzy
-#| msgid ""
-#| "For now, I can slow them down. Where are the elves who used to live in "
-#| "this valley? They should come to our aid!"
 msgid ""
 "For now, I can slow them down. But where are the elves who used to live in "
 "this valley? They should have come to our aid by now."
 msgstr ""
-"Prozatím je mohu zpomalit. Kde jsou elfové, kteří žijí v tomto údolí? Měli "
-"nám přijít na pomoc!"
+"Prozatím je mohu zpomalit. Ale kde jsou elfové, kteří žili v tomto údolí? "
+"Teď by nám měli přijít na pomoc."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:383
 msgid "I do hope that nothing terrible has happened to them..."
-msgstr ""
+msgstr "Doufám, že se jim nepřihodilo nic hrozného..."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:399
-#, fuzzy
-#| msgid ""
-#| "I shall not join these accursed undead! Bury me deeply, my friends..."
 msgid ""
 "My friends, do not let me join these accursed undead! Please, bury me "
 "deeply..."
 msgstr ""
-"Nehodlám se přidat k těm zatraceným nemrtvým! Přátelé, pohřběte mne "
-"hluboko..."
+"Mí přátelé, nenechte mě přidat se k těmto proklatým nemrtvým! Prosím, "
+"pohřběte mne hluboko..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:409
-#, fuzzy
-#| msgid "You shall not die in vain! My bodyguard will avenge you!"
 msgid "You shall not die in vain! My bodyguards will avenge you!"
-msgstr "Nezemřeš zbytečně! Má tělesná stráž tě pomstí!"
+msgstr "Nezemřeš zbytečně! Moji osobní strážci tě pomstí!"
 
 #. [message]: speaker=Sir Gerrick
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:431
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:436
-#, fuzzy
-#| msgid "You have a bodyguard?!"
 msgid "You have bodyguards?!"
-msgstr "Tělesná stráž?!"
+msgstr "Ty máš osobní strážce?!"
 
 #. [unit]: role=Elvish Bodyguard, type=Elvish Ranger
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:489
 msgid "Elvish Bodyguard"
-msgstr "Elfí tělesná stráž"
+msgstr "Elfí osobní strážce"
 
 #. [then]
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:507
-#, fuzzy
-#| msgid "Elvish Bodyguard"
 msgid "female^Elvish Bodyguard"
-msgstr "Elfí tělesná stráž"
+msgstr "Elfí osobní strážkyně"
 
 #. [message]: role=Elvish Bodyguard
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:520
