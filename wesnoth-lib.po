@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-01-31 22:31+0100\n"
+"PO-Revision-Date: 2020-02-01 21:56+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2436,7 +2436,7 @@ msgstr "Řadit podle:"
 #. [toggle_button]: id=sort_name
 #: data/gui/window/campaign_dialog.cfg:244
 msgid "Sort by full campaign name in alphabetical order"
-msgstr ""
+msgstr "Řadit dle jména tažení v abecedním pořadí"
 
 #. [toggle_button]: id=sort_time
 #: data/gui/window/campaign_dialog.cfg:256
@@ -2446,7 +2446,7 @@ msgstr "Data"
 #. [toggle_button]: id=sort_time
 #: data/gui/window/campaign_dialog.cfg:257
 msgid "Sort in approximate chronological order of story events"
-msgstr ""
+msgstr "Řadit dle přibližného chronologického rozložení událostí v příběhu"
 
 #. [label]
 #: data/gui/window/campaign_dialog.cfg:293
@@ -6594,7 +6594,7 @@ msgstr[2] ""
 #: src/gui/widgets/multimenu_button.cpp:174
 #: src/gui/widgets/multimenu_button.cpp:231
 msgid "multimenu^None Selected"
-msgstr "Žádný nevybrán"
+msgstr "Žádné nevybráno"
 
 #: src/gui/widgets/pane.cpp:429
 msgid "Need at least 1 parallel item."
