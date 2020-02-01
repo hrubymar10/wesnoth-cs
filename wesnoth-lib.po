@@ -4221,7 +4221,7 @@ msgstr "Čekárna"
 #: data/gui/window/mp_staging.cfg:806
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:483
 msgid "Waiting for players to join..."
-msgstr "Čeká se, než se hráči připojí…"
+msgstr "Čeká se, než se hráči připojí..."
 
 #. [label]: id=title
 #: data/gui/window/mp_join_game_password_prompt.cfg:42
@@ -6340,7 +6340,7 @@ msgstr "Tým:"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:484
 msgid "Waiting for players to choose factions..."
-msgstr "Čekání na hráče, kteří si vybírají frakci…"
+msgstr "Čekání na hráče, kteří si vybírají frakci..."
 
 #: src/gui/dialogs/outro.cpp:42
 msgid "The End"
