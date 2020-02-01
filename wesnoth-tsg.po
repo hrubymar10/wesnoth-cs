@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-31 22:06+0100\n"
+"PO-Revision-Date: 2020-02-01 11:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1761,15 +1761,11 @@ msgstr "Elfí osobní strážkyně"
 
 #. [message]: role=Elvish Bodyguard
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:520
-#, fuzzy
-#| msgid ""
-#| "We stand ready, my lady, to protect you! We shall lead these men of "
-#| "Wesnoth into the fray!"
 msgid ""
 "We stand ready to protect you, my lady! We shall lead these men of Wesnoth "
 "into the fray!"
 msgstr ""
-"Naše paní, jsme zde, připraveni tě chránit! Povedeme ty muže z Wesnothu do "
+"Má paní, stojíme zde, připraveni tě chránit! Povedeme ty muže z Wesnothu do "
 "boje!"
 
 #. [message]: speaker=unit
@@ -1780,7 +1776,7 @@ msgstr "Umírám pro svou paní..."
 #. [message]: speaker=Mal A'kai
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:544
 msgid "The darkness beckons..."
-msgstr ""
+msgstr "Temnota zve..."
 
 #. [message]: speaker=Jera Ilras
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:585
@@ -1788,13 +1784,13 @@ msgid ""
 "Fools, my death here means nothing! Even if you could find our stronghold, "
 "you will never defeat our master!"
 msgstr ""
+"Hlupáci, má smrt zde nic neznamená! I kdybyste dokázali najít naši pevnost, "
+"nikdy neporazíte našeho mistra!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:590
-#, fuzzy
-#| msgid "You, at least, will trouble us no more!"
 msgid "Perhaps, but you, at least, will trouble us no more!"
-msgstr "Aspoň ty už nás ale nebudeš obtěžovat!"
+msgstr "Možná, ale ty už nás alespoň nebudeš obtěžovat!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:638
