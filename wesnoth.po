@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-02-01 01:02+0100\n"
+"PO-Revision-Date: 2020-02-01 02:43+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4345,7 +4345,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:17 data/tips.cfg:149
 msgid "<i>― Great Mage Delfador, 516YW</i>"
-msgstr "<i>― Velký Mág Delfador, 516 YW</i>"
+msgstr "<i>― Velký Mág Delfador, 516 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:20
@@ -4387,7 +4387,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:25
 msgid "<i>― King Konrad, 536YW</i>"
-msgstr "<i>― Král Konrád, 536 YW</i>"
+msgstr "<i>― Král Konrád, 536 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:28
@@ -4406,7 +4406,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:29 data/tips.cfg:141
 msgid "<i>― Memoirs of Gweddry, 627YW</i>"
-msgstr "<i>― Gweddryho záznamy, 627 YW</i>"
+msgstr "<i>― Gweddryho záznamy, 627 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:32
@@ -4446,7 +4446,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:41 data/tips.cfg:117 data/tips.cfg:226 data/tips.cfg:238
 msgid "<i>― High Lord Kalenz, 470YW</i>"
-msgstr "<i>― Vysoký lord Kalenz, 470 YW</i>"
+msgstr "<i>― Vysoký lord Kalenz, 470 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:44
@@ -4500,7 +4500,7 @@ msgid ""
 "<i>― Royal Compendium of Battle Terminology: Volume II (reprinted 221YW)</i>"
 msgstr ""
 "<i>― Královské kompendium válečné terminologie, svazek II (přetisk z r. 221 "
-"YW)</i>"
+"R. W.)</i>"
 
 #. [tip]
 #: data/tips.cfg:60
@@ -4512,7 +4512,7 @@ msgstr "I jinak skvělý plán selže, pokud zaútočíš v nevhodnou denní dob
 #: data/tips.cfg:61 data/tips.cfg:85 data/tips.cfg:137 data/tips.cfg:145
 #: data/tips.cfg:230
 msgid "<i>― Haldric II, 42YW, Handbook of Tactical Analysis: Volume I</i>"
-msgstr "<i>― Příručka taktické analýzy, kniha I - Haldrik II., 42 YW</i>"
+msgstr "<i>― Příručka taktické analýzy, kniha I - Haldrik II., 42 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:64
@@ -4613,7 +4613,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:89
 msgid "<i>― Haldric II, 43YW, Handbook of Tactical Analysis: Volume II</i>"
-msgstr "<i>― Příručka taktické analýzy, kniha I - Haldrik II., 42 YW</i>"
+msgstr "<i>― Příručka taktické analýzy, kniha I - Haldrik II., 42 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:92
@@ -4662,7 +4662,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:105 data/tips.cfg:189
 msgid "<i>― Sir Kaylan, 498YW</i>"
-msgstr "<i>― Sir Kaylan, 498 YW</i>"
+msgstr "<i>― Sir Kaylan, 498 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:108
@@ -4677,7 +4677,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:109
 msgid "<i>― Sir Kaylan, 502YW</i>"
-msgstr "<i>― Sir Kaylan, 502 YW</i>"
+msgstr "<i>― Sir Kaylan, 502 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:112
@@ -4728,7 +4728,7 @@ msgstr "Neboj se ustoupit a přeskupit; je to často klíčem k vítězství."
 #. [tip]
 #: data/tips.cfg:129
 msgid "<i>― Meneldur, 123YW</i>"
-msgstr "<i>― Meneldur, 123 YW</i>"
+msgstr "<i>― Meneldur, 123 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:132
@@ -4804,7 +4804,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:153
 msgid "<i>― Kai Laudiss, 623YW</i>"
-msgstr "<i>― Kai Laudiss, 623 YW</i>"
+msgstr "<i>― Kai Laudiss, 623 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:156
@@ -4814,7 +4814,7 @@ msgstr "Chraň zraněné jednotky řadou jednotek, abys jim umožnil zotavit se.
 #. [tip]
 #: data/tips.cfg:157
 msgid "<i>― Princess Li’sar, 515YW</i>"
-msgstr "<i>― princezna Lisar, 515 YW</i>"
+msgstr "<i>― princezna Lisar, 515 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:160
@@ -4852,7 +4852,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:173 data/tips.cfg:218
 msgid "<i>― The Scroll of Chantal, 516YW</i>"
-msgstr "<i>― Svitky Chantal, 516 YW</i>"
+msgstr "<i>― Svitky Chantal, 516 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:176
@@ -4872,7 +4872,7 @@ msgstr "<i>Nezemské</i> útoky jsou velmi účinné proti nemrtvým."
 #. [tip]
 #: data/tips.cfg:181
 msgid "<i>― Great Sage Dacyn, 626YW</i>"
-msgstr "<i>― Velký mudřec Dacyn, 626 YW</i>"
+msgstr "<i>― Velký mudřec Dacyn, 626 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:184
@@ -4932,7 +4932,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:201
 msgid "<i>― Queen Li’sar, 528YW</i>"
-msgstr "<i>― královna Lisar, 528 YW</i>"
+msgstr "<i>― královna Lisar, 528 R. W.</i>"
 
 #. [tip]
 #. Whiteboard is another name for the Planning Mode
@@ -5100,7 +5100,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:254
 msgid "<i>― Queen Asheviere, 503YW</i>"
-msgstr "<i>― královna Ašvíra, 503 YW</i>"
+msgstr "<i>― královna Ašvíra, 503 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:257
@@ -5121,7 +5121,7 @@ msgstr ""
 #. [tip]
 #: data/tips.cfg:262
 msgid "<i>― Sir Gerrick of Westin, 607YW</i>"
-msgstr "<i>― Sir Gerrick z Westinu, 607 YW</i>"
+msgstr "<i>― Sir Gerrick z Westinu, 607 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:265
@@ -5138,7 +5138,7 @@ msgstr ""
 #. Translate the word "Flight" as in Wings of Victory
 #: data/tips.cfg:267
 msgid "<i>― Vank of Galun’s Flight, 6YW</i>"
-msgstr "<i>― Vank z Galunovy letky, 6 YW</i>"
+msgstr "<i>― Vank z Galunovy letky, 6 R. W.</i>"
 
 #. [tip]
 #: data/tips.cfg:271
@@ -8450,22 +8450,22 @@ msgstr "$effect_description na úroveň"
 #. TRANSLATORS: "Before Wesnoth"   - format for years prior to the founding of Wesnoth
 #: src/utils/irdya_datetime.cpp:59
 msgid "$year BW"
-msgstr "$year PW"
+msgstr "$year P. W."
 
 #. TRANSLATORS: "Year of Wesnoth"  - format for years after the founding of Wesnoth
 #: src/utils/irdya_datetime.cpp:62
 msgid "$year YW"
-msgstr "$year RW"
+msgstr "$year R. W."
 
 #. TRANSLATORS: "Before the Fall" -  format for years prior to the fall of Wesnoth
 #: src/utils/irdya_datetime.cpp:65
 msgid "$year BF"
-msgstr "$year PřP"
+msgstr "$year Př. P."
 
 #. TRANSLATORS: "After the Fall"   - format for years after the fall of Wesnoth
 #: src/utils/irdya_datetime.cpp:68
 msgid "$year AF"
-msgstr "$year PoP"
+msgstr "$year Po. P."
 
 #: src/wesnothd_connection.cpp:402
 msgid "Disconnected from server."
