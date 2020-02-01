@@ -8,7 +8,7 @@ Czech translations of The Battle for Wesnoth
 ## Translations Stats
 | Text Domain            | %        |
 | ---------------------- |:--------:|
-| `wesnoth`              | **95%**  |
+| `wesnoth`              | **97%**  |
 | `wesnoth-ai`           | **75%**  |
 | `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
@@ -21,7 +21,7 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-help`         | **96%**  |
 | `wesnoth-httt`         | **100%** |
 | `wesnoth-l`            | **100%** |
-| `wesnoth-lib`          | **95%**  |
+| `wesnoth-lib`          | **96%**  |
 | `wesnoth-low`          | **100%** |
 | `wesnoth-manpages`     | **61%**  |
 | `wesnoth-manual`       | **96%**  |
@@ -35,9 +35,9 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-test`         | **100%** |
 | `wesnoth-thot`         | **100%** |
 | `wesnoth-trow`         | **99%**  |
-| `wesnoth-tsg`          | **43%**  |
+| `wesnoth-tsg`          | **49%**  |
 | `wesnoth-tutorial`     | **100%** |
-| `wesnoth-units`        | **84%**  |
+| `wesnoth-units`        | **85%**  |
 | `wesnoth-utbs`         | **96%**  |
 | `wesnoth-wov`          | **29%**  |
 
