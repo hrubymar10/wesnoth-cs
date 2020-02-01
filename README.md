@@ -35,7 +35,7 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-test`         | **100%** |
 | `wesnoth-thot`         | **100%** |
 | `wesnoth-trow`         | **99%**  |
-| `wesnoth-tsg`          | **49%**  |
+| `wesnoth-tsg`          | **50%**  |
 | `wesnoth-tutorial`     | **100%** |
 | `wesnoth-units`        | **85%**  |
 | `wesnoth-utbs`         | **96%**  |
@@ -63,3 +63,6 @@ Czech translations of The Battle for Wesnoth
 * "Konvence českého překladu" on wesnoth wiki: https://wiki.wesnoth.org/CS:Konvence
 * Translation stats of stable branch: https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs
 * Translation stats of master branch: https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs
+
+---
+Synced with commit: [42f774e](https://github.com/wesnoth/wesnoth/tree/42f774e8594dfa74adca2f954dd82ed04f6cb035)
