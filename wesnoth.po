@@ -19,8 +19,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-01-22 21:33+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-02-01 01:02+0100\n"
+"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -7150,7 +7150,7 @@ msgstr "Ladí terénní vrstvy pod myší."
 
 #: src/menu_events.cpp:1236
 msgid "Show fps (Frames Per Second)."
-msgstr ""
+msgstr "Zobrazit FPS (snímky za sekundu)."
 
 #: src/menu_events.cpp:1238
 msgid "Save game."
@@ -8450,22 +8450,22 @@ msgstr "$effect_description na úroveň"
 #. TRANSLATORS: "Before Wesnoth"   - format for years prior to the founding of Wesnoth
 #: src/utils/irdya_datetime.cpp:59
 msgid "$year BW"
-msgstr ""
+msgstr "$year PW"
 
 #. TRANSLATORS: "Year of Wesnoth"  - format for years after the founding of Wesnoth
 #: src/utils/irdya_datetime.cpp:62
 msgid "$year YW"
-msgstr ""
+msgstr "$year RW"
 
 #. TRANSLATORS: "Before the Fall" -  format for years prior to the fall of Wesnoth
 #: src/utils/irdya_datetime.cpp:65
 msgid "$year BF"
-msgstr ""
+msgstr "$year PřP"
 
 #. TRANSLATORS: "After the Fall"   - format for years after the fall of Wesnoth
 #: src/utils/irdya_datetime.cpp:68
 msgid "$year AF"
-msgstr ""
+msgstr "$year PoP"
 
 #: src/wesnothd_connection.cpp:402
 msgid "Disconnected from server."
