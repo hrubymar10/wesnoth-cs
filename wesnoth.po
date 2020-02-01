@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 13:29-0300\n"
-"PO-Revision-Date: 2020-02-01 02:43+0100\n"
+"PO-Revision-Date: 2020-02-01 22:06+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6306,7 +6306,7 @@ msgstr "Zlata dohromady: "
 
 #: src/game_initialization/playcampaign.cpp:74
 msgid "Carryover percentage: "
-msgstr "Procento přenesených peněz: "
+msgstr "Procento přeneseného zlata: "
 
 #: src/game_initialization/playcampaign.cpp:77
 msgid "Bonus gold: "
@@ -7000,7 +7000,7 @@ msgstr ""
 
 #: src/menu_events.cpp:331
 msgid "You do not have enough gold to recruit this unit."
-msgstr "K naverbování této jednotky nemáš dost peněz."
+msgstr "K naverbování této jednotky nemáš dost zlata."
 
 #: src/menu_events.cpp:374
 msgid "You are separated from your soldiers and may not recall them."
