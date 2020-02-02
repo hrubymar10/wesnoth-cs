@@ -65,4 +65,4 @@ Czech translations of The Battle for Wesnoth
 * Translation stats of master branch: https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs
 
 ---
-Synced with commit: [42f774e](https://github.com/wesnoth/wesnoth/tree/42f774e8594dfa74adca2f954dd82ed04f6cb035)
+Synced with commit: [e9347e6](https://github.com/wesnoth/wesnoth/tree/e9347e6219052f34f24e408cf2d2ac5c5be9693c)
