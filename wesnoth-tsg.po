@@ -18,8 +18,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-01 23:00+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-02-03 20:50+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -1815,42 +1815,32 @@ msgstr "Mebrine! Kde jsi?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:659
-#, fuzzy
-#| msgid ""
-#| "His home is empty... There are footprints leading away to the south... "
-#| "What can have happened here?"
 msgid ""
 "His home is empty... There are several sets of footprints leading away to "
 "the south..."
 msgstr ""
-"Jeho dům je prázdný... K jihu vedou nějaké stopy... Co se tu mohlo stát?"
+"Jeho dům je prázdný... Je tu několik různých stop a všechny vedou dál na "
+"jih..."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:664
 msgid "Perhaps he was taken by the undead?"
-msgstr ""
+msgstr "Možná byl odveden nemrtvými?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:669
-#, fuzzy
-#| msgid ""
-#| "There is no blood here, yet no Mebrin. Someone must have kidnapped him. "
-#| "But the undead would have slain him and made him one of them. Who then "
-#| "can have taken him?"
 msgid ""
 "I am not sure. There is no blood here and very little sign of struggle. If "
 "it had been the undead, I suspect they would have slain him and made him one "
 "of them."
 msgstr ""
-"Není tu nikde krev, ale ani Mebrin. Někdo jej unesl. Nemrtví by jej usmrtili "
-"a učinili jedním z nich. Kdo za tím tedy může stát?"
+"Nejsem si jistý. Není tu krev a téměř žádné známky zápasu. Mám dojem, že "
+"kdyby to byli nemrtví, tak by jej zabili a udělali z něj jednoho z nich."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:674
-#, fuzzy
-#| msgid "Maybe the bandits who have been summoning the undead took him?"
 msgid "Then maybe the bandits who have been summoning the undead took him?"
-msgstr "Možná jej odvedli ti bandité, kteří přivolávali nemrtvé?"
+msgstr "Pak jej možná odvedli ti bandité, kteří povolávají nemrtvé?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:679
@@ -1859,25 +1849,25 @@ msgid ""
 "he were ambushed or taken by surprise, he may not have had the chance. "
 "Ethiliel, what do you think?"
 msgstr ""
+"Tím si nemůžeme být jisti. Myslel bych, že by začal bojovat, ale jestli byl "
+"přepaden ze zálohy nebo překvapen, tak nemusel mít šanci. Co myslíš ty, "
+"Ethiliel?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:684
 msgid "... Ethiliel? I know you must be distraught, but—"
-msgstr ""
+msgstr "... Ethiliel? Vím, že musíš být silně rozrušená, ale–"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:690
-#, fuzzy
-#| msgid ""
-#| "We must follow these footprints into the woods! Whoever took our greatest "
-#| "sage must pay! Nothing will stop the vengeance of the elves!"
 msgid ""
 "Distraught? <i>Distraught?</i> I am angry! We must follow these footprints "
 "into the woods! Whoever took our greatest sage must pay! Nothing will stop "
 "the vengeance of the elves!"
 msgstr ""
-"Musíme jít po těch stopách do lesů! Ať našeho největšího mudrce unesl "
-"kdokoliv, zaplatí za to! Nic jej neuchrání před mstou elfů!"
+"Rozrušená? <i>Rozrušená?</i> Jsem rozzlobená! Musíme jít po těch stopách do "
+"lesů! Ať našeho největšího mudrce unesl kdokoliv, zaplatí za to! Nic jej "
+"neuchrání před mstou elfů!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:695
@@ -1885,6 +1875,8 @@ msgid ""
 "Let us go quickly. <i>And avoid doing anything that might make her angrier "
 "than she already is...</i>"
 msgstr ""
+"Pojďme rychle. <i>A vyvarujte se všeho, co by ji mohlo rozzlobit ještě víc, "
+"než už je...</i>"
 
 #. [message]: speaker=Necro
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:739
