@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-03 20:50+0100\n"
+"PO-Revision-Date: 2020-02-04 22:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1885,6 +1885,9 @@ msgid ""
 "late. We will stop them here and prevent them from reclaiming the knowledge "
 "that was once theirs!"
 msgstr ""
+"Tak elfové konečně přišli bránit své údolí. Škoda, ukázali se příliš pozdě. "
+"Tady je zastavíme a zabráníme jim znovu získat znalosti, které byly kdysi "
+"jejich!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:743
@@ -1892,18 +1895,16 @@ msgid ""
 "They have reached Mebrin’s village before us! We have no hope of obtaining "
 "his aid now..."
 msgstr ""
+"Dostali se do Mebrinovy vesnice před námi! Teď nemáme žádnou naději na "
+"získání jeho pomoci..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:758
-#, fuzzy
-#| msgid ""
-#| "Come, my bodyguard! We must make haste to follow the trail and find "
-#| "Mebrin."
 msgid ""
 "Come, my bodyguards! We must make haste to follow this trail and find Mebrin."
 msgstr ""
-"Pojďte, mí tělesní strážci! Musíme si sledováním stopy a hledáním Mebrina "
-"pospíšit."
+"Pojďte, mí osobní strážci! Musíme si se sledováním těchto stop a hledáním "
+"Mebrina pospíšit."
 
 #. [scenario]: id=05_Choice_in_the_Fog
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:5
