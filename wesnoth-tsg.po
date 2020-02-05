@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-04 22:23+0100\n"
+"PO-Revision-Date: 2020-02-05 19:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1937,7 +1937,7 @@ msgstr "?"
 #. only a single one
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:198
 msgid "Monster"
-msgstr ""
+msgstr "Příšera"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:239
@@ -5232,15 +5232,17 @@ msgid ""
 "watch on the dense forest and on each other, wary of the foreboding "
 "ambience, and even the elves seemed rather disconcerted."
 msgstr ""
+"Ethiliel vedla muže Jižní hlídky do velkého lesa na jihu. Jen co vstoupili, "
+"padl na hvozd podivný stín, obestřený strašidelným tichem a nepřirozeným "
+"bezvětřím. Jak šedá temnota vysála všechny barvy, vše v jejich okolí se "
+"zachmuřilo a zšeřelo a každý pohyb a zvuk byl utlumen hustou mlhou. "
+"Deoranova malá společnost ostražitě sledovala hustý les a jeden hlídal "
+"druhého dávaje si pozor na zlověstné okolí. I elfové se zdáli být docela "
+"znepokojení."
 
 #. [part]
 #. Intro to scenario 5
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:59
-#, fuzzy
-#| msgid ""
-#| "For many weeks they marched down nameless paths that no man had trod "
-#| "before. From time to time they saw ghostly images of elven villages and "
-#| "halls in the deep woods, but as they advanced, even those became scarce."
 msgid ""
 "For many weeks they marched down nameless paths that no man had trod before. "
 "From time to time, Deoran fancied that he saw ghostly images of elven "
@@ -5249,24 +5251,22 @@ msgid ""
 "blurred day and night with the ever creeping chill of deathly shadow growing "
 "upon them."
 msgstr ""
-"Po mnoho týdnů kráčeli po bezejmenných stezkách, na které předtím ještě "
-"nikdy nevkročila lidská noha. Čas od času spatřili zdáli nezřetelně elfí "
-"vesnice a budovy v hlubokých lesích, ale jak postupovali, i ty se stávaly "
-"zřídkavějšími."
+"Po mnoho týdnů pochodovali po bezejmenných stezkách, na které dosud žádná "
+"lidská noha nevkročila. Čas od času si Deoran představoval, že v temných "
+"hvozdech vidí přízračné obrazy elfích vesnic a síní, ale jak postupovali, "
+"i ty se staly zřídkavějšími. V hlubokých lesích daleko od civilizace čas "
+"plynul mezi mlhavým dnem a nocí s neutuchající mrazivou hrůzou smrtícího "
+"stínu, který v nich rostl."
 
 #. [part]
 #. Intro to scenario 5
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:65
-#, fuzzy
-#| msgid ""
-#| "Finally Ethiliel told the men to halt and pitch camp — they had reached "
-#| "the Black River, beyond which no elf or man would willingly pass."
 msgid ""
 "Finally, Ethiliel told the men to halt and pitch camp — they had reached the "
 "Black River, beyond which no elf or man would willingly pass."
 msgstr ""
-"Konečně Ethiliel zastavila muže a nechala je rozbít tábor — dospěli k velké "
-"řece, za niž by nešel dobrovolně žádný elf ani člověk."
+"Konečně Ethiliel řekla mužům, aby zastavili a rozbili tábor – dorazili "
+"k Černé řece, za niž by nešel dobrovolně žádný elf ani člověk."
 
 #. [part]
 #. Intro to scenario 6a
