@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-05 19:45+0100\n"
+"PO-Revision-Date: 2020-02-06 22:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1945,21 +1945,20 @@ msgid ""
 "It’s so cold here! And this fog is so thick. This cannot be natural for a "
 "forest like this."
 msgstr ""
+"Je tu taková zima! A ta mlha je tak hustá. Pro les, jako je tento, to nemůže "
+"být přirozené."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:244
 msgid "I fear this is the effects of powerful, black magics."
-msgstr ""
+msgstr "Obávám se, že je to působením mocné černé magie."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:249
-#, fuzzy
-#| msgid ""
-#| "This is quite a change from fighting bandits in the farmland near Westin!"
 msgid ""
 "This is quite a change from fighting bandits in the farmlands near Westin!"
 msgstr ""
-"Tohle je něco trochu jiného než šarvátky s lupiči v polích okolo Westinu!"
+"Tohle je něco trochu jiného než šarvátky s lupiči v polích okolo Westinu!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:254
@@ -1968,6 +1967,9 @@ msgid ""
 "land. Then, there is no better place than here. We should stop and rest "
 "before we proceed."
 msgstr ""
+"Takže temné čáry, které poskvrňují tuto zemi, ovlivňují i vás lidi. Pak tu "
+"není lepší místo než tohle. Měli bychom zastavit a odpočinout si, dříve než "
+"budeme pokračovat."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:259
