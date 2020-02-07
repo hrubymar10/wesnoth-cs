@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-06 22:57+0100\n"
+"PO-Revision-Date: 2020-02-07 22:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1977,22 +1977,19 @@ msgid ""
 "This place is indeed foreboding, but why do we need to stop and make camp "
 "specifically here?"
 msgstr ""
+"Tohle místo je vskutku zlověstné, ale proč musíme zastavit a utábořit se "
+"právě zde?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:264
-#, fuzzy
-#| msgid ""
-#| "The Black River is before us. Few elves have crossed it, and fewer still "
-#| "have lingered there long. If the undead come from across the river, then "
-#| "we must search for them carefully, for I know not the way."
 msgid ""
 "The Black River is before us. Few elves have crossed it, and fewer still "
 "have explored the dark forest beyond. If the undead come from across the "
 "river, we must exercise great caution in our search for them."
 msgstr ""
-"Před námi je Černá řeka. Několik elfů ji překročilo, a ještě méně jich tam "
-"dlouho otálelo. Pokud přicházejí nemrtví zpoza řeky, musíme je hledat "
-"opatrně, neznám totiž cestu."
+"Před námi je Černá řeka. Jen málo elfů ji překročilo a ještě méně jich "
+"prozkoumalo ten temný les za ní. Jestliže nemrtví přišli zpoza řeky, musíme "
+"být při jejich hledání velmi obezřelí."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:269
@@ -2000,6 +1997,8 @@ msgid ""
 "Even if this forest is decidedly grim, we must not fear its inhabitants so "
 "much so that we dare not even confront them. I am ready and willing to fight!"
 msgstr ""
+"I když je ten les rozhodně ponurý, nesmíme se jeho obyvatel bát tolik, že se "
+"ani neodvážíme jim postavit. Jsem připraven a ochoten bojovat!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:274
@@ -2010,6 +2009,11 @@ msgid ""
 "asked some of my people to aid us. My soldiers and shamans will fight at "
 "your command."
 msgstr ""
+"To je opatrnost, ne strach, člověče. Ať už sebevíc toužím najít, kde se náš "
+"velký mudrc nachází, nijak nám neprospěje vrhnout se přímo do nepřátelské "
+"pasti. Na pročesání tak nebezpečných lesů budeme potřebovat pomoc, takže "
+"jsem požádala některé z mých lidí, aby nás podpořili. Moji vojáci a šamanky "
+"budou bojovat na tvůj rozkaz."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:281
@@ -2018,6 +2022,9 @@ msgid ""
 "skillfully wield both a sword and a bow. They are fast warriors and "
 "especially effective in forests."
 msgstr ""
+"Teď můžeš verbovat elfí bojovníky. Jsou to bojovníci všestranní, kteří "
+"obratně vládnou mečem i lukem. Tito odolní válečníci jsou zvlášť zdatní "
+"v lesích."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:286
@@ -2026,6 +2033,9 @@ msgid ""
 "who heal adjacent allies every turn and slow their enemies. Use them to heal "
 "wounded soldiers and weaken enemy units."
 msgstr ""
+"Teď můžeš verbovat elfí šamanky. Jsou to podpůrné jednotky, které každé kolo "
+"léčí sousední spojence a zpomalují své nepřátele. Použij je na léčení "
+"raněných vojáků a oslabení nepřátelských jednotek."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:292
