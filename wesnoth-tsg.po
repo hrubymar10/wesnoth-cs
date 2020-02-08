@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-07 22:16+0100\n"
+"PO-Revision-Date: 2020-02-08 09:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2043,6 +2043,8 @@ msgid ""
 "Now, so long as you feel prepared to brave the perils beyond the river, we "
 "can continue onward."
 msgstr ""
+"Takže pokud se cítíte připraveni čelit nebezpečím na druhé straně řeky, "
+"můžeme pokračovat dál."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:297
@@ -2050,25 +2052,26 @@ msgid ""
 "Thank you for your help, my lady. I am ready for whatever lies in wait for "
 "us, be it man, beast, or skeleton. Sir Gerrick, Minister Hylas?"
 msgstr ""
+"Díky za tvou pomoc, má paní. Jsem připraven na všechno, co na nás čeká, ať "
+"je to člověk, zvíře nebo kostlivec. Sire Gerricku, purkmistře Hylasi?"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:302
 msgid "On your order, Sir Deoran."
-msgstr ""
+msgstr "Na tvůj příkaz, sire Deorane."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:307
 msgid "Evil never rests — nor does the light that seeks to exterminate it."
-msgstr ""
+msgstr "Zlo nikdy neodpočívá – ani světlo, které se ho snaží vymýtit."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:312
-#, fuzzy
-#| msgid "Very well. We will seek the river and probe its secrets."
 msgid ""
 "Very well then. Come, men, let us gather our wits and probe the forest for "
 "its secrets."
-msgstr "Dobrá. Najdeme řeku a prozkoumáme její tajemství."
+msgstr ""
+"Nuže tedy dobrá. Pojďme, muži, vzchopme se a vyrvěme lesu jeho tajemství."
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:318
