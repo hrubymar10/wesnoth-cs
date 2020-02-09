@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-01-24 22:46+0100\n"
+"PO-Revision-Date: 2020-02-09 23:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1066,8 +1066,8 @@ msgid ""
 "and north across them to the Ford of Abez. The western road around the other "
 "edge of the Brown Hills would have been safer, but..."
 msgstr ""
-"Toto jsou bažiny Illuvenu — sice ne tak strašné, jako Hrůzné bažiny severně "
-"od Velké řeky, ale i tak dost špatné. Budeme postupovat severozápadně k "
+"Toto jsou bažiny Illuvenu — sice ne tak strašné, jako Močály děsu severně od "
+"Velké řeky, ale i tak dost špatné. Budeme postupovat severozápadně k "
 "Abezskému brodu. Západní cesta okolo opačného úpatí Hnědých kopců by asi "
 "byla bezpečnější, ale..."
 
@@ -4113,8 +4113,8 @@ msgid ""
 "The portal must be closed at any cost. You must allow me to get close to it, "
 "so I can seal it."
 msgstr ""
-"Portál musí být uzavřen za jakoukoli cenu. Musíte mi umožnit dostat se "
-"k němu co nejblíž, abych byl schopen to udělat."
+"Portál musí být uzavřen za každou cenu. Musíte mi umožnit dostat se k němu "
+"co nejblíž, abych byl schopen to udělat."
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:241
@@ -4126,19 +4126,17 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:266
 msgid "Earth, rise and shut this gate of evil for good!"
-msgstr ""
-"Mocnosti Země, mocnosti Vzduchu, mocnosti Ohně, mocnosti Vody! Vzývám Vás, "
-"vyslyšte volání samotné podstaty Života a uzavřete Smrti cestu zpět!"
+msgstr "Povstaň, Země a nadobro uzavři tuto bránu zla!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:282
 msgid "Portal, reopen! No! What have you done?"
-msgstr "Portále, jak poroučím, znovu se otevři! Ne! Cos to provedl?"
+msgstr "Portále, znovu se otevři! Ne! Cos to provedl?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:288
 msgid "Your portal is shut. And you cannot open another one."
-msgstr "Tvůj portál je uzavřen. A neotevře se již nikdy více."
+msgstr "Tvůj portál je uzavřen. A další nemůžeš otevřít."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:292
@@ -4147,9 +4145,9 @@ msgid ""
 "you will live as my right hand. Together our magic skills will be unmatched "
 "and irresistible."
 msgstr ""
-"Delfadore, prokázal jsi své schopnosti. Mám pro tebe návrh: připoj se ke "
-"mně, staň se mou pravou rukou. Spolu bude naše moc nepřekonatelná a "
-"neporazitelná."
+"Delfadore, prokázal jsi své schopnosti. Mám pro tebe návrh. Připoj se ke "
+"mně, staň se mou pravou rukou. Naše magické dovednosti budou společně "
+"nepřekonatelné a drtivé."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:296
@@ -4159,9 +4157,7 @@ msgstr "Spojit se s tebou?"
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:300
 msgid "Or, fight me and die. I will then resurrect you as my slave."
-msgstr ""
-"Nebo druhá možnost - postav se mi a chcípneš. A já tě přivedu zpět jako mého "
-"otroka."
+msgstr "Nebo proti mně bojuj a zemři. Pak tě oživím jako svého otroka."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:304
@@ -4169,8 +4165,8 @@ msgid ""
 "My path is set. Your path must end. I will not dishonor my oaths, and will "
 "not abandon friends and country."
 msgstr ""
-"Má cesta byl určena. Tvá ale musí skončit. Nikdy nezneužiji svou moc a nikdy "
-"nezradím své přátele a svou zemi."
+"Má cesta je daná. Tvá musí skončit. Neporuším své sliby a neopustím přátele "
+"a svou zemi."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:308
@@ -4178,8 +4174,8 @@ msgid ""
 "Then you shall perish. After I finish with these pesky elves and dwarves, "
 "Weldyn will be mine. Wesnoth has no army to resist me."
 msgstr ""
-"Pak tedy budeš zatracen. Až skončím s těmi přitrublými elfy a trpajzlíky, "
-"Weldyn bude můj. Wesnoth nemá armádu, která by se mi postavila."
+"Pak tedy zemřeš. Až skončím s těmi otravnými elfy a trpaslíky, bude Weldyn "
+"můj. Wesnoth nemá armádu, která by se mi postavila."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:312
@@ -4188,9 +4184,9 @@ msgid ""
 "to weaken, but that doesn't help us now. Quickly, back in the tunnel! I will "
 "stay last to seal the entrance."
 msgstr ""
-"(<i>k trpaslíkům</i>). Nyní, když je portál zavřený, jeho síla začne "
-"slábnout, ale to nám nepomůže. Rychle, zpátky v tunelu! Půjdu poslední, "
-"abych utěsnil vchod."
+"(<i>K trpaslíkům</i>). Nyní, když je portál zavřený, jeho síla začne "
+"slábnout, ale to nám nepomůže. Rychle, zpátky do tunelu! Půjdu poslední, "
+"abych uzavřel vchod."
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:328
@@ -4205,12 +4201,12 @@ msgstr "Pospěšme!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:391
 msgid "We’re in. Now: Earth, seal this entrance!"
-msgstr "Jsme uvnitř. A nyní, mocnosti Země, uzavřete za námi vchod!"
+msgstr "Jsme uvnitř. A nyní, Země, uzavři tento vchod!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:439
 msgid "Out of my way, foul creatures!"
-msgstr "Uhněte mi z cesty, zrůdná stvoření."
+msgstr "Uhněte mi z cesty, odporní tvorové."
 
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:463
@@ -4246,7 +4242,7 @@ msgstr "Blud"
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:478
 msgid "What’s going on here? Is this Delfador? Welcome to your doom, Delfador!"
 msgstr ""
-"Co se to tam děje? To je Delfador? Vítej na konci své cesty, Delfadore."
+"Co se to tam děje? To je Delfador? Vítej na konci své cesty, Delfadore!"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:482
@@ -4254,8 +4250,8 @@ msgid ""
 "They have reinforcements. Hurry, we must close the portal before we are "
 "overrun!"
 msgstr ""
-"Přicházejí jim další posily. Pospěšme, musíme se pokusit portál uzavřít co "
-"nejdříve, dokud nejsou v ohromné přesile."
+"Přicházejí jim další posily. Pospěšme, musíme portál uzavřít co nejdříve, "
+"dokud nejsou v ohromné přesile!"
 
 #. [message]: id=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:486
@@ -4268,8 +4264,8 @@ msgid ""
 "Fool! You could not kill me in the land of the dead, nor can you in the land "
 "of the living! I transcend both death and life, and I will destroy you!"
 msgstr ""
-"Hlupáku! Nezabil's mě ani v zemi mrtvých, nezabiješ mě ani tady v zemi "
-"živých! Podrobil jsem si život i smrt, a zničím tě!"
+"Hlupáku! Nezabil's mě ani v zemi mrtvých, nezabiješ mě ani tady v zemi "
+"živých! Podrobil jsem si život i smrt a zničím tě!"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:509
@@ -4278,7 +4274,7 @@ msgid ""
 "able to defeat him later."
 msgstr ""
 "Teď ho nemůžeme porazit. Musíme nejprve provést naši misi, abychom ho mohli "
-"později porazit."
+"porazit později."
 
 #. [scenario]: id=19_Showdown_in_the_Northern_Swamp
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:4
@@ -4295,11 +4291,10 @@ msgid ""
 "raising another army amidst the fetid reek."
 msgstr ""
 "Když byl portál uzavřen, Iliah-Malal ztratil velkou část ze své moci. Stáhl "
-"se tedy do Bažin Hrůzy, aby zde znovu nabyl sil a opět se pokusil o "
-"znovuotevření portálu. Delfadorovi vojáci, spěchajíc na západ tajnými "
-"stezkami trpaslíků, přebrodivše neviděni řeku Listru, skryti tmou, nalezli "
-"Iliah-Malala, jak si znovu, uprostřed páchnoucí dýmu, vytváří vlastní armádu "
-"kostlivců."
+"se do Močálů děsu, aby zde znovu nabyl sil a pokusil se o další mocné "
+"zaklínadlo. Delfadorovi vojáci, spěchajíce na západ tajnými stezkami "
+"trpaslíků, v noci tajně přebrodíce Listru, nalezli nekromanta, jak uprostřed "
+"smrdutého puchu začíná budovat další vojsko."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:23
@@ -4309,10 +4304,10 @@ msgid ""
 "Lionel marched north to join Delfador for the battle that would decide the "
 "fate of Wesnoth."
 msgstr ""
-"Díky trpasličím i elfím poslům udržoval Delfador spojení s králem. Sděloval "
-"mu novinky, ale také jej žádal o pomoc. Lionel sebral všechny vojáky co mohl "
-"a táhl s nimi na sever Delfadorovi naproti, aby stanuli bok po boku v bitvě, "
-"ve které se má rozhodnout o osudu Wesnothu."
+"Díky trpasličím i elfím poslům udržoval Delfador spojení s králem. Sděloval "
+"mu novinky, ale také jej žádal o pomoc. Lionel shromáždil všechny vojáky, "
+"které mohl sehnat a táhl s nimi na sever Delfadorovi naproti, aby stanuli "
+"bok po boku v bitvě, ve které se má rozhodnout o osudu Wesnothu."
 
 #. [side]: type=Necromancer, id=Maldun
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:96
@@ -4345,7 +4340,7 @@ msgid ""
 "your allies will save you now."
 msgstr ""
 "Tak se tedy znovu setkáváme, Delfadore. Byl jsi hlupák, když jsi odmítl mou "
-"nabídku. Žádný tvůj přítelíček tě už neochrání."
+"nabídku. Žádný z tvých spojenců tě teď nezachrání."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:243
@@ -4353,8 +4348,8 @@ msgid ""
 "You have ravaged your own soul with your corrupt arts, and your words are "
 "empty wind; I fear them not."
 msgstr ""
-"Již dávno jsi sám zatratil svou duši svým zrůdným činy černé magie. A tvá "
-"slova jsou planá, jsou pouhým závanem větru. Nebojím se Tě, Iliah-Malale!"
+"Svým zkaženým uměním jsi zničil vlastní duši a tvá slova jsou planá, jsou "
+"pouhým závanem větru. Nebojím se jich."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:247
@@ -4363,9 +4358,9 @@ msgid ""
 "Delfador the Mighty, Delfador the Powerful, Delfador the Great... rather "
 "than a jumped-up hedge wizard I shall shortly crush beneath my heel."
 msgstr ""
-"No není zábavný, moje stvoření? Jak se tu naparuje, ten potulný zaklínač. "
-"On, Delfador Mocný, Delfador Silný, Delfador Veliký... radši než vyskakovat "
-"se mi měl klidit z cesty, než ho rozdrtím v prach podrážkami svých bot."
+"No není zábavný, moji tvorové? Jak se tu naparuje, jako by byl Delfador "
+"Mocný, Delfador Silný, Delfador Veliký... spíš než potulný kejklíř, kterého "
+"brzy zadupu do země."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:251
@@ -4373,8 +4368,8 @@ msgid ""
 "Delfador the Great, eh? And so it comes to pass as the four Oracles "
 "foretold. I accept your name-gift, Iliah-Malal."
 msgstr ""
-"Delfador Veliký? Hmmm. Tak se tedy proroctví čtyř Věštců Alduinských "
-"vyplnilo. Přijímám tedy od tebe toto jméno jako dar, Iliah Malale."
+"Delfador Veliký? Hmmm. Tak se tedy naplňuje, co předpověděli čtyři věštci. "
+"Přijímám od tebe toto jméno jako dar, Iliah-Malale."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:255
@@ -4382,8 +4377,8 @@ msgid ""
 "Oracles? What nonsense you babble... After you die, I will raise your corpse "
 "and compel you to tell me how to reopen my portal!"
 msgstr ""
-"Věštci? Co to blábolíš za nesmysly... Až umřeš, znovu tě přivolám zpět "
-"a přinutím tě prozradit mi, jak znovu otevřít můj portál!"
+"Věštci? Co to blábolíš za nesmysly... Až umřeš, přivolám tě zpět a přinutím "
+"tě prozradit mi, jak znovu otevřít můj portál!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:259
@@ -4399,13 +4394,13 @@ msgid ""
 "Dead. The killing blow against Iliah-Malal can only be struck by one of them "
 "or by Delfador."
 msgstr ""
-"Pouze v tomto scénáři můžeš přivolávat jednotky ze Země mrtvých. Smrtící "
-"úder mu musí Iliah-Malalovi zasadit právě jeden z nich nebo Delfador."
+"Jen v tomto scénáři můžeš povolat zkušené jednotky ze Země mrtvých. Pouze "
+"jedna z nich nebo sám Delfador může zasadit Iliah-Malalovi smrtící úder."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:288
 msgid "Delfador... You raise undead?!"
-msgstr "Delfadore... ty jsi nechal povstat nemrtvé?"
+msgstr "Delfadore... Ty jsi nechal povstat nemrtvé?!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:293
