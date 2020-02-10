@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-08 09:01+0100\n"
+"PO-Revision-Date: 2020-02-10 19:30+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2169,14 +2169,12 @@ msgstr "Našli jsme licha!"
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:606
 msgid ""
 "I think I see something moving in the fog... it looks like an encampment!"
-msgstr "Zdá se mi, že je v mlze něco vidět.. vypadá to jako tábořiště!"
+msgstr "Myslím, že v té mlze vidím něco se hýbat... vypadá to jako tábořiště!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:646
-#, fuzzy
-#| msgid "Thank heaven! You’re alive!"
 msgid "Thank the light, you’re alive!"
-msgstr "Díky bohu! Jste naživu!"
+msgstr "Světlo budiž pochváleno, jste živí!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:651
@@ -2184,6 +2182,8 @@ msgid ""
 "You need not thank anyone that we are alive, wretched criminals! We know of "
 "your alliance with the undead and the evil you have brought to this land!"
 msgstr ""
+"Nemusíte nikomu děkovat, že jsme naživu, vy mizerní zločinci! Víme o vašem "
+"spojenectví s nemrtvými a o zlu, které jste přivedli do této země!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:656
@@ -2191,6 +2191,8 @@ msgid ""
 "Aye, prepare to be slain, you abominable scum! You will pay for what you "
 "have done to our home!"
 msgstr ""
+"Tak, připravte se na smrt, vy odporní neřádi! Zaplatíte za to, co jste "
+"provedli s našimi domovy!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:661
@@ -2200,6 +2202,9 @@ msgid ""
 "my brothers attacked you. It was never my intention to cause everyone so "
 "much suffering."
 msgstr ""
+"Prosím, prosím, jen mě vyslechněte. Vím o těch nemrtvých, které hledáte "
+"a vím, že je i nás usilujete zničit, abyste se pomstili. Je mi líto, že vás "
+"moji bratři napadli. Nikdy nebylo mým záměrem způsobit všem tolik utrpení."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:666
