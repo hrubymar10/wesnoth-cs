@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-10 19:30+0100\n"
+"PO-Revision-Date: 2020-02-11 23:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2212,26 +2212,24 @@ msgid ""
 "Tell us what you know of these undead. Make one wrong move and we will not "
 "hesitate to attack!"
 msgstr ""
+"Řekni nám, co víš o těch nemrtvých. Udělej jeden špatný pohyb a my nebudeme "
+"váhat s útokem!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:671
-#, fuzzy
-#| msgid ""
-#| "A year ago we ventured into the land of the elves in secret, and we "
-#| "captured a great sage. We forced him to teach us the secrets of this "
-#| "forest and of the undead."
 msgid ""
 "I swear that I am not your enemy! I will gladly tell you what I know. A year "
 "ago, we ventured into the land of the elves in secret and we captured a "
 "great sage. We forced him to teach us the secrets of this forest."
 msgstr ""
-"Před rokem jsme se tajně vydali do zemí elfů a zajali velkého mudrce. "
-"Donutili jsme jej, aby nám prozradil tajemství tohoto lesa a nemrtvých."
+"Přísahám, že nejsem váš nepřítel! Rád vám řeknu, co vím. Před rokem jsme se "
+"odvážili tajně vstoupit do země elfů a zajali velkého mudrce. Donutili jsme "
+"ho, aby nám odhalil tajemství tohoto lesa."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:676
 msgid "You imprisoned Mebrin?! You loathsome vermin!"
-msgstr ""
+msgstr "Vy jste uvěznili Mebrina?! Jste odporná pakáž!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:681
