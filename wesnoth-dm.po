@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-02-09 23:03+0100\n"
+"PO-Revision-Date: 2020-02-12 23:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4419,8 +4419,8 @@ msgid ""
 "I have prepared some holy water. Sprinkle it on your weapons and smash those "
 "foul creatures into dust!"
 msgstr ""
-"Připravil jsem trochu svěcené vody. Potřete jimi své ruční zbraně a rozdrťte "
-"ty zrůdy v prach!"
+"Připravil jsem trochu svěcené vody. Pokropte jí své ruční zbraně a rozdrťte "
+"na prach ty zrůdy!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:306
@@ -4430,7 +4430,7 @@ msgstr "Síly temnot, zahalte tuto pláň!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:322
 msgid "Darkness shall be dispelled!"
-msgstr "Hoř světýlko, plápolej, tupou sílu temnoty udolej!"
+msgstr "Hoř světýlko, plápolej, tupou sílu temnot udolej!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:331
@@ -4448,7 +4448,7 @@ msgid ""
 "Your sorcery matters little. Your army will fall like wheat to the sickle "
 "before my undead legions."
 msgstr ""
-"Tvá magie mnoho nezmůže. Tvou armádu budou moji věrní kosit jako pšenici."
+"Tvá magie mnoho nezmůže. Moji věrní budou tvou armádu kosit jako pšenici."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:343
