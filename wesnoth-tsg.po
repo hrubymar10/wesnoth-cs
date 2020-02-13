@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-11 23:32+0100\n"
+"PO-Revision-Date: 2020-02-13 22:28+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:9
@@ -2241,28 +2241,34 @@ msgid ""
 "corrupting magic. They summoned undead that they could not control, and "
 "soon, they became slaves of the power they had sought to master!"
 msgstr ""
+"Počkat, počkat, vyslechněte mne! Řekl nám, že v lesích na jih odtud "
+"existovalo mocné spojení s temnými silami. Vzal nás tam a naučil nás povolat "
+"mrtvé, aby za nás bojovali. Dělat takové věci mi přišlo pošetilé, ale moji "
+"bratři byli slabí a nerozumní a brzy podlehli vlivu ničivých kouzel. "
+"Povolali nemrtvé, jež nemohli ovládat a brzy se stali otroky moci, kterou si "
+"usilovali osvojit!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:686
 msgid "A complete and utter lie from complete and utter scum."
-msgstr ""
+msgstr "Naprostá a vyslovená lež naprostého a vysloveného neřáda."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:691
 msgid "Please, Ethiliel, let us hear him out. What happened to Mebrin?"
-msgstr ""
+msgstr "Prosím, Ethiliel, nech nás jej vyslechnout. Co se stalo Mebrinovi?"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:696
 msgid ""
 "I am not sure... he must have known that the undead would corrupt and "
 "enslave us."
-msgstr ""
+msgstr "Nejsem si jistý... musel vědět, že nás nemrtví zničí a zotročí."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:701
 msgid "Stop stalling and tell us what happened!"
-msgstr ""
+msgstr "Přestaň zdržovat a řekni nám, co se přihodilo!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:706
