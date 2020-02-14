@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-13 22:28+0100\n"
+"PO-Revision-Date: 2020-02-14 23:09+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2251,7 +2251,7 @@ msgstr ""
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:686
 msgid "A complete and utter lie from complete and utter scum."
-msgstr "Naprostá a vyslovená lež naprostého a vysloveného neřáda."
+msgstr "Naprostá, vyslovená lež naprostého a vysloveného neřáda."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:691
@@ -2278,15 +2278,18 @@ msgid ""
 "of formidable power. He took control of the other undead lords and now leads "
 "them from the depths."
 msgstr ""
+"Mebrin byl silnější než kterýkoli z námi povolaných nemrtvých, a přesto jim "
+"podlehl. Dovolil, aby jej učinili jedním z nich a stal se lichem s ohromnou "
+"mocí. Převzal vládu nad ostatními nemrtvými pány a teď je vede z hlubin."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:712
-#, fuzzy
-#| msgid "Lies! Mebrin would never fight for the undead, much less lead them!"
 msgid ""
 "You dare spew such falsities! Mebrin would never fight for the undead, much "
 "less lead them!"
-msgstr "Lžeš! Mebrin by nikdy nebojoval za nemrtvé, nebo je dokonce vedl!"
+msgstr ""
+"Ty se opovažuješ chrlit tolik nepravd! Mebrin by nikdy nebojoval za nemrtvé, "
+"natož aby je vedl!"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:717
@@ -2297,6 +2300,11 @@ msgid ""
 "altogether. If this Mebrin played a part in the summoning of these undead, I "
 "do not doubt that he was corrupted as well.</i>"
 msgstr ""
+"<i>Sire Deorane, mudrcové a mystici velkých znalostí a vysokého věku jsou "
+"často těmi prvními, kteří podlehnou nákaze černé magie. Moudrost a moc "
+"nestačí na ovládnutí nemrtva – jediný způsob, jak si jej podrobit, je úplně "
+"odolat pokušení. Jestli se tenhle Mebrin podílel na povolávání těchto "
+"nemrtvých, nepochybuji, že byl také zkažený.</i>"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:722
@@ -2305,6 +2313,9 @@ msgid ""
 "believe they are. I suspect that this sage's pride led him to believe that "
 "he could master a power that is uncontrollable.</i>"
 msgstr ""
+"<i>Samozřejmě, tito elfové nejsou tak nezkazitelní a ryzí, jak by si rádi "
+"mysleli. Mám podezření, že pýcha tohoto mudrce vedla k tomu, aby věřil, že "
+"by si mohl osvojit moc, která je neovladatelná.</i>"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:734
