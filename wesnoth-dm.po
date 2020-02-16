@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-02-12 23:00+0100\n"
+"PO-Revision-Date: 2020-02-16 23:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:22
@@ -4517,8 +4517,8 @@ msgid ""
 "Book of Crelanu, and found there your final doom at the hands of the dead "
 "themselves."
 msgstr ""
-"Ale ne již více. Krelanova kniha mi umožnila nahlédnout do temného srdce "
-"nekromancie a tedy vím, že o tvé bytí tě může připravit zase jenom dotek "
+"Tentokrát ne. Krelanova kniha mi umožnila nahlédnout do temného srdce "
+"nekromancie a vím tedy, že o tvé bytí tě může připravit zase jenom dotek "
 "smrti."
 
 #. [message]: speaker=Delfador
@@ -4527,8 +4527,8 @@ msgid ""
 "Not this time. For I have gazed upon the dark heart of necromancy in the "
 "Book of Crelanu, AND I REMAIN OF THE LIGHT!"
 msgstr ""
-"Ale ne již více. Krelanova kniha mi umožnila nahlédnout do temného srdce "
-"nekromancie a tedy vím, jak tě připravit o tvé bytí. A budu to právě já, kdo "
+"Tentokrát ne. Krelanova kniha mi umožnila nahlédnout do temného srdce "
+"nekromancie a vím tedy, jak tě připravit o tvé bytí. A budu to právě já, kdo "
 "nechá tvou temnou duši naplnit Bílým světlem!"
 
 #. [message]: speaker=Delfador
@@ -4536,21 +4536,20 @@ msgstr ""
 msgid ""
 "Evil has been vanquished on this day. May this victory bring lasting peace."
 msgstr ""
-"Tento den bylo velké zlo bylo poraženo. Kéž toto vítězství povede k trvalému "
-"míru."
+"Tento den bylo poraženo velké zlo. Kéž toto vítězství povede k trvalému míru."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:484
 msgid ""
 "You have earned the name the accursed one gave you... Delfador the Great."
 msgstr ""
-"Sám sis dnes vydobyl jméno, kterým tě častoval onen proklatec. Delfador "
+"Dnes sis sám vydobyl jméno, kterým tě častoval onen proklatec... Delfador "
 "Veliký."
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:488
 msgid "Indeed. This will be quite a tale to tell."
-msgstr "Pravda. To bude docela dlouhý příběh."
+msgstr "Pravda. Bude to pořádný příběh na vyprávění."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:514
@@ -4558,9 +4557,9 @@ msgid ""
 "You who fought beside me in the Land of the Dead and chose the side of the "
 "living on this day, return now to your peace and rest."
 msgstr ""
-"Vy, kdož jste po mém boku stanuli v bitvě v Zemi mrtvých a kdož jste se dnes "
-"rozhodli přidat na stranu živých, vraťte se v pokoji do míst, kde konečně "
-"naleznete klid a mír a věčný odpočinek."
+"Vy, kdož jste po mém boku stanuli v bitvě v Zemi mrtvých a kdož jste se dnes "
+"rozhodli přidat na stranu živých, vraťte se v pokoji do míst, kde konečně "
+"naleznete klid a mír a věčný odpočinek."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:526
@@ -4577,12 +4576,12 @@ msgid ""
 "corruption of the dark arts, and show themselves worthy of the land they "
 "live in."
 msgstr ""
-"Ano, je. Ale jedná se o dílo příliš mocné magie, aby mohlo být úplně beze "
-"zbytku odstraněno; stopa po Iliah-Malalově spojení mezi světy stálé "
-"přetrvává a asi bude na věky věků. Přivést na světlo světa nemrtvé bude nyní "
-"snadnější než kdy v minulosti bylo. Ti, kdož přijdou po nás, budou muset být "
-"na pozoru před těmi, kdož propadnou temnému umění černé magie. Budou muset "
-"prokázat, že jsou hodni země, ve které žijí."
+"Ano, je. Ale jedná se o dílo příliš mocné magie, než aby mohlo být úplně "
+"beze zbytku odstraněno; stopa po Iliah-Malalově spojení mezi světy stále "
+"přetrvává a asi na věky věků bude. Přivést nemrtvé na světlo světa bude nyní "
+"snadnější, než kdy v minulosti bylo. Ti, kdož přijdou po nás, budou muset "
+"být na pozoru před těmi, kteří propadnou temnému umění černé magie. Budou "
+"muset prokázat, že jsou hodni země, ve které žijí."
 
 #. [scenario]: id=20_Prince_of_Wesnoth
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:4
