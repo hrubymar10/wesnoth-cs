@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-02-16 23:13+0100\n"
+"PO-Revision-Date: 2020-02-17 22:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4596,10 +4596,10 @@ msgid ""
 "battle of Abez Ford, and it was no surprise that Delfador became Garard II’s "
 "most valued advisor."
 msgstr ""
-"Po vítězství spojenců a nastolení míru přišlo období klidu, které trvalo po "
-"celou jednu generaci. Král po zkušenosti z bitvy u Brodu Abezu začal "
-"dopřávat sluchu Delfadorovým slovům a tak nebylo žádným překvapením, že se "
-"Delfador stal hlavním rádcem krále Gararda II."
+"Po vítězství spojenců a nastolení míru přišlo období klidu, které trvalo po "
+"celou jednu generaci. Král po zkušenosti z bitvy u Abezského brodu začal "
+"dopřávat sluchu Delfadorovým slovům, a tak nebylo žádným překvapením, že se "
+"Delfador stal hlavním rádcem krále Gararda II."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:26
@@ -4607,7 +4607,8 @@ msgid ""
 "The elves knew that with Delfador close to the King, Wesnoth would be a "
 "reliable ally. And it was for a while."
 msgstr ""
-"Elfové věděli, že král s Delfadorem po boku je jejich spolehlivým spojencem."
+"Elfové věděli, že s Delfadorem v blízkosti krále by byl Wesnoth spolehlivým "
+"spojencem. A na chvíli tomu tak bylo."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:31
@@ -4615,8 +4616,8 @@ msgid ""
 "But Delfador was not alone in having the King’s ear; there was one yet "
 "closer to him. The Queen’s power was rising..."
 msgstr ""
-"Ale Delfador nebyl jediným, komu král dopřával sluchu; byl tu ještě někdo, "
-"kdo měl ke králi ještě blíž. Královna Ašvíra. Její moc rostla den za dnem..."
+"Ale Delfador nebyl jediným, komu král dopřával sluchu; byl tu někdo, kdo měl "
+"ke králi ještě blíž. Královna Ašvíra. Její moc rostla den za dnem..."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:37
@@ -4624,9 +4625,8 @@ msgid ""
 "One day reports came of Wesnothian forces seizing elvish land on the border. "
 "Kalenz gathered a small force and hurried to the disputed country."
 msgstr ""
-"Jednoho dne se objevily zvěsti, že Wesnothská vojska obsazují elfí "
-"pohraničí. Kalenz se tedy vypravil do sporných území zjistit, Vzal s sebou "
-"jen malou jednotku..."
+"Jednoho dne se objevily zvěsti, že wesnothská vojska obsazují elfí "
+"pohraničí. Kalenz shromáždil nevelké vojsko a spěchal do sporného území."
 
 #. [side]: type=General, id=Eldred
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:83
