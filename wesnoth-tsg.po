@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-14 23:09+0100\n"
+"PO-Revision-Date: 2020-02-18 21:26+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2322,6 +2322,8 @@ msgstr ""
 msgid ""
 "Very well, but even supposing your story is true, you are still criminals!"
 msgstr ""
+"No dobrá, ale i kdybych připustil, že je tvá historka pravdivá, pořád jste "
+"zločinci!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:739
@@ -2331,6 +2333,10 @@ msgid ""
 "yours, and we know the secrets of their lair and their powers. We can be of "
 "great aid in your battle against them!"
 msgstr ""
+"V minulosti jsme se dopustili přečinů, ale můžeme být vašimi přáteli alespoň "
+"v boji proti nemrtvým! Jsou stejně tak našimi nepřáteli jako vašimi a my "
+"známe tajemství jejich doupěte a také jejich schopností. Můžeme vám být "
+"velkou pomocí ve vaší bitvě proti nim!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:745
@@ -2340,39 +2346,32 @@ msgid ""
 "know of these undead, you cannot ally yourself with these thugs. They are as "
 "evil as the undead!"
 msgstr ""
+"Pomysli na zkázu, kterou přivodili tvojí zemi! Pomysli na to, jak vnikli na "
+"naše území a unesli našeho největšího mudrce! Nezáleží na tom, co vědí "
+"o těchto nemrtvých, ty s těmi gaunery nemůžeš uzavřít spojenectví. Jsou "
+"stejně špatní, jako ti nemrtví!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:750
-#, fuzzy
-#| msgid ""
-#| "Hmm... I have to consider this... If I ally with the elves, I must fight "
-#| "the bandits, but if I ally with the bandits I will make enemies of the "
-#| "elves..."
 msgid ""
 "Peace, let me think! <i>I must consider this carefully... If I ally with the "
 "elves, I must fight the bandits, but if I ally with the bandits I will make "
 "enemies of the elves...</i>"
 msgstr ""
-"Hmm... to si musím rozmyslet. Pokud se spojím s elfy, budu muset bojovat s "
-"bandity - a pokud se přidám k banditům, znepřátelím si zase elfy..."
+"Klid, nechte mne přemýšlet! <i>Musím to důkladně uvážit... Pokud se "
+"přikloním na stranu elfů, budu muset bojovat s bandity, ale když se "
+"s bandity spojím, znepřátelím si elfy...</i>"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:752
-#, fuzzy
-#| msgid ""
-#| "Your crimes are too great. You will fall with the rest of the foul undead!"
 msgid "Your crimes are too great. You will fall with the foul undead!"
 msgstr ""
-"Vaše zločiny nemají obdoby. Padnete spolu se zbytkem odporných nemrtvých!"
+"Vaše zločiny jsou příliš velké. Padnete spolu s těmi odpornými nemrtvými!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:756
-#, fuzzy
-#| msgid ""
-#| "Then this parley is over! You may have sounded the doom of all of us!"
 msgid "Then this parley is over! You may have caused the doom of all of us!"
-msgstr ""
-"Pak je toto vyjednávání ukončeno! Nejspíše jste rozhodli o zkáze nás všech!"
+msgstr "Pak je toto vyjednávání skončeno! Možná jsi přivodil zkázu nás všech!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:762
