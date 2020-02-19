@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-02-17 22:48+0100\n"
+"PO-Revision-Date: 2020-02-19 22:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4650,7 +4650,7 @@ msgid ""
 "leave immediately. I am Kalenz, High Lord of the Elves. Delfador the Great "
 "will confirm the treaty between us."
 msgstr ""
-"Generálové Wesnotští! Zaútočili jste na nechráněné elfí území. Urychleně "
+"Generálové wesnothští! Zaútočili jste na nechráněné elfí území. Urychleně "
 "musíte opustit tyto země. Jsem Kalenz, nejvyšší lord elfů. Delfador Veliký "
 "jistě potvrdí dohody mezi námi uzavřené."
 
@@ -4661,8 +4661,8 @@ msgid ""
 "throne, claim it for Wesnoth and Queen Asheviere. Delfador does not rule in "
 "Wesnoth!"
 msgstr ""
-"Od teď toto není území elfů. Já, Eldred, Princ Wesnothu a dědic trůnu, "
-"zabírám tuto zemi pro království Wesnothské a královnu Ašvíru. Delfador není "
+"Od teď toto není území elfů. Já, Eldred, princ Wesnothu a dědic trůnu, "
+"zabírám tuto zemi pro království wesnothské a královnu Ašvíru. Delfador není "
 "tím, kdo vládne Wesnothu!"
 
 #. [message]: id=Kalenz
@@ -4719,9 +4719,9 @@ msgid ""
 "us?"
 msgstr ""
 "Byl bych rád, kdyby zde nebyla Krelanova kniha; kdo ví, zda za tím nestojí. "
-"Kniha sama o sobě není zlem, ale moc, kterou je prosycena, umocňuje zlo v "
-"duši každého, kdo ji použije. Delfadore, je ještě někdo jiný krom tebe, kdo "
-"nahlédl do tajů knihy od toho okamžiku, kdy jsi ji od nás převzal?"
+"Kniha sama o sobě není zlem, ale moc, kterou je prosycena, umocňuje zlo "
+"v duši každého, kdo ji použije. Delfadore, je ještě někdo jiný krom tebe, "
+"kdo nahlédl do tajů knihy od toho okamžiku, kdy jsi ji od nás převzal?"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:241
@@ -4731,16 +4731,16 @@ msgid ""
 "ceased all such talk when I did not respond, and I thought it merely the "
 "momentary whim of a proud and willful woman."
 msgstr ""
-"Myslím, že ne. Ale... Ašvíra, Garardova královna a Eldredova matka, se mě po "
-"mnoho měsíců snažila přimět, abych ji učil umění magie. Přestala o tom "
-"mluvit, když jsem na její žádosti nereagoval, a myslel jsem si, že šlo pouze "
-"o chvilkový rozmar hrdé a svéhlavé ženy."
+"Myslím, že ne. Ale... Ašvíra, Garardova královna a Eldredova matka, se mě po "
+"mnoho měsíců snažila přimět, abych ji učil umění magie. Přestala o tom "
+"mluvit, když jsem na její žádosti nereagoval, a myslel jsem si, že šlo pouze "
+"o chvilkový rozmar hrdé a svéhlavé ženy."
 
 #. [message]: id=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:245
 msgid "I wonder if we have not dangerously misjudged her..."
 msgstr ""
-"Zajímalo by mne, jestli jsem ji v tomto ohledu nebezpečně nepodcenil..."
+"Zajímalo by mne, jestli jsme ji v tomto ohledu nebezpečně nepodcenili..."
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:249
@@ -4749,9 +4749,9 @@ msgid ""
 "Palace more swiftly than I came here, even if I have to kill three horses "
 "under me to do it."
 msgstr ""
-"Možná tomu tak je. Nyní, když tak o tom přemýšlím, myslím, že nejrozumnější "
+"Možná tomu tak je. Nyní, když tak o tom přemýšlím, myslím, že nejrozumnější "
 "bude, když se urychleně vrátím zpět do paláce. Budu spěchat víc než cestou "
-"sem, kdybych měl uštvat i tři koně."
+"sem, i kdybych měl uštvat tři koně."
 
 #. [side]
 #. [modify_side]
