@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-02-18 21:26+0100\n"
+"PO-Revision-Date: 2020-02-20 23:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2099,7 +2099,7 @@ msgstr "Urza Afalas zemře"
 #. There is a second one, a few hexes next to him, the player most likely saw him already.
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:429
 msgid "He was not alone."
-msgstr "Nebyl sám."
+msgstr "Nebyl jediný."
 
 #. [message]: speaker=second_unit
 #. [message]: speaker=Sir Gerrick
@@ -2385,14 +2385,9 @@ msgstr "Dobrá. Všichni lidé se musí spojit proti nemrtvým."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:834
-#, fuzzy
-#| msgid ""
-#| "We will now fight alongside you. Come, my thugs and footpads, rally to me!"
 msgid ""
 "Excellent, we will fight with you. Come, my thugs and footpads, rally to me!"
-msgstr ""
-"Budeme bojovat po vašem boku, a dám vám k dispozici mé lupiče a lapky. Ke "
-"mně!"
+msgstr "Skvěle, budeme bojovat společně. Pojďte ke mně, moji lupiči a lapkové!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:840
@@ -2421,7 +2416,7 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:852
 msgid ""
 "The elves have abandoned us in this accursed forest! We are surely lost!"
-msgstr "Elfové nás opustili v tomhle prokletém lese! Jsme dozajista ztraceni!"
+msgstr "Elfové nás v tomhle prokletém lese opustili! Jsme dozajista ztraceni!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:857
@@ -2429,6 +2424,8 @@ msgid ""
 "Do not fear! I know the way out and can lead you back to your homes after we "
 "defeat the undead."
 msgstr ""
+"Nebojte se! Vím, jak se odtud dostat a až porazíme nemrtvé, dokážu vás "
+"dovést zpátky do vašich domovů."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:901
@@ -2436,6 +2433,8 @@ msgid ""
 "Urza Afalas’s troops are exhausted from battle and cannot attack this turn, "
 "but are still able to withdraw and reposition themselves."
 msgstr ""
+"Oddíly Urzy Afalase jsou vyčerpané z bitvy a toto kolo nemohou útočit, ale "
+"stále jsou schopny se stáhnout a přemístit."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:933
