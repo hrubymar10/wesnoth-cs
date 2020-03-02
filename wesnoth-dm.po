@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-02-22 11:30+0100\n"
+"PO-Revision-Date: 2020-03-02 22:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4845,12 +4845,12 @@ msgstr "Nepřátelská jednotka dosáhne rozcestníku"
 #. [note]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:146
 msgid "Enemy rider units will go for a signpost"
-msgstr "Nepřátelský jezdec dosáhne rozcestníku"
+msgstr "Nepřátelští jezdci budou směřovat k rozcestníku"
 
 #. [note]
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:155
 msgid "All enemy units will go for a signpost"
-msgstr "Všechny nepřátelské jednotky dosáhnou rozcestníku"
+msgstr "Všechny nepřátelské jednotky budou směřovat k rozcestníku"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:173
@@ -4870,8 +4870,8 @@ msgid ""
 "be able to link this to you or the elves."
 msgstr ""
 "Prokletí knihy má na tebe čím dál větší vliv, příteli. My ale nesmíme "
-"přestat. Tak jak jsi požadoval, získali jsme skřetí zbraně. Nikdo tak nebude "
-"schopen najít jakoukoli spojitost s tebou či elfy."
+"přestat. Získali jsme skřetí zbraně, jak jsi požadoval. Nikdo tak nebude "
+"schopen najít jakoukoli spojitost s tebou či elfy."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:181
@@ -4884,8 +4884,8 @@ msgid ""
 "Elves! And that traitor, Delfador is with them! Riders, quickly, go alert "
 "the queen. And guards, prepare to strike them down!"
 msgstr ""
-"Elfové! A ten zrádce Delfador je s nimi! Jezdci na vrrcích, rychle, vyřiďte "
-"to královně! Stráže, připravte se je pobít!"
+"Elfové! A ten zrádce Delfador je s nimi! Jezdci, rychle, vyřiďte to "
+"královně. A stráže, připravte se je pobít!"
 
 #. [message]: id=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:341
@@ -4895,7 +4895,7 @@ msgstr "Stráže jsou mrtvé. Nyní se musíme poohlédnout po knize."
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:346
 msgid "Find the secret door to enter the manor"
-msgstr "Nový úkol scénáře: Najdi tajné dveře a prozkoumej sídlo"
+msgstr "Najdi tajné dveře pro vstup do panského sídla"
 
 #. [message]: id=$unit.id
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:372
