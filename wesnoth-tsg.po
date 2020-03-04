@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-03-01 08:38+0100\n"
+"PO-Revision-Date: 2020-03-04 20:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2128,16 +2128,10 @@ msgstr "Dva nemrtví vůdci padli."
 #. [message]: speaker=Minister Hylas
 #. In this case, the player knows that there is one more enemy.
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:515
-#, fuzzy
-#| msgid ""
-#| "Surely the undead infestation cannot be dispatched so easily. We have "
-#| "merely destroyed a servant of a far darker master."
 msgid ""
 "Indeed, though we have merely destroyed the servants of a far more powerful "
 "master."
-msgstr ""
-"Nemrtví nemohou být zničeni jen tak snadno. Pravděpodobně to byl jen "
-"služebník temného vládce."
+msgstr "Jistě, ačkoli jsme pouze zničili služebníky daleko mocnějšího pána."
 
 #. [message]: speaker=Minister Hylas
 #. In this case, the player knows that there is one more enemy.
@@ -2147,10 +2141,8 @@ msgstr "Tihle byli pouze služebníky daleko mocnějšího pána."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:535
-#, fuzzy
-#| msgid "One less evil in this forest."
 msgid "One fewer evil in this forest."
-msgstr "Jeden méně nepřátelský v lese."
+msgstr "O jedno zlo v tomhle lese méně."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:569
@@ -2383,13 +2375,6 @@ msgstr "Skvěle, budeme bojovat společně. Pojďte ke mně, moji lupiči a lap
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:840
-#, fuzzy
-#| msgid ""
-#| "You are no better than these criminals! We shall see if you can find your "
-#| "own way out of the forest! Come, my people, let us return to our lands. "
-#| "We were foolish to ever have any dealings with these humans. Do not set "
-#| "foot in our land ever again, Deoran, for you have brought us nothing but "
-#| "grief."
 msgid ""
 "So it comes to this. All humans are the same! You are no better than these "
 "criminals, the very pigs who sacked your towns and burned your villages! If "
@@ -2399,10 +2384,13 @@ msgid ""
 "not set foot in our land ever again, humans, for you have brought us nothing "
 "but grief."
 msgstr ""
-"Nejste o nic lepší než ti zločinci! Uvidíme, zda najdete sami cestu z lesa! "
-"Můj lide, vraťme se do našich zemí. Byli jsme trestuhodně pošetilí, když "
-"jsme jednali s lidmi! Deorane, už nikdy nevkroč do našich zemí, neboť jsi "
-"nám nepřinesl nic než smutek."
+"Tak už je to tady. Všichni lidé jsou stejní! Nejste o nic lepší než ti "
+"zločinci, ty samé svině, které vyplenily vaše města a vypálily vaše vesnice! "
+"Když jste natolik stateční, abyste odvrhli pomoc elfů, pak máte dost odvahy "
+"na to, najít si v tomhle lese vlastní cestu! Pojďte, moji elfové, vraťme se "
+"do našich zemí. Byli jsme pošetilí, už když jsme si s těmi muži začali. Už "
+"nikdy znovu nevstupujte do naší země, lidé, protože jste nám nepřinesli nic "
+"než zármutek."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:852
