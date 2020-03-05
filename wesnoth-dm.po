@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-03-02 22:43+0100\n"
+"PO-Revision-Date: 2020-03-05 22:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4954,8 +4954,8 @@ msgstr "Poslední lahvička, Kalenzi. Pečlivě tedy zvol, komu ji dáš."
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:142
 msgid "So, we meet again, Delfador! This time you will not steal what is mine!"
 msgstr ""
-"Tak jsem se znovu setkali, Delfadore. Dnes mi ale neukradneš nic, co mi "
-"právem náleží!"
+"Tak jsme se znovu setkali, Delfadore! Dnes ale neukradneš nic, co mi právem "
+"náleží!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:146
@@ -4968,22 +4968,21 @@ msgid ""
 "I am the one whose place you took in the court of Wesnoth. But my daughter "
 "brought me what you seek, and I have seized the power of it."
 msgstr ""
-"Jsem jedním z těch, kterým jsi ukradl jejich místo u dvora krále Wesnothu! "
-"Ale má dcera mi přinesla to, po čem jsem tak dlouho pátral. A já jsem ovládl "
-"její moc!"
+"Jsem jedním z těch, kterým jsi zabral jejich místo u dvora krále Wesnothu. "
+"Ale má dcera mi přinesla to, co hledáš a já ovládl moc, kterou to má."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:155
 msgid "Asheviere is this thing’s daughter?"
-msgstr "Ašvíra je dcerou té věci?"
+msgstr "Ašvíra je dcerou téhle věci?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:159
 msgid ""
 "I fear so. This was the Arch-Mage Sagus. He was a good man when I knew him."
 msgstr ""
-"Také se bojím. Byl to Arcimág Sagus. Znal jsem jej jako dobrého a velkého "
-"muže."
+"Obávám se, že je to tak. Byl to arcimág Sagus. Znal jsem jej jako dobrého "
+"a velkého muže."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:163
@@ -5032,8 +5031,8 @@ msgid ""
 "The book is recovered, but the damage is done. Friends, thank you. Now let’s "
 "get out of here!"
 msgstr ""
-"Kniha byla zachráněna, ale zlo již bylo vykonáno. Přátelé, děkuji vám. A "
-"nyní rychle odsud pryč!"
+"Kniha je zachráněna, ale zlo již bylo vykonáno. Přátelé, děkuji vám. A nyní "
+"rychle odsud pryč!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:227
