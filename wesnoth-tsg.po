@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-03-04 20:19+0100\n"
+"PO-Revision-Date: 2020-03-07 20:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2440,7 +2440,7 @@ msgstr "Graar!"
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1004
 msgid "Ouch! Did anyone feel that?"
-msgstr ""
+msgstr "Au! Cítil to někdo?"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1008
@@ -2623,17 +2623,13 @@ msgstr ""
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1154
-#, fuzzy
-#| msgid "Now, on with those bandits!"
 msgid "Now to defeat those bandits!"
-msgstr "Nyní pojďme na tyto bandity!"
+msgstr "Teď porazit ty bandity!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1185
-#, fuzzy
-#| msgid "We have beaten them both, criminals and undead!"
 msgid "We have beaten them both, outlaws and undead!"
-msgstr "Porazili jsme je všechny, bandity i nemrtvé!"
+msgstr "Porazili jsme je všechny, psance i nemrtvé!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1190
@@ -5029,16 +5025,13 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:107
-#, fuzzy
-#| msgid "Far from home I fall — but not in vain! Guard our people, Deoran!"
 msgid "Far from home I fall — but not in vain! Defend our people, Deoran!"
-msgstr ""
-"Padl jsem tak daleko od domova — ale ne zbytečně! Ochraňuj náš lid, Deorane!"
+msgstr "Umírám daleko od domova – ale ne zbytečně! Braň náš lid, Deorane!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:112
 msgid "Far from home I fall — but not in vain!"
-msgstr "Padl jsem tak daleko od domova — ale ne zbytečně!"
+msgstr "Umírám daleko od domova – ale ne zbytečně!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:29
