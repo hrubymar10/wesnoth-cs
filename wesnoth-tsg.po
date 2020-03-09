@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-03-07 20:20+0100\n"
+"PO-Revision-Date: 2020-03-09 23:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2633,26 +2633,15 @@ msgstr "Porazili jsme je všechny, psance i nemrtvé!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1190
-#, fuzzy
-#| msgid ""
-#| "We should make haste to return to Wesnoth before the harvest. Fall "
-#| "arrived some time ago."
 msgid ""
 "We should make haste to return to Wesnoth. I think the fall harvest should "
 "be soon!"
 msgstr ""
-"Měli bychom si pospíšit, abychom se vrátili do Wesnothu před žněmi. Podzim "
-"již začal."
+"Měli bychom si pospíšit s návratem do Wesnothu. Myslím, že by měla být brzy "
+"podzimní sklizeň!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1194
-#, fuzzy
-#| msgid ""
-#| "Do not be so hasty; great mages are no mere tricksters to be easily "
-#| "defeated. I fear that there are tunnels and catacombs buried beneath the "
-#| "fortress and that we have merely defeated a specter. If we wish to "
-#| "cleanse the land of this evil, we must enter the darkness and root it out "
-#| "from within."
 msgid ""
 "Do not be so hasty. Powerful mages are not so easily defeated, and those "
 "skilled in the dark arts are especially adept at misdirection. There are "
@@ -2660,15 +2649,16 @@ msgid ""
 "great, dark energy. If we wish to cleanse the land of this evil, we must "
 "enter the crypt and root it out from within."
 msgstr ""
-"Nebuď tak zbrklý! Velcí mágové nejsou nějací snadno porazitelní kejklíři. "
-"Obávám se, že pod touto pevností najdeme katakomby a že to, co jsme "
-"porazili, byl pouze přízrak. Jestliže zamýšlíme očistit zemi od jeho zla, "
-"musíme vstoupit do podzemí a vymýtit jej odtamtud."
+"Nebuď tak ukvapený. Mocní mágové se nedají jen tak jednoduše porazit a ti, "
+"kteří se vyznají v temných uměních, jsou zvlášť zběhlí v tom, zavést někoho "
+"na scestí. Pod touto pevností je ukryto mnoho tunelů a katakomb, ze kterých "
+"vyzařuje ohromná temná síla. Jestli chceme očistit zemi od tohoto zla, "
+"musíme vstoupit do krypty a vykořenit ho zevnitř."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1198
 msgid "Very well, but where is the entrance?"
-msgstr ""
+msgstr "Dobře tedy, ale kde je vchod?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1202
