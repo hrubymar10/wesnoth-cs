@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-03-09 23:17+0100\n"
+"PO-Revision-Date: 2020-03-12 23:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2637,7 +2637,7 @@ msgid ""
 "We should make haste to return to Wesnoth. I think the fall harvest should "
 "be soon!"
 msgstr ""
-"Měli bychom si pospíšit s návratem do Wesnothu. Myslím, že by měla být brzy "
+"Měli bychom si pospíšit s návratem do Wesnothu. Myslím, že by brzy měla být "
 "podzimní sklizeň!"
 
 #. [message]: speaker=Ethiliel
@@ -2668,6 +2668,10 @@ msgid ""
 "and get what rest you can. We are likely to face fierce opposition once we "
 "enter the caverns."
 msgstr ""
+"Jsou tu silné magické ochrany, které ukryly cestu a brání nám vstoupit, ale "
+"dokážu je rozptýlit. Nějaký čas to potrvá, tak se držte zpátky a odpočiňte "
+"si, jak můžete. Jakmile vstoupíme do jeskyň, budeme pravděpodobně čelit "
+"zuřivému odporu."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1206
@@ -2675,6 +2679,8 @@ msgid ""
 "Indeed. We will leave you to your work and prepare ourselves for the coming "
 "battle."
 msgstr ""
+"Jistě. Necháme tě věnovat se své práci a sami se připravíme na nadcházející "
+"bitvu."
 
 #. [scenario]: id=06a_Tidings_Good_and_Ill
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:5
