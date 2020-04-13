@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-02-01 18:13+0100\n"
+"PO-Revision-Date: 2020-04-13 22:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [scenario]: id=22_The_Rise_of_Wesnoth
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -80,7 +80,7 @@ msgid ""
 "\n"
 msgstr ""
 "Veď prince Haldrika skrz zničení Zeleného ostrova a napříč oceánem k "
-"založení vlastního království Wesnothu. Utkání s Pánem Lichů - Jevyanem "
+"založení vlastního království Wesnothu. Utkání s Pánem Lichů – Jevyanem "
 "čeká...\n"
 "\n"
 
@@ -650,6 +650,7 @@ msgid ""
 "Run, meat, run! Sooner or later, you will tire and our wolves will hunt you "
 "down!"
 msgstr ""
+"Běž, maso, utíkej! Dřív nebo později se unavíš a naši vlci tě dostanou!"
 
 #. [message]: speaker=Tan-Erang
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:214
@@ -978,8 +979,8 @@ msgid ""
 "SE — The River Road.\n"
 "SW — The Midlands."
 msgstr ""
-"Jihovýchod — Říční cesta.\n"
-"Jihozápad — Střední oblast."
+"Jihovýchod – Říční cesta.\n"
+"Jihozápad – Střední oblast."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:265
@@ -1014,7 +1015,7 @@ msgid ""
 "<i>Swamp</i>?! I’m under five feet tall, and I don’t float! ... Argh, have "
 "it your way."
 msgstr ""
-"<i>Bažina</i>! Nemám ani pět stop vejšky — a neplavu! ... Ále, ať je po "
+"<i>Bažina</i>! Nemám ani pět stop vejšky – a neplavu! ... Ále, ať je po "
 "vašem."
 
 #. [option]
@@ -1033,7 +1034,7 @@ msgid ""
 "It’s better than the swamp. I’m under five feet tall, and I don’t float! "
 "Besides, I’d rather enjoy meeting more orcs."
 msgstr ""
-"Je to lepší než bažina. Nemám ani pět stop — a neplavu! Krom toho bych si "
+"Je to lepší než bažina. Nemám ani pět stop – a neplavu! Krom toho bych si "
 "setkání s dalšími skřety pěkně užil."
 
 #. [message]: speaker=Tan-NauVong
@@ -1259,7 +1260,7 @@ msgid ""
 "SW — The Oldwood Forest.\n"
 "Enter at Your Own Risk!"
 msgstr ""
-"Jihozápad — Starý les.\n"
+"Jihozápad – Starý les.\n"
 "Vstup pouze na vlastní nebezpečí!"
 
 #. [message]: speaker=Lollyra
@@ -1450,12 +1451,12 @@ msgstr "Sklapni zobák! Prostě je dostaňte!"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:219
 msgid "SE — The Oldwood. Enter at Your Own Risk!"
-msgstr "Jihovýchod — Starý les. Vstup na vlastní nebezpečí!"
+msgstr "Jihovýchod – Starý les. Vstup na vlastní nebezpečí!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:240
 msgid "SW — Southbay."
-msgstr "Jihozápad — Jižní záliv."
+msgstr "Jihozápad – Jižní záliv."
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:264
@@ -2008,7 +2009,7 @@ msgid ""
 "apple, and burns with an internal fire, which is refracted through its "
 "faces. You can feel the power flowing from it..."
 msgstr ""
-"Jak otevíráš truhlu, vidíš jej — Ohnivý rubín. Je velkosti jablka a žhne "
+"Jak otevíráš truhlu, vidíš jej – Ohnivý rubín. Je velkosti jablka a žhne "
 "vnitřním ohněm, který se láme na jeho vybroušených plochách. Cítíš, jak z "
 "něj proudí síla..."
 
@@ -2518,7 +2519,7 @@ msgstr ""
 "tlačí. Král nezanechal žádného dědice, ale ostatní urození prchli do Jižního "
 "zálivu. Byli jsme plně zaměstnáni přepravou zbytku obyvatel do bezpečí. "
 "Armáda nám zajistila dostatek času k záchraně téměř všech našich lidí, a "
-"také větší části zimních zásob. Všichni odešli do Jižního zálivu - to město "
+"také větší části zimních zásob. Všichni odešli do Jižního zálivu – to město "
 "musí zřejmě přetékat uprchlíky."
 
 #. [message]: speaker=Commander Aethyr
@@ -2623,7 +2624,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:434
 msgid "An ode to ye, on yer way, I hope you have a brighter day!"
-msgstr "Na cestu provázím tě básní — ať slunce dny tvé projasní!"
+msgstr "Na cestu provázím tě básní – ať slunce dny tvé projasní!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:455
@@ -2633,7 +2634,7 @@ msgstr "Brod u zakopané kotvy"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:476
 msgid "The River Road — To the Swamp of Esten."
-msgstr "Říční cesta — k bažině Estenu"
+msgstr "Říční cesta – k bažině Estenu"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:574
@@ -2764,8 +2765,8 @@ msgid ""
 "study, the Book of Fire and Darkness, was petrified along with him."
 msgstr ""
 "Ehm, ano... Byl to Caror, arcirival našeho draze zesnulého lorda-liche "
-"Lenvana. Dychtil po rubínu a studoval ho. Jediný přepis jeho poznámek - "
-"Kniha ohně a temnoty - byl proměněn v kámen spolu s ním."
+"Lenvana. Dychtil po rubínu a studoval ho. Jediný přepis jeho poznámek – "
+"Kniha ohně a temnoty – byl proměněn v kámen spolu s ním."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:963
@@ -2996,7 +2997,7 @@ msgstr "Obáváš se, že zjistíš, že nejsi královské krve?"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:432
 msgid "This sounds like a job for Prince Haldric, hopefully."
-msgstr "To zní jako práce pro prince Haldrika — doufejme."
+msgstr "To zní jako práce pro prince Haldrika – doufejme."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:445
@@ -3006,12 +3007,12 @@ msgstr "Lord-lich je už volný."
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:468
 msgid "NW — Southbay."
-msgstr "Severovýchod — Jižní záliv"
+msgstr "Severovýchod – Jižní záliv"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:473
 msgid "More like ‘NW — Every orc on the Isle’. Hmph!"
-msgstr "Spíš „Severovýchod — všichni skřeti, co jsou na ostrově“. Chm."
+msgstr "Spíš ‚Severovýchod – všichni skřeti, co jsou na ostrově‘. Chm."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:504
@@ -3041,7 +3042,7 @@ msgstr "Rarlg"
 #. [message]: speaker=Rarlg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:565
 msgid "Rarlg — argh, a raul-rarlg!"
-msgstr "Rarlak - ark, a raul-rarlak!"
+msgstr "Rarlak – ark, a raul-rarlak!"
 
 #. [message]: speaker=Prince Haldric
 #. [message]: speaker=Ut'Tan-Grilg
@@ -3086,7 +3087,7 @@ msgstr "Slyším, jak přicházejí jejich posily! Jsme v pasti. Vše je ztracen
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:659
 msgid "Sewer — Danger Keep Out!"
-msgstr "Stoka. Nebezpečí — nevstupovat!"
+msgstr "Stoka. Nebezpečí – nevstupovat!"
 
 #. [scenario]: id=10_Sewer_of_Southbay
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:5
@@ -3195,7 +3196,7 @@ msgid ""
 "happens to be strong in the ways of magic can sense that ruby? Elilmaldur-"
 "Rithrandil felt it, and so did Lich-Lord Caror, now these two."
 msgstr ""
-"Haldriku, je tu cosi, co mne naplňuje předtuchou. Ten rubín — všiml sis, že "
+"Haldriku, je tu cosi, co mne naplňuje předtuchou. Ten rubín – všiml sis, že "
 "kdokoli, kdo je zběhlý v umění magie, jej dokáže vycítit? Elilmaldur-"
 "Rithrandil ho cítil, stejně tak lord-lich Caror, a teď ti dva."
 
@@ -3258,7 +3259,7 @@ msgstr "Kupředu? Zatím tu bylo nebezpečí všude."
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:399
 msgid "Finally, on to Southbay!"
-msgstr "Konečně - kupředu do Jižního zálivu!"
+msgstr "Konečně – kupředu do Jižního zálivu!"
 
 #. [scenario]: id=11_Southbay_in_Winter
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:4
@@ -3610,8 +3611,8 @@ msgid ""
 "Humph. Fool of a boy’s just gonna burn us all up. Humans, always playing at "
 "being wizards."
 msgstr ""
-"Ehm. Hloupý chlapec se nás právě všechny chystá spálit. Lidé — hrají si na "
-"kouzelníky jako obvykle."
+"Ehm. Hloupý chlapec se nás právě všechny chystá spálit. Ti lidé – hrají si "
+"na kouzelníky jako obvykle."
 
 #. [message]: speaker=Southbay Guard 1
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:369
@@ -3751,7 +3752,7 @@ msgstr ""
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:488
 msgid ""
 "You monster! You’ve betrayed our people — to ally yourself with these orcs?!"
-msgstr "Ty stvůro! Zradil jsi naše lidi - aby ses spolčil s těmito skřety?!"
+msgstr "Ty stvůro! Zradil jsi naše lidi – aby ses spolčil s těmito skřety?!"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:491
@@ -4660,7 +4661,7 @@ msgid ""
 "Ahh, you have defeated the dragon, man of the west-north, you are truly "
 "impressive for a human."
 msgstr ""
-"Á, porazil jsi draka, muži ze severozápadu, jsi vskutku úchvatný — na "
+"Á, porazil jsi draka, muži ze severozápadu, jsi vskutku úchvatný – na "
 "člověka."
 
 #. [message]: speaker=Lord Aryad
@@ -5331,7 +5332,7 @@ msgid ""
 "far. Who’d have thought, a nautical dwarf."
 msgstr ""
 "Říkal jsem už žádné lodě. Podrazáčtí lidé!\n"
-"Ále, už jsem s vámi tak dlouho. Kdo by to byl řekl — trpaslík námořníkem."
+"Ále, už jsem s vámi tak dlouho. Kdo by to byl řekl – trpaslík námořníkem."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:342
@@ -5424,7 +5425,7 @@ msgid ""
 "and never real at all."
 msgstr ""
 "Osud je tedy následoval z jejich starého domova sem. Mí rychlí jezdci mne "
-"zpravili, že se skřeti vylodili. Skřeti, vrazi stromů zde — poprvé po "
+"zpravili, že se skřeti vylodili. Skřeti, vrazi stromů zde – poprvé po "
 "staletích. A to si někteří mysleli, že jsou to strašáci z pohádek pro malé "
 "děti!"
 
@@ -5954,7 +5955,7 @@ msgstr ""
 msgid ""
 "My people are like a rock slide, you can run, but we will crush you... Ahhck!"
 msgstr ""
-"Moji lidé jsou jako padající balvan — můžeš utíkat, ale rozdrtíme tě... Ách!"
+"Moji lidé jsou jako padající balvan – můžeš utíkat, ale rozdrtíme tě... Ách!"
 
 #. [message]: speaker=Tan-Rinak
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:589
@@ -6315,7 +6316,7 @@ msgid ""
 "orcish scum!"
 msgstr ""
 "Neměl bys dávat elfům takové hračky! Pche! Mně na tom nesejde. Nejsem "
-"kouzelník. Vše co mám, je má sekyra. Hi, hi. To je vše, co potřebuji — "
+"kouzelník. Vše co mám, je má sekyra. Hi, hi. To je vše, co potřebuji – "
 "připrav se na smrt, ty skřetí chátro!"
 
 #. [message]: speaker=Minister Edren
@@ -6484,7 +6485,7 @@ msgstr "Elfi mít Ohnivý kámen, mi prchnout muset. K lodím!"
 msgid ""
 "We have many kinsmen on the Green Isle— we will return for the Ruby of Fire!"
 msgstr ""
-"Na Zeleném ostrově máme spoustu příbuzných - vrátíme se pro Ohnivý rubín!"
+"Na Zeleném ostrově máme spoustu příbuzných – vrátíme se pro Ohnivý rubín!"
 
 #. [message]: speaker=Tan-Prodash
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:725
@@ -6750,7 +6751,7 @@ msgid ""
 "Humph. I suspected as much — from both the elves and you. Humans and elves "
 "always think they’re so clever!"
 msgstr ""
-"Hmmph. To jsem tak nějak očekával — jak od elfů tak od vás. Lidé a elfové si "
+"Hmmph. To jsem tak nějak očekával – jak od elfů tak od vás. Lidé a elfové si "
 "myslí, kdoví jak nejsou chytří!"
 
 #. [message]: speaker=Minister Edren
@@ -7054,7 +7055,7 @@ msgid ""
 "become a Lord — to join the elite of humanity."
 msgstr ""
 "Tento dnes ještě mladík je svou oddaností ke koruně předurčen stát se Lordem "
-"— a přidat se k elitě lidského rodu."
+"– a přidat se k elitě lidského rodu."
 
 #. [attack]: type=impact
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Noble_Youth.cfg:22
