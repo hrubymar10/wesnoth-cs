@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-13 22:50+0200\n"
+"PO-Revision-Date: 2020-04-14 22:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -79,8 +79,8 @@ msgid ""
 "with Lich-Lord Jevyan awaits...\n"
 "\n"
 msgstr ""
-"Veď prince Haldrika skrz zničení Zeleného ostrova a napříč oceánem k "
-"založení vlastního království Wesnothu. Utkání s Pánem Lichů – Jevyanem "
+"Veď prince Haldrika skrz zničení Zeleného ostrova a napříč oceánem "
+"k založení samotného království Wesnothu. Utkání s lordem-lichem Jevyanem "
 "čeká...\n"
 "\n"
 
@@ -434,8 +434,9 @@ msgid ""
 "Trouble your lands! Bah! Your fool Prince of Southbay has attacked our "
 "lands. The Lich-Lords had no choice... They opened a gate... and..."
 msgstr ""
-"Dělat potíže ve vašich zemích! Pche! Váš pošetilý princ z Jižního zálivu "
-"zaútočil na naše země. Lordi-lichové neměl na výběr... Otevřeli bránu... a..."
+"Dělat potíže ve vašich zemích! Pche! Váš pošetilý princ z Jižního zálivu "
+"zaútočil na naše země. Lordi-lichové neměli na výběr... Otevřeli bránu... "
+"a..."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:234
@@ -1111,8 +1112,8 @@ msgid ""
 msgstr ""
 "Říční cesta sleduje největší řeku ostrova na jihovýchod. Cesta vede do "
 "druhého největšího města ostrova, přístavu Jasných vod. Nebýt událostí ve "
-"válce s Wesany, bylo by pravděpodobně největším městem na ostrově. Lordi-"
-"lichové poskvrnili mnoho země okolo řeky během velké bitvy. Vzniklá bažina "
+"válce s Wesany, bylo by pravděpodobně největším městem na ostrově. Během "
+"velké bitvy lordi-lichové poskvrnili mnoho země v okolí řeky. Vzniklá bažina "
 "je nyní domovem uctívačů napodobujících Wesany."
 
 #. [side]: type=Dark Sorcerer, id=Cleon
@@ -1476,7 +1477,7 @@ msgstr "Vrogar"
 #. [message]: speaker=Vrogar
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:309
 msgid "They’re attacking the chief! Kill the meat before it gets any farther!"
-msgstr ""
+msgstr "Oni útočí na náčelníka! Zabte to maso, než se dostane někam dál!"
 
 #. [message]: speaker=Tan-Hogar
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:322
@@ -1789,7 +1790,7 @@ msgid ""
 msgstr ""
 "Můj lid je vázán na les, vně našich hranic bychom ti nebyli příliš k užitku. "
 "Možná bychom ti ale stejně mohli pomoci. Před časem v jedné válce vašich "
-"lidí nalákal do pasti jeden z vašich králů zlého liche v katakombách svatyně "
+"lidí nalákal do pasti jeden z vašich králů zlého licha v katakombách svatyně "
 "v srdci lesa. Byli jsme tam, sledovali jsme to."
 
 #. [message]: speaker=Elilmaldur-Rithrandil
@@ -1928,7 +1929,7 @@ msgstr ""
 #. [side]: type=Lich, id=Lich-Lord Lenvan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:44
 msgid "Lich-Lord Lenvan"
-msgstr "Pán lichů Lenvan"
+msgstr "Lord-lich Lenvan"
 
 #. [side]: type=Lich, id=Lich-Lord Caror
 #. [side]: type=Lich, id=Lich-Lord Lenvan
@@ -1944,7 +1945,7 @@ msgstr "Nemrtví"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:103
 msgid "Defeat the Lich-Lord"
-msgstr "Poraz Pána lichů"
+msgstr "Poraz lorda-licha"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:107
@@ -2034,8 +2035,8 @@ msgid ""
 "I’m glad that’s over! We have the Ruby of Fire, and that Lich-Lord is now a "
 "pile of dust, let’s get out of these catacombs!"
 msgstr ""
-"Jsem šťasten, že je to za námi. Ohnivý rubín jsme získali a z lorda-liche je "
-"teď hromada prachu, pojďme ven z této hrobky!"
+"Jsem šťasten, že je to za námi. Ohnivý rubín jsme získali a z lorda-licha je "
+"teď hromada prachu. Pojďme ven z těchto katakomb!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:314
@@ -2089,7 +2090,7 @@ msgid ""
 "It is late into the fall, and the first snows should fall any day. Prince "
 "Haldric has returned to his forest keep, and is pondering what to do next..."
 msgstr ""
-"Princ Haldrik se vynořil z hrobky lorda-liche s Ohnivým rubínem. Les se toho "
+"Princ Haldrik se vynořil z hrobky lorda-licha s Ohnivým rubínem. Les se toho "
 "dne zdál obzvlášť jasný, i když vanul studený vánek. Podzim pomalu končil a "
 "kdykoliv mohl začít padat sníh. Princ Haldrik se vrátil do své lesní tvrze, "
 "přemítaje, co dělat dál..."
@@ -2311,7 +2312,7 @@ msgid ""
 "Lich-Lords, but I do know that no orc is going to tolerate living humans "
 "outside of the slave mines or worse, stew pots!"
 msgstr ""
-"A nyní jsem uprchlíkem stejně tak jako ty. Popravdě řečeno nevím, zda lordi-"
+"A nyní jsem uprchlíkem stejně tak jako ty. Popravdě řečeno nevím, zda lordi-"
 "lichové se skřety spolupracují, nebo ne. Skřeti se jich mohli zbavit nebo "
 "také nemuseli, avšak co vím, je to, že skřeti nebudou snášet živé lidi jinde "
 "než jako otroky ve svých dolech nebo pochoutku ve svých hrncích!"
@@ -2746,7 +2747,7 @@ msgid ""
 "know that lich you have petrified just outside of Southbay—"
 msgstr ""
 "Máš sice Ohnivý rubín, ale nemáš nejmenší tušení, co umí, že? Znáš toho "
-"liche, kterého jste proměnili v kámen kousek od Jižního zálivu?"
+"licha, kterého jste proměnili v kámen kousek od Jižního zálivu?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:952
@@ -2754,7 +2755,7 @@ msgid ""
 "Yes, Lich Point! Where we first used our magi in battle, and turned the tide "
 "of war against your people."
 msgstr ""
-"Ano, Lichův ostroh! Tam jsme poprvé využili mágy v bitvě, a zvrátili směr "
+"Ano, Lichův ostroh! Tam jsme poprvé využili mágy v bitvě a zvrátili směr "
 "války proti vašim lidem."
 
 #. [message]: speaker=Lady Jessene
@@ -2764,7 +2765,7 @@ msgid ""
 "Lenvan. He coveted the ruby, and was studying it. The only copy of his "
 "study, the Book of Fire and Darkness, was petrified along with him."
 msgstr ""
-"Ehm, ano... Byl to Caror, arcirival našeho draze zesnulého lorda-liche "
+"Ehm, ano... Byl to Caror, arcirival našeho drahého zesnulého lorda-licha "
 "Lenvana. Dychtil po rubínu a studoval ho. Jediný přepis jeho poznámek – "
 "Kniha ohně a temnoty – byl proměněn v kámen spolu s ním."
 
@@ -2839,7 +2840,7 @@ msgstr "Tan-Pulk"
 #. [side]: type=Lich, id=Lich-Lord Caror
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:116
 msgid "Lich-Lord Caror"
-msgstr "Pán Lichů Caror"
+msgstr "Lord-lich Caror"
 
 #. [side]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:137
@@ -5919,7 +5920,7 @@ msgid ""
 msgstr ""
 "To se snáz řekne, než vykoná. I kdybychom ho porazili, další lordi-lichové "
 "ho budou následovat. Kvůli tomu rubínu. Kdybych byla paranoidní, řekla bych "
-"že to náš starý drahý „stromový přítel“ mohl také vědět."
+"že to náš starý drahý ‚stromový přítel‘ mohl také vědět."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:444
