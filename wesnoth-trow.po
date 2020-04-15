@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-14 22:40+0200\n"
+"PO-Revision-Date: 2020-04-15 22:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2102,7 +2102,7 @@ msgid ""
 "So, you have defeated the lich and returned with his jewel of power. The "
 "earth feels happy beneath my toes."
 msgstr ""
-"Tak jste porazili toho liche a vrátili se s jeho klenotem moci. Země pod "
+"Tak jste porazili toho licha a vrátili se s jeho klenotem moci. Země pod "
 "mýma nohama se cítí lehce."
 
 #. [message]: speaker=Prince Haldric
@@ -2781,8 +2781,8 @@ msgid ""
 "My family was from Southbay. My father was a soldier there. The city’s sewer "
 "entrance is near that fossil of a lich."
 msgstr ""
-"Má rodina je z Jižního zálivu, můj otec tam byl vojákem. Vstup do městských "
-"stok je blízko té zkameněliny liche."
+"Má rodina je z Jižního zálivu, můj otec tam byl vojákem. Vstup do městských "
+"stok je blízko té zkameněliny licha."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:973
@@ -2825,7 +2825,7 @@ msgstr ""
 #. [scenario]: id=09_Fallen_Lich_Point
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:4
 msgid "Fallen Lich Point"
-msgstr "Mys padlého liche"
+msgstr "Mys padlého licha"
 
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Grilg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:36
@@ -2850,7 +2850,7 @@ msgstr "Yetiové"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:193
 msgid "Kill the lich to get his book"
-msgstr "Zabij liche, abys získal jeho knihu"
+msgstr "Zabij licha, abys získal jeho knihu"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:197
@@ -2877,8 +2877,8 @@ msgid ""
 "Prince Haldric has arrived at Fallen Lich Point, to retrieve the Lich-Lord "
 "Caror’s Book of Fire and Darkness, and flee into the sewers of Southbay."
 msgstr ""
-"Princ Haldrik přistál u Mysu padlého liche, aby získal Knihu ohně a temnoty "
-"lorda-liche Carora a prchl do stok Jižního zálivu."
+"Princ Haldrik přistál u Mysu padlého licha, aby získal Knihu ohně a temnoty "
+"lorda-licha Carora a prchl do stok Jižního zálivu."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:275
@@ -2920,8 +2920,8 @@ msgid ""
 "There’s an odd monolith standing near here. Maybe it has something to do "
 "with the Lich-Lord... I should investigate more closely."
 msgstr ""
-"Stojí tu jakýsi divný monolit. Třeba má nějakou spojitost s tím lord-"
-"lichem... měl bych se podívat víc zblízka."
+"Stojí tu jakýsi divný monolit. Třeba má nějakou spojitost s tím lordem-"
+"lichem... Měl bych se podívat víc zblízka."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:326
@@ -2934,7 +2934,7 @@ msgid ""
 "Haldric, this looks like a job for you, probably something to do with the "
 "lich. Maybe you should get yourself over here."
 msgstr ""
-"Haldriku, vypadá to že tu máš práci, nejspíš je tu nějaká spojitost s tím "
+"Haldriku, vypadá to, že tu máš práci, nejspíš je tu nějaká spojitost s tím "
 "lichem. Asi bys sem měl jít."
 
 #. [message]: speaker=narrator
@@ -5072,11 +5072,13 @@ msgid ""
 "We already killed the dragon. We really don’t need to be spending this much "
 "time chasing down the rest of these lizards."
 msgstr ""
+"Draka jsme už zabili. Skutečně nemusíme trávit tolik času tím, že budeme "
+"dohánět zbytek těchto ještěrů."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:571
 msgid "You’re right, you’re right. Let’s head back."
-msgstr ""
+msgstr "Máš pravdu, máš pravdu. Vraťme se."
 
 #. [scenario]: id=17b_Lizard_Beach
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17b_Lizard_Beach.cfg:4
