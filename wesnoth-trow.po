@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-15 22:20+0200\n"
+"PO-Revision-Date: 2020-04-16 21:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2945,8 +2945,8 @@ msgid ""
 "To end the spell a noble of the line of Kings should utter the following..."
 msgstr ""
 "Tento monolit jsem postavil já, (<i>odštípnutý kus</i>), první mág dobrých "
-"lidí Zeleného ostrova. Lich jest svázán do kamene jeho mocí. Kouzlo přestane "
-"působit, pronese-li některý vznešený z linie králů tato slova..."
+"lidí Zeleného ostrova. Lord-lich jest svázán do kamene jeho mocí. Kouzlo "
+"přestane působit, pronese-li některý vznešený z linie králů tato slova..."
 
 #. [option]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:375
@@ -2988,7 +2988,7 @@ msgstr ""
 msgid "We have more pressing matters to deal with before we free that lich."
 msgstr ""
 "Máme tu naléhavější záležitosti, se kterými se musíme vypořádat, než "
-"osvobodíme toho liche."
+"osvobodíme toho licha."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:422
@@ -3208,8 +3208,8 @@ msgid ""
 "ruby, even with it in my pack. Let’s work out what it does, before we decide "
 "what to do with it."
 msgstr ""
-"Získali jsme lichovu knihu a já doslova cítím sílu toho rubínu, i ze svého "
-"vaku. Musíme zjistit, co dokáže, než se rozhodneme, co s ním uděláme."
+"Získali jsme knihu lorda-licha a já doslova cítím sílu toho rubínu, i ze "
+"svého vaku. Musíme zjistit, co dokáže, než se rozhodneme, co s ním uděláme."
 
 #. [message]: speaker=Daellyn the Red
 #. [message]: speaker=Tinry the Red
@@ -3584,7 +3584,7 @@ msgid ""
 "Several months pass. Jessene has translated Lich-Lord Caror’s Book of Fire "
 "and Darkness. Prince Haldric is busy probing the secrets of the Ruby of Fire."
 msgstr ""
-"Uběhlo několik měsíců. Jesena přeložila Knihu ohně a temnot lorda-liche "
+"Uběhlo několik měsíců. Jesena přeložila Knihu ohně a temnoty lorda-licha "
 "Carora. Princ Haldrik se pilně snažil porozumět tajemstvím Ohnivého rubínu."
 
 #. [message]: speaker=Prince Haldric
@@ -3736,7 +3736,7 @@ msgstr "Pomocník"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:271
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:45
 msgid "Lich-Lord Jevyan"
-msgstr "Pán Lichů Jevyan"
+msgstr "Lord-lich Jevyan"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:484
@@ -5850,7 +5850,7 @@ msgstr "Tak prostě snězte lidi. Ale tělo chlapce nechte nedotčené."
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:298
 msgid "Come and fight me yourself, you old bag of bones!"
-msgstr ""
+msgstr "Pojď a bojuj se mnou sám, ty starý pytle kostí!"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:303
@@ -6222,12 +6222,12 @@ msgstr "Tan-Prodash"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:259
 msgid "Commander Aethyr sacrifices himself to Lich-Lord Jevyan and"
-msgstr "Velitel Aethyr se obětuje Pánu lichů Jevyanovi a"
+msgstr "Velitel Aethyr se obětuje lordu-lichovi Jevyanovi a"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:263
 msgid "Destroy Lich-Lord Jevyan and"
-msgstr "Znič Pána lichů Lorda Jevyana"
+msgstr "Znič lorda-licha Jevyana a"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:267
@@ -6250,7 +6250,7 @@ msgid ""
 "Haldric approaches the place where Lich-Lord Jevyan has made landfall. The "
 "final confrontation looms before him."
 msgstr ""
-"Haldrik spěšně míří k místu, kde se usadil Pán lichů Jevyan. Finální střet "
+"Haldrik spěšně míří k místu, kde se usadil lord-lich Jevyan. Finální střet "
 "se blíží."
 
 #. [message]: speaker=Lich-Lord Jevyan
