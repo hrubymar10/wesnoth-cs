@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-17 23:57+0200\n"
+"PO-Revision-Date: 2020-04-18 18:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3013,7 +3013,7 @@ msgstr "Severovýchod – Jižní záliv"
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:473
 msgid "More like ‘NW — Every orc on the Isle’. Hmph!"
-msgstr "Spíš ‚Severovýchod – všichni skřeti, co jsou na ostrově‘. Chm."
+msgstr "Spíš „Severovýchod – všichni skřeti, co jsou na ostrově“. Chm."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:504
@@ -5023,7 +5023,7 @@ msgstr "Ještě se uvidí."
 #. [message]: speaker=Shek'kahan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:416
 msgid "Who dares disturb Shek’kahan the Terrible?"
-msgstr "Kdo se opovažuje rušit Shek'kahana hrozného?"
+msgstr "Kdo se opovažuje rušit Shek’kahana hrozného?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:420
@@ -5920,9 +5920,9 @@ msgid ""
 "Lords will follow. It’s because of that ruby. If I were paranoid I’d say "
 "that our dear old ‘tree-friend’ might have known as much."
 msgstr ""
-"To se snáz řekne, než vykoná. I kdybychom ho porazili, další lordi-lichové "
+"To se snáz řekne, než vykoná. I kdybychom ho porazili, další lordi-lichové "
 "ho budou následovat. Kvůli tomu rubínu. Kdybych byla paranoidní, řekla bych "
-"že to náš starý drahý ‚stromový přítel‘ mohl také vědět."
+"že to náš starý drahý „stromový přítel“ mohl také vědět."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:444
@@ -5950,7 +5950,7 @@ msgid ""
 "You again! You will sssuffer for your attack against my people! Shek’kahan, "
 "our Naga friendsss— You’ll pay! We have new friends now."
 msgstr ""
-"Zasse ty. Zakussíš bolesst pro ssvůj útok na našše lidi. Shek'kahan, našši "
+"Zasse ty. Zakussíš bolesst pro ssvůj útok na našše lidi. Shek’kahan, našši "
 "rejpalí sstoupenci... Zaplatíšš! Máme teď nové přátele."
 
 #. [message]: speaker=Tan-Halg
@@ -6888,7 +6888,7 @@ msgid ""
 msgstr ""
 "Název Wesané pochází ze starého nářečí tvého jazyka. Znamená „Lidé Západu“. "
 "Elfové nás nazývají lidé Severozápadu. Ve starém jazyku by to znělo jako "
-"'Wes Noth'. Takže navrhuji, aby se nové království na počest našeho starého "
+"„Wes Noth“. Takže navrhuji, aby se nové království na počest našeho starého "
 "domova nazývalo „Wesnoth“."
 
 #. [message]: speaker=Prince Haldric
@@ -6897,7 +6897,7 @@ msgid ""
 "Hmm. ‘Wesnoth’. I like it. Yes, ‘Wesnoth’ would be fine. So I am the first "
 "King of Wesnoth!"
 msgstr ""
-"Hmm. ‚Wesnoth‘. To se mi líbí. Ano, ‚Wesnoth‘ bude to správné. Takže já jsem "
+"Hmm. „Wesnoth“. To se mi líbí. Ano, „Wesnoth“ bude to správné. Takže já jsem "
 "prvním králem Wesnothu!"
 
 #. [message]: speaker=Lady Jessene
@@ -6970,9 +6970,9 @@ msgid ""
 "of Haldric’s betrayal of the elves. They would whisper of the price he and "
 "his descendants would pay for that betrayal without knowing the whole truth."
 msgstr ""
-"V pozdějších dobáchpěvci zpívali píseň 'O porušení smlouvy', výpravný příběh "
-"o Haldrikově zradě k elfům. Zpívali by o ceně, kterou by on a jeho potomci "
-"zaplatili za zradu, bez toho aniž by znali celou pravdu."
+"V pozdějších dobách pěvci zpívali píseň „O porušení smlouvy“, výpravný "
+"příběh o Haldrikově zradě k elfům. Zpívali by o ceně, kterou by on a jeho "
+"potomci zaplatili za zradu, bez toho aniž by znali celou pravdu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:322
