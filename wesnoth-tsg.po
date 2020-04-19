@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-03-12 23:56+0100\n"
+"PO-Revision-Date: 2020-04-19 09:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2445,7 +2445,7 @@ msgstr "Au! Cítil to někdo?"
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1008
 msgid "Aye, I felt it too. A dreadful chill of perverse origin."
-msgstr ""
+msgstr "Ba, také jsem to pocítil. Mrazivou hrůzu zvráceného původu."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1012
@@ -2455,34 +2455,39 @@ msgid ""
 "their dark magic, or we will not be able to escape this harrowing place, "
 "much less find and defeat them."
 msgstr ""
+"To je práce nemrtvých. Začali na nás sesílat kletbu, aby vysáli naši sílu "
+"a uvěznili nás v těchto lesích. Musíme si pospíšit, než dokončí své temné "
+"kouzlo, jinak nedokážeme vyváznout z tohoto hrůzného místa, a už teprve ne "
+"je najít a porazit."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1024
 msgid "Foul magic pervades these forests."
-msgstr ""
+msgstr "Těmito lesy prostupuje nečistá magie."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1028
 msgid "The spell grows stronger by the moment."
-msgstr ""
+msgstr "To kouzlo právě zesílilo."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1040
 msgid ""
 "The darkness is so heavy... I do not know how much longer I can go on..."
 msgstr ""
+"Ta temnota je tak hustá... Nevím, jak dlouho ještě dokážu pokračovat..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1053
 msgid "It is... so cold..."
-msgstr ""
+msgstr "Je... taková zima..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1057
 msgid ""
 "The undead have ensnared us in their spell... we will not be able to escape "
 "now..."
-msgstr ""
+msgstr "Nemrtví nás opředli svým kouzlem... teď už nebudeme moci uniknout..."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1080
