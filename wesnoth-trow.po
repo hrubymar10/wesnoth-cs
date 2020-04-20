@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-18 18:09+0200\n"
+"PO-Revision-Date: 2020-04-20 21:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -153,9 +153,9 @@ msgid ""
 "war we gleaned our first shards of knowledge about magic."
 msgstr ""
 "Po období úporných zápasů bylo dosaženo míru. Ovládli jsme většinu ostrova, "
-"Wesané byli vytlačeni do jeho okrajových částí. V bojích s jejich ohavnými "
-"legiemi jsme zesílili, a vskutku to byla tato válka, kde jsme nasbírali své "
-"první úlomky znalostí o magii."
+"Wesané byli vytlačeni do jeho okrajových částí. V bojích s jejich ohavnými "
+"legiemi jsme zesílili. Byla to vskutku tato válka, kde jsme nasbírali své "
+"první střípky znalostí o magii."
 
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:31
@@ -191,10 +191,10 @@ msgid ""
 "aggressively sailing to the east and north, to compensate for southern pull "
 "of the ocean."
 msgstr ""
-"Naše mořeplavecké schopnosti se s postupem času zlepšovaly. Jednoho dne se "
-"korunní princ Jižního zálivu vrátil domů z dlouhé cesty s neuvěřitelnou "
-"zvěstí. Řekl, že na východě je země, jíž lze dosáhnout smělou plavbou k "
-"severovýchodu, vyrovnávaje vliv mořských proudů."
+"Naše mořeplavecké schopnosti se s postupem času zlepšovaly. Jednoho dne se "
+"korunní princ Jižního zálivu vrátil domů z dlouhé cesty s neuvěřitelnou "
+"zvěstí. Řekl, že na východě je země, jíž lze dosáhnout smělou plavbou "
+"k severovýchodu, vyrovnávaje vliv mořských proudů."
 
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:43
@@ -227,7 +227,7 @@ msgstr "... a to jednou nepříjemností jiného prince na tomtéž ostrově..."
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:55
 msgid "For this is the story of Haldric the First and the Rise of Wesnoth..."
-msgstr "Protože toto je příběh Haldrika prvního a vzniku království Wesnoth..."
+msgstr "Protože toto je příběh Haldrika Prvního a vzniku království Wesnoth..."
 
 #. [side]: type=Noble Commander, id=Prince Haldric
 #. [side]: id=Prince Haldric, type=Noble Commander
@@ -327,8 +327,8 @@ msgid ""
 "The trouble seems to have finally reached to the heart of the Isle, to the "
 "isolated lands of King Eldaric IV."
 msgstr ""
-"Problémy zřejmě nakonec dosáhly i do srdce ostrova, do izolovaných zemí "
-"krále Eldarika IV."
+"Problémy zřejmě nakonec dosáhly i do srdce ostrova, do odlehlých zemí krále "
+"Eldarika IV."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:153
@@ -336,13 +336,13 @@ msgid ""
 "It looks like some Wesfolk rabble have seized the Northern Keep! Prepare for "
 "battle, Haldric!"
 msgstr ""
-"Vypadá to, že nějaká Wesanská chátra obsadila severní tvrz! Haldriku, "
-"připrav se k bitvě!"
+"Vypadá to, že nějaká wesanská chátra obsadila Severní tvrz! Haldriku, "
+"připrav se k bitvě!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:157
 msgid "Father, I am of age now. May I lead our forces in battle?"
-msgstr "Otče, jsem již plnoletý, mohu vést v bitvě naše síly?"
+msgstr "Otče, jsem již plnoletý. Mohu v bitvě vést naše síly?"
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:161
@@ -467,7 +467,7 @@ msgid ""
 "hope."
 msgstr ""
 "Byli jste na tomto ostrově příliš dlouho. Ujišťuji vás, že skřeti existují. "
-"Teď už tam může být tak půl tuctu bran do skřetí země. Není žádná naděje."
+"Teď už je do skřetí země možná půl tuctu bran. Není žádná naděje."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:250
@@ -502,7 +502,7 @@ msgstr "Nestihli jsme to včas... úroda shnije, budeme hladovět!"
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:294
 msgid "Die, Wesfolk scum!"
-msgstr "Zemři, Wesanský neřáde!"
+msgstr "Zemři, wesanský neřáde!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:307
