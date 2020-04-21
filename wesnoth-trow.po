@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-20 21:07+0200\n"
+"PO-Revision-Date: 2020-04-21 21:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -520,7 +520,7 @@ msgid ""
 "Summer passes into fall, and King Eldaric fortifies his frontiers. It is not "
 "long before the first orcish scouts are spotted. War has come to the valley."
 msgstr ""
-"Léto prošlo do podzimu, a král Eldarik opevnil své hranice. Zanedlouho poté "
+"Léto přešlo do podzimu a král Eldarik opevnil své hranice. Zanedlouho poté "
 "byli spatřeni první skřetí průzkumníci. Do údolí přišla válka."
 
 #. [side]: type=Noble Fighter, id=Prince Haldric
@@ -620,10 +620,10 @@ msgid ""
 "in the mountains. I have my personal guards holding the pass to the north, "
 "but they won’t be able to last long... We must evacuate our home."
 msgstr ""
-"Haldriku, nevyvíjí se to dobře! Skřeti přišli. Utkali jsme se s nimi u "
-"severní tvrze, ale bylo jich zkrátka příliš mnoho. Obešli nás na východě "
-"horami. Zanechal jsem svou osobní stráž držet průsmyk na severu, ale nebudou "
-"schopni odolávat příliš dlouho... Musíme opustit náš domov."
+"Haldriku, nevyvíjí se to dobře! Skřeti přišli. Utkali jsme se s nimi "
+"u severní tvrze, ale bylo jich zkrátka příliš mnoho. Obešli nás horami na "
+"východě. Zanechal jsem svou osobní stráž držet průsmyk na severu, ale "
+"nebudou schopni odolávat příliš dlouho... Musíme opustit náš domov."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:197
@@ -641,8 +641,8 @@ msgid ""
 "that Wesfolk scum and flee to the south. Our home is lost... We must make "
 "haste."
 msgstr ""
-"To je jediná cesta z údolí! To je pohroma! Musíme zničit ty Wesanské neřády "
-"a prchnout na jih. Náš domov je ztracen... musíme si pospíšit."
+"Je to jediná cesta z údolí! To je pohroma! Musíme zničit ty wesanské neřády "
+"a prchnout na jih. Náš domov je ztracen... Musíme si pospíšit."
 
 #. [message]: speaker=Tan-Rarbag
 #. meat is a derogatory term for humans used by orcs and also is a subtle reference to orcs eating humans opportunistically
@@ -755,8 +755,8 @@ msgid ""
 "Son, you must lead our people through the south pass. I will remain behind "
 "to hold off these vile monsters for as long as I can."
 msgstr ""
-"Synu, musíš vésti náš lid skrz Jižní průsmyk. Zůstanu zde zadržovat ty "
-"ohavné nestvůry, jak dlouho budu moci."
+"Synu, musíš vésti náš lid skrze Jižní průsmyk. Zůstanu zde a budu zadržovat "
+"ty ohavné nestvůry, jak dlouho budu moci."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:396
@@ -766,8 +766,7 @@ msgstr "Ale otče!"
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:400
 msgid "It’s the only way. Go now, and don’t look back! Luck be with you!"
-msgstr ""
-"To je jediná možnost. Jdi, a neohlížej se zpět! Ať tě provází štěstěna!"
+msgstr "Je to jediná možnost. Jdi a neohlížej se zpět! Ať tě štěstěna provází!"
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:422
