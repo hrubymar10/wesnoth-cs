@@ -896,7 +896,7 @@ msgid ""
 "I’d drop the sentiment and pick up your sword. There’s plenty of fighting "
 "ahead of us!"
 msgstr ""
-"Být tebou, opustím tu přecitlivělost, a raději pořádně uchopím meč! Před "
+"Být tebou, opustím tu přecitlivělost a raději pořádně uchopím meč! Před "
 "námi je spousta boje!"
 
 #. [message]: speaker=Tan-Schmog
@@ -907,7 +907,7 @@ msgstr "Nedostaneš se už dál, maso!"
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:160
 msgid "Who goes there?"
-msgstr "Kdo tam jde?"
+msgstr "Kdo je tam?"
 
 #. [unit]: id=Burin the Lost, type=Dwarvish Steelclad
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:165
@@ -942,7 +942,7 @@ msgstr ""
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:198
 msgid "Nice? The orcs have come, and we must flee!"
-msgstr "Pěkně? Přišli skřeti, a my musíme uprchnout!"
+msgstr "Pěkně? Přišli skřeti a my musíme uprchnout!"
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:203
@@ -1066,9 +1066,9 @@ msgid ""
 "Hmm, I guess that this is the last I’ll see of my home... and my father. "
 "(<i>Sigh</i>)"
 msgstr ""
-"Unikli jsme z průsmyku. Budiž, aspoň teď vím, že ty skřety lze pobít. Hm, "
-"hádám, že toto je naposled, co vidím svůj domov... a svého otce "
-"(<i>povzdech</i>)."
+"Unikli jsme z průsmyku. Budiž, aspoň teď vím, že ty skřety lze pobít. Hm, "
+"hádám, že toto je naposled, co vidím svůj domov... a svého otce. "
+"(<i>povzdech</i>)"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:427
