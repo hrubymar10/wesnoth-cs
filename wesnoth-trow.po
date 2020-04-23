@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-21 21:15+0200\n"
+"PO-Revision-Date: 2020-04-23 21:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -896,8 +896,8 @@ msgid ""
 "I’d drop the sentiment and pick up your sword. There’s plenty of fighting "
 "ahead of us!"
 msgstr ""
-"Být tebou, opustím tu přecitlivělost a raději pořádně uchopím meč! Před "
-"námi je spousta boje!"
+"Být tebou, opustím tu přecitlivělost a raději pořádně uchopím meč! Před námi "
+"je spousta boje!"
 
 #. [message]: speaker=Tan-Schmog
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:146
@@ -980,7 +980,7 @@ msgid ""
 "SW — The Midlands."
 msgstr ""
 "Jihovýchod – Říční cesta.\n"
-"Jihozápad – Střední oblast."
+"Jihozápad – Středozemí."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:265
@@ -995,9 +995,9 @@ msgid ""
 "orcs would go there. The Midlands were nice, but who knows what’s going on "
 "there now."
 msgstr ""
-"Měl bych teď jít na jihovýchod říční cestou, nebo na jihozápad skrz střední "
-"část země? Říční cesta prochází bažinou Estenu, proto pochybuji, že by tam "
-"skřeti šli. Střední oblast bývala pěkná, ale kdo ví, co se tam odehrává teď."
+"Měl bych teď jít na jihovýchod říční cestou, nebo na jihozápad skrz "
+"Středozemí? Říční cesta prochází Estenským močálem, proto pochybuji, že by "
+"tam skřeti šli. Středozemí bývalo pěkné, ale kdo ví, co se tam odehrává teď."
 
 #. [option]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:278
@@ -1021,12 +1021,12 @@ msgstr ""
 #. [option]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:300
 msgid "We’ll go through the Midlands..."
-msgstr "Půjdeme skrz Střední část země..."
+msgstr "Půjdeme skrz Středozemí..."
 
 #. [message]: speaker=Lady Outlaw
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:304
 msgid "I suspect that the Midlands might be in ruins by now."
-msgstr "Obávám se, že z ní teď už mohou být trosky."
+msgstr "Obávám se, že touto dobou může být Středozemí v troskách."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:309
@@ -1084,7 +1084,7 @@ msgstr ""
 #. [scenario]: id=04a_The_Swamp_of_Esten
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:4
 msgid "The Swamp of Esten"
-msgstr "Bažina Estenu"
+msgstr "Estenský močál"
 
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:16
@@ -1178,8 +1178,8 @@ msgid ""
 "of Esten. In the center of that very swamp a shroud of fog descends over "
 "young Prince Haldric."
 msgstr ""
-"Princ Haldrik vede s velkými obavami svou skupinu uprchlíků do močálů "
-"Estenu. Uprostřed vlastní bažiny zahaluje mladého prince Haldrika příkrov "
+"Princ Haldrik vede s velkými obavami svou skupinu uprchlíků do Estenského "
+"močálu. Uprostřed samotné bažiny zahaluje mladého prince Haldrika příkrov "
 "mlhy."
 
 #. [message]: speaker=Prince Haldric
@@ -1409,7 +1409,7 @@ msgid ""
 "Prince Haldric leads his refugee band into the Midlands and smoke is in the "
 "air."
 msgstr ""
-"Princ Haldrik vede svou skupinu uprchlíků středozemím a ve vzduchu visí kouř."
+"Princ Haldrik vede svou skupinu uprchlíků Středozemím a ve vzduchu visí kouř."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:174
@@ -1418,7 +1418,7 @@ msgid ""
 "civilized way to fight a war! Look there, there are still orcs about... To "
 "arms!"
 msgstr ""
-"Je to, jak jsem se bál: skřeti vydrancovali středozemí. Takhle se "
+"Je to, jak jsem se bál: skřeti vydrancovali Středozemí. Takhle se "
 "civilizovaný boj nevede! Podívejte, skřeti jsou stále kolem... do zbraně!"
 
 #. [message]: speaker=Burin the Lost
@@ -1558,7 +1558,7 @@ msgid ""
 "We have run out of time... We’ll be trapped in the midlands when winter "
 "comes!"
 msgstr ""
-"Nestihli jsme to včas... zůstaneme uvězněni ve středozemí až přijde zima!"
+"Nestihli jsme to včas... Až přijde zima, zůstaneme uvězněni ve Středozemí!"
 
 #. [scenario]: id=05_The_Oldwood
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:4
@@ -2173,9 +2173,9 @@ msgid ""
 "Southbay. We clearly can’t go that way. However, the road to Clearwater Port "
 "is free of orcs. Apparently they’re bogged down in the swamp of Esten."
 msgstr ""
-"Ty zprávy nejsou dobré. Hlavní skřetí vojsko je mezi lesem a Jižním zálivem, "
+"Ty zprávy nejsou dobré. Hlavní skřetí vojsko je mezi lesem a Jižním zálivem, "
 "tím směrem jistě jít nemůžeme. Avšak cesta do přístavu Jasných vod je skřetů "
-"prosta. Zjevně zapadli v bažinách Estenu."
+"prosta. Zjevně zapadli v Estenském močálu."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:180
@@ -2218,9 +2218,9 @@ msgid ""
 "and Southbay. You clearly can’t go that way. However, the road to Clearwater "
 "Port is free of orcs. Apparently they’re bogged down in the swamp of Esten."
 msgstr ""
-"Je to důležité a není to dobré. Hlavní skřetí vojsko je mezi lesem a Jižním "
+"Je to důležité a není to dobré. Hlavní skřetí vojsko je mezi lesem a Jižním "
 "zálivem, tím směrem jistě jít nemůžeš. Avšak cesta do přístavu Jasných vod "
-"je skřetů prosta. Zjevně zapadli v bažinách Estenu."
+"je skřetů prosta. Zjevně zapadli v Estenském močálu."
 
 #. [message]: speaker=Lady Outlaw
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:211
@@ -2486,8 +2486,8 @@ msgid ""
 msgstr ""
 "Já, můj pane. Jsem velitel místní posádky. Zatímco spolu mluvíme, celá naše "
 "rybářská flotila odváží lidi do bezpečí Jižního přístavu. Lodě by měly být "
-"zpět do několika dnů. Naše síly napadly skřety, když opouštěli bažinu "
-"Estenu, dokonce jsme je zahnali zpět do bažiny!"
+"zpět do několika dnů. Naše síly napadly skřety, když opouštěli Estenský "
+"močál, dokonce jsme je zahnali zpět do bažiny!"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:312
@@ -2634,7 +2634,7 @@ msgstr "Brod u zakopané kotvy"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:476
 msgid "The River Road — To the Swamp of Esten."
-msgstr "Říční cesta – k bažině Estenu"
+msgstr "Říční cesta – k Estenskému močálu"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:574
@@ -3804,7 +3804,7 @@ msgstr "K přístavu Jasných vod"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:607
 msgid "To the Midlands &amp; Oldwood"
-msgstr "Ke středozemí a Starému lesu"
+msgstr "Ke Středozemí a Starému lesu"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:627
@@ -3814,7 +3814,7 @@ msgstr "K Northrunu"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:647
 msgid "To the Midlands"
-msgstr "Ke středozemí"
+msgstr "Ke Středozemí"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:667
