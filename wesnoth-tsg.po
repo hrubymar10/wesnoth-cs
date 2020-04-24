@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-04-19 09:30+0200\n"
+"PO-Revision-Date: 2020-04-24 22:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2491,38 +2491,28 @@ msgstr "Nemrtví nás opředli svým kouzlem... teď už nebudeme moci uniknout.
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1080
-#, fuzzy
-#| msgid ""
-#| "Well! That was easier than I thought it’d be. Looks like the undead "
-#| "aren’t so tough after all!"
 msgid "Well! That was easier than I thought it would be."
-msgstr ""
-"Výborně! To bylo jednodušší, než jsem očekával. Zdá se, že nemrtví nakonec "
-"nejsou až tak mocní!"
+msgstr "Výborně! To bylo snazší, než jsem čekal."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1085
 msgid ""
 "Indeed. The lich has fallen. Looks like the corrupted sage was no match for "
 "us!"
-msgstr ""
+msgstr "Vskutku. Lich padl. Vypadá to, že ten zkažený mudrc se nám nevyrovnal!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1089
-#, fuzzy
-#| msgid ""
-#| "I’m afraid it is not so. This was not the real Mebrin we destroyed, but a "
-#| "mere phantom. He resides in catacombs deep underneath the castle, but "
-#| "they cannot be entered without magical means."
 msgid ""
 "I’m afraid it is not so. This was merely a phantom of the true Mebrin. He "
 "resides in catacombs deep underneath the castle, but they cannot be entered "
 "without magical means. We would require elvish magic in order to dispel the "
 "barrier he has erected."
 msgstr ""
-"Obávám se, že to není pravda. Toto, co jste zničili, nebyl opravdový Mebrin, "
-"ale jenom jeho přízračná kopie. Přebývá v kobkách hluboko pod hradem, kam se "
-"nedostanete bez magie."
+"Obávám se, že je to jinak. Byl to pouhý přízrak skutečného Mebrina. Sídlí "
+"v katakombách hluboko pod hradem, ale do nich nelze vstoupit bez pomoci "
+"magie. Potřebovali bychom elfí kouzlo, abychom rozptýlili zábranu, kterou "
+"vybudoval."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1094
@@ -2530,18 +2520,15 @@ msgid ""
 "What?! You knew this all along and yet you still brought us here? You misled "
 "us!"
 msgstr ""
+"Cože?! Tys to celou tu dobu věděl, a přesto jsi nás sem přivedl? Oklamals "
+"nás!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1098
-#, fuzzy
-#| msgid ""
-#| "If I had told you, you and the elves would have killed me! I didn’t have "
-#| "a choice!"
 msgid ""
 "If I had told you, you and the elves would have killed me! I had no choice!"
 msgstr ""
-"Kdybych ti byl býval řekl dříve, spolu s elfy byste mne zabili! Neměl jsem "
-"na výběr!"
+"Kdybych vám to řekl, spolu s elfy byste mne zabili! Neměl jsem na výběr!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1102
@@ -2550,26 +2537,17 @@ msgstr "Snad bychom teď měli tu chybu napravit."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1106
-#, fuzzy
-#| msgid ""
-#| "Then you would surely be lost in these woods forever at the mercy of the "
-#| "undead. I can lead you and your men back to the lands of Wesnoth if you "
-#| "will grant me pardon."
 msgid ""
 "Then you would surely be lost in these woods, hounded by the undead and made "
 "into their slaves. I can lead you and your men back to the lands of Wesnoth, "
 "but only if you promise to grant me pardon."
 msgstr ""
-"Pak budete navždy ztraceni v těchto lesích, vydáni na milost nemrtvým. "
-"Dovedu vás a vaše muže zpět do zemí Wesnothu, pokud mi zaručíte milost."
+"Pak byste určitě zůstali ztraceni v těchto lesích, pronásledováni nemrtvými, "
+"kteří si z vás budou dělat otroky. Můžu tebe a tvé muže dovést zpátky do "
+"wesnothských zemí, ale jen když slíbíš udělit mi milost."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1111
-#, fuzzy
-#| msgid ""
-#| "Now that the elves have abandoned us, that would seem to be our only "
-#| "choice. But what about Mebrin? The undead will keep attacking our homes "
-#| "unless we root them out at the source."
 msgid ""
 "Ethiliel could have dispelled these magical wards if we had not fallen for "
 "your lies! But I foolishly spurned her advice and all the aid she had "
@@ -2578,14 +2556,16 @@ msgid ""
 "Mebrin? The undead will keep attacking our homes unless we root them out at "
 "the source."
 msgstr ""
-"Teď když nás elfové opustili, zdá se to být naším jediným východiskem. Ale "
-"co s Mebrinem? Nemrtví budou nadále útočit na naše domovy, pokud je "
-"nezlikvidujeme hned u zdroje."
+"Ethiliel by tyto magické zábrany mohla rozptýlit, kdybychom nenaletěli na "
+"tvoje lži! Ale já pošetile zavrhl její radu a všechnu pomoc, kterou "
+"nabízela. Mám chuť tady a teď ukončit tvůj život, ale jelikož nás elfové "
+"opustili..., zdá se, že to bude naše jediná možnost. Ale co Mebrin? Nemrtví "
+"budou nadále útočit na naše domovy, pokud s nimi neskoncujeme přímo u zdroje."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1115
 msgid "You would never make it back on your own."
-msgstr ""
+msgstr "Nikdy se sami zpátky nedostanete."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1119
@@ -2594,6 +2574,9 @@ msgid ""
 "Westin, and we will grant your pardon so long as you do not try any more "
 "trickery. But this does not solve the problem of the undead!"
 msgstr ""
+"Pcha, nevypadá to, že máme na výběr. Tak dobrá, povedeš nás zpátky do "
+"Westinu a mi ti udělíme milost, pokud na nás nezkusíš už žádný podvod. Ale "
+"to neřeší problém s nemrtvými!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1123
@@ -2602,11 +2585,14 @@ msgid ""
 "While his power is great and his army vast, we have fought the undead before "
 "and know that they can be defeated. Deoran—"
 msgstr ""
+"Vím, že má Mebrin v úmyslu vést nemrtvé na Westin a srovnat město se zemí. "
+"I když má velikou moc a jeho armáda je obrovská, bojovali jsme s nemrtvými "
+"už dřív a víme, že mohou být poraženi. Deorane —"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1128
 msgid "That’s <i>Sir</i> Deoran to the likes of you!"
-msgstr ""
+msgstr "Pro takové jako ty je to <i>sir</i> Deoran!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1132
@@ -2616,6 +2602,10 @@ msgid ""
 "and fortify the city walls, we may be able to hold back the undead and even "
 "strike at the lich-sage himself."
 msgstr ""
+"Ano, ano, sire Deorane! Když budeme proti nemrtvým bojovat na otevřených "
+"pláních nebo v lesích, tak budeme určitě povražděni. Ale jestliže připravíme "
+"naši obranu a opevníme zdi města, možná dokážeme nemrtvé zadržet, a dokonce "
+"udeřit na samotného mudrce-licha."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1137
