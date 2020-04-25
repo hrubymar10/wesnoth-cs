@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-23 21:33+0200\n"
+"PO-Revision-Date: 2020-04-25 07:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1189,7 +1189,7 @@ msgid ""
 "Before these troubles started we used to have to clear the swamp every "
 "spring and fall."
 msgstr ""
-"Mám z toho tu velmi špatný pocit. Ta děsivá bažina a její šílení uctívači..."
+"Mám z toho velmi špatný pocit. Ta děsivá bažina a její šílení uctívači... "
 "Než začaly ty potíže, každé jaro a podzim jsme bažinu čistívali."
 
 #. [message]: speaker=Prince Haldric
@@ -1213,7 +1213,7 @@ msgstr ""
 #. [message]: speaker=Lady Outlaw
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:201
 msgid "This is too quiet. I don’t like this one bit, not one bit at all."
-msgstr "Je tu moc ticho. Nelíbí se mi to ani trochu, docela ani trochu."
+msgstr "Je tu moc ticho. Ani trochu se mi to nelíbí, vlastně vůbec."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:206
@@ -1271,7 +1271,7 @@ msgstr "Kéž budu žít věčně v nesmrti!"
 #. [message]: speaker=Clurka
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:513
 msgid "Ohh! To be risen again!"
-msgstr "Ách! Opět budu pozvednut!"
+msgstr "Ách! Opět budu pozvednuta!"
 
 #. [message]: speaker=Cleon
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:524
@@ -1298,7 +1298,7 @@ msgid ""
 "I’m Haldric; my father was King Eldaric IV in the lands northwest of here. "
 "Soldier, have you deserted your post?"
 msgstr ""
-"Jsem Haldrik, můj otec byl král Eldarik IV. v zemi na severozápad odtud. "
+"Jsem Haldrik, můj otec byl král Eldarik IV. v zemi na severozápad odtud. "
 "Vojáku, zběhls ze svého stanoviště?"
 
 #. [message]: speaker=Sir Ruddry
@@ -1324,9 +1324,9 @@ msgid ""
 "bodied men and boys into service when I left. That orcish army is huge, but "
 "they haven’t met the main body of our forces yet."
 msgstr ""
-"Alespoň pokud já vím, pane. Máme velkou armádu, a verbovali do služby "
-"všechny schopné muže a chlapce, když jsem odcházel. Skřetí armáda je "
-"obrovská, ale ještě se nestřetla s hlavní částí našich sil."
+"Alespoň pokud já vím, pane. Máme velkou armádu a když jsem odcházel, "
+"verbovali do služby všechny schopné muže a chlapce. Skřetí armáda je "
+"obrovská, ale ještě se nestřetla s hlavní částí našich sil."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:583
@@ -1335,8 +1335,8 @@ msgid ""
 "risk it and go through the Oldwood forest, then make a break for Clearwater "
 "Port or Southbay."
 msgstr ""
-"Tak tedy, vrátit se nemůžeme, a cesta vpřed je znemožněna... Myslím, že se "
-"musíme odvážit projít skrz Starý les, a pak prorazit k přístavu Jasných vod "
+"Tak tedy, vrátit se nemůžeme a cesta vpřed je zablokována... Myslím, že se "
+"musíme odvážit projít skrz Starý les a pak prorazit k přístavu Jasných vod "
 "nebo Jižnímu zálivu."
 
 #. [message]: speaker=Burin the Lost
@@ -7176,7 +7176,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-deaths.cfg:12
 msgid "I can’t be finished yet... I still have so much more to do."
-msgstr "Nemohu ještě skončit... musím toho ještě tolik vykonat."
+msgstr "Nemohu ještě skončit... Musím toho ještě tolik vykonat."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-deaths.cfg:27
