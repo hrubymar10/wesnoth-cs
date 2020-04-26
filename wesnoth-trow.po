@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-25 07:14+0200\n"
+"PO-Revision-Date: 2020-04-26 09:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1631,9 +1631,10 @@ msgid ""
 "overhead, blocking almost all of the light... The ominous noises of the deep "
 "woods echo all around."
 msgstr ""
-"Haldrikova skupina se ocitla v srdci Starého lesa. Cesta se rychle úží a "
-"stává se z ní stěží víc než pěšina. Větve visí vysoko nad hlavami, blokujíce "
-"téměř všechno světlo... Zlověstné zvuky z hloubi lesa se ozývají všude okolo."
+"Haldrikova skupina se ocitá v srdci Starého lesa. Cesta se rychle úží "
+"a stává se z ní stěží víc než pěšina. Větve visí vysoko nad hlavami, "
+"blokujíce téměř všechno světlo... Všude okolo se ozývají zlověstné zvuky "
+"z hloubi lesa."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:206
@@ -1760,7 +1761,7 @@ msgid ""
 "Well, I suspect you won’t have to worry about my kind for much longer. The "
 "orcs have come, and they are taking this Isle!"
 msgstr ""
-"Tedy, obávám se, že mého lidu už se bát nemusíš. Přišli skřeti a zabírají "
+"Tedy, mám dojem, že mého lidu už se bát nemusíš. Přišli skřeti a zabírají "
 "tento ostrov."
 
 #. [message]: speaker=Elilmaldur-Rithrandil
@@ -1770,9 +1771,8 @@ msgid ""
 "orcs are gone as well. We were here before all others, and I suspect that we "
 "will be here in the end."
 msgstr ""
-"Hmm... můj druh zde byl před vaším, a stejně tak zde budeme, až tu nebudou "
-"ani žádní skřeti. Byli jsme tu přede všemi, a myslím, že tu budeme až do "
-"konce."
+"Hmm... můj druh zde byl před vaším a stejně tak zde budeme, až skřeti zmizí. "
+"Byli jsme tu přede všemi a myslím, že tu budeme až do konce."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:332
@@ -1787,10 +1787,10 @@ msgid ""
 "people some time ago one of your kings trapped an evil lich in the catacombs "
 "of the temple at the heart of the wood. We were there, we were watching."
 msgstr ""
-"Můj lid je vázán na les, vně našich hranic bychom ti nebyli příliš k užitku. "
-"Možná bychom ti ale stejně mohli pomoci. Před časem v jedné válce vašich "
-"lidí nalákal do pasti jeden z vašich králů zlého licha v katakombách svatyně "
-"v srdci lesa. Byli jsme tam, sledovali jsme to."
+"Můj lid je vázán na les, vně našich hranic bychom ti nebyli příliš k užitku. "
+"Možná bychom ti ale stejně mohli pomoci. Před časem ve válce tvého lidu "
+"jeden z vašich králů nalákal zlého licha do pasti v katakombách svatyně "
+"v srdci lesa. Byli jsme tam, sledovali jsme to."
 
 #. [message]: speaker=Elilmaldur-Rithrandil
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:340
@@ -1799,7 +1799,7 @@ msgid ""
 "holds the Evil in the catacombs, and keeps others from entering them."
 msgstr ""
 "Když jsme vaše lidi vytlačili pryč, zjistili jsme, jak prolomit kouzlo, "
-"které drží v katakombách zlo a brání ostatním ve vstupu."
+"které drží v katakombách zlo a brání ostatním ve vstupu."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:344
@@ -1864,7 +1864,7 @@ msgstr ""
 "Jsme prastarý národ, Haldriku, žili jsme v zemi plné všech možných druhů "
 "lidí a tvorů. Potřebovali jsme pohled, jenž by přesahoval skrovný rozsah "
 "lidského života. Umění nekromancie umožnilo našim nejlepším a nejbystřejším "
-"žít věčně, a z našich nejhorších se stali nemyslící otroci."
+"žít věčně a z našich nejhorších se stali nemyslící otroci."
 
 #. [message]: speaker=Lady Outlaw
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:383
@@ -1875,9 +1875,9 @@ msgid ""
 "being down in that hole for so long I don’t imagine he’s too happy."
 msgstr ""
 "Nebýt prohry naší války na západě, potom naší uprchlické války proti vašim "
-"lidem a téhle skřetí záležitosti, nebyl to tak špatný obchod. Lord-lich "
-"Lenvan byl jedním z našich největších vůdců. Vedl náš ústup na tento ostrov. "
-"Ačkoli po takové době pobytu v té díře si nemyslím, že bude mít příliš "
+"lidem a téhle skřetí záležitosti, nebyl to tak špatný obchod. Lord-lich "
+"Lenvan byl jedním z našich největších vůdců. Vedl náš ústup na tento ostrov. "
+"Ačkoli si nemyslím, že bude mít po takové době pobytu v té díře příliš "
 "příjemnou náladu."
 
 #. [message]: speaker=Prince Haldric
@@ -1888,7 +1888,7 @@ msgid ""
 "darkness?"
 msgstr ""
 "Ehm, chm. Nepřemýšleli jste nad tím, že nečistý čin proměny vašich "
-"nejlepších a nejšťastnějších v nemrtvé byl tím, co způsobilo jejich pád do "
+"nejlepších a nejbystřejších v nemrtvé byl tím, co způsobilo jejich pád do "
 "temnot?"
 
 #. [message]: speaker=Lady Outlaw
@@ -1898,9 +1898,9 @@ msgid ""
 "scout the road ahead. We need to know if we can make it to Southbay. I’ll "
 "return in a few days."
 msgstr ""
-"Měli bychom tento rozhovor nechat na později. Stále ti mohu být k užitku. "
-"Půjdu prozkoumat cestu, musíme zjistit, zda se dokážeme dostat do Jižního "
-"zálivu. Vrátím se za několik dní."
+"Měli bychom tento rozhovor nechat na později. Stále ti mohu být k užitku. "
+"Půjdu prozkoumat cestu před námi. Musíme zjistit, zda se dokážeme dostat do "
+"Jižního zálivu. Vrátím se za několik dní."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:407
