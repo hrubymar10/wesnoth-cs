@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-26 09:12+0200\n"
+"PO-Revision-Date: 2020-04-27 20:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1921,9 +1921,9 @@ msgid ""
 "below the temple, buried deep in the bedrock, in the very roots of the world "
 "itself. In the distance Haldric hears a booming voice."
 msgstr ""
-"S pocitem pochmurné zvědavosti vstoupil princ Haldrik a jeho doprovod do "
-"katakomb pod svatyní, pohřbených hluboko v podloží, v samých základech "
-"světa. Haldrik uslyšel zdáli dunivý hlas."
+"S pocitem pochmurné ostražitosti sestupuje princ Haldrik a jeho doprovod do "
+"katakomb pod svatyní, pohřbených hluboko v podloží, v samých základech "
+"světa. Haldrik slyší zdáli dunivý hlas."
 
 #. [side]: type=Lich, id=Lich-Lord Lenvan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:44
@@ -2293,28 +2293,22 @@ msgid ""
 "Prince of Southbay convinced them that their immortal un-lives were over!"
 msgstr ""
 "Jsem vznešená paní Jesena, princezna Wesanů. Byla jsem zrazena temnou "
-"dohodou lordů-lichů se skřety. Z podstatné části způsobenou vaším pošetilým "
+"dohodou lordů-lichů se skřety z podstatné části způsobenou vaším pošetilým "
 "princem Jižního zálivu, který je přesvědčil, že se jejich nesmrtelné "
 "neživoty chýlí ke konci!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:299
-#, fuzzy
-#| msgid ""
-#| "And now, I’m as much a refugee as you. In truth, I don’t know if the Lich-"
-#| "Lords are working with the orcs or not. The orcs may have gotten rid of "
-#| "the Lich-Lords, or they may not have, but I do know that the orcs are not "
-#| "going to tolerate living humans outside of the slave mines or stew pot!"
 msgid ""
 "And now, I’m as much a refugee as you. In truth, I don’t know if the Lich-"
 "Lords still command these orcs or if the orcs have rid themselves of the "
 "Lich-Lords, but I do know that no orc is going to tolerate living humans "
 "outside of the slave mines or worse, stew pots!"
 msgstr ""
-"A nyní jsem uprchlíkem stejně tak jako ty. Popravdě řečeno nevím, zda lordi-"
-"lichové se skřety spolupracují, nebo ne. Skřeti se jich mohli zbavit nebo "
-"také nemuseli, avšak co vím, je to, že skřeti nebudou snášet živé lidi jinde "
-"než jako otroky ve svých dolech nebo pochoutku ve svých hrncích!"
+"A nyní jsem uprchlíkem stejně jako ty. Popravdě řečeno nevím, zda lordi-"
+"lichové stále těmto skřetům velí nebo zda se jich skřeti zbavili, avšak co "
+"vím, je to, že skřeti netrpí živé lidi jinde než jako otroky v dolech, nebo "
+"ještě hůř, v hrncích na vaření!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:303
@@ -2327,8 +2321,8 @@ msgid ""
 "Fair enough. We will head for Clearwater Port. Thank you, Elilmaldur-"
 "Rithrandil, I will remember your hospitality!"
 msgstr ""
-"Přijímám tedy, vydáme se do přístavu Jasných vod. Děkuji, Elilmaldure-"
-"Rithrandile, budu pamatovat na tvou pohostinnost!"
+"Tak dobrá. Vydáme se do přístavu Jasných vod. Děkuji, Elilmaldure-"
+"Rithrandile, nezapomenu na tvou pohostinnost!"
 
 #. [message]: speaker=Elilmaldur-Rithrandil
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:311
