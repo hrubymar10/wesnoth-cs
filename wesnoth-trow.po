@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-27 20:58+0200\n"
+"PO-Revision-Date: 2020-04-29 22:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2453,8 +2453,8 @@ msgid ""
 "seem to be missing from the port."
 msgstr ""
 "Našemu princi se podařilo dostat se do přístavu Jasných vod – se skřety "
-"v patách. Skřeti ho sice zatím nechytili, ale zimní sníh ano; a v přístavu "
-"se zdají scházet lodě."
+"v patách. Skřeti ho sice zatím nechytili, ale zimní sníh ano a zdá se, "
+"že v přístavu chybí lodě."
 
 #. [message]: speaker=Sir Ruddry
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:297
@@ -2490,9 +2490,9 @@ msgid ""
 "positions. We lost most of our forces, my lord, including the King of "
 "Clearwater, who died bravely leading a charge."
 msgstr ""
-"Bohužel to byl jen úskok a do našich posic brzy vpadly skřetí posily. "
-"Ztratili jsme většinu vojska, můj pane, včetně krále Jasných vod, statečně "
-"vedoucího náš výpad."
+"Bohužel to byl jen úskok a do našich pozic brzy vpadly skřetí posily. "
+"Ztratili jsme většinu vojska, můj pane, včetně krále Jasných vod, který "
+"zahynul, když statečně vedl útok."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:317
@@ -2509,12 +2509,12 @@ msgid ""
 "winter stores. They’ve gone to Southbay, which is brimming with refugees "
 "from all over."
 msgstr ""
-"Toho dne poskvrnila zmrzlá pole krev mnoha dobrých vojáků. A stále na nás "
+"Toho dne poskvrnila zmrzlá pole krev mnoha dobrých vojáků. A stále na nás "
 "tlačí. Král nezanechal žádného dědice, ale ostatní urození prchli do Jižního "
 "zálivu. Byli jsme plně zaměstnáni přepravou zbytku obyvatel do bezpečí. "
-"Armáda nám zajistila dostatek času k záchraně téměř všech našich lidí, a "
-"také větší části zimních zásob. Všichni odešli do Jižního zálivu – to město "
-"musí zřejmě přetékat uprchlíky."
+"Armáda nám zajistila dostatek času k záchraně téměř všech našich lidí a také "
+"větší části zimních zásob. Všichni odešli do Jižního zálivu – to město musí "
+"zřejmě přetékat uprchlíky."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:328
@@ -2527,10 +2527,9 @@ msgid ""
 msgstr ""
 "Budeme držet město, jen než odejdou poslední uprchlíci. Vy, můj pane, můžete "
 "volně ustoupit do bezpečí, jakmile přistane příští loď. Avšak, mohu-li být "
-"upřímný, můj pane, máme už příliš málo mužů k obraně celých hradeb, a "
-"využili bychom každou pomoc, která by nám je pomohla držet. Bojím se, že v "
-"opačném případě budeme přemoženi dříve, než se podaří odvézt všechny lidi do "
-"bezpečí."
+"upřímný, můj pane, máme už příliš málo mužů k obraně celých hradeb a využili "
+"bychom každou pomoc, která by nám je pomohla držet. Bojím se, že v opačném "
+"případě budeme přemoženi dříve, než se podaří odvézt všechny lidi do bezpečí."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:333
@@ -2540,9 +2539,9 @@ msgid ""
 "to be evacuated as well. We have traveled far and bear many wounded, but we "
 "will help you defend these walls as long as we can."
 msgstr ""
-"Nu, jsme poslední, kdo se zachránil z našich zemí, a máme skřety hned v "
-"patách! Jsou s námi i Wesané, kteří nám dobře posloužili, měli by být také "
-"zachráněni. Cestovali jsme daleko a přinášíme s sebou mnohé raněné, ale "
+"Nu, jsme poslední, kdo se zachránil z našich zemí a máme skřety hned "
+"v patách! Jsou s námi i Wesané, kteří nám dobře posloužili. Měli by být také "
+"zachráněni. Cestovali jsme daleko a přinášíme s sebou mnohé raněné, ale "
 "pomůžeme vám bránit tyto hradby, jak dlouho dokážeme."
 
 #. [message]: speaker=Commander Aethyr
@@ -2551,7 +2550,7 @@ msgid ""
 "I thank you, my lord. But we are to bring these Wesfolk too? It would be... "
 "highly irregular. Are you sure, my lord?"
 msgstr ""
-"Děkuji ti, můj pane. Ale chcete vzít s sebou i tyto Wesany? To by bylo..."
+"Děkuji ti, můj pane. Ale chcete vzít s sebou i tyto Wesany? To by bylo... "
 "velmi nezvyklé. Jste si jist, můj pane?"
 
 #. [message]: speaker=Prince Haldric
@@ -2748,8 +2747,8 @@ msgid ""
 "Yes, Lich Point! Where we first used our magi in battle, and turned the tide "
 "of war against your people."
 msgstr ""
-"Ano, Lichův ostroh! Tam jsme poprvé využili mágy v bitvě a zvrátili směr "
-"války proti vašim lidem."
+"Ano, Lichův ostroh! Tam jsme poprvé využili mágy v bitvě a způsobili obrat "
+"ve válce proti vašim lidem."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:958
@@ -2774,8 +2773,8 @@ msgid ""
 "My family was from Southbay. My father was a soldier there. The city’s sewer "
 "entrance is near that fossil of a lich."
 msgstr ""
-"Má rodina je z Jižního zálivu, můj otec tam byl vojákem. Vstup do městských "
-"stok je blízko té zkameněliny licha."
+"Má rodina pochází z Jižního zálivu. Můj otec tam byl vojákem. Nedaleko té "
+"zkameněliny licha je vstup do městských stok."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:973
@@ -2783,8 +2782,7 @@ msgid ""
 "Wow, this is beginning to sound dangerously like a plan. Commander Aethyr, "
 "will you join us?"
 msgstr ""
-"Páni! Tohle začíná nebezpečně znít jako plán. Veliteli Aethyre, přidáš se k "
-"nám?"
+"Páni! Tohle vážně začíná znít jako plán. Veliteli Aethyre, přidáš se k nám?"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:978
