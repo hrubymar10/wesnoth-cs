@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-04-28 21:56+0200\n"
+"PO-Revision-Date: 2020-04-30 20:05+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3307,6 +3307,8 @@ msgid ""
 "It is so dark down here! It feels like the light from our torches is doing "
 "hardly anything at all."
 msgstr ""
+"Tady dole je taková tma! Zdá se, že s ní světlo našich pochodní sotva něco "
+"zmůže."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:399
@@ -3316,6 +3318,10 @@ msgid ""
 "far less adept in caves than we are in our forests. You will have to lead "
 "the way."
 msgstr ""
+"To bude práce nemrtvých. Musíme postupovat pomalu, protože zla, která "
+"bandité probudili, se zdají být docela silná. My elfové jsme také "
+"v jeskyních daleko méně zdatní než v našich lesích. Budeš se muset ujmout "
+"vedení."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:404
@@ -3323,6 +3329,8 @@ msgid ""
 "Very well. We should all stay close and guard each others’ backs. Something "
 "sinister lurks in this darkness."
 msgstr ""
+"Tak dobře. Všichni bychom se měli držet pohromadě a hlídat jeden druhému "
+"záda. V téhle temnotě číhá něco zlověstného."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:410
