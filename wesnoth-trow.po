@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-04-29 22:42+0200\n"
+"PO-Revision-Date: 2020-05-01 09:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2877,13 +2877,13 @@ msgid ""
 "Well, let’s un-petrify that lich and take his book, then get into the "
 "sewers. Umm, what language would that book be in?"
 msgstr ""
-"Dobře, pojďmě odkamenit toho licha a sebereme mu knihu, pak vejdeme do stok. "
-"Ehm, v jakém jazyce by ta kniha měla být?"
+"Dobře, pojďme odkamenit toho licha a sebrat mu knihu. Pak vejdeme do stok. "
+"Ehm, v jakém jazyce by ta kniha měla být?"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:279
 msgid "Some pep talk. The book will probably be in the Old Wesfolk tongue."
-msgstr "Povzbuzující projev. Kniha bude nejspíš v staré Wesanštině."
+msgstr "Povzbuzující projev. Kniha bude nejspíš ve staré Wesanštině."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:283
@@ -2893,7 +2893,7 @@ msgstr "Ou."
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:287
 msgid "Just get the book, I think I should be able to translate it."
-msgstr "Prostě dostaň tu knihu; myslím, že bych ji měla dokázat přeložit."
+msgstr "Prostě získej tu knihu. Myslím, že bych ji měla dokázat přeložit."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:291
