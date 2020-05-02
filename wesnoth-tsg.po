@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-04-30 20:05+0200\n"
+"PO-Revision-Date: 2020-05-02 22:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3291,10 +3291,8 @@ msgstr "Hlídající oko"
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:280
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:285
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:290
-#, fuzzy
-#| msgid "Mal Tera"
 msgid "Mal Maul"
-msgstr "Mal Tera"
+msgstr "Mal Maul"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:295
@@ -3334,26 +3332,21 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:410
-#, fuzzy
-#| msgid ""
-#| "Cavalrymen and Dragoons will be less useful in the caves than soldiers "
-#| "who fight on foot."
 msgid ""
 "Cavalrymen and Dragoons will be less useful underground than soldiers who "
 "fight on foot."
 msgstr ""
-"V jeskyních jsou kavaleristé a dragouni méně použitelní než vojáci bojující "
-"opěšalí."
+"V podzemí se kavaleristé a dragouni budou hodit méně než vojáci, kteří "
+"bojují pěší."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:415
-#, fuzzy
-#| msgid ""
-#| "Also, soldiers with the <i>quick</i> trait will be useful in the dark."
 msgid ""
 "Soldiers with the <i>quick</i> trait will be useful for traversing rough "
 "caverns."
-msgstr "Vojáci s vlastností <i>rychlý</i> budou v temnotě také užiteční."
+msgstr ""
+"Pro přechod nerovných jeskyní budou užiteční vojáci s vlastností <i>rychlý</"
+"i>."
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:423
@@ -3362,16 +3355,12 @@ msgstr "Najdi zdroj nemrtvých pod citadelou"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:461
-#, fuzzy
-#| msgid ""
-#| "What horrid creature may that be? I’ve seen many wicked things in my "
-#| "life, but never one such as that."
 msgid ""
 "What manner of horrid creature is this? I have seen many wicked things in my "
 "life, but never one so perverse."
 msgstr ""
-"Co za příšernou stvůru to může být? Viděl jsem už dost zkažených věcí, ale "
-"toto je novinka."
+"Co je to za odporného tvora? Za svůj život jsem viděl hodně hnusných věcí, "
+"ale nikdy ne tak zvrácenou."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:466
@@ -3380,6 +3369,9 @@ msgid ""
 "suspect that this is some other beast, twisted by the foul energy of this "
 "place. It must have been set here as a guardian."
 msgstr ""
+"Takové tvory mohou povolat dostatečně schopní kouzelníci, ačkoli mám dojem, "
+"že tohle je trochu jiné monstrum, zvrácené nečistou silou tohoto místa. Musí "
+"tu být umístěno jako strážce."
 
 #. [message]: speaker=Grek
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:506
