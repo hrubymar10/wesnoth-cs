@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-05-02 22:29+0200\n"
+"PO-Revision-Date: 2020-05-02 23:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1228,7 +1228,7 @@ msgstr "Opatrně, nevíte, co tam číhá!"
 #. [unit]: type=White Mage, id=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:365
 msgid "Minister Edren"
-msgstr "Ministr Edren"
+msgstr "Kněz Edren"
 
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:377
@@ -3282,7 +3282,7 @@ msgstr "Přivádíš tedy uprchlíky, princi, ale přivádíš také meče?"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:103
 msgid "I bear both, and all are loyal to the King of Southbay!"
-msgstr "Přináším obojí a všichni jsou věrní králi Jižního zálivu."
+msgstr "Přináším obojí a všichni jsou věrní králi Jižního zálivu!"
 
 #. [message]: speaker=King Addroran IX
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:107
@@ -3291,7 +3291,7 @@ msgid ""
 "honorable man, and so are you. Aren’t you the king now?"
 msgstr ""
 "Znal jsem tě jako chlapce a tvoji lidé tě už uvedli. Tvůj otec byl výtečný "
-"muž, a ty jsi též. Nejsi teď králem?"
+"muž a ty jsi též. Nejsi teď králem?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:111
@@ -3320,14 +3320,14 @@ msgid ""
 "Hmph! It matters little now. What’s this? You bring a Wesfolk waif with you. "
 "Put her out with the others!"
 msgstr ""
-"Pch! Na tom už teď pramálo záleží. A co je tohle? Přivádíš s sebou Wesanskou "
+"Pch! Na tom už teď pramálo záleží. A co je tohle? Přivádíš s sebou wesanskou "
 "vandračku. Vyhoď ji ven za ostatními!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:128
 msgid "You’ve put my people out in the snow? Prepare to meet your fate you—"
 msgstr ""
-"Tys vyhodil moje lidi ven na sníh! Připrav se na setkání se svým osudem, "
+"Tys vyhodil moje lidi ven na sníh? Připrav se na setkání se svým osudem, "
 "ty..."
 
 #. [message]: speaker=Prince Haldric
@@ -3343,13 +3343,13 @@ msgid ""
 "What? On your word alone, boy? And what of the other Wesfolk that have "
 "drifted to our gate?"
 msgstr ""
-"Cože? Na slovo jednoho kluka? A co ti ostatní Wesané, které jsi dotáhl k mé "
-"bráně?"
+"Cože? Jen na tvé slovo, chlapče? A co ti ostatní Wesané, kteří přitáhli "
+"k naší bráně?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:140
 msgid "Let them all in! For the sake of humanity on this isle!"
-msgstr "Vpusť je všechny dovnitř! V zájmu lidství na tomto ostrově!"
+msgstr "Vpusť je všechny dovnitř! V zájmu lidskosti na tomto ostrově!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:144
@@ -3359,10 +3359,10 @@ msgid ""
 "your eldest son that you let all of the Wesfolk who may come into the city, "
 "and allow them to participate in what must happen next."
 msgstr ""
-"A protože ti tento obchod mohu zpříjemnit. Mohu zachránit životy všech lidí, "
+"A protože ti tento obchod mohu zpříjemnit. Mohu zachránit životy všech lidí, "
 "kteří na tomto ostrově zůstali. Vyjevím ti všechno, pokud odpřisáhneš na "
-"duši svého nejstaršího syna, že vpustíš všechny Wesany, kteří snad přijdou k "
-"tomuto městu, a povolíš jim podílet se na tom, co se pak musí stát."
+"duši svého nejstaršího syna, že vpustíš všechny Wesany, kteří snad přijdou "
+"k tomuto městu a povolíš jim podílet se na tom, co se pak musí stát."
 
 #. [message]: speaker=King Addroran IX
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:148
@@ -3415,9 +3415,9 @@ msgid ""
 "already repelled one orcish assault. We should be working toward taking back "
 "the Isle."
 msgstr ""
-"Jistou podporu nám vaši lidé prokázali. Proč utíkat? A proč na východ? Než "
-"přišla zima, již jsme odrazili skřetí pokus o útok. Měli bychom se zaměřit "
-"na opětovné převzetí ostrova."
+"Jistou podporu nám vaši lidé prokázali. Proč vůbec utíkat? A proč na východ? "
+"Už jsme odrazili jeden skřetí útok. Měli bychom se zaměřit na opětovné "
+"převzetí ostrova."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:177
@@ -3512,7 +3512,7 @@ msgstr ""
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:209
 msgid ""
 "I’ll begin my translation. Oh, and you should seal up the sewer entrance."
-msgstr "Začala jsem s překladem. Á, a měl bys pořádně uzavřít stup do stok."
+msgstr "Začnu s překladem. No a ty bys měl pořádně uzavřít vstup do stok."
 
 #. [scenario]: id=12_A_Final_Spring
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:4
