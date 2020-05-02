@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-01 22:39-0300\n"
-"PO-Revision-Date: 2020-02-12 23:00+0100\n"
+"PO-Revision-Date: 2020-05-02 23:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [multiplayer_side]: id=Custom
 #: data/_main.cfg:22
@@ -3428,7 +3428,7 @@ msgstr "Weight of Revenge"
 #. [message]: speaker=narrator
 #: data/core/macros/utils.cfg:719
 msgid "You retrieve $amount_gold pieces of gold."
-msgstr "Získáváš $amount_gold zlata."
+msgstr "Získáváš $amount_gold zlatých."
 
 #. [color_range]: id=red
 #. [color_range]: id=1
@@ -7866,8 +7866,7 @@ msgstr "Zlatých"
 msgid ""
 "The amount of gold currently available to recruit and maintain your army."
 msgstr ""
-"Množství zlata, které je aktuálně dostupné k verbování a udržování tvé "
-"armády."
+"Množství zlata, které je nyní dostupné k verbování a udržování tvé armády."
 
 #: src/reports.cpp:1330
 msgid "The fraction of known villages that your side has captured."
