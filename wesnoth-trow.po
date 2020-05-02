@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-05-01 09:11+0200\n"
+"PO-Revision-Date: 2020-05-02 22:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3143,9 +3143,9 @@ msgid ""
 "is the sewer of Southbay. It is said that the city diverted an underground "
 "river for its own use, and let their own effluent run down the old river bed."
 msgstr ""
-"Měli bychom zde dávat pozor. Toto není okapová roura staré panny, toto jsou "
-"stoky Jižního zálivu. Říká se, že město odklonilo podzemní řeku pro své "
-"účely a nechalo svou odpadní vodu vytékat starým říčním korytem."
+"Měli bychom zde dávat pozor. Tohle není odpadní potrubí v domě staré panny, "
+"toto jsou stoky Jižního zálivu. Říká se, že město odklonilo podzemní řeku "
+"pro své účely a nechalo svou odpadní vodu vytékat starým říčním korytem."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:164
@@ -3158,8 +3158,8 @@ msgid ""
 "That a King banished a pair of twin Magi and their devoted followers down "
 "here after the Wesfolk war!"
 msgstr ""
-"Že sem král po válce s Wesany vyhnal dvojici Mágů a jejich věrných "
-"následovníků!"
+"Že sem král po válce s Wesany vyhnal dva mágy – dvojčata a jejich věrné "
+"následovníky!"
 
 #. [message]: speaker=Daellyn the Red
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:172
@@ -3167,8 +3167,8 @@ msgid ""
 "Can you feel it, brother? This one bears the Ruby of Fire. After all our "
 "time searching, it has come to us!"
 msgstr ""
-"Cítíš ho, bratře? Tamten nese Ohnivý rubín. Po celé té době, kdy jsme "
-"hledali, prostě přišel sám přímo k nám!"
+"Cítíš to, bratře? Tamten nese Ohnivý rubín. Po celé té době, kdy jsme "
+"hledali, prostě přišel sám přímo k nám!"
 
 #. [message]: speaker=Tinry the Red
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:176
@@ -3189,8 +3189,8 @@ msgid ""
 "Rithrandil felt it, and so did Lich-Lord Caror, now these two."
 msgstr ""
 "Haldriku, je tu cosi, co mne naplňuje předtuchou. Ten rubín – všiml sis, že "
-"kdokoli, kdo je zběhlý v umění magie, jej dokáže vycítit? Elilmaldur-"
-"Rithrandil ho cítil, stejně tak lord-lich Caror, a teď ti dva."
+"kdokoli, kdo je zběhlý v umění magie, jej dokáže vycítit? Elilmaldur-"
+"Rithrandil ho cítil, stejně tak lord-lich Caror a teď ti dva."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:198
@@ -3221,7 +3221,7 @@ msgid ""
 "Argh, the stream bed is blocked! Only a pint of goo is getting through. "
 "We’ll have to go around."
 msgstr ""
-"Proklatě, řečiště je ucpané! Proteče jím jen stružka splašků. Musíme jít "
+"Proklatě, řečiště je ucpané! Protéká jím jen stružka splašků. Musíme jít "
 "okolo."
 
 #. [message]: speaker=narrator
@@ -3235,18 +3235,18 @@ msgid ""
 "It’s not very heroic if Prince Haldric isn’t the one to lead his band from "
 "the Sewers of Southbay."
 msgstr ""
-"Nebude to příliš hrdinské, pokud to nebude princ Haldrik, kdo skupinu vyvede "
-"ze stok Jižního zálivu."
+"Není příliš hrdinské, když ten, jenž vyvede svou družinu ze stok Jižního "
+"zálivu, není princ Haldrik."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:381
 msgid "Danger Ahead!"
-msgstr "Pozor, nebezpečí!"
+msgstr "Pozor, nebezpečí vpředu!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:387
 msgid "‘Ahead’? So far it’s been danger everywhere."
-msgstr "Kupředu? Zatím tu bylo nebezpečí všude."
+msgstr "„Vpředu?“ Zatím tu bylo nebezpečí všude."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:399
