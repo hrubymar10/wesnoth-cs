@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-05-02 22:36+0200\n"
+"PO-Revision-Date: 2020-05-03 08:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3379,15 +3379,17 @@ msgid ""
 "Who go there? I see... I sees some humans and elfsies! What you doing in our "
 "caves?"
 msgstr ""
+"Kdo být tam? Aha... Já vidí nějaké lidi a elfíky! Co pohledáváte v našich "
+"jeskyních?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:510
-#, fuzzy
-#| msgid "We mean no trespass. We are hunting the undead."
 msgid ""
 "We do not mean to trespass on your territory. We are hunting the undead and "
 "have no quarrel with you."
-msgstr "Nepředstavujeme pro vás hrozbu. Pronásledujeme nemrtvé."
+msgstr ""
+"Nemáme v úmyslu bez dovolení vstupovat na vaše území. Pronásledujeme nemrtvé "
+"a s vámi nejsme ve sporu."
 
 #. [message]: speaker=Grek
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:514
@@ -3395,6 +3397,8 @@ msgid ""
 "Undead! Pesky skeletons invade our home, drive us into hiding! They too "
 "stupid to find us here, but we no leave here either."
 msgstr ""
+"Nemrtví! Otravní kostlivci vpadli do našeho domova a přinutili nás se "
+"schovat! Oni moc hloupí, aby nás tu našli, ale my to tu také neopustit."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:518
@@ -3402,6 +3406,8 @@ msgid ""
 "It seems that we have a common enemy, then. Would you like to join forces to "
 "defeat the undead?"
 msgstr ""
+"Tak to vypadá, že máme společného nepřítele. Nechtěl bys spojit síly, "
+"abychom porazili nemrtvé?"
 
 #. [message]: speaker=Grek
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:522
@@ -3410,27 +3416,28 @@ msgid ""
 "We help you beat skeletons, but after they gone we take back our home and "
 "you leave. Okay?"
 msgstr ""
+"Spojit? Přidat se k lidem a elfíkům? Hmm. Dobrá. Lidi a elfíci kamarádi. "
+"Pomůžeme vám porazit kostlivce, ale až bude po nich, vezmeme si náš domov "
+"zpět a vy odejdete. Dobře?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:526
-#, fuzzy
-#| msgid ""
-#| "What aid can you offer us? We are not well suited to fighting in the "
-#| "caves."
 msgid ""
 "Very well. Can you help guide us through these tunnels? We are not well "
 "suited to fighting in the caves."
-msgstr "Jak nám můžete pomoci? Nedokážeme dobře bojovat v jeskyních."
+msgstr ""
+"Výborně. Můžeš nám pomoct projít těmito chodbami? Nedokážeme dost dobře "
+"bojovat v jeskyních."
 
 #. [message]: speaker=Grek
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:530
 msgid "It okay. Grek lead you to lich. Look there!"
-msgstr ""
+msgstr "To dobře. Grek vás vést k lichovi. Podívej se támhle!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:632
 msgid "Excellent. Onwards we go!"
-msgstr ""
+msgstr "Výtečně. Kupředu!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:650
