@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-05-02 23:58+0200\n"
+"PO-Revision-Date: 2020-05-03 09:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3632,7 +3632,7 @@ msgstr ""
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:381
 msgid "Very well. I’ll do my best."
-msgstr "Dobrá, tedy. Udělám, co mohu."
+msgstr "Dobrá tedy. Udělám, co mohu."
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:394
@@ -3657,9 +3657,9 @@ msgid ""
 "exchange for steel trident points and fishhooks. It’s difficult to be a "
 "blacksmith when you live underwater."
 msgstr ""
-"On je z velké části příčinou, že se tvůj syn dostal do zemí na východě. Lord "
-"Tyfon nás zásobil perlami a zajistil doprovod na našich cestách výměnou za "
-"ocelové trojzubce a rybářské háčky. Je obtížné být kovářem, žiješ-li pod "
+"On je z velké části příčinou, že se tvůj syn dostal do zemí na východě. Lord "
+"Tyfon nás zásobil perlami a zajistil doprovod na našich cestách výměnou za "
+"ocelové trojzubce a rybářské háčky. Je obtížné být kovářem, žiješ-li pod "
 "vodou."
 
 #. [message]: speaker=Lord Typhon
@@ -3816,7 +3816,7 @@ msgstr "Nový Jižní záliv"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:687
 msgid "They sealed it, there is no escape for you!"
-msgstr "Uzavřeli ho, není pro tebe úniku!"
+msgstr "Uzavřeli to, není pro tebe úniku!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:701
@@ -3831,14 +3831,14 @@ msgstr "Potřebovali jsme ho, aby držel Jižní záliv. Teď je po nás!"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:718
 msgid "We’ve defeated the orcs. Let’s rig the ships and get out of here."
-msgstr "Porazili jsme skřety. Vystrojme ty lodě a dostaňme se odtud."
+msgstr "Porazili jsme skřety. Vystrojme ty lodě a vypadněme odtud."
 
 #. [message]: speaker=King Addroran IX
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:722
 msgid ""
 "Oh, for my sons... — As we agreed. I will hold Southbay until my last breath."
 msgstr ""
-"Moji synové... Jak jsme se dohodli. Budu držet Jižní záliv do posledního "
+"Ach moji synové... Jak jsme se dohodli. Budu držet Jižní záliv do posledního "
 "dechu."
 
 #. [message]: speaker=Lady Jessene
@@ -3868,8 +3868,8 @@ msgid ""
 "There’s not much we can do about that now. I dub this fine ship the Eldaric, "
 "in honor of my father. About that island..."
 msgstr ""
-"S tím teď nemůžeme mnoho dělat. Na počest svého otce křtím tuto skvělou loď "
-"Eldarik. A ohledně toho ostrova..."
+"S tím teď nemůžeme mnoho dělat. Na počest svého otce křtím tuto skvělou loď "
+"Eldarik. A ohledně toho ostrova..."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:738
