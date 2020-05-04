@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-01 22:39-0300\n"
-"PO-Revision-Date: 2020-05-02 23:01+0200\n"
+"PO-Revision-Date: 2020-05-04 22:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1731,7 +1731,7 @@ msgstr ""
 msgid ""
 "This trident gives merfolk the power to throw lightning at their enemies."
 msgstr ""
-"Tento trojzubec umožňuje mořských lidech svádět blesky na jejich nepřátele."
+"Tento trojzubec umožňuje mořským lidem vrhat blesky na jejich nepřátele."
 
 #. [effect]: type=fire
 #: data/core/macros/items.cfg:525
