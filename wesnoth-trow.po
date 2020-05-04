@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-05-03 09:26+0200\n"
+"PO-Revision-Date: 2020-05-04 22:06+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3918,10 +3918,9 @@ msgid ""
 "of that foothold by now."
 msgstr ""
 "Podle všeho byl ostrov, k němuž se král Haldrik a jeho mužstvo blíží, kdysi "
-"sopkou a nyní se již pomalu potápí do moře. I přes "
-"bojovnou povahu ještěřích obyvatel tohoto ostrova na něm starší korunní princ Jižního "
-"zálivu dokázal vybudovat základnu. "
-"Z té už teď mnoho zbývat nebude."
+"sopkou a nyní se již pomalu potápí do moře. I přes bojovnou povahu ještěřích "
+"obyvatel tohoto ostrova na něm starší korunní princ Jižního zálivu dokázal "
+"vybudovat základnu. Z té už teď mnoho zbývat nebude."
 
 #. [side]: type=Drake Flameheart, id=Kegrid
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/13_Peoples_in_Decline.cfg:46
@@ -3953,8 +3952,8 @@ msgid ""
 "After some time at sea an island is spotted. The Eldaric docks at a crude "
 "port that appears to be deserted."
 msgstr ""
-"Po nějaké době na moři spatřili ostrov. Eldarik zakotvil u jednoduchého přístavu, "
-"jež se zdál být opuštěn."
+"Po nějaké době na moři spatřili ostrov. Eldarik zakotvil u jednoduchého "
+"přístavu, jež se zdál být opuštěn."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/13_Peoples_in_Decline.cfg:207
