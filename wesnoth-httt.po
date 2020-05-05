@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-01-18 22:17+0100\n"
+"PO-Revision-Date: 2020-05-05 20:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:9
@@ -1124,7 +1124,7 @@ msgstr "Tedy dobrá. Buď opatrný!"
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:235
 msgid "But boss, why are we only using bats and nagas?"
-msgstr "Ale šéfe, proč používáme jenom netopejry a vodní rejpaly?"
+msgstr "Ale šéfe, proč používáme jenom netopejry a nágy?"
 
 #. [message]: speaker=Dwaba-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:240
@@ -1132,8 +1132,8 @@ msgid ""
 "Because we need to control the seas and the merfolk, and nagas and bats are "
 "best for doing that!"
 msgstr ""
-"Protože potřebujeme kontrolovat moře a vodní lid. Mořští rejpalové a "
-"netopýři jsou na to nejlepší!"
+"Protože potřebujeme kontrolovat moře a vodní lid. Nágy a netopýři jsou na to "
+"nejlepší!"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:245

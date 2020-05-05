@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-05-04 22:06+0200\n"
+"PO-Revision-Date: 2020-05-05 20:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4115,9 +4115,9 @@ msgid ""
 "the only place to stop with soft sand beaches to make landfall... The Nagas "
 "like to scavenge metal from ships that they capture here."
 msgstr ""
-"Buď opatrný, tyto ostrovy nejsou bezpečné. Jsme na území vodních rejpalů. "
-"Ovšem toho je jediné místo s písčitými plážemi, kde můžeme zastavit, než se "
-"vylodíme... Rejpalové rádi vybírají kovy z lodí, které zde zajmou."
+"Buď opatrný, tyto ostrovy nejsou bezpečné. Jsme na území nág. Ovšem toho je "
+"jediné místo s písčitými plážemi, kde můžeme zastavit, než se vylodíme... "
+"Nágy rády vybírají kovy z lodí, které zde zajmou."
 
 #. [message]: speaker=Xamalia
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:201
@@ -4162,7 +4162,7 @@ msgstr "Ssssss!"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:349
 msgid "We’ve defeated the nagas. The fleet should be able to regroup here."
-msgstr "Porazili jsme ty rejpaly. Flotila se tu bude moci opět uspořádat."
+msgstr "Porazili jsme ty nágy. Flotila se tu bude moci opět uspořádat."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:354
@@ -4571,7 +4571,7 @@ msgstr "Lorde Logalmiere, porazím tvého draka."
 #. [option]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:182
 msgid "Let’s get those saurians and nagas on that beach!"
-msgstr "Pojďme vyřídit ty ještěráky a rejpaly na pláži!"
+msgstr "Pojďme vyřídit ty ještěráky a nágy na pláži!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:194
@@ -4621,9 +4621,9 @@ msgid ""
 "trading metal with the nagas of the sea. We should put a stop to this. They "
 "are located on a beach near here."
 msgstr ""
-"Skupina ještěráků, bezpochyby spojenců toho draka, prodává kovy vodním "
-"rejpalům. Měli bychom s tím věru skoncovat. Vypátrali jsme je na pláži "
-"nedaleko odtud."
+"Skupina ještěráků, bezpochyby spojenců toho draka, prodává kovy mořským "
+"nágám. Měli bychom s tím věru skoncovat. Vypátrali jsme je na pláži nedaleko "
+"odtud."
 
 #. [message]: speaker=Lord Aryad
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:312
@@ -5112,8 +5112,7 @@ msgstr "Příšery! Napadly nás příšery."
 #. [message]: speaker=Tirasch
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17b_Lizard_Beach.cfg:145
 msgid "We must hold the beach until we can call our naga friends."
-msgstr ""
-"Musíme udržet pláž, než se nám podaří přivolat naše kamarády vodní rejpaly."
+msgstr "Musíme udržet pláž, než se nám podaří přivolat naše kamarády nágy."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17b_Lizard_Beach.cfg:150
@@ -5129,8 +5128,8 @@ msgstr "(<i>Povzdech</i>) Vsadím se, že v tom ani nepostřehl tu ironii."
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17b_Lizard_Beach.cfg:164
 msgid "We were too slow... Every naga in the sea will be upon us!"
 msgstr ""
-"Byli jsme příliš pomalí... Teď se na nás vrhnou všichni vodní rejpalové, co "
-"jen jsou v moři."
+"Byli jsme příliš pomalí... Teď se na nás vrhnou všechny nágy, co jich jen "
+"v moři je!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17b_Lizard_Beach.cfg:188
@@ -5942,7 +5941,7 @@ msgid ""
 "our Naga friendsss— You’ll pay! We have new friends now."
 msgstr ""
 "Zasse ty. Zakussíš bolesst pro ssvůj útok na našše lidi. Shek’kahan, našši "
-"rejpalí sstoupenci... Zaplatíšš! Máme teď nové přátele."
+"kamarádi nágy... Zaplatíšš! Máme teď nové přátele."
 
 #. [message]: speaker=Tan-Halg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:568
