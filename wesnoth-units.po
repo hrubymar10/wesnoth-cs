@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:29 UTC\n"
-"PO-Revision-Date: 2020-05-05 18:56+0200\n"
+"PO-Revision-Date: 2020-05-05 21:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -944,6 +944,8 @@ msgid ""
 "Compared to other drakes, Drake Arbiters have a higher resistance to "
 "‘pierce’ attacks."
 msgstr ""
+"Oproti ostatním drakonidům mají drakonidé soudci vyšší odolnost vůči útokům "
+"„bodnutím“."
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -1341,6 +1343,8 @@ msgid ""
 "Compared to other drakes, Drake Wardens have a higher resistance to ‘pierce’ "
 "attacks."
 msgstr ""
+"Oproti ostatním drakonidům mají drakonidští strážci vyšší odolnost vůči "
+"útokům „bodnutím“."
 
 #. [unit_type]: id=Drake Warrior, race=drake
 #: data/core/units/drakes/Warrior.cfg:4
@@ -2393,6 +2397,8 @@ msgid ""
 "Compared to other elves, Elvish Avengers have superior movement and defense "
 "on sand, shallow water, and mountains."
 msgstr ""
+"Oproti ostatním elfům mají elfí mstitelé lepší obranu a pohyb na písku, "
+"v mělké vodě a horách."
 
 #. [female]
 #: data/core/units/elves/Avenger.cfg:96
@@ -2714,6 +2720,8 @@ msgid ""
 "Compared to other elves, Elvish Rangers have superior movement and defense "
 "on sand, shallow water, and mountains."
 msgstr ""
+"Oproti ostatním elfům mají elfí hraničáři lepší obranu a pohyb na písku, "
+"v mělké vodě a horách."
 
 #. [female]
 #: data/core/units/elves/Ranger.cfg:93
@@ -3480,6 +3488,8 @@ msgid ""
 "Compared to other loyalists, Halberdiers have a higher resistance to "
 "‘pierce’ attacks."
 msgstr ""
+"Oproti ostatním věrným mají halapartníci vyšší odolnost vůči útokům "
+"„bodnutím“."
 
 #. [unit_type]: id=Heavy Infantryman, race=human
 #: data/core/units/humans/Loyalist_Heavy_Infantryman.cfg:4
@@ -3677,6 +3687,7 @@ msgid ""
 "Compared to other loyalists, Pikemen have a higher resistance to ‘pierce’ "
 "attacks."
 msgstr ""
+"Oproti ostatním věrným mají pikenýři vyšší odolnost vůči útokům „bodnutím“."
 
 #. [attack]: type=pierce
 #: data/core/units/humans/Loyalist_Pikeman.cfg:32
@@ -3714,11 +3725,13 @@ msgid ""
 "Compared to other loyalists, Royal Guards have a higher resistance to "
 "‘blade’ and ‘impact’ attacks."
 msgstr ""
+"Oproti ostatním věrným má královská stráž vyšší odolnost vůči útokům "
+"„čepelí“ a „úderem“."
 
 #. [unit_type]: id=Royal Guard, race=human
 #: data/core/units/humans/Loyalist_Royal_Guard.cfg:20
 msgid "Compared to other loyalists, Royal Guards have more movepoints."
-msgstr ""
+msgstr "Oproti ostatním věrným má královská stráž více kroků."
 
 #. [unit_type]: id=Sergeant, race=human
 #: data/core/units/humans/Loyalist_Sergeant.cfg:4
@@ -3814,6 +3827,8 @@ msgid ""
 "Compared to other loyalists, Swordsmen have a higher resistance to ‘blade’ "
 "and ‘impact’ attacks."
 msgstr ""
+"Oproti ostatním věrným mají bojovníci s mečem vyšší odolnost vůči útokům "
+"„čepelí“ a „úderem“."
 
 #. [unit_type]: id=Mage, race=human
 #: data/core/units/humans/Mage.cfg:4
