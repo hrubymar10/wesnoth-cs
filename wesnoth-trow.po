@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-05-05 20:16+0200\n"
+"PO-Revision-Date: 2020-05-05 21:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4115,7 +4115,7 @@ msgid ""
 "the only place to stop with soft sand beaches to make landfall... The Nagas "
 "like to scavenge metal from ships that they capture here."
 msgstr ""
-"Buď opatrný, tyto ostrovy nejsou bezpečné. Jsme na území nág. Ovšem toho je "
+"Buď opatrný, tyto ostrovy nejsou bezpečné. Jsme na území nág. Ovšem toto je "
 "jediné místo s písčitými plážemi, kde můžeme zastavit, než se vylodíme... "
 "Nágy rády vybírají kovy z lodí, které zde zajmou."
 
@@ -4201,8 +4201,8 @@ msgid ""
 "hunt small game, relieved to have land beneath their feet. When they depart, "
 "even the sea-weather is milder."
 msgstr ""
-"Po porážce nág Haldrikovi uprchlíci nabírají čerstvou vodu a loví zvěř, s "
-"radostí z pevné půdy pod nohama. Když ostrov opouštějí, i počasí je o něco "
+"Po porážce nág Haldrikovi uprchlíci nabírají čerstvou vodu a loví zvěř, "
+"s radostí z pevné půdy pod nohama. Když ostrov opouštějí, i počasí je o něco "
 "mírnější než doposud."
 
 #. [part]
@@ -4212,8 +4212,8 @@ msgid ""
 "gulls and feel the loom of the land. The Great Continent appears before them "
 "over the summer-lit seas."
 msgstr ""
-"Po týdnu plavby východním směrem se začínají objevovat křiklaví racci a je "
-"cítit blízkost země. Za sluncem prozářeným mořem se před nimi objevuje Velký "
+"Po týdnu plavby východním směrem začínají slýchat křik racků a je cítit "
+"blízkost země. Za sluncem prozářeným mořem se před nimi objevuje Velký "
 "kontinent."
 
 #. [side]: type=Elvish Marshal, id=Glimir
@@ -4296,11 +4296,11 @@ msgid ""
 "the Great River, and force us onto only the hills and mountains of the "
 "north? There are hills and mountains as good as any here in the south!"
 msgstr ""
-"Naše země se zaplnily a naše doly sahají až na dno světa. Vyhráli jsme svou "
+"Naše země se zaplnily a naše doly sahají až na dno světa. Vyhráli jsme svou "
 "válku proti těm věcem, co žijí ve tmě. Jakým právem si přivlastňujete "
-"všechny lesy světa, a navíc veškerou zemi na jih od velké řeky? Jakým právem "
-"nás nutíte žít jen v kopcích a horách na severu? Tady na jihu jsou stejně "
-"dobré kopce a hory jako kdekoli jinde!"
+"všechny lesy světa, a navíc veškerou zemi na jih od Velké řeky? Jakým právem "
+"nás nutíte žít jen v kopcích a horách na severu? Tady na jihu jsou stejně "
+"dobré kopce a hory jako kdekoli jinde!"
 
 #. [message]: speaker=Glimir
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:299
@@ -4350,9 +4350,9 @@ msgid ""
 "diplomacy then. Haldric, we should avoid bloodshed even if we have to ward "
 "them off. There has to be a peaceful resolution to this."
 msgstr ""
-"Jú, a to sis tu řeč procvičoval celé dny! Diplomacii máme, hádám, tedy za "
-"sebou. Měli bychom se vyknout krveprolití, i když je budeme muset odrazit "
-"pryč. Musí se to vyřešit nějakou mírovou cestou."
+"Jú, a to sis tu řeč procvičoval celé dny. Diplomacii máme, hádám, tedy za "
+"sebou. Měli bychom se vyhnout krveprolití, i když je budeme muset odrazit. "
+"Musí se to vyřešit nějakou mírovou cestou."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:388
@@ -4410,7 +4410,7 @@ msgid ""
 "the dwarves, for the moment, and decided to deal with this first."
 msgstr ""
 "Mysleli jsme, že jsme napadeni. Odložili jsme pro tu chvíli, ehm, naše spory "
-"s trpaslíky stranou a rozhodli se nejdřív se vypořádat s tím."
+"s trpaslíky stranou a rozhodli se nejdřív vypořádat s tímto."
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:455
@@ -4420,7 +4420,7 @@ msgid ""
 "far from here."
 msgstr ""
 "To je zneklidňující vývoj. Je vaším jediným štěstím, lidé, že jsem zde, "
-"abych vás ušetřila. Protože tohoto dne v lese nedaleko odsud zasedá Elfí "
+"abych vás ušetřila. Protože tohoto dne v lese nedaleko odsud zasedá elfí "
 "rada."
 
 #. [message]: speaker=Prince Haldric
@@ -4439,8 +4439,8 @@ msgid ""
 "As for you, dwarf, return to the Brown Hills. Then tell your people to "
 "prepare to return to the north."
 msgstr ""
-"A pokud jde o vás, trpaslíci, vraťte se do Hnědých vrchů. Řekněte vašim "
-"lidem, ať se připraví na návrat na sever."
+"A pokud jde o vás, trpaslíci, vraťte se do Hnědých vrchů. Řekněte vašim "
+"lidem, ať se připraví vrátit se na sever."
 
 #. [message]: speaker=Dursil
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:471
@@ -4454,8 +4454,8 @@ msgid ""
 "Haldric, is it? You are their leader? You and your advisers are to come with "
 "me. It will be safe for your passengers to disembark here."
 msgstr ""
-"Haldrik ti říkají? Ty jsi jejich vůdce? Ty a tví rádce pojďte se mnou. Tví "
-"cestující zde mohou bezpečně vystoupit na břeh."
+"Haldrik ti říkají? Ty jsi jejich vůdce? Ty a tví rádci půjdete se mnou. "
+"Tvoji cestující zde mohou bezpečně vystoupit na břeh."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:500
@@ -4471,7 +4471,7 @@ msgid ""
 "disposal."
 msgstr ""
 "Musím se vrátit ke svému lidu. Dodrželi jste své slovo, můžete využít mých "
-"služeb i v budoucnosti. Mí lidé vám zůstanou k disposici."
+"služeb i v budoucnu. Mí lidé vám zůstanou k dispozici."
 
 #. [message]: speaker=Lord Typhon
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:516
@@ -4491,7 +4491,7 @@ msgid ""
 "to look for more survivors. If they return tell them to keep returning until "
 "no more survivors are found."
 msgstr ""
-"Jeseno, vzkaž, že se má třetina flotily vrátit k Zelenému ostrovu a podívat "
+"Jeseno, vzkaž, že se má třetina flotily vrátit k Zelenému ostrovu a podívat "
 "se po dalších přeživších. Vrátí-li se, řekni jim, ať se vracejí, dokud budou "
 "nacházet někoho, kdo přežil."
 
@@ -4520,7 +4520,7 @@ msgid ""
 "This is the second Eldaric I get to say goodbye to. At least this time it is "
 "easier than the first."
 msgstr ""
-"Toto je druhý Eldarik, s kterým se musím rozloučit. Tentokrát je to alespoň "
+"Toto je druhý Eldarik, se kterým se musím rozloučit. Tentokrát je to alespoň "
 "snazší než tehdy."
 
 #. [scenario]: id=16_The_Kalian
