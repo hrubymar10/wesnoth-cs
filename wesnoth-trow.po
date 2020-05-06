@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-05-05 21:02+0200\n"
+"PO-Revision-Date: 2020-05-06 20:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4591,7 +4591,7 @@ msgstr "Co že je to přesně ten troll?"
 #. [option]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:239
 msgid "Let’s put those souls to rest on the cursed isle!"
-msgstr "Pojďme dopřát klidu těm duším na Prokletém ostrově!"
+msgstr "Pojďme dopřát klidu těm duším na prokletém ostrově!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:251
@@ -4678,12 +4678,12 @@ msgid ""
 "Haldric and his companions find themselves before the Ka’lian, or the "
 "Council of Elven Lords."
 msgstr ""
-"Haldrik se svými společníky ocitl před Kalianem, neboli radou elfích pánů."
+"Haldrik a jeho společníci se ocitli před Kalianem, neboli radou elfích pánů."
 
 #. [message]: speaker=Lord Logalmier
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:380
 msgid "Dionli, why have you brought these humans before us?"
-msgstr "Dionli, proč jsi před náš předvedla tyto lidi?"
+msgstr "Dionli, proč jsi před nás předvedla tyto lidi?"
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:384
@@ -4699,7 +4699,7 @@ msgstr ""
 msgid ""
 "What use would that be? What need could we have for the shortliveds here?"
 msgstr ""
-"Jaký by z nich mohl být užitek? K čemu bychom mohli zde potřebovat krátce "
+"Jaký by z nich mohl být užitek? K čemu bychom zde mohli potřebovat krátce "
 "žijící?"
 
 #. [message]: speaker=Lady Dionli
@@ -4758,7 +4758,7 @@ msgstr ""
 msgid ""
 "I suggest that we grant these humans the plains to the north and south of "
 "the Great River."
-msgstr "Navrhuji dát těmto lidem pláně na sever a na jih od velké řeky."
+msgstr "Navrhuji dát těmto lidem pláně na sever a na jih od Velké řeky."
 
 #. [message]: speaker=Lord Aryad
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:421
@@ -4790,7 +4790,7 @@ msgid ""
 msgstr ""
 "Dobrá tedy, člověče. Každý z nás pánů má pro tebe určitý úkol. Splníš-li je "
 "všechny, budou ti poskytnuty všechny pláně v našem držení a kopce na jih od "
-"velké řeky. Nesplníš-li, budeš muset odplout. Kterou zkoušku chceš "
+"Velké řeky. Nesplníš-li, budeš muset odplout. Kterou zkoušku chceš "
 "podstoupit jako první?"
 
 #. [message]: speaker=Lord Logalmier
@@ -4831,7 +4831,7 @@ msgstr "A podle naší dohody, ty a tvoji lidé..."
 #. [message]: speaker=Lord El'Isomithir
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:510
 msgid "—may stay."
-msgstr "...můžete zůstat."
+msgstr "... můžete zůstat."
 
 #. [message]: speaker=Lord Logalmier
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:515
@@ -4840,7 +4840,7 @@ msgid ""
 "plains and hills to the south of the Great River. Be kind to the land. In a "
 "time of need we may call upon you, remember our generosity."
 msgstr ""
-"Tímto ti podstupujeme pláně na sever od velké řeky a pláně a kopce na jih od "
+"Tímto ti podstupujeme pláně na sever od Velké řeky a pláně a kopce na jih od "
 "ní. Chovej se k té zemi ohleduplně. V čase nouze tě můžeme povolat, pamatuj "
 "na naši štědrost."
 
