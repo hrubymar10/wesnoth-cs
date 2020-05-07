@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-05-03 08:13+0200\n"
+"PO-Revision-Date: 2020-05-07 21:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3432,7 +3432,7 @@ msgstr ""
 #. [message]: speaker=Grek
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:530
 msgid "It okay. Grek lead you to lich. Look there!"
-msgstr "To dobře. Grek vás vést k lichovi. Podívej se támhle!"
+msgstr "To dobře. Grek vás vést k lichovi. Podívej se támhle!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:632
@@ -3441,29 +3441,22 @@ msgstr "Výtečně. Kupředu!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:650
-#, fuzzy
-#| msgid "Mebrin! My teacher of old! Can that truly be you?"
 msgid "Mebrin! My old master! Is that truly you?"
 msgstr "Mebrine! Můj starý učiteli! Jsi to opravdu ty?"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:656
-#, fuzzy
-#| msgid "Eth...Ethiliel? You are here?"
 msgid "Eth... Ethiliel?"
-msgstr "Eth... Ethiliel? Co tu děláš?"
+msgstr "Eth... Ethiliel?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:661
-#, fuzzy
-#| msgid ""
-#| "How did you come to be here, you of all people, shut away from the trees "
-#| "and the light of the sun?"
 msgid ""
 "Oh, it truly is you! How did you come to be here, shut away from the trees "
 "and the light of the sun?"
 msgstr ""
-"Jak jsi se sem dostal, zrovna ty, tak daleko od stromů a slunečního svitu?"
+"Ach, skutečně jsi to ty! Jak to, že jsi skončil tady, uzavřen před slunečním "
+"svitem a stromy?"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:666
@@ -3473,15 +3466,18 @@ msgid ""
 "tormenting me endlessly as they tried to pry the secrets of the undead from "
 "me!"
 msgstr ""
+"Spoutali mě, prokletí lidé, vsadili mne do želez! Á, studená ocel na mé "
+"kůži... dnem i nocí mě s ní pálili, dny, týdny, neustále mne trýznili, jak "
+"se mi pokoušeli vyrvat tajemství nemrtvých!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:671
-#, fuzzy
-#| msgid "What is this? Elves bear steel swords."
 msgid ""
 "What is this? Elves bear steel swords! I had no idea iron would hurt your "
 "kind so."
-msgstr "Cože? Elfové přece používají železné meče."
+msgstr ""
+"Co to znamená? Elfové nosí ocelové meče! Nedokážu si představit, že by "
+"vašemu druhu železo tolik ubližovalo."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:676
