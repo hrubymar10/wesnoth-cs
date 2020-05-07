@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-01-12 16:28 UTC\n"
-"PO-Revision-Date: 2020-05-06 20:59+0200\n"
+"PO-Revision-Date: 2020-05-07 21:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4957,8 +4957,8 @@ msgid ""
 "of swamp. A small island with a mountain dominates the view. That can only "
 "be the home of the dragon."
 msgstr ""
-"Po několika dnech cesty se Haldrik ocitl před bažinou nesmírné rozlohy. "
-"Výhledu vévodí malý ostrov s horou. To může být jedině domov draka."
+"Po několika dnech cesty se Haldrik ocitá před bažinou nesmírné rozlohy. "
+"Výhledu vévodí malý ostrov s horou. To může být jedině domov draka."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:267
@@ -7266,7 +7266,7 @@ msgstr ""
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:94
 msgid "You were planning on sharing this with me when?"
-msgstr "A o tomto jsi se chtěla se mnou podělit kdy?"
+msgstr "A kdy jsi se chtěla se mnou o to podělit?"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:110
