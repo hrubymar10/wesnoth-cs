@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-02-02 01:38 UTC\n"
-"PO-Revision-Date: 2020-05-07 21:29+0200\n"
+"PO-Revision-Date: 2020-05-08 09:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3481,12 +3481,6 @@ msgstr ""
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:676
-#, fuzzy
-#| msgid ""
-#| "They are but warriors. All elves feel the shadow of iron, and to those "
-#| "who walk our higher paths it is a bane, interfering with our magic. But "
-#| "this touches on mysteries that are not for men to know, human. I bind you "
-#| "never to speak of it."
 msgid ""
 "All elves feel the shadow of iron, and to those who walk our higher paths, "
 "it is a bane that breaks the body and twists the mind. This touches on "
@@ -3494,10 +3488,11 @@ msgid ""
 "it. Cruel as those abominable brigands were, they could not have known the "
 "hurt they inflicted upon my master."
 msgstr ""
-"Nejsou nic lepšího než jen bojovníci. Všichni elfové cítí stín, který vrhá "
-"železo; pro ty, kteří se zabývají vyššími uměními, se stává zhoubou, ničící "
-"jejich magii. Ale to nepatří k tomu, co se smějí lidé dovědět. Přikazuji ti "
-"o tom nikdy nemluvit."
+"Všichni elfové cítí stín, který vrhá železo a pro ty, kteří kráčí po našich "
+"vyšších stezkách, je to jed, který láme tělo a křiví duši. To se dotýká "
+"tajemství, která nejsou určena lidem, člověče. Přikazuji ti, abys o tom "
+"nikdy nemluvil. I když byli tito odporní zbojníci krutí, nemohli znát "
+"bolest, kterou způsobili mému učiteli."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:681
@@ -3509,6 +3504,12 @@ msgid ""
 "my veins. Imagine! I, a great and powerful sage, crippled and defeated by "
 "nothing more than a rusted pair of bracelets... it was... humiliating..."
 msgstr ""
+"Věděli to, věděli! Vyžívali se v mém utrpení, vychutnávali každý jeden "
+"z mých bolestných výkřiků! Přestože jsem žádal... dokonce <i>žadonil</i> "
+"o slitování, nenechali se obměkčit. Nerozeznal jsem den od noci; světlo "
+"a stíny, žár a chlad, vše bylo jedno a to samé, jak se mi železo dostávalo "
+"do krve. Jen si představ! Já, velký a mocný mudrc, zmrzačen a přemožen "
+"pouhým párem rezavých pout... bylo to... ponižující..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:686
