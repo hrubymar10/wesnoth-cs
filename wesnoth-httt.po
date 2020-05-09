@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:56 UTC\n"
-"PO-Revision-Date: 2020-05-06 21:04+0200\n"
+"PO-Revision-Date: 2020-05-09 13:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -8140,19 +8140,14 @@ msgstr "Tyto manévry nemají žádný smysl. Jen nás to oslabuje."
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:301
-#, fuzzy
-#| msgid ""
-#| "No, whelp. You may be weakened, but the horse clans are eternal. I will "
-#| "promise you this, however. If you can defeat me personally, I myself will "
-#| "join your siege of Weldyn."
 msgid ""
 "No, whelp. You may be weakened, but the horse clans are eternal. I will "
 "promise you this, however. If you can defeat me in battle, I myself will "
 "join your siege of Weldyn."
 msgstr ""
 "Ne, kloučku. Ty můžeš být oslaben, ale klany jezdců jsou věčné. Nicméně ti "
-"slibuji toto: pokud porazíš mne samého, přidám se osobně ke tvému tažení na "
-"Weldyn."
+"slibuji toto: pokud mne dokážeš porazit v bitvě, přidám se osobně ke tvému "
+"tažení na Weldyn."
 
 # Nejdřív prohlásí lord Bayar že se přidá když ho porazí, a pak tímhle řeknou tři další vůdci že s tím souhlasí ('já taky').
 #. [message]: speaker=Sir Ruga
