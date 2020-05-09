@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-07 22:28+0200\n"
+"PO-Revision-Date: 2020-05-09 18:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4632,7 +4632,7 @@ msgid ""
 "the thought of those dwarves stumbling on the trolls vaguely amusing, this "
 "should make an adequate quest for you."
 msgstr ""
-"Máme potíže s trollím doupětem v Hnědých vršcích. I když shledávám představu "
+"Máme potíže s trollím doupětem v Hnědých vrších. I když shledávám představu "
 "trpaslíků narážejících na ty trolly mírně zábavnou, pro tebe by to měl být "
 "přiměřený úkol."
 
@@ -4653,7 +4653,7 @@ msgid ""
 "Ahh, you have defeated the dragon, man of the west-north, you are truly "
 "impressive for a human."
 msgstr ""
-"Á, porazil jsi draka, muži ze severozápadu, jsi vskutku úchvatný – na "
+"Á, porazil jsi draka, muži ze severozápadu, jsi vskutku úchvatný – na "
 "člověka."
 
 #. [message]: speaker=Lord Aryad
@@ -5117,7 +5117,7 @@ msgstr "Musíme udržet pláž, než se nám podaří přivolat naše kamarády 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17b_Lizard_Beach.cfg:150
 msgid "Us, monsters? Hmph... prepare to meet our blades."
-msgstr "My, a příšery? Chm, připravte se na setkání s našimi čepelemi."
+msgstr "My a příšery? Chm, připravte se na setkání s našimi čepelemi."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17b_Lizard_Beach.cfg:156
@@ -5206,8 +5206,8 @@ msgid ""
 "elven guide leads them to a gaping cave mouth, and they descend into the "
 "darkness."
 msgstr ""
-"Nedlouho poté, co Haldrik se svými společníky vstoupil do Hnědých vrchů, jej "
-"elfí doprovod zavedl k zejícím ústí jeskyně, a sestoupili do temnot."
+"Nedlouho poté, co Haldrik se svými společníky vstoupil do Hnědých vrchů, je "
+"elfí doprovod zavedl k zejícímu ústí jeskyně a oni sestoupili do temnoty."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17c_Troll_Hole.cfg:267
@@ -5237,7 +5237,7 @@ msgstr ""
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17c_Troll_Hole.cfg:282
 msgid "Fair enough. Well, let’s get them!"
-msgstr "To zní rozumně. Dobrá, a teď do nich!"
+msgstr "To zní rozumně. Dobrá, pojďme na ně!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17c_Troll_Hole.cfg:291
