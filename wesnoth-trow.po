@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-09 18:54+0200\n"
+"PO-Revision-Date: 2020-05-09 20:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.3\n"
 
 #. [scenario]: id=22_The_Rise_of_Wesnoth
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -4968,7 +4967,7 @@ msgstr "Mouchy, mouchy, všude! Ksakru!"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:274
 msgid "‘Prince Haldric the Dragonbane’ sounds rather nice."
-msgstr "„Princ Haldrik, drakobijec“ zní opravdu pěkně."
+msgstr "„Princ Haldrik Drakobijce“ zní opravdu pěkně."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:279
@@ -4987,7 +4986,7 @@ msgstr ""
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:292
 msgid "I’m still not calling you ‘the Dragonbane’."
-msgstr "Stejně ti nebudu říkat „drakobijec“."
+msgstr "Stejně ti nebudu říkat „Drakobijce“."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:331
@@ -6934,7 +6933,7 @@ msgid ""
 "and belch thunder. I... accept."
 msgstr ""
 "Pravděpodobně ne. A pokud už pro nic jiného, tak proto, že hrdinný král "
-"Wesnothu, Haldrik Drakobijec, bude potřebovat připomínat, že nesnídá obry a "
+"Wesnothu, Haldrik Drakobijce, bude potřebovat připomínat, že nesnídá obry a "
 "nevečeří draky. Já... přijímám."
 
 #. [message]: speaker=narrator
@@ -7221,7 +7220,7 @@ msgstr "Dávný přítel"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:13
 msgid "I still think I should be called ‘Dragonbane’."
-msgstr "Stejně si myslím, že bych měl být zván „Drakobijec“."
+msgstr "Stejně si myslím, že bych měl být zván „Drakobijce“."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:17
