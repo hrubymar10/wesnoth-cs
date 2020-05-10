@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-08 09:21+0200\n"
+"PO-Revision-Date: 2020-05-10 09:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -26,7 +26,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:9
@@ -3526,6 +3525,12 @@ msgid ""
 "matter?! They had killed my brethren, taken my dignity, tortured me to the "
 "brink of death! What did I have left?! Nothing... nothing... but vengeance."
 msgstr ""
+"Když jsem byl na dně, zlomili mne. Nakonec jsem se vzdal a řekl jim, že je "
+"naučím probouzet mrtvé, jen když mi sundají ta prokletá pouta. Já věděl... "
+"věděl, že jakmile první pramínek černé magie opustí mé ruce, tak už nebude "
+"cesty zpět. Věděl jsem to, ale co na tom záleželo?! Zabili mé bratry, vzali "
+"mi mou důstojnost, mučili mne až na pokraj smrti! Co mi zbývalo?! Nic... "
+"nic... než pomsta."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:696
@@ -3539,6 +3544,14 @@ msgid ""
 "them. Even when I ascended to undeath, they never questioned my teachings "
 "until they had all become my mindless slaves!"
 msgstr ""
+"Lidé jsou konec konců slabé plémě. Naučil jsem je povolávat síly, které "
+"nemohli ovládat. Při své chamtivosti si nikdy nepřestali lámat hlavu s tím, "
+"zda mohou ovládnout čarodějnictví, nebo naopak ono ovládne je a jejich duše. "
+"Spokojili se jen s ubohými triky a nikdy si ani nevšimli, jak jsem pro sebe "
+"odčerpal sílu, kterou povolali. Každým dnem jsem se stával mocnějším a přece "
+"si žádný z těch špinavých zabijáků stromů nemyslel, že bych pro ně "
+"představoval hrozbu. Dokonce i když jsem dosáhl nemrtva, nikdy nepochybovali "
+"o mém učení, dokud se všichni nestali mými bezduchými otroky!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:701
