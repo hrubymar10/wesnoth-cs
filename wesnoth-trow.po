@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-09 20:20+0200\n"
+"PO-Revision-Date: 2020-05-10 18:05+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5314,8 +5314,8 @@ msgid ""
 "After a short trip by sea, Haldric arrives on the elves’ cursed Isle of "
 "Tears. A fog hangs in the air."
 msgstr ""
-"Po krátké plavbě přistál Haldrik na elfím prokletém ostrově. Nad ostrovem "
-"leží mlha."
+"Po krátké plavbě po moři přistává Haldrik na prokletém elfím Ostrově slz. "
+"Nad ostrovem leží mlha."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:336
@@ -5323,13 +5323,13 @@ msgid ""
 "I said no more ships. Double-crossing humans! Ahh, I’ve been with you this "
 "far. Who’d have thought, a nautical dwarf."
 msgstr ""
-"Říkal jsem už žádné lodě. Podrazáčtí lidé!\n"
-"Ále, už jsem s vámi tak dlouho. Kdo by to byl řekl – trpaslík námořníkem."
+"Říkal jsem už žádné lodě. Podrazáčtí lidé! Ále, až potud jsem byl s vámi. "
+"Kdo by to byl řekl – trpaslík námořníkem."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:342
 msgid "I expect we’ll be facing more undead. Be careful."
-msgstr "Tuším, že budeme čelit dalším nemrtvým. Buďte opatrní."
+msgstr "Předpokládám, že budeme čelit více nemrtvým. Buďte opatrní."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:347
@@ -5337,13 +5337,13 @@ msgid ""
 "These will be the long dead. Not like the undead that my people used, and "
 "they are elf-dead. Be careful indeed."
 msgstr ""
-"Tito budou už dlouho mrtví. Ne jako ti nemrtví, které používají moji lidé. A "
-"jsou to mrtví elfové. Buďte vskutku opatrní."
+"Tito budou mrtví už dlouho. Ne jako ti nemrtví, které používají moji lidé. "
+"A jsou to mrtví elfové. Buďte vskutku opatrní."
 
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:352
 msgid "All soldiers of darkness will meet the same fate by my hand."
-msgstr "Všechny bojovníky Temnot potká mojí rukou stejný osud."
+msgstr "Všechny bojovníky temnot potká mojí rukou stejný osud."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:360
@@ -7275,10 +7275,10 @@ msgid ""
 "out with, and Southbay still stands. This is excellent news. As per your "
 "orders a third of the fleet has headed back out."
 msgstr ""
-"Haldriku, poslové mě právě zpravili, že se flotila právě vrátila z našeho "
-"starého domova. Vrátili se s téměř tak velkou flotilou, s jakou jsme původně "
-"vypluli, a Jižní záliv se stále drží. To jsou vynikající zprávy. Dle tvých "
-"příkazů třetina flotily vyrazila zase zpět."
+"Haldriku, poslové mě právě zpravili, že z našeho starého domova připluly "
+"lodě. Vrátily se s flotilou téměř tak velkou, jakou jsme původně vypravili, "
+"a Jižní záliv se stále drží. To jsou vynikající zprávy. Dle tvých příkazů "
+"třetina loďstva zase vyrazila zpět."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-nlmsg.cfg:114
