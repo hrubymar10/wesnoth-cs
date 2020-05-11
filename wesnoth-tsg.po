@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-10 09:03+0200\n"
+"PO-Revision-Date: 2020-05-11 19:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3566,6 +3566,10 @@ msgid ""
 "decrepit humans! Without them, I never would have found the courage to "
 "master the dark arts and uncover the secrets to immortality."
 msgstr ""
+"Byla jsi má nejlepší žákyně, Ethiliel. Jistě uznáváš, jak velkým jsem se "
+"stal. Ha! Představ si, malá část mého já je ve skutečnosti těm slabým lidem "
+"vděčná! Bez nich bych nikdy nenašel odvahu ovládnout temná umění a odhalit "
+"tajemství nesmrtelnosti."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:711
@@ -3573,11 +3577,13 @@ msgid ""
 "Mebrin... that's enough. I am sorry. I should have protected you. I should "
 "never have let those humans take you and turn you into... into a monster!"
 msgstr ""
+"Mebrine... to stačí. Je mi to líto. Měla jsem tě chránit. Nikdy jsem neměla "
+"těmto lidem dovolit se tě zmocnit a proměnit v... v netvora!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:716
 msgid "What are you saying..?"
-msgstr ""
+msgstr "Co to říkáš...?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:721
@@ -3587,6 +3593,10 @@ msgid ""
 "and... and corruption! Even you! Mebrin... you were the kindest and gentlest "
 "of the sages. How could you become something like this? Mebrin, answer me!"
 msgstr ""
+"Určitě to vidíš! Dobře se na sebe podívej! Tvými služebníky jsou odpornosti "
+"horší než kterýkoli člověk. Páchnou smrtí a zkaženou magií a... hnilobou! "
+"Dokonce i ty! Mebrine... byl jsi nejlaskavější a nejmírnější z mudrců. Jak "
+"jsi se mohl stát něčím takovým? Mebrine, odpověz mi!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:726
