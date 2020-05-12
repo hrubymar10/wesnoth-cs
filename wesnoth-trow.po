@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-10 18:05+0200\n"
+"PO-Revision-Date: 2020-05-12 19:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4884,8 +4884,8 @@ msgid ""
 "making our last stand at the lighthouse when one of your ships came. One of "
 "my men conked me on the head, then I woke up at sea."
 msgstr ""
-"Ne, pane. Vedl jsem poslední přeživší z přístavu, zřizovali jsme své "
-"poslední postavení u majáku, když připlula jedna naše loď. Jeden z mých mužů "
+"Ne, pane. Vedl jsem poslední přeživší z přístavu, zřizovali jsme své "
+"poslední postavení u majáku, když připlula jedna naše loď. Jeden z mých mužů "
 "mě praštil do hlavy, pak jsem se probral na moři."
 
 #. [message]: speaker=Commander Aethyr
@@ -5440,7 +5440,7 @@ msgid ""
 msgstr ""
 "Možná jsme rozhodli špatně. Pokud ti lidé skřety vytlačí, měli bychom držet "
 "svůj slib. Budou-li následovat další potíže, měli bychom je nechat, ať si je "
-"vyřeší, a pak „jednat“ s přeživšími a uzavřít smír s trpaslíky."
+"vyřeší, a pak „jednat“ s přeživšími a uzavřít smír s trpaslíky."
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:132
@@ -5457,10 +5457,10 @@ msgid ""
 "we should ‘deal’ with the survivors, and make a compromise with the "
 "Dwarves.”</i>"
 msgstr ""
-"Jsme lidé lesa; víš, že všechna slova pronesená k těm ne-lidem mají druhotný "
-"význam a jsou až za našimi vlastními potřebami. Jak řekl pán Aryad, "
+"Jsme lidé lesa; víš, že všechna slova pronesená k těm ne-lidem mají druhotný "
+"význam a jsou až za našimi vlastními potřebami. Jak řekl pán Aryad: "
 "<i>„Budou-li je sem následovat další potíže, měli bychom je nechat si je "
-"vyřešit, a pak „jednat“ s vítězi a uzavřít smír s trpaslíky.“</i>"
+"vyřešit, a pak ‚jednat‘ s vítězi a uzavřít smír s trpaslíky.“</i>"
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:145
@@ -5499,8 +5499,8 @@ msgid ""
 "orcish threat. On the eve of battle, Lady Jessene catches up with Haldric on "
 "a fog-covered plain."
 msgstr ""
-"Haldrik se hnal se svými společníky přes pláně, aby se postavil ožívající "
-"skřetí hrozbě. V předvečer bitvy je dostihla lady Jesena na planině pokryté "
+"Haldrik se žene se svými společníky přes pláně, aby se postavil ožívající "
+"skřetí hrozbě. V předvečer bitvy je dohání lady Jesena na planině pokryté "
 "mlhou."
 
 #. [message]: speaker=Lady Jessene
@@ -5534,9 +5534,9 @@ msgid ""
 "follow us here, the elves seem content to let us fight it out. Then they "
 "said they would ‘deal with the survivors’."
 msgstr ""
-"Po těchto skřetech přijdou další, což zaručuje Rubín. Budou-li nás sem "
-"následovat skřeti, zdají se elfové být spokojeni s tím, že si nás to nechají "
-"vybojovat samotné. Řekli, že potom by „jednali s přeživšími“."
+"Po těchto skřetech přijdou další. Ten rubín to zaručuje. Budou-li nás sem "
+"následovat skřeti, zdají se elfové být spokojeni s tím, že si nás to nechají "
+"vybojovat samotné. Řekli, že potom by „jednali s přeživšími“."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:240
@@ -5573,7 +5573,7 @@ msgid ""
 "Commander Aethyr, did these orcs come on our ships? Did they capture the "
 "fleet we sent out?"
 msgstr ""
-"Veliteli Aethyre, přišli tito skřeti na našich lodích? Zajali flotilu, již "
+"Veliteli Aethyre, připluli tito skřeti na našich lodích? Zajali flotilu, již "
 "jsme vyslali?"
 
 #. [message]: speaker=Commander Aethyr
