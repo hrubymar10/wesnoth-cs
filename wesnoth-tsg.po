@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-11 19:52+0200\n"
+"PO-Revision-Date: 2020-05-12 20:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3600,13 +3600,6 @@ msgstr ""
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:726
-#, fuzzy
-#| msgid ""
-#| "I am called Mal M’Brin now, Ethiliel, best student of mine. It is time "
-#| "for a new lesson. I was such as you, full of doubt and weakness, but now "
-#| "I have passed over and become more than you know. There is infinity in "
-#| "death; I have touched the void at the heart of all things. You, too, can "
-#| "partake of its boundless power."
 msgid ""
 "I am called Mal M’Brin now, Ethiliel. It is the name I took when I unchained "
 "myself from the shallow-mindedness of the elves and passed over into "
@@ -3615,16 +3608,16 @@ msgid ""
 "beyond what any living human or elf knows. You, too, can partake of its "
 "boundless power."
 msgstr ""
-"Ethiliel, má nejlepší učednice, teď se nazývám Mal M’Brin. Je čas pro změnu, "
-"je tu nová lekce. Tak jako ty jsem byl sláb a pln pochybností, ale to jsem "
-"již překonal a stal se něčím lepším, než jak jsi mne kdy znala. Ve smrti je "
-"přítomno nekonečno, a já se dotkl té prázdnoty v srdci všehomíra. I ty můžeš "
-"být účastna jeho nespoutané moci."
+"Teď se nazývám Mal M’Brin, Ethiliel. Toto jméno jsem přijal, když jsem se "
+"odpoutal od povrchní všímavosti elfů a přešel k osvícení. Ve smrti je "
+"přítomno nekonečno. Já se dotkl té prázdnoty v srdci všehomíra a začal "
+"zkoumat tajemná umění daleko nad rámec toho, co ví kterýkoli žijící člověk "
+"nebo elf. I ty můžeš mít podíl na této nespoutané moci."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:731
 msgid "You have become evil!"
-msgstr ""
+msgstr "Stal jsi se zlým!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:736
