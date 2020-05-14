@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-13 22:26+0200\n"
+"PO-Revision-Date: 2020-05-14 21:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5638,12 +5638,12 @@ msgstr "Rabbin"
 #. [message]: speaker=Rabbin
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:533
 msgid "Embrace your end, mortals!"
-msgstr "Rozlučte se s životem, smrtelníci!"
+msgstr "Rozlučte se se životem, smrtelníci!"
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:538
 msgid "These monsters seem like they want to be embraced by my hammer!"
-msgstr "Tyhle příšery se třesou na to až je pohladím mým kladivem!"
+msgstr "Tyhle příšery se třesou na to, až je pohladím svým kladivem!"
 
 #. [case]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:545
@@ -5656,8 +5656,8 @@ msgid ""
 "Never trust the living to do the job of the undead. Prepare to meet the "
 "inevitable!"
 msgstr ""
-"Nikdy nedůvěřuj živým, jde-li o práci pro nemrtvé. Připravte se na setkání s "
-"nevyhnutelným!"
+"Nikdy nevěř živým, že zvládnou práci nemrtvých. Připravte se na setkání "
+"s nevyhnutelným!"
 
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:567
