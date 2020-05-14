@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-12 20:25+0200\n"
+"PO-Revision-Date: 2020-05-14 20:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3547,9 +3547,9 @@ msgstr ""
 "Lidé jsou konec konců slabé plémě. Naučil jsem je povolávat síly, které "
 "nemohli ovládat. Při své chamtivosti si nikdy nepřestali lámat hlavu s tím, "
 "zda mohou ovládnout čarodějnictví, nebo naopak ono ovládne je a jejich duše. "
-"Spokojili se jen s ubohými triky a nikdy si ani nevšimli, jak jsem pro sebe "
-"odčerpal sílu, kterou povolali. Každým dnem jsem se stával mocnějším a přece "
-"si žádný z těch špinavých zabijáků stromů nemyslel, že bych pro ně "
+"Spokojili se jen s ubohými triky a nikdy si ani nevšimli, jak jsem sílu, "
+"kterou povolali, odčerpal pro sebe. Každým dnem jsem se stával mocnějším "
+"a přece si žádný z těch špinavých zabijáků stromů nemyslel, že bych pro ně "
 "představoval hrozbu. Dokonce i když jsem dosáhl nemrtva, nikdy nepochybovali "
 "o mém učení, dokud se všichni nestali mými bezduchými otroky!"
 
@@ -3621,31 +3621,23 @@ msgstr "Stal jsi se zlým!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:736
-#, fuzzy
-#| msgid ""
-#| "Join me! Stand by my side! We shall rise and sweep the humans from the "
-#| "green world. Their corpses will serve us; their bones will dance for our "
-#| "pleasure."
 msgid ""
 "Join me! Stand by my side! We shall rise and eradicate the humans from the "
 "green world. Their corpses will serve us! Their bones will dance for our "
 "pleasure! We will make them into the mindless slaves that they deserve to be!"
 msgstr ""
-"Přidej se ke mně! Povstaneme a vymeteme lidi ze světa zeleně. Jejich těla "
-"nám budou sloužit a kosti tančit pro potěšení."
+"Přidej se ke mně! Stůj mi po boku! Povstaneme a vyhladíme lidi ze světa "
+"zeleně. Jejich těla nám budou sloužit! Jejich kosti nám zatančí pro "
+"potěšení! Uděláme z nich bezduché otroky, jakými si zaslouží být!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:741
-#, fuzzy
-#| msgid ""
-#| "And when we were done, what would we have become? Unlife. Hungering "
-#| "shadows, devouring all we once cherished."
 msgid ""
 "And when that is done, what will we have become? Naught but hungering "
 "shadows, devouring all we once cherished."
 msgstr ""
-"A až skončíme, co z nás zbude? Nemrtví. Hladovějící stíny, pohlcující vše, "
-"co nás kdysi těšilo."
+"A až se to stane, kým budeme my? Ničím než hladovějícími stíny, které "
+"pohlcují vše, co jsme kdysi střežili."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:747
@@ -3653,6 +3645,8 @@ msgid ""
 "No... No. The sage Mebrin is dead. You are not the master I once revered. I "
 "will cleanse your soul and put you to rest, my beloved teacher."
 msgstr ""
+"Ne... Ne. Mudrc Mebrin je mrtev. Nejsi ten mistr, kterého jsem dříve ctila. "
+"Očistím tvou duši a nechám tě spočinout, můj drahý učiteli."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:753
