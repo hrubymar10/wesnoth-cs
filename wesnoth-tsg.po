@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-14 20:56+0200\n"
+"PO-Revision-Date: 2020-05-15 18:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3650,19 +3650,14 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:753
-#, fuzzy
-#| msgid ""
-#| "Even a mere human can see that you have become a mockery of all that you "
-#| "once believed in. I will destroy you and your works if it’s the last "
-#| "thing I do!"
 msgid ""
 "Even a mere human can see that you have become a mockery of all that you "
 "once believed in. I will destroy you and bury your perverse ideals, even if "
 "it costs me my own life!"
 msgstr ""
-"Všechny tvé síly, jimiž se chlubíš, jsou jen směšné náhražky všeho, v co jsi "
-"kdysi věřil. I pouhý člověk jako já to vidí jasně. Zničím tebe a tvé dílo, i "
-"kdyby to mělo být to poslední, co vykonám!"
+"I pouhý člověk může vidět, že jsi se stal směšnou napodobeninou všeho, v co "
+"jsi kdysi věřil. Zničím tě a pohřbím tvé zvrhlé ideály, i kdyby mě to stálo "
+"život!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:758
@@ -3670,6 +3665,8 @@ msgid ""
 "You? Destroy me? Your flesh will provide a fine feast for my ghouls, and "
 "once they are through with you, you will serve me forever in undeath!"
 msgstr ""
+"Ty? Zničíš mne? Tvé tělo zajistí mým požíračům mrtvých dobrou hostinu "
+"a hned, jak s tebou skončí, mi budeš navždy sloužit v nemrtvu!"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:782
