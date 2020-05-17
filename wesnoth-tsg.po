@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-15 18:55+0200\n"
+"PO-Revision-Date: 2020-05-17 07:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3723,6 +3723,9 @@ msgid ""
 "We could build an empire together, where the humans are our slaves and you "
 "and I are the immortal rulers of the world!"
 msgstr ""
+"Ethiliel! Počkej... přemýšlej o tom! Mysli na všechno, co zahazuješ! Spolu "
+"můžeme vybudovat říši, ve které lidé budou našimi otroky a ty a já "
+"nesmrtelnými vládci světa!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:860
@@ -3731,6 +3734,9 @@ msgid ""
 "this, but you have been corrupted beyond saving. Still, I will fondly "
 "cherish the memories I had with the old you."
 msgstr ""
+"Byla by to jen říše utrpení, Mebrine. Přála bych si, aby to nedošlo až sem, "
+"ale jsi zkažený tak, že už tě nelze zachránit. Přesto budu s láskou chovat "
+"vzpomínky na tvé staré já."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:865
@@ -5007,11 +5013,9 @@ msgstr "Ochutnej chladnou ocel!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:59
-#, fuzzy
-#| msgid "I have lost all helping the humans... Now they will surely perish!"
 msgid ""
 "I have lost everything helping the humans... Now they will surely perish!"
-msgstr "Má pomoc lidem mne stála vše... A navíc teď budou určitě zničeni!"
+msgstr "Přišla jsem o všechno, pomáhajíc lidem... Teď jistě zahynou!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:73
