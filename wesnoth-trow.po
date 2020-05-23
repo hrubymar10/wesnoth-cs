@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-23 11:30+0200\n"
+"PO-Revision-Date: 2020-05-23 18:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5891,12 +5891,12 @@ msgstr "No, vypadá to, že bys využil každou pomoc, kterou dokážeš získat
 msgid ""
 "We’ve defeated Jevyan’s forces. The ships must disembark their passengers "
 "quickly—"
-msgstr "Porazili jsme Jevyanovy síly. Cestující se musí rychle vylodit-"
+msgstr "Porazili jsme Jevyanovy síly. Cestující se musí rychle vylodit —"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:432
 msgid "Haldric, what’s going on? What’s the plan?"
-msgstr "Co se tu děje, Haldriku? Jaký máš plán?"
+msgstr "O co jde, Haldriku? Jaký máš plán?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:436
@@ -5911,7 +5911,7 @@ msgid ""
 "that our dear old ‘tree-friend’ might have known as much."
 msgstr ""
 "To se snáz řekne, než vykoná. I kdybychom ho porazili, další lordi-lichové "
-"ho budou následovat. Kvůli tomu rubínu. Kdybych byla paranoidní, řekla bych "
+"ho budou následovat. Kvůli tomu rubínu. Kdybych byla paranoidní, řekla bych, "
 "že to náš starý drahý „stromový přítel“ mohl také vědět."
 
 #. [message]: speaker=Prince Haldric
@@ -6107,9 +6107,9 @@ msgid ""
 "Clearwater Port, and once again when your ships rescued me. I’ll not be "
 "denied in this a third time!"
 msgstr ""
-"Již jsi mi dvakrát zabránil v čestné smrti. Jednou, když jste přišli do "
-"přístavu Jasných vod, a podruhé, když mě zachránily vaše lodě. Nenechám si v "
-"ní zabránit potřetí!"
+"Již dvakrát jsi mi zabránil v čestné smrti. Jednou, když jste přišli do "
+"přístavu Jasných vod, a podruhé, když mě zachránily vaše lodě. Nenechám si "
+"v ní zabránit potřetí!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:210
@@ -6122,8 +6122,8 @@ msgid ""
 "Sir, my family has been slaughtered, and my home lost. All I long for is to "
 "join them. Give me this honorable death... Please, Sir! I beg you!"
 msgstr ""
-"Pane, moje rodina byla povražděna a můj domov ztracen. Vše, po čem toužím, "
-"je být zase s nimi. Poskytněte mi tuto čestnou smrt... Prosím, pane! Žádám "
+"Pane, moje rodina byla povražděna a můj domov ztracen. Vše, po čem toužím, "
+"je být zase s nimi. Poskytněte mi tuto čestnou smrt... Prosím, pane! Žádám "
 "vás!"
 
 #. [message]: speaker=Commander Aethyr
@@ -6288,7 +6288,7 @@ msgstr ""
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:321
 msgid "A fool, or a desperate band of refugees!"
-msgstr "Blázen, nebo zoufalec a utečenec!"
+msgstr "Blázen, nebo zoufalá skupina utečenců!"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:326
@@ -6298,8 +6298,8 @@ msgid ""
 "it away."
 msgstr ""
 "Vrhání ohně je poměrně nezajímavá vlastnost Rubínu. Jsi dvojnásobný hlupák! "
-"Jednou, protože jsi Ohnivý Rubín nedokázal použít k nečemu víc než jen k "
-"nejprimitivnějším úkonům; podruhé, protože jsi jej dal z rukou."
+"Jednou, protože jsi Ohnivý rubín nedokázal použít k nečemu víc než jen "
+"k nejprimitivnějším úkonům; podruhé, protože jsi jej dal z rukou."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:330
@@ -6608,7 +6608,7 @@ msgstr "<i>Klap</i>! <i>Plác</i>!"
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1360
 msgid "Ahh... That almost makes it all worth while!"
-msgstr "Ahh... to skoro za tu všechnu námahu stálo!"
+msgstr "Ahh... Tohle téměř vynahradilo všechnu dosavadní námahu!"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1371
