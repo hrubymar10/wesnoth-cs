@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-23 07:38+0200\n"
+"PO-Revision-Date: 2020-05-23 11:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5805,11 +5805,6 @@ msgstr ""
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:281
-#, fuzzy
-#| msgid ""
-#| "We’ll see about that. The Fool Prince of Southbay was wrong to start this "
-#| "war, but you’re the real monster! You sacrificed your own people to "
-#| "preserve your immortal un-life."
 msgid ""
 "We’ll see about that. The Fool Prince of Southbay was wrong to start this "
 "war, but you’re the real monster. You’ve turned to using orcs as cheap "
@@ -5817,8 +5812,9 @@ msgid ""
 "life!"
 msgstr ""
 "To teprve uvidíme. Pošetilý princ Jižního zálivu udělal chybu, když začal "
-"tuto válku, ale opravdový netvor jsi ty! Obětoval jsi svůj vlastní lid pro "
-"zachování svého nesmrtelného neživota!"
+"tuto válku, ale opravdový netvor jsi ty. Zaměřil ses na využívání skřetů "
+"jako laciných poskoků a dokonce jsi obětoval svůj vlastní lid, abys zachoval "
+"svůj nesmrtelný neživot!"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:286
@@ -5827,6 +5823,9 @@ msgid ""
 "petty pawns, orcs and humans both. The only difference is that orcs will not "
 "complain as long as they are well fed."
 msgstr ""
+"Tím, co činí smrtelní červi, se téměř nezabývám – lidé ani skřeti nejsou víc "
+"než nevýznamní pěšáci. Jediný rozdíl je v tom, že skřeti si nebudou "
+"stěžovat, dokud jsou dobře krmeni."
 
 #. [message]: speaker=Tan-Halg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:290
@@ -5845,12 +5844,12 @@ msgstr "Pojď a bojuj se mnou sám, ty starý pytle kostí!"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:303
-#, fuzzy
-#| msgid "Enough of this. A curse of darkness upon you, young prince."
 msgid ""
 "As if a measly child would be worth the effort. Enough of this. A curse of "
 "darkness upon you, young prince."
-msgstr "To stačilo. Přivolávám na tebe prokletí tmy, mladý princi."
+msgstr ""
+"Jako by ubohé dítě stálo za námahu. To stačilo. Přivolávám na tebe prokletí "
+"temnoty, mladý princi."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:363
