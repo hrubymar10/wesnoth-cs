@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-14 21:16+0200\n"
+"PO-Revision-Date: 2020-05-23 07:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5737,7 +5737,7 @@ msgid ""
 "Haldric reaches the site where the fleet is due to return. Several ships "
 "have already docked. The orcs are on the frontier."
 msgstr ""
-"Haldrik dospěl k místu, kam se měla flotila vrátit. Již tam kotvilo několik "
+"Haldrik doráží k místu, kam se má flotila vrátit. Již tam kotví několik "
 "lodí. Na obzoru jsou skřeti."
 
 #. [message]: speaker=Commander Aethyr
@@ -5756,7 +5756,7 @@ msgid ""
 "defeat these monsters before everybody starves at sea, or before Jevyan "
 "launches an attack with his fleet."
 msgstr ""
-"Nepochybně spatřili dýmy ze skřetích ohňů. Musíme ty stvůry zničit, než na "
+"Nepochybně spatřili dým ze skřetích ohňů. Musíme ty stvůry zničit, než na "
 "moři všichni vyhladoví nebo než Jevyan podnikne útok se svou flotilou."
 
 #. [message]: speaker=Commander Aethyr
@@ -5766,7 +5766,7 @@ msgid ""
 "site. But if we fail here they’ll doubtless be slaughtered."
 msgstr ""
 "Ano, pane! Ostatní uprchlíci unikli na jih, na místo našeho původního "
-"přistání. Padneme-li zde, budou najisto povražděni."
+"přistání. Jestli zde selžeme, budou bezpochyby povražděni."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:231
@@ -5791,7 +5791,7 @@ msgstr "Pche! Lidští červi, rozdrtíme vás pod svými patami!"
 #. [message]: speaker=General Heravan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:248
 msgid "—And raise your dead to serve us forever!"
-msgstr "...a vaši mrtví nechť vstanou, aby nám sloužili navěky!"
+msgstr "... a pozvedneme vaše mrtvé, aby nám navěky sloužili!"
 
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:276
