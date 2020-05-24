@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-17 07:26+0200\n"
+"PO-Revision-Date: 2020-05-24 08:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3744,16 +3744,18 @@ msgid ""
 "You wouldn’t dare strike me! I am the darkness incarnate! I am your master! "
 "You will obey me!"
 msgstr ""
+"Neopovážíš se mne zasáhnout! Jsem ztělesněná temnota! Tvůj mistr! Poslechneš "
+"mě!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:870
 msgid "Goodbye, Mebrin."
-msgstr ""
+msgstr "Sbohem, Mebrine."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:880
 msgid "It is done."
-msgstr ""
+msgstr "Je dokonáno."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:885
@@ -3761,6 +3763,8 @@ msgid ""
 "Indeed, the lich is destroyed. Let us not linger here any longer than we "
 "need to. This place is filled with only grief and sorrow."
 msgstr ""
+"Vskutku, lich je zničen. Neotálejme tu déle, než musíme. Toto místo je jen "
+"plné žalosti a smutku."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:890
@@ -3768,6 +3772,8 @@ msgid ""
 "Yes... just let me gather my thoughts, and I will lead you back to your "
 "homes."
 msgstr ""
+"Ano... jen mne nech posbírat myšlenky a já vás povedu zpátky do vašich "
+"domovů."
 
 #. [scenario]: id=07b_Pebbles_in_the_Flood
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:5
