@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-23 18:52+0200\n"
+"PO-Revision-Date: 2020-05-25 22:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6642,7 +6642,7 @@ msgid ""
 "rest and discuss what is to come in the following days."
 msgstr ""
 "Jevyan je zničen, ale za jak hroznou cenu. Pojďme dát veliteli Aethyrovi "
-"poslední sbohem, také musíme prodiskutovat běh věcí pro nadcházející dny."
+"poslední sbohem a probrat, co nás čeká v nadcházejících dnech."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1635
@@ -6671,8 +6671,8 @@ msgid ""
 "face of adversity a place of glory is assured to him in the Halls of Light..."
 msgstr ""
 "Přejme veliteli Aethyrovi poklidnou cestu do dalšího světa, kde jej již "
-"očekává jeho žena a milující dcery. Pro jeho hrdinství tváří v tvář "
-"nepříznivému osudu ho jistě očekává místo slávy v Halách Světla..."
+"očekává jeho žena a milující dcery. Pro jeho hrdinství tváří v tvář "
+"nepříznivému osudu ho jistě očekává místo slávy v Síních světla..."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:147
@@ -6683,9 +6683,9 @@ msgid ""
 "However, there is hope, and a new land is open before us!"
 msgstr ""
 "Bez velitelovy ušlechtilé obětavosti bychom nepřežili tento den. Dnes jsme "
-"zde vyhráli velké vítězství, ale také hodně ztratili, spoustu dobrých lidí – "
-"mého otce Eldarika, krále Addrorana. Samozřejmě, je tu ještě naděje a nová "
-"země rozléhající se před námi!"
+"zde vyhráli velké vítězství, ale také hodně ztratili. Můj otec Eldarik "
+"a král Addroran padli a spolu s nimi mnoho jiných dobrých lidí. Avšak je tu "
+"naděje a nová země rozléhající se před námi!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:166
@@ -6694,9 +6694,8 @@ msgid ""
 "Jessene and I share. I must have your word that what I say will never be "
 "uttered again."
 msgstr ""
-"Ke špatnostem ale došlo na obou stranách. Je to tajemstvím, jež zná pouze "
-"Jesena a já. Takže potřebuji mít jistotu, že cokoliv tu řeknu se nikdo nikdy "
-"nedozví."
+"Ke špatnostem ale došlo na obou stranách. Je tu tajemství, jež zná pouze "
+"Jesena a já. Musíte mi dát své slovo, že to, co řeknu, zůstane mezi námi."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:170
@@ -6735,7 +6734,7 @@ msgid ""
 "To be fair to you, Haldric, the elves were considering betraying their pact "
 "with us."
 msgstr ""
-"Abych k tobě byla upřímná, Haldriku, elfové uvažovali, že nás zradí a poruší "
+"Abychom ti nekřivdili, Haldriku, elfové uvažovali, že nás zradí a poruší "
 "dohodu."
 
 #. [message]: speaker=Burin the Lost
@@ -6789,9 +6788,9 @@ msgid ""
 "children of the good people of the west-north, of the Green Isle, find "
 "prosperity in this new land."
 msgstr ""
-"Poté bychom měli ve všech darovaných regionech stavět města. Hlavní město "
+"Poté bychom měli ve všech darovaných oblastech stavět města. Hlavní město "
 "bychom měli přesunout víc do vnitrozemí, pryč od pobřeží. Doufám, že potomci "
-"dobrých lidí ze Severozápadu a Zeleného ostrova v této nové zemi naleznou "
+"dobrých lidí ze Severozápadu a Zeleného ostrova v této nové zemi naleznou "
 "blahobyt."
 
 #. [message]: speaker=Prince Haldric
@@ -6828,9 +6827,9 @@ msgid ""
 "knowledge. I will go forth amongst the people and spread wisdom, and see "
 "about establishing a new order of Magi in this new land."
 msgstr ""
-"V posledních měsících jsme toho ztratili mnoho, ale neměli bychom ztratit "
-"všechny naše znalosti. Půjdu napřed mezi lid, budu rozšiřovat moudrost a "
-"zajistím v této nové zemi ustanovení pořádku Magie."
+"V posledních měsících jsme toho ztratili mnoho, ale neměli bychom přijít "
+"o všechny naše znalosti. Půjdu napřed mezi lid, budu rozšiřovat moudrost "
+"a postarám se o založení řádu mágů v této nové zemi."
 
 #. [message]: speaker=Sir Ruddry
 #. [message]: speaker=Sir Ladoc
@@ -6841,9 +6840,8 @@ msgid ""
 "knights for a new land. For a new King, if you will allow me to serve under "
 "your banner."
 msgstr ""
-"Protože jsem ponížený služebník Koruny, zavedu v zemi nový pořádek pro "
-"rytíře, kteří budou sloužit novému králi a to vše udělám, pokud mi dovolíš "
-"sloužit pod tvým praporem."
+"Jsem jen prostý služebník koruny. Založím pro novou zemi nový rytířský řád. "
+"Pro nového krále, pokud mi dovolíš sloužit pod tvým praporem."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:264
@@ -6855,7 +6853,7 @@ msgstr "Skvělé."
 msgid ""
 "I suppose I am King Haldric now. Hmm... but what to call this new kingdom?"
 msgstr ""
-"Předpokládám, že nyní jsem již Král Haldrik. Hmmm... jak ale nazvat své nové "
+"Předpokládám, že nyní jsem král Haldrik. Hmmm... jak ale nazvat své nové "
 "království?"
 
 #. [message]: speaker=Lady Jessene
@@ -6920,9 +6918,9 @@ msgid ""
 "earned both. We can’t make this work without your people... and I don’t "
 "think I can make it work without <i>you</i>."
 msgstr ""
-"Jeseno, zasloužíš si korunu i království. Pokud nepřijmeš ani jedno, pak ti "
-"nabízím svou ruku. Bez tebe a tvého lidu to prostě nepůjde... a nemyslím, že "
-"by to šlo bez <i>tebe</i>."
+"Jeseno, zasloužíš si korunu i království. Pokud nepřijmeš ani jedno, pak ti "
+"nabízím svou ruku. Bez tvého lidu to nedokážeme... a nemyslím si, že já to "
+"dokážu bez <i>tebe</i>."
 
 # Nějaké lepší přísloví by se opravdu šiklo!
 # No mě se to líbí...
@@ -6933,9 +6931,9 @@ msgid ""
 "Dragonbane, will need someone to remind him that he does not eat lightning "
 "and belch thunder. I... accept."
 msgstr ""
-"Pravděpodobně ne. A pokud už pro nic jiného, tak proto, že hrdinný král "
-"Wesnothu, Haldrik Drakobijce, bude potřebovat připomínat, že nesnídá obry a "
-"nevečeří draky. Já... přijímám."
+"Pravděpodobně ne. A pokud už pro nic jiného, tak proto, že hrdinný král "
+"Wesnothu, Haldrik Drakobijce, bude potřebovat připomínat, že nesnídá obry "
+"a nevečeří draky. Já... přijímám."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:312
@@ -6947,11 +6945,11 @@ msgid ""
 "refugee peoples from the Green Isles became fused into one in the new "
 "kingdom."
 msgstr ""
-"Manželství Haldrika a Jeseny později nebylo nikdy označováno za klidné. Ale "
-"také se říkalo, že nesnesli delší odloučení od sebe, a porodila mu dvě silné "
-"děti, v nichž splynuly dvě rozličné pokrevní linie. Mnozí následovali jejich "
-"příkladu, a dva národy uprchlíků ze Zeleného ostrova postupně splynuly v "
-"nové vlasti v jeden."
+"Manželství Haldrika a Jeseny později nebylo nikdy označováno za klidné. Ale "
+"také se říkalo, že nesnesli delší odloučení od sebe, a porodila mu dvě silné "
+"děti, v nichž splynuly dvě rozličné pokrevní linie. Mnozí následovali jejich "
+"příkladu a dva národy uprchlíků ze Zeleného ostrova postupně splynuly v nové "
+"vlasti v jeden."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:317
@@ -6960,9 +6958,9 @@ msgid ""
 "of Haldric’s betrayal of the elves. They would whisper of the price he and "
 "his descendants would pay for that betrayal without knowing the whole truth."
 msgstr ""
-"V pozdějších dobách pěvci zpívali píseň „O porušení smlouvy“, výpravný "
-"příběh o Haldrikově zradě k elfům. Zpívali by o ceně, kterou by on a jeho "
-"potomci zaplatili za zradu, bez toho aniž by znali celou pravdu."
+"V pozdějších dobách budou pěvci zpívat píseň „O porušení smlouvy“, výpravný "
+"příběh o Haldrikově zradě elfů. Budou zvěstovat, jakou cenu on a jeho "
+"potomci za tu zradu zaplatí, aniž by sami znali celou pravdu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:322
@@ -6970,8 +6968,8 @@ msgid ""
 "But some of us have remembered the true story of our arrival on this great "
 "continent. The true story of the Rise of Wesnoth."
 msgstr ""
-"Ale někteří z nás si stále pamatují pravdivý příběh o našem příjezdu na tuto "
-"nádhernou pevninu. Skutečný příběh o Vzestupu Wesnothu."
+"Ale někteří z nás si stále pamatují pravdivý příběh o našem příjezdu na tuto "
+"nádhernou pevninu. Skutečný příběh Vzniku Wesnothu."
 
 #. [unit_type]: id=Familiar, race=undead
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Familiar.cfg:17
