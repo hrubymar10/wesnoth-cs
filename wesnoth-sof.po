@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-02-01 17:50+0100\n"
+"PO-Revision-Date: 2020-05-26 22:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -187,10 +187,10 @@ msgid ""
 "and the challenge he set, or that of Konrad, king of Wesnoth by virtue of "
 "the Sceptre."
 msgstr ""
-"Ano, Ohnivé žezlo. Žezlo má dlouhou, slavnou a děsivou historii. Ale nejsem "
+"Ano, Ohnivé žezlo. Žezlo má dlouhou, slavnou a děsivou historii. Ale nejsem "
 "tu, abych vám vyprávěl, jak Haldrik Velký přivezl tento klenot přes oceán. "
-"Ani vám nebudu vyprávět příběh Gararda prvního, o výzvě kterou vyhlásil, "
-"nebo o Konrádovi, králi Wesnothu právem žezla."
+"Ani vám nebudu vyprávět příběh Gararda prvního, o výzvě kterou vyhlásil, "
+"nebo o Konrádovi, králi Wesnothu právem žezla."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:113
@@ -229,7 +229,7 @@ msgstr "Doprav 4 karavany plné stříbra zpět do trpasličího hradu"
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:146
 msgid "Bring Alanin, who has the Ruby of Fire, to the dwarvish castle"
-msgstr "Doveď Alanina, který má Ohnivý Rubín, do trpasličího hradu"
+msgstr "Doveď Alanina, který má Ohnivý rubín, do trpasličího hradu"
 
 #. [objectives]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:152
@@ -291,7 +291,7 @@ msgstr ""
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:219
 msgid "Have you heard of the Ruby of Fire?"
-msgstr "Slyšel jsi o Ohnivém Rubínu?"
+msgstr "Slyšel jsi o Ohnivém rubínu?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:223
@@ -335,7 +335,7 @@ msgid ""
 "effect."
 msgstr ""
 "Když asi před pěti lety přišli elfové do Tathu, mluvili o mágovi jménem "
-"Crelanu a jeho radě týkající se rubínu. Říkal, že jeho vyzařování by mohlo "
+"Krelanu a jeho radě týkající se rubínu. Říkal, že jeho vyzařování by mohlo "
 "být ovládnuto, a to by zastavilo působení kamene."
 
 #. [message]: speaker=Rugnur
@@ -555,8 +555,9 @@ msgid ""
 "Very well. Glildur, if the high elvish council has made an alliance with the "
 "men, I would advise you to follow it, but not doing so is your choice."
 msgstr ""
-"Nuže dobrá, Glildure. Když vysoká rada elfů vytvořila alianci s lidmi, "
-"doporučuji ti ji následovat, ale volba je na tobě."
+"Nuže dobrá. Glildure, jestliže nejvyšší rada elfů utvořila spojenectví "
+"s lidmi, radil bych ti řídit se tím, ale pokud to neuděláš, je to tvoje "
+"volba."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:471
@@ -670,7 +671,7 @@ msgstr ""
 #. [scenario]: id=2_Closing_the_Gates
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:3
 msgid "Closing the Gates"
-msgstr "Uzavření brány"
+msgstr "Uzavření bran"
 
 #. [side]: type=Elvish Captain, id=Glindur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:36
@@ -692,8 +693,8 @@ msgid ""
 "Next in our story, Rugnur retreated into the caves of Knalga. But the elves "
 "pressed on, and would enter the caves shortly."
 msgstr ""
-"Dále v našem příběhu, Rugnur ustoupil do jeskyní Knalgy. Ale elfové na něj "
-"nemilosrdně tlačili a brzy se mohli dostat do jeskyň."
+"Poté v našem příběhu Rugnur ustoupil do jeskyní Knalgy. Ale elfové na něj "
+"nemilosrdně tlačili a brzy se mohli dostat do jeskyň."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:74
@@ -702,12 +703,12 @@ msgid ""
 "gates"
 msgstr ""
 "Umísti někoho na každý ze šesti magických znaků, aby jsi uzavřel trpasličí "
-"bránu"
+"brány"
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:81
 msgid "Kill all elves in the caves after the gates are closed"
-msgstr "Zabij všechny elfy, kteří zůstanou v jeskyních po uzavření brány"
+msgstr "Zabij všechny elfy, kteří zůstanou v jeskyních po uzavření bran"
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:88
@@ -735,7 +736,7 @@ msgstr "Jasně... já půjdu varovat radu. Ty zůstaň zde a bojuj."
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:232
 msgid "Yes, that sounds good. I’ll stay here and try to defend the gates..."
-msgstr "Ano, to zní dobře. Zůstanu a pokusím se ubránit brány."
+msgstr "Ano, to zní dobře. Zůstanu zde a pokusím se uhájit ty brány..."
 
 #. [message]: speaker=Glindur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:244
@@ -795,10 +796,10 @@ msgid ""
 "close it, the elves will no’ be able to enter. And you elves; begone from "
 "here!"
 msgstr ""
-"Argh! Jsem vysloužilý voják... vypadá to, že ti musím pomoci nebo se nechat "
-"obklíčit těmi zatracenými elfy... znovu. No dobrá, poslouchej. Tento vstup "
-"do města může být uzavřen. Je tu brána. Když se nám podaří ji uzavřít, "
-"elfové se nedostanou dovnitř. A vy elfové: Táhněte odsud!"
+"Argh! Jsem vysloužilý voják... vypadá to, že musím s pravdou ven a pomoct "
+"ti, nebo nás obsadí ti zatracení elfové... ještě jednou argh. No dobrá, "
+"poslouchej. Tento vstup do města může být uzavřen. Je tu brána. Když se nám "
+"podaří ji uzavřít, elfové se nedostanou dovnitř. A vy elfové: Táhněte odsud!"
 
 #. [message]: speaker=Glindur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:305
@@ -812,7 +813,7 @@ msgstr ""
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:309
 msgid "Baglur, how do you close the gates?"
-msgstr "Baglure, jak uzavřeme tu bránu?"
+msgstr "Baglure, jak uzavřeme ty brány?"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:313
@@ -824,7 +825,7 @@ msgid ""
 msgstr ""
 "Hm, no, to je docela těžké. Je to magická brána. Nezničitelná. Ale to taky "
 "znamená, že může být uzavřená jen magicky. Budeme muset umístit válečníka na "
-"každý ze šesti znaků. Jakmile budou všechny obsazeny, brána se uzavře. Poté "
+"každý ze šesti znaků. Jakmile budou všechny obsazeny, brány se uzavřou. Poté "
 "budou elfové navždy odříznuti od těchto jeskyň, alespoň tímto vstupem."
 
 #. [message]: speaker=Rugnur
@@ -853,7 +854,7 @@ msgid ""
 "location in the southeast, and two are right next to the front gate."
 msgstr ""
 "Dva jsou za průchodem na severozápadě a jiné dva jsou na stejných místech na "
-"jihovýchodě. A zbylé dva jsou hned u brány."
+"jihovýchodě. A zbylé dva jsou hned u přední brány."
 
 #. [message]: speaker=Glindur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:333
@@ -861,8 +862,8 @@ msgid ""
 "Have you made up your mind yet about surrendering? If you will not give up, "
 "prepare for battle!"
 msgstr ""
-"Už jste přemýšleli o své kapitulaci? Jestli se nám nezdáte, připravte se na "
-"bitvu."
+"Už jste přemýšleli o své kapitulaci? Jestli se nám nevzdáte, připravte se na "
+"bitvu!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:338
@@ -871,8 +872,7 @@ msgid ""
 "dwarf-made stonecraft. We refuse — now let’s close these gates!"
 msgstr ""
 "Můžete být silnější než my, ale pochybuji, že se dostanete přes trpasličí "
-"kamennou vychytávku.\n"
-"Odmítáme se vzdát. Uzavřete brány!"
+"kamennou vychytávku. Odmítáme se vzdát – teď pojďme uzavřít ty brány!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:449
@@ -881,7 +881,7 @@ msgid ""
 "as the main gate, and it cannot be closed!"
 msgstr ""
 "Ale co tenhle průchod? Elfové jim mohou projít stejně snadno jako hlavní "
-"bránou a nejde jen tak uzavřít!"
+"branou a nejde jen tak uzavřít!"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:453
@@ -922,7 +922,7 @@ msgid ""
 "exit these caves, to give Haldric back his jewel. And when you do, we will "
 "be ready for you."
 msgstr ""
-"Agh! Dobrá, porazili jste mne - prozatím. Ale nakonec budete muset opustit "
+"Agh! Dobrá, porazili jste mne – prozatím. Ale nakonec budete muset opustit "
 "jeskyně, kvůli předání šperku Haldrikovi. A až se tak stane, budeme na vás "
 "čekat."
 
@@ -932,8 +932,8 @@ msgid ""
 "If that is what ye choose to do, fine, but be prepared to wait for many "
 "years."
 msgstr ""
-"Jestli je to to co jsi se rozhodl udělat, dobrá. Ale připrav se, že budeš "
-"čekat mnoho let."
+"Jestli tohle je to, co jsi se rozhodl udělat, dobrá. Ale připrav se, že "
+"budeš čekat mnoho let."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:589
@@ -1487,7 +1487,7 @@ msgid ""
 "artifact ever seen. Even an untrained hand can use it to cast fiery bolts as "
 "powerful as those of arch mages."
 msgstr ""
-"Je to sice Wesnothský drahokam, ale je to také nejspíše nemocnější magický "
+"Je to sice Wesnothský drahokam, ale je to také nejspíše nejmocnější magický "
 "artefakt, který byl kdy spatřen. Dokonce i netrénované ruce s ním mohou "
 "sesílat ohnivé koule jako od arcimágů."
 
