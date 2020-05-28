@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-26 22:09+0200\n"
+"PO-Revision-Date: 2020-05-28 21:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -28,7 +28,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.4\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:11
@@ -997,7 +996,7 @@ msgid ""
 "Durstorn was not happy this day. Nor was he usually; but today he was "
 "unhappier than usual."
 msgstr ""
-"Durstorn nebylo toho dne do zpěvu. To bylo obvyklé, ale dneškem byl "
+"Durstornovi nebylo toho dne do zpěvu. To bylo obvyklé, ale dneškem byl "
 "rozmrzelejší než jindy."
 
 #. [unit]: type=Dwarvish Stalwart, id=Neglur
@@ -1042,7 +1041,7 @@ msgstr ""
 #. [message]: speaker=Noiraran
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:119
 msgid "Perhaps the outpost was held up?"
-msgstr "Možná bylo stanoviště obleženo?"
+msgstr "Možná byla přední hlídka přepadena?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:123
@@ -1050,7 +1049,7 @@ msgid ""
 "Ha! There hasn’t been a border attack since the men came from over the sea, "
 "why would someone attack us now?"
 msgstr ""
-"Cha! Nebyl tu žádný útok od té doby co lidé přijeli přes moře, proč by měl "
+"Cha! Nebyl tu žádný útok od té doby, co lidé přijeli přes moře, proč by měl "
 "někdo útočit nyní?"
 
 #. [message]: speaker=Kuhnar
@@ -1138,8 +1137,8 @@ msgid ""
 "that time will bring us very little gain."
 msgstr ""
 "Co?! Ty už jsi obchod uzavřel? Hloupý kluku, měl jsi přijít pro někoho ze "
-"starších! Dostali bychom z něj mnohem víc než deset tisíc zlatých. Tohle je "
-"úkol na mnoho let a teď nám ta celá práce přinese jen malý zisk."
+"starších! Dostali bychom z něj mnohem víc než deset tisíc zlatých. Tohle je "
+"úkol na mnoho let, a teď nám ta celá práce přinese jen malý zisk."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:181
@@ -1156,7 +1155,7 @@ msgid ""
 "prefer..."
 msgstr ""
 "Neumíš poznat klam, když nějaký slyšíš?! On ví, že jsme nejlepší řemeslníci "
-"a neodešel by za jiným kmenem, ani kdyby jsme se měli dohadovat celý rok. "
+"a neodešel by za jiným kmenem, ani kdybychom se měli dohadovat celý rok. "
 "Inu, co je dohodnuto je dohodnuto. Budeme pracovat za méně než by se mi "
 "líbilo..."
 
@@ -1166,7 +1165,7 @@ msgid ""
 "Well, since this boy bargained so badly, why not make him fulfill the "
 "contract himself? If he fails, it’s on his head."
 msgstr ""
-"Když to ten mladík vyjednal za tak špatných podmínek, proč nedáme vyplnění "
+"Když to ten mladík vyjednal za tak špatných podmínek, proč nedáme splnění "
 "zakázky na starost jemu? Když selže, padne to na jeho hlavu."
 
 #. [message]: speaker=Durstorn
@@ -1175,7 +1174,7 @@ msgid ""
 "Good idea, Baglur! He’ll need some help, though, and it will take a master "
 "smith to make the sceptre. Why don’t we send him to find Thursagan?"
 msgstr ""
-"Dobrý nápad, Baglure! Bude potřebovat nějakou pomoc, a bude zapotřebí mistra "
+"Dobrý nápad, Baglure! Bude potřebovat nějakou pomoc a bude zapotřebí mistra "
 "kováře, aby vytvořil žezlo. Proč ho nepošleme najít Thursagana?"
 
 #. [message]: speaker=Baglur
