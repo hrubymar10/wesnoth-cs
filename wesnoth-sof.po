@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-30 09:50+0200\n"
+"PO-Revision-Date: 2020-05-30 10:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1539,8 +1539,8 @@ msgid ""
 "members of their party — one expected, and one not."
 msgstr ""
 "Cesta zpět byla méně nebezpečná než minulý rok. Nezabrala tak dlouhý čas. "
-"Rychle se vrátili do trpasličího města s dvěma novými členy společnosti - "
-"jedním očekávaným a jedním ne."
+"Rychle se vrátili do trpasličího města se dvěma novými členy společnosti – "
+"jedním očekávaným a jedním ne."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:127
@@ -1578,13 +1578,13 @@ msgid ""
 "In the treasury. And leave it there until you’re ready to work with it — I "
 "still don’t trust you."
 msgstr ""
-"V pokladnici. A zůstane tam, dokud s ním nebudeš připraven pracovat - stále "
+"V pokladnici. A zůstane tam, dokud s ním nebudeš připraven pracovat – stále "
 "ti nevěřím."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:152
 msgid "Ha! <i>You</i> don’t trust <i>me</i>?"
-msgstr "Ha! <i>Ty</i> - nevěříš - <i>Mně</i>?"
+msgstr "Ha! <i>Ty</i> nevěříš <i>mně</i>?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:156
@@ -1628,13 +1628,13 @@ msgid ""
 "Hm... a most interesting jewel. I can feel its magical power. I will start "
 "drawing up plans for the sceptre immediately."
 msgstr ""
-"Hm... skutečně zajímavý šperk. Cítím jeho magickou sílu. Neprodleně začnu "
+"Hm... skutečně zajímavý drahokam. Cítím jeho magickou sílu. Neprodleně začnu "
 "kreslit plány pro žezlo."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:187
 msgid "Now, I will need certain materials to make this sceptre."
-msgstr "Také budu potřebovat určité materiály pro tvorbu žezla."
+msgstr "A teď, abych to žezlo udělal, budu potřebovat určité suroviny."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:191
@@ -1650,7 +1650,7 @@ msgid ""
 "the ruby once I have the plans done."
 msgstr ""
 "Řekl bych tak deset kusů zlata artefaktové kvality, dvacet kusů nejlepšího "
-"uhlí a mnoho těch nejlepších drahokamů - budeme myslím muset někoho poslat, "
+"uhlí a mnoho těch nejlepších drahokamů – budeme myslím muset někoho poslat, "
 "aby je vyhledal. Budu také potřebovat klenotnické nástroje na rubín, jakmile "
 "budou plány hotové."
 
@@ -1669,8 +1669,8 @@ msgid ""
 "You try my patience, Durstorn. You know yours aren’t acceptable, but you "
 "have to give me something or I can’t make the sceptre!"
 msgstr ""
-"Zkoušíš mou trpělivost Durstorne. Ty víš, že tvé nejsou přijatelné pro "
-"výrobu celého žezla, ale něco mít přece musím!"
+"Zkoušíš mou trpělivost, Durstorne. Ty víš, že tvé suroviny nejsou "
+"přijatelné, ale něco mi dát musíš, jinak nemůžu to žezlo udělat!"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:207
