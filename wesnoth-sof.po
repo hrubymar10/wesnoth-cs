@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-30 07:11+0200\n"
+"PO-Revision-Date: 2020-05-30 09:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1242,10 +1242,10 @@ msgid ""
 "or worse. Nevertheless, they did reach the Northlands, and began to search "
 "for the runesmith named Thursagan — the sage of fire."
 msgstr ""
-"Cesta do dalekých severních pustin byla dlouhá a strastiplná. Tunely byly "
-"klikaté a zrádné a stezky byly zamořeny nejen skřety, ale i horšími tvory. "
-"Nicméně se dostali na sever a začali hledat runového kováře jménem Thursagan "
-"- Ohnivého mudrce."
+"Cesta do dalekých severních pustin byla dlouhá a strastiplná. Tunely byly "
+"klikaté a zrádné a stezky byly zamořeny nejen skřety, ale i horšími tvory. "
+"Nicméně se dostali na sever a začali hledat runového kováře jménem "
+"Thursagan – ohňového mudrce."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:96
@@ -1295,8 +1295,8 @@ msgid ""
 "Now where are we going, anyway? We have been taking wrong turns and fighting "
 "orcs for months. This trip better have a good payoff to be worth that."
 msgstr ""
-"Kam teď? Byli jsme v těch jeskyních po celý rok. Často jsme šli špatnou "
-"cestou a museli jsme také bojovat se skřety. Tahle cesta by měla mít pořádný "
+"Kam teď? Byli jsme v těch jeskyních po celý rok. Často jsme šli špatnou "
+"cestou a museli jsme také bojovat se skřety. Tahle cesta by měla mít pořádný "
 "přínos, aby se vyplatila."
 
 #. [message]: speaker=Baglur
@@ -1438,7 +1438,7 @@ msgid ""
 "Old mage, we come with a message from Lord Durstorn. He asks you to come "
 "back to the city."
 msgstr ""
-"Starý mágu, přicházíme se zprávou od Lorda Durstorna. Žádá tě, aby jsi se "
+"Starý mágu, přicházíme se zprávou od lorda Durstorna. Žádá tě, aby jsi se "
 "vrátil do města."
 
 #. [message]: speaker=Thursagan
@@ -1455,7 +1455,7 @@ msgstr ""
 msgid ""
 "We have entered into a bargain with the king of Wesnoth to craft a sceptre "
 "for him."
-msgstr "Uzavřeli jsme dohodu s králem Wesnothu na vytvoření žezla pro něj."
+msgstr "Uzavřeli jsme s králem Wesnothu dohodu, že pro něj vytvoříme žezlo."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:530
@@ -1471,7 +1471,7 @@ msgid ""
 "You don’t want to make a sceptre to contain the power of the ruby of fire? "
 "Very well, your choice is made."
 msgstr ""
-"Ty nechceš vytvořit žezlo, které má ovládnout sílu Ohnivého rubínu? Tedy "
+"Ty nechceš vytvořit žezlo, které má ovládnout sílu ohnivého rubínu? Tedy "
 "dobrá, tvá volba."
 
 #. [message]: speaker=Thursagan
@@ -1507,9 +1507,9 @@ msgid ""
 "powerful magic artifact ever seen. This will be a true test of my skill. I "
 "expect it will take many years."
 msgstr ""
-"Aha. Dobrá, pomohu s vytvořením toho žezla... do nejmocnějšího magického "
-"artefaktu kdy vytvořeného. Bude to skutečný test mých schopností. Očekávám, "
-"že to zabere mnoho let."
+"Aha. Tak dobrá, pomohu vám vytvořit takové žezlo... nejmocnější magický "
+"artefakt, jaký byl kdy spatřen. Bude to skutečný test mých schopností. "
+"Očekávám, že to zabere mnoho let."
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:558
