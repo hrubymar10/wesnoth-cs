@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-28 21:36+0200\n"
+"PO-Revision-Date: 2020-05-30 07:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1477,7 +1477,7 @@ msgstr ""
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:538
 msgid "The ruby of fire, what is that, some worthless Wesnothian gem?"
-msgstr "Ohnivý rubín? Co to je? Nějaký bezcenný Wesnothský drahokam?"
+msgstr "Ohnivý rubín? Co to je? Nějaký bezcenný wesnothský drahokam?"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:542
@@ -1486,8 +1486,8 @@ msgid ""
 "artifact ever seen. Even an untrained hand can use it to cast fiery bolts as "
 "powerful as those of arch mages."
 msgstr ""
-"Je to sice Wesnothský drahokam, ale je to také nejspíše nejmocnější magický "
-"artefakt, který byl kdy spatřen. Dokonce i netrénované ruce s ním mohou "
+"Je to sice wesnothský drahokam, ale je to také nejspíše nejmocnější magický "
+"artefakt, který byl kdy spatřen. Dokonce i netrénované ruce s ním mohou "
 "sesílat ohnivé koule jako od arcimágů."
 
 #. [message]: speaker=Thursagan
@@ -2799,7 +2799,7 @@ msgid ""
 "Well, you are a member of the Wesnothian army. Why don’t you rejoin it? See "
 "if you can run past those elves to our southeast..."
 msgstr ""
-"No, jsi člen Wesnothské armády. Proč se k ní znovu nepřipojíš? Snad se ti "
+"No, jsi člen wesnothské armády. Proč se k ní znovu nepřipojíš? Snad se ti "
 "podaří proniknout mezi těmi elfy na jihovýchodě..."
 
 #. [message]: speaker=Rugnur
@@ -2815,9 +2815,9 @@ msgid ""
 "for ten years, almost as long as I was in the Wesnothian army; I’d prefer to "
 "fight with you."
 msgstr ""
-"To neudělám, je to sebevražda! A v každém případě, byl jsem s vámi deset "
-"let, skoro tak dlouho jako ve Wesnothské armádě. Dám přednost tomu bojovat "
-"spolu s vámi."
+"To neudělám, je to sebevražda! A v každém případě, byl jsem s vámi deset "
+"let, skoro tak dlouho jako ve wesnothské armádě. Dám přednost tomu bojovat "
+"spolu s vámi."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:468
@@ -2899,7 +2899,7 @@ msgid ""
 "went south — back to the Wesnoth border."
 msgstr ""
 "Rugnur uprchl za Arkan-thorii, ale Alanin to udělat nemohl. Jel na jih - "
-"zpět k Wesnothským hranicím."
+"zpět k wesnothským hranicím."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:68
@@ -2913,7 +2913,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:87
 msgid "Reach the Wesnothian outpost in the south"
-msgstr "Dosáhni Wesnothské předsunuté základny na jihu"
+msgstr "Dosáhni wesnothské předsunuté základny na jihu"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:107
