@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-30 10:33+0200\n"
+"PO-Revision-Date: 2020-05-30 10:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1777,7 +1777,7 @@ msgstr "Dones nezbytné zlato a uhlí k vytvoření žezla do počátečního hr
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:525
 msgid "1 load of gold and 2 loads of coal are needed"
-msgstr "Potřebuješ jeden náklad zlata a dva náklady uhlí."
+msgstr "Potřebuješ jeden náklad zlata a dva náklady uhlí"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:562
@@ -1786,8 +1786,8 @@ msgid ""
 "to fight them; also be prepared to spend quite some time here — mining can "
 "take a while."
 msgstr ""
-"Tak tohle jsou východní doly. Žijí tu trollové a obři, takže buďte "
-"připraveni s nimi bojovat. Taky se připravte, že tu nějaký čas pobudeme - "
+"Tak tohle jsou východní doly. Žijí tu trollové a obři, takže buďte "
+"připraveni s nimi bojovat. Taky se připravte, že tu nějaký čas pobudeme – "
 "těžba může chvíli trvat."
 
 #. [message]: speaker=Thursagan
@@ -1821,8 +1821,8 @@ msgid ""
 "Yes, although we will have to hire the miners — they don’t work for free. "
 "But beware, there are trolls and such down here..."
 msgstr ""
-"Ano, ačkoli na to najmeme horníky. Nebudou pracovat zadarmo. Ale dávejte "
-"pozor, tam dole je mnoho trollů a podobné chamradi..."
+"Ano, ačkoli horníky budeme muset najmout – zadarmo pracovat nebudou. Ale "
+"dávejte pozor, tam dole je mnoho trollů a podobné chamradi..."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:598
