@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-31 18:37+0200\n"
+"PO-Revision-Date: 2020-05-31 19:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1897,10 +1897,10 @@ msgid ""
 "were others — many others. Thus I present Theganli, the jeweler. His role is "
 "small, but an important one."
 msgstr ""
-"Rugnur a jeho společníci se vrátili domů.\n"
-"Ač to doposud nebylo moc zřejmé, Rugnur a Thursagan nebyli jediní, kteří "
-"pracovali na onom mistrovském díle. Byli tu další - mnoho dalších. Seznamte "
-"se s Theganlim, klenotníkem. Jeho role v příběhu je malá, ale důležitá."
+"Rugnur a jeho společníci se vrátili domů. Ač to doposud nebylo moc zřejmé, "
+"Rugnur a Thursagan nebyli jediní, kteří pracovali na onom mistrovském díle. "
+"Byli tu další – mnoho dalších. Seznamte se s Theganlim, klenotníkem. Jeho "
+"role v příběhu je malá, ale důležitá."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:127
@@ -1926,15 +1926,17 @@ msgid ""
 "That makes sense, I guess you would want to plan the sceptre’s design... "
 "what in particular do you want him to do?"
 msgstr ""
-"To dává smysl. Hádám, že bys měl domyslet vzhled žezla... co přesně po něm "
-"chceš?"
+"To dává smysl. Hádám, že budeš chtít navrhnout vzhled žezla... co přesně "
+"chceš, aby udělal?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:139
 msgid ""
 "I need to make the plans for the sceptre, then have him cut the ruby to "
 "match them."
-msgstr "Potřebuji udělat své plány a aby mi zbrousil rubín, tak aby zapadl."
+msgstr ""
+"Potřebuji vytvořit nákresy žezla a pak ho přesvědčit, aby podle nich "
+"zbrousil rubín."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:143
@@ -1947,8 +1949,8 @@ msgid ""
 "What are you talking about, sir? You knew all along the jewel would have to "
 "be cut to make the sceptre out of."
 msgstr ""
-"O čem to mluvíte... pane? Víte, že všechny drahokamy se musí brousit než "
-"budou zasazeny do žezla."
+"O čem to mluvíte, pane? Celou dobu jste věděl, že drahokam by měl být pro "
+"výrobu žezla broušen."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:151
@@ -1987,7 +1989,7 @@ msgid ""
 "He doesn’t need to come here, I’ll take the jewel to his shop. He’ll need "
 "his tools anyway."
 msgstr ""
-"Nemusí sem chodit. Vezmu drahokam do jeho dílny. Dtejně bude potřebovat své "
+"Nemusí sem chodit. Vezmu drahokam do jeho dílny. Stejně bude potřebovat své "
 "nástroje."
 
 #. [message]: speaker=Thursagan
