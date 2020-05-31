@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-30 10:42+0200\n"
+"PO-Revision-Date: 2020-05-31 18:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1839,7 +1839,7 @@ msgstr ""
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:659
 msgid "Here is some of the coal that we need! Bring the miners to take it!"
 msgstr ""
-"Tady je nějaké uhlí, které by se nám hodilo! Přiveďte horníky ať ho vytěží!"
+"Tady je nějaké uhlí, které by se nám hodilo! Přiveďte horníky, ať ho vytěží!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:684
@@ -1876,8 +1876,8 @@ msgid ""
 "This is all we need from these mines. Now we should go back further west, "
 "where there are no trolls and ogres, and mine there."
 msgstr ""
-"To je všechno co potřebujeme z těchto dolů. Teď bych se měli vrátit na "
-"západ, kde nejsou trollové ani obři a dolovat tam."
+"To je všechno, co potřebujeme z těchto dolů. Teď bychom se měli vrátit na "
+"západ, kde nejsou trollové ani obři, a dolovat tam."
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:1022
@@ -3834,7 +3834,7 @@ msgid ""
 "precious ores out of the ground, but do not ever take part in the crafting "
 "of weapons or artifacts."
 msgstr ""
-"Trpasličí horníci jsou nejnižší pracovníci Trpasličího společenství. Dokáží "
+"Trpasličí horníci jsou nejnižší pracovníci trpasličího společenství. Dokáží "
 "získat drahocennou rudu ze země, ale už nemají žádnou úlohu při výrobě "
 "zbraní nebo artefaktů."
 
