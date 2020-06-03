@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-08 11:19+0200\n"
+"PO-Revision-Date: 2020-06-03 22:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -26,7 +26,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:52
@@ -46,9 +45,9 @@ msgid ""
 "the recorded history of the Elves.\n"
 "\n"
 msgstr ""
-"Příběh Vysokého elfího lorda Kalenze, který po druhé skřetí invazi na Velký "
-"kontinent sjednotil svůj lid a stal se nejproslulejším hrdinou v zaznamenané "
-"historii elfů.\n"
+"Příběh nejvyššího elfího lorda Kalenze, který po druhé skřetí invazi na "
+"Velký kontinent sjednotil svůj lid a stal se nejproslulejším hrdinou "
+"v zaznamenané historii elfů.\n"
 "\n"
 
 #. [campaign]: id=LOW, type=hybrid
@@ -84,7 +83,7 @@ msgstr "Nelehká"
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:60
 msgid "High Lord"
-msgstr "Vysoký lord"
+msgstr "Nejvyšší lord"
 
 #. [about]
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:78
@@ -4769,11 +4768,11 @@ msgid ""
 "call, and Kalenz found that recruits came to him as readily as if he were "
 "still High Lord in name."
 msgstr ""
-"Bylo jasné, že Kalenz a Kleodil nedojdou klidu dokud bude Landar žít. Ale "
-"během let, co žili v odloučení, sláva jejich činů jen rostla. Mnoho "
-"léčitelek a čarodějek reagovalo na Kleodilino povolání. Kalenz zjistil, že "
-"se k němu připojují rekruti tak odhodlaně jako by byl stále formálně Vysokým "
-"elfím lordem."
+"Bylo jasné, že Kalenz a Kleodil nedojdou klidu dokud bude Landar žít. Ale "
+"během let, co žili v odloučení, sláva jejich činů jen rostla. Mnoho "
+"léčitelek a čarodějek reagovalo na Kleodilino povolání. Kalenz zjistil, že "
+"se k němu připojují rekruti tak odhodlaně, jako by byl stále formálně "
+"nejvyšším elfím lordem."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:33
@@ -4977,7 +4976,7 @@ msgid ""
 "High Lord of the Elves. North and South Elves swore allegiance to him."
 msgstr ""
 "Protože Landar odstranil Elfí radu, byl Kalenz jednomyslně vybrán za "
-"Vysokého lorda elfů. Severní i jižní elfové mu slíbili věrnost."
+"nejvyššího lorda elfů. Severní i jižní elfové mu slíbili věrnost."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:30
