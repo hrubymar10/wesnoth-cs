@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-06-06 08:40+0200\n"
+"PO-Revision-Date: 2020-06-06 18:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -701,8 +701,7 @@ msgid ""
 "Place someone on each of the six magic glyphs in order to close the dwarvish "
 "gates"
 msgstr ""
-"Umísti někoho na každý ze šesti magických znaků, aby jsi uzavřel trpasličí "
-"brány"
+"Umísti někoho na každý ze šesti magických znaků, abys uzavřel trpasličí brány"
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:81
@@ -1438,7 +1437,7 @@ msgid ""
 "Old mage, we come with a message from Lord Durstorn. He asks you to come "
 "back to the city."
 msgstr ""
-"Starý mágu, přicházíme se zprávou od lorda Durstorna. Žádá tě, aby jsi se "
+"Starý mágu, přicházíme se zprávou od lorda Durstorna. Žádá tě, aby ses "
 "vrátil do města."
 
 #. [message]: speaker=Thursagan
@@ -2580,10 +2579,10 @@ msgid ""
 "enchantment of runes he put on the Sceptre, it did not fulfill its original "
 "purpose."
 msgstr ""
-"Během tohoto času, Thursagan vytvořil Ohnivé žezlo. Nejprve vytvaroval "
-"drahokam a pak jej vložil se zlatem a chladnou ocelí do žáru plamene. Žezlo "
-"bylo stvořeno, ale něco nebylo v pořádku. Nezáleželo na tom, jaké runy byly "
-"vloženy na žezlo, stále nenaplňovalo původní úmysl."
+"Během tohoto času Thursagan vytvořil Ohnivé žezlo. Nejprve vytvaroval "
+"drahokam a pak jej vložil se zlatem a chladnou ocelí do žáru plamene. Žezlo "
+"bylo stvořeno, ale něco nebylo v pořádku. Nezáleželo na tom, jaké runy byly "
+"vloženy na žezlo, stále nesplňovalo původní záměr."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:167
@@ -2602,9 +2601,9 @@ msgid ""
 "materials he has here, but he has the final plans for it, and all the jewels "
 "and gold he needs. Shouldn’t we leave now?"
 msgstr ""
-"Inu, Thursagan dosáhl konce. Nedokáže dokončit žezlo s materiály, které má "
-"tady, ale má plán k dokončení a všechny drahokamy i zlato, které potřebuje. "
-"Neměli bychom teď odejít?"
+"Inu, Thursagan dospěl k závěru. Nedokáže dokončit žezlo s materiály, které "
+"má tady, ale má plán k dokončení a všechny drahokamy i zlato, které "
+"potřebuje. Neměli bychom teď odejít?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:268
@@ -2612,8 +2611,9 @@ msgid ""
 "All this time and he couldn’t make it? Fine, we should try to leave... but "
 "it’s not like we could leave if we wanted to. We’re surrounded!"
 msgstr ""
-"Celý ten čas a on to nedokázal dokončit? Dobrá, měli bychom zkusit odejít... "
-"ale to neznamená, že můžeme odejít, jak se nám zachce. Jsme obklíčeni!"
+"Celý ten čas a on to nedokázal dokončit? Dobrá, měli bychom zkusit "
+"odejít..., ale to neznamená, že můžeme odejít, jak se nám zachce. Jsme "
+"obklíčeni!"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:277
@@ -2673,9 +2673,9 @@ msgid ""
 "and Baglur’s. Krawg’s done more for its existence than you have! And yet, "
 "you still get the profits from selling it to Haldric."
 msgstr ""
-"Nade mnou nemáš pravomoc, Durstorne. A já bych jim žezlo nedal, i kdyby ty "
-"ano. Není tvoje, aby jsi ho někomu dával. Je mé a Rugnurovo a Baglurovo. To "
-"i Krawg udělal pro jeho existenci více než ty! A přesto dostaneš zisk z jeho "
+"Nade mnou nemáš pravomoc, Durstorne. A já bych jim žezlo nedal, i kdyby ty "
+"ano. Není tvoje, abys ho někomu dával. Je mé a Rugnurovo a Baglurovo. To "
+"i Krawg udělal pro jeho existenci více než ty! A přesto dostaneš zisk z jeho "
 "prodeje Haldrikovi."
 
 #. [message]: speaker=Durstorn
@@ -2687,11 +2687,10 @@ msgstr ""
 "Takže vy všichni chcete zemřít? Vaše věc, ale já tu s vámi nezahynu. A když "
 "nechcete dát žezlo elfům, vezmu vám ho!"
 
-# možná špatně, opravím dle kontextu
 #. [animate_unit]
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:323
 msgid "<i>Swoosh!</i>"
-msgstr "<i>Rachot!</i>"
+msgstr "<i>Švih!</i>"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:352
@@ -2708,7 +2707,7 @@ msgid ""
 "You’re not my ally. You’re more against me than the elves are; all they want "
 "is the ruby, but you want us dead!"
 msgstr ""
-"Nejsi můj spojenec. Jsi proti mne více než elfové. Oni chtějí rubín, ale ty "
+"Nejsi můj spojenec. Jsi proti mně více než elfové. Oni chtějí rubín, ale ty "
 "nás chceš mrtvé!"
 
 #. [message]: speaker=Rugnur
@@ -2727,7 +2726,7 @@ msgstr "Nikdy!"
 #. [animate]
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:393
 msgid "<i>Thud!</i>"
-msgstr "<i>Dusot!</i>"
+msgstr "<i>Buch!</i>"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:416
@@ -2735,8 +2734,8 @@ msgid ""
 "Well, I suppose we were right to silence him, but I don’t like this. In any "
 "case, now we should try to get out of here."
 msgstr ""
-"Asi jsme udělali správně, když jsme ho umlčeli, ale nemám tyhle věci rád. V "
-"každém případě bychom se odtud měli pokusit dostat."
+"Asi jsme udělali správně, když jsme ho umlčeli, ale nemám tyhle věci rád. "
+"V každém případě bychom se odtud měli pokusit dostat."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:420
@@ -2750,7 +2749,7 @@ msgid ""
 "chance of success there. I think we should try to get to it."
 msgstr ""
 "Tamhle jsou nejslabší elfské hlídky, takže tam je největší šance na úspěch. "
-"Myslím, že bysme to tam měli zkusit."
+"Myslím, že bychom to tam měli zkusit."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:434
@@ -2759,9 +2758,9 @@ msgid ""
 "likely to succeed either. Even if it does, what will it accomplish? We will "
 "be cornered there."
 msgstr ""
-"Tenhle plán není horší než tu zůstat a být zabit, ale ani jeden se nezdá být "
-"moc nadějný. I když se tam dostaneme, čeho tím dosáhneme? Budeme tam zahnáni "
-"do rohu."
+"Tenhle plán není horší, než tu zůstat a být zabit, ale ani jeden se nezdá "
+"být moc nadějný. I když se tam dostaneme, čeho tím dosáhneme? Budeme tam "
+"zahnáni do rohu."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:438
@@ -2770,8 +2769,8 @@ msgid ""
 "we can lose the elves in the caves, they move so slow there. Once we get "
 "out, we’ll make our way back to Knalga."
 msgstr ""
-"Nemyslím že by nás tam zahnali do rohu. Ta jeskyně vypadá, že jde hlouběji a "
-"můžeme elfům utéci, protože v jeskyních se pohybují pomalu. Jakmile se "
+"Nemyslím, že by nás tam zahnali do rohu. Ta jeskyně vypadá, že jde hlouběji, "
+"a můžeme elfům utéci, protože v jeskyních se pohybují pomalu. Jakmile se "
 "dostaneme ven, vrátíme se do Knalgy."
 
 #. [message]: speaker=Rugnur
@@ -2808,7 +2807,7 @@ msgstr ""
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:460
 msgid "... and then ride south until you reach one of your outposts."
 msgstr ""
-"...a pak jet na jih dokud nedosáhneš jedné z vašich předsunutých základen."
+"... a pak jet na jih, dokud nedosáhneš jedné z vašich předsunutých základen."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:464
@@ -2828,8 +2827,8 @@ msgid ""
 "going back to the mines! And getting news to Haldric of what has happened is "
 "also the best way to get help to us."
 msgstr ""
-"Cesta na jih ti dává větší šanci než zůstat tady nebo se s námi vracet do "
-"dolů! A doručení zpráv Haldrikovi o tom, co se stalo, je to nejlepší, jak "
+"Cesta na jih ti dává větší šanci, než zůstat tady nebo se s námi vracet do "
+"dolů! A doručení zpráv Haldrikovi o tom, co se stalo, je to nejlepší, jak "
 "nám můžeš pomoci."
 
 #. [message]: speaker=Alanin
