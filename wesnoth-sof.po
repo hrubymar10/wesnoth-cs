@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-31 19:52+0200\n"
+"PO-Revision-Date: 2020-06-06 08:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2153,9 +2153,9 @@ msgid ""
 "were no exception. They were crafters of crafters — they made tools. The "
 "best in the land. And they bartered well."
 msgstr ""
-"Všichni trpaslíci jsou známi láskou ke zlatu a srdcem z kamene. Shorbearové "
-"nebyli žádnou výjimkou. Byli řemeslníci řemeslníků - vyráběli nástroje. "
-"Nejlepší v zemi. A handlovali velice dobře."
+"Všichni trpaslíci jsou známi láskou ke zlatu a srdcem z kamene. Shorbearové "
+"nebyli žádnou výjimkou. Byli řemeslníci řemeslníků – vyráběli nástroje. "
+"Nejlepší v zemi. A handlovali velice dobře."
 
 #. [label]
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:138
@@ -2191,7 +2191,7 @@ msgid ""
 "If I understand it correctly, we’re here to bargain with the Shorbears, and "
 "arrange for us to use their tools to cut the ruby."
 msgstr ""
-"Pokud tomu rozumím správně, jdeme obchodovat s Shorbeary a domluvit použití "
+"Pokud tomu rozumím správně, jdeme obchodovat se Shorbeary a domluvit použití "
 "jejich nástrojů pro broušení rubínu."
 
 #. [message]: speaker=Thursagan
@@ -2205,13 +2205,13 @@ msgid ""
 "And I’ll be doing the talking; I remember what happened last time you "
 "negotiated a deal! We lost five thousand pieces of silver."
 msgstr ""
-"A vyjednávat budu já. Pamatuji si co se stalo, když jsi vyjednával "
+"A vyjednávat budu já. Pamatuji si, co se stalo, když jsi vyjednával "
 "naposledy! Ztratili jsme pět tisíc zlatých."
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:268
 msgid "Och, it’s some o’ them cave-dwarves. What business do you have here?"
-msgstr "Ale... nějací jeskyní trpaslíci. Co vás sem přivádí?"
+msgstr "Ale... nějací jeskynní trpaslíci. Co vás sem přivádí?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:272
@@ -2220,9 +2220,9 @@ msgid ""
 "workers, and so we come to rent some of your tools for a short time, a few "
 "years at most."
 msgstr ""
-"Jsem Lord Durstorn, král mého kmene. Slyšel jsem, že jste skvělí zlatníci a "
-"tak jsme přišli, abychom si pronajali nějaké vaše nástroje na krátký čas, "
-"pár let nanejvýše."
+"Jsem lord Durstorn, král svého kmene. Slyšel jsem, že jste skvělí zlatníci, "
+"a tak jsme přišli, abychom si na krátký čas pronajali nějaké vaše nástroje, "
+"nanejvýše na pár let."
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:276
@@ -2363,7 +2363,7 @@ msgstr "Ztichněte všichni! Zaútočte na ně!"
 #. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:376
 msgid "You may now recruit Gryphon Riders."
-msgstr ""
+msgstr "Nyní můžeš nabírat jezdce na gryfonech."
 
 #. [unit]: id=Lyndar, type=Elvish Marshal
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:392
@@ -2376,8 +2376,8 @@ msgid ""
 "Aha! I’ve spent years looking for you dwarves, but now I’ve found you! "
 "Prepare to die!"
 msgstr ""
-"Aha! Strávil jsem léta, hledáním vás trpaslíků - a teď jsem vás konečně "
-"našel. Připravte se zemřít!"
+"Ha! Hledáním vás trpaslíků jsem strávil roky, ale teď jsem vás našel! "
+"Připravte se zemřít!"
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:416
@@ -2422,8 +2422,8 @@ msgid ""
 "How about this — I help you defeat them, and you let me keep the ruby when "
 "we have?"
 msgstr ""
-"A co tohle... Já ti pomohu je porazit a ty pak, až ho získáme, přenecháš "
-"rubín?"
+"A co tohle – já ti je pomohu porazit a ty mi přenecháš rubín, až ho budeme "
+"mít?"
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:440
