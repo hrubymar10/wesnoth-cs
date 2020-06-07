@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-24 08:55+0200\n"
+"PO-Revision-Date: 2020-06-07 09:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3674,6 +3674,8 @@ msgid ""
 "I feel the touch of dark magic. This is quite a powerful spell — the very "
 "air feels thick and heavy."
 msgstr ""
+"Cítím náznak temné magie. Je to celkem mocné kouzlo – samotný vzduch se zdá "
+"být hustý a těžký."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:786
@@ -3683,11 +3685,14 @@ msgid ""
 "purge negative emotions from the body. I imagine it will have exactly the "
 "opposite effect now."
 msgstr ""
+"To je Mebrinovo dílo. Poznávám tu sílu, třebaže byla pokroucena zásahem "
+"černých umění. Používal tohle kouzlo, aby uzdravil duši a zbavil tělo "
+"negativních emocí. Předpokládám, že teď bude mít přesně opačný účinek."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:798
 msgid "I feel... faint..."
-msgstr ""
+msgstr "Cítím se... malátný..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:802
@@ -3695,26 +3700,28 @@ msgid ""
 "We must hurry! Once Mebrin’s spell takes full effect, none of us will be "
 "able to stop him."
 msgstr ""
+"Musíme spěchat! Jakmile Mebrinovo kouzlo začne naplno působit, nikdo z nás "
+"ho nebude schopen zastavit."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:814
 msgid "I feel so weary... I can hardly grasp my weapon anymore..."
-msgstr ""
+msgstr "Cítím se tak vyčerpaný... Už sotva dokážu uchopit svou zbraň..."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:827
 msgid "Taste the breath of oblivion!"
-msgstr ""
+msgstr "Okuste dech zapomnění!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:831
 msgid "Mebrin has caught us in his spell! We are doomed..."
-msgstr ""
+msgstr "Mebrin nás polapil svým kouzlem! Jsme ztraceni..."
 
 #. [message]: speaker=Grek
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:843
 msgid "Ouch! Me hurt! Me feel cold! Me dying..."
-msgstr ""
+msgstr "Au! Mě bolí! Mě studí! Já umírat..."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:855
