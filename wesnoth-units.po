@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-06 20:38+0200\n"
+"PO-Revision-Date: 2020-06-29 21:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.3\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -2422,6 +2421,13 @@ msgid ""
 "often observed to lead through camaraderie and amicability, but still "
 "command great respect from their kin."
 msgstr ""
+"Elfí kapitáni zpravidla vedou hlídky a velí posádkám, které stráží rozlehlé "
+"lesy na elfském území. Na rozdíl od vůdců jiných ras jsou zdatní převážně ve "
+"vedení menších šarvátek spíše než rozsáhlejších bitev a jsou zvlášť zběhlí "
+"v obranných manévrech. Kapitáni obvykle velí slabším jednotkám, které spolu "
+"zůstávají po delší časová období, což jim dovoluje osobně vést své oddíly "
+"a pomáhat jim. Často lze pozorovat, že velí pomocí kamarádství a vlídnosti, "
+"ale přesto se u svých příbuzných těší velké úctě."
 
 #. [unit_type]: id=Elvish Champion, race=elf
 #: data/core/units/elves/Champion.cfg:4
