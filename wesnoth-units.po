@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-06-29 21:16+0200\n"
+"PO-Revision-Date: 2020-06-30 20:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5053,6 +5053,10 @@ msgid ""
 "on any footing. While notably aggressive at night, these creatures do not "
 "pose much of a threat to any serious fighter."
 msgstr ""
+"Jsou mnohem větší než běžné krysy, které často obývají velká města. Tahle "
+"havěť může ublížit neozbrojeným civilistům a nedá se tak snadno chytit. Tato "
+"stvoření jsou sice agresivní, zejména v noci, ale pro žádného opravdového "
+"bojovníka nepředstavují skutečnou hrozbu."
 
 #. [unit_type]: id=Giant Scorpion, race=monster
 #: data/core/units/monsters/Giant_Scorpion.cfg:4
@@ -5150,6 +5154,13 @@ msgid ""
 "even to the elite merfolk warriors, and are the reason they seldom inhabit "
 "waters far from the shore."
 msgstr ""
+"Mořští hadi, kteří často vystupují ve folkloru jakožto hněvivé božstvo moří, "
+"vzbuzují v rybářích a námořnících strach a respekt. Jsou schopni bez námahy "
+"ničit lodě a podle všeho mají nekonečnou sílu a kypí zdravím. Tito "
+"nepolapitelní leviatani jsou zkázonosní a nelítostní vůči každému, kdo si to "
+"s nimi zkusí rozdat. Obvykle žijí v hlubokých mořích. Mořští hadi jsou "
+"působiví i pro elitní válečníky z mořského lidu, a proto tito bojovníci jen "
+"zřídka obývají vody daleko od pobřeží."
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:4
