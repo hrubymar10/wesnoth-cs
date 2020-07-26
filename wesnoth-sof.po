@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-06-06 18:15+0200\n"
+"PO-Revision-Date: 2020-07-26 17:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2849,9 +2849,9 @@ msgid ""
 "northeast, towards the old eastern mines, and if he wants his precious "
 "sceptre he should send forces to meet us there as soon as he can!"
 msgstr ""
-"Alanine, jeď tak rychle jak můžeš k jihu. Řekni Haldrikovi, že míříme "
-"severovýchodně do starých dolů na východě a ať nám pošle posily jakmile bude "
-"moci, jestli chce ze svého milovaného žezla někdy něco spatřit!"
+"Alanine, jeď k jihu tak rychle, jak jen můžeš. Řekni Haldrikovi, že míříme "
+"severovýchodně do starých dolů na východě a ať nám pošle posily, jakmile "
+"bude moci, jestli chce ze svého milovaného žezla někdy něco spatřit!"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:528
@@ -2885,8 +2885,8 @@ msgid ""
 "I don’t know what is in these caves, but whatever it is can’t be worse than "
 "staying here to die."
 msgstr ""
-"Nevím co je v těch jeskyních, ale nemůže to být horší než zůstat tady a "
-"čekat na smrt."
+"Nevím, co je v těch jeskyních, ale nemůže to být horší, než zůstat tady "
+"a čekat na smrt."
 
 #. [scenario]: id=7_Outriding_the_Outriders
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:3
@@ -2899,7 +2899,7 @@ msgid ""
 "Rugnur had fled across the Arkan-thoria, but Alanin could not do that. He "
 "went south — back to the Wesnoth border."
 msgstr ""
-"Rugnur uprchl za Arkan-thorii, ale Alanin to udělat nemohl. Jel na jih - "
+"Rugnur uprchl za Arkan-thorii, ale Alanin to udělat nemohl. Jel na jih – "
 "zpět k wesnothským hranicím."
 
 #. [part]
