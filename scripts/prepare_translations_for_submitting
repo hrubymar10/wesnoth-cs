@@ -67,7 +67,7 @@ fi
 mkdir "$output_name"
 
 for lang_file in *.po ; do
-    if [ "$lang_file" != "wesnoth-announcement.po" ] && [ "$lang_file" != "wesnoth-steam.po" ]; then
+    if [ "$lang_file" != "wesnoth-announcement.po" ] && [ "$lang_file" != "wesnoth-steam.po" ] && [ "$lang_file" != "wesnoth-wov.po" ]; then
         package_name="${lang_file%.*}"
         echo "Copying $lang_file..."
         mkdir "$output_name/$package_name"
