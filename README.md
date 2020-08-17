@@ -18,7 +18,7 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-dw`           | **100%** |
 | `wesnoth-editor`       | **100%** |
 | `wesnoth-ei`           | **100%** |
-| `wesnoth-help`         | **96%**  |
+| `wesnoth-help`         | **98%**  |
 | `wesnoth-httt`         | **100%** |
 | `wesnoth-l`            | **100%** |
 | `wesnoth-lib`          | **96%**  |
@@ -34,10 +34,10 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-tb`           | **100%** |
 | `wesnoth-test`         | **100%** |
 | `wesnoth-thot`         | **100%** |
-| `wesnoth-trow`         | **99%**  |
-| `wesnoth-tsg`          | **60%**  |
+| `wesnoth-trow`         | **100%** |
+| `wesnoth-tsg`          | **72%**  |
 | `wesnoth-tutorial`     | **100%** |
-| `wesnoth-units`        | **85%**  |
+| `wesnoth-units`        | **89%**  |
 | `wesnoth-utbs`         | **96%**  |
 | `wesnoth-wov`          | **29%**  |
 
