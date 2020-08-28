@@ -2,44 +2,44 @@
 Czech translations of The Battle for Wesnoth
 
 ## Branches
-* [`1.14`](https://github.com/hrubymar10/wesnoth-cs/tree/1.14) - **Default** branch reflects [`1.14`](https://github.com/wesnoth/wesnoth/tree/1.14) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
-* ~~[`master`](https://github.com/hrubymar10/wesnoth-cs/tree/master) - branch reflects [`master`](https://github.com/wesnoth/wesnoth/tree/master) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)~~ <-- Not created yet
+* [`master`](https://github.com/hrubymar10/wesnoth-cs/tree/master) - **Default** branch that reflects [`master`](https://github.com/wesnoth/wesnoth/tree/master) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
+* [`1.14`](https://github.com/hrubymar10/wesnoth-cs/tree/1.14) - **Archived** branch that reflects [`1.14`](https://github.com/wesnoth/wesnoth/tree/1.14) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
 
 ## Translations Stats
 | Text Domain            | %        |
 | ---------------------- |:--------:|
-| `wesnoth`              | **97%**  |
-| `wesnoth-ai`           | **75%**  |
+| `wesnoth`              | **91%**  |
+| `wesnoth-ai`           | **73%**  |
 | `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
 | `wesnoth-aoi`          | **100%** |
-| `wesnoth-did`          | **100%** |
-| `wesnoth-dm`           | **100%** |
-| `wesnoth-dw`           | **100%** |
+| `wesnoth-did`          | **52%**  |
+| `wesnoth-dm`           | **98%**  |
+| `wesnoth-dw`           | **99%**  |
 | `wesnoth-editor`       | **100%** |
-| `wesnoth-ei`           | **100%** |
-| `wesnoth-help`         | **98%**  |
-| `wesnoth-httt`         | **100%** |
-| `wesnoth-l`            | **100%** |
-| `wesnoth-lib`          | **96%**  |
+| `wesnoth-ei`           | **99%**  |
+| `wesnoth-help`         | **82%**  |
+| `wesnoth-httt`         | **99%**  |
+| `wesnoth-l`            | **29%**  |
+| `wesnoth-lib`          | **91%**  |
 | `wesnoth-low`          | **100%** |
-| `wesnoth-manpages`     | **61%**  |
+| `wesnoth-manpages`     | **54%**  |
 | `wesnoth-manual`       | **96%**  |
-| `wesnoth-multiplayer`  | **84%**  |
+| `wesnoth-multiplayer`  | **83%**  |
 | `wesnoth-nr`           | **90%**  |
-| `wesnoth-sof`          | **98%**  |
-| `wesnoth-sota`         | **97%**  |
-| `wesnoth-sotbe`        | **100%** |
+| `wesnoth-sof`          | **60%**  |
+| `wesnoth-sota`         | **93%**  |
+| `wesnoth-sotbe`        | **99%**  |
 | `wesnoth-steam`        | **100%** |
-| `wesnoth-tb`           | **100%** |
+| `wesnoth-tb`           | **99%**  |
 | `wesnoth-test`         | **100%** |
-| `wesnoth-thot`         | **100%** |
-| `wesnoth-trow`         | **100%** |
-| `wesnoth-tsg`          | **72%**  |
-| `wesnoth-tutorial`     | **100%** |
-| `wesnoth-units`        | **89%**  |
-| `wesnoth-utbs`         | **96%**  |
-| `wesnoth-wov`          | **29%**  |
+| `wesnoth-thot`         | **66%**  |
+| `wesnoth-trow`         | **99%**  |
+| `wesnoth-tsg`          | **73%**  |
+| `wesnoth-tutorial`     | **95%**  |
+| `wesnoth-units`        | **77%**  |
+| `wesnoth-utbs`         | **94%**  |
+| `wesnoth-wc`           | **29%**  |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
@@ -63,6 +63,3 @@ Czech translations of The Battle for Wesnoth
 * "Konvence českého překladu" on wesnoth wiki: https://wiki.wesnoth.org/CS:Konvence
 * Translation stats of stable branch: https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs
 * Translation stats of master branch: https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs
-
----
-Synced with commit: [e9347e6](https://github.com/wesnoth/wesnoth/tree/e9347e6219052f34f24e408cf2d2ac5c5be9693c)

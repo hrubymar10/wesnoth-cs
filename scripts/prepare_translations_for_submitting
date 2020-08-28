@@ -1,87 +1,85 @@
 #!/usr/bin/env bash
 #
 # prepare_translations_for_submitting
-# Martin Hrubý (hrubymar10), 2018
+# Martin Hrubý (hrubymar10), 2018-2020
 #
 
 starttimestamp=$(date +%s)
 
 time_interval_to_string() {
-        local START=$1
-        local END=$2
+  local START=$1
+  local END=$2
 
-        declare -i timestamp
-        declare -i days
-        declare -i hours
-        declare -i minutes
-        declare -i seconds
-        timestamp=$END-$START
+  declare -i timestamp
+  declare -i days
+  declare -i hours
+  declare -i minutes
+  declare -i seconds
+  timestamp=$END-$START
 
-        days=$timestamp/60/60/24
-        hours=$((($timestamp-($days*60*60*24))/60/60))
-        minutes=$((($timestamp-($days*60*60*24)-($hours*60*60))/60))
-        seconds=$((($timestamp-($days*60*60*24)-($hours*60*60)-($minutes*60))))
-        if [ $days -eq 0 ]; then
-        if [ $hours -eq 0 ]; then
-                if [ $minutes -eq 0 ]; then
-                echo "==> Operation took $seconds seconds ..."
-                else
-                echo "==> Operation took $minutes minutes and $seconds seconds ..."
-                fi
-        else
-                echo "==> Operation took $hours hours $minutes minutes and $seconds seconds ..."
-        fi
-        else
-        echo "==> Operation took $days days $hours hours $minutes minutes and $seconds seconds ..."
-        fi
+  days=$timestamp/60/60/24
+  hours=$((($timestamp-($days*60*60*24))/60/60))
+  minutes=$((($timestamp-($days*60*60*24)-($hours*60*60))/60))
+  seconds=$((($timestamp-($days*60*60*24)-($hours*60*60)-($minutes*60))))
+  if [ $days -eq 0 ]; then
+    if [ $hours -eq 0 ]; then
+      if [ $minutes -eq 0 ]; then
+        echo "==> Operation took $seconds seconds ..."
+      else
+        echo "==> Operation took $minutes minutes and $seconds seconds ..."
+      fi
+    else
+      echo "==> Operation took $hours hours $minutes minutes and $seconds seconds ..."
+    fi
+  else
+    echo "==> Operation took $days days $hours hours $minutes minutes and $seconds seconds ..."
+  fi
 }
 
-MY_PATH=$(cd `dirname $0` && pwd)
-if [ -z "$MY_PATH" ] ; then
-        # error; for some reason, the path is not accessible
-        # to the script (e.g. permissions re-evaled after suid)
-        echo 'Error: Script path is for some reason not accessible' >&2
-        exit 1  # fail
+MY_PATH=$(cd `dirname ${0}` && pwd)
+if [ -z "${MY_PATH}" ] ; then
+  # error; for some reason, the path is not accessible
+  # to the script (e.g. permissions re-evaled after suid)
+  echo 'Error: Script path is for some reason not accessible' >&2
+  exit 1  # fail
 fi
-cd "$MY_PATH"
+cd "${MY_PATH}/.."
 
 echo "This script is only useful when you want submit these translations into wesnoth/wesnoth. Otherwise it is useless for you."
 read -p "Press enter if you really want to continue ..."
 
-cd ..
-
 if ! [ -f "wesnoth.po" ]; then
-    echo "Error: I am probably in bad directory! I must be in wesnoth-cs/scripts !" >&2
-    exit 1
+  echo "Error: I am probably in bad directory! I must be in wesnoth-cs/scripts !" >&2
+  exit 1
 fi
 
 VCS_BRANCH=`./scripts/autorevision.sh -s VCS_BRANCH`
 VCS_SHORT_HASH=`./scripts/autorevision.sh -s VCS_SHORT_HASH`
 
-output_name="wesnoth-cs_$VCS_BRANCH""_$VCS_SHORT_HASH"
+output_name="wesnoth-cs_${VCS_BRANCH}_${VCS_SHORT_HASH}"
 
-if [ -d "$output_name" ]; then
-    rm -rf "$output_name"
+if [ -d "${output_name}" ]; then
+  rm -rf "${output_name}"
 fi
 
-mkdir "$output_name"
+mkdir "${output_name}"
 
 for lang_file in *.po ; do
-    if [ "$lang_file" != "wesnoth-announcement.po" ] && [ "$lang_file" != "wesnoth-steam.po" ] && [ "$lang_file" != "wesnoth-wov.po" ]; then
-        package_name="${lang_file%.*}"
-        echo "Copying $lang_file..."
-        mkdir "$output_name/$package_name"
-        cp $lang_file "$output_name/$package_name/cs.po"
-    fi
+  if [ "${lang_file}" != "wesnoth-announcement.po" ] && [ "${lang_file}" != "wesnoth-steam.po" ]; then
+    package_name="${lang_file%.*}"
+    echo "Copying ${lang_file}..."
+    mkdir "${output_name}/${package_name}"
+    cp ${lang_file} "${output_name}/${package_name}/cs.po"
+  fi
 done
 
-if [ -f "$output_name.zip" ]; then
-    rm "$output_name.zip"
+if [ -f "${output_name}.zip" ]; then
+  rm "${output_name}.zip"
 fi
 
-zip -r "$output_name.zip" "$output_name"
+zip -r "${output_name}.zip" "${output_name}"
 
 echo "Done!"
 echo
-time_interval_to_string "$starttimestamp" "$(date +%s)"
+time_interval_to_string "${starttimestamp}" "$(date +%s)"
 echo

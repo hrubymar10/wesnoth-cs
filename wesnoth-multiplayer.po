@@ -18,9 +18,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-05-01 22:57 UTC\n"
-"PO-Revision-Date: 2020-05-09 20:19+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"POT-Creation-Date: 2020-08-22 04:14 UTC\n"
+"PO-Revision-Date: 2020-08-28 10:00+0200\n"
+"Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -1164,48 +1164,48 @@ msgid "teamname^Revolt"
 msgstr "Povstalci"
 
 #. [side]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:51
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:71
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:50
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:70
 msgid "teamname^Human"
 msgstr "Lidé"
 
 #. [then]
 #. [objective]: condition=lose
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:106
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:256
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:105
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:275
 msgid "Death of your leader"
 msgstr "Tvůj vůdce zemře"
 
 #. [then]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:107
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:106
 msgid ""
 "Since your team has only one leader, the enemy waves will not be at full "
 "strength."
 msgstr "Tvůj tým má pouze jednoho vůdce, nepřátelské vlny tedy budou oslabeny."
 
 #. [else]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:110
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:109
 msgid "Death of both of your team’s leaders"
 msgstr "Vůdci obou tvých týmů zemřou"
 
 #. [else]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:111
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:110
 msgid ""
 "Since your team has two leaders, the enemy waves will be at full strength."
 msgstr "Tvůj tým má dva vůdce, takže nepřátelské vlny zaútočí v plné síle."
 
 #. [objective]: condition=win
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:132
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:131
 msgid "Survive and defeat all enemy waves"
 msgstr "Přežij a poraz všechny nepřátelské útoky"
 
 #. [message]: speaker=narrator
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:152
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:151
 msgid "Dark Forecast — a random survival scenario"
 msgstr "Temná předpověď - náhodný přežívací scénář"
 
 #. [message]: speaker=narrator
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:157
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:156
 msgid ""
 "Your aim is to survive the spawning waves of units and defeat the final "
 "archenemies.\n"
@@ -1249,12 +1249,12 @@ msgstr ""
 "• kódování WML"
 
 #. [message]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:177
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:176
 msgid "So this is the accursed valley — a land ours for the taking."
 msgstr "Takže toto je to prokleté údolí. Země, kterou zabereme."
 
 #. [message]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:181
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:180
 msgid ""
 "The inhabitants are rumored to be a strange alliance of man and beast, and "
 "our claim is not going to be unopposed. We must be prepared for the "
@@ -1265,14 +1265,14 @@ msgstr ""
 "tato země přichystá."
 
 #. [message]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:185
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:184
 msgid ""
 "Then let us discover what lies in waiting and teach them not to oppose our "
 "claim."
 msgstr "Zjistíme, kdo a co na nás čeká, a naučíme je nestavět se nám na odpor."
 
 #. [message]: speaker=unit
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:232
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:203
 msgid ""
 "Ugh! How can this be? Defeated by mere barbarians! My gods have forsaken "
 "me..."
@@ -1280,7 +1280,7 @@ msgstr ""
 "Ech! Je to možné? Porazili mě takovíto barbaři, mí bozi mne museli opustit..."
 
 #. [message]: speaker=second_unit
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:246
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:217
 msgid ""
 "Cheers of your enemy are the last thing you hear as you slip into death..."
 "their joy fills your last moments with pure hate."
@@ -1289,7 +1289,7 @@ msgstr ""
 "nepřátel. Jejich radost tě na poslední okamžik plní nejčistší nenávistí."
 
 #. [message]
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:268
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:239
 msgid ""
 "The enemy cheers as a dark mist rises from the land, engulfing you. As "
 "ghostly wisps drain away your will, you realize that your time in this land "
@@ -1300,12 +1300,12 @@ msgstr ""
 "tmavého mračna dusí poslední zbytky tvé vůle."
 
 #. [slider]: id=enemey_gold_factor
-#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:281
+#: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:252
 msgid "Changes the gold worth of the enemy spawns by a certain percentage"
 msgstr "Změní o dané procento sumu, kterou má nepřítel k dispozici"
 
 #. [lua]: final_spawn
-#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:314
+#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:315
 msgid ""
 "The last and most powerful of these creatures are almost upon us. I feel "
 "that if we can finish them off in time, we shall be victorious."
@@ -1314,7 +1314,7 @@ msgstr ""
 "dokážeme porazit rychle, zvítězíme."
 
 #. [lua]: final_spawn
-#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:342
+#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:345
 msgid ""
 "The screams and pleas for mercy are finally silenced, as you remove your "
 "blood soaked blade from the last of the rebels. There will be no more "
@@ -1325,27 +1325,27 @@ msgstr ""
 "zažije tvá vláda období klidu."
 
 #. [lua]: weather_map
-#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:466
+#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:469
 msgid "Clear Weather"
 msgstr "Slunečno"
 
 #. [lua]: weather_map
-#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:472
+#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:475
 msgid "Drought"
 msgstr "Sucho"
 
 #. [lua]: weather_map
-#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:484
+#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:487
 msgid "Heavy Rains"
 msgstr "Přívalové deště"
 
 #. [lua]: weather_map
-#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:490
+#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:493
 msgid "Snowfall"
 msgstr "Sníh"
 
 #. [lua]: weather_map
-#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:496
+#: data/multiplayer/scenarios/2p_Dark_Forecast.lua:499
 msgid "Heavy Snowfall"
 msgstr "Sněhová vánice"
 
@@ -1453,100 +1453,100 @@ msgstr ""
 "spojenectví s místními domorodci. Navrženo Doc Pattersonem."
 
 #. [unit]: type=Young Ogre
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:89
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:166
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:205
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:277
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:330
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:462
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:91
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:162
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:199
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:268
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:317
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:441
 msgid "Big Baby Bo"
 msgstr "Big Baby Bo"
 
 #. [unit]: type=Drake Fighter
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:102
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:103
 msgid "Rawffus the Dim"
 msgstr "Rawffus Hloupý"
 
 #. [unit]: type=Dwarvish Scout
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:154
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:151
 msgid "Kolbur"
 msgstr "Kolbur"
 
 #. [unit]: type=Dwarvish Scout
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:179
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:174
 msgid "Vilhelm Viskitynnyri"
 msgstr "Vilhelm Viskitynnyri"
 
 #. [unit]: type=Woodsman
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:239
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:250
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:684
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:695
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:231
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:242
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:650
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:661
 msgid "Clockwork Boy"
 msgstr "Hodinařík"
 
 #. [unit]: type=Orcish Leader, id=Neki the Brutal
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:302
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:291
 msgid "Neki the Brutal"
 msgstr "Brutální Neki"
 
 #. [unit]: type=Elvish Fighter
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:343
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:329
 msgid "Drowsk Calbeht"
 msgstr "Drowsk Calbeht"
 
 #. [unit]: type=Soulless
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:405
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:387
 msgid "Rzrrt the Dauntless"
 msgstr "Rzrrt zvaný Nebojácný"
 
 #. [unit]: type=Skeleton
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:445
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:425
 msgid "Sorrek, Chosen of Death"
 msgstr "Sorrek, zástupce Smrti"
 
 #. [unit]: type=Young Ogre
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:534
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:611
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:650
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:722
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:774
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:906
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:510
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:581
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:618
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:687
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:735
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:859
 msgid "Big Baby Dro"
 msgstr "Big Baby Dro"
 
 #. [unit]: type=Drake Fighter
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:547
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:522
 msgid "Gawffus the Dim"
 msgstr "Gawffus Hloupý"
 
 #. [unit]: type=Dwarvish Scout
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:599
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:570
 msgid "Rublok"
 msgstr "Rublok"
 
 #. [unit]: type=Dwarvish Scout
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:624
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:593
 msgid "Ulysses Mantyjuuri"
 msgstr "Ulysses Mantyjuuri"
 
 #. [unit]: type=Orcish Leader
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:746
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:709
 msgid "Neki the Brute"
 msgstr "Krvák Neki"
 
 #. [unit]: type=Elvish Fighter
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:787
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:747
 msgid "Claiomh Dubh"
 msgstr "Claiomh Dubh"
 
 #. [unit]: type=Soulless
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:849
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:805
 msgid "Tyxrrn the Dauntless"
 msgstr "Tyxrrn Nebojácný"
 
 #. [unit]: type=Skeleton
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:889
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:843
 msgid "Rukhos, Chosen of Death"
 msgstr "Rukhos, vyvolený Smrti"
 
@@ -1916,19 +1916,19 @@ msgstr ""
 msgid "3p — Alirok Marsh"
 msgstr "3p — Mokřina Alirok"
 
-#. [multiplayer]: id=multiplayer_Alirok_Marsh
 #. [multiplayer]: id=multiplayer_Island_of_the_Horatii
-#. [multiplayer]: id=multiplayer_3p_Morituri
-#. [multiplayer]: id=multiplayer_Blue_Water_Province
-#. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
-#. [multiplayer]: id=multiplayer_Clash
-#. [multiplayer]: id=multiplayer_4p_Hamlets
-#. [multiplayer]: id=multiplayer_4p_Morituri
-#. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
-#. [multiplayer]: id=multiplayer_4p_Underworld
-#. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
-#. [multiplayer]: id=multiplayer_8p_Morituri
 #. [multiplayer]: id=multiplayer_Loris_River
+#. [multiplayer]: id=multiplayer_3p_Morituri
+#. [multiplayer]: id=multiplayer_4p_Underworld
+#. [multiplayer]: id=multiplayer_4p_Morituri
+#. [multiplayer]: id=multiplayer_Alirok_Marsh
+#. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
+#. [multiplayer]: id=multiplayer_Blue_Water_Province
+#. [multiplayer]: id=multiplayer_8p_Morituri
+#. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
+#. [multiplayer]: id=multiplayer_Clash
+#. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
+#. [multiplayer]: id=multiplayer_4p_Hamlets
 #: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:6
 #: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:6
 #: data/multiplayer/scenarios/3p_Morituri.cfg:6
@@ -2022,7 +2022,7 @@ msgstr ""
 #. [side]
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:21
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:54
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:65
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:73
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:20
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:42
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:64
@@ -2036,7 +2036,7 @@ msgstr "Tým 1"
 #. [side]
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:32
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:43
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:76
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:84
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:31
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:53
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:75
@@ -2369,19 +2369,19 @@ msgid "In this mixed landscape, five armies battle for supremacy."
 msgstr "V této různorodé krajině svede 5 armád boj o nadvládu."
 
 #. [multiplayer]: id=multiplayer_The_Wilderlands
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:49
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:57
 msgid "5p — The Wilderlands"
 msgstr "5p — Divočina"
 
 #. [multiplayer]: id=multiplayer_Crusaders_Field
 #. [multiplayer]: id=multiplayer_The_Wilderlands
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:50
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:58
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:7
 msgid " Recommended setting of 1 gold per village."
 msgstr " Doporučeným nastavením je 1 zlatý na vesnici."
 
 #. [multiplayer]: id=multiplayer_The_Wilderlands
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:50
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:58
 msgid ""
 "A vast region of wild, untamed wilderness, its terrain dotted with forests, "
 "caves, rivers, and the ruins of ancient fortresses."
@@ -2390,42 +2390,42 @@ msgstr ""
 "jeskyní, řek a ruin starobylého opevnění."
 
 #. [side]
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:87
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:95
 msgid "teamname^Team 3"
 msgstr "Tým 3"
 
 #. [side]
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:98
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:106
 msgid "teamname^Team 4"
 msgstr "Tým 4"
 
 #. [side]
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:119
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:128
 msgid "teamname^Monsters"
 msgstr "Příšery"
 
 #. [objective]: condition=win
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:229
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:246
 msgid "Defeat all enemy leaders"
 msgstr "Poraz všechny vůdce nepřátel"
 
 #. [objective]: condition=win
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:246
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:265
 msgid "Defeat all monsters"
 msgstr "Poraz všechny příšery"
 
 #. [objective]: condition=win
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:264
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:283
 msgid "Defeat the enemy leaders"
 msgstr "Poraz vůdce nepřátel"
 
 #. [objective]: condition=lose
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:269
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:288
 msgid "Death of all your units"
 msgstr "Všechny tvé jednotky zemřou"
 
 #. [note]
-#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:274
+#: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:293
 msgid "You cannot recruit units."
 msgstr "Nemůžeš verbovat jednotky."
 
@@ -2787,6 +2787,16 @@ msgid ""
 msgstr ""
 "Test rychlosti Wesnothu, použij --no-delay --multiplayer --"
 "scenario=wesbench_shroud_walk --exit-at-end."
+
+#. [multiplayer]: id=multiplayer_test_lua_mapgen
+#: data/multiplayer/scenarios/test_lua_mapgen.cfg:16
+msgid "Lua Mapgen Maritime"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_test_lua_mapgen
+#: data/multiplayer/scenarios/test_lua_mapgen.cfg:17
+msgid "Testing new lua mapgen features"
+msgstr ""
 
 #~ msgid "Default + Khalifate"
 #~ msgstr "Výchozí + Chalífát"
