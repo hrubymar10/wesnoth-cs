@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-08 09:30 UTC\n"
-"PO-Revision-Date: 2020-09-08 17:49+0200\n"
+"PO-Revision-Date: 2020-09-08 19:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3614,21 +3614,14 @@ msgstr "Krakraš"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:110
-#, fuzzy
-#| msgid ""
-#| "Thus Alanin escaped from his elvish pursuers. But the dwarves were not so "
-#| "lucky. I would say that, perhaps, their betrayal of Durstorn was coming "
-#| "back to haunt them. For the section of the old eastern mines that they "
-#| "reached in their flight had long since become the lair of Khrakrahs... "
-#| "the dragon."
 msgid ""
 "Thus Alanin escaped from his elvish pursuers. But the dwarves were not so "
 "lucky, for the section of the old eastern mines that they reached in their "
 "flight had become the lair of the dragon Khrakrahs."
 msgstr ""
-"Alanin tedy unikl jeho elfím pronásledovatelům. Trpaslíci však takové štěstí "
-"neměli. Jejich zradu Durstorna jim osud oplatil strašlivě. Ačkoliv o tom "
-"nevěděli, ve starých dolech na východě vstoupili do jeskyní draka Krakraše."
+"A tak Alanin unikl svým elfím pronásledovatelům. Trpaslíci však takové "
+"štěstí neměli, neboť část starých východních dolů, do které při svém útěku "
+"dorazili, se stala doupětem draka Krakraše."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:128
@@ -3661,7 +3654,8 @@ msgid ""
 "Well, Thursagan, we’ve reached the eastern mine, but the elves are hot on "
 "our trail. What do we do now?"
 msgstr ""
-"Thursagane, dosáhli jsme jeskyň, ale elfové jsou nám v patách. Co uděláme?"
+"Nuže Thursagane, dostali jsme se do východního dolu, ale elfové jsou nám "
+"v patách. Co teď uděláme?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:275
@@ -3672,16 +3666,16 @@ msgid ""
 "can’t run as fast in caves as we can, so we may be able to get ahead of them "
 "and perhaps lay a trap."
 msgstr ""
-"Máme dvě možnosti. Můžeme buď zůstat a bojovat a nepochybně zemřít nebo "
-"utíkat tak rychle jak je možné dolů touto stezkou do hlubin jeskyně, kde "
-"možná najdeme něco co nám pomůže. Také pamatujte, že elfové se v jeskyních "
-"nemohou pohybovat tak rychle jako my, takže bychom se měli dostat před ně a "
-"možná uchystat past."
+"Máme dvě možnosti. Můžeme buď zůstat a bojovat a nepochybně zemřít, nebo co "
+"nejrychleji utíkat touto stezkou dolů do hlubin jeskyně, kde možná najdeme "
+"něco, co nám pomůže. Také pamatujte, že elfové se v jeskyních nemohou "
+"pohybovat tak rychle jako my, takže bychom mohli získat náskok a třeba "
+"i uchystat past."
 
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:279
 msgid "Krah! Surrender ruby?"
-msgstr ""
+msgstr "Krá! Vydat kámen?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:283
@@ -3690,7 +3684,7 @@ msgid ""
 "that ruby has the power to do great things, evil things. We can’t let it "
 "fall into the wrong hands."
 msgstr ""
-"A když jim dám rubín, tak co? Stejně by nás nejspíš zabili. A ten rubín má "
+"A když jim dáme rubín, tak co? Stejně by nás nejspíš zabili. A ten rubín má "
 "moc dělat velké věci, zlé věci. Nemůžeme dovolit, aby se dostal do špatných "
 "rukou."
 
@@ -3700,8 +3694,8 @@ msgid ""
 "Then we shall run. I suggest calling to arms every last dwarf we possibly "
 "can here. This might be the last chance we’ll get to do so."
 msgstr ""
-"Pak budeme utíkat. Navrhuji zde povolat do zbraně každého trpaslíka, kterého "
-"můžeme sehnat. Možná je to naše poslední šance tak udělat."
+"Pak budeme utíkat. Navrhuji povolat zde do zbraně každého trpaslíka, kterého "
+"jen můžeme. Možná je to naše poslední šance tak učinit."
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:296
@@ -3715,7 +3709,7 @@ msgstr ""
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:300
 msgid "If it makes you feel any better, we’ll probably die this way, too."
-msgstr "Jestli se budeš cítit líp, nejspíš umřeme i tak."
+msgstr "Jestli tě to potěší, tak asi stejně umřeme."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:323
