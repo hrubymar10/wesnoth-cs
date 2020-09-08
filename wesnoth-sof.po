@@ -20,8 +20,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-08 09:30 UTC\n"
-"PO-Revision-Date: 2020-08-28 10:00+0200\n"
-"Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-09-08 17:49+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -3474,7 +3474,7 @@ msgid ""
 "You cannot outride us, horseman of Wesnoth! Whatever message you are "
 "carrying, it will not be delivered!"
 msgstr ""
-"Nemůžeš nám utéci jezdče z Wesnothu! Ať neseš jakoukoliv zprávu, nebude "
+"Nemůžeš nám utéci, jezdče z Wesnothu! Ať neseš jakoukoliv zprávu, nebude "
 "doručena!"
 
 #. [message]: speaker=Alanin
@@ -3490,7 +3490,7 @@ msgstr "Raesil"
 #. [message]: speaker=second_unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:227
 msgid "Great, now there is no need to worry about those elves anymore!"
-msgstr ""
+msgstr "Skvěle, teď už si s těmi elfy nemusíme dělat starosti!"
 
 #. [message]: role=newcomer
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:236
@@ -3498,6 +3498,8 @@ msgid ""
 "Did you really think that you could escape us? Don’t underestimate us, "
 "inferior humans!"
 msgstr ""
+"Skutečně jste si mysleli, že byste nám mohli uniknout? Nepodceňujte nás, "
+"slabí lidé!"
 
 #. [message]: id=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:248
@@ -3505,21 +3507,24 @@ msgid ""
 "Even though my chances have grown worse, I have to fulfil my duty. I do not "
 "owe them any less!"
 msgstr ""
+"Ačkoli se mé šance zhoršily, musím splnit svou povinnost. Nic menšího jim "
+"nedlužím!"
 
 #. [message]: id=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:273
 msgid "Oh no, more of them? And there I thought I could catch my breath…"
 msgstr ""
+"Ale ne, ještě další? A to jsem si myslel, že bych mohl popadnout dech..."
 
 #. [message]: role=fighter
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:278
 msgid "Don’t worry sir, we’ll make it through this!"
-msgstr ""
+msgstr "Nemějte starosti, pane, z toho se dostaneme!"
 
 #. [message]: id=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:303
 msgid "Is there no end to their numbers?"
-msgstr ""
+msgstr "To jim nebude nikdy konec?"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:368
@@ -3547,6 +3552,8 @@ msgstr ""
 msgid ""
 "You slow humans took too long, our detachment has already caught up with you!"
 msgstr ""
+"Trvalo vám to příliš dlouho, pomalí lidé, naše odloučená jednotka vás už "
+"dostihla!"
 
 #. [unit]: type=Lieutenant, id=Hadlin   # wmllint: ignore
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:561
