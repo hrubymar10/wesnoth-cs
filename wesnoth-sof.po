@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-08 09:30 UTC\n"
-"PO-Revision-Date: 2020-09-16 00:00+0200\n"
+"PO-Revision-Date: 2020-09-17 22:43+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4012,7 +4012,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:826
 msgid "Explore as much of the cave as possible"
-msgstr "Prozkoumej tak velkou část jeskyně, jak je možné"
+msgstr "Prozkoumej co největší část jeskyně"
 
 #. [unit]: type=Troll, role=Guardian
 #. [unit]: type=Troll Shaman, role=Guardian
@@ -4040,24 +4040,17 @@ msgstr ""
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:893
-#, fuzzy
-#| msgid ""
-#| "We should keep going. Remember what Khrakrahs said, about this being a "
-#| "volcano? I think we should try to cause it to erupt. It will kill all the "
-#| "elves, and we might be able to find a safe place so the lava doesn’t kill "
-#| "us."
 msgid ""
 "Huh, makes sense. It will kill all the elves, and we might be able to find a "
 "safe place so the lava doesn’t kill us."
 msgstr ""
-"Měli bychom jít dál. Pamatujete jak Krakraš říkal, že tohle je sopka? Mohli "
-"bychom ji nechat vybuchnout. Zabije to všechny elfy a my bychom měli být "
-"schopni najít si bezpečné místo před smrtí v lávě."
+"Hm, to dává smysl. Zahubí to všechny elfy a nám by se mohlo podařit najít "
+"bezpečné místo tak, aby nás láva nezabila."
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:897
 msgid "Yes, an interesting plan. How do you propose we do this?"
-msgstr "Ano, zajímavý plán. Jak předpokládáš, že to máme udělat?"
+msgstr "Ano, zajímavý plán. Jak myslíš, že to máme udělat?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:901
