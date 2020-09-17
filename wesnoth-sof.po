@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-08 09:20 UTC\n"
-"PO-Revision-Date: 2020-09-15 22:47+0200\n"
+"PO-Revision-Date: 2020-09-17 21:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3344,20 +3344,22 @@ msgid ""
 "There was no exit for the dwarves. They had reached the realms of the orcs, "
 "with the elves hot on their trail. There was truly no exit from these caves."
 msgstr ""
-"Nebyl zde žádný východ pro trpaslíky. Dosáhli teritoria skřetů a za sebou "
-"měli elfy. A vskutku žádný východ."
+"Pro trpaslíky neexistoval žádný východ. Dostali se do říše skřetů a po "
+"jejich stopě se hnali elfové. Z těch jeskyní skutečně nebylo jak odejít."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:164
 msgid ""
 "So the dwarves had no way out. They could not leave the caverns that they "
 "had entered."
-msgstr "Takže žádná cesta pryč. Nemohli opustit jeskyně, do kterých vstoupili."
+msgstr ""
+"Takže trpaslíci neměli východiska. Nemohli opustit jeskyně, do kterých "
+"vstoupili."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:184
 msgid "Explore as much of the cave as possible"
-msgstr "Prozkoumej tak velkou část jeskyně, jak je možné"
+msgstr "Prozkoumej co největší část jeskyně"
 
 #. [unit]: type=Troll, role=Guardian
 #. [unit]: type=Orcish Warrior, role=Guardian
@@ -3375,7 +3377,8 @@ msgstr "Strážce"
 msgid ""
 "Well, I think we’ve gotten a good distance ahead of the elves. What do we do "
 "now?"
-msgstr "Myslím, že jsme se od nich dostali dost daleko. Co budeme dělat?"
+msgstr ""
+"Dobrá, myslím, že jsme získali před elfy slušný náskok. Co teď podnikneme?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:295
@@ -3384,9 +3387,10 @@ msgid ""
 "volcano? I think we should try to cause it to erupt. It will kill all the "
 "elves, and we might be able to find a safe place so the lava doesn’t kill us."
 msgstr ""
-"Měli bychom jít dál. Pamatujete jak Krakraš říkal, že tohle je sopka? Mohli "
-"bychom ji nechat vybuchnout. Zabije to všechny elfy a my bychom měli být "
-"schopni najít si bezpečné místo před smrtí v lávě."
+"Měli bychom jít dál. Pamatujete, jak Krakraš říkal, že tohle je sopka? "
+"Myslím, že bychom se měli pokusit zařídit, aby vybuchla. Zabije to všechny "
+"elfy a nám by se mohlo podařit najít bezpečné místo tak, aby nás láva "
+"nezabila."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:299
@@ -3396,7 +3400,7 @@ msgstr "To nezní tak docela uhozeně..."
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:303
 msgid "Yes, an interesting plan. How do you propose we do this?"
-msgstr "Ano, zajímavý plán. Jak předpokládáš, že to máme udělat?"
+msgstr "Ano, zajímavý plán. Jak myslíš, že to máme udělat?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:307
