@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-09-17 22:43+0200\n"
+"PO-Revision-Date: 2020-09-19 23:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4090,17 +4090,12 @@ msgstr "Thursagane! Elfové jsou hned za námi. Co budeme dělat?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:997
-#, fuzzy
-#| msgid ""
-#| "We could try to set off the volcano as soon as possible. Meanwhile, we "
-#| "should draw the elves further into the caves, so they can’t escape when "
-#| "it does erupt."
 msgid ""
 "We should try to set off the volcano as soon as possible. Draw the elves "
 "further into the caves, so they can’t escape when it does erupt."
 msgstr ""
-"Měli bychom spustit vulkán jakmile to bude možné. Zatím bychom měli elfy "
-"vést hlouběji do jeskyně, takže nebudou moci utéct až to vybuchne."
+"Měli bychom se pokusit co nejdříve spustit vulkán. Zatáhnout elfy hlouběji "
+"do jeskyň, takže nebudou moci utéct, až to vybuchne."
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1018
