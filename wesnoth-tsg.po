@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-09-14 21:32+0200\n"
+"PO-Revision-Date: 2020-09-20 00:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2706,8 +2706,6 @@ msgstr "Mal Maul"
 
 #. ['unit name']
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:303
-#, fuzzy
-#| msgid "Mal Maul"
 msgid "female^Mal Maul"
 msgstr "Mal Maul"
 
