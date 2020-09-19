@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-08 09:20 UTC\n"
-"PO-Revision-Date: 2020-09-17 21:52+0200\n"
+"PO-Revision-Date: 2020-09-19 17:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3388,7 +3388,7 @@ msgid ""
 "elves, and we might be able to find a safe place so the lava doesn’t kill us."
 msgstr ""
 "Měli bychom jít dál. Pamatujete, jak Krakraš říkal, že tohle je sopka? "
-"Myslím, že bychom se měli pokusit zařídit, aby vybuchla. Zabije to všechny "
+"Myslím, že bychom se měli pokusit zařídit, aby vybuchla. Zahubí to všechny "
 "elfy a nám by se mohlo podařit najít bezpečné místo tak, aby nás láva "
 "nezabila."
 
@@ -3450,13 +3450,13 @@ msgid ""
 "should draw the elves further into the caves, so they can’t escape when it "
 "does erupt."
 msgstr ""
-"Měli bychom spustit vulkán jakmile to bude možné. Zatím bychom měli elfy "
-"vést hlouběji do jeskyně, takže nebudou moci utéct až to vybuchne."
+"Mohli bychom se pokusit co nejdříve spustit vulkán. Zatím bychom měli elfy "
+"vést hlouběji do jeskyně, takže nebudou moci utéct, až to vybuchne."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:427
 msgid "These orcs appear to be guarding something."
-msgstr "Tito skřeti vypadají jako kdyby něco hlídali."
+msgstr "Tito skřeti vypadají, jako kdyby něco hlídali."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:431
@@ -3514,7 +3514,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:552
 msgid "Survive as long as possible"
-msgstr ""
+msgstr "Zůstaň naživu co nejdéle"
 
 #. [message]: role=smartelf
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:603
