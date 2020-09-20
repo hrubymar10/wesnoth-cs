@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-08-08 09:20 UTC\n"
-"PO-Revision-Date: 2020-09-20 06:21+0200\n"
+"PO-Revision-Date: 2020-09-20 08:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4240,6 +4240,8 @@ msgid ""
 "These human beasts slew our people and murdered Mebrin! We must have "
 "vengeance for this vile atrocity. Burn their city to the ground!"
 msgstr ""
+"Tahle lidská zvěř zabila naše lidi a zavraždila Mebrina! Za tuto ohavnou "
+"krutost se musíme pomstít. Vypalte jejich město do základů!"
 
 #. [message]: speaker=Deoran
 #. Defeat message after time-over
@@ -4248,6 +4250,8 @@ msgid ""
 "The elves are attacking Westin! They'll surely destroy the city without us "
 "there to defend it..."
 msgstr ""
+"Elfové útočí na Westin! Když ho my nebudeme bránit, zcela jistě to město "
+"zničí..."
 
 #. [unit]: type=Lieutenant, id=Liryn
 #: data/campaigns/The_South_Guard/scenarios/08a_Return_to_Kerlath.cfg:394
