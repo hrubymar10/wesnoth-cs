@@ -1,4 +1,4 @@
-# wesnoth-cs `1.14` branch
+# wesnoth-cs `master` branch
 Czech translations of The Battle for Wesnoth
 
 ## Branches
@@ -10,14 +10,14 @@ Czech translations of The Battle for Wesnoth
 | ---------------------- |:--------:|
 | `wesnoth`              | **91%**  |
 | `wesnoth-ai`           | **73%**  |
-| `wesnoth-anl`          | **100%** |
+| `wesnoth-anl`          | **99%**  |
 | `wesnoth-announcement` | **45%**  |
 | `wesnoth-aoi`          | **100%** |
 | `wesnoth-did`          | **52%**  |
 | `wesnoth-dm`           | **98%**  |
 | `wesnoth-dw`           | **99%**  |
 | `wesnoth-editor`       | **100%** |
-| `wesnoth-ei`           | **99%**  |
+| `wesnoth-ei`           | **100%** |
 | `wesnoth-help`         | **82%**  |
 | `wesnoth-httt`         | **99%**  |
 | `wesnoth-l`            | **29%**  |
@@ -25,9 +25,9 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-low`          | **100%** |
 | `wesnoth-manpages`     | **54%**  |
 | `wesnoth-manual`       | **96%**  |
-| `wesnoth-multiplayer`  | **83%**  |
-| `wesnoth-nr`           | **90%**  |
-| `wesnoth-sof`          | **60%**  |
+| `wesnoth-multiplayer`  | **84%**  |
+| `wesnoth-nr`           | **89%**  |
+| `wesnoth-sof`          | **62%**  |
 | `wesnoth-sota`         | **93%**  |
 | `wesnoth-sotbe`        | **99%**  |
 | `wesnoth-steam`        | **100%** |
@@ -35,11 +35,11 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-test`         | **100%** |
 | `wesnoth-thot`         | **66%**  |
 | `wesnoth-trow`         | **99%**  |
-| `wesnoth-tsg`          | **73%**  |
+| `wesnoth-tsg`          | **78%**  |
 | `wesnoth-tutorial`     | **95%**  |
-| `wesnoth-units`        | **77%**  |
-| `wesnoth-utbs`         | **94%**  |
-| `wesnoth-wc`           | **29%**  |
+| `wesnoth-units`        | **78%**  |
+| `wesnoth-utbs`         | **93%**  |
+| `wesnoth-wc`           | **0%**   |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
