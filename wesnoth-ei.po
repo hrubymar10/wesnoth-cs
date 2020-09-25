@@ -16,8 +16,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:34 UTC\n"
-"PO-Revision-Date: 2020-08-28 10:00+0200\n"
-"Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-09-25 12:28+0200\n"
+"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -81,10 +81,8 @@ msgstr ""
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:24
-#, fuzzy
-#| msgid "(Novice level, 16 scenarios.)"
 msgid "(Intermediate level, 16 scenarios.)"
-msgstr "(Úroveň nováček, 16 scénářů.)"
+msgstr "(Úroveň pokročilý hráč, 16 scénářů.)"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:28
@@ -2644,10 +2642,8 @@ msgstr "Ran-Lar"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:150
-#, fuzzy
-#| msgid "Destroy the bridge OR defeat all enemies"
 msgid "Destroy the bridge"
-msgstr "Znič most NEBO pobij všechny nepřátele"
+msgstr "Znič most"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:175
@@ -3882,10 +3878,6 @@ msgstr ""
 
 #. [special_note]
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:21
-#, fuzzy
-#| msgid ""
-#| " This unit’s melee attack can overwhelm the defenses of enemies, "
-#| "preventing them from retaliating as effectively."
 msgid ""
 "This unit’s melee attack can overwhelm the defenses of enemies, preventing "
 "them from retaliating as effectively."
