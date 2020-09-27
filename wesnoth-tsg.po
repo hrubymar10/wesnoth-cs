@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-09-20 11:31+0200\n"
+"PO-Revision-Date: 2020-09-27 22:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4029,7 +4029,7 @@ msgstr "Rozzuření elfové"
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:140
 msgid "Survive until end of turns"
-msgstr ""
+msgstr "Zůstaň naživu až do konce kol"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:169
@@ -4039,6 +4039,9 @@ msgid ""
 "will be peace in Westin. You have our thanks, Lady Ethiliel. We could not "
 "have accomplished this feat without you."
 msgstr ""
+"Konečně jsme se vrátili domů! Nemrtví i bandité jsou poraženi a zdá se, že "
+"obyvatelé města už ho začali znovu budovat. Teď snad bude ve Westinu mír. "
+"Máš naše díky, paní Ethiliel. Bez tebe bychom to nemohli uskutečnit."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:173
@@ -4049,6 +4052,10 @@ msgid ""
 "capable of courage and loyalty. About the trouble with my people, I will see "
 "what I can do—"
 msgstr ""
+"Ano... při zabíjení nemrtvých jste vykonali veliké skutky, ale byli to další "
+"z vašeho druhu, kteří na začátku to zlo způsobili. Nicméně nyní vidím, že "
+"všichni lidé nejsou stejní a že vy jste také schopni odvahy a věrnosti. Co "
+"se týče potíží s mým lidem, uvidím, co dokážu udělat —"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:177
@@ -4063,35 +4070,27 @@ msgstr "Ubohý farmář"
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:210
-#, fuzzy
-#| msgid "You must pay for killing Mebrin!"
 msgid "You will pay for Mebrin’s death!"
-msgstr "Zaplatíš za zabití Mebrina!"
+msgstr "Zaplatíš za Mebrinovu smrt!"
 
 #. [message]: speaker=Poor Farmer
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:214
-#, fuzzy
-#| msgid "I am just a farmer! What did I do?!"
 msgid "I am just a farmer! I never killed anyone!"
-msgstr "Jsem jen sedlák! Co jsem vám udělal?"
+msgstr "Jsem jenom sedlák! Nikdy jsem nikoho nezabil!"
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:218
-#, fuzzy
-#| msgid ""
-#| "What did you do?! Your people kidnapped and murdered our greatest leader! "
-#| "And now you will pay!"
 msgid ""
 "You lie! All humans are the same! Your people kidnapped and murdered our "
 "wisest sage! Now you will pay!"
 msgstr ""
-"Co jsi udělal? Tví lidé unesli a zavraždili našeho největšího vůdce! Teď za "
-"to zaplatíš!"
+"Lžeš! Všichni lidé jsou stejní! Tvoji lidé unesli a zavraždili "
+"nejmoudřejšího z našich mudrců! Teď zaplatíš!"
 
 #. [message]: role=observant
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:257
 msgid "He just killed that innocent farmer! We must stop him!"
-msgstr "Zabil toho nevinného sedláka! Musíme jej zastavit!"
+msgstr "Právě zabil toho nevinného sedláka! Musíme jej zastavit!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:261
