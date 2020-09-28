@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-09-27 22:16+0200\n"
+"PO-Revision-Date: 2020-09-28 09:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4100,6 +4100,9 @@ msgid ""
 "have thus absolved themselves of any wrongdoing. No more innocent blood "
 "needs to be shed."
 msgstr ""
+"Zadrž, Eltenmire! Tito lidé nejsou těmi, kdo ublížili Mebrinovi. Pomohli mi "
+"pomstít se těm, kteří jsou zodpovědní za ten hrůzný čin a tudíž se sami "
+"zprostili jakéhokoli provinění. Není třeba prolévat další nevinnou krev."
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:265
@@ -4109,6 +4112,10 @@ msgid ""
 "felled our trees in the past, they have destroyed our homes, murdered our "
 "people, and killed Mebrin!"
 msgstr ""
+"Sotva můžu uvěřit vlastním uším. Vždycky jsi byla příliš měkká, Ethiliel, "
+"ale přidat se na stranu lidí? Všichni lidé jsou lůza a verbež! Stejně jako "
+"v minulosti poráželi naše stromy, tak zničili naše domovy, vraždili náš lid "
+"a zabili Mebrina!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:269
@@ -4119,6 +4126,11 @@ msgid ""
 "losing one that I cherished so. Still... still, even I recognize that these "
 "humans are not the ones to blame."
 msgstr ""
+"Mebrin byl můj učitel, Eltenmire! Jsem to <i>já</i>, kdo se nejvíc rmoutí! "
+"Strávila jsem nesčetné bezesné noci přemýšlením o jeho smrti a tak strašně "
+"mi chyběl, že mé srdce nikdy nepřestalo bolet. Ty víš, jak se musím cítit "
+"pro ztrátu toho, koho jsem si tolik vážila. Přesto... přesto i já uznávám, "
+"že tito lidé to nemají na svědomí."
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:273
@@ -4127,11 +4139,14 @@ msgid ""
 "theirs will be spilled in turn. If you stand against us, Ethiliel, we will "
 "attack you too. You had best stay out of this."
 msgstr ""
+"Na tom nezáleží. Lidé prolili krev našeho lidu, a teď zas poteče jejich. "
+"Jestli se postavíš proti nám, Ethiliel, zaútočíme i na tebe. Neměla ses do "
+"toho plést."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:277
 msgid "And what do you think Ithelden will have to say about that?"
-msgstr ""
+msgstr "A co myslíš, že na to řekne Ithelden?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:292
@@ -4139,6 +4154,8 @@ msgid ""
 "Eltenmir, answer me! You know you do not have the authority to be attacking "
 "the humans like this, much less me! Eltenmir!"
 msgstr ""
+"Eltenmire, odpověz mi! Víš, že nemáš pověření k takovému útoku na lidi, tím "
+"méně na mne! Eltenmire!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:300
@@ -4147,6 +4164,9 @@ msgid ""
 "long. I will send a messenger to Ithelden and hope he gets here in time "
 "before the city is overrun."
 msgstr ""
+"Vždycky tak paličatý. Deorane, nebudeme schopni s nimi moc dlouho bojovat. "
+"Pošlu k Itheldenovi posla a doufejme, že se sem dostane dřív, než bude město "
+"obsazeno."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:304
@@ -4154,15 +4174,17 @@ msgid ""
 "Are you sure that they’ll listen to Ithelden? Or that he’ll even try to stop "
 "them?"
 msgstr ""
+"Jsi si jistá, že budou Itheldena poslouchat? Nebo že se je vůbec pokusí "
+"zastavit?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:308
-#, fuzzy
-#| msgid "Perhaps not, but it is your only hope. I must reach Ithelden!"
 msgid ""
 "Perhaps not, but we have no other hope right now. We must survive until "
 "Ithelden arrives!"
-msgstr "Možná ne, ale je to naše jediná naděje. Musím se dostat k Itheldenovi!"
+msgstr ""
+"Možná, že ne, ale právě teď nemáme jinou naději. Musíme přežít, dokud se "
+"Ithelden neobjeví!"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:428
