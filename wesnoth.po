@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 23:35+0300\n"
-"PO-Revision-Date: 2020-06-06 10:48+0200\n"
+"PO-Revision-Date: 2020-09-28 10:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5138,7 +5138,7 @@ msgstr "Musíš mít v tvrzi vůdce schopného přivolat tuto jednotku."
 #: src/actions/create.cpp:350
 msgid "There are no vacant castle tiles in which to recall the unit."
 msgstr ""
-"Nejsou žádná volná políčka hradu, na kterých by se daly přivolávat jednotky."
+"Nejsou žádná volná políčka hradu, na která by se daly povolávat jednotky."
 
 #: src/actions/create.cpp:360 src/actions/create.cpp:496
 msgid "An unrecognized error has occurred."
@@ -5159,7 +5159,7 @@ msgstr "Musíš mít v tvrzi vůdce schopného verbovat tuto jednotku."
 #: src/actions/create.cpp:486
 msgid "There are no vacant castle tiles in which to recruit the unit."
 msgstr ""
-"Nejsou žádná volná políčka hradu, na kterých by se daly verbovat jednotky."
+"Nejsou žádná volná políčka hradu, na která by se daly verbovat jednotky."
 
 #: src/actions/heal.cpp:275
 msgid "cured"
