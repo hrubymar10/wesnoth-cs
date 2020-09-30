@@ -16,15 +16,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 20:34 UTC\n"
-"PO-Revision-Date: 2020-02-01 23:00+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-09-30 20:48+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.4\n"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:13
@@ -870,7 +869,7 @@ msgid ""
 "cannot be as powerful as you say; I will fight them."
 msgstr ""
 "Děkuji ti za nabídku, ale já neopustím svůj domov. Ti nemrtví nemohou být "
-"tak mocní, jak říkáš - budu s nimi bojovat!"
+"tak mocní, jak říkáš. Budu s nimi bojovat!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Alliance.cfg:179
@@ -3962,7 +3961,7 @@ msgstr "Tvé zlo už více nebude pustošit tuto zemi!"
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/utils/final_battle.cfg:31
 msgid "I shall avenge the death of my comrades!"
-msgstr "Pomstím smrt mých kamarádů!"
+msgstr "Pomstím smrt svých kamarádů!"
 
 #. [message]: speaker=Engineer
 #: data/campaigns/Eastern_Invasion/utils/final_battle.cfg:46
@@ -3998,7 +3997,7 @@ msgstr "Ne, tvoje vláda strachu dnes končí."
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle.cfg:136
 msgid "What?!... I... cannot... lose..."
-msgstr "Cože?!... Já... nemůži... prohrát..."
+msgstr "Cože?!... Já... nemůžu... prohrát..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle.cfg:184
