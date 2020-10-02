@@ -502,59 +502,6 @@ msgstr "Poraz všechny nepřátelské vůdce"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:495
 msgid "Hurry! We cannot defeat this evil today! We must escape!"
-msgstr "Pospěš! Dnes nemůžeme toto zlo porazit! Musíme utéct!"
-
-#. [message]: speaker=Gweddry
-#: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:504
-msgid "Follow me, men! Through the trapdoor!"
-msgstr "Muži, následujte mne! Padacími dveřmi!"
-
-#. [scenario]: id=02_The_Escape_Tunnel
-#: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:5
-msgid "The Escape Tunnel"
-msgstr "Úniková chodba"
-
-#. [side]: type=Ogre, id=Grug
-#. [side]
-#. [side]: type=Troll Warrior, id=Darg
-#. [side]: type=Gryphon, id=Kraagak
-#. [side]: type=Troll, id=Kabak
-#: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:43
-#: data/campaigns/Eastern_Invasion/scenarios/07a_The_Crossing.cfg:83
-#: data/campaigns/Eastern_Invasion/scenarios/07b_Undead_Crossing.cfg:68
-#: data/campaigns/Eastern_Invasion/scenarios/10_Lake_Vrug.cfg:49
-#: data/campaigns/Eastern_Invasion/scenarios/10_Lake_Vrug.cfg:65
-msgid "Monsters"
-msgstr "Monstra"
-
-#. [side]: type=Troll, id=Kabak
-#: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:47
-msgid "Kabak"
-msgstr "Kabak"
-
-#. [side]: type=Dwarvish Steelclad, id=Knutan
-#: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:69
-msgid "Knutan"
-msgstr "Knutan"
-
-#. [objective]: condition=win
-#: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:151
-#: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:461
-msgid "Move Gweddry to the tunnel exit"
-msgstr "Přesuň Gweddryho k východu z tunelu"
-
-#. [objective]: condition=win
-#. [objectives]
-#: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:442
-#: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:167
-#: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:153
-#: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:164
-msgid "Defeat all enemy leaders"
-msgstr "Poraz všechny nepřátelské vůdce"
-
-#. [message]: speaker=Dacyn
-#: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:495
-msgid "Hurry! We cannot defeat this evil today! We must escape!"
 msgstr "Pospeš! Nemůžeme toto zlo dnes porazit! Musíme utéct!"
 
 #. [message]: speaker=Gweddry
