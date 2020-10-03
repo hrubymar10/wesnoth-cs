@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 20:34 UTC\n"
-"PO-Revision-Date: 2020-09-30 20:48+0200\n"
+"PO-Revision-Date: 2020-10-03 07:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -116,7 +116,7 @@ msgstr "Tady jsou!"
 #. [lua]: wml_actions.bandit_village_capture
 #: data/campaigns/Eastern_Invasion/lua/bandits.lua:90
 msgid "No outlaws in this village."
-msgstr "Žádní bandité v této vesnici."
+msgstr "V této vesnici nejsou žádní bandité."
 
 #. [scenario]: id=01_The_Outpost
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:5
@@ -130,7 +130,7 @@ msgid ""
 "in the Estmark Hills on the eastern border of Wesnoth began."
 msgstr ""
 "Byl to třináctý rok vlády Konráda II., kdy se začali dít divné věci v "
-"kopcích Estmarku na východní hranici Wesnothu."
+"kopcích Východní marky na východní hranici Wesnothu."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:25
@@ -141,10 +141,10 @@ msgid ""
 "sent scouts east they found nothing but a small mountain range and miles of "
 "swamp."
 msgstr ""
-"Na polích se objevoval mrtvý skot a soumaři; a lidé mizeli ze svých domů bez "
-"jakékoli stopy, až na tenkou stružku černé krve. Nejprve osadníci mysleli, "
-"že by to mohli být nějací nájezdníci z velké pouště, ale vyslali na východ "
-"zvědy, kteří nenašli nic než malé pohoří a dlouhé míle bažin."
+"Na polích se objevoval mrtvý skot a soumaři. Lidé mizeli ze svých domů bez "
+"jakékoli stopy, až na tenkou stružku černé krve. Nejprve osadníci "
+"podezřívali nájezdníky z velké pouště. Ale když vyslali na východ zvědy, tak "
+"ti nenašli nic než malé pohoří a dlouhé míle bažin."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:29
@@ -154,7 +154,7 @@ msgid ""
 "the King, asking for help. The messenger rode hard for many days and nights, "
 "and finally reached the city of Weldyn."
 msgstr ""
-"Případy zmizení nepřestaly, spíše každým dnem narůstaly. Nakonec lidé z "
+"Případy zmizení nepřestaly, obavy každým dnem narůstaly. Nakonec lidé z "
 "východních vesnic vyslali posla ke králi, žádajíc o pomoc. Posel uháněl dnem "
 "i nocí a nakonec dosáhl města Weldynu."
 
@@ -166,10 +166,10 @@ msgid ""
 "earlier on the far southern border, attacks by undead. Dacyn outlined a plan "
 "to combat these intrusions."
 msgstr ""
-"Když král obdržel znepokojující zprávy z místa činu, jeho rádce Dacyn k tomu "
-"měl mnohé co říci. Bylo zjevné, že tyto útoky mají spojitost s nájezdy "
-"nemrtvých, které se přihodily před časem na východní hranici. Dacyn nastínil "
-"plán, jak se vypořádat s těmito vpády."
+"Když král obdržel znepokojující zprávy, jeho rádce Dacyn k tomu měl mnohé co "
+"říci. Bylo zjevné, že tyto útoky mají spojitost s nájezdy nemrtvých, které "
+"se před časem přihodily na vzdálené jižní hranici. Dacyn nastínil plán, jak "
+"se vypořádat s těmito vpády."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:40
@@ -180,11 +180,11 @@ msgid ""
 "River Guard posts had been abandoned, as colonists spread into the Estmarks "
 "and the orcs were driven in retreat north of the Great River."
 msgstr ""
-"Za dnů krále Gararda I byla vybudována podél bližšího břehu Weldynu na jih "
-"od Soradocu dvě opevněná stanoviště, aby bylo bráněno skřetím nájezdníkům z "
-"východu v průniku na území Wesnothu. Během dalších let však byla země za "
-"řekou postupně osídlena a skřeti vytlačeni, aby se usadili dále v zemích na "
-"severu."
+"Za dnů krále Gararda I byla vybudována podél bližšího břehu řeky Weldynu na "
+"jih od Soradocu dvě opevněná stanoviště. Ta měla bránit banditům a skřetím "
+"nájezdníkům pronikat z Východní marky na území Wesnothu. Během dalších let "
+"však byly tyto říční posty opuštěny, tak jak byla Východní marka za řekou "
+"postupně osídlena a skřeti vytlačeni na sever od Velké řeky."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:44
@@ -194,10 +194,11 @@ msgid ""
 "eye and hand firmly on the settled country to either side of the lower "
 "Weldyn. He sent two of the most promising young officers to them."
 msgstr ""
-"Při objevení nového nepřítele Wesnothu na východě se Konrád II. rozhodl "
-"opravit tyto říční pevnosti a obnovit jejich posádku, aby tak mohla Koruna "
-"lépe sledovat osídlené kraje na východ od Weldynu a v případě potřeby je "
-"podržet silnou rukou. Vyslal na ně své nejslibnější mladé důstojníky."
+"Poté, co začaly na Wesnoth od východu dotírat neznámé nepřátelské síly, se "
+"král Konrád II. rozhodl tyto říční pevnosti opravit a obnovit jejich "
+"posádku. Chtěl dosáhnout toho, aby Koruna mohla lépe sledovat osídlené kraje "
+"na obou březích dolního toku Weldynu a v případě potřeby je podržet silnou "
+"rukou. Vyslal na ně své dva nejslibnější mladé důstojníky."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:48
@@ -206,9 +207,9 @@ msgid ""
 "outpost, he sent Gweddry, who would be accompanied by Dacyn the mage. Our "
 "story begins there."
 msgstr ""
-"Do severní základny poslal Owaeca ze šlechtického rodu. Do jížní pevnosti "
-"poslal Gweddraho, kterého měl doprovázet mág Dacyn. Náš příběh začíná právě "
-"zde."
+"Do severní základny poslal Owaeca ze šlechtického klanového rodu. Do jižní "
+"pevnosti poslal Gweddryho, kterého měl doprovázet mág Dacyn. Náš příběh "
+"začíná právě zde."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:52
@@ -421,7 +422,7 @@ msgstr "Muži, do zbraně!"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:272
 msgid "I sense a great evil... Can it be? Gweddry, I must not be seen."
-msgstr "Cítim tu velké zlo... Je to možné? Gweddry, nesmí mne vidět."
+msgstr "Cítím tu velké zlo... Je to možné? Gweddry, nesmí mne vidět."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:312
@@ -431,7 +432,7 @@ msgid ""
 "bother me again."
 msgstr ""
 "Toto je ten odpor, o kterém jsi mluvil, netrénovaný velitel a pár čerstvých "
-"rekrutů? Budete trpět za vaši neschopnost. Zničte je, a neopovážujte se mě "
+"rekrutů? Budete trpět za vaši neschopnost. Zničte je a neopovažujte se mě "
 "znovu obtěžovat."
 
 #. [message]: speaker=Mal-Talar
@@ -449,7 +450,7 @@ msgstr "Zabijte vesničany a pochodujte dál. Už jste tu ztratili dost času."
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:347
 msgid "What?! We must hold the outpost! And where did Dacyn go?!"
-msgstr "Čože?! Muži, musíme základnu udržet! A kam šel Dacyn?!"
+msgstr "Cože?! Muži, musíme základnu udržet! A kam šel Dacyn?!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:386
@@ -480,8 +481,8 @@ msgid ""
 "This outpost is already lost. We must defeat this evil if Wesnoth is to "
 "survive. Now, come on, we do not have much time to spare!"
 msgstr ""
-"Nemá smysl se ji snažit ubránit. Musíme porazit toto zlo, pokud má Wesnoth "
-"prežít. Poďme už, nemáme času nazbyt!"
+"Nemá smysl se ji snažit ubránit, už teď je ztracená. Pokud má Wesnoth "
+"přežít, musíme porazit toto zlo. Pojďme už, nemáme času nazbyt!"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/01_The_Outpost.cfg:436
