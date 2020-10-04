@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-10-03 19:00+0200\n"
+"PO-Revision-Date: 2020-10-04 17:13+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5507,6 +5507,17 @@ msgid ""
 "carapace is very resistant to normal blade strikes or piercing attacks, but "
 "can be broken with heavy blows."
 msgstr ""
+"Už i nedospělí obří škorpióni disponují jedním z nejúčinnějších známých "
+"jedů. Protože je jed škorpiónů velmi ceněn vrahy i apatykáři, vydávají se "
+"tyto mláďata lovit do divočiny odvážní lovci, kteří v nich vidí výhodný "
+"zdroj, kterým se dá přijít k pěkným pár mincím. I v nedospělém věku však "
+"tyto škorpióňata mohou být rychlejší než většina mužů a zasadit smrtící "
+"bodnutí. Horší však je, že se mohou sdružovat do poměrně velkých doupat. "
+"Rozhněvání zdánlivě osamělého škorpioněte proto může vést k tomu, že se jich "
+"ze země vyplazí celý roj a rychle se tak z lovce stane lovený. Jsou chráněna "
+"pevnou skořápkou, která se stárnutím vytvrzuje a stává se odolnější. Tento "
+"krunýř je velmi odolný proti běžným sekům čepelí či proti bodnutím, ale může "
+"být zničen silnými údery."
 
 #. [unit_type]: id=Giant Spider, race=monster
 #: data/core/units/monsters/Giant_Spider.cfg:4
@@ -5532,7 +5543,7 @@ msgstr "pavučina"
 #. [unit_type]: id=Jinn, race=monster, description=
 #: data/core/units/monsters/Jinn.cfg:4
 msgid "Jinn"
-msgstr ""
+msgstr "Džin"
 
 #. [attack]: type=fire
 #: data/core/units/monsters/Jinn.cfg:25
@@ -5563,7 +5574,7 @@ msgstr ""
 #. [unit_type]: id=Roc, race=monster, description=
 #: data/core/units/monsters/Roc.cfg:4
 msgid "Roc"
-msgstr ""
+msgstr "Pták Noh"
 
 #. [unit_type]: id=Sea Serpent, race=monster
 #: data/core/units/monsters/Sea_Serpent.cfg:4
@@ -5732,7 +5743,7 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/nagas/Dirkfang.cfg:38
 msgid "chakri"
-msgstr ""
+msgstr "čakri"
 
 # nagini - ženský rod
 #. [female]
@@ -5844,10 +5855,8 @@ msgstr "Myrmidoňanka"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga
 #: data/core/units/nagas/Ringcaster.cfg:4
-#, fuzzy
-#| msgid "Naga Fighter"
 msgid "Naga Ringcaster"
-msgstr "Nága bojovník"
+msgstr "Nága vrhač prstenců"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga
 #: data/core/units/nagas/Ringcaster.cfg:17
@@ -5857,6 +5866,11 @@ msgid ""
 "are useful for throwing, but the rejected blades make a good fist-load "
 "weapon, similar to a sharp-bladed tekko or knuckleduster."
 msgstr ""
+"Čakram, který je větší verzí kruhové čepele čakri, je charakteristickou "
+"zbraní jižních nág, včetně proslulých vrhačů prstenců. Dobře vyvážené "
+"čakramy jsou vhodné na vrhání. Ale i pro vrh nevhodné čepele udělají mnoho "
+"řemesla jako zbraň úderná, působící podobně jako jiné pěstní úderníky s "
+"ostrou čepelí."
 
 #. [attack]: type=blade
 #: data/core/units/nagas/Ringcaster.cfg:33
@@ -5868,17 +5882,13 @@ msgstr "čakram"
 # nagini - ženský rod
 #. [female]
 #: data/core/units/nagas/Ringcaster.cfg:93
-#, fuzzy
-#| msgid "Nagini Fighter"
 msgid "Nagini Ringcaster"
-msgstr "Nagini bojovnice"
+msgstr "Nagini vrhačka prstenců"
 
 #. [unit_type]: id=Naga Sicarius, race=naga
 #: data/core/units/nagas/Sicarius.cfg:4
-#, fuzzy
-#| msgid "Naga Warrior"
 msgid "Naga Sicarius"
-msgstr "Nága válečník"
+msgstr "Sikarián"
 
 #. [unit_type]: id=Naga Sicarius, race=naga
 #: data/core/units/nagas/Sicarius.cfg:19
@@ -5894,13 +5904,21 @@ msgid ""
 "experienced mercenaries know perfectly well that the best methods for "
 "generating money are those that do not place themselves in danger."
 msgstr ""
+"I když se někdy sikariáni nechávají najímat do řad žoldnéřů pouštního lidu, "
+"častěji figurují jako strážci obchodních stezek a zdrojů surovin v blízkosti "
+"vodních cest. Za patřičný poplatek nebo výměnu zboží zaručí sikariáni "
+"bezpečné cestování nebo volný přístup k hodnotným zdrojům na svém území. "
+"Pokud se dohoda nezdaří, stává se sikarián hrůzostrašným nepřítelem. A to ne "
+"kvůli své vlastní bojové síle, nýbrž kvůli síle četných spojenců, které může "
+"povolat k potlačení jakékoli potenciální nepříjemnosti. Sikariáni jsou "
+"zkušení žoldnéři, kteří dokážou být v čase války, když je to nezbytné, i "
+"schopnými válečníky. A velmi dobře vědí, že nejlepšími metodami pro "
+"získávání peněz jsou ty, které je neohrožují."
 
 #. [female]
 #: data/core/units/nagas/Sicarius.cfg:90
-#, fuzzy
-#| msgid "Nagini Warrior"
 msgid "Nagini Sicarius"
-msgstr "Nagini válečnice"
+msgstr "Sikariánka"
 
 #. [unit_type]: id=Naga Warrior, race=naga
 #: data/core/units/nagas/Warrior.cfg:4
@@ -5948,11 +5966,10 @@ msgstr ""
 
 #. [unit_type]: id=Naga Zephyr, race=naga
 #: data/core/units/nagas/Zephyr.cfg:4
-#, fuzzy
-#| msgid "Naga Fighter"
 msgid "Naga Zephyr"
-msgstr "Nága bojovník"
+msgstr "Zefyrán"
 
+# V češtině nemáme výraz pro duch v ženském rodě (např. na rozdíl od hebrejštiny). A příběh o Zefře na mě působí žensky. Takže jsem musel zvolit jiný výraz pro Spirit.
 #. [unit_type]: id=Naga Zephyr, race=naga
 #: data/core/units/nagas/Zephyr.cfg:18
 msgid ""
@@ -5994,14 +6011,48 @@ msgid ""
 "thrown blade, this doesn't mean they are weak in melee combat, as the "
 "unbalanced chakram can be enhanced with spikes and smaller blades.\n"
 msgstr ""
+"Jižní nágy si vypráví zvláštní příběh o Osnově větru Zefře a éterickém "
+"čakramu:\n"
+"\n"
+"V dávné minulosti existoval držitel čakramů, který byl posedlý svými "
+"legendárními dovednostmi. Říká se, že dokázal rozbít samotné moře přívalem "
+"čepelí, porazit sto nepřátel, aniž by se k němu jediný přiblížil a odrazit "
+"tisíc šípů, aniž by ho jediný zasáhl. Byl nazýván Xylrix (Bouře) a byl to "
+"válečník, jehož arogance byla stejně veliká jako jeho talent. Byl vždy více "
+"než ochotný chlubit se svou zdatností každému jednomu z těch, kdo by ho "
+"sledovali. Jednoho dne, když se předváděl skupině mladých nagini, vybral si "
+"jako cíl posvátný strom Allnai.\n"
+"\n"
+"„Sledujte,“ zařval a rozdělil strom přímo na dvě části.\n"
+"\n"
+"V tu chvíli ho obklopil velký vítr a v jeho uších se ozval hlas Osnovy "
+"větru: „Myslíš si, že jsi mocný, když jsi zabil mého nešťastného potomka? I "
+"když máš talent, žádný smrtelník by si neměl pohrávat s božstvím, které ho "
+"vede. “\n"
+"\n"
+"Xylrix odpověděl: „Pojď, skrytá. Nebojím se. Žádná zbraň, ocel, voda ani "
+"vítr neobstojí před mými čepelemi.“\n"
+"\n"
+"Vítr vířil stále rychleji a v přívalu síly vichřice se točil a točil v "
+"krouživém tanci zuřivosti. Xylrix cítil, jak je zvedán ze země a otáčen "
+"ohromnou rychlostí, vydán na milost a nemilost hněvu Zefry. S tváří sevřenou "
+"hrůzou upustil své čepele. A najednou to ve vířící bouři uviděl - rotující "
+"pohyb kruhových čakramů, tvořených samotným větrem.\n"
+"\n"
+"Tak, jak rychle bouře přišla, tak zmizela. Zanechala Xylrixe, stojícího a "
+"zamyšleného nad svými rozbitými zbraněmi. Když se konečně o mnoho dní "
+"později vrátil domů, oznámil své nové jméno: od teď je Zefyr, válečník, "
+"který slouží větru, na kterém létají jeho čepele.\n"
+"\n"
+"I když staré příběhy vedou elitní válečníky této linie především k "
+"soustředění se na vrh čepelí, neznamená to, že v boji zblízka neobstojí. "
+"Neboť i nevyvážený čakram lze vylepšit hroty a menšími čepelemi.\n"
 
 # nagini - ženský rod
 #. [female]
 #: data/core/units/nagas/Zephyr.cfg:110
-#, fuzzy
-#| msgid "Nagini Fighter"
 msgid "Nagini Zephyr"
-msgstr "Nagini bojovnice"
+msgstr "Zefyránka"
 
 #. [unit_type]: id=Ogre, race=ogre
 #: data/core/units/ogres/Ogre.cfg:4
@@ -6073,6 +6124,13 @@ msgid ""
 "same weapon is readily turned to espionage and assassination, a commonplace "
 "occurrence between feuding orcish clans or even within a single clan itself."
 msgstr ""
+"I když je pro mnoho skřetů naprosto typické upřednostňování hrubé síly, "
+"vysoce praktická povaha jejich bojového stylu také podporuje vražedné "
+"taktiky, na které se jiné frakce dívají s nevolí. Jed je jedním z hlavních "
+"pilířů skřetí strategie, hojně využívaný k oslabení tuhých protivníků na "
+"bojišti a k ochromení nepřátelských sil bez rizika přímého útoku. Stejnou "
+"zbraň lze pohotově využít i v intrikářských hrách, což se běžně v půtkách "
+"mezi různými klany či dokonce v rámci jednoho klanu stává."
 
 #. [unit_type]: id=Orcish Crossbowman, race=orc
 #: data/core/units/orcs/Crossbowman.cfg:4
@@ -6150,7 +6208,6 @@ msgstr ""
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
 #: data/core/units/orcs/Nightblade.cfg:4
-#, fuzzy
 msgid "Orcish Nightblade"
 msgstr "Skřetí šerobřit"
 
@@ -6167,6 +6224,15 @@ msgid ""
 "the cover of darkness. A contract with a nightblade is almost always a death "
 "sentence to the victim, making said expertise well worth its high price."
 msgstr ""
+"Nejzkušenější skřetí vrazi obvykle působí jako žoldáci specializující se na "
+"„řešení vnitřních konfliktů“ a jen zřídka se účastní větších bitev. Tito "
+"skřeti, které jejich činnost přivedla až k překvapivé zručnosti a "
+"ostřílenosti, málokdy spojují svou věrnost s nějakým konkrétním klanem.  "
+"Místo toho nabízejí své služby komukoli, kdo nabídne nejlepší cenu. Poté co "
+"dojde k dohodě a patřičnému plnění, vrah rychle a tiše udeří na svůj cíl a "
+"diskrétně ho pod rouškou tmy eliminuje. Kontrakt se šerobřitem znamená pro "
+"oběť téměř vždy rozsudek smrti, čímž uvedená odbornost vyvažuje svou vysokou "
+"cenu."
 
 #. [attack]: type=blade
 #: data/core/units/orcs/Nightblade.cfg:27
@@ -6222,18 +6288,6 @@ msgstr "Skřetí ostrostřelec"
 # faktografická revize?
 #. [unit_type]: id=Orcish Slurbow, race=orc
 #: data/core/units/orcs/Slurbow.cfg:20
-#, fuzzy
-#| msgid ""
-#| "The basic design of a crossbow gives rise to the arbalest or ‘slurbow’; a "
-#| "much more intricate device, complete with a hand-turned cranequin to re-"
-#| "cock the weapon, and often with a multi-ply arc, of laminate wood or "
-#| "bone, driving the projectile. Such a device is much easier to work with, "
-#| "and much more powerful than simpler crossbows; it is also completely "
-#| "beyond orcish manufacture.\n"
-#| "\n"
-#| "Orcs prize any such weapons they can manage to plunder, and they "
-#| "invariably end up in the hands of their strongest and most cunning "
-#| "archers."
 msgid ""
 "The basic design of a crossbow gives rise to the arbalest or ‘slurbow’, a "
 "much more intricate device complete with a hand-turned cranequin to recock "
@@ -6245,13 +6299,14 @@ msgid ""
 "Orcs prize any such weapons they can manage to procure, and they invariably "
 "end up in the hands of their most cunning archers."
 msgstr ""
-"Základní konstrukci kuše je možno podstatně vylepšit; výsledkem je podstatně "
-"složitější a účinnější zbraň, využívající pro natahování mocného, dřevěného "
-"či kostěného lučiště malý vrátek. Tento přístroj je sice mnohem snadnější k "
-"použití, ale také zcela mimo skřetí možnosti výroby.\n"
+"Základní konstrukci kuše je možno podstatně vylepšit, kdy výsledkem je "
+"podstatně složitější konstrukce samostřílu. U té se využívá pro napínání "
+"kompozitního dřevěného či kostěného lučiště vrátek, což pak pomáhá dát "
+"výstřelu sílu. Takové zařízení je sice mnohem ovladatelnější a mnohem "
+"výkonější než jednodušší kuše, ale také zcela mimo skřetí možnosti výroby.\n"
 "\n"
-"Skřeti si těchto zbraní nesmírně cení, a když se jim je povede někde náhodou "
-"ukořistit, skončí v rukou jejich nejsilnějších a nejšikovnějších střelců."
+"Skřeti si těchto zbraní cení, a když se jim je povede někde ukořistit, "
+"skončí v rukou jejich nejschopnějších střelců."
 
 #. [unit_type]: id=Orcish Sovereign, race=orc
 #: data/core/units/orcs/Sovereign.cfg:4
@@ -6313,6 +6368,13 @@ msgid ""
 "fighters, who lack the training and finesse to act on more complex "
 "strategies."
 msgstr ""
+"Skřetí šermířské umění se zaměřuje téměř striktně ofenzivně. Při tomto "
+"způsobu se využívá přirozené výdrže skřetů, kdy se čelí protivníkům čistě "
+"jen odolností. Lze tedy běžně vidět ostřílenějšího skřetího válečníka, jak "
+"třímá dvě čepele a nepoužívá štít, spoléhajíc v boji zblízka na tvrdou "
+"výměnu zásahů. Ačkoli je to docela brutální taktika, tak pro tyto bojovníky, "
+"kterým chybí výcvik a vytříbenost ve složitějších technikách, je stále "
+"poměrně efektivní."
 
 #. [unit_type]: id=Saurian Ambusher, race=lizard
 #: data/core/units/saurians/Ambusher.cfg:4
