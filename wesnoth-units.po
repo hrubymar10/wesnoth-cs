@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 20:35 UTC\n"
-"PO-Revision-Date: 2020-10-05 22:29+0200\n"
+"PO-Revision-Date: 2020-10-06 00:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1504,10 +1504,8 @@ msgstr "zobák"
 
 #. [unit_type]: id=Dune Explorer, race=dunefolk
 #: data/core/units/dunefolk/Explorer.cfg:4
-#, fuzzy
-#| msgid "Dwarvish Explorer"
 msgid "Dune Explorer"
-msgstr "Trpasličí průzkumník"
+msgstr "Pouštní průzkumník"
 
 #. [unit_type]: id=Dune Explorer, race=dunefolk
 #: data/core/units/dunefolk/Explorer.cfg:16
@@ -1537,7 +1535,7 @@ msgstr ""
 #: data/core/units/dunefolk/Swiftrider.cfg:30
 #: data/core/units/dunefolk/Windrider.cfg:31
 msgid "composite bow"
-msgstr "skládaný luk"
+msgstr "kompozitní luk"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/dunefolk/Falcon.cfg:4
@@ -1546,27 +1544,21 @@ msgstr "Sokol"
 
 #. [unit_type]: id=Falcon, race=falcon
 #: data/core/units/dunefolk/Falcon.cfg:17
-#, fuzzy
-#| msgid ""
-#| "Seen as status symbols of the nobles, falcons are precious possessions "
-#| "normally used for sport. The same techniques are employed to rend and "
-#| "tear the enemies of the Khalifate, and their great speed is a boon to "
-#| "scouting out the land."
 msgid ""
 "Seen as status symbols of the nobles, falcons are precious possessions "
 "normally used for sport. The same techniques are employed to rend and tear "
 "foes on the battlefield, and their great speed is a boon to scouting out the "
 "land."
 msgstr ""
-"Chápáni jako symbol šlechty, sokoli jsou velmi cenným vlastnictcvím a "
-"používají se především pro lov. Stejně tak se ale používají pro trhání "
-"nepřátel Chalífátu a jejich velká rychlost je velkou výhodou při zkoumání "
-"terénu."
+"Sokoli, považovaní za stavovské symboly šlechty, jsou vzácným majetkem běžně "
+"používaným pro sport. Se stejným nasazením se ale využívají pro napadání a "
+"trhání nepřátel na bojišti, navíc je jejich velká rychlost přínosem i pro "
+"průzkum."
 
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
 #: data/core/units/dunefolk/Firetrooper.cfg:4
 msgid "Dune Firetrooper"
-msgstr ""
+msgstr "Pouštní podpalovač"
 
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
 #: data/core/units/dunefolk/Firetrooper.cfg:24
@@ -1629,10 +1621,8 @@ msgstr "dlouhý meč"
 
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
 #: data/core/units/dunefolk/Herbalist.cfg:4
-#, fuzzy
-#| msgid "Duelist"
 msgid "Dune Herbalist"
-msgstr "Duelista"
+msgstr "Pouštní bylinkář"
 
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
 #: data/core/units/dunefolk/Herbalist.cfg:20
@@ -1719,10 +1709,8 @@ msgstr ""
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:4
-#, fuzzy
-#| msgid "Direwolf Rider"
 msgid "Dune Raider"
-msgstr "Jezdec na pravlku"
+msgstr "Pouštní jezdec"
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:22
@@ -2028,10 +2016,8 @@ msgstr ""
 
 #. [unit_type]: id=Dune Swordsman, race=dunefolk
 #: data/core/units/dunefolk/Swordsman.cfg:4
-#, fuzzy
-#| msgid "Swordsman"
 msgid "Dune Swordsman"
-msgstr "Bojovník s mečem"
+msgstr "Pouštní bojovník se šavlí"
 
 #. [unit_type]: id=Dune Swordsman, race=dunefolk
 #: data/core/units/dunefolk/Swordsman.cfg:19
@@ -2088,7 +2074,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/dunefolk/Warmaster.cfg:44
 msgid "pommel strike"
-msgstr ""
+msgstr "pěstní útok"
 
 #. [unit_type]: id=Dune Windrider, race=dunefolk
 #: data/core/units/dunefolk/Windrider.cfg:4
@@ -3464,6 +3450,13 @@ msgid ""
 "in ornate plate armor and granted some of the finest weaponry that human "
 "craftsmen can offer."
 msgstr ""
+"Generálové jako vůdci svých armád zodpovídají za ochranu velkých nebo "
+"důležitých oblastí v královstvích, kterým přísahali věrnost. Generálové, "
+"dobře obeznámení s válečným uměním, mohou nasměrovat i ty nejméně zkušené "
+"rekruty, aby strategicky udeřili tam, kde nejsou šance vysoké, a dosáhli "
+"vítězství. Uznáváni šlechtou i občany, jsou vybaveni zdobeným plátovým "
+"brněním a vyzbrojeni nejlepšími zbraněmi, které mohou lidští řemeslníci "
+"nabídnout."
 
 #. [unit_type]: id=Grand Marshal, race=human
 #: data/core/units/humans/Loyalist_Grand_Marshal.cfg:4
@@ -5127,6 +5120,14 @@ msgid ""
 "a seemingly lone scorpion can lead to swarms of them crawling up from the "
 "ground — quickly turning the hunter into the hunted."
 msgstr ""
+"Už i nedospělí obří škorpióni disponují jedním z nejúčinnějších známých "
+"jedů. Protože je jed škorpiónů velmi ceněn vrahy i apatykáři, vydávají se "
+"tato mláďata lovit do divočiny odvážní lovci, kteří v nich vidí výhodný "
+"zdroj, kterým se dá přijít k pěkným pár mincím. I v nedospělém věku však "
+"tyto škorpióňata mohou být rychlejší než většina mužů a zasadit smrtící "
+"bodnutí. Horší však je, že se mohou sdružovat do poměrně velkých doupat. "
+"Rozhněvání zdánlivě osamělého škorpioněte proto může vést k tomu, že se jich "
+"ze země vyplazí celý roj a rychle se tak z lovce stane lovený."
 
 #. [unit_type]: id=Giant Spider, race=monster
 #: data/core/units/monsters/Giant_Spider.cfg:4
@@ -5557,7 +5558,6 @@ msgstr ""
 
 #. [unit_type]: id=Orcish Nightblade, race=orc
 #: data/core/units/orcs/Nightblade.cfg:4
-#, fuzzy
 msgid "Orcish Nightblade"
 msgstr "Skřetí šerobřit"
 
