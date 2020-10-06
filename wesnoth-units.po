@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-10-04 17:13+0200\n"
+"PO-Revision-Date: 2020-10-06 00:35+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1702,11 +1702,19 @@ msgid ""
 "for most soldiers, but they still readily follow the expert tactical "
 "direction of their captains."
 msgstr ""
+"Kapitáni, kteří tradičně pocházejí ze šlechtických nebo vojenských rodin, "
+"jsou jádrem většiny vojenských čet pouštního lidu. Většina důstojníků je "
+"obvykle vybírána spíše na základě původu než na základě zásluh. Proto jsou "
+"často relativně slabí při boji zblízka, nicméně jsou přiměřeně trénovaní v "
+"taktice. Jejich schopnosti spočívají spíše v dirigování přidělených jednotek "
+"na strategicky výhodné pozice, než v přímém zvyšování morálky. Přítomnost "
+"takového velitele je pro většinu vojáků jen málokdy inspirativní, ale stále "
+"se velmi ochotně podrobují odborným taktickým pokynům svých kapitánů."
 
 #. [unit_type]: id=Dune Cataphract, race=dunefolk
 #: data/core/units/dunefolk/Cataphract.cfg:8
 msgid "Dune Cataphract"
-msgstr ""
+msgstr "Pouštní katafrakt"
 
 #. [unit_type]: id=Dune Cataphract, race=dunefolk
 #: data/core/units/dunefolk/Cataphract.cfg:21
@@ -1723,6 +1731,17 @@ msgid ""
 "these riders in the slightest, and the displaced air of a descending mace is "
 "the last sound they hear."
 msgstr ""
+"Katafrakti patří mezi vynikající jezdce a to takové, kteří se namísto "
+"rychlosti nebo vytvrvalosti cele zaměřili na svou obrovskou údernou sílu. "
+"Tito válečníci, třímající kopí a pro ně tak typické palcáty, útočí "
+"nejčastěji v druhé útočné vlně. Poté, co jsou nepřátelské síly již dost "
+"zaměstnány a oslabeny útokem šermířů, se na ně chystá další děsivá zhouba, "
+"representovaná řadícími se katafrakty, kteří si již chystají svá kopí. Mezi "
+"řadami bojovníků pouštního lidu se vytvoří mezery a tito mocní jezdci jedním "
+"přímým nájezdem prorazí nepřátelské formace, rozsévajíce smrt. Ti, kdo se "
+"pokusí před nimi uprchnout, brzy zjistí, že ani písek, ani kopce tyto jezdce "
+"ani v nejmenším neodradí. A tak je svist dopadajícího palcátu posledním "
+"zvukem, který ti prchající uslyší."
 
 # Tento druh luku se opravdu nenazývá skládaný, ale kompozitní.
 #. [attack]: type=pierce
@@ -1752,6 +1771,14 @@ msgid ""
 "longer act only as scouts for probing enemies, but are skilled enough to be "
 "effective flankers or potent shock attackers."
 msgstr ""
+"Pomalu se pohybující karavany v otevřené poušti představují pro bandity či "
+"nájezdníky jasný cíl. Aby je ochránili, zaměstnávají pouštní lidé speciální "
+"válečníky, kteří provádějí průzkum a odrážejí potenciální hrozby. Tito "
+"pohybliví bojovníci při takové práci nejen že chrání své zranitelné "
+"karavany, ale také si pro sebe kradou zásoby domnělých lupičů. Jsou "
+"dostatečně zruční, aby při válečném nasazení nepůsobili jen jako průzkumníci "
+"nepřátelských pozic, ale aby mohli být účinně nasazeni při útoku na křídlech "
+"nebo při překvapivých úderech."
 
 #. [unit_type]: id=Dune Falconer, race=dunefolk
 #: data/core/units/dunefolk/Falconer.cfg:14
@@ -1775,6 +1802,20 @@ msgid ""
 "the least, forcing them to abandon their efforts on offense in order to "
 "defend themselves properly."
 msgstr ""
+"Přestože je umění sokolnictví mezi pouštními lidmi značně respektováno, je "
+"relativně vzácné kvůli času a dovednostem potřebným k řádnému výcviku "
+"dravých ptáků. Sokolníci nejčastěji používají své ptáky pro sport nebo lov, "
+"zejména pro průzkum výskytu zvěře či vody na otevřených pouštních pláních a "
+"dunách. Stejná inteligence zvířete může být užitečná i pro válečné účely. "
+"Tedy pokud lze sokolníka přesvědčit, aby pro tyto účely riskoval své ceněné "
+"mazlíčky.\n"
+"\n"
+"Když se sokol zapojí do bitvy, může svému pánovi pomoci buď svými ostrými "
+"drápy nebo jej lze poslat výše do vzduchu, aby kroužil nad hlavami a udeřil, "
+"až nepřítel přesune pozornost. Rozdělení pozornosti nepřátelských válečníků "
+"mezi dvě různé fronty může být přinejmenším docela rušivé a lze je tak "
+"donutit k tomu, aby se soustředili na řádnou obranu a upustili tak od svých "
+"útočných snah."
 
 #. [attack]: type=blade
 #: data/core/units/dunefolk/Falconer.cfg:153
@@ -1926,7 +1967,7 @@ msgstr ""
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 #: data/core/units/dunefolk/Marauder.cfg:11
 msgid "Dune Marauder"
-msgstr ""
+msgstr "Pouštní nájezdník"
 
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 #: data/core/units/dunefolk/Marauder.cfg:30
@@ -1943,6 +1984,17 @@ msgid ""
 "For this reason, they are sometimes hired by small armies or wealthier "
 "caravans as a deterrent to unwanted raids."
 msgstr ""
+"Jsou takoví, kterým vyhovuje žít životem nájezdníka. Takoví si mohou dokonce "
+"vytvořit své vlastní klany podobně smýšlejících jedinců. Stále šmejdí po "
+"poušti, hledají neopatrné cestovatele nebo zranitelné karavany a živí se "
+"unášením a kradením. Nájezdníci, nemajíce žádnou zvláštní specializaci, "
+"nejsou ani nejsilnějšími válečníky, ani nejobratnějšími lučištníky. Přesto "
+"patří kvůli svým skvělým manévrovacím schopnostem k jedněm z "
+"nejnebezpečnějších nepřátel v poušti. Koordinovaný útok nájezdníků může "
+"vyhladit středně velké tábory, dříve než se rozhoupou k reakci. A tam, kde "
+"jim proti silnějším nepřátelům chybí hrubá síla, pomůže partyzánská taktika. "
+"Z těchto důvodů si je někdy najímají jako odstrašující prostředek malé "
+"armády nebo bohatší karavany."
 
 #. [attack]: type=fire
 #: data/core/units/dunefolk/Marauder.cfg:60
@@ -2125,7 +2177,7 @@ msgstr ""
 #. [attack]: type=blade
 #: data/core/units/dunefolk/Sky_Hunter.cfg:151
 msgid "eagle"
-msgstr ""
+msgstr "orel"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 #: data/core/units/dunefolk/Soldier.cfg:8
