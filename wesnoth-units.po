@@ -13,13 +13,14 @@
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
 # Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Tereza Žejdlová, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 20:35 UTC\n"
-"PO-Revision-Date: 2020-10-06 19:46+0200\n"
+"PO-Revision-Date: 2020-10-06 21:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2492,6 +2493,12 @@ msgid ""
 "react and counter. Most elves can learn the basics of swordplay relatively "
 "quickly and will readily pick up the blade when confronted with battle."
 msgstr ""
+"Šerm je mezi elfy nejčastěji využíván hraničáři a pomezními strážemi, které "
+"brání hlavně lesy a příležitostněji slouží jako čety, jež pronikají na jiná "
+"území. Elfské šermířství je známé pro svůj důraz na rychlé, hbité rány, "
+"které jsou sice slabší než od lidských nebo skřetích  válečníků, zato ale "
+"ponechávají méně času na reakci a odpor. Většina elfů se dokáže naučit "
+"základy šermu relativně rychle a když čelí bitvě, pohotově tasí čepel."
 
 #. [unit_type]: id=Elvish Hero, race=elf
 #: data/core/units/elves/Hero.cfg:4
