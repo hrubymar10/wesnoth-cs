@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 20:35 UTC\n"
-"PO-Revision-Date: 2020-10-06 00:11+0200\n"
+"PO-Revision-Date: 2020-10-06 19:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1451,7 +1451,7 @@ msgstr "ohnivý šíp"
 #. [unit_type]: id=Dune Cataphract, race=dunefolk
 #: data/core/units/dunefolk/Cataphract.cfg:4
 msgid "Dune Cataphract"
-msgstr ""
+msgstr "Pouštní katafrakt"
 
 #. [unit_type]: id=Dune Cataphract, race=dunefolk
 #: data/core/units/dunefolk/Cataphract.cfg:18
@@ -1654,7 +1654,7 @@ msgstr ""
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 #: data/core/units/dunefolk/Marauder.cfg:4
 msgid "Dune Marauder"
-msgstr ""
+msgstr "Pouštní nájezdník"
 
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 #: data/core/units/dunefolk/Marauder.cfg:26
