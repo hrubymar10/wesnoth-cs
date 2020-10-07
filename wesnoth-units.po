@@ -22,12 +22,37 @@ msgstr ""
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
 "PO-Revision-Date: 2020-10-06 21:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+# translation of wesnoth-units.pot to Czech
+# Czech translations for Battle for Wesnoth package.
+# Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
+# Copyright (C) 2004 - 2020 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Czech Wesnoth translation team <hrubymar10@gmail.com>,
+#
+#
+# Yeti <yeti@physics.muni.cz> et al, 2004.
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2005 - 2007.
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
+# Jan Dědič <jan.dedic@gmail.com>, 2014.
+# Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Tereza Žejdlová, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-09-19 17:35 UTC\n"
+"PO-Revision-Date: 2020-10-07 11:59+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -1861,11 +1886,10 @@ msgstr "Pouštní podpalovačka"
 
 #. [unit_type]: id=Dune Harrier, race=dunefolk
 #: data/core/units/dunefolk/Harrier.cfg:8
-#, fuzzy
-#| msgid "Drake Warrior"
 msgid "female^Dune Harrier"
-msgstr "Drakonidský válečník"
+msgstr "Pouštní běžkyně"
 
+# mluví se jen o běžkyních?
 #. [unit_type]: id=Dune Harrier, race=dunefolk
 #: data/core/units/dunefolk/Harrier.cfg:25
 msgid ""
@@ -1880,6 +1904,16 @@ msgid ""
 "thrust of spears is often enough to severely cripple the target, allowing "
 "the main Dunefolk force to close in and finish the job."
 msgstr ""
+"Ačkoli mohou běžci při operacích proti nepřátelům plnit podobnou roli jako "
+"chodci, jejich charakteristika je ve skutečnosti odvozena od jestřábů, které "
+"používají k udržování kontaktu s hlavními voji armád pouštních lidí. "
+"Nejčastěji je lze nalézt operující za nepřátelskými liniemi, kde mají "
+"obvykle za úkol získávat užitečné informace o pohybech nepřátelských vojsk. "
+"To samo o sobě postačuje k tomu, aby většina pouštních armád přechytračila "
+"své nepřátele. Když však k tomu situace uzraje, shromáždí se tyto agilní "
+"válečníci a udeří do týlu slabě chráněných zásobovacích linií nebo na křídla "
+"vojsk. Déšť bolas doprovázený tlakem hrotů kopí je často dostatečný, aby "
+"vážně ochromil cíl a umožnil hlavním silám pouštních lidí dokončit práci."
 
 #. [unit_type]: id=Dune Herbalist, race=dunefolk
 #: data/core/units/dunefolk/Herbalist.cfg:8
@@ -2005,10 +2039,8 @@ msgstr "louč"
 
 #. [unit_type]: id=Dune Paragon, race=dunefolk
 #: data/core/units/dunefolk/Paragon.cfg:8
-#, fuzzy
-#| msgid "Dragoon"
 msgid "Dune Paragon"
-msgstr "Dragoun"
+msgstr "Přední příslušník pouštního lidu"
 
 #. [unit_type]: id=Dune Paragon, race=dunefolk
 #: data/core/units/dunefolk/Paragon.cfg:22
@@ -2035,6 +2067,26 @@ msgid ""
 "acuity who may then be considered as candidates to lead the next generation "
 "of Dunefolk."
 msgstr ""
+"V mnoha pouštních městských státech je výběr nové generace vůdců dlouhý "
+"proces, který probíhá po mnoho let. V každé generaci je vybráno několik "
+"obzvláště talentovaných mladých lidí mezi šlechtou a je jim věnováno "
+"speciální úsilí. Jejich život je jen jídlo, spánek a trénink. Tito válečníci "
+"šermem učí žít, učí dýchat. Šerm se tam stává víc než jen jejich dovedností, "
+"stává se jejich základní identitou. Od dospívání byli po deset let "
+"intenzivním tréninkem připravováni k závěrečnému testu. Tím byla série duelů "
+"na život a na smrt mezi dvojicemi těchto bojovníků. Když se prach zvířený "
+"bojem usadil a proces byl u konce, zbylo posledních osm. Těmto mužům pak byl "
+"udělen titul Kal či souhrnně Kalai.\n"
+"\n"
+"Zatímco se mezi pouštím lidem vyžaduje, aby velcí vůdci byli mistry čepele, "
+"vládnoucí kasta musí znát mnohem víc než pouhý šerm. Po drtivém drillu "
+"obvykle následuje buď několikaleté toulání se po pouštích, nebo trénování "
+"mysli v oblasti věd. Účelem tohoto je najít cestu k osvícení, hnanou svou "
+"vlastní motivací. Ať už si vybrali jakkýkoli způsob, na konci druhého "
+"tréninkového období se zbývající Kalai vrátí a předvádí své znalosti starším "
+"ze současné vládnoucí kasty. Ti, kteří jsou uznáni za tomu hodné, jsou pak "
+"nazýváni předními příslušníky, válečníky velké síly a soustředěnosti, "
+"kandidáty na vůdce následujících generací pouštního lidu."
 
 #. [attack]: type=impact
 #: data/core/units/dunefolk/Paragon.cfg:43
@@ -2249,11 +2301,10 @@ msgstr ""
 
 #. [unit_type]: id=Dune Strider, race=dunefolk
 #: data/core/units/dunefolk/Strider.cfg:8
-#, fuzzy
-#| msgid "female^Fugitive"
 msgid "female^Dune Strider"
-msgstr "Uprchlice"
+msgstr "Pouštní chodkyně"
 
+# Mluví se jen o chodkyních?
 #. [unit_type]: id=Dune Strider, race=dunefolk
 #: data/core/units/dunefolk/Strider.cfg:21
 msgid ""
@@ -2269,6 +2320,17 @@ msgid ""
 "striders are fairly fragile in direct combat and are easily taken down if "
 "left exposed."
 msgstr ""
+"Útočná vojenská síla pouštního lidu je limitována jednou hlavní nevýhodou. "
+"Organizované síly pouštního lidu bývají poměrně pomalé. Proto mají nepřátelé "
+"často možnost se přeskupit se a přivolat posily. A pak je další útok mnohem "
+"obtížnější. Aby tomuto čelili, vyměnili chodci své původní praky za těžká "
+"bola, kterými mohou ustupující linie druhé strany zpomalit a zabránit jim v "
+"nerušeném úniku. Stejný způsob boje lze použít i v opačném scénáři, při "
+"ústupu pouštních lidí. Postupující nepřátelská armáda může být zbržďována, "
+"což umožní zraněným pouštním válečníkům se vzpamatovat. Tato taktika nese "
+"své riziko, protože i když jsou chodci těžko polapitelní, tak v přímé "
+"konfrontaci jsou celkem křehcí a pokud jsou ponecháni bez krytí, lze je "
+"snadno přemoci."
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:8
@@ -4124,7 +4186,7 @@ msgstr ""
 "primárním úkolem je ochrana královské rodiny a palácových prostor. Často "
 "jsou posíláni na mise velkého významu, spíše než nájemní žoldáci, neboť "
 "požívají veliké důvěry svých zaměstnavatelů. Jejich největším přínosem je "
-"jejich spolehlivost a mistrovství v boji na blízko, kterým jsou proslaveni. "
+"jejich spolehlivost a mistrovství v boji na blízko, kterým jsou proslaveni."
 
 #. [special_note]
 #: data/core/units/humans/Loyalist_Royal_Guard.cfg:22
