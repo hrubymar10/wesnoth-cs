@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 20:35 UTC\n"
-"PO-Revision-Date: 2020-10-06 21:28+0200\n"
+"PO-Revision-Date: 2020-10-07 20:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3752,7 +3752,7 @@ msgstr ""
 "primárním úkolem je ochrana královské rodiny a palácových prostor. Často "
 "jsou posíláni na mise velkého významu, spíše než nájemní žoldáci, neboť "
 "požívají veliké důvěry svých zaměstnavatelů. Jejich největším přínosem je "
-"jejich spolehlivost a mistrovství v boji na blízko, kterým jsou proslaveni. "
+"jejich spolehlivost a mistrovství v boji na blízko, kterými jsou proslaveni."
 
 #. [unit_type]: id=Royal Guard, race=human
 #: data/core/units/humans/Loyalist_Royal_Guard.cfg:19
