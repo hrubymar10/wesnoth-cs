@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-10-07 11:59+0200\n"
+"PO-Revision-Date: 2020-10-09 13:59+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1951,10 +1951,8 @@ msgstr ""
 
 #. [unit_type]: id=Dune Luminary, race=dunefolk
 #: data/core/units/dunefolk/Luminary.cfg:8
-#, fuzzy
-#| msgid "Drake Burner"
 msgid "Dune Luminary"
-msgstr "Drakonid spalovač"
+msgstr "Pouštní osvícenec"
 
 #. [unit_type]: id=Dune Luminary, race=dunefolk
 #: data/core/units/dunefolk/Luminary.cfg:25
@@ -1973,6 +1971,18 @@ msgid ""
 "proven, but the fact remains that some Luminaries seem to hold much more "
 "influence than their abilities should afford."
 msgstr ""
+"Na první pohled není zcela jasné, co odlišuje osvícence od jiných léčitelů "
+"pouštního lidu. Osvícenec může být ve srovnání s běžnými bylinkáři nebo "
+"apatykáři určitě o něco vzdělanější, zcestovalejší nebo bojově zdatnější, "
+"ale rozdíl je v nejlepším případě mírný. I přesto je „osvícený“ formální "
+"titul, udělovaný nejvyššímu řádu pouštních léčitelů, který přináší těmto "
+"mužům nejen obrovskou úctu, ale i závist.\n"
+"\n"
+"Existují určité spekulace, že mezi osvícenými existuje tajný řád. Tito "
+"takzvaní „eminenti“ shromažďují velké množství zakázaných znalostí a skrytě "
+"radí mnoha vůdcům pouštního lidu. Existence řádu nikdy nebyla prokázána. "
+"Nicméně existují náznaky, že někteří osvícení mají mnohem větší vliv, než by "
+"jim vzhledem k jejich schopnostem náleželo."
 
 #. [unit_type]: id=Dune Marauder, race=dunefolk
 #: data/core/units/dunefolk/Marauder.cfg:11
@@ -2072,7 +2082,7 @@ msgstr "pěstní útok"
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:11
 msgid "Dune Raider"
-msgstr "Pouštní jezdec"
+msgstr "Pouštní lupič"
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:29
@@ -2086,11 +2096,20 @@ msgid ""
 "Dunefolk, capable of outpacing nearly anything they might encounter in the "
 "sandy deserts."
 msgstr ""
+"I když je v organizovaných armádách nalezneme jen zřídka, jsou u pouštního "
+"lidu lupiči, kteří během nocí přepadávají karavany a tábory svých rivalů, "
+"obvyklou záležitostí. Během svých akcí jen vzácně používají konfrontaci "
+"přímou silou. Největší důraz kladou na rychlost. Používají rychlé šokující "
+"útoky, při kterých vytvářejí během chvilky co největší chaos. Ten jim slouží "
+"k tomu, aby se bleskově dostali dovnitř i ven z nepřátelských postavení bez "
+"rizika protiútoku. Lupiči patří k těm nejrychlejším z pouštních jezdců. Jsou "
+"schopni překonat téměř jakoukoli překážku, na níž mohou v pouštních dunách "
+"narazit."
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
 #: data/core/units/dunefolk/Rider.cfg:8
 msgid "Dune Rider"
-msgstr "Dunový jezdec"
+msgstr "Pouštní jezdec"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
 #: data/core/units/dunefolk/Rider.cfg:20
@@ -2105,6 +2124,15 @@ msgid ""
 "is what allows these horsemen to be so effective and versatile out on the "
 "rolling dunes."
 msgstr ""
+"Pouštní lidé jsou proslavení svých chovem koní, kdy chovají pro nejrůznější "
+"účely mnoho různých plemen. Koně, používaní na těžkou práci, jsou chováni "
+"pro sílu, zatímco ti, kteří jsou používaní cestách či v karavanách, jsou "
+"chováni pro vytrvalost. I když jsou pro válečné využití obvykle nejlepší "
+"koně s kombinací různých vlastností, tak schopnost snadného a rychlého "
+"pohybu v písku má zásadní význam. Jezdci na těchto koních fungují primárně "
+"jako zvědové a poslové, příležitostně pak jako podpůrné síly pro oslabené "
+"linie. Klíčovým rysem, co těmto jezdcům umožňuje být tak efektivní a "
+"všestranní na sypkých dunách, je manévrovatelnost."
 
 #. [unit_type]: id=Dune Rover, race=dunefolk
 #: data/core/units/dunefolk/Rover.cfg:8
@@ -4026,6 +4054,11 @@ msgid ""
 "more than made up for by their superior knowledge and training in military "
 "strategy."
 msgstr ""
+"Poručíci jsou velmi uznávaní velící důstojníci lidských armád. Často je "
+"vidět, jak vedou menší nájezdy a řídí úkony na bitevních polích. Jsou "
+"cvičeni jak v boji s mečem, tak ve střelbě kuší. Nevynikají ale ani v jednom "
+"a také jsou o něco méně odolní, než válečníci jiných ras. To je však více "
+"než vyváženo jejich vynikajícími znalostmi a výcvikem ve vojenské strategii."
 
 #. [unit_type]: id=Longbowman, race=human
 #: data/core/units/humans/Loyalist_Longbowman.cfg:4
@@ -6203,6 +6236,14 @@ msgid ""
 "brethren to finish off on the frontlines. While typically poorly equipped "
 "themselves, these orcs can nonetheless be quite effective in large numbers."
 msgstr ""
+"Ačkoli jsou někdy luky mezi skřety považovány za zbabělou zbraň, pragmatická "
+"povaha skřetího válečného umění vede k jejich častému využití. Luky jsou "
+"obzvláště vhodné pro skřeti s malým vzrůstem nebo slabší tělesnou "
+"konstitucí. Oblíbenou taktikou mezi skřetími lučištníky je použití zápalných "
+"šípů, kterými zasévají chaos do nepřátelských linií. Podlamují tak sevřené "
+"nepřátelské šiky a připravují tím půdu pro frontální útok svých větších a "
+"silnějších druhů. I když jsou obvykle tito skřeti jen špatnou vyzbrojeni a "
+"vystrojeni, mohou být ve větším počtu poměrně efektivními bojovníky."
 
 #. [unit_type]: id=Orcish Assassin, race=orc
 #: data/core/units/orcs/Assassin.cfg:4
