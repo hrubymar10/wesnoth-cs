@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 20:35 UTC\n"
-"PO-Revision-Date: 2020-10-07 20:47+0200\n"
+"PO-Revision-Date: 2020-10-10 10:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1711,7 +1711,7 @@ msgstr ""
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:4
 msgid "Dune Raider"
-msgstr "Pouštní jezdec"
+msgstr "Pouštní lupič"
 
 #. [unit_type]: id=Dune Raider, race=dunefolk
 #: data/core/units/dunefolk/Raider.cfg:22
@@ -1771,7 +1771,7 @@ msgstr ""
 #. [unit_type]: id=Dune Rider, race=dunefolk
 #: data/core/units/dunefolk/Rider.cfg:4
 msgid "Dune Rider"
-msgstr "Dunový jezdec"
+msgstr "Pouštní jezdec"
 
 #. [unit_type]: id=Dune Rider, race=dunefolk
 #: data/core/units/dunefolk/Rider.cfg:17
@@ -3616,6 +3616,11 @@ msgid ""
 "more than made up for by their superior knowledge and training in military "
 "strategy."
 msgstr ""
+"Poručíci jsou velmi uznávaní velící důstojníci lidských armád. Často je "
+"vidět, jak vedou menší nájezdy a řídí úkony na bitevních polích. Jsou "
+"cvičeni jak v boji s mečem, tak ve střelbě kuší. Nevynikají ale ani v jednom "
+"a také jsou o něco méně odolní než válečníci jiných ras. To je však více než "
+"vyváženo jejich vynikajícími znalostmi a výcvikem ve vojenské strategii."
 
 #. [unit_type]: id=Longbowman, race=human
 #: data/core/units/humans/Loyalist_Longbowman.cfg:4
