@@ -16,15 +16,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:34 UTC\n"
-"PO-Revision-Date: 2020-10-03 15:12+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-10-10 12:30+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:13
@@ -756,8 +755,8 @@ msgid ""
 "These undead are toying with us! This adept is weak — we should attack at "
 "once and take his fort."
 msgstr ""
-"Tito nemrtví si s námi hrají! Tento učedník je slabý - měli bychom zaútočit "
-"najednou a zabrat jeho pevnost."
+"Tito nemrtví si s námi hrají! Tento učedník je slabý – měli bychom zaútočit "
+"najednou a zabrat jeho pevnost."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:219
@@ -1281,8 +1280,8 @@ msgid ""
 "Yes... We studied together many years ago. He was most powerful then, but "
 "the dark power I sense today is far greater. We must escape immediately!"
 msgstr ""
-"Ano... Před mnoho lety jsme spolu studovali. Už tehdy byl velmi silný, ale "
-"temná síla, kterou cítím dnes, je ještě o mnoho silnější. Musíme okamžitě "
+"Ano... Před mnoha lety jsme spolu studovali. Už tehdy byl velmi silný, ale "
+"temná síla, kterou cítím dnes, je ještě o mnoho silnější. Musíme okamžitě "
 "utéct!"
 
 #. [message]: speaker=Mal-Ravanal
@@ -1760,7 +1759,7 @@ msgid ""
 "I see, this is where the scared dogs ran to. Don't think you can get away "
 "<b>this</b> easily."
 msgstr ""
-"Sem tedy běželi ti vystrašení psi. Nemysli si, že se od <i>toho</i> dostaneš "
+"Sem tedy běželi ti vystrašení psi. Nemysli si, že se od <b>toho</b> dostaneš "
 "tak snadno."
 
 #. [message]: speaker=Dacyn
@@ -2678,7 +2677,7 @@ msgid ""
 "I’m an enginea’. I s’pect you’ll have a need of me services. I bet you’re "
 "gonna want me to blow up that bridge ov’r theah."
 msgstr ""
-"Sem ženista. A řek bych, že 'cete kapku píchnout. Se vsadím, že by se vám "
+"Sem ženista. A řek bych, že ’cete kapku píchnout. Se vsadím, že by se vám "
 "šiklo odbouchnout támhleten most."
 
 #. [message]: speaker=Owaec
@@ -2839,7 +2838,7 @@ msgstr "Krakraš"
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:105
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:391
 msgid "Null Stone"
-msgstr "Nulový Kámen"
+msgstr "Nulový kámen"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:300
@@ -2910,7 +2909,7 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:385
 msgid "The Null Stone! With it we may finally defeat Mal-Ravanal!"
-msgstr "Nulový Kámen! S ním můžeme konečně skoncovat s Mal-Ravanalem!"
+msgstr "Nulový kámen! S ním můžeme konečně zvítězit nad Mal-Ravanalem!"
 
 #. [scenario]: id=14_Approaching_Weldyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_Approaching_Weldyn.cfg:4
@@ -3766,7 +3765,6 @@ msgstr ""
 "Povstaň, Gweddry, hrabě Východní marky. Zem, pro niž jsi prolil vlastní "
 "krev, je ti dána do správy; nechť opět zezelená."
 
-# do budoucna - Obnova může být odkaz na další (9/2007 nepřeložené) tažení
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:275
 msgid ""
