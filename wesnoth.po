@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-10 14:51-0300\n"
-"PO-Revision-Date: 2020-10-10 22:24+0200\n"
+"PO-Revision-Date: 2020-10-11 08:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4378,7 +4378,7 @@ msgid ""
 msgstr ""
 "Příkazy pro <b>verbování</b> a <b>přivolávání</b> je možno aktivovat i z "
 "menu po kliknutí pravým tlačítkem na políčko hradu. To vám umožní přesně "
-"určit, kam umístit novou jednotku, což někdy může pomoci — například získat "
+"určit, kam umístit novou jednotku, což někdy může pomoci – například získat "
 "vesnici o tah dříve."
 
 #. [tip]
@@ -7865,15 +7865,10 @@ msgid "Turn Number"
 msgstr "Číslo kola"
 
 #: src/reports.cpp:1286
-#, fuzzy
-#| msgid ""
-#| "When the game reaches the number of turns indicated by the second number, "
-#| "it will end."
 msgid ""
 "When the game exceeds the number of turns indicated by the second number, it "
 "will end."
-msgstr ""
-"Když hra dosáhne počet kol, který je zobrazen ve druhým číslem, tak skončí."
+msgstr "Když hra přesáhne počet kol, který je dán druhým číslem, tak skončí."
 
 #: src/reports.cpp:1311
 msgid "Gold"
