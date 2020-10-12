@@ -1658,9 +1658,9 @@ msgid ""
 "dirtgrubbers. You can be part of the fist that smites them through the power "
 "of our ancient heirloom, the Hammer of Thursagan."
 msgstr ""
-"Všichni trpaslíci bratry jsou a musí si skřety, lidi i jiné hlínohraby "
-"podrobiti. I vy můžete tou pěstí být, jež na ně silou Thursaganova kladiva, "
-"starodávného dědictví našeho, drtivě udeří."
+"Všichni trpaslíci jsou bratři a musí si podrobit skřety, lidi a jiné "
+"hlínohraby. I vy můžete být tou pěstí, která na ně drtivě udeří silou "
+"Thursaganova kladiva, našeho starodávného dědictví."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:215
@@ -1681,12 +1681,12 @@ msgid ""
 "our superiority as the true people of Irdya, an image that the other races "
 "shall respect and fear!"
 msgstr ""
-"Jakožto zbraň? I kdepak obřadníku... mé úmysly špatně pochopil jsi. Stejně "
-"jako já dobře víš, že kladivo jest zbraní stěží mizernou. V kladivu jest "
-"pojmuta duše jediné pravé rasy, duše trpasličí. Ono jest tím, co naše tělo a "
+"Jako zbraň? Kdepak obřadníku... mé úmysly jsi špatně pochopil. Stejně "
+"jako já dobře víš, že kladivo je zbraní stěží mizernou. V kladivu je "
+"pojmuta duše jediné pravé rasy, duše trpasličí. Ono je tím, co naše tělo a "
 "krev vykovalo, tím, co naši vůli váže a naše odhodlání utváří. Symbolem "
 "nadřazenosti nás, pravých obyvatel Irdye, obrazem, jehož si ostatní rasy "
-"budou vážiti a kořiti se mu!"
+"budou vážit a kořit se mu!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:225
@@ -1701,10 +1701,10 @@ msgid ""
 "state. Once that is done, none will be able to stand before me! Join us, "
 "loremaster. We can put your talent to good use."
 msgstr ""
-"Kladivo stále neúplné jest. I potřebujeme znalosti obřadníka, bychom znovu "
+"Kladivo je stále neúplné. Potřebujeme znalosti obřadníka, abychom znovu "
 "zbývající části vykovali a artefakt tak do nejsilnějšího stavu navrátili. Až "
-"toto dokončíme, nikdo již před námi neobstojí! Přidej se k nám, obřadníku. "
-"Tvůj talent dobré využití skýtá."
+"to dokončíme, nikdo již před námi neobstojí! Přidej se k nám, obřadníku. "
+"Tvůj talent skýtá dobré využití."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:235
@@ -1726,8 +1726,8 @@ msgid ""
 "Quiet, Movrur. Loremaster, you... do not wish to see what is beneath this "
 "mask. I was terribly wounded in an orcish attack. Disfigured."
 msgstr ""
-"Umlkni Movrure. A ty obřadníku... nepřej si viděti, co za tou maskou jest. "
-"Těžce zraněn byl jsem během útoku skřetího. Zohyzděn jsem."
+"Tiše Movrure. A ty obřadníku... nepřej si vidět, co je za tou maskou. "
+"Byl jsem těžce zraněn během skřetího útoku. Jsem zohyzděn."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:250
@@ -1774,9 +1774,9 @@ msgid ""
 "sustained me, until I became as I am. I will have revenge; I will destroy "
 "the orcs, and the humans, and the elves, and all but the true people!"
 msgstr ""
-"Týdny jsem v agónii zápasil. Pouze nenávist má a dávné runové umění mě "
-"držely, dokud jsem se tím, čím jsem, nestal. I pomstím se! Zničím všechny "
-"skřety, lidi a elfy, prostě všechny, jež mimo pravou rasu stojí!"
+"Týdny jsem zápasil v agónii. Pouze má nenávist a dávné runové umění mě "
+"držely, dokud jsem se nestal tím, čím jsem. Pomstím se! Zničím všechny "
+"skřety, lidi a elfy, prostě všechny, kteří nejsou pravé rasy!"
 
 # říká Karrag (lich)
 #. [message]: speaker=Karrag
@@ -1787,9 +1787,9 @@ msgid ""
 "your new friends will be the last sacrifices I require to bind the entire "
 "dwarvish race to my purpose. TAKE THEM!"
 msgstr ""
-"A vy jste svůj osud zpečetili. Stovky hlínohrabů již zemřely, by utkaly síť "
-"krve kolem kladiva a duše trpaslíků. Vy a vaši noví přátelé tou poslední "
-"obětí budete, jež připojení veškeré trpasličí rasy k záměru mému vydláždí. "
+"A vy jste zpečetili svůj osud. Stovky hlínohrabů již zemřely, aby utkaly síť "
+"krve kolem kladiva a duše trpaslíků. Vy a vaši noví přátelé budete tou poslední "
+"obětí, jež vydláždí připojení veškeré trpasličí rasy k mému záměru. "
 "CHOPTE SE JICH!"
 
 #. [message]: speaker=narrator
@@ -2076,7 +2076,7 @@ msgstr "Můj pane, hlínohrabové vstoupili do naší svatyně!"
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1184
 msgid "Excellent! Their blood will provide plenty of fuel for my ritual!"
-msgstr "Výborně! Krev jejich poskytne obřadu mému dostatek paliva!"
+msgstr "Výborně! Jejich krev jejich poskytne mému obřadu dostatek paliva!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1205
@@ -2099,8 +2099,8 @@ msgid ""
 "cleansed the lands of the true people from all unworthy scum! Kal Kartha "
 "owes me everything!"
 msgstr ""
-"Ty nestydatý blázne! To já Kal Karthu ke slávě přivedl a já to byl, kdo země "
-"pravé rasy od vší podřadné spodiny očistil! Kal Kartha za vše mi vděčí!"
+"Ty nestydatý blázne! To já přivedl Kal Karthu ke slávě a já to byl, kdo očistil "
+"země pravé rasy od vší podřadné spodiny! Kal Kartha mi vděčí za vše!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1220
@@ -2119,8 +2119,8 @@ msgid ""
 "Any enemy of my rule is no better than the filthiest of dirtgrubbers. You no "
 "longer belong to the true people. You will become my slaves!"
 msgstr ""
-"Každý nepřítel panování mého na roveň nejšpinavějšího hlínohraba padá. Již "
-"více k pravé rase nepatříte. Mými otroky se stanete!"
+"Každý nepřítel mého panování padá na roveň nejšpinavějšího hlínohraba. Již "
+"více nepatříte k pravé rase. Stanete se mými otroky!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1230
@@ -2130,7 +2130,7 @@ msgstr "Ne, když tě tady zastavíme. DO ZBRANĚ!"
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1248
 msgid "No! No! No! Dirtgrubbers must die! The true people must rule all!"
-msgstr "Ne! Ne! Ne! Hlínohrabové zemřít musí! Pravá rasa vládnout musí všemu!"
+msgstr "Ne! Ne! Ne! Hlínohrabové musí zemřít! Pravá rasa musí vládnout všem!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1253
@@ -2140,7 +2140,7 @@ msgstr "‚Pravá rasa‘ mluví našimi sekerami. Zemři, odporný lichu!"
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1258
 msgid "Nooo! My power... it wanes..."
-msgstr "Neee! Má síla... vytrácí se..."
+msgstr "Neee! Má síla... se vytrácí..."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1268
