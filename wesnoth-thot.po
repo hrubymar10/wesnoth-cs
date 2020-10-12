@@ -35,8 +35,7 @@ msgstr ""
 # Angarthing mluví spisovně se vznešenými a archaickými výrazy
 # Skřeti mluví nespisovně se specifickými výrazy
 # Otrokář mluví nespisovně s drsnými výrazy
-# Maskovaný vůdce trpaslíků (u otrokáře) mluví částečně nespisovně
-# Karrag mluví hodně archaicky (velmi knižně)
+# Karrag mluví spisovně, občas vzletně
 # Ostatní mluví spisovně
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:10
@@ -1103,8 +1102,8 @@ msgid ""
 "forced to dedicate more of our forces here just to protect the peasants "
 "while they... go about their business."
 msgstr ""
-"Ano, skřeti. V širším okolí Kal Karthy není bezpečno. Jsme nuceni tu držet více "
-"sil, abychom ochránili rolníky, zatímco... pracují."
+"Ano, skřeti. V širším okolí Kal Karthy není bezpečno. Jsme nuceni tu "
+"držet více sil, abychom ochránili rolníky, zatímco... pracují."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:337
