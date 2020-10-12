@@ -1700,7 +1700,7 @@ msgid ""
 "state. Once that is done, none will be able to stand before me! Join us, "
 "loremaster. We can put your talent to good use."
 msgstr ""
-"Kladivo je stále neúplné. Potřebujeme znalosti obřadníka, abychom znovu "
+"Kladivo je stále poškozené. Potřebujeme znalosti obřadníka, abychom znovu "
 "zbývající části vykovali a artefakt tak do nejsilnějšího stavu navrátili. Až "
 "to dokončíme, nikdo již před námi neobstojí! Přidej se k nám, obřadníku. "
 "Tvůj talent skýtá dobré využití."
@@ -1725,8 +1725,8 @@ msgid ""
 "Quiet, Movrur. Loremaster, you... do not wish to see what is beneath this "
 "mask. I was terribly wounded in an orcish attack. Disfigured."
 msgstr ""
-"Tiše Movrure. A ty obřadníku... nepřej si vidět, co je za tou maskou. "
-"Byl jsem těžce zraněn během skřetího útoku. Jsem zohyzděn."
+"Tiše Movrure. A ty obřadníku... nepřej si vidět, co je za tou maskou. Byl jsem "
+"těžce zraněn během skřetího útoku. Jsem zohyzděn."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:250
@@ -1788,8 +1788,8 @@ msgid ""
 msgstr ""
 "A vy jste zpečetili svůj osud. Stovky hlínohrabů již zemřely, aby utkaly síť "
 "krve kolem kladiva a duše trpaslíků. Vy a vaši noví přátelé budete tou poslední "
-"obětí, jež vydláždí připojení veškeré trpasličí rasy k mému záměru. "
-"CHOPTE SE JICH!"
+"obětí, jež vydláždí připojení veškeré trpasličí rasy k mému záměru. CHOPTE "
+"SE JICH!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:319
@@ -1876,9 +1876,9 @@ msgid ""
 "followers. He could be within a spear-cast of us now and we wouldn’t know it "
 "in this gloom."
 msgstr ""
-"S největší pravděpodobností se drží ve stínech. Chce utéct, aby shromáždil "
-"své věrné. Mohl by být teď od nás co by kamenem dohodil a v tomhle šeru "
-"bychom to nevěděli."
+"S největší pravděpodobností se drží ve stínech. Chce utéct, aby shromáždil své "
+"věrné. Mohl by být teď od nás co by kamenem dohodil a v tomhle šeru bychom "
+"to nevěděli."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:307
@@ -2075,7 +2075,7 @@ msgstr "Můj pane, hlínohrabové vstoupili do naší svatyně!"
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1184
 msgid "Excellent! Their blood will provide plenty of fuel for my ritual!"
-msgstr "Výborně! Jejich krev jejich poskytne mému obřadu dostatek paliva!"
+msgstr "Výborně! Jejich krev poskytne mému obřadu dostatek paliva!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1205
@@ -2098,8 +2098,8 @@ msgid ""
 "cleansed the lands of the true people from all unworthy scum! Kal Kartha "
 "owes me everything!"
 msgstr ""
-"Ty nestydatý blázne! To já přivedl Kal Karthu ke slávě a já to byl, kdo očistil "
-"země pravé rasy od vší podřadné spodiny! Kal Kartha mi vděčí za vše!"
+"Ty nestydatý blázne! To já přivedl Kal Karthu ke slávě a já to byl, kdo "
+"očistil země pravé rasy od vší podřadné spodiny! Kal Kartha mi vděčí za vše!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1220
