@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-10-10 23:59+0200\n"
+"PO-Revision-Date: 2020-10-14 00:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -28,7 +28,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.1\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -2715,6 +2714,13 @@ msgid ""
 "Elvish archers are still effective combatants, especially when fighting from "
 "the safety of their forests."
 msgstr ""
+"Většina elfů, kteří jsou především sběrači a lovci, se od útlého věku učí "
+"střílet z luku, aby se stali zdatnými lučištníky. Kromě toho, že se jedná "
+"o praktickou dovednost, je lukostřelba běžnou kratochvílí a pro pobavení "
+"diváků i účastníků se pořádá hodně soutěží. V době války se tato schopnost "
+"snadno upotřebí v bitvě, protože mnoho elfů si vybere luk jako svou zbraň. "
+"I když elfí lučištníci nejsou tak statní, jako jejich protějšky u lidí nebo "
+"skřetů, přesto bojují účinně, zvlášť pokud útočí z bezpečí svých lesů."
 
 #. [female]
 #: data/core/units/elves/Archer.cfg:80
