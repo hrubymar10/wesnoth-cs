@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-10 17:51 UTC\n"
-"PO-Revision-Date: 2020-10-14 00:04+0200\n"
+"PO-Revision-Date: 2020-10-14 21:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1424,7 +1424,7 @@ msgstr ""
 #. [unit_type]: id=Dune Burner, race=dunefolk
 #: data/core/units/dunefolk/Burner.cfg:4
 msgid "Dune Burner"
-msgstr "Pouštní spalovač"
+msgstr "Pouštní podpalovač"
 
 #. [unit_type]: id=Dune Burner, race=dunefolk
 #: data/core/units/dunefolk/Burner.cfg:23
@@ -1559,7 +1559,7 @@ msgstr ""
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
 #: data/core/units/dunefolk/Firetrooper.cfg:4
 msgid "Dune Firetrooper"
-msgstr "Pouštní podpalovač"
+msgstr "Pouštní šiřitel ohně"
 
 #. [unit_type]: id=Dune Firetrooper, race=dunefolk
 #: data/core/units/dunefolk/Firetrooper.cfg:24
@@ -1795,7 +1795,7 @@ msgstr ""
 #. [unit_type]: id=Dune Rover, race=dunefolk
 #: data/core/units/dunefolk/Rover.cfg:4
 msgid "Dune Rover"
-msgstr ""
+msgstr "Pouštní tulák"
 
 #. [unit_type]: id=Dune Rover, race=dunefolk
 #: data/core/units/dunefolk/Rover.cfg:16
@@ -1824,7 +1824,7 @@ msgstr ""
 #. [unit_type]: id=Dune Scorcher, race=dunefolk
 #: data/core/units/dunefolk/Scorcher.cfg:4
 msgid "Dune Scorcher"
-msgstr ""
+msgstr "Pouštní spalovač"
 
 #. [unit_type]: id=Dune Scorcher, race=dunefolk
 #: data/core/units/dunefolk/Scorcher.cfg:23
@@ -1878,7 +1878,7 @@ msgstr ""
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 #: data/core/units/dunefolk/Soldier.cfg:4
 msgid "Dune Soldier"
-msgstr "Dunový voják"
+msgstr "Pouštní voják"
 
 #. [unit_type]: id=Dune Soldier, race=dunefolk
 #: data/core/units/dunefolk/Soldier.cfg:19
@@ -1908,7 +1908,7 @@ msgstr ""
 #. [unit_type]: id=Dune Spearguard, race=dunefolk
 #: data/core/units/dunefolk/Spearguard.cfg:4
 msgid "Dune Spearguard"
-msgstr ""
+msgstr "Pouštní kopinická stráž"
 
 #. [unit_type]: id=Dune Spearguard, race=dunefolk
 #: data/core/units/dunefolk/Spearguard.cfg:19
@@ -1933,10 +1933,8 @@ msgstr ""
 
 #. [unit_type]: id=Dune Spearmaster, race=dunefolk
 #: data/core/units/dunefolk/Spearmaster.cfg:4
-#, fuzzy
-#| msgid "Drake Blademaster"
 msgid "Dune Spearmaster"
-msgstr "Drakonidský mistr meče"
+msgstr "Pouštní mistr kopiník"
 
 #. [unit_type]: id=Dune Spearmaster, race=dunefolk
 #: data/core/units/dunefolk/Spearmaster.cfg:20
