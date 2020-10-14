@@ -26,7 +26,7 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-manual`       | **96%**  |
 | `wesnoth-multiplayer`  | **84%**  |
 | `wesnoth-nr`           | **90%**  |
-| `wesnoth-sof`          | **98%**  |
+| `wesnoth-sof`          | **100%** |
 | `wesnoth-sota`         | **97%**  |
 | `wesnoth-sotbe`        | **100%** |
 | `wesnoth-steam`        | **100%** |
@@ -34,22 +34,24 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-test`         | **100%** |
 | `wesnoth-thot`         | **100%** |
 | `wesnoth-trow`         | **100%** |
-| `wesnoth-tsg`          | **72%**  |
+| `wesnoth-tsg`          | **79%**  |
 | `wesnoth-tutorial`     | **100%** |
-| `wesnoth-units`        | **89%**  |
+| `wesnoth-units`        | **92%**  |
 | `wesnoth-utbs`         | **96%**  |
-| `wesnoth-wov`          | **29%**  |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
-## Maintainer
+## Project Manager
 * [Martin Hrubý (hrubymar10)](https://github.com/hrubymar10)
+
+## Maintainer
+* [celerini](https://github.com/celerini)
 
 ## Contributors
 * [SuperTukan](https://github.com/SuperTukan)
 * [tapikuv](https://github.com/tapikuv)
 * [Dondor17](https://github.com/Dondor17)
-* [celerini](https://github.com/celerini)
+* [MultiSeptim](https://github.com/MultiSeptim)
 
 ## wesnoth-announcement
 `wesnoth-announcement.po` originate from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
