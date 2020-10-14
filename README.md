@@ -32,24 +32,27 @@ Czech translations of The Battle for Wesnoth
 | `wesnoth-steam`        | **100%** |
 | `wesnoth-tb`           | **99%**  |
 | `wesnoth-test`         | **100%** |
-| `wesnoth-thot`         | **66%**  |
+| `wesnoth-thot`         | **98%**  |
 | `wesnoth-trow`         | **99%**  |
-| `wesnoth-tsg`          | **78%**  |
+| `wesnoth-tsg`          | **81%**  |
 | `wesnoth-tutorial`     | **95%**  |
-| `wesnoth-units`        | **78%**  |
+| `wesnoth-units`        | **90%**  |
 | `wesnoth-utbs`         | **93%**  |
 | `wesnoth-wc`           | **0%**   |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
-## Maintainer
+## Project Manager
 * [Martin Hrubý (hrubymar10)](https://github.com/hrubymar10)
+
+## Maintainer
+* [celerini](https://github.com/celerini)
 
 ## Contributors
 * [SuperTukan](https://github.com/SuperTukan)
 * [tapikuv](https://github.com/tapikuv)
 * [Dondor17](https://github.com/Dondor17)
-* [celerini](https://github.com/celerini)
+* [MultiSeptim](https://github.com/MultiSeptim)
 
 ## wesnoth-announcement
 `wesnoth-announcement.po` originate from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
