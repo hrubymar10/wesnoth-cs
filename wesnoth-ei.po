@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-10 17:51 UTC\n"
-"PO-Revision-Date: 2020-10-10 14:04+0200\n"
+"PO-Revision-Date: 2020-10-15 21:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2934,7 +2934,7 @@ msgstr "Mal-un-Xadrux"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:212
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:44
 msgid "Konrad II"
-msgstr "Konrád II"
+msgstr "Konrád II."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_Approaching_Weldyn.cfg:128
@@ -2945,7 +2945,7 @@ msgstr "Dostaneš Gweddryho do Weldynského hradu"
 #: data/campaigns/Eastern_Invasion/scenarios/14_Approaching_Weldyn.cfg:144
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:179
 msgid "Death of Konrad II"
-msgstr "Konrád II zemře"
+msgstr "Konrád II. zemře"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_Approaching_Weldyn.cfg:182
