@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-19 17:35 UTC\n"
-"PO-Revision-Date: 2020-09-28 09:59+0200\n"
+"PO-Revision-Date: 2020-10-16 22:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4194,7 +4194,7 @@ msgstr "Za každého z nás, kterého srazíte, povstanou další!"
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:458
 msgid "Eltenmir! What in the world is going on here?"
-msgstr ""
+msgstr "Eltenmire! Co se tu pro všechno na světě děje?"
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:477
@@ -4202,6 +4202,8 @@ msgid ""
 "We are merely giving these human pigs what they deserve. If they wish to "
 "shed the blood of our people, we will do the same to them."
 msgstr ""
+"Jenom dáváme těmhle lidským sviním, co si zaslouží. Když chtějí prolévat "
+"krev našich lidí, vrátíme jim to."
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:481
@@ -4210,11 +4212,13 @@ msgid ""
 "that nothing good can come of doing this. Especially not from attacking "
 "Ethiliel!"
 msgstr ""
+"Vím, že se také musíš rmoutit nad Mebrinovým skonem, ale určitě vidíš, že "
+"z tohohle nemůže vzejít nic dobrého. Zvlášť ne z útoku na Ethiliel!"
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:485
 msgid "Then suggest something, for we must have some form of retribution!"
-msgstr ""
+msgstr "Tak tedy něco navrhni, protože jim to musíme nějak oplatit!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:489
@@ -4222,6 +4226,8 @@ msgid ""
 "The ones who <i>effectively</i> killed Mebrin are dead. I saw to that "
 "personally. We should have no more qualms with the remaining humans here."
 msgstr ""
+"Ti, kteří <i>skutečně</i> zabili Mebrina, jsou mrtví. Na to jsem osobně "
+"dohlédla. Těm zbývajícím lidem zde už bychom neměli nic vyčítat."
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:493
@@ -4230,11 +4236,14 @@ msgid ""
 "true, the death of a few bugs in the woods is hardly an equal trade for one "
 "of our greatest leaders!"
 msgstr ""
+"Jako bychom se mohli spokojit s něčím takovým! I kdyby to, co říkáš, byla "
+"pravda, nemůže smrt několika štěnic v lese vykoupit ztrátu jednoho z našich "
+"nejvýznamnějších vůdců."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:497
 msgid "But the answer cannot be more death and destruction..."
-msgstr ""
+msgstr "Ale odpovědí nemůže být další smrt a ničení..."
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:501
@@ -4245,11 +4254,15 @@ msgid ""
 "and discuss the issue with us, Ethiliel. You no longer belong with the "
 "humans."
 msgstr ""
+"Ne, to nemusí být, ale Eltenmir má pravdu. Také nemůžeme sedět s rukama "
+"v klíně a zapomenout na to zvěrstvo. Jestli tu chceš zabránit vraždění, "
+"budeme muset najít nějaké jiné řešení. I tak bys měla přijít a projednat tu "
+"záležitost s námi, Ethiliel. Už nepatříš k lidem."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:505
 msgid "I... I suppose you are right. I will come."
-msgstr ""
+msgstr "Já... mám za to, že máš pravdu. Přijdu."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:532
@@ -4257,6 +4270,8 @@ msgid ""
 "Be careful, Deoran. The more blood you spill, the more my people will be "
 "enraged. More will surely come to attack."
 msgstr ""
+"Buď opatrný, Deorane. Čím více krve prolijete, tím více se mí lidé rozlítí. "
+"Určitě přijdou bojovat další."
 
 #. [scenario]: id=08b_The_Tides_of_War
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:5
