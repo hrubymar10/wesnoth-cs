@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-08-28 10:00+0200\n"
-"Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-10-17 11:18+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:9
@@ -3323,8 +3324,8 @@ msgid ""
 "If we are to have any hope of penetrating into Knalga, we must continue "
 "north to seek help from the Dwarves of the Heart Mountains."
 msgstr ""
-"Musíme pokračovat na sever, abychom získali pomoc trpaslíků z hor. Bez nich "
-"nemáme nejmenší naději proniknout do Knalgy."
+"Musíme pokračovat na sever, abychom získali pomoc trpaslíků ze Srdcových "
+"hor. Bez nich nemáme nejmenší naději proniknout do Knalgy."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:485
@@ -9091,7 +9092,7 @@ msgid ""
 "A symbol of the kingship of Wesnoth, the Sceptre has the power to shoot "
 "fireballs at enemies of the bearer!"
 msgstr ""
-"Toto starodávné žezlo bylo ukuto trpasličími mistry z hlubin hor. Žezlo, "
+"Toto starodávné žezlo bylo ukuto trpasličími mistry ze Srdcových hor. Žezlo, "
 "symbol vládcovství ve Wesnothu, má moc vrhat na nepřátele jeho držitele "
 "ohnivé koule!"
 
