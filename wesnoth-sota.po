@@ -15,14 +15,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-08-28 10:00+0200\n"
-"Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-10-17 11:54+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
@@ -272,6 +273,8 @@ msgid ""
 "Ardonna can climb over a fence for 2 movement points, but wild animals "
 "cannot."
 msgstr ""
+"Ardonna může přelézt plot za 2 body pohybu. Divoká zvířata přelézt plot "
+"nemůžou."
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:196
@@ -322,18 +325,13 @@ msgstr ""
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:343
-#, fuzzy
-#| msgid ""
-#| "Wolves! This journey may be more dangerous than I thought. Well, we can "
-#| "find safety inside the sturdy fences built by farmers and woodcutters. "
-#| "The wild animals surely won't be able to enter."
 msgid ""
 "A wolf! This journey may be more dangerous than I thought. If we need to, I "
 "suppose we could rest inside a farmer's or woodcutter's fence."
 msgstr ""
-"Vlci! Tato cesta může být nebezpečnější, než jsem si myslela. Dobře, můžeme "
-"se schovat uvnitř pevných ohrad, které postavili farmáři a dřevorubci. "
-"Divoká zvířata se určitě nedostanou dovnitř."
+"Vlk! Tato cesta může být nebezpečnější, než jsem si myslela. Mám za to, že "
+"pokud bude třeba, tak se můžeme schovat uvnitř ohrad, které postavili "
+"farmáři a dřevorubci."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:366
@@ -476,22 +474,20 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:446
-#, fuzzy
-#| msgid "Right-click on a grave adjacent to your leader to raise a unit."
 msgid "Right-click adjacent to your leader to summon the bat."
 msgstr ""
-"Kliknutím pravím tlačítkem na hrob vedle tvého velitele můžeš vyvolat "
-"jednotku."
+"Kliknutím pravým tlačítkem na políčko vedle svého velitele můžeš vyvolat "
+"netopýra."
 
 #. [set_menu_item]: id=summon_bat
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:454
 msgid "Summon the Bat (20 gold)"
-msgstr "Přivolat netopýra (20 zlatých)"
+msgstr "Vyvolat netopýra (20 zlatých)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:494
 msgid "You don't have enough gold to summon the bat."
-msgstr "Nemáš dostatek zlatých k přivolání netopýra."
+msgstr "Nemáš dostatek zlatých k vyvolání netopýra."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:576
@@ -2630,7 +2626,7 @@ msgid ""
 "Heart Mountains."
 msgstr ""
 "Myslel jsem si, že to řekneš. Musíme překročit Velkou řeku a jít na sever, "
-"do Heart Mountains."
+"do Srdcových hor."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:178
