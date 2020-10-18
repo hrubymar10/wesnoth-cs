@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-12 22:04+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-10-17 12:04+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
@@ -174,16 +175,6 @@ msgstr "Pouštní lid"
 #. [multiplayer_side]: id=Dunefolk, type=random
 #: data/multiplayer/factions/dunefolk-aoh.cfg:14
 #: data/multiplayer/factions/dunefolk-default.cfg:14
-#, fuzzy
-#| msgid ""
-#| "The <bold>text='Khalifate'</bold> are a faction of humans from the "
-#| "deserts and hills of the southern lands. Lacking magic users, the "
-#| "Khalifate instead specialize in using terrain features to coordinate "
-#| "attacks at dawn or dusk. Their ranks boast lawful and liminal units, "
-#| "healers, high-accuracy melee fighters, and fearsome horse-mounted "
-#| "archers. While Khalifate units tend to be more expensive than those of "
-#| "the Loyalist faction, they make up for this with high mobility — "
-#| "especially on hilly terrains."
 msgid ""
 "The <bold>text='Dunefolk'</bold> are a faction of humans from the deserts "
 "and hills of the southern lands. The Dunefolk specialize in using terrain "
@@ -193,13 +184,13 @@ msgid ""
 "of the Loyalist faction, they make up for this with high mobility — "
 "especially on hilly terrains."
 msgstr ""
-"<bold>Chalífát</bold> jsou rasou lidí z pouští a hor na jihu. V jejich "
-"řadách nejsou žádní mágové, a tak se bojovníci Chalífátu místo magie "
-"zaměřují na využití různorodosti krajiny k útokům za rozbřesku nebo za "
-"soumraku. Chloubou jejich armády jsou zákonné jednotky určené k dobývání, "
-"léčitelé, velmi přesní bojovníci a obávaní lučištníci na koních. Ač jsou "
-"jednotky Chalífátu průměrně dražší než jednotky z frakce Zákonných, bohatě "
-"to vykupují lepší pohyblivostí, obzvlášť v hornatém terénu."
+"<bold>Pouštní lidé</bold> jsou frakcí lidí z pouští a hor na jihu. Pouštní "
+"lidé se specializují na využívání různorodosti krajiny ke koordinaci útoků "
+"za rozbřesku nebo za soumraku. Jejich řady se mohou pochlubit zákonnými a "
+"šerými jednotkami, léčiteli, vysoce přesnými bojovníky na blízko a obávanými "
+"lučištníky na koních. Ač jsou jednotky pouštních lidí průměrně dražší než "
+"jednotky z frakce Věrných, vynahrazují to lepší pohyblivostí, obzvlášť v "
+"hornatém terénu."
 
 #. [multiplayer_side]: id=Knalgan Alliance, type=random
 #: data/multiplayer/factions/knalgans-aoh.cfg:4
@@ -1421,10 +1412,8 @@ msgstr ""
 
 #. [multiplayer]: id=multiplayer_Hellhole
 #: data/multiplayer/scenarios/2p_Hellhole.cfg:7
-#, fuzzy
-#| msgid "2p — Hamlets"
 msgid "2p — Hellhole"
-msgstr "2p — Vesnice"
+msgstr "2p — Pekelná díra"
 
 #. [multiplayer]: id=multiplayer_Hellhole
 #: data/multiplayer/scenarios/2p_Hellhole.cfg:8
@@ -2083,6 +2072,11 @@ msgid ""
 "perilous and unstable, is nonetheless rich thanks to numerous foundries "
 "using the heat of volcanoes and hot springs to fuel their forges."
 msgstr ""
+"Západní část Srdcových hor vytváří zemi pozoruhodných kontrastů – vroucí "
+"sopečné kotle tkající temně modré řeky, jež se proplétají mezi špičatými "
+"zasněženými horami posetými zelenými poli. Ačkoli je tato země někdy "
+"nebezpečná a nestabilní, je přesto bohatá díky mnoha slévárnám, které "
+"využívají tepla sopek a horkých pramenů k zásobování svých kováren."
 
 #. [multiplayer]: id=multiplayer_4p_Hamlets
 #: data/multiplayer/scenarios/4p_Hamlets.cfg:5
