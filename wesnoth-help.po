@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 01:28-0300\n"
-"PO-Revision-Date: 2020-10-18 21:04+0200\n"
+"PO-Revision-Date: 2020-10-20 23:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6529,7 +6529,7 @@ msgstr "Dunefolské ženy"
 #. [race]: id=dunefolk
 #: data/core/units.cfg:211
 msgid "race+plural^Dunefolk"
-msgstr "Dunefolkové"
+msgstr "Pouštní lidé"
 
 #. [race]: id=dunefolk
 #: data/core/units.cfg:213
