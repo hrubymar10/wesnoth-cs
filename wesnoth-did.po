@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-10 17:51 UTC\n"
-"PO-Revision-Date: 2020-10-18 21:41+0200\n"
+"PO-Revision-Date: 2020-10-20 22:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -579,7 +579,7 @@ msgid ""
 "We should all be glad to see you gone, necromancer. I detest having fought "
 "by your side."
 msgstr ""
-"Všichni bychom měli být rádi, až zmizíš, nekromante. Příčí se mi, že jsem "
+"Všichni bychom měli být rádi, až vyfičíš, nekromante. Příčí se mi, že jsem "
 "bojoval po tvém boku."
 
 #. [message]: speaker=Malin Keshar
@@ -655,7 +655,7 @@ msgid ""
 "madness!"
 msgstr ""
 "Anebo úplně vyřídit skřety a zajistit, aby už nikdy znovu nezaútočili. "
-"Určitě nejsem jediný kdo vidí, že to, co Drognan říká, je šílené!"
+"Určitě nejsem jediný, kdo vidí, že to, co Drognan říká, je šílené!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:535
@@ -681,7 +681,7 @@ msgid ""
 "Be reasonable? I am the only one who sees reason here. If no one will help "
 "me, I will go by myself."
 msgstr ""
-"Buď rozumný? Jsem jediný, kdo tu má rozum. Když mi nikdo nepomůže, půjdu sám."
+"Být rozumný? Jsem jediný, kdo tu má rozum. Když mi nikdo nepomůže, půjdu sám."
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:565
@@ -1043,7 +1043,7 @@ msgstr "Ne, já tě zabít!"
 #. [message]: speaker=YOgre1
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:329
 msgid "No, me kill— I see human!"
-msgstr "Ne, já tě— Já vidět člověka!"
+msgstr "Ne, já tě – Já vidět člověka!"
 
 #. [message]: speaker=YOgre2
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:334
@@ -1089,7 +1089,7 @@ msgid ""
 "blood and innards and dispose of them."
 msgstr ""
 "Dobře... Už dříve jsem ti ukázal, jak pozvednout kostlivce, ale snad bude "
-"nejlépe, když to... projdeme znovu. Na rozdíl od požíračů mrtvých, nemrtví "
+"nejlépe, když... to projdeme znovu. Na rozdíl od požíračů mrtvých, nemrtví "
 "tvorové nepotřebují maso a krev. Nejdřív tedy vypusť krev a zbav se "
 "vnitřností."
 
