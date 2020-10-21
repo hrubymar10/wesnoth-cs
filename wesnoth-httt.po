@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-18 21:08+0200\n"
+"PO-Revision-Date: 2020-10-21 23:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:9
@@ -6146,8 +6145,8 @@ msgid ""
 "And I am the Princess, Li’sar, the only daughter of the late King Garard II "
 "and Queen Asheviere. I, too, am an heir to the throne of Wesnoth!"
 msgstr ""
-"A já jsem princezna Lisar, jediná dcera posledního krále Gararda II. a "
-"královny Ašvíry. I já jsem dědičkou Wesnothského trůnu!"
+"A já jsem princezna Lisar, jediná dcera posledního krále Gararda II. "
+"a královny Ašvíry. I já jsem dědičkou wesnothského trůnu!"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:359
