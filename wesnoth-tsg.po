@@ -18,14 +18,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-23 18:58+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-10-23 20:47+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:9
@@ -3893,7 +3894,7 @@ msgstr ""
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:292
 msgid "Those are brave words that I would not have expected from you, Afalas."
-msgstr ""
+msgstr "Taková statečná slova bych od tebe nečekal, Afalasi."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:296
@@ -3904,26 +3905,26 @@ msgid ""
 "think us criminals and outlaws, but we are still human and we still know "
 "loyalty and gratitude."
 msgstr ""
+"Všechno jednou tak jako tak končí. Škoda, rád bych ještě jednou viděl svůj "
+"domov ve Westinu. Jsem ale příliš unavený. Unavený ze spěchu, unavený útěkem "
+"před nemrtvými, kteří zkazili a ovládli mé bratry. Můžeš si myslet, že jsme "
+"zločinci a psanci. Ale stále jsme lidé a stále známe loajalitu a vděčnost."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:300
 msgid "You will not change our minds, Deoran. Go!"
-msgstr ""
+msgstr "Nepřemluvíš mě. Jdi, Deorane!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:304
-#, fuzzy
-#| msgid ""
-#| "Minister Hylas, ride with me to Westin — you must summon the Council of "
-#| "Westin while I prepare the city’s defenses. We shall return as soon as we "
-#| "can in force and relieve you."
 msgid ""
 "I... I understand. Minister Hylas, come ride with me to Westin. You must "
 "summon the city council while I prepare the defenses. Sir Gerrick, Afalas, "
 "we shall return as soon as we can and relieve you."
 msgstr ""
-"Hylasi, pojeď se mnou do Westinu — musíš svolat westinskou radu a já "
-"připravím obranu města. Vrátíme se s posilami co nejdříve a pomůžeme vám."
+"Já... já chápu. Hylasi, pojeď se mnou do Westinu. Musíš svolat westinskou "
+"radu, zatímco budu připravovat obranu. Sire Gerricku, Afalasi, vrátíme se co "
+"nejdříve s posilami a vyprostíme vás."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:308
@@ -3936,33 +3937,21 @@ msgstr ""
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:312
 msgid "The light shines upon your souls, brave warriors."
-msgstr ""
+msgstr "Ať Světlo pronikne do vašich duší, stateční válečníci."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:319
-#, fuzzy
-#| msgid ""
-#| "Your name will be sounded in the roll of heroes, and you will be avenged. "
-#| "Thank you, my friend."
 msgid "We will never forget your sacrifice here. Thank you, my friend."
-msgstr ""
-"Tvé jméno bude zapsáno na listinu hrdinů a budeš pomstěn. Děkuji ti, můj "
-"příteli."
+msgstr "Nikdy nezapomenu na tvou oběť. Děkuji ti, příteli."
 
 #. [message]: speaker=Illan
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:353
-#, fuzzy
-#| msgid ""
-#| "We are yours to command, Sir Gerrick. Our men are not the great warriors "
-#| "that you and Deoran are, but we will hold our lines staunchly, until the "
-#| "bitter end."
 msgid ""
 "We are yours to command, Sir Gerrick. We will hold back the undead until the "
 "bitter end!"
 msgstr ""
-"Jsme vám ke službám, Sire Gerricku. Naši vojáci nejsou takoví skvělí "
-"válečníci jako Vy a Deoran, nicméně budeme neochvějně držet naše pozice až "
-"do hořkého konce."
+"Jsme vám ke službám, sire Gerricku. Budeme neochvějně zadržovat nemrtvé do "
+"hořkého konce!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:358
@@ -3995,14 +3984,8 @@ msgstr ""
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:458
-#, fuzzy
-#| msgid ""
-#| "I only hope we have bought Deoran enough time to secure Westin for the "
-#| "onslaught!"
 msgid "I only hope... we have bought enough time... for Deoran..."
-msgstr ""
-"Doufám jen, že jsme Deoranovi poskytli dostatek času k zabezpečení Westinu "
-"před útokem!"
+msgstr "Jen doufám... že jsme Deoranovi... poskytli dost času..."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:466
@@ -4011,6 +3994,8 @@ msgid ""
 "through your cities and raze them to the ground! March onward, my skeletons! "
 "We go to destroy Westin!"
 msgstr ""
+"Otravní človíčci! Jen jste oddálili nevyhnutelné. Provalíme se vašimi městy "
+"a srovnáme je se zemí! Vpřed, kostlivci! Jdeme zničit Westin!"
 
 #. [scenario]: id=08a_Vengeance
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:5
@@ -4263,7 +4248,7 @@ msgid ""
 msgstr ""
 "Jako bychom se mohli spokojit s něčím takovým! I kdyby to, co říkáš, byla "
 "pravda, nemůže smrt několika štěnic v lese vykoupit ztrátu jednoho z našich "
-"nejvýznamnějších vůdců."
+"nejvýznamnějších vůdců!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:497
@@ -4357,67 +4342,60 @@ msgid ""
 "his bravery and courage for a long time and always aspired to be a warrior "
 "as mighty as he was. Today, we will defeat the undead and avenge him!"
 msgstr ""
+"Gerrick byl odmalička mým opatrovníkem a mentorem. Obdivoval jsem jeho "
+"statečnost a odvahu po mnoho let. A vždy jsem toužil být tak mocným "
+"válečníkem, jako je on. Dnes porazíme nemrtvé a pomstíme ho!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:463
-#, fuzzy
-#| msgid ""
-#| "But in the narrow window his valiant stand gave us, we have roused some "
-#| "of the provincial guard and reinforced our defenses!"
 msgid ""
 "He was a noble man to have sacrificed himself for us. I wish that it did not "
 "have to be so, but in the narrow window Gerrick’s valiant stand gave us, we "
 "have gathered some of the provincial guard and reinforced our defenses!"
 msgstr ""
-"Ale za ten krátký čas, který nám jeho hrdinný boj poskytl, jsme dokázali "
-"zburcovat část provinční stráže!"
+"Byl to vznešený muž a obětoval se za nás. Přál bych si, aby to tak nebylo. "
+"Ale za ten krátký čas, který nám Gerrickův hrdinný odpor poskytl, jsme "
+"dokázali zburcovat část provinční stráže a posílit naši obranu!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:478
-#, fuzzy
-#| msgid ""
-#| "But in the narrow window his valiant stand gave us, we have roused the "
-#| "whole provincial guard and reinforced our defenses!"
 msgid ""
 "He was a noble man to have sacrificed himself for us. I wish that it did not "
 "have to be so, but in the narrow window Gerrick’s valiant stand gave us, we "
 "have gathered the whole provincial guard and reinforced our defenses!"
 msgstr ""
-"Ale za ten krátký čas, který nám jeho hrdinný boj poskytl, jsme dokázali "
-"zburcovat celou provinční stráž!"
+"Byl to vznešený muž a obětoval se za nás. Přál bych si, aby to tak nebylo. "
+"Ale za ten krátký čas, který nám Gerrickův hrdinný odpor poskytl, jsme "
+"dokázali zburcovat všechnu provinční stráž a posílit naši obranu!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:494
-#, fuzzy
-#| msgid ""
-#| "But in the narrow window his valiant stand gave us, we have roused the "
-#| "whole provincial guard and fully embattled the city!"
 msgid ""
 "He was a noble man to have sacrificed himself for us. I wish that it did not "
 "have to be so, but in the narrow window Gerrick’s valiant stand gave us, we "
 "have gathered the whole provincial guard and fully embattled the city!"
 msgstr ""
-"Ale za ten krátký čas, který nám jeho hrdinný boj poskytl, jsme dokázali "
-"zburcovat celou provinční stráž!"
+"Byl to vznešený muž a obětoval se za nás. Přál bych si, aby to tak nebylo. "
+"Ale za ten krátký čas, který nám Gerrickův hrdinný odpor poskytl, jsme "
+"dokázali zburcovat všechnu provinční stráž a plně připravit město k bitvě!"
 
 #. [message]: speaker=Nilaf
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:504
-#, fuzzy
-#| msgid "Indeed, Lord, we are ready to defend our homes!"
 msgid ""
 "Indeed, Sir Deoran, we have come to defend Westin from the undead menace!"
-msgstr "Pane, jsme připraveni bránit své domovy!"
+msgstr ""
+"Vskutku, pane Deorane, přišli jsme bránit Westin před nemrtvou hrozbou!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:509
 msgid "Minister Hylas, what word is there from the allies of the Council?"
-msgstr ""
+msgstr "Purkmistře Hylasi, víme něco o spojencích rady?"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:520
 msgid ""
 "The Council of Westin has summoned some aid from our allies to the north!"
-msgstr ""
+msgstr "Westinská rada přivolala od spojenců na severu nějakou pomoc!"
 
 #. [then]
 #. [else]
@@ -4445,7 +4423,7 @@ msgstr ""
 msgid ""
 "The Council of Westin has summoned many of our brethren from our allies to "
 "the north!"
-msgstr ""
+msgstr "Westinská rada přivolala od spojenců na severu mnoho našich bratří!"
 
 #. [message]: speaker=Minister Mefel
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:545
@@ -4580,13 +4558,15 @@ msgstr "Purkmistr Alanafel"
 #. [message]: speaker=Mal Tera
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:712
 msgid "The shadows... they beckon..."
-msgstr ""
+msgstr "Stíny... vábí..."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:723
 msgid ""
 "So, you have defeated my lackey. A great accomplishment, for ones so pitiful."
 msgstr ""
+"Takže jsi porazil mého lokaje. Pro takového ubožáka jako jsi ty, je to jistě "
+"velký úspěch."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:727
@@ -4597,6 +4577,12 @@ msgid ""
 "sorceries, I feel nothing but pity for the shambling shell you have become. "
 "Perhaps I can take solace in putting you out of your misery."
 msgstr ""
+"Skutečně žalostná je situace, do které jsi se dostal. Ty, kdysi moudrý elfí "
+"mudrc. Zabředl jsi do černého umění a jsi celý pokroucený a zkažený jeho "
+"používáním. I když jsi se svými nemrtvými pomocí zvrácených kouzel zpustošil "
+"naši zemi, necítím k tobě nic jiného než lítost, když vidím tu vyprázdněnou "
+"trosku, kterou ses stal. Možná ti poskytnu útěchu, až tě tvé bídné existence "
+"zbavím."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:731
@@ -4605,6 +4591,9 @@ msgid ""
 "boy. Your foolish babble means nothing in the face of my insurmountable "
 "power! Rise, my warriors!"
 msgstr ""
+"Jak málo chápeš. Na tak neznalého chlapce se nehodí taková pompézní slova. "
+"Tvoje pošetilé blábolení tváří v tvář mé nepřekonatelné moci neznamená nici! "
+"Povstaňte, moji válečníci!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:756
@@ -4612,6 +4601,8 @@ msgid ""
 "You dare strike me?! Puny humans, I am darkness incarnate! I am power beyond "
 "your comprehension!"
 msgstr ""
+"Odvažuješ se mě udeřit?! Vždyť já jsem ztělesněná temnota, človíčci! Jsem "
+"moc, která je nad vaše chápání!"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:761
@@ -4619,6 +4610,8 @@ msgid ""
 "You are merely a servant of the power that corrupted you, lich! You have not "
 "mastered the darkness; it, instead, has enslaved you."
 msgstr ""
+"Jsi jen služebníkem moci, která tě zkazila, lichi! Neovládl jsi temnotu, ona "
+"tě zotročila."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:766
@@ -4626,6 +4619,8 @@ msgid ""
 "Fools! Imbeciles! You humans are a worthless blight upon this wretched "
 "world! I must purge you all— I must destroy all who live... I must..."
 msgstr ""
+"Blázni! Pitomci! Vy lidé jste bezcenná plíseň na povrchu tohoto ubohého "
+"světa! Musím vás všechny očistit... musím zničit všechno živé... musím..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:771
@@ -4633,6 +4628,8 @@ msgid ""
 "These worthless humans just bested you and your armies. Your time has come, "
 "once wise sage of the elves."
 msgstr ""
+"Tato bezcenná plíseň tebe i tvé jednotky právě dostala na lopatky. Tvůj čas "
+"se nachýlil, elfí mudrci, cos kdysi moudrý byl."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:777
