@@ -20,14 +20,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-14 14:55+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-10-24 13:26+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -2218,6 +2219,15 @@ msgid ""
 "assassinating key units, or pincering an enemy formation into a "
 "disadvantageous position."
 msgstr ""
+"Rváči, kteří se narodili a vyrůstali na otevřeném písku, jsou zvyklí na "
+"drsné, vyprahlé pouštní vedro a nehostinný terén. V porovnání s jinými "
+"pouštními lidmi jsou tito kočovníci na nestabilním povrchu dun až "
+"nepochopitelně pohybliví. To jim umožňuje hlídat stáda a snadno lovit v "
+"pustinách. Při bitevním nasazením jim stejná pohyblivost umožňuje "
+"proklouznout nepřátelskými liniemi a vyhnout se všemožným útokům. Tyto "
+"dovednosti činí ze rváčů efektivní sabotéry, kteří jsou schopni odříznout "
+"únikové cesty a zásobovací linky, zabít klíčové jednotky nebo okleštit "
+"nepřátelské formace v nevýhodných pozicích."
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk
 #: data/core/units/dunefolk/Sky_Hunter.cfg:13
@@ -2386,7 +2396,7 @@ msgstr ""
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:8
 msgid "Dune Sunderer"
-msgstr ""
+msgstr "Pouštní úderný jezdec"
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:20
@@ -2401,6 +2411,15 @@ msgid ""
 "enough skill at archery to weaken enemy forces or pick off fleeing "
 "stragglers."
 msgstr ""
+"Mezi mnoha různými typy pouštních jezdců lze najít takové, kteří nejvíce "
+"holdují zuřivému boji přímo v ohnisku bitvy. Tito rozbíječi šiků, se svými "
+"palcáty pro boj na blízko, jsou statní a robustní válečníci. Mají náturu i "
+"dovednosti přežít mnoho potyček. Přestože takoví jezdci nepatří mezi zvlášť "
+"tvůrčí nebo speciálně vycvičené válečníky, rozhodně nejsou neužiteční. "
+"Dokonce i malá skupina úderných jezdců je dostatečně silná, aby hrubou silou "
+"prolomila většinu nepřátelských linií. V situaci, která to vyžaduje, "
+"disponují tito jezdci také dostatečnými lučištnickými dovednostmi, s pomocí "
+"kterých dokáží oslabovat nepřátelské síly nebo pobíjet prchající opozdilce."
 
 # Sice originál svádí k meči, ale dalších popisů se jedná o šavli.
 #. [unit_type]: id=Dune Swordsman, race=dunefolk
@@ -2448,10 +2467,8 @@ msgstr "odsek šavlí"
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 #: data/core/units/dunefolk/Warmaster.cfg:8
-#, fuzzy
-#| msgid "Drake Blademaster"
 msgid "Dune Warmaster"
-msgstr "Drakonidský mistr meče"
+msgstr "Pouštní válečný vůdce"
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 #: data/core/units/dunefolk/Warmaster.cfg:24
@@ -2466,6 +2483,16 @@ msgid ""
 "rather than formal training. Said to be a veteran of a thousand battles, a "
 "warmaster is an expert leader that should never be underestimated."
 msgstr ""
+"Na rozdíl od ostatních velitelů pouštních lidí se mnoho vysoce postavených "
+"generálů silně soustředí na povzbuzení a udržení vysoké morálky svých vojsk. "
+"Váleční vůdci se často nacházejí v čelech bitevních šiků, bojující a "
+"krvácející po boku svých vojáků. I když tito velitelé obvykle nechávají "
+"jemnější strategické detaily na starost svým nižším kapitánům, jsou jistě "
+"také schopními taktiky. Mnoho bitev bylo vyhráno vynalézavým nebo "
+"překvapivým manévrem, který byl často spíše kreativním vedlejším produktem "
+"bojové zkušenosti než konvenčního vojenského výcviku. S pověstí veterána "
+"tisíců bitev je válečný vůdce odborníkem, který by nikdy neměl být "
+"podceňován."
 
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
 #: data/core/units/dunefolk/Wayfarer.cfg:8
@@ -2532,10 +2559,8 @@ msgstr ""
 
 #. [unit_type]: id=Wyvern Rider, race=monster, description=
 #: data/core/units/dunefolk/Wyvern_Rider.cfg:4
-#, fuzzy
-#| msgid "Gryphon Rider"
 msgid "Wyvern Rider"
-msgstr "Jezdec na gryfonovi"
+msgstr "Jezdec na wyverně"
 
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 #: data/core/units/dwarves/Arcanister.cfg:4
@@ -5477,10 +5502,8 @@ msgstr ""
 
 #. [unit_type]: id=Giant Ant, race=monster
 #: data/core/units/monsters/Ant.cfg:4
-#, fuzzy
-#| msgid "Giant Rat"
 msgid "Giant Ant"
-msgstr "Obrovská krysa"
+msgstr "Obří mravenec"
 
 #. [unit_type]: id=Giant Ant, race=monster
 #: data/core/units/monsters/Ant.cfg:19
@@ -5489,11 +5512,14 @@ msgid ""
 "earth to the tops of tall mountains. Though normally not hostile, they can "
 "bite at close range."
 msgstr ""
+"Obří mravenci se běžně vyskytují v téměř jakémkoli prostředí, od jeskyní "
+"hluboko pod zemí až po vrcholky velehor. I když obvykle nejsou nepřátelští, "
+"při přiblížení mohou kousat."
 
 #. [unit_type]: id=Cave Bear, race=monster
 #: data/core/units/monsters/Bear.cfg:4
 msgid "Cave Bear"
-msgstr ""
+msgstr "Jeskynní medvěd"
 
 #. [unit_type]: id=Cave Bear, race=monster
 #: data/core/units/monsters/Bear.cfg:20
@@ -5503,11 +5529,16 @@ msgid ""
 "hearing, but poor eyesight.  When a rival predator, or some other threat, "
 "gets too close, a bear will reliably attack."
 msgstr ""
+"Jeskynní medvědi jsou velká, mocná zvířata s ostrými drápy a velkými zuby. V "
+"důsledku přizpůsobení pobytu v temných jeskyních mají ostrý čich a sluch, "
+"ale špatný zrak. Když se konkurenční dravec nebo jiná hrozba přiblíží příliš "
+"blízko, medvěd spolehlivě zaútočí."
 
+# Nechávám Bažinný, protože Močálový nezní dobře.
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:9
 msgid "Swamp Lizard"
-msgstr ""
+msgstr "Bažinný ještěr"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:74
@@ -5519,6 +5550,11 @@ msgid ""
 "adopted a 'two legs bad' outlook and do not hesitate to avenge their "
 "ancestors."
 msgstr ""
+"Prostředí močálů je velmi živé, nicméně ne moc přátelské vůči lidem lidem či "
+"skřetům. Bažinní ještěři patří se svými silnými čelistmi a tuhou obrněnou "
+"kůží mezi nejvýznamnější nebezpečí. Navzdory svému primitivnímu vzhledu "
+"nejsou tito ještěři hloupí. Protože byli po generace loveni pro svou kůži, "
+"osvojili si nedůvěřivý náhled na „dvounožce“ a neváhají své předky mstít."
 
 #. [special_note]
 #: data/core/units/monsters/Crocodile.cfg:76
@@ -5526,16 +5562,19 @@ msgid ""
 "This unit can move unseen through swamp water, keeping most of its body "
 "submerged."
 msgstr ""
+"V močálu se tato jednotka pohybuje neviděna, udržujíc většinu svého těla "
+"ponořenou."
 
+# Zatím jen číhání, protože močálové číhání apod. je moc komplikované. Dokud se to nebude bít s jiným druhem lurk, tak bych to nechal.
 #. [hides]: id=swamp_lurk
 #: data/core/units/monsters/Crocodile.cfg:86
 msgid "swamp lurk"
-msgstr ""
+msgstr "číhání"
 
 #. [hides]: id=swamp_lurk
 #: data/core/units/monsters/Crocodile.cfg:87
 msgid "female^swamp lurk"
-msgstr ""
+msgstr "číhání"
 
 #. [hides]: id=swamp_lurk
 #: data/core/units/monsters/Crocodile.cfg:88
@@ -5546,6 +5585,11 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
+"Jednotka se dokáže ukrýt v bažině a zůstat nezpozorována svými nepřáteli.\n"
+"\n"
+"Nepřátelské jednotky nemohou tuto jednotku v bažině spatřit, dokud nejsou na "
+"sousedních polích. Nepřátelská jednotka, která ji nalezne jako první, ztrácí "
+"všechny své zbývající body pohybu."
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 #: data/core/units/monsters/Cuttle_Fish.cfg:4
