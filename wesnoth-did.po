@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-10 17:51 UTC\n"
-"PO-Revision-Date: 2020-10-20 22:50+0200\n"
+"PO-Revision-Date: 2020-10-24 08:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1429,12 +1429,12 @@ msgstr ""
 #. [side]: type=Orcish Warlord, id=Gron'r Hronk
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:62
 msgid "Gron’r Hronk"
-msgstr "Gron’r Hronk"
+msgstr "Groner Hronk"
 
 #. [side]: type=Orcish Warlord, id=K'rrlar Oban
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:90
 msgid "K’rrlar Oban"
-msgstr "K’rrlar Oban"
+msgstr "Kerrlar Oban"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Beginning_of_the_Revenge.cfg:117
@@ -1629,12 +1629,12 @@ msgstr "Borth"
 #. [side]: type=Orcish Warlord, id=P'Gareth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:109
 msgid "P’Gareth"
-msgstr "P’Gareth"
+msgstr "Pe Gareth"
 
 #. [side]: type=Orcish Warlord, id=K'Vark
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:147
 msgid "K’Vark"
-msgstr "K’Vark"
+msgstr "Kevark"
 
 #. [label]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:175
@@ -1723,7 +1723,7 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:379
 msgid "By ‘you’, you mean... on my own?"
-msgstr "Tím ‚ty‘ myslíš... mě samotného?"
+msgstr "Tím „ty“ myslíš... mě samotného?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:384
