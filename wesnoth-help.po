@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 01:28-0300\n"
-"PO-Revision-Date: 2020-10-20 23:25+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-10-24 13:21+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -1608,7 +1609,6 @@ msgstr "Úvod"
 msgid "Gameplay"
 msgstr "Pravidla hry"
 
-#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:29 data/core/help.cfg:455
@@ -4674,8 +4674,8 @@ msgstr ""
 "Jednotka se dokáže ukrýt v hluboké vodě a zůstat nezpozorována svými "
 "nepřáteli.\n"
 "\n"
-"Nepřátelské jednotky nemohou tuto jednotku spatřit v hluboké vodě, pouze "
-"jsou-li na sousedních polích. Nepřátelská jednotka, která ji nalezne jako "
+"Nepřátelské jednotky nemohou tuto jednotku v hluboké vodě spatřit, dokud "
+"nejsou na sousedních polích. Nepřátelská jednotka, která ji nalezne jako "
 "první, ztrácí všechny své zbývající body pohybu."
 
 #. [dummy]: id=feeding
