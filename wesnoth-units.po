@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-10 17:51 UTC\n"
-"PO-Revision-Date: 2020-10-14 21:33+0200\n"
+"PO-Revision-Date: 2020-10-25 21:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1963,7 +1963,7 @@ msgstr ""
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:4
 msgid "Dune Sunderer"
-msgstr ""
+msgstr "Pouštní úderný jezdec"
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:16
@@ -2042,10 +2042,8 @@ msgstr ""
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 #: data/core/units/dunefolk/Warmaster.cfg:4
-#, fuzzy
-#| msgid "Drake Blademaster"
 msgid "Dune Warmaster"
-msgstr "Drakonidský mistr meče"
+msgstr "Pouštní válečný vůdce"
 
 #. [unit_type]: id=Dune Warmaster, race=dunefolk
 #: data/core/units/dunefolk/Warmaster.cfg:26
