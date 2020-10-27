@@ -18,15 +18,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-22 00:20+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-10-27 23:38+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:9
@@ -4596,7 +4595,7 @@ msgstr "Ro Sothiane, jsi to ty?"
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:392
 msgid "Not now, Father. I’m a little busy at the moment."
-msgstr "Teď nemám čas, Otče. Jsem poněkud zaneprázdněn."
+msgstr "Teď nemám čas, otče. Jsem poněkud zaneprázdněn."
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:403
@@ -4681,7 +4680,7 @@ msgid ""
 "Take your begging and shove it, Father! We don’t help no-one. Not even you "
 "and <i>especially</i> not any dwarf!"
 msgstr ""
-"Jdi se s tím tvým prosikáním vycpat, Otče! Nepomáháme nikomu, ani tobě, a "
+"Jdi se s tím tvým prosikáním vycpat, otče! Nepomáháme nikomu, ani tobě, a "
 "<i>obzvlášť</i> ne nějakému trpaslíkovi!"
 
 #. [message]: speaker=Camerin
@@ -4779,7 +4778,7 @@ msgid ""
 "Give it up, father, he isn’t answering. I am afraid we may have to use um... "
 "more forceful means to convince him."
 msgstr ""
-"Vzdej to, Otče. Neodpoví ti. Budeme muset použít poněkud drsnější "
+"Vzdej to, otče. Neodpoví ti. Budeme muset použít poněkud drsnější "
 "přesvědčovací metody."
 
 #. [message]: speaker=Father Morvin
@@ -7151,7 +7150,7 @@ msgid ""
 "Sister Thera. They simply sighed and shook their heads. It was too late to "
 "save Hidel. In a broken voice Eryssa addressed him:"
 msgstr ""
-"Eryssa skrz slzy prosebně pohlédla na Otce Morvina a Sestru Theru, ti ale "
+"Eryssa skrz slzy prosebně pohlédla na otce Morvina a sestru Theru, ti ale "
 "jen s povzdechem svěsili hlavy. Pro Hidela již bylo pozdě na cokoliv. Eryssa "
 "mu řekla roztřeseným hlasem:"
 
@@ -8362,8 +8361,8 @@ msgid ""
 "lasted for a full five days. At that time Tallin and Eryssa were duly "
 "married by Father Morvin and Sister Thera."
 msgstr ""
-"Nadšení zástupů nebralo konce a následující oslava trvala pět dní. Poté Otec "
-"Morvin a Sestra Thera Tallina a Eryssu řádně sezdali."
+"Nadšení zástupů nebralo konce a následující oslava trvala pět dní. Poté otec "
+"Morvin a sestra Thera Tallina a Eryssu řádně sezdali."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:406
