@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-24 13:26+0200\n"
+"PO-Revision-Date: 2020-10-27 11:26+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6122,10 +6122,11 @@ msgstr ""
 "i pochybující nepouštěli příliš daleko do hor, o nichž se říká, že je "
 "yettiové obývají."
 
+# Fakt jsem nad tím hodně přemýšlel. Prostě to má odrážet ten boj s čepelemi (břity), musí to nějak relativně normálně znít a také to musí obrážet, že je to zatím ‚malé pivo“. Jinak otrocky přeloženo by to bylo tesakotesák.
 #. [unit_type]: id=Naga Dirkfang, race=naga
 #: data/core/units/nagas/Dirkfang.cfg:4
 msgid "Naga Dirkfang"
-msgstr ""
+msgstr "Mladá nága ostrobřit"
 
 #. [unit_type]: id=Naga Dirkfang, race=naga
 #: data/core/units/nagas/Dirkfang.cfg:18
@@ -6139,6 +6140,15 @@ msgid ""
 "by the northern Naga warriors, these fighters are nonetheless effective when "
 "it comes time to engage in warfare."
 msgstr ""
+"Mladé nágy z jižních vod, na rozdíl od svých severních druhů, jejichž bojový "
+"styl je silně zaměřený na boj zblízka, dávají přednost tomu, aby svou "
+"kořist, než se k ní přiblíží, oslabily z dálky. Malá vrhací čakri mohou být "
+"nošena na zápěstích nebo na opasku, aniž by překážela. I když jakékoli "
+"závěrečné zabití musí být pod vodou obvykle provedeno na krátkou vzdálenost, "
+"tak tento smíšený bojový styl často umožní jižním nágám přežít dostatečně "
+"dlouho na to, aby se učily a zlepšovaly se. Severními válečníky nág jsou "
+"tito bojovníci někdy nahlíženi jako zbabělci. Nicméně jsou efektivní, když "
+"přijde čas zapojit se do války."
 
 #. [attack]: type=blade
 #: data/core/units/nagas/Dirkfang.cfg:38
@@ -6148,10 +6158,8 @@ msgstr "čakri"
 # nagini - ženský rod
 #. [female]
 #: data/core/units/nagas/Dirkfang.cfg:94
-#, fuzzy
-#| msgid "Nagini Fighter"
 msgid "Nagini Dirkfang"
-msgstr "Nagini bojovnice"
+msgstr "Mladá nagini ostrobřitka"
 
 #. [unit_type]: id=Naga Fighter, race=naga
 #: data/core/units/nagas/Fighter.cfg:4
@@ -6221,10 +6229,8 @@ msgstr ""
 
 #. [unit_type]: id=Naga Ophidian, race=naga
 #: data/core/units/nagas/Ophidian.cfg:4
-#, fuzzy
-#| msgid "Naga Myrmidon"
 msgid "Naga Ophidian"
-msgstr "Myrmidoňan"
+msgstr "Ofidián"
 
 #. [unit_type]: id=Naga Ophidian, race=naga
 #: data/core/units/nagas/Ophidian.cfg:18
@@ -6240,7 +6246,19 @@ msgid ""
 "a group, these nagas encourage a healthy amount of competition among the "
 "surface factions, ensuring their services are valued by one tribe or another."
 msgstr ""
+"Zkušení válečníci jižních nág jsou často zaměstnávani jako žoldáci. Obvykle "
+"si je pro kontrolu klíčových vodních cest v blízkosti pobřeží najímají "
+"jejich sousedé pouštní lidé. Kvůli neustálým střetům s nepřátelskými jezdci "
+"odložili ofidiáni prstencové čepele svého mládí a pozvedli průrazné luky. "
+"Přestože se svými bohatými zaměstnavateli udržují přátelské vztahy, neměla "
+"by být tato přívětivost zaměňována s loajalitou. Neboť ofidiáni jsou známí "
+"tím, že na začátku každé námořní sezóny, kdy je poptávka po ochraně lodního "
+"provozu nejvyšší, se nechají snadno přetáhnout do služeb soupeřící frakce "
+"městských států. Společným zájmem těchto nág je, aby existovalo mezi "
+"‚suchozemskými“ frakcemi zdravé množství konkurence a bylo tak zajištěno, že "
+"si různé kmeny či klany budou jejich služeb považovat."
 
+# Tohle by chtělo ještě vylepšit (konkretizovat). Možnosti: kukri/bichuwa/kirpan/karambit. Všechno to jsou neceremoniální zakřivené zbraně „indického“ okruhu, délky tesáku.
 #. [attack]: type=blade
 #: data/core/units/nagas/Ophidian.cfg:28 data/core/units/nagas/Sicarius.cfg:30
 msgid "curved blade"
@@ -6248,10 +6266,8 @@ msgstr "zakřivená čepel"
 
 #. [female]
 #: data/core/units/nagas/Ophidian.cfg:88
-#, fuzzy
-#| msgid "Nagini Myrmidon"
 msgid "Nagini Ophidian"
-msgstr "Myrmidoňanka"
+msgstr "Ofidiánka"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga
 #: data/core/units/nagas/Ringcaster.cfg:4
