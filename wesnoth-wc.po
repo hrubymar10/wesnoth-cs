@@ -2209,12 +2209,12 @@ msgstr "Nastavení mapy"
 #. [lua]: _G.wct_map_generator
 #: data/campaigns/World_Conquest/lua/map/settings/settings_dialog.lua:68
 msgid " scenario: "
-msgstr "scénář:"
+msgstr " scénář:"
 
 #. [lua]: _G.wct_map_generator
 #: data/campaigns/World_Conquest/lua/map/settings/settings_dialog.lua:81
 msgid " map: "
-msgstr "mapa:"
+msgstr " mapa:"
 
 #: data/campaigns/World_Conquest/lua/optional_mechanics/pick_advance.lua:10
 msgid "Preset Advancement"
