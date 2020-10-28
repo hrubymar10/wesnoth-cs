@@ -18,15 +18,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-17 11:23+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-10-28 07:36+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:44
@@ -3128,7 +3127,7 @@ msgid ""
 "have undesirable effects, some temporary, some permanent!"
 msgstr ""
 "Jistě mám. Ale pro uživatele představuje riziko. Je udělán z očí mocného "
-"nemrtvého liche. Udělá tě neviditelným, ale má také nežádoucí účinky, "
+"nemrtvého licha. Udělá tě neviditelným, ale má také nežádoucí účinky, "
 "některé dočasné, některé permanentní!"
 
 #. [part]
@@ -3158,11 +3157,11 @@ msgid ""
 msgstr ""
 "Tvá fyzická síla poklesne, naproti tomu budeš schopen užívat magii snadněji "
 "a účinněji. Kleodil ti to předvede. Ale skutečné nebezpečí spočívá v tom, že "
-"se v tvých žilách bude kradmo rozlézat zlá přirozenost liche. Bude třeba "
+"se v tvých žilách bude kradmo rozlézat zlá přirozenost licha. Bude třeba "
 "proti tomuto zlu v sobě bojovat a ujařmit ho, jinak by ses mohl pomalu "
-"proměnit v nižšího demiliche. Proto je třeba užít jen malé množství lektvaru "
+"proměnit v nižšího demilicha. Proto je třeba užít jen malé množství lektvaru "
 "a udělat svou práci rychle. Budeš otálet a prohraješ, užiješ příliš mnoho a "
-"staneš se podobným lichi."
+"staneš se podobným lichovi."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:227

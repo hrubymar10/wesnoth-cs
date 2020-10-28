@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-27 23:38+0100\n"
+"PO-Revision-Date: 2020-10-28 07:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2007,7 +2007,7 @@ msgid ""
 "good start on the work."
 msgstr ""
 "Ano, i to musíme vyřešit. Tak mě napadá, asi by bylo nejlepší, kdybychom se "
-"my vrhli na výrobu zbraní, zatímco ty se svými lidmi vyřídíte toho liche. "
+"my vrhli na výrobu zbraní, zatímco ty se svými lidmi vyřídíte toho licha. "
 "Než to zvládnete, budeme už mít slušný základ."
 
 #. [message]: speaker=Tallin
@@ -5818,7 +5818,7 @@ msgstr "Nevděčná mrcho! Nejraději bych ti zlomil vaz!"
 msgid ""
 "Make one move towards me, lich, and you’ll find yourself dangling off the "
 "end of a vine."
-msgstr "Zkus na mne sáhnout, lichi, a zůstaneš viset na výhonku."
+msgstr "Zkus na mne sáhnout, lichu, a zůstaneš viset na výhonku."
 
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:374
@@ -5827,7 +5827,7 @@ msgid ""
 "attacking her won’t make the situation better. Especially an attack from an "
 "incompetent like you!"
 msgstr ""
-"Nech ji být, lichi! Stejně to bylo celé její osvobozování bláznovství už od "
+"Nech ji být, lichu! Stejně to bylo celé její osvobozování bláznovství už od "
 "začátku. Jestli jí ublížíš – a zvláště ty – ničemu nepomůžeš."
 
 #. [message]: speaker=Father Morvin
@@ -6063,7 +6063,7 @@ msgstr ""
 #. [then]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:75
 msgid "I wasn’t talking to you, lich! Learn to keep your mouth shut."
-msgstr "S tebou nemluvím, lichi! Nauč se zavřít zobák."
+msgstr "S tebou nemluvím, lichu! Nauč se zavřít zobák."
 
 #. [then]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:77
