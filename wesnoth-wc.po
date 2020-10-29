@@ -14,8 +14,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-08-28 10:00+0200\n"
-"Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-10-28 14:33+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -2204,17 +2204,17 @@ msgstr ""
 #. [lua]: _G.wct_map_generator
 #: data/campaigns/World_Conquest/lua/map/settings/settings_dialog.lua:47
 msgid "Map Settings"
-msgstr ""
+msgstr "Nastavení mapy"
 
 #. [lua]: _G.wct_map_generator
 #: data/campaigns/World_Conquest/lua/map/settings/settings_dialog.lua:68
 msgid " scenario: "
-msgstr ""
+msgstr " scénář: "
 
 #. [lua]: _G.wct_map_generator
 #: data/campaigns/World_Conquest/lua/map/settings/settings_dialog.lua:81
 msgid " map: "
-msgstr ""
+msgstr " mapa: "
 
 #: data/campaigns/World_Conquest/lua/optional_mechanics/pick_advance.lua:10
 msgid "Preset Advancement"
@@ -2239,27 +2239,31 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:4
 msgid "Adamant armor"
-msgstr ""
+msgstr "Adamantová zbroj"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:7
 msgid ""
 "The sturdy plates of this lightweight armor increase the user’s physical "
 "resistances (to a maximum of 10%) and grants the steadfast ability."
 msgstr ""
+"Robustní pláty tohoto lehkého brnění zvyšují odolnost nositele vůči fyzickým "
+"zraněním (na maximálně 10 %) a dále mu poskytují vytrvalost."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:10
 msgid "Assassin’s ring"
-msgstr ""
+msgstr "Vražedný prsten"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:13
 msgid ""
 "This plain ring with a pleasantly smooth and slippery surface gives its "
 "owner unmatched sneak attacking skills."
 msgstr ""
+"Tento nezdobený prsten s příjemně hladkým a kluzkým povrchem poskytuje "
+"majiteli unikátní potměšilé útočné schopnosti."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:16
 msgid "Azure pearl"
-msgstr ""
+msgstr "Blankytná perla"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:19
 msgid ""
@@ -2267,73 +2271,87 @@ msgid ""
 "was air, strongly improving their mobility in water and granting the "
 "submerge ability."
 msgstr ""
+"Tento úžasný drahokam umožňuje nositeli dýchat a pohybovat se pod vodou, výrazně "
+"zlepšuje jeho pohyblivost ve vodě a poskytuje mu schopnost ponoření."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:22
 msgid "Bezoar"
-msgstr ""
+msgstr "Bezoár"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:25
 msgid ""
 "This shamanic totem protects from poison, drain, and plague. Bearers of the "
 "totem are immune to fear and their vulnerabilities are reduced."
 msgstr ""
+"Tento šamanský symbol chrání před jedem, vysátím a nákazou. Nositel symbolu "
+"je imunní vůči strachu a jeho zranitelnost je snížena."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:28
 msgid "Blood ring"
-msgstr ""
+msgstr "Krvavý prsten"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:31
 msgid ""
 "This pulsing ring empowers the bearer’s melee attacks with the ability to "
 "drain lifeforce from their victim."
 msgstr ""
+"Tento pulzující prsten umožňuje nositeli, aby při útocích na blízko vysával "
+"ze svých protivníků životní sílu."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:34
 msgid "Cursed symbol of life"
-msgstr ""
+msgstr "Prokletý symbol života"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:37
 msgid ""
 "This vampiric amulet allows a unit to drain enemy life from a safe distance."
 msgstr ""
+"Tento upírský amulet umožňuje nositeli vysávat život nepřátel z bezpečné "
+"vzdálenosti."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:40
 msgid "Eagle eye longbow"
-msgstr ""
+msgstr "Odstřelovačský luk"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:43
 msgid ""
 "This enchanted longbow enhances the wielder’s ranged attacks with uncanny "
 "precision and increased damage."
 msgstr ""
+"Tento očarovaný dlouhý luk vylepšuje u držitele útoky na dálku záhadnou "
+"přesností a zvýšeným poškozením."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:46
 msgid "Forbidden grimoire"
-msgstr ""
+msgstr "Zapovězený grimoár"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:49
 msgid ""
 "This unholy manual gives the user the arcane knowledge to resurrect enemies "
 "slain in melee combat as the walking dead."
 msgstr ""
+"Tato nesvatá příručka poskytuje uživateli tajemné znalosti využitelné ke "
+"vzkříšení nepřátel zabitých v boji zblízka v podobě chodících mrtvol."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:52
 msgid "Forcefield"
-msgstr ""
+msgstr "Silové pole"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:55
 msgid "adjacent enemies do 13% less damage"
-msgstr ""
+msgstr "nepřátelské jednotky na sousedních polích způsobí o 13 % menší zranění"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:58
 msgid ""
 "Charged with intense magic, this shield generates a forcefield causing "
 "adjacent enemies to inflict less damage around the wielder."
 msgstr ""
+"Tento štít nabitý intenzivní magií generuje silové pole, které způsobuje, že "
+"nepřátelé v bezprostředním okolí držitele udílejí menší zranění."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:61
 msgid "Ghast’s marrow"
-msgstr ""
+msgstr "Příšernokoláda"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:64
 msgid ""
@@ -2341,6 +2359,9 @@ msgid ""
 "for more blood. Every time a foe is slain, a part of his lifeforce is "
 "eternally claimed through arcane ghoulish powers."
 msgstr ""
+"Tato příšerná směs naplní toho, kdo ji vypije, nenasytným bezbožným hladem "
+"po další krvi. Pokaždé, když zabije nepřítele, získá skrz tajemné démonské "
+"síly natrvalo část jeho životů."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:67
 msgid "Root of the Elder Wose"
@@ -2353,7 +2374,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:73
 msgid "Cruel spike"
-msgstr ""
+msgstr "Krutý bodec"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:76
 msgid ""
@@ -2361,20 +2382,26 @@ msgid ""
 "unit’s melee strikes are doubled in power when attacking, but the same is "
 "true for the retaliation strike of the defender."
 msgstr ""
+"Toto začarované kopí nutí svého držitele, aby podlehl své zuřivosti. Útoky "
+"jednotky na blízko se při útoku zdvojnásobí, ale to samé platí pro odvetné "
+"údery nepřátel."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:79
 msgid "Heart of fire"
-msgstr ""
+msgstr "Plamenné srdce"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:82
 msgid ""
 "This magic orb infuses the wielder’s melee attacks with fiery power, "
 "changing their damage type. It also improves fire resistance."
 msgstr ""
+"Tato kouzelná koule způsobí u držitele to, že jeho útoky na blízko jsou "
+"prodchnuty ohnivou silou a změní se jejich typ poškození. Zlepšuje také "
+"odolnost proti ohni."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:85
 msgid "Herald armor"
-msgstr ""
+msgstr "Zvěstovatelské brnění"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:88
 msgid ""
@@ -2382,50 +2409,62 @@ msgid ""
 "body and soul. This effect will heal allies, blind evil, and preemptively "
 "smite those who seek to do harm."
 msgstr ""
+"Toto svaté brnění z tenkého zlata vyzařuje čisté světlo, osvětlující tělo i "
+"duši nositele. Tento efekt ošetřuje spojence, oslepuje zlo a preventivně "
+"udeří ty, kteří se snaží nositeli ublížit."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:91
 msgid "Holy water"
-msgstr ""
+msgstr "Svěcená voda"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:94
 msgid ""
 "This sacred vial anoints melee attacks with arcane power, increasing their "
 "damage and changing their damage type. It also increases arcane resistance."
 msgstr ""
+"Tato posvěcená lahvička obsahuje vodu, která při nalití na zbraň pro boj "
+"zblízka tuto zbraň posvětí tajemnou silou. Útoky zbraní pak způsobí vyšší poškození "
+"a změní se jejich typ. Zlepšuje také odolnost proti nezemským útokům."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:97
 msgid "Ice bow"
-msgstr ""
+msgstr "Ledový luk"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:100
 msgid ""
 "Draw this magical bow summon an ice arrow that will freeze and slow its "
 "target upon hit."
 msgstr ""
+"Tento magický luk při natažení vyvolá ledový šíp, který po zásahu zmrazí a "
+"zpomalí svůj cíl."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:103
 msgid "Medicinal herbs"
-msgstr ""
+msgstr "Léčivé byliny"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:106
 msgid ""
 "These potent herbs give the bearer the ability to heal adjacent units and "
 "cure their poison."
 msgstr ""
+"Tyto účinné byliny dávají nositeli schopnost ošetřovat sousední jednotky a "
+"uzdravovat je z otravy."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:109
 msgid "Melange"
-msgstr ""
+msgstr "Melanž"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:112
 msgid ""
 "This exotic drug of organic origin enhances user’s vitality and awareness. "
 "It has no effect when consumed by undead."
 msgstr ""
+"Tato exotická droga organického původu zlepšuje vitalitu a povědomí "
+"uživatele. Pokud je zkonzumována nemrtvým, nemá žádný účinek."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:115
 msgid "Ring of frostbite"
-msgstr ""
+msgstr "Zmrazující prsten"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:118
 msgid ""
@@ -2433,6 +2472,9 @@ msgid ""
 "their damage to cold and allowing them to inflict deathly chills that slow "
 "the enemy."
 msgstr ""
+"Tento chladný prsten způsobí u držitele to, že jeho útoky na blízko jsou "
+"prodchnuty ledovým chladem a změní se jejich typ poškození. Také způsobí "
+"zasaženému nepříteli smrtelné zimnice, které ho zpomalí."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:121
 msgid "Ring of power"
