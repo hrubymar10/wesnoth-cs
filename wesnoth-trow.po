@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-08-28 10:00+0200\n"
-"Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-10-29 07:52+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #. [scenario]: id=22_The_Rise_of_Wesnoth
@@ -828,7 +829,7 @@ msgstr "Tan-Šmog"
 #. [side]: type=Orcish Warlord, id=Tan-NauVong
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:59
 msgid "Tan-NauVong"
-msgstr "Tan-NauVong"
+msgstr "Tan-Nauvong"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:86
@@ -847,7 +848,7 @@ msgstr "Knafachán"
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:97
 msgid "Hoshnak"
-msgstr "Hoshnak"
+msgstr "Hošnak"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:98
@@ -1255,15 +1256,11 @@ msgstr "Hej, v té svatyni je někdo ukrytý. Ksakru! Zůstaň tam!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:480
-#, fuzzy
-#| msgid ""
-#| "SW — The Oldwood Forest.\n"
-#| "Enter at Your Own Risk!"
 msgid ""
 "East — The Oldwood Forest.\n"
 "Enter at Your Own Risk!"
 msgstr ""
-"Jihozápad – Starý les.\n"
+"Východ – Starý les.\n"
 "Vstup pouze na vlastní nebezpečí!"
 
 #. [message]: speaker=Lollyra
@@ -1333,17 +1330,12 @@ msgstr ""
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:587
-#, fuzzy
-#| msgid ""
-#| "Well, we can’t go back, and the road ahead is blocked... I guess we’ll "
-#| "have to risk it and go through the Oldwood forest, then make a break for "
-#| "Clearwater Port."
 msgid ""
 "Well, we can’t go back, and the road ahead is blocked. I guess we’ll have to "
 "risk it and go through the Oldwood forest, then make a break for Clearwater "
 "Port."
 msgstr ""
-"Tak tedy, vrátit se nemůžeme, a cesta vpřed je znemožněna... Myslím, že se "
+"Tak tedy, vrátit se nemůžeme a cesta vpřed je znemožněna. Myslím, že se "
 "musíme odvážit projít skrz Starý les, a pak prorazit k přístavu Jasných vod."
 
 #. [message]: speaker=Burin the Lost
@@ -2384,7 +2376,7 @@ msgstr "Tan-Burg"
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Vrork
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:135
 msgid "Ut’Tan-Vrork"
-msgstr "Ut’Tan-Vrork"
+msgstr "Utetan-Vrork"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:230
@@ -2828,7 +2820,7 @@ msgstr "Mys padlého licha"
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Grilg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:36
 msgid "Ut’Tan-Grilg"
-msgstr "Ut’Tan-Grilg"
+msgstr "Utetan-Grilg"
 
 #. [side]: type=Orcish Warlord, id=Tan-Pulk
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:71
@@ -4269,7 +4261,7 @@ msgstr ""
 #. [note]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:244
 msgid "20% of finishing gold carried over to the next scenario."
-msgstr "20% konečného zlata je přeneseno do dalšího scénáře."
+msgstr "20 % konečného zlata je přeneseno do dalšího scénáře."
 
 #. [note]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:252
@@ -5008,7 +5000,7 @@ msgstr ""
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:366
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:398
 msgid "Shek’kahan"
-msgstr "Shek’kahan"
+msgstr "Šekekahan"
 
 #. [message]: speaker=Shek'kahan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:374
@@ -5023,7 +5015,7 @@ msgstr "Ještě se uvidí."
 #. [message]: speaker=Shek'kahan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:406
 msgid "Who dares disturb Shek’kahan the Terrible?"
-msgstr "Kdo se opovažuje rušit Shek’kahana hrozného?"
+msgstr "Kdo se opovažuje rušit Šekekahana hrozného?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:410
@@ -5950,7 +5942,7 @@ msgid ""
 "You again! You will sssuffer for your attack against my people! Shek’kahan, "
 "our Naga friendsss— You’ll pay! We have new friends now."
 msgstr ""
-"Zasse ty. Zakussíš bolesst pro ssvůj útok na našše lidi. Shek’kahan, našši "
+"Zasse ty. Zakussíš bolesst pro ssvůj útok na našše lidi. Šekekahan, našši "
 "kamarádi nágy... Zaplatíšš! Máme teď nové přátele."
 
 #. [message]: speaker=Tan-Halg
@@ -6202,12 +6194,12 @@ msgstr "Temní"
 #. [side]: type=Orcish Warlord, id=Tan-Vragish
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:81
 msgid "Tan-Vragish"
-msgstr "Tan-Vragish"
+msgstr "Tan-Vragiš"
 
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Grorag
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:106
 msgid "Ut’Tan-Grorag"
-msgstr "Ut’Tan-Grorag"
+msgstr "Utetan-Grorag"
 
 #. [side]: type=Orcish Warlord, id=Tan-Erinak
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:142
