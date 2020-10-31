@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:01 UTC\n"
-"PO-Revision-Date: 2020-10-25 21:39+0100\n"
+"PO-Revision-Date: 2020-10-31 19:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4522,6 +4522,12 @@ msgid ""
 "of moving in heavy armor, and can maneuver across the battlefield much "
 "faster than their gilded plate would suggest."
 msgstr ""
+"Králové a knížata lidské šlechty bývají často stále důsledně trénováni v "
+"bojovém umění, což plyne částečně z tradice předků, kteří ve válce zbohatli. "
+"Vybaveni brněním tak zručně vyrobeným, že dokonce vzbuzují závist některých "
+"trpasličích kovářů, jsou tito šlechtici dobře připraveni se v těžkém brnění "
+"pohybovat. Jsou tak schopni manévrovat po bojišti mnohem rychleji, než by "
+"mnozí při pohledu na pozlacené pláty jejich brnění předpokládali."
 
 #. [unit_type]: id=Woodsman, race=human
 #: data/core/units/humans/Woodsman.cfg:4
@@ -5077,7 +5083,7 @@ msgstr "skvrna bláta"
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:4
 msgid "Giant Rat"
-msgstr "Obrovská krysa"
+msgstr "Obří krysa"
 
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:19
