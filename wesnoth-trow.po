@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:01 UTC\n"
-"PO-Revision-Date: 2020-10-18 10:36+0200\n"
+"PO-Revision-Date: 2020-10-31 19:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -828,7 +828,7 @@ msgstr "Tan-Šmog"
 #. [side]: type=Orcish Warlord, id=Tan-NauVong
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:60
 msgid "Tan-NauVong"
-msgstr "Tan-NauVong"
+msgstr "Tan-Nauvong"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:88
@@ -847,7 +847,7 @@ msgstr "Knafachán"
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:99
 msgid "Hoshnak"
-msgstr "Hoshnak"
+msgstr "Hošnak"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:100
@@ -2376,7 +2376,7 @@ msgstr "Tan-Burg"
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Vrork
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:139
 msgid "Ut’Tan-Vrork"
-msgstr "Ut’Tan-Vrork"
+msgstr "Utetan-Vrork"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:235
@@ -2820,7 +2820,7 @@ msgstr "Mys padlého licha"
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Grilg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:36
 msgid "Ut’Tan-Grilg"
-msgstr "Ut’Tan-Grilg"
+msgstr "Utetan-Grilg"
 
 #. [side]: type=Orcish Warlord, id=Tan-Pulk
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:72
@@ -4261,7 +4261,7 @@ msgstr ""
 #. [note]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:268
 msgid "20% of finishing gold carried over to the next scenario."
-msgstr "20% konečného zlata je přeneseno do dalšího scénáře."
+msgstr "20 % konečného zlata je přeneseno do dalšího scénáře."
 
 #. [note]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:276
@@ -4998,7 +4998,7 @@ msgstr ""
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:370
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:405
 msgid "Shek’kahan"
-msgstr "Shek’kahan"
+msgstr "Šekekahan"
 
 #. [message]: speaker=Shek'kahan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:381
@@ -5013,7 +5013,7 @@ msgstr "Ještě se uvidí."
 #. [message]: speaker=Shek'kahan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:416
 msgid "Who dares disturb Shek’kahan the Terrible?"
-msgstr "Kdo se opovažuje rušit Shek’kahana hrozného?"
+msgstr "Kdo se opovažuje rušit Šekekahana hrozného?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17a_The_Dragon.cfg:420
@@ -5940,7 +5940,7 @@ msgid ""
 "You again! You will sssuffer for your attack against my people! Shek’kahan, "
 "our Naga friendsss— You’ll pay! We have new friends now."
 msgstr ""
-"Zasse ty. Zakussíš bolesst pro ssvůj útok na našše lidi. Shek’kahan, našši "
+"Zasse ty. Zakussíš bolesst pro ssvůj útok na našše lidi. Šekekahan, našši "
 "kamarádi nágy... Zaplatíšš! Máme teď nové přátele."
 
 #. [message]: speaker=Tan-Halg
@@ -6192,12 +6192,12 @@ msgstr "Temní"
 #. [side]: type=Orcish Warlord, id=Tan-Vragish
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:82
 msgid "Tan-Vragish"
-msgstr "Tan-Vragish"
+msgstr "Tan-Vragiš"
 
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Grorag
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:108
 msgid "Ut’Tan-Grorag"
-msgstr "Ut’Tan-Grorag"
+msgstr "Utetan-Grorag"
 
 #. [side]: type=Orcish Warlord, id=Tan-Erinak
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:145
