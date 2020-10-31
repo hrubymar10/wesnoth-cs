@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-27 11:26+0100\n"
+"PO-Revision-Date: 2020-10-30 16:06+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5036,6 +5036,12 @@ msgid ""
 "of moving in heavy armor, and can maneuver across the battlefield much "
 "faster than their gilded plate would suggest."
 msgstr ""
+"Králové a knížata lidské šlechty bývají často stále důsledně trénováni v "
+"bojovém umění, což plyne částečně z tradice předků, kteří ve válce zbohatli. "
+"Vybaveni brněním tak zručně vyrobeným, že dokonce vzbuzují závist některých "
+"trpasličích kovářů, jsou tito šlechtici dobře připraveni se v těžkém brnění "
+"pohybovat. Jsou tak schopni manévrovat po bojišti mnohem rychleji, než by mnozí "
+"při pohledu na pozlacené pláty jejich brnění předpokládali."
 
 #. [unit_type]: id=Woodsman, race=human
 #: data/core/units/humans/Woodsman.cfg:4
@@ -5278,13 +5284,6 @@ msgstr "Mořský těžkooděnec"
 
 #. [unit_type]: id=Merman Hoplite, race=merman
 #: data/core/units/merfolk/Hoplite.cfg:20
-#, fuzzy
-#| msgid ""
-#| "With their towering shields, the Merman Hoplites form the elite guard of "
-#| "the watery realm. Their powerful armor and rigid discipline allow them to "
-#| "hold a steadfast line in the maelstrom of battle. In times of "
-#| "desperation, they can even do so on land, though not nearly as well as a "
-#| "creature with legs."
 msgid ""
 "With their heavy armor and shields, the Merman Hoplites form the elite guard "
 "of the watery realm. Their powerful style of defensive combat and rigid "
@@ -5292,10 +5291,11 @@ msgid ""
 "In times of desperation, they can even do so on land, though not nearly as "
 "well as a creature with legs."
 msgstr ""
-"Mořští hoplité se svými impozantními štíty tvoří elitní stráž vodního "
-"království. Jejich silné brnění a přísná disciplína jim umožňují držet "
-"neproniknutelnou linii v bojové vřavě. Jsou dokonce schopni bojovat na "
-"souši, i když tam se těžko mohou rovnat suchozemcům."
+"Mořští hoplité se svou těžkou zbrojí a štíty tvoří elitní stráž vodního "
+"království. Jejich účinný, na obranu zaměřený bojový styl a přísná "
+"disciplína jim umožňují držet neproniknutelnou linii v bojové vřavě. Jsou "
+"dokonce schopni bojovat na souši, i když tam se těžko mohou rovnat "
+"suchozemcům."
 
 #. [unit_type]: id=Merman Hunter, race=merman
 #: data/core/units/merfolk/Hunter.cfg:4
@@ -5519,7 +5519,7 @@ msgstr ""
 #. [unit_type]: id=Cave Bear, race=monster
 #: data/core/units/monsters/Bear.cfg:4
 msgid "Cave Bear"
-msgstr "Jeskynní medvěd"
+msgstr "Medvěd jeskynní"
 
 #. [unit_type]: id=Cave Bear, race=monster
 #: data/core/units/monsters/Bear.cfg:20
@@ -5538,7 +5538,7 @@ msgstr ""
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:9
 msgid "Swamp Lizard"
-msgstr "Bažinný ještěr"
+msgstr "Ještěr bažinný"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:74
@@ -5652,15 +5652,13 @@ msgstr ""
 
 #. [unit_type]: id=Fire Ant, race=monster
 #: data/core/units/monsters/Fire_Ant.cfg:11
-#, fuzzy
-#| msgid "Fire Dragon"
 msgid "Fire Ant"
-msgstr "Ohnivý drak"
+msgstr "Ohnivý obří mravenec"
 
 #. [unit_type]: id=Fire Ant, race=monster
 #: data/core/units/monsters/Fire_Ant.cfg:46
 msgid "Lorem ipsem ..."
-msgstr ""
+msgstr "Lorem ipsum..."
 
 #. [attack]: type=fire
 #: data/core/units/monsters/Fire_Ant.cfg:72
@@ -5751,7 +5749,7 @@ msgstr "skvrna bláta"
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:4
 msgid "Giant Rat"
-msgstr "Obrovská krysa"
+msgstr "Obří krysa"
 
 #. [unit_type]: id=Giant Rat, race=monster
 #: data/core/units/monsters/Giant_Rat.cfg:19
@@ -5860,11 +5858,10 @@ msgstr "pavučina"
 
 #. [unit_type]: id=Giant Stoat, race=monster
 #: data/core/units/monsters/Giant_Stoat.cfg:4
-#, fuzzy
-#| msgid "Giant Rat"
 msgid "Giant Stoat"
-msgstr "Obrovská krysa"
+msgstr "Obří lasice"
 
+# V originále je hlodavec, ale lasice je šelma.
 #. [unit_type]: id=Giant Stoat, race=monster
 #: data/core/units/monsters/Giant_Stoat.cfg:20
 msgid ""
@@ -5873,11 +5870,15 @@ msgid ""
 "hunt smaller animals, but are territorial and the young adults have been "
 "known to attack larger intruders, including humans and orcs."
 msgstr ""
+"Obří lasice patří mezi nevyzpytatelné šelmy, které se vyskytují převážně v "
+"zamrzlých severních oblastech. Ale přežít mohou kdekoli. Běžně žerou jen "
+"mršiny či loví menší zvířata. Jsou ale teritoriální a je známo, že mladí "
+"dospělci útočí i na větší vetřelce, včetně lidí a skřetů."
 
 #. [unit_type]: id=Icemonax, race=monster
 #: data/core/units/monsters/Icemonax.cfg:4
 msgid "Icemonax"
-msgstr ""
+msgstr "Icemonax"
 
 #. [unit_type]: id=Icemonax, race=monster
 #: data/core/units/monsters/Icemonax.cfg:33
@@ -5888,11 +5889,17 @@ msgid ""
 "places they do not belong.  Despite this, efforts to study and domesticate "
 "them have failed, as they die soon after capture."
 msgstr ""
+"Icemonaxové jsou podivná zvířata ze zmrzlého severu, která lze nejlépe "
+"připodobnit k velkým obrněným veverkám. Na jejich krunýřích se hromadí mráz "
+"a sníh, a to i v mírnějším podnebí. Většina icemonaxů je zvědavá, a tak často "
+"putují na místa, kde se běžně nevyskytují. I přes to, že na ně lze "
+"narazit, všechno úsilí o jejich studium a domestikaci selhalo, neboť v "
+"zajetí brzy umírají."
 
 #. [unit_type]: id=Great Icemonax, race=monster
 #: data/core/units/monsters/Icemonax_Greater.cfg:4
 msgid "Great Icemonax"
-msgstr ""
+msgstr "Velký icemonax"
 
 #. [unit_type]: id=Great Icemonax, race=monster
 #: data/core/units/monsters/Icemonax_Greater.cfg:34
@@ -5902,6 +5909,10 @@ msgid ""
 "the climate is warm and dry.  Some Icemonax grow to be quite large and "
 "powerful, guarding their smaller, younger kin."
 msgstr ""
+"Icemonaxové jsou podivná zvířata ze zmrzlého severu, která lze nejlépe "
+"připodobnit k velkým obrněným veverkám. Na jejich krunýřích se hromadí led a "
+"sníh, a to i v teplém a suchém podnebí. Někteří icemonaxové vyrostou do "
+"větší velikosti a síly. Pak ochraňují své menší, mladší druhy."
 
 #. [unit_type]: id=Jinn, race=monster, description=
 #: data/core/units/monsters/Jinn.cfg:4
@@ -6011,10 +6022,11 @@ msgstr ""
 "a staženi pod vodu, aby čelili obludě, které chapadla patří, ať už je "
 "jakákoliv."
 
+# Nedával jsem divočák, protože je v textu popsán domestikovaný chov, který víc sedí na prase bradavičnaté.
 #. [unit_type]: id=Gorer, race=monster
 #: data/core/units/monsters/Tusker_Gorer.cfg:4
 msgid "Gorer"
-msgstr ""
+msgstr "Prase bradavičnaté"
 
 #. [unit_type]: id=Gorer, race=monster
 #: data/core/units/monsters/Tusker_Gorer.cfg:34
@@ -6023,22 +6035,25 @@ msgid ""
 "numerous.  A mature boar gorer is a valuable asset to any farmer.  And angry "
 "boar gorer is a challenge even to the best hunters"
 msgstr ""
+"Jak lončáci rostou, přirůstají jim do jejich už tak impozantního chrupu "
+"další zuby a stávající se prodlužují. Dospělý kanec je cenným přínosem pro "
+"každého farmáře. A rozzlobený kanec je výzvou i pro ty nejlepší lovce."
 
 #. [attack]: type=blade
 #: data/core/units/monsters/Tusker_Gorer.cfg:50
 #: data/core/units/monsters/Tusker_Tusklet.cfg:48
 msgid "Tusks"
-msgstr ""
+msgstr "kly"
 
 #. [attack]: type=pierce
 #: data/core/units/monsters/Tusker_Gorer.cfg:102
 msgid "Tusk Charge"
-msgstr ""
+msgstr "výpad kly"
 
 #. [unit_type]: id=Tusklet, race=monster
 #: data/core/units/monsters/Tusker_Tusklet.cfg:4
 msgid "Tusklet"
-msgstr ""
+msgstr "Lončák"
 
 #. [unit_type]: id=Tusklet, race=monster
 #: data/core/units/monsters/Tusker_Tusklet.cfg:33
@@ -6047,6 +6062,9 @@ msgid ""
 "if a little less of a challenge.  But woe betide the unfortunate who comes "
 "between a Tusklet and its parents."
 msgstr ""
+"Mladí lončáci bývají stejně notoricky špatně naladěni jako dospělí tohoto "
+"druhu. Představují však pro protivníka menší výzvu. Ale běda nešťastníkovi, "
+"který vleze mezi lončáka a jeho rodiče."
 
 #. [unit_type]: id=Water Serpent, race=monster
 #: data/core/units/monsters/Water_Serpent.cfg:5
@@ -6069,7 +6087,7 @@ msgstr ""
 #. [unit_type]: id=Wild Wyvern, race=monster, description=
 #: data/core/units/monsters/Wild_Wyvern.cfg:4
 msgid "Wild Wyvern"
-msgstr ""
+msgstr "Divoká wyverna"
 
 #. [unit_type]: id=Wolf, race=wolf
 #: data/core/units/monsters/Wolf.cfg:4
