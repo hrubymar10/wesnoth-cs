@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:01 UTC\n"
-"PO-Revision-Date: 2020-10-25 07:24+0100\n"
+"PO-Revision-Date: 2020-11-01 12:41+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1064,9 +1064,9 @@ msgid ""
 "Sir Loris from the elves of the Aethenwood. He asked that a knight be sent "
 "to discuss a new threat to Wesnoth."
 msgstr ""
-"Nevím, ale těsně před tím, než začaly nájezdy banditů, přišel z Aethenwoodu "
-"k siru Lorisovi vyslanec elfů. Žádal, aby byl vyslán rytíř k rokování o nové "
-"hrozbě pro Wesnoth."
+"Nevím, ale těsně před tím, než začaly nájezdy banditů, přišel z Aethenského "
+"lesa k siru Lorisovi vyslanec elfů. Žádal, aby byl vyslán rytíř k rokování "
+"o nové hrozbě pro Wesnoth."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:832
@@ -1113,8 +1113,8 @@ msgid ""
 msgstr ""
 "Výborně. I když by asi trvalo příliš dlouho vzkázat králi, že potřebujeme "
 "posily, vzpomínám si, že pár dní jízdy odtud je malá základna. Pošlu jim "
-"vzkaz a požádám je o pár jezdců a pak bychom měli pospíchat směrem "
-"k Aethenwoodu, abychom našli elfy."
+"vzkaz a požádám je o pár jezdců. Pak bychom měli pospíchat směrem "
+"k Aethenskému lesu, abychom našli elfy."
 
 #. [scenario]: id=03_A_Desperate_Errand
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:5
@@ -1143,8 +1143,8 @@ msgid ""
 "Deoran and his men came to the eastern border of the Aethenwood, where the "
 "towering trees of the elven forest loomed close overhead."
 msgstr ""
-"Deoran a jeho muži dorazili k východní hranici Aethenwoodu, kde těsně nad "
-"jejich hlavami čněly do výše stromy elfího lesa."
+"Deoran a jeho muži dorazili k východní hranici Aethenského lesa. Těsně nad "
+"hlavami jim čněly do výše stromy tohoto elfího hvozdu."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:211
@@ -4002,6 +4002,9 @@ msgid ""
 "our home from the undead and only ask you to remember those who fell "
 "defending our land. Farewell, Sir Deoran!"
 msgstr ""
+"Dobře víš, jak tu náš boj dopadne. Věřím, že ochráníš náš domov před "
+"nemrtvými. Žádám tě jen o to, abys pamatoval na ty, co padli při obraně naší "
+"země. Sbohem, sire Deorane!"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:298
@@ -4037,20 +4040,13 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:364
-#, fuzzy
-#| msgid ""
-#| "There is no way to win this scenario, and no way to lose. Hold off the "
-#| "undead hordes as long as you can. Keep Sir Gerrick alive as long as you "
-#| "can. Starting with turn 6, every turn that passes strengthens the "
-#| "defenses of Westin."
 msgid ""
 "Hold off the undead hordes and keep Sir Gerrick alive as long as you can. "
 "Starting on turn 6, every turn that passes strengthens the defenses of "
 "Westin."
 msgstr ""
-"Tento scénář není možné vyhrát ani prohrát. Zadržuj hordy nemrtvých tak "
-"dlouho, jak jen to bude možné. Udrž Sira Gerricka naživu co nejdéle. "
-"Počínaje 6. kolem, každé zakončené kolo posílí obranu Westinu."
+"Zadržuj hordy nemrtvých a udrž sira Gerricka naživu tak dlouho, jak jen to "
+"bude možné. Počínaje 6. kolem, každé zakončené kolo posílí obranu Westinu."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:399
@@ -4058,11 +4054,13 @@ msgid ""
 "Alas, for each casualty we suffer, the ranks of the undead grow. We must "
 "hold fast and survive as long as we can!"
 msgstr ""
+"Sakra, s každou naší padlou jednotkou rostou řady nemrtvých. Musíme odolat a "
+"přežít tak dlouho, jak jen dokážeme!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:484
 msgid "So this is how it ends... I am coming to you, my brothers..."
-msgstr ""
+msgstr "Tak to je konec... Jdu za vámi, bratři..."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:496
@@ -4304,8 +4302,8 @@ msgid ""
 "trouble with the elves of the Aethenwood."
 msgstr ""
 "To jsou skvělé novinky, veliteli! Budu šířit zprávu o tvém hrdinském činu! "
-"Ale... obávám se, že je tu ještě jedna nesnáz. Jdou zvěsti o nepokojích "
-"s elfy z Aethenwoodu."
+"Ale... obávám se, že je tu ještě jedna nesnáz. Objevují se zvěsti "
+"o nepokojích s elfy z Aethenského lesa."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Return_to_Kerlath.cfg:425
@@ -4436,17 +4434,14 @@ msgstr "Purkmistr Mefel"
 
 #. [message]: speaker=Minister Mefel
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:481
-#, fuzzy
-#| msgid ""
-#| "Hylas, I have made all possible haste, but my Council brethren are not as "
-#| "swift as I. It will take more time for them to arrive."
 msgid ""
 "We come to battle the unholy ones at your side. Hylas, I have made all "
 "possible haste, but the others are not as swift as I. It will take more time "
 "for them to arrive."
 msgstr ""
-"Hylasi, spěchal jsem, jak se dalo, ale mí bratři z Koncilu nejsou tak "
-"rychlí, jako já. Obávám se, že se sem nedostanou včas!"
+"Přišli jsme bojovat po tvém boku s tou zvráceností. Spěchal jsem, jak se "
+"dalo, Hylasi, ale ostatní nejsou tak rychlí jako já. Bude nějakou dobu "
+"trvat, než dorazí."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:490
@@ -4457,16 +4452,12 @@ msgstr "Westinská rada přivolala od spojenců na severu mnoho našich bratří
 
 #. [message]: speaker=Minister Mefel
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:500
-#, fuzzy
-#| msgid ""
-#| "We have heard your summons, and we shall send these dark foes back to the "
-#| "abyss that spawned them!"
 msgid ""
 "We heard your call for help and came as quickly as we could. These undead "
 "shall be sent back to the dark abyss that spawned them!"
 msgstr ""
-"Hylasi, vyslyšeli jsme tvou žádost a odešleme ty temné nepřátele zpět do "
-"propasti, která je zplodila!"
+"Vyslyšeli jsme vaši žádost o pomoc a přišli tak rychle, jak jsme mohli. "
+"Odešleme ty nemrtvé zpět do temné propasti, která je zplodila!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:507
@@ -4477,6 +4468,11 @@ msgid ""
 "wicked creatures of darkness. We must stand fast against the undead and "
 "defend our homes! We fight for Sir Gerrick! We fight for Wesnoth!"
 msgstr ""
+"To je správný postoj. Sir Gerrick nám získal dost času na shromáždění sil a "
+"opevnění města. Čeká nás těžká bitva. Ale stejně jako po každé noci přijde "
+"úsvit, tak odvaha a chrabrost lidí zvítězí nad ničemnými stvořeními temnoty. "
+"Musíme stát pevně proti nemrtvým a bránit své domovy! Bojujme za sira "
+"Gerricka! Bojujme za Wesnoth!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:513
@@ -4494,11 +4490,13 @@ msgid ""
 "So, the fleshbags have managed to mount a defense. It would seem that the "
 "pesky fly turned out to be more than a minor annoyance after all."
 msgstr ""
+"Takže těm pytlům masa se podařilo sestavit obranu. Ta otravná moucha se "
+"nakonec ukázala být více než drobnou mrzutostí."
 
 #. [message]: speaker=Mal Tera
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:548
 msgid "What shall we do, master?"
-msgstr ""
+msgstr "Co máme dělat, pane?"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:552
@@ -4506,13 +4504,15 @@ msgid ""
 "Slay them all! Even if we sustain heavy losses here, the city’s inhabitants "
 "will be more than enough to replenish our ranks."
 msgstr ""
+"Všechny je zabte! I kdybychom zde utrpěli těžké ztráty, obyvatelé města mi "
+"poskytnou dostatek materiálu na doplnění našich řad."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:588
 msgid ""
 "For every man that falls, a new warrior shall soon join the ranks of the "
 "dead!"
-msgstr ""
+msgstr "Za každého padlého muže se brzy do řad mrtvých přidá nový válečník!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:592
@@ -4520,6 +4520,8 @@ msgid ""
 "Hold fast, men of the South Guard! No matter how daunting the evil that "
 "opposes us, we must weather this darkness and defend our homes!"
 msgstr ""
+"Stůjte pevně, muži Jižní hlídky! Bez ohledu na to, jak strašlivé je zlo, "
+"kterému čelíme, musíme tu temnotu překonat a ubránit své domovy!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:596
@@ -4529,6 +4531,10 @@ msgid ""
 "from your ruined homes will blot out the sky, and from the swamps and the "
 "black earth, your bones will rise again to serve me!"
 msgstr ""
+"Bláznivý kluku, přeceňuješ sílu těchto vetchých rolníků, kterým říkáš "
+"vojáci. Řeky se zbarví do ruda vaší krví! Kouř a popel z vašich zničených "
+"domovů se rozptýlí po obloze a vaše kosti znovu povstanou z močálů a černé "
+"země, aby mi sloužily!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:601
@@ -4536,6 +4542,8 @@ msgid ""
 "Every unit you lose will give the undead gold. Protect your troops and "
 "sustain as few losses as possible!"
 msgstr ""
+"Za každou jednotku, která padne, získají nemrtví zlato. Chraň své jednotky a "
+"měj co nejméně ztrát!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:614
@@ -4545,6 +4553,10 @@ msgid ""
 "dreadful fear. As surely as the sanctity of the psyche is shattered, so is "
 "the physical form, and all that is left is unthinking, unfeeling servitude."
 msgstr ""
+"Ať nás opět zahalí plášť temnoty. Ať noc pronikne mezerami a štěrbinami "
+"lidské obrany a zachvátí jejich myšlenky i těla strašným strachem. A tak, "
+"jak byla narušena nedotknutelnost duše, ať je narušena i tělesná forma, aby "
+"vše co zbylo, bylo nemyslící bezcitné otroctví."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:618
@@ -4552,11 +4564,13 @@ msgid ""
 "We do not fear your unholy power, lich. We will not succumb to your dark "
 "magics and we will not be turned into your undead slaves."
 msgstr ""
+"Nebojíme se tvé bezbožné moci, lichu. Nepodlehneme tvé temné magii a "
+"nestanou se z nás tvoji nemrtví otroci."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:622
 msgid "Believe what you will, human. We shall see if you survive the night."
-msgstr ""
+msgstr "Věř si čemu chceš, člověče. Uvidíme, jestli přežijete noc."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:630
@@ -4564,6 +4578,8 @@ msgid ""
 "Dawn breaks over the horizon! We have weathered the night and can now begin "
 "our counterattack against the undead!"
 msgstr ""
+"Nastává úsvit! Přečkali jsme noc a nyní můžeme zahájit náš protiútok na "
+"nemrtvé!"
 
 #. [message]: speaker=Minister Romand
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:649
@@ -4571,19 +4587,17 @@ msgid ""
 "We heard your call for help and came as quickly as we could. We are at your "
 "service, Sir Deoran!"
 msgstr ""
+"Vyslyšeli jsme vaši žádost o pomoc a přišli tak rychle, jak jsme mohli. Jsme "
+"vám k službám, sire Deorane!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:653
-#, fuzzy
-#| msgid ""
-#| "We have heard your summons, and we shall send these dark foes back to the "
-#| "abyss that spawned them!"
 msgid ""
 "Your arrival could not be more timely. With you here, we shall send these "
 "undead back to the dark abyss that spawned them!"
 msgstr ""
-"Hylasi, vyslyšeli jsme tvou žádost a odešleme ty temné nepřátele zpět do "
-"propasti, která je zplodila!"
+"Přijeli jste akorát včas. S vámi po našem boku odešleme ty nemrtvé zpět do "
+"temné propasti, která je zplodila!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:661
@@ -5248,7 +5262,7 @@ msgstr ""
 "město nejjižnější Wesnothské příhraniční provincie Kerlathu. Pod velením "
 "sira Lorise udržovala Jižní hlídka Westin v bezpečí a jen občas musela "
 "zakročit proti banditovi nebo divokému tvoru. Snad jediné skutečné obavy "
-"vzbuzoval Aethenwood na západě, kde žili v odměřené odtažitosti elfové, "
+"vzbuzoval Aethenský les na západě, kde žili v odměřené odtažitosti elfové, "
 "neteční k lidskému konání. Cestovat bez povolení napříč jejich zemí bylo "
 "zakázáno, ale na druhou stranu elfové jen zřídka vstoupili do kerlathských "
 "končin. V divočině ještě dále na jih se v hustém šeru rozkládal střed "
@@ -5461,6 +5475,13 @@ msgid ""
 "quickly upon them, the sinister darkness creeping toward the men of the "
 "South Guard."
 msgstr ""
+"Když se Deoran, sir Gerrick a Urza Afalas vynořili z velkého jižního lesa, "
+"padal sníh. Přestože se vrátili do země lidí, zlověstná temnota lesa je "
+"následovala. Slunce na obloze bylo zahaleno šedou mlhou, přetaženou "
+"zvlněnými mračny, která se táhla oblohou v proudech barvy tmavého popela. Za "
+"nimi se z lesa šířil soumračný stín, obraz nepřirozeného rozšíření sil, "
+"které v něm dlely. A ta zlověstná plazící se temnota muže z Jižní hlídky "
+"rychle doháněla."
 
 #. [part]
 #. Intro to scenario 7b
@@ -5470,6 +5491,9 @@ msgid ""
 "they finally crossed back into Kerlath Province. Deoran and his men entered "
 "the forts guarding the border to Wesnoth, the undead close on their heels."
 msgstr ""
+"Jeli rychle na sever. Dnem i nocí bez oddechu prchali, až konečně přešli "
+"hranice do provincie Kerlath. Deoran a jeho muži vstoupili do pevností "
+"střežících hranice Wesnothu. Nemrtví jim byli v patách."
 
 #. [part]
 #. Epilogue A
@@ -5484,6 +5508,14 @@ msgid ""
 "from combat. The humans advanced cautiously, still in formation, still ready "
 "to strike at any sign of trouble."
 msgstr ""
+"Muži Jižní hlídky pevně drželi hradby Westinu. Každý elfí úder byl "
+"následován protiúderem lidí. Tak proběhla noc a s ranním svítáním boj "
+"pokračoval. Lidé stále drželi hradby, na které dotírali elfové ve stále "
+"větších počtech. Když slunce začalo stoupat k nebi, rozšířila se po bojišti "
+"velká mlha, která sluneční světlo utlumila. Zvuky boje utichaly a brzy "
+"zavládlo naprosté ticho. To když se elfové stáhli z boje. Lidé opatrně "
+"postupovali, držíce se stále ve formaci, připraveni zareagovat na jakoukoli "
+"známku problémů."
 
 #. [part]
 #. Epilogue A
@@ -5498,25 +5530,28 @@ msgid ""
 "human and elf alike. The injury you humans have done to the elves is great, "
 "but your service also was worthy. We have decided to make peace again.”</i>"
 msgstr ""
+"Mlha ustoupila a skrze mraky prorazilo roztroušenými paprsky sluneční "
+"světlo. Deoran jel v čele formace pěchoty a se zatajeným dechem čekal, co "
+"bude dál. Po několika minutách se nakonec mlha rozplynula a na jejím místě "
+"stála Ethiliel, sama čelem k řadě kopí. Její tvář vypadala smutně a "
+"vyčerpaně, přesto měla hlas překvapivě jasný, když promluvila k mužům "
+"Wesnothu. Řekla: <i>„Přestaňte! Příliš krve bylo vylito, lidské i elfí. "
+"Zranění, které elfům lidé způsobili je velké. Ale prokázali jste i hodnotné "
+"služby. Rozhodli jsme se znovu uzavřít mír.“</i>"
 
 #. [part]
 #. Epilogue A
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:143
-#, fuzzy
-#| msgid ""
-#| "<i>“These are the terms of the peace between us: any man found in the "
-#| "forest or hills that belong to the elves will taste death. No more will "
-#| "the elves send ambassadors or councilors to Westin, and no more will men "
-#| "wander the green woods.”</i>"
 msgid ""
 "<i>“These are our terms: no human will be permitted in the forests or hills "
 "of the Aethenwood, and likewise, we elves will not traverse the plains and "
 "farmlands belonging to you humans. No more will the elves send ambassadors "
 "or councilors to Westin, and no more will men wander the green woods.”</i>"
 msgstr ""
-"„<i>Toto jsou podmínky míru mezi námi: jakýkoliv člověk v nalezený lesích "
-"nebo kopcích, které patří elfům, zemře. Elfové už nebudou posílat vyslance a "
-"rádce do Westinu, a lidé už nebudou chodit zelenými lesy.</i>“"
+"<i>„Toto jsou naše podmínky: Žádný člověk nesmí pobývat v lesích nebo "
+"kopcích Aethenu a stejně tak žádný elf nebude vstupovat na pláně a "
+"zemědělskou půdu, která patří vám, lidem. Elfové už nebudou posílat vyslance "
+"nebo rádce do Westinu a lidé už nebudou chodit zelenými lesy.“</i>"
 
 #. [part]
 #. Epilogue A
@@ -5527,16 +5562,14 @@ msgid ""
 "it, but it is the best I could do. This whole endeavor has brought me enough "
 "grief as it is. I will go now.”</i>"
 msgstr ""
+"Ethiliel se přiblížila k Deoranovi a ztišila svůj hlas do šepotu. "
+"<i>„Udělala jsem, co jsem mohla, abych zajistila mír mezi elfy a lidmi. "
+"Nemusí se ti to líbit. Ale je to ten nejlepší výsledek, kterého jsem mohla "
+"dosáhnout. Celá ta snaha mi přinesla mnoho zármutku. A teď půjdu.“</i>"
 
 #. [part]
 #. Epilogue A
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:153
-#, fuzzy
-#| msgid ""
-#| "Thus an uneasy peace was consummated between man and elf. For many weeks "
-#| "the South Guard patrolled the borders of the elven woods and watched over "
-#| "the growing farms and villages. Finally, as the snow melted and the roads "
-#| "bore their burdens again, a messenger came from King Haldric."
 msgid ""
 "Thus, an uneasy peace was established between man and elf. For many weeks, "
 "the South Guard patrolled the borders of the elven woods and watched over "
@@ -5545,10 +5578,11 @@ msgid ""
 "palpable tension at the forest border, the truce was maintained without "
 "incident."
 msgstr ""
-"Tak bylo uzavřeno nejisté příměří mezi lidmi a elfy. Po mnoho týdnů střežila "
-"Jižní hlídka hranice elfích lesů a chránila rozrůstající se farmy a vesnice. "
-"Když konečně sníh roztál a cesty opět nesly břemeno poutníků, dorazil posel "
-"krále Haldrika."
+"Tak byl uzavřen nejistý mír mezi lidmi a elfy. Po mnoho týdnů střežila Jižní "
+"hlídka hranice elfích lesů a chránila rozrůstající se farmy a vesnice. Obava "
+"z elfů byla dostatečně velká, aby zabránila vesničanům vstupovat do nyní "
+"zakázaného Aethenského lesa, a tak navzdory citelnému napětí na hranici lesa "
+"bylo příměří zachováno bez incidentů."
 
 #. [part]
 #. Is part of both Epilogues
@@ -5561,6 +5595,11 @@ msgid ""
 "years of rebuilding lay ahead for Kerlath, they would take place in peace "
 "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
+"Když konečně roztál sníh a zelené pupeny ohlásily nástup jara, uvědomil si "
+"Deoran, že nastal čas podat hlášení králi Haldrikovi. Rozloučil se s "
+"obyvateli Westinu a vydal se na sever k Weldynu. Před provincií Kerlath "
+"ležely roky práce na její obnově. Ta ale díky Deoranovu vedení a hrdinství "
+"Jižní hlídky mohla probíhat v míru."
 
 #. [part]
 #. Epilogue B
@@ -5576,23 +5615,24 @@ msgid ""
 "through the ashen clouds. As the sunlight broke through, the wind passed, "
 "and all was still."
 msgstr ""
+"Když na bojišti odezněl lichův poslední smrtící výkřik, začala se jeho "
+"kosterní forma rozpadat. Hnijící kosti se rozpadly na popel, který byl "
+"rozfoukán mrazivým větrem a další nesmrtelná duše byla vržena zpět do "
+"nekonečného proudu času. Když odezněla moc jejich pána, upadli nemrtví "
+"válečníci zpět do bezživota a rozpadli se na neživé hromady kostí. Šustící "
+"vítr se v jemných proudech vznášel po bojišti, nesa s sebou duše padlých. "
+"Ten vítr vystoupal k nebi, kde slunce začalo pronikat popelavými mraky. Když "
+"sluneční světlo prorazilo, vítr pominul a všude se rozlehl klid."
 
 #. [part]
 #. Epilogue B
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:176
-#, fuzzy
-#| msgid ""
-#| "Exhausted, Deoran dropped his lance to the ground. The men around him "
-#| "slowly lifted their helmets from their brows. The moans of the wounded "
-#| "overshadowed the rustling of the north wind in the distance. The undead "
-#| "were gone."
 msgid ""
 "Deoran dropped his lance to the ground. The men around him slowly lifted "
 "their helmets from their brows. The battle was over. The undead were gone."
 msgstr ""
-"Deoran spustil zcela vyčerpán svůj dřevec k zemi. Muži kolem něj pomalu "
-"zvedali své helmy z hlav. Sténání raněných přehlušovalo šum severního větru "
-"v dálce. Nemrtví byli minulostí."
+"Deoran spustil svůj dřevec k zemi. Muži kolem něj pomalu zvedali hledí na "
+"svých helmách. Bylo po bitvě. Nemrtví byli minulostí."
 
 #. [part]
 #. Epilogue B
