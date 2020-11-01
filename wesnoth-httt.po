@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-30 23:16+0100\n"
+"PO-Revision-Date: 2020-11-01 19:06+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -545,7 +545,7 @@ msgstr "Nesmíme se ohlížet zpět. Musíme jít rychle!"
 #. [scenario]: id=02_Blackwater_Port
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:4
 msgid "scenario name^Blackwater Port"
-msgstr "Přístav Temných Vod"
+msgstr "Přístav Temných vod"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:21
@@ -578,7 +578,7 @@ msgstr "Sir Kaylan zemře"
 #. [label]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:57
 msgid "Blackwater Port"
-msgstr "Přístav Temných Vod"
+msgstr "Přístav Temných vod"
 
 #. [side]: type=Grand Knight, id=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:78
@@ -608,7 +608,7 @@ msgid ""
 "of the king desperately hold the port, as it is one of the only places where "
 "they can ship supplies and weapons."
 msgstr ""
-"Měli bychom se dokázat nalodit na loď v Přístavu temných vod, ale vypadá to, "
+"Měli bychom se dokázat nalodit na loď v přístavu Temných vod, ale vypadá to, "
 "že skřeti se vydali už i tam. Rebelové, kteří nenávidí Ašvíru a jsou věrní "
 "králově památce, zoufale drží tento přístav jako jedno z mála míst, kde "
 "mohou nakládat zásoby a zbraně."
