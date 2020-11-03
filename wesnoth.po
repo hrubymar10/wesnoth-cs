@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 01:28-0300\n"
-"PO-Revision-Date: 2020-10-11 09:09+0200\n"
+"PO-Revision-Date: 2020-11-03 20:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5387,14 +5387,14 @@ msgstr "<i>― Sir Gerrick z Westinu, 607 R. W.</i>"
 msgid ""
 "Some types of terrain give unique bonuses, such as healing or illumination."
 msgstr ""
+"Některé typy terénu poskytují jedinečné bonusy jako uzdravování nebo "
+"osvětlení."
 
 #. [tip]
 #. Translate the word "Flight" as a collective noun for drakes
 #: data/tips.cfg:268
-#, fuzzy
-#| msgid "<i>― Vank of Galun’s Flight, 6YW</i>"
 msgid "<i>― Galun, Flight Leader, 5YW</i>"
-msgstr "<i>― Vank z Galunovy letky, 6 R. W.</i>"
+msgstr "<i>― Galun, velitel letky, 5 w. l.</i>"
 
 #. [tip]
 #: data/tips.cfg:271
