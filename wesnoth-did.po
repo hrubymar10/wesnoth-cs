@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-29 10:28+0100\n"
+"PO-Revision-Date: 2020-11-01 13:23+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5968,27 +5968,27 @@ msgstr "+ 1 k pohybu"
 
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:84
 msgid "Nearby undead units gain 20% damage"
-msgstr ""
+msgstr "Sousedící nemrtví způsobují o 20 % větší zranění"
 
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:98
 msgid "Gains +10% resistance to blade, impact, and pierce"
-msgstr ""
+msgstr "Získává 10 % k odolnosti vůči útokům čepelí, úderem a bodnutím"
 
 #. [advancement]: id=mal_keshar_nova
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:114
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:341
 msgid "Chill tempest gains area of effect damage"
-msgstr ""
+msgstr "Útok mrazivou bouří získává plošný efekt"
 
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:134
 msgid "Shadow wave reduces incoming magic damage"
-msgstr ""
+msgstr "Útok vlnou tmy nyní snižuje možné zranění magickým útokem"
 
 #. [advancement]: id=mal_keshar_rend
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:159
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:397
 msgid "Drain HP from nearby enemies, but lose HP every turn"
-msgstr ""
+msgstr "Vysávat ze sousedících nepřátel životy, ale každé kolo životy ztratit"
 
 #. [attack]: type=arcane
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:207
@@ -6025,46 +6025,55 @@ msgid ""
 "that the rise of an Ancient Lich has not led to the shadows ruling the world "
 "for the rest of time."
 msgstr ""
+"Lich, který během své nově nalezené délky života, jež není omezena smrtí, "
+"nabere dostatek síly, se stává tím, kdo je schopen poskvrňovat duše "
+"zoufalstvím a zasévat zkázu po celém světě. Lich tohoto řádu vždy velí téměř "
+"neomezené hordě vzkříšených válečníků a nemrtvých příšer a je mistrem v "
+"temném čarodějnictví, co nahání hrůzu i těm nejznámějším lidským a elfím "
+"mágům. Taková postava obvykle reprezentuje temnou a krvavou kapitolu "
+"historie. A v těchto časech nouze jen neúnavné úsilí nejodvážnějších hrdinů "
+"zajišťuje, aby vzestup starého licha nevedl k tomu, že stíny povládnou světu "
+"po zbytek dnů."
 
 #. [advancement]
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:79
 msgid "Increased hitpoints"
-msgstr ""
+msgstr "Zvýšený počet životů"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:143
 msgid "Malin’s sword gains the magical special"
-msgstr ""
+msgstr "Malinův útok mečem získává speciální vlastnost magický"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:200
 msgid "Malin’s sword gains the plague special"
-msgstr ""
+msgstr "Malinův útok mečem získává speciální vlastnost nákaza"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:217
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:315
 msgid "+2 ranged damage, but -10% arcane resistance"
-msgstr ""
+msgstr "+2 k útoku na dálku, ale -10 % k odolnosti vůči nezemským útokům"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:236
 msgid "Malin’s melee attack heals him every hit"
-msgstr ""
+msgstr "Malinův útok na blízko ho uzdravuje, kdykoli zasáhne"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:253
 msgid "Chill tempest gains the impetuity special"
-msgstr ""
+msgstr "Útok mrazivou bouří získává speciální vlastnost podráždění"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:270
 msgid "Malin gains a special corpse launching attack"
-msgstr ""
+msgstr "Malin získává speciální útok vymršťování mrtvol"
 
 #. [effect]: type=impact
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:277
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:789
 msgid "corpse launch"
-msgstr ""
+msgstr "vymršťování mrtvol"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:294
 msgid "+2 melee damage"
-msgstr ""
+msgstr "+2 k útoku na blízko"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:338
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:360
@@ -6072,49 +6081,55 @@ msgid ""
 "Malin gains +10% resistance to blade and pierce, but loses -10% resistance "
 "to arcane"
 msgstr ""
+"Malin získává 10 % k odolnosti vůči útokům čepelí a bodnutím, ale ztrácí 10 "
+"% z odolnosti vůči nezemským útokům"
 
 #. [advancement]: id=malin_melee_vitalize_amla
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:376
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:748
 msgid "Improves the vitalize special"
-msgstr ""
+msgstr "Vylepšuje speciální vlastnost oživování"
 
 #. [advancement]: id=malin_corpse_master_amla
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:399
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:814
 msgid "Gains the corpse master ability"
-msgstr ""
+msgstr "Získává schopnost mrtvolného mistrovství"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:415
 msgid "+1 ranged strikes, but -20% arcane resistance and -12 hp"
 msgstr ""
+"+1 k útokům na dálku, ale -20 % k odolnosti vůči nezemským útokům a -12 "
+"životů"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:438
 msgid "Shadow wave gains the fervor special and -10% arcane resistance"
 msgstr ""
+"Útok vlnou tmy získává speciální vlastnost zanícení a zároveň je při jeho "
+"použití snížena odolnost vůči nezemským útokům o 10 %"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:464
 msgid "Gains the consumption ability"
-msgstr ""
+msgstr "Získává schopnost sžírání"
 
 #. [advancement]
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:79
 msgid "+2 HP"
-msgstr ""
+msgstr "+2 životy"
 
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:220
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:286
 msgid "Wail gains the malevolence special"
-msgstr ""
+msgstr "Útok skřekem získává speciální vlastnost zlomyslnost"
 
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:236
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:306
 msgid "Wail gains the hysteria special"
-msgstr ""
+msgstr "Útok skřekem získává speciální vlastnost hysterie"
 
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:326
 msgid "Gains +20% resistance to fire"
-msgstr ""
+msgstr "Získává 20 % k odolnosti vůči ohnivým útokům"
 
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:342
 msgid "Spectral Servant"
@@ -6139,7 +6154,7 @@ msgstr "čepel zkázy"
 
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:404
 msgid "Eidolon"
-msgstr ""
+msgstr "Přelud"
 
 #. [dummy]: id=did_soul_eater1
 #. [dummy]: id=did_soul_eater2
@@ -6151,19 +6166,21 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:66
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:67
 msgid "soul eater"
-msgstr ""
+msgstr "požírání duší"
 
 #. [dummy]: id=did_soul_eater1
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:10
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:11
 msgid "This unit heals 4 HP whenever it kills an enemy unit."
 msgstr ""
+"Kdykoli tato jednotka zabije nepřátelskou jednotku, uzdraví si až 4 životy."
 
 #. [dummy]: id=did_soul_eater2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:39
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:40
 msgid "This unit heals 8 HP whenever it kills an enemy unit."
 msgstr ""
+"Kdykoli tato jednotka zabije nepřátelskou jednotku, uzdraví si až 8 životů."
 
 #. [damage]: id=did_soul_eater3
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:68
@@ -6172,27 +6189,25 @@ msgid ""
 "This unit gains 15% damage on offense and heals 12 HP whenever it kills an "
 "enemy unit."
 msgstr ""
+"Kdykoli tato jednotka zabije nepřátelskou jednotku, uzdraví si až 12 životů "
+"a také získá 15 % k výši zranění, které způsobí při ofenzivním použití útoku."
 
 #. [leadership]: id=did_malice1
 #. [leadership]: id=did_malice2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:102
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:119
 msgid "malice"
-msgstr ""
+msgstr "zlovolnost"
 
 #. [leadership]: id=did_malice1
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:103
-#, fuzzy
-#| msgid "This unit has its damage increased by 50%"
 msgid "This unit increases the damage of nearby undead units by 20%."
-msgstr "Tato jednotka zvýšila své poškození o 50%"
+msgstr "Nemrtví v sousedství této jednotky způsobují o 20 % vyšší zranění."
 
 #. [leadership]: id=did_malice2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:120
-#, fuzzy
-#| msgid "This unit has its damage increased by 50%"
 msgid "This unit increases the damage of nearby undead units by 40%."
-msgstr "Tato jednotka zvýšila své poškození o 50%"
+msgstr "Nemrtví v sousedství této jednotky způsobují o 40 % vyšší zranění."
 
 #. [dummy]: id=did_shadow_veil
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:133
@@ -6204,7 +6219,7 @@ msgstr "stínový závoj"
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:135
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:136
 msgid "Allied undead units within a 5 hex radius are hidden."
-msgstr ""
+msgstr "V okolí 5 políček od jednotky jsou spřátelené nemrtvé jednotky skryté."
 
 #. [dummy]: id=did_frost_nova
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:238
@@ -6237,18 +6252,18 @@ msgstr ""
 #. [drains]: id=did_reap
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:325
 msgid "reap"
-msgstr ""
+msgstr "žnutí"
 
 #. [drains]: id=did_reap
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:326
 msgid "This unit heals for 70% of the damage this attack deals."
-msgstr ""
+msgstr "Tato jednotka se sama léčí až o 70 % poranění, jež útokem způsobila."
 
 #. [dummy]: id=did_soul_rend
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:333
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:334
 msgid "soul rend"
-msgstr ""
+msgstr "rozervanost"
 
 #. [dummy]: id=did_soul_rend
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:335
@@ -6257,6 +6272,8 @@ msgid ""
 "Every turn, this unit loses 5 hitpoints, but drains 4 hitpoints from each "
 "adjacent enemy."
 msgstr ""
+"Každé kolo tato jednotka ztrácí 5 životů, ale z každé sousedící nepřátelské "
+"jednotky vysává 4 životy."
 
 #. [damage]: id=did_malevolence
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:429
@@ -6271,6 +6288,8 @@ msgid ""
 "This attack gains 50% damage on offense, but causes this unit to lose 1 hp "
 "per hit."
 msgstr ""
+"Tento útok při ofenzivním použití způsobuje o 50 % vyšší zranění, ale "
+"útočící jednotka při každém zásahu ztrácí 1 život."
 
 #. [swarm]: id=did_hysteria
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:446
@@ -6280,13 +6299,13 @@ msgstr "hysterie"
 #. [swarm]: id=did_hysteria
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:447
 msgid "This attack gains up to 10 strikes when this unit is wounded."
-msgstr ""
+msgstr "Pokud je jednotka zraněna, počet útoků se zvyšuje na 10."
 
 #. [leadership]: id=sorrow
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:457
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:473
 msgid "sorrow"
-msgstr ""
+msgstr "zkroušenost"
 
 #. [leadership]: id=sorrow
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:458
@@ -6310,18 +6329,18 @@ msgstr "oživování"
 #. [heal_on_hit]: id=did_vitalize1
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:491
 msgid "This unit heals 2 HP every time this attack hits."
-msgstr "Kdykoli jednotka tímto útokem zasáhne, vyléčí si 2 životy."
+msgstr "Kdykoli jednotka tímto útokem zasáhne, vyléčí si až 2 životy."
 
 #. [heal_on_hit]: id=did_vitalize2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:500
 msgid "This unit heals 4 HP every time this attack hits."
-msgstr "Kdykoli jednotka tímto útokem zasáhne, vyléčí si 4 životy."
+msgstr "Kdykoli jednotka tímto útokem zasáhne, vyléčí si až 4 životy."
 
 #. [attacks]: id=did_fervor
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:507
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:508
 msgid "fervor"
-msgstr "zápal"
+msgstr "zanícení"
 
 #. [attacks]: id=did_fervor
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:509
@@ -6330,12 +6349,14 @@ msgid ""
 "This attack gains 2 attacks on offense, but causes this unit to lose 4 hp "
 "per hit."
 msgstr ""
+"Při ofenzivním použití se zdvojnásobuje počet útoků, ale útočící jednotka "
+"při každém zásahu ztrácí 4 životy."
 
 #. [attacks]: id=did_impetuity
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:524
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:525
 msgid "impetuity"
-msgstr ""
+msgstr "podráždění"
 
 #. [attacks]: id=did_impetuity
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:526
@@ -6344,24 +6365,32 @@ msgid ""
 "This attack loses one strike on offense but deals three times the normal "
 "damage."
 msgstr ""
+"Počet útoků se při ofenzivním použití snižuje o jeden, ale každý útok "
+"způsobuje trojnásobné zranění."
 
 #. [attacks]: id=did_corpse_launcher
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:541
 msgid "corpse launcher"
-msgstr ""
+msgstr "vymršťovač mrtvol"
 
+# Asi bych ten útok potřeboval vidět v praxi.
 #. [attacks]: id=did_corpse_launcher
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:542
+#, fuzzy
 msgid ""
 "On offense, enemies cannot retaliate against this attack. This attack "
 "consumes 3 HP from each nearby allied corpse to deal 11 impact damage (per "
 "corpse) to the target on top of this attack’s base damage."
 msgstr ""
+"Při ofenzivním použití se nemohou nepřátelé proti tomuto útoku bránit "
+"protiútokem. Z každé sousedící spřátelené chodící mrtvoly se vytáhnou 3 "
+"životy, které se zformují do útoku na cíl úderem v síle 11 (za každou mrtvolu), "
+"jenž se přidá k základnímu poškození tohoto útoku."
 
 #. [leadership]: id=did_consumption
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:668
 msgid "consumption"
-msgstr ""
+msgstr "sžírání"
 
 #. [leadership]: id=did_consumption
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:669
@@ -6369,13 +6398,13 @@ msgid ""
 "At night, this unit and adjacent allied undead gain 25% damage. However, "
 "this unit loses 2 HP per turn."
 msgstr ""
+"V noci způsobuje tato jednotka a všichni sousedící spřátelení nemrtví o 25 % "
+"větší zranění. Nicméně tato jednotka ztrácí každé kolo 2 životy."
 
 #. [heals]: id=did_corpse_master
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:730
-#, fuzzy
-#| msgid "Yes, master."
 msgid "corpse master"
-msgstr "Ano, pane."
+msgstr "mrtvolné mistrovství"
 
 #. [heals]: id=did_corpse_master
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:731
@@ -6383,6 +6412,8 @@ msgid ""
 "Adjacent allied corpses heal 6 HP per turn and gain 20% resistance to blade, "
 "impact, and pierce."
 msgstr ""
+"Sousedící spřátelené chodící mrtvoly se každé kolo mohou vyléčit až o 6 "
+"životů a získávají 20 % k odolnosti vůči útokům čepelí, úderem a bodnutím."
 
 #. [leadership]: id=did_zombie_frenzy
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:765
@@ -6425,6 +6456,8 @@ msgstr "oblak smrti"
 msgid ""
 "This unit poisons all nearby enemy units on the start of every new turn."
 msgstr ""
+"Tato jednotka na začátku každého nového kola otráví všechny sousedící "
+"nepřátelské jednotky."
 
 #. [resistance]: id=did_drunk
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1010
@@ -6450,31 +6483,32 @@ msgstr "opilecký vztek"
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1021
 msgid "On offense, this attack presses the engagement for 4 rounds of attacks."
 msgstr ""
+"V případě ofenzivního použití se jednotka nechá strnout ke 4 kolům útoků."
 
 #. [advancement]: id=amla_dragon_melee
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:8
 msgid "Jaw damage +1, Claws damage +2"
-msgstr ""
+msgstr "Zranění útokem čelistí +1, útokem drápy +2"
 
 #. [advancement]: id=amla_dragon_carapace
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:50
 msgid "+10% resistance to blade and impact"
-msgstr ""
+msgstr "+10 % k odolnosti vůči útokům čepelí a úderem"
 
 #. [advancement]: id=amla_dragon_soul_eater1
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:125
 msgid "Gain the Soul Eater ability"
-msgstr ""
+msgstr "Získat schopnost požírání duší"
 
 #. [advancement]: id=amla_dragon_soul_eater2
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:150
 msgid "Improve the Soul Eater ability"
-msgstr ""
+msgstr "Zlepšit schopnost požírání duší"
 
 #. [advancement]: id=amla_dragon_soul_eater3
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:181
 msgid "Further improve the Soul Eater ability"
-msgstr ""
+msgstr "Zlepšit schopnost požírání duší ještě více"
 
 #. [advancement]: id=mal_keshar_amla_chill
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:263
@@ -6490,16 +6524,18 @@ msgstr "+ 1 k útoku vlnou tmy"
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:369
 msgid "Shadow wave reduces incoming fire, cold, and arcane damage"
 msgstr ""
+"Při útočení vlnou tmy se zvyšuje odolnost vůči útokům ohněm, chladem a "
+"nezemským útokům"
 
 #. [advancement]: id=mal_keshar_amla_malice2
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:432
 msgid "Improve the malice ability"
-msgstr ""
+msgstr "Zlepšit schopnost zlovolnosti"
 
 #. [advancement]: id=mal_keshar_amla_shadow_veil
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:463
 msgid "Gain the ability to hide allied units"
-msgstr ""
+msgstr "Získat schopnost skrývání spřátelených jednotek"
 
 #. [advancement]: id=eidolon_reap
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:573
@@ -6514,12 +6550,12 @@ msgstr ""
 #. [advancement]: id=eidolon_sorrow2
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:630
 msgid "Improves the sorrow ability"
-msgstr ""
+msgstr "Vylepšuje schopnost zkroušenosti"
 
 #. [advancement]: id=malin_corpse_launch_amla
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:780
 msgid "Gains the corpse launch attack"
-msgstr ""
+msgstr "Získává útok vymršťování mrtvol"
 
 #. [advancement]: id=malin_zombie_frenzy_amla
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:840
@@ -6582,10 +6618,8 @@ msgstr ""
 
 #. [color_range]: id=darkblue
 #: data/campaigns/Descent_Into_Darkness/utils/team-colors.cfg:6
-#, fuzzy
-#| msgid "Dark Mage"
 msgid "Dark blue"
-msgstr "Temný mág"
+msgstr "Temně modrá"
 
 #. [trait]: id=maimed
 #: data/campaigns/Descent_Into_Darkness/utils/traits.cfg:6
