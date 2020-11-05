@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:00 UTC\n"
-"PO-Revision-Date: 2020-10-28 07:55+0100\n"
+"PO-Revision-Date: 2020-11-05 21:27+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -74,8 +74,8 @@ msgid ""
 "\n"
 "(Hard level, 18 scenarios.)\n"
 msgstr ""
-"Znovu objev tajemství lichů ze Zeleného ostrova. Proč bys nemohl žít navždy, "
-"stejně jako oni?\n"
+"Znovu objev tajemství lordů lichů ze Zeleného ostrova. Proč bys nemohl žít "
+"navždy, stejně jako oni?\n"
 "\n"
 "(Úroveň těžká, 18 scénářů.)\n"
 
@@ -121,16 +121,16 @@ msgid ""
 "in earnest this winter."
 msgstr ""
 "<i>Z deníku Ardonny z Tarrynthu</i>\n"
-"9 XII, 22 YW:\n"
+"9. XII. roku 22 w. l.:\n"
 "\n"
 "Je nespravedlivé, že my lidé musíme zemřít po tak málo letech. Elfové a "
 "trpaslíci žijí mnohem déle. I když to může být přirozený řád, nemusíme ho "
 "přijmout! Lordi na Zeleném ostrově věděli, jak žít navždy. Snaha o získání "
-"těchto poznatků byla králem Haldricem I. prohlášena za nelegální, ale věřím, "
-"že to stojí za to riziko. Když jsem sledovala, jak moje rodina mizí v "
-"důsledku různých chorob, slíbila jsem si, že nechci sdílet jejich osud, a "
-"pokud se mi podaří znovu objevit tajemství předků, budu hrdinkou celého "
-"kontinentu! Měla bych začít s výzkumem už tuto zimu."
+"těchto poznatků byla králem Haldrikem I. prohlášena za nelegální, ale věřím, "
+"že stojí za to riziko. Když jsem sledovala, jak moje rodina mizí v důsledku "
+"různých chorob, slíbila jsem si, že nechci sdílet jejich osud. Pokud se mi "
+"podaří znovu objevit tajemství předků, budu hrdinkou celého kontinentu! Měla "
+"bych začít s vážným výzkumem už tuto zimu."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:54
@@ -147,17 +147,17 @@ msgid ""
 "eccentric. I am already marked as different because my hair is so light, and "
 "I lack a sense of smell."
 msgstr ""
-"26 II, 23 YW:\n"
+"26. II. roku 23 w. l.:\n"
 "\n"
 "Mé experimenty s netopýry se ukázaly býti zbytečné. Zjistila jsem, že ve "
-"skutečnosti nevyčerpávají život svých obětí, ale že je to jen iluze. Ztráta "
-"krve oslabí oběti, zatímco netopýr získává vitalitu, protože se nakrmil. "
+"skutečnosti nevyčerpávají život svých obětí. Je to jen iluze. Ztráta krve "
+"oslabí oběť, zatímco netopýr získává vitalitu, protože se nakrmil. "
 "Neexistuje nic, co bych se od netopýrů mohla dozvědět o prodloužení života. "
 "Teď mám problém. Jsem nucena starat se o tyto netopýry a předstírat, že jsou "
-"mí domácí mazlíčci, protože nemohu přiznat, proč jsem je studovala. Ve "
-"skutečnosti to není taková zátěž. Stvořila jsem přítulné tvory, a nevadí mi "
-"být výstřední. Už dávno jsem byla označena za odlišnou, protože mám tak "
-"světlé vlasy a necítím žádné vůně."
+"mí domácí mazlíčci, protože nemohu přiznat, proč jsem je studovala. Pravda, "
+"není to ve skutečnosti taková zátěž. Ty tvory jsem si docela oblíbila a "
+"nevadí mi být výstřední. Už dávno jsem byla označena za odlišnou, protože "
+"mám tak světlé vlasy a necítím žádné vůně."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:63
@@ -174,17 +174,16 @@ msgid ""
 "glowering at me. I must be more careful in the future about which of my "
 "thoughts appear on my face."
 msgstr ""
-"4 III, 23 YW:\n"
+"4. III. roku 23 w. l.:\n"
 "\n"
-"Dnes nás ředitel Aimucasur učil, jak hýbat předměty pomocí mysli. Technika "
-"spočívá v tom, že promítneme naší vůli do předmětu a potom s ním pohybujeme "
+"Dnes nás ředitel Aimukasur učil, jak hýbat předměty pomocí mysli. Technika "
+"spočívá v tom, že promítneme svou vůli do předmětu a potom s ním pohybujeme "
 "jako s rozšířenou částí našeho těla. Zaříkávání zaměří mysl na úkol. Cvičili "
 "jsme s neživými předměty, ale stejný princip by mohl být aplikován i na "
-"neživé tělo. Nikdo se neodvážil vyslovit tuto myšlenku, protože zájem o "
+"neživé tělo. Nikdo se neodvážil tuto myšlenku vyslovit, protože zájem o "
 "umění nekromancie má za následek vyhoštění. Uvažovala jsem o tomto faktu "
 "během hodiny, když jsem si všimla, že se na mne Aimucasur zamračil. Musím si "
-"dávat větší pozor na to, aby se my některé z mých myšlenek neprojevily na "
-"tváři."
+"příště dávat větší pozor na to, aby na mě nebylo vidět, na co myslím."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:72
@@ -206,22 +205,21 @@ msgid ""
 "mage I trusted completely, but perhaps I can find someone with whom to make "
 "a pact."
 msgstr ""
-"15 III, 23 YW:\n"
+"15. III. roku 23 w. l.:\n"
 "\n"
-"Jeden z mých netopýrů musel být starý, protože zemřel. Rozhodla jsem se tedy "
-"aplikovat promítnutí vůle na jeho mrtvolu. Potěšilo mě, že to fungovalo, ale "
-"bylo zajímavé, že když sebou netopýr poprvé škubnul, tak jsem cítila, jak "
-"poslední jiskra života projela jeho tělem. Všimla jsem si, že to prošlo skrz "
-"nějakou cestu. To mě přivedlo na nápad. Mojí myslí jsem prozkoumala všechny "
-"životní cesty v jeho těle, které by mohli netopýra řídit. Potom jsem zkusila "
-"aplikovat svou vůli na všechny naráz. Výsledkem bylo, že se netopýr pomalu "
-"zvedl ze země a začal se vznášet nad podlahou úplně sám! (Starý Aimucasur o "
-"tomto triku pravděpodobně neví!) Dokonce se zdálo, že energie procházející "
-"sítí životních cest se udržuje sama, takže se nemusím dál soustředit. Mohlo "
-"by tohle být celé tajemství? Mohli všichni starodávní pánové mít někoho, kdo "
-"je přivolat zpět <i>po</i> jejich smrti? Potřebovala bych dalšího mága, "
-"kterému bych plně důvěřovala, ale možná najdu někoho, s kým bych mohla "
-"uzavřít smlouvu."
+"Jeden z mých netopýrů musel být starý, protože zemřel. Odvážně jsem se "
+"rozhodla jeho mrtvolu oživit. Potěšilo mě, že to fungovalo, ale bylo "
+"zajímavé, že když sebou netopýr poprvé škubnul, tak jsem cítila, jak jeho "
+"tělem projela poslední jiskra života. Všimla jsem si, že prošla skrz nějakou "
+"cestu. To mě přivedlo na nápad. Svou myslí jsem prozkoumala všechny životní "
+"procesy v jeho těle. Nechala jsem se vést tím, co jsem poznala u živých "
+"netopýrů. Potom jsem <i>je</i> rozpohybovala všechny naráz. A netopýr se sám "
+"pomalu vznesl z podlahy! (Starý Aimukasur tenhle trik pravděpodobně "
+"neovládá!) Dokonce se zdálo, že se energie procházející sítí životních "
+"procesů udržuje sama, takže jsem se nemusela dále soustředit. Mohlo by tohle "
+"být celé tajemství? Mohli všichni ti starodávní lordi mít někoho, kdo by je "
+"<i>po</i> jejich smrti přivolal zpět? Potřebovala bych dalšího mága, kterému "
+"bych plně důvěřovala. Možná najdu někoho, s kým bych mohla uzavřít smlouvu."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:81
@@ -243,17 +241,17 @@ msgid ""
 msgstr ""
 "Později:\n"
 "\n"
-"S dalším pozorováním jsem zjistila, že to pravděpodobně není způsob, jak se "
-"vyhnout smrti. Vzkříšený netopýr nemá svou vůli! Nedělá nic, dokud mu něco "
-"nepřikážu mou myslí. Snad je vůle člověka silnější. Brzy to budu mít "
+"Dalším pozorováním jsem zjistila, že toto pravděpodobně není způsob, jak se "
+"vyhnout smrti. Vzkříšený netopýr nemá svou vůli! Nedělá nic, dokud mu to "
+"nepřikážu svou myslí. Snad je vůle člověka silnější. Brzy to budu mít "
 "příležitost zjistit... protože odcházím z akademie. Budu ve svém pokoji, "
 "když bude starý Morvihn dělat noční kontrolu, ale o dvě hodiny později už "
-"ne! Jsem unavená z tohoto místa a jeho omezeným myšlením. Takže už žádné "
-"hnědé příjmací šaty, už žádné další zesměšňování mě kvůli mým vlasům, žádní "
-"další nabubřelí instruktoři. Budu se sama učit „temnému“ umění a naučím se, "
-"jak žít navždy! Staří ze Zeleného ostrova našli cestu, takže jí já dokážu "
-"najít taky. A až budou všichni tito starci dýchat z posledního, tak mě budou "
-"prosit o to tajemství. Možná budu štědrá. A možná taky ne."
+"ne! Toto místo a jeho omezení myšlení mě unavují. Takže už žádné hnědé "
+"přijímací šaty, už žádné další zesměšňování kvůli mým vlasům, žádní další "
+"nabubřelí instruktoři. Budu se sama učit takzvaná „temná“ umění a naučím se, "
+"jak žít navždy! Starověcí ze Zeleného ostrova cestu našli, takže já ji "
+"dokážu najít také. A až budou všichni tito starci mlít z posledního, budou "
+"mě prosit o to tajemství. Možná budu štědrá. A možná také ne."
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:171
@@ -278,7 +276,7 @@ msgstr ""
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:192
 msgid "Llorvin"
-msgstr "Llorvin"
+msgstr "Lorvin"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:295
@@ -294,11 +292,11 @@ msgid ""
 "for the dock. I will need some traveling money for that, so go, my bat "
 "friends, and find me some gold!"
 msgstr ""
-"Měl bych dostat z ostrova, protože etická komise bude znepokojena potulným "
-"mágem. Nechci být znovu vtažena do hanby! Do rána bych měla dorazit do města "
-"Llorvin. Můžu se tam schovat, dokud se nedostanu do přístaviště. Budu "
-"potřebovat nějaké další peníze na cestu, takže jděte moji netopýří přátelé a "
-"najděte mi nějaké zlato!"
+"Měla bych se dostat z ostrova, protože etická komise bude znepokojena "
+"potulným mágem. Nechci se nechat potupně zavléct zpátky! Do rána bych měla "
+"dorazit do města Lorvin. Můžu se tam schovat, dokud se nedostanu do "
+"přístaviště. Budu na cestu potřebovat nějaké peníze, takže moji netopýří "
+"přátelé, leťte a najděte mi nějaké zlato!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:309
@@ -310,8 +308,8 @@ msgid ""
 "fire."
 msgstr ""
 "Také by bylo dobré mít ještě více netopýrů. Ve zřícenině hradu, kde jsme "
-"cvičili vyvolávání ohně jich byly kolonie. Pokusím se to najít. Zříceninu "
-"také napadly obrovské krysy, ale jak si tak vzpomínám, tak je určitě umím "
+"cvičili vyvolávání ohně, jich byla kolonie. Pokusím se to najít. Pokud si "
+"vzpomínám, tak byl hrad také zamořen obřími krysami. Ty ale určitě zvládnu "
 "zničit. Budu muset používat led, protože jsem nikdy nezvládla oheň."
 
 #. [message]: speaker=Ardonna
@@ -334,7 +332,7 @@ msgstr ""
 #. [scenario]: id=02_Dark_Business
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:11
 msgid "Dark Business"
-msgstr "Temný Podnik"
+msgstr "Temný podnik"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:24
@@ -345,11 +343,11 @@ msgid ""
 "animate a human body when night fell. With my dark cloak, I resembled the "
 "mourners, and with my hood up, nobody could see my hair."
 msgstr ""
-"16 III, 23 YW:\n"
+"16. III. roku 23 w. l.:\n"
 "\n"
-"Rozhodla jsem se skrýt na hřbitově, takže když přišla noc, tak jsem mohla "
-"vyzkoušet svůj experiment s aplikováním mé vůle na lidské tělo. S mým tmavým "
-"pláštěm jsem připomínala truchlící a se svou kapucí nikdo neviděl mé vlasy."
+"Rozhodla jsem se skrýt na hřbitově. Takže když přišla noc, mohla jsem "
+"vyzkoušet svůj experiment s oživováním lidského těla. Se svým tmavým pláštěm "
+"jsem připomínala truchlící a s kapucí na hlavě nikdo neviděl mé vlasy."
 
 #. [side]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:66
@@ -359,17 +357,17 @@ msgstr "Stráže"
 #. [set_variable]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:89
 msgid "Raise Walking Corpse (8 Gold)"
-msgstr "Vyvolat chodící mrtvolu (8 Zlatých)"
+msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
 
 #. [set_variable]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:96
 msgid "Raise Skeleton (15 Gold)"
-msgstr "Vyvolat Kostlivce (15 Zlatých)"
+msgstr "Vyvolat kostlivce (15 zlatých)"
 
 #. [set_variable]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:103
 msgid "Raise Skeleton Archer (14 Gold)"
-msgstr "Vyvolat Kostlivce Lučišníka (15 Zlatých)"
+msgstr "Vyvolat kostlivce lučišníka (15 zlatých)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:156
@@ -385,13 +383,13 @@ msgstr "Zabij všechny stráže a obsaď strážnici"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:247
 msgid "Right-click on a grave adjacent to your leader to raise a unit."
 msgstr ""
-"Kliknutím pravím tlačítkem na hrob vedle tvého velitele můžeš vyvolat "
+"Kliknutím pravým tlačítkem na hrob vedle tvého velitele můžeš vyvolat "
 "jednotku."
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:250
 msgid "Each grave can be used only once."
-msgstr "Každý hrob může být použit pouze jednou."
+msgstr "Každý hrob lze použít pouze jednou."
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:259
@@ -441,27 +439,27 @@ msgstr "Vin"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:291
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:293
 msgid "Caradoc"
-msgstr "Caradoc"
+msgstr "Karadok"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:393
 msgid "Oh, hello friend! I didn't know you were hiding in there."
-msgstr ""
+msgstr "A nazdárek přítelíčku! Nevěděla jsem, že se tam schováváš."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:399
 msgid "Oh, hello! You're a handsome one."
-msgstr ""
+msgstr "A nazdárek! Ty jsi ale pěkný."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:416
 msgid "Hey, come back! I didn't mean to frighten you."
-msgstr ""
+msgstr "Hej, poleť zpátky! Nechtěla jsem tě vystrašit."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:420
 msgid "Maybe I could attract it if I jingled some coins."
-msgstr ""
+msgstr "Možná by ho přilákalo, kdybych zacinkala nějakými mincemi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:443
@@ -483,7 +481,7 @@ msgstr "Nemáš dostatek zlatých k vyvolání netopýra."
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:573
 msgid "You can now recruit skeletons and skeleton archers!"
-msgstr "Nyní můžeš verbovat Kostlivce a Kostlivé lučištníky!"
+msgstr "Nyní můžeš verbovat kostlivce a kostlivé lučištníky!"
 
 #. [event]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:626
@@ -513,7 +511,7 @@ msgstr "Elomyr"
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:661
 msgid "You can no longer recruit skeletons and skeleton archers."
-msgstr "Již dále nemůžeš verbovat Kostlivce a Kostlivé lučištníky."
+msgstr "Již dále nemůžeš verbovat kostlivce a kostlivé lučištníky."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:728
@@ -560,7 +558,8 @@ msgstr ""
 #. [message]: speaker=Caradoc
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:766
 msgid "Well <i>I</i> say you shouldn’t question orders, so pipe down."
-msgstr "No, <i>já</i> tvrdím, že by jsme neměli zpochybňovat rozkazy."
+msgstr ""
+"No, <i>já</i> tvrdím, že byste neměli zpochybňovat rozkazy, takže zklapněte."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:805
@@ -571,11 +570,10 @@ msgid ""
 "\n"
 "Well, I might as well do my experiment and worry about leaving later."
 msgstr ""
-"Musí hlídat hřbitov <i>kvůli mě</i>! Možná byl Aimucasur opravdu tak "
+"Musí hlídat hřbitov <i>kvůli mě</i>! Možná byl Aimukasur opravdu tak "
 "podezřívavý... Je dobře, že jsem se sem dostala, ale jak se dostanu ven?\n"
 "\n"
-"No, asi bych mohla nejdříve trochu experimentovat a pak se teprve starat o "
-"odchod."
+"No, asi bych tedy měla udělat svůj experiment a o odchod se starat později."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:830
@@ -601,7 +599,7 @@ msgstr "Uhrrr."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:848
 msgid ""
 "It seems that my first guess was correct. The poor creature is mindless."
-msgstr "Zdá se, že můj první odhad byl správný. Toto stvoření je hloupé."
+msgstr "Zdá se, že můj první odhad byl správný. To ubohé stvoření je hloupé."
 
 #. [message]: speaker=Veomyr
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:862
@@ -616,7 +614,7 @@ msgstr "Kdo je tam?"
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:893
 msgid "It’s only me. Is the cemetery closed then? I was about to leave."
-msgstr "To jsem jen já. Hřbitov je zavřený? Zrovna jsem se chystala odejít."
+msgstr "To jsem jen já. Hřbitov už je zavřený? Zrovna jsem se chystala odejít."
 
 #. [message]: speaker=Syrillin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:897
@@ -641,7 +639,7 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:909
 msgid "Hey! Don't do that, or I will need more of them."
-msgstr "Hele! Nedělejte to, nebo jich budu potřebovat víc."
+msgstr "Hej! Nedělejte to, nebo jich budu potřebovat víc."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:913
@@ -650,7 +648,7 @@ msgid ""
 "guardhouse. Go take it, my companions."
 msgstr ""
 "Bylo by určitě lepší, kdybych měla nějaké zbraně a vsadím se, že jich pár "
-"najdu ve strážnici. Jděte a přineste je moji společníci."
+"najdu ve strážnici. Jděte a přineste je, moji společníci."
 
 #. [message]: speaker=Caradoc
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:917
@@ -684,15 +682,15 @@ msgid ""
 "the docks. A ship should be leaving for Blackwater Port in a few days, and I "
 "mean to be on it."
 msgstr ""
-"17 III, 23 YW:\n"
+"17. III. roku 23 w. l.:\n"
 "\n"
-"I přes zdržení na hřbitově jsem se na předměstí Llorvinu dostala s prvními "
+"I přes zdržení na hřbitově jsem se na předměstí Lorvinu dostala s prvními "
 "slunečními paprsky. A když slunce stálo vysoko nad vrcholky hor, tak už byl "
-"Llorvin daleko zamnou. Pochybuji, že mě mágové z akademie budou hledat "
+"Lorvin daleko za mnou. Pochybuji, že mě mágové z akademie budou hledat "
 "takhle daleko v neprostupných divočinách, které obývají jen dřevorubci. "
 "Navíc se s mými novými společníky cítím natolik v bezpečí, že cestuji i "
-"během dne. Jdu na východ a pak na sever k dokům. Loď, která míří do přístavu "
-"temných vod vyjíždí už za pár dní."
+"během dne. Mířím na východ a pak na sever k přístavišti. Loď, která míří do "
+"přístavu Temná Voda, vyjíždí už za pár dní a já hodlám na ní být."
 
 #. [side]: type=Bandit, id=Garcyn
 #. [unit]: type=Ghoul
@@ -726,13 +724,14 @@ msgid ""
 "Huh. Well, they’re not the first ugly things we’ve seen in the wilds. Your "
 "club crushes bone just fine, so crush them."
 msgstr ""
-"Hmm... No, není to první ošklivá věc, se kterou jsme se setkali. Vaše kyje "
-"snadno roztlučou jejich kosti na prach, takže je pojďme roztlouct."
+"Hmm... No, není to první ošklivá věc, se kterou jsme se tady v divočině "
+"setkali. Vaše kyje snadno roztlučou jejich kosti na prach, takže pojďme "
+"roztloukat."
 
 #. [message]: speaker={ID}
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:108
 msgid "And there is a white-haired girl."
-msgstr "A je tu holka s bílými vlasy."
+msgstr "A je tam holka s bílými vlasy."
 
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:112
@@ -747,7 +746,7 @@ msgstr "Ne!"
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:207
 msgid "You have earned my wrath, wench. Death will be too good for you!"
-msgstr "Teď se dočkáš mého hněvu děvče. Smrt pro tebe bude příliš dobrá!"
+msgstr "Teď se dočkáš mého hněvu, děvče. Smrt pro tebe bude příliš dobrá!"
 
 #. [message]: speaker=Mossa
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:216
@@ -760,7 +759,7 @@ msgid ""
 "Prey approaches, dearest. It’s an unusual band, but the ones with weapons "
 "look underfed."
 msgstr ""
-"Přiblužuje se kořist můj pane. Je to sice podivná banda, ale ti se zbraněmi "
+"Přibližuje se kořist, drahý. Je to sice podivná banda, ale ti se zbraněmi "
 "vypadají dost podvyživeně."
 
 #. [message]: speaker=Garcyn
@@ -774,8 +773,8 @@ msgid ""
 "I think we were just spotted from that hill. Weapons up, my friends. We may "
 "be walking into an ambush."
 msgstr ""
-"Myslím, že jsme byli spatřeni tam z toho kopce. Připravte si zbraně přátelé. "
-"Možná jdeme do léčky."
+"Myslím, že jsme byli právě spatřeni tam z toho kopce. Připravte si zbraně, "
+"přátelé. Možná jdeme do léčky."
 
 #. [message]: speaker=Garcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/03_Bandits.cfg:244
@@ -810,15 +809,16 @@ msgid ""
 "itself! Over a period of hours, slabs of flesh became weak and threatened to "
 "fall off his frame. I was obliged to stitch them in place."
 msgstr ""
-"22 III, 23 YW\n"
+"22. III. roku 23 w. l.:\n"
 "\n"
-"Výzkum někdy vyžaduje experimenty, takže jsem začala. Pomocí své vůle jsem "
-"přinutila banditu, aby spolupracoval a stal se tak mou loutkou. Bránil se, "
-"ale díky mým nedávným zkušenostem se má vůle ukázala býti silnější. Zvláštní "
-"je, že i tak vnitřek jeho těla odolával a útočil na mě. Jenže, protože jsem "
-"fyzicky uvnitř něho vůbec nebyla, tak to skončilo útokem na sebe sama! Během "
-"několika hodin začaly být kousky jeho masa tak slabými, že hrozilo, že se "
-"neudrží na kostře. Musela jsem je přišít zpět na jejich původní místo."
+"Výzkum někdy vyžaduje experimenty, takže jsem začala. Napřela jsem svou vůli "
+"do životních procesů bandity, takže se stal mou loutkou. Bránil se, ale díky "
+"mým nedávným zkušenostem se má vůle ukázala býti silnější. Zvláštní je, že i "
+"tak vnitřek jeho těla odolával a útočil na mě jako na vetřelce. Jenže, "
+"protože jsem uvnitř něho fyzicky vůbec nebyla, to skončilo útokem na sebe "
+"sama! Během několika hodin začaly být kousky jeho masa tak slabými, že "
+"hrozilo, že se neudrží na kostře. Musela jsem je přišít zpět na jejich "
+"původní místo."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:45
@@ -837,12 +837,12 @@ msgstr ""
 "jsem dostala nápad, že přidám jejich maso na mou loutku. Přišívala jsem "
 "svaly tam, kde se mi zdálo, že se hodí a používala jsem magii, abych "
 "zlepšila jejich spojení a zvýšila jim sílu. Nejprve každý nový kus masa "
-"způsobil další násilnou reakci na obranu těla. Nakonec se ale reakce "
-"oslabily a tělo se stabilizovalo ve své nové konfiguraci, ačkoli v této "
-"podobě bylo tělo hnusné a nerozpoznatelné. Mysl uvnitř se jenom chvěla nad "
-"tím, co se stalo, ale bandita mi přál osud horší než smrt, takže se mi to "
-"nezdálo příliš nespravedlivé."
+"způsobil další násilnou obrannou reakci těla. Nakonec se ale reakce oslabily "
+"a tělo se stabilizovalo ve své nové konfiguraci, ačkoli bylo v této podobě "
+"hnusné a nerozpoznatelné. V mysli jsem se otřásla nad tím, kam to došlo. Ale "
+"bandita mi přál osud horší než smrt, takže se mi to zdálo docela spravedlivé."
 
+# Nechávám formulaci s kurzívou, neboť je pěkná.
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:52
 msgid ""
@@ -855,10 +855,11 @@ msgid ""
 msgstr ""
 "Pracujíc v banditově vlastní tvrzi jsem postup opakovala na několika jeho "
 "těžce poraněných společnících. Nikdo z nich nebyl tak silný jako jejich "
-"vůdce a ačkoliv jeden z nich zemřel, tak mi to nevadilo. Stejně jsem ho "
+"vůdce. I když jeden z nich nepřežil, nevadilo mi to. Stejně jsem ho "
 "připojila do své armády, akorát trochu <i>jinak</i>. Pak jsem se opět vydala "
-"na cestu do přístavu a skrytá nocí jsem naložila svou armádu do podpalubí "
-"čekající lodi. Následující odpoledne jsem se nalodila jako normální pasažér."
+"na cestu do přístavu a pod rouškou noci jsem naložila svou armádu do "
+"podpalubí čekající lodi. Následující odpoledne jsem se nalodila jako "
+"normální pasažér."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:59
@@ -871,18 +872,18 @@ msgid ""
 "and the living ones soon got hungry. When one of the crew disappeared on the "
 "second evening, I suspected the cause. I was not wrong."
 msgstr ""
-"25 III, 23 YW\n"
+"25. III. roku 23 w. l.:\n"
 "\n"
-"Cesta začala docela dobře, ale během následujícího úsvitu se vítr uklidnil a "
-"my jsme uvízli. Pro platící pasažéry by zde byl dostatek jídla na pár dní "
-"tohoto bezvětří, ale pro mé společníky ne. Ti žijící brzy dostali hlad a "
-"když druhý večer zmizel jeden člen posádky, tak jsem tušila příčinu. "
+"Cesta začala docela dobře. Ale během následujícího úsvitu přestal foukat "
+"vítr a my jsme uvízli. Pro platící pasažéry byl na lodi dostatek jídla na "
+"pár dní tohoto bezvětří, ale pro mé společníky ne. Ti žijící brzy dostali "
+"hlad. Když druhý večer zmizel jeden člen posádky, tušila jsem příčinu. "
 "Nemýlila jsem se."
 
 #. [time]: id=lower_deck
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:77
 msgid "Underground"
-msgstr "Podzemí"
+msgstr "Podpalubí"
 
 #. [side]: type=Sea Captain, id=Rudic
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:102
@@ -894,13 +895,16 @@ msgstr "Lodní posádka"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:104
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:616
 msgid "Rudic"
-msgstr "Rudic"
+msgstr "Rudik"
 
+# Přesnější vyjádření.
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:209
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:120
 msgid "You can recruit from anywhere on the two highest decks."
-msgstr "Můžeš rekrutovat z libovolného místa na dvou nejvyšších palubách."
+msgstr ""
+"Můžeš verbovat nebo přivolávat jednotky z libovolného místa na dvou "
+"zvýšených palubách na přídi a zádi."
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:212
@@ -911,7 +915,7 @@ msgstr "Sudy fungují jako vesnice."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:215
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:123
 msgid "Right-click to simplify the ship graphics."
-msgstr "Klepnutím pravým tlačítkem myši se zjednoduší grafika lodi."
+msgstr "Kliknutím pravým tlačítkem kamkoli můžeš zjednodušit grafiku lodi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:456
@@ -931,8 +935,8 @@ msgid ""
 "shadows, and he smelled foul."
 msgstr ""
 "Našel jsem Janryna v podpalubí. Nebo, spíš... to co z něj zbylo. Je mrtvý. "
-"Ale nezůstal jsem tam, abych zjistil, co ho zabilo, protože ve stínech se "
-"něco pohybovalo a byl cítit hnusný zápach."
+"Nezůstal jsem tam, abych zjistil, co ho zabilo, ale ve stínech se něco "
+"pohybovalo a byl cítit hnusný zápach."
 
 #. [message]: speaker=Rudic
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:502
@@ -941,9 +945,9 @@ msgid ""
 "crew and get them up here. We’re going hunting. All passengers are confined "
 "to quarters immediately."
 msgstr ""
-"Vraždící pasažéři na mé lodi? To nebudu tolerovat! Jděte sehnat zbytek "
-"posádky a přiveďte je sem. Půjdeme lovit. Všichni cestující ať jsou okamžitě "
-"uzavřeni do jejich kajut."
+"Vraždící černí pasažéři na mé lodi? To nebudu tolerovat! Jdi sehnat zbytek "
+"posádky a přiveď je sem. Čeká nás lov. Všichni cestující ať jsou okamžitě "
+"uzavřeni do svých kajut."
 
 #. [message]: speaker=Rudic
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:563
@@ -953,7 +957,7 @@ msgstr "Ty! Temná dívko. Proč nejsi ve své kajutě?"
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:567
 msgid "What if I said something in defense of the stowaways?"
-msgstr "Co kdyby jsem řekla něco na obranu černých pasažérů?"
+msgstr "Co kdybych řekla něco na obranu těch černých pasažérů?"
 
 #. [message]: speaker=Rudic
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:571
@@ -966,9 +970,9 @@ msgid ""
 "They are my companions, and the poor things are just terribly hungry. I’m "
 "sorry we didn’t pay the full amount, but maybe we can reach some arrangement."
 msgstr ""
-"Jsou to moji společníci a jsou chudí a prostě jsou strašlivě hladoví. "
-"Omlouvám se, že jsme nezaplatili celou částku, ale možná se můžeme nějak "
-"dohodnout."
+"Jsou to moji společníci. A ta ubožátka jsou prostě strašlivě hladová. "
+"Omlouvám se, že jsme nezaplatili celou částku za přepravu, ale možná se "
+"můžeme nějak dohodnout."
 
 #. [message]: speaker=Rudic
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:579
@@ -977,17 +981,18 @@ msgid ""
 "that suits me is the lot of you off my ship, preferably at the bottom of the "
 "sea."
 msgstr ""
-"Zabili člena mé posádky a měli mě za blázna! Jediné urovnání, které mi "
-"vyhovuje, je hodit vás přes palubu."
+"Zabili člena mé posádky a ze mě udělali blázna! Jediné urovnání, které mi "
+"vyhovuje, je hodit vás přes palubu, nejlépe do nejhlubšího moře."
 
+# Asi nedostatek v originále.
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:583
 msgid ""
 "Oh dear. We must do this again. Come to me my friends! If you are still "
 "hungry, feed on a passenger first."
 msgstr ""
-"Achjo... Musíme to udělat znovu. Pojďte ke mě mí přátelé. Pokud jste "
-"hladoví, tak se nejdřív najezte z posádky."
+"Ach jo.. Musíme to udělat znovu. Pojďte ke mě, přátelé! Pokud jste stále "
+"hladoví, snězte nejdřív pasažéry a pak posádku."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:595
@@ -1000,12 +1005,12 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:599
 msgid "Rise Captain, and please retain your memories."
-msgstr "Povstaň Kapitáne a prosím, zachovej si své vzpomínky."
+msgstr "Povstaň kapitáne a prosím, zachovej si své vzpomínky!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:629
 msgid "Can you still sail this ship?"
-msgstr "Dokážeš stále plout s touto lodí?"
+msgstr "Dokážeš s touto lodí stále plout?"
 
 #. [message]: speaker=Bone Captain
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:634
@@ -1017,12 +1022,13 @@ msgstr "Plout. Ano. Potřebovat vítr."
 msgid ""
 "Oh! It worked! Take us to port, Captain, as soon as you do have the wind."
 msgstr ""
-"Fungovalo to! Kapitáne, vezmi nás do přístavu hned, jak se zvedne vítr."
+"Jo! Fungovalo to! Kapitáne, vezmi nás do přístavu hned, jak se zvedne vítr."
 
+# Aspoň se to netluče s názvem scénáře z jiné kampaně.
 #. [scenario]: id=05_Blackwater
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:13
 msgid "Blackwater"
-msgstr "Přístav Temných Vod"
+msgstr "Temná Voda"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:26
@@ -1034,11 +1040,11 @@ msgid ""
 "other passengers bore out that conclusion. Just think: They may be the first "
 "people on this continent to live forever!"
 msgstr ""
-"29 III, 23 YW\n"
+"29. III. roku 23 w. l.:\n"
 "\n"
-"To, že si kapitán zachoval své vzpomínky jsem přisuzovala tomu, že byl "
-"vyvolán tak brzo po jeho smrti. Další experimenty s ostatními cestujícími to "
-"potvrdily. Jen si pomyslet: Oni mohou být první lidé na tomto kontinentu, "
+"To, že si kapitán zachoval své vzpomínky, jsem přisuzovala tomu, že byl "
+"vyvolán tak brzo po své smrti. Další experimenty s ostatními cestujícími to "
+"potvrdily. Jen si pomyslete: Mohou být prvními lidmi na tomto kontinentu, "
 "kteří budou žít navždy!"
 
 #. [part]
@@ -1048,9 +1054,9 @@ msgid ""
 "problems for a time. Now I must go, as the captain prepares to guide the "
 "ship into port."
 msgstr ""
-"Kapitán byl naštěstí poměrně bohatý, takže se mi alespoň na nějakou dobu "
-"vyřeší problémy s příjmy. Teď musím jít, protože kapitán se připravuje na "
-"zavedení lodi do přístavu."
+"Kapitán byl naštěstí poměrně bohatý, což mi alespoň na nějakou dobu vyřeší "
+"problémy s penězi. Teď už musím jít, protože kapitán se připravuje na "
+"přistání lodi v přístavu."
 
 #. [side]: id=Gweddyn, type=Knight
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:56
@@ -1078,7 +1084,7 @@ msgstr "Zabij každou nepřátelskou jednotku"
 #. [message]: speaker=Gweddyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:312
 msgid "Ho Rudic! Welcome. You are late, old friend."
-msgstr "Rudicu! Vítej. Jedeš pozdě, starý příteli."
+msgstr "Ahoj Rudiku! Vítej. Jedeš pozdě, starý příteli."
 
 #. [message]: speaker=Bone Captain
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:316
@@ -1106,8 +1112,8 @@ msgid ""
 "Ha! Well, actually, you do look terrible. Very... gray, and your face is... "
 "But we’re speaking! You can’t actually be dead!"
 msgstr ""
-"No, vlastně vypadáš strašně. Velice... šedě a tvoje tvář je... Ale mluvíme! "
-"Nemůžeš být skutečně mrtvý!"
+"No, vlastně vypadáš strašně. Velice... šedě a tvoje tvář je... Ale přece "
+"spolu mluvíme! Nemůžeš být skutečně mrtvý!"
 
 #. [message]: speaker=Bone Captain
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:336
@@ -1129,7 +1135,7 @@ msgstr "Je to magie, můj pane. Temná magie."
 msgid ""
 "Necromancy! The penalty for that is death. Rudic, who is responsible for "
 "this?"
-msgstr "Nekromancie! Trestí za ní je smrt. Rudicu, kdo je za to zodpovědný?"
+msgstr "Nekromancie! Trestá se smrtí. Rudiku, kdo je za to zodpovědný?"
 
 #. [message]: speaker=Bone Captain
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:352
@@ -1139,12 +1145,12 @@ msgstr "Ona."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:356
 msgid "Ah, well. I should have known this wouldn’t be easy."
-msgstr "No dobře... Měla jsem tušit, že to nebude snadné."
+msgstr "No dobře. Měla jsem tušit, že to nebude snadné."
 
 #. [message]: speaker=Gweddyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:360
 msgid "Kill her!"
-msgstr "Zabijte ji!"
+msgstr "Zabte ji!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:364
@@ -1152,8 +1158,8 @@ msgid ""
 "We must leave no one alive to report us, or the entire country will become "
 "unsafe. We have no choice. We must kill them all."
 msgstr ""
-"Nesmíme nikoho nechat naživu, protože když nás prozradí, tak pro nás nikde v "
-"této zemi nebude bezpečno. Nemáme na výběr, musíme je zabít všechny."
+"Nesmíme nikoho nechat naživu, protože když nás nahlásí, tak pro nás nebude "
+"nikde v této zemi bezpečno. Nemáme na výběr, musíme je zabít všechny."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:372
@@ -1168,7 +1174,7 @@ msgstr "Dívko. Následuj mě."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:393
 msgid "What in the world are <i>you</i>?"
-msgstr "Co na světě jsi <i>ty</i>?"
+msgstr "Co pro všechno na světě jsi <i>ty</i>?"
 
 #. [message]: speaker=Shadow
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:397
@@ -1178,14 +1184,14 @@ msgstr "Duch a stín. Ty mě budeš následovat."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:401
 msgid "You’re a ghost... a real ghost! I will indeed follow you. Lead on."
-msgstr "Ty jsi duch... opravdový duch! Budu tě sledovat. Věd mě."
+msgstr "Ty jsi duch... opravdový duch! Budu tě následovat. Veď mě."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:427
 msgid ""
 "Blackwater Port is defeated, but we must let none escape. Finish them all."
 msgstr ""
-"Přístav Temných Vod je dobyt, ale nesmíme nechat nikoho uniknout. Zabijte je "
+"Přístav Temná Voda je dobyt, ale nesmíme nechat nikoho uniknout. Zabijte je "
 "všechny."
 
 #. [scenario]: id=06_Following_the_Shadow
@@ -1206,15 +1212,15 @@ msgid ""
 "raised friends. I am disappointed, but the existence of my strange new "
 "companion keeps me from being depressed."
 msgstr ""
-"3 IV, 23 YW\n"
+"3. IV. roku 23 w. l.:\n"
 "\n"
 "Byla jsem si jistá, že jsem nalezla odpověď! Ale mýlila jsem se... Chtěla "
-"jsem uvěřit tomu, že se mi to jen zdá, ale nyní je jasné, že kapitánovi "
-"vzpomínky se vytratí. Stále mu sice zůstala řeč a ostatní bojují mnohem "
-"lépe, když se na ně dívá (mnoho z nich bývalo jeho posádkou - a nejspíš to "
-"pro ně bylo zvykem), ale stejně si pamatuje jen na málo vzpomínek. Totéž "
-"platí i pro mé ostatní nedávno vyvolané přátele. Jsem zklamaná, ale "
-"existence mého nového podivného společníka mě brání proti depresi."
+"jsem uvěřit tomu, že se mi to jen zdá, ale nyní je jasné, že kapitánovy "
+"vzpomínky se vytrácí. Stále má sice schopnost mluvit a ostatní bojují mnohem "
+"lépe, když na ně dohlíží (mnoho z nich bývalo jeho posádkou a nejspíš to pro "
+"ně bylo zvykem), ale stejně si pamatuje již jen málo. Totéž platí i pro mé "
+"ostatní nedávno vyvolané přátele. Jsem zklamaná, ale existence mého nového "
+"podivného společníka mi zlepšuje náladu."
 
 #. [else]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:35
@@ -1226,13 +1232,13 @@ msgid ""
 "retain the power of speech, but precious little else. I am disappointed, but "
 "the existence of my strange new companion keeps me from being depressed."
 msgstr ""
-"3 IV, 23 YW\n"
+"3. IV. roku 23 w. l.:\n"
 "\n"
 "Byla jsem si jistá, že jsem nalezla odpověď! Ale mýlila jsem se... Chtěla "
 "jsem uvěřit tomu, že se mi to jen zdá, ale nyní je jasné, že vzpomínky mých "
-"nedávno vyvolaných přátel s časem mizí. Stále jim sice zůstala schopnost "
+"nedávno vyvolaných přátel se vytrácí. Stále jim sice zůstala schopnost "
 "mluvit, ale jen velice omezeně. Jsem zklamaná, ale existence mého nového "
-"podivného společníka mě brání v depresi."
+"podivného společníka mi zlepšuje náladu."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:48
@@ -1244,22 +1250,22 @@ msgid ""
 "the spirit is practically invisible. We have not had any trouble on the road "
 "yet, but we <i>are</i> a rather large company now, so I have not expected it."
 msgstr ""
-"Fantom nás vede na sever. Představil se jako duch Vash-Gorna, skřeta. Takže "
+"Fantom nás vede na sever. Představil se jako duch Vaš-Gorna, skřeta. Takže "
 "si to pamatuje! Zdá se, že problém byl vyřešen, jenže duch ignoruje všechny "
 "mé otázky. Hořím zvědavostí a doufám, že se brzy dostaneme do cíle! "
-"Cestujeme jen přes den, protože v noci je duch prakticky neviditelný. Cestou "
-"jsme zatím neměli žádné potíže, ale <i>jsme</i> teď poměrně velká skupina, "
+"Cestujeme jen přes den, protože v noci je duch prakticky neviditelný. Zatím "
+"jsme cestou neměli žádné potíže, ale <i>jsme</i> teď poměrně velká skupina, "
 "takže jsem ani žádné nečekala."
 
 #. [side]: type=Direwolf Rider, id=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:72
 msgid "Goblin Raiders"
-msgstr "Goblin Raiders"
+msgstr "Goblinní nájezdníci"
 
 #. [side]: type=Direwolf Rider, id=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:75
 msgid "Bogdush"
-msgstr "Bogdush"
+msgstr "Bogduš"
 
 #. [unit]: type=Goblin Pillager, id=Blaust
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:84
@@ -1282,8 +1288,8 @@ msgid ""
 "Look, there is a cavern below the cave floor. What might we rouse if we go "
 "tromping about in the cave? I hope it is nothing worse than bats."
 msgstr ""
-"Podívejte, pod tou podlahou je sluj. Co bychom mohli probudit, když tady "
-"dupeme po jeskyni? Doufám, že nic horšího než netopýry."
+"Podívejte, pod jeskyní je sluj. Co bychom mohli probudit, když tady dupeme "
+"po jeskyni? Doufám, že nic horšího než netopýry."
 
 #. [message]: speaker=Bone Captain
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:229
@@ -1307,12 +1313,12 @@ msgstr ""
 msgid ""
 "There is a tunnel at the back of the cave! The ghost must have gone through "
 "there."
-msgstr "V zadní části té jeskyně je tunel! Ten duch jím musel projít."
+msgstr "V zadní části jeskyně je tunel! Ten duch jím musel projít."
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:284
 msgid "Move Ardonna to the tunnel"
-msgstr "Přesuň Ardonnu na tunel"
+msgstr "Přesuň Ardonnu k tunelu"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:513
@@ -1339,7 +1345,7 @@ msgstr "Následujme ho do té jeskyně."
 msgid ""
 "I don’t know, Bogdush. The chief said he wanted stuff that was helpful for "
 "the war."
-msgstr "Nevím Bogduši. Šéf řekl, že chce něco, co by bylo užitečné pro válku."
+msgstr "Nevím Bogduši. Šéf říkal, že chce něco, co by bylo užitečný pro válku."
 
 #. [message]: speaker=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:574
@@ -1348,20 +1354,20 @@ msgid ""
 "It’s only a pup, and unless I miss my guess, it’s a female too. It will be "
 "easy to capture."
 msgstr ""
-"Je to <i>mág</i>! Ten <i>je</i> užitečný pro válku ty idiote! Je to sice "
-"zatím jen štěně, a pokud se nemýlím, myslím, že je to žena. Bude snadné "
-"chytit."
+"Je to <i>mág</i>! Ten <i>je</i> užitečnej pro válku ty idiote! Je to sice "
+"zatím jen štěně, a pokud se nemejlím, taky jen ženská. Bude snadný ji "
+"chytnout."
 
 #. [message]: speaker=Blaust
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:578
 msgid ""
 "What about the others? They look like the dead ones back on the Green Isle."
-msgstr "A co ostatní? Vypadají jako mrtví ze zeleného ostrova."
+msgstr "A co vostatní? Vypadaj jako ti mrtvoláci ze Zelenýho vostrova."
 
 #. [message]: speaker=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:582
 msgid "They are. It makes our job of killing them that much easier!"
-msgstr "Taky že jsou! Bude o to snadnější je zabít!"
+msgstr "Taky že sou! Vo to bude snazší je zabít!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:592
@@ -1371,7 +1377,7 @@ msgstr "Vy musíte být goblini. Kliďte se mi z cesty, pokud si přejete žít.
 #. [message]: speaker=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:596
 msgid "Oh, it’s a mage that makes jokes too! Let’s go."
-msgstr "Hele, je to mág, který umí dělat i vtipy! Jdeme."
+msgstr "Hele, ta magyně umí dělat i vtipy! Jdem."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:606
@@ -1393,11 +1399,11 @@ msgid ""
 "Patches of fungus on the wall gave off a feeble glow that kept me from "
 "stumbling too badly. Finally I saw a brighter light up ahead."
 msgstr ""
-"9 IV, 23 YW\n"
+"9. IV. roku 23 w. l.:\n"
 "\n"
-"Tunel v zadní části jeskyně se postupně zužoval. Skvrny plísní na zdi slabě "
-"světélkovaly, což mi pomáhalo, abych pořád neklopýtala. Nakonec jsem před "
-"sebou spatřila jasnější světlo."
+"Tunel v zadní části jeskyně pokračoval dál, ale byl stále užší. Skvrny "
+"plísní na zdech slabě světélkovaly, což mi pomáhalo, abych se nepřerazila. "
+"Nakonec jsem před sebou spatřila jasnější světlo."
 
 #. [side]: type=Dark Sorcerer SotA, id=Ras-Tabahn
 #. [unit]: type=Sacrifice, id=necromancer_on_altar
@@ -1412,7 +1418,7 @@ msgstr "Ras-Tabahn"
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:162
 msgid "Oh, wow."
-msgstr "Óóó, wow."
+msgstr "Óóó, vau."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:166
@@ -1422,7 +1428,7 @@ msgstr "Já jsem Ras-Tabahn. Vítej v mé laboratoři Ardonno z Tarrynthu!"
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:170
 msgid "How do you know my name?"
-msgstr "Odkud znáte mé jméno?"
+msgstr "Odkud znáš mé jméno?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:174
@@ -1434,11 +1440,11 @@ msgid ""
 "have even accomplished something which I have not. You have useful creatures "
 "— I believe you call them ghouls?"
 msgstr ""
-"Vím toho o tobě mnoho. Mí duchové tě sledují již delší dobu a ty stejně jako "
-"já sdílíš stejný cíl na odolání smrti. Doufal jsem, že se pár studentů "
-"osvobodí od té konzervativní akademie, ale zdá se, že ty budeš jediná. "
-"Naštěstí jsi poměrně inovativní a dokonce jsi dokázala něco, co nemám. Máš "
-"velmi užitečné bytosti - myslím, že jim říkáš požírači mrtvých?"
+"Vím toho o tobě hodně. Mí duchové tě už nějakou dobu sledují. Ty, stejně "
+"jako já, sdílíš stejný cíl a tím je odolání smrti. Doufal jsem, že se pár "
+"studentů osvobodí od té konzervativní akademie, ale zdá se, že ty budeš "
+"jediná. Naštěstí jsi poměrně nápaditá a dokonce jsi dokázala něco, co já ne. "
+"Máš velmi užitečné bytosti – myslím, že jim říkáš požírači mrtvých?"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:178
@@ -1446,8 +1452,8 @@ msgid ""
 "Yes, I can show you how to make your own, but have you not solved the "
 "problem already with your ghosts?"
 msgstr ""
-"Ano, mohu vám ukázat, jak si vytvořit vlastní, ale nevyřešil jste tento "
-"problém už dávno s vašimi duchy?"
+"Ano, mohu ti ukázat, jak si vytvořit vlastní, ale nevyřešil jsi tento "
+"problém už dávno se svými duchy?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:182
@@ -1463,9 +1469,9 @@ msgstr ""
 "Zatím ne. Duchové si mohou uchovat nějaké vzpomínky, pokud jsou vyvoláni "
 "dostatečně rychle. Potom z nich jsou dobří průzkumníci. A když mají více "
 "zkušeností, tak i vojáci. Ale nechtěla by ses stát jedním z nich. Vidíš ty "
-"čepele, které Vash-Gorn nese? Musel jsem provést komplikovaný rituál, než "
-"jsem dokázal svázat tento kov s duchem. Ten rituál se nedá vykonat bez "
-"fyzického těla. A neschopnost komunikovat se okolním světem by byla strašně "
+"čepele, které Vaš-Gorn nese? Musel jsem provést komplikovaný rituál, než "
+"jsem dokázal svázat ten kov s duchem. Ten rituál se nedá vykonat bez "
+"fyzického těla. A neschopnost komunikovat s okolním světem by byla strašně "
 "frustrující. Na tom teď ale nesejde. Mám jiný nápad."
 
 #. [message]: speaker=Ras-Tabahn
@@ -1477,13 +1483,13 @@ msgid ""
 msgstr ""
 "Věřím, že vím, jak získat informace, které hledáme, ale pro mě samotného by "
 "to bylo příliš obtížné. Proto budeme odteď pokračovat v misi společně, ty a "
-"já. Za prvé rozšíříme naše armády a pak..."
+"já. Za prvé rozšíříme své armády a pak..."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:190
 msgid "Wait. I have heard nothing yet that makes me think I should trust you."
 msgstr ""
-"Počkat, Ještě jsem neslyšela nic, co by mě přimělo myslet si, že vám mohu "
+"Počkat, Ještě jsem neslyšela nic, co by mě přimělo myslet si, že ti mohu "
 "věřit."
 
 #. [message]: speaker=Ras-Tabahn
@@ -1499,12 +1505,12 @@ msgid ""
 "finishing before it is too late for us."
 msgstr ""
 "Ehm... Ano, předpokládám že ne. Dovol mi, abych tě naučil některé z věcí, "
-"které znám a přitom zjisti, zda změníš svůj názor. Otázka důvěry ale není to "
+"které znám a uvidíš, zda změníš svůj názor. Otázka důvěry ale není to "
 "nejdůležitější. Otázkou je, zda budeme schopni spolupracovat, či nikoliv. "
-"Poslouchej. Starověký Wesfolk piloval své umění z generace na generaci. Je "
-"zde více věcí, které můžeš poznat, než aby ti na to stačil život. Pokud "
-"učiníš svůj výzkum sama, tak stejně budeš jednoho dne stejně stará jako já a "
-"tvá smrt tě bude stále neúnavně sledovat. Pokud ale náš výzkum spojíme, máme "
+"Poslouchej. Starověcí Wesané pilovali své umění po generace. Je toho víc, co "
+"se lze naučit a na co ti nebude stačit snad ani celý život. Pokud budeš "
+"dělat svůj výzkum sama, tak budeš jednoho dne stejně stará jako já a tvá "
+"smrt tě bude stále neúnavně sledovat. Pokud ale náš výzkum spojíme, máme "
 "šanci ho dokončit dřív, než bude pro nás oba moc pozdě."
 
 #. [message]: speaker=Ardonna
@@ -1513,8 +1519,8 @@ msgid ""
 "For you, you mean. I am only nineteen. Still, you make a good case. We can "
 "work together for now."
 msgstr ""
-"Tím myslíte pozdě pro vás. Mě je zatím jen devatenáct. Přesto je to dobrý "
-"důvod. Prozatím můžeme spolupracovat."
+"Tím myslíš pro tebe. Mě je zatím jen devatenáct. Přesto je to dobrý důvod. "
+"Prozatím můžeme spolupracovat."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:202
@@ -1530,10 +1536,9 @@ msgstr ""
 "Skvěle. Zde je to, co navrhuji. Nejprve se na čas rozdělíme a ty podle mých "
 "pokynů navážeš sílu duchů. Mezitím se já pokusím o výcvik místních rolníků v "
 "umění magie. Neočekávám od té nevzdělané chátry mnoho, ale doufejme, že "
-"někteří budou dostatečně inteligentní na to, aby se k nám přidali. A až se "
+"někteří budou dostatečně inteligentní na to, aby se k nám přidali. Až se "
 "znovu setkáme, tak mi ukážeš, jak vytvořit jednoho z těch kolébajících se "
-"požíračů mrtvol. Ale popravdě na to moc nespěchám, jelikož mají strašný "
-"zápach."
+"požíračů mrtvol. Ale popravdě na to moc nespěchám, jelikož strašně páchnou."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:206
@@ -1543,12 +1548,12 @@ msgstr "No, já nemám čich, takže o tom nevím."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:210
 msgid "Curious, but convenient for one such as us."
-msgstr "Zajímavé, ale praktické pro ty, jako jsme my."
+msgstr "Zajímavé, ale praktické pro takové, jako jsme my."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:214
 msgid "Why can’t I just raise some of the goblins outside?"
-msgstr "Proč prostě nemůžu venku vyvolat pár goblinů?"
+msgstr "Proč prostě nemůžu venku oživit pár goblinů?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:218
@@ -1561,18 +1566,18 @@ msgid ""
 "will meet at the end of the elf road by the Great River, and I will explain "
 "where we should go next."
 msgstr ""
-"Tito goblini jsou příliš slabí a jejich duchům by trvalo dlouho, než by se "
-"stali dostatečně silnými, aby mohli být užiteční. Místo toho použij elfské "
+"Ti goblini jsou příliš slabí a jejich duchům by trvalo dlouho, než by se "
+"stali dostatečně silnými, aby mohli být užiteční. Místo toho použiješ elfí "
 "válečníky. Několik mil od kraje Šedého lesa leží staré bojiště z dob "
-"občanské války před stovkami let. Půjdeš po staré elfské cestě a vytvoříš si "
+"občanské války před stovkami let. Půjdeš po staré elfí cestě a vytvoříš si "
 "zde armádu duchů, zatímco já půjdu navštívit nedaleké město Carcyn. Setkáme "
-"se pak na konci elfské cesty u Velké řeky a já ti vysvětlím, kam bychom měli "
+"se pak na konci elfí cesty u Velké řeky a já ti vysvětlím, kam bychom měli "
 "jít dál."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:222
 msgid "Very well. We will do as you suggest."
-msgstr "Tak dobře. Uděláme, co navrhujete."
+msgstr "Tak dobře. Uděláme, co navrhuješ."
 
 #. [label]
 #. [unit]: type=Ruffian SotA, id=Carcyn
@@ -1617,7 +1622,7 @@ msgstr "Obsaď všechny vesnice"
 #. [unit]: type=Shadow
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:93
 msgid "Vash-Gorn"
-msgstr "Vash-Gorn"
+msgstr "Vaš-Gorn"
 
 #. [unit]: type=Mage, id=Wynran
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:115
@@ -1859,7 +1864,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:137
 msgid "(there will be three waves)"
-msgstr "(budou zde tři vlny)"
+msgstr "(přijdou tři vlny nepřátel)"
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:137
