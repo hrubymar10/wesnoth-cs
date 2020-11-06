@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:00 UTC\n"
-"PO-Revision-Date: 2020-11-05 21:08+0100\n"
+"PO-Revision-Date: 2020-11-06 20:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -522,7 +522,7 @@ msgstr "Jen blázen by se opovážil na mne zaútočit!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:476
 msgid "I am Delfador the Great. Prepare to die!"
-msgstr "Já jsem Delfador Velký. Připrav se na smrt!"
+msgstr "Já jsem Delfador Veliký. Připrav se na smrt!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:488
@@ -4062,7 +4062,7 @@ msgid ""
 "I am Delfador, Delfador the Great, Arch Mage to King Garard, and Protector "
 "of his heir."
 msgstr ""
-"Já jsem Delfador, Delfador Velký, arcimág krále Gararda a ochránce jeho "
+"Já jsem Delfador, Delfador Veliký, arcimág krále Gararda a ochránce jeho "
 "následníka."
 
 #. [message]: speaker=Relgorn
@@ -4079,7 +4079,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:435
 msgid "I am Delfador the Great! Tremble before my wrath!"
-msgstr "Já jsem Delfador Velký. Připrav se na smrt!"
+msgstr "Já jsem Delfador Veliký! Třes se před mým hněvem!"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:440
