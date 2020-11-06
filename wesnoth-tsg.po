@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:01 UTC\n"
-"PO-Revision-Date: 2020-11-01 12:41+0100\n"
+"PO-Revision-Date: 2020-11-06 20:30+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -641,7 +641,7 @@ msgid ""
 "the King sent only you to help us. Did Sir Loris not send word of our plight?"
 msgstr ""
 "Urza Mathin je mrtvý! Veliteli, blahopřeji, i když mě překvapuje, že král "
-"nám vyslal na pomoc jen tebe. Poslal Sir Loris zprávu o naší vážné situaci?"
+"nám vyslal na pomoc jen tebe. Poslal sir Loris zprávu o naší vážné situaci?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:753
@@ -4361,7 +4361,7 @@ msgid ""
 "Look there! The undead have broken through Sir Gerrick’s line! Alas, he is "
 "lost!"
 msgstr ""
-"Pohleďte! Vojsko nemrtvých prorazilo linii Sira Gerricka! Běda, je ztracen!"
+"Pohleďte! Vojsko nemrtvých prorazilo linii sira Gerricka! Běda, je ztracen!"
 
 #. [message]: speaker=Moreth
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:403
