@@ -3006,8 +3006,8 @@ msgid ""
 "Moving any unit onto a bottle of holy water will remove the bottle. An "
 "undead unit will be destroyed."
 msgstr ""
-"Přesunutí jakékoliv jednotky na políčko s lahvičkou svěcené vody odstraní tuto lahvičku "
-"z mapy. Nemrtvou jednotku to zabije."
+"Přesunutí jakékoliv jednotky na políčko s lahvičkou svěcené vody odstraní "
+"tuto lahvičku z mapy. Nemrtvou jednotku to zabije."
 
 #. [unit]: type=White Mage, id=Ginmera
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:224
@@ -3044,8 +3044,9 @@ msgid ""
 "Moving a unit onto a bottle of holy water will remove the bottle. A living "
 "unit can do this safely, but any undead unit will be destroyed."
 msgstr ""
-"Přesunutí jednotky na políčko s lahvičkou svěcené vody odstraní tuto lahvičku z mapy. "
-"Živé jednotce to nic neudělá, ale nemrtvou jednotku to zabije."
+"Přesunutí jednotky na políčko s lahvičkou svěcené vody odstraní tuto "
+"lahvičku z mapy. Živé jednotce to nic neudělá, ale nemrtvou jednotku to "
+"zabije."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:336
