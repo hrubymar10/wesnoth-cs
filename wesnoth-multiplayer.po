@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-10-20 23:14+0200\n"
+"PO-Revision-Date: 2020-11-07 09:54+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1123,7 +1123,7 @@ msgid ""
 "the necromancers from these lands in 961 YW."
 msgstr ""
 "Cynsaunská provincie je pojmenována po královně - válečnici Cynsaun první, "
-"která z těchto zemí vytlačila nekromancery v roce 961 YW."
+"která z těchto zemí vytlačila nekromancery v roce 961 w. l."
 
 #. [multiplayer]: id=multiplayer_2p_Dark_Forecast
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:5
