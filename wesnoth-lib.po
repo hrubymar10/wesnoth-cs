@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 21:00+0300\n"
-"PO-Revision-Date: 2020-06-06 10:54+0200\n"
+"PO-Revision-Date: 2020-11-08 20:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3158,7 +3158,7 @@ msgstr "Datum"
 #: data/gui/window/game_load.cfg:286 data/gui/window/mp_create_game.cfg:898
 #: src/hotkey/hotkey_command.cpp:102
 msgid "Load Game"
-msgstr "Načti hru"
+msgstr "Načíst hru"
 
 #. [toggle_button]: id=change_difficulty
 #: data/gui/window/game_load.cfg:465
