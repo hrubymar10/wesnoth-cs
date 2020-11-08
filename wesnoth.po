@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 01:28-0300\n"
-"PO-Revision-Date: 2020-11-07 09:20+0100\n"
+"PO-Revision-Date: 2020-11-08 19:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4240,21 +4240,16 @@ msgstr "Prohra:"
 
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:57
-#, fuzzy
-#| msgid "(this turn left)"
-#| msgid_plural "(%d turns left)"
 msgid "(this turn left)"
 msgid_plural "($remaining_turns turns left)"
-msgstr[0] "(zbývá tento tah)"
-msgstr[1] "(zbývají %d tahy)"
-msgstr[2] "(zbývá %d tahů)"
+msgstr[0] "(zbývá toto kolo)"
+msgstr[1] "(zbývají $remaining_turns kola)"
+msgstr[2] "(zbývá $remaining_turns kol)"
 
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:119
-#, fuzzy
-#| msgid "%d%% of gold carried over to the next scenario."
 msgid "$percent|% of gold carried over to the next scenario."
-msgstr "%d%% zlata přeneseno do dalšího scénáře."
+msgstr "$percent % zlata přeneseno do dalšího scénáře."
 
 #. [modification]: id=delay_advancements, type=hybrid
 #: data/modifications.cfg:3
@@ -7843,7 +7838,7 @@ msgstr "Národ: "
 
 #: src/reports.cpp:232
 msgid "Side: <b>$side_name</b> ($color_name)"
-msgstr ""
+msgstr "Strana: <b>$side_name</b> ($color_name)"
 
 #: src/reports.cpp:310
 msgid "Trait: "
@@ -8080,14 +8075,10 @@ msgid "Turn Number"
 msgstr "Číslo kola"
 
 #: src/reports.cpp:1391
-#, fuzzy
-#| msgid ""
-#| "When the game reaches the number of turns indicated by the second number, "
-#| "it will end."
 msgid ""
 "When the game exceeds the number of turns indicated by the second number, it "
 "will end."
-msgstr "Když hra dosáhne počtu kol, který je dán druhým číslem, tak skončí."
+msgstr "Když hra přesáhne počet kol, který je dán druhým číslem, tak skončí."
 
 #: src/reports.cpp:1416
 msgid "Gold"
