@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 21:01+0300\n"
-"PO-Revision-Date: 2020-11-07 09:34+0100\n"
+"PO-Revision-Date: 2020-11-08 20:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4081,9 +4081,9 @@ msgstr "Prohra:"
 #: data/lua/wml/objectives.lua:57
 msgid "(this turn left)"
 msgid_plural "(%d turns left)"
-msgstr[0] "(zbývá tento tah)"
-msgstr[1] "(zbývají %d tahy)"
-msgstr[2] "(zbývá %d tahů)"
+msgstr[0] "(zbývá toto kolo)"
+msgstr[1] "(zbývají %d kola)"
+msgstr[2] "(zbývá %d kol)"
 
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:119
