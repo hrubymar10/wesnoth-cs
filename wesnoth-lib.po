@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 01:28-0300\n"
-"PO-Revision-Date: 2020-11-01 21:46+0100\n"
+"PO-Revision-Date: 2020-11-08 19:15+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3355,12 +3355,12 @@ msgstr "Datum"
 #: data/gui/window/game_load.cfg:292 data/gui/window/mp_create_game.cfg:898
 #: src/hotkey/hotkey_command.cpp:102
 msgid "Load Game"
-msgstr "Načti hru"
+msgstr "Načíst hru"
 
 #. [menu_button]: id=dirList
 #: data/gui/window/game_load.cfg:311
 msgid "Show saves from a different version of Wesnoth"
-msgstr ""
+msgstr "Ukázat uložené hry z jiné verze Wesnothu"
 
 #. [toggle_button]: id=change_difficulty
 #: data/gui/window/game_load.cfg:496
@@ -6300,13 +6300,11 @@ msgstr "Herní cache nemohla být vyčištěna."
 
 #: src/gui/dialogs/game_load.cpp:169
 msgid "game_version^Current Version"
-msgstr ""
+msgstr "Současná verze"
 
 #: src/gui/dialogs/game_load.cpp:174
-#, fuzzy
-#| msgid "Version $version"
 msgid "game_version^Wesnoth $version"
-msgstr "Verze $version"
+msgstr "Wesnoth $version"
 
 #: src/gui/dialogs/game_load.cpp:311
 msgid "The selected file is corrupt: "
