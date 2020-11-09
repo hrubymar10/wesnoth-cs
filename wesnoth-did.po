@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-01 13:23+0100\n"
+"PO-Revision-Date: 2020-11-08 21:18+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5551,6 +5551,11 @@ msgid ""
 "always just people tryin’ to be nice and friendly just to get something out "
 "of me. People didn’t care about me. They only cared about my title."
 msgstr ""
+"Myslím, že jsme si nikdy nebyli moc blízcí. Ale stále jsi byl můj bratr. "
+"Víš, jak jsem byla osamělá těch osm let, co jsi studoval na Alduinu? Bylo "
+"opravdu těžké si najít skutečné přátele, když jsi dcerou barona. Vždy to "
+"byli jen lidé, kteří se snažili být milí a přátelští, jen aby ze mě něco "
+"dostali. Nešlo jim o mě. Záleželo jim jen na mém titulu."
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1415
@@ -5561,11 +5566,16 @@ msgid ""
 "and screwed it all up by turnin’ to that dark magic of yours. You don’t know "
 "how much that hurt me. You really don’t, Malin."
 msgstr ""
+"Když ses tehdy vrátil z Alduinu, byla jsem tak šťastná, že tě vidím. "
+"Myslela jsem, že ty a já a papá můžeme konečně znovu být rodinou. Měla bych "
+"konečně někoho, s kým bych mohla mluvit jako s kamarádem. A pak jsi odešel a "
+"všechno to pokazil příklonem k té tvé temné magii. Ani nevíš, jak moc mě to "
+"zranilo. Opravdu nevíš, Maline."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1424
 msgid "That is not my name."
-msgstr ""
+msgstr "Tak se nejmenuji."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1449
@@ -5575,6 +5585,10 @@ msgid ""
 "truly sentient being. In all my years of travels, you were my first and only "
 "apprentice."
 msgstr ""
+"Osamělé je bytí nekromanta. Jakkoli můžeme být obklopeni hordami nemrtvých, "
+"tak příležitost, kdy komunikujeme s jinou skutečně vnímající bytostí, je "
+"příležitostí vzácnou. Během všech těch mých roků na cestách jsi byl můj "
+"první a jediný učeň."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1454
@@ -5585,6 +5599,11 @@ msgid ""
 "me? By betraying me using the very skills I taught you! You are a cursed "
 "soul, Mal Keshar the Damned!"
 msgstr ""
+"Naučil jsem tě všechno, co jsem věděl. Předal jsem ti veškerou sílu, kterou "
+"jsi potřeboval k dosažení svých cílů. Myslel jsem, že mi na oplátku "
+"poskytneš jednu jedinou, malou laskavost a pak už od tebe nebudu víc žádat. "
+"A jak jsi mi to oplatil? Tím, že jsi mě zradil právě pomocí těch dovedností, "
+"co jsem tě naučil! Jsi prokletá duše, Mal Kešare Zatracený!"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1468
@@ -5604,13 +5623,13 @@ msgstr "<i>HAHAHAHAHAHAHAHAHA.</i>"
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1487
 msgid "That is indeed my name."
-msgstr ""
+msgstr "Tak se vskutku jmenuji."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1495
 msgid ""
 "Mal Keshar stares into the abyss, oddly at ease alone amongst the darkness."
-msgstr ""
+msgstr "Mal Kešar zírá do propasti, podivuhodně usebraný, sám mezi temnotou."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1560
@@ -6219,13 +6238,13 @@ msgstr "stínový závoj"
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:135
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:136
 msgid "Allied undead units within a 5 hex radius are hidden."
-msgstr "V okolí 5 políček od jednotky jsou spřátelené nemrtvé jednotky skryté."
+msgstr "V okolí 5 políček od jednotky jsou spojenecké nemrtvé jednotky skryté."
 
 #. [dummy]: id=did_frost_nova
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:238
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:239
 msgid "frost nova"
-msgstr ""
+msgstr "mrazová nova"
 
 #. [dummy]: id=did_frost_nova
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:240
@@ -6234,12 +6253,15 @@ msgid ""
 "On offense, this attack will additionally deal 70% of its damage in cold "
 "damage to all enemies adjacent to the target."
 msgstr ""
+"Tento útok při ofenzivním použití způsobí všem nepřátelským jednotkám v "
+"sousedství cíle dodatečné zranění chladem ve výši 70 % svého základního "
+"poškození."
 
 #. [damage]: id=did_spellbind
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:307
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:308
 msgid "spell bind"
-msgstr ""
+msgstr "kouzelný obvaz"
 
 #. [damage]: id=did_spellbind
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:309
@@ -6248,6 +6270,8 @@ msgid ""
 "When this attack is used, the damage taken from fire, cold, and arcane "
 "attacks will be reduced by 60%."
 msgstr ""
+"Pokud je použit tento útok, zmenší se zranění utržená od ohně, chladu a "
+"nezemských útoků o 60 %."
 
 #. [drains]: id=did_reap
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:325
@@ -6376,16 +6400,16 @@ msgstr "vymršťovač mrtvol"
 # Asi bych ten útok potřeboval vidět v praxi.
 #. [attacks]: id=did_corpse_launcher
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:542
-#, fuzzy
 msgid ""
 "On offense, enemies cannot retaliate against this attack. This attack "
 "consumes 3 HP from each nearby allied corpse to deal 11 impact damage (per "
 "corpse) to the target on top of this attack’s base damage."
 msgstr ""
 "Při ofenzivním použití se nemohou nepřátelé proti tomuto útoku bránit "
-"protiútokem. Z každé sousedící spřátelené chodící mrtvoly se vytáhnou 3 "
-"životy, které se zformují do útoku na cíl úderem v síle 11 (za každou "
-"mrtvolu), jenž se přidá k základnímu poškození tohoto útoku."
+"protiútokem. Sesílatel tohoto útoku vysaje z každé sousedící spojenecké "
+"chodící mrtvoly 3 životy, které zformuje do útoku na cíl úderem v síle 11 "
+"(za každou využitou mrtvolu), jenž se přidá k základnímu poškození tohoto "
+"útoku."
 
 #. [leadership]: id=did_consumption
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:668
@@ -6398,7 +6422,7 @@ msgid ""
 "At night, this unit and adjacent allied undead gain 25% damage. However, "
 "this unit loses 2 HP per turn."
 msgstr ""
-"V noci způsobuje tato jednotka a všichni sousedící spřátelení nemrtví o 25 % "
+"V noci způsobuje tato jednotka a všichni sousedící nemrtví spojenci o 25 % "
 "větší zranění. Nicméně tato jednotka ztrácí každé kolo 2 životy."
 
 #. [heals]: id=did_corpse_master
@@ -6412,32 +6436,38 @@ msgid ""
 "Adjacent allied corpses heal 6 HP per turn and gain 20% resistance to blade, "
 "impact, and pierce."
 msgstr ""
-"Sousedící spřátelené chodící mrtvoly se každé kolo mohou vyléčit až o 6 "
+"Sousedící spojenecké chodící mrtvoly se každé kolo mohou vyléčit až o 6 "
 "životů a získávají 20 % k odolnosti vůči útokům čepelí, úderem a bodnutím."
 
 #. [leadership]: id=did_zombie_frenzy
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:765
 msgid "zombie frenzy"
-msgstr ""
+msgstr "záhrobní zuřivost"
 
 #. [leadership]: id=did_zombie_frenzy
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:766
 msgid "Adjacent allied corpses gain 30% damage and are berserk."
 msgstr ""
+"Sousedící spojenecké chodící mrtvoly způsobují o 30 % větší zranění a bojují "
+"s válečnou zuřivostí"
 
 #. [regenerate]: id=did_cannibalize1
 #. [regenerate]: id=did_cannibalize2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:796
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:881
 msgid "cannibalize"
-msgstr ""
+msgstr "kanibalizace"
 
+# Asi se myslí, že vysává ze sousedících spřátelených jednotek. Protože jinak by to mohla být dost chabá schopnost.
 #. [regenerate]: id=did_cannibalize1
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:797
 msgid ""
 "On each turn, this unit regenerates 2 HP per adjacent allied ghoul-type "
 "unit, but consumes 1 HP from each ally in the process."
 msgstr ""
+"Každé kolo si tato jednotka regeneruje 2 životy za každou sousedící "
+"spojeneckou jednotku typu požírač mrtvých, ale zároveň z každé sousedící "
+"spojenecké jednotky vysaje 1 život."
 
 #. [regenerate]: id=did_cannibalize2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:882
@@ -6445,6 +6475,9 @@ msgid ""
 "On each turn, this unit regenerates 4 HP per adjacent allied ghoul-type "
 "unit, but consumes 2 HP from each ally in the process."
 msgstr ""
+"Každé kolo si tato jednotka regeneruje 4 životy za každou sousedící "
+"spojeneckou jednotku typu požírač mrtvých, ale zároveň z každé sousedící "
+"spojenecké jednotky vysaje 2 životy."
 
 #. [dummy]: id=did_death_cloud
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:964
@@ -6535,17 +6568,17 @@ msgstr "Zlepšit schopnost zlovolnosti"
 #. [advancement]: id=mal_keshar_amla_shadow_veil
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:463
 msgid "Gain the ability to hide allied units"
-msgstr "Získat schopnost skrývání spřátelených jednotek"
+msgstr "Získat schopnost skrývání spojeneckých jednotek"
 
 #. [advancement]: id=eidolon_reap
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:573
 msgid "Improved baneblade drain"
-msgstr ""
+msgstr "Zlepšené vysávání u čepele zkázy"
 
 #. [advancement]: id=eidolon_sorrow1
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:605
 msgid "Reduces nearby enemy units' damage"
-msgstr ""
+msgstr "Snižuje zranění, které způsobují sousedící nepřátelské jednotky"
 
 #. [advancement]: id=eidolon_sorrow2
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:630
@@ -6560,27 +6593,27 @@ msgstr "Získává útok vymršťování mrtvol"
 #. [advancement]: id=malin_zombie_frenzy_amla
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:840
 msgid "Gains the zombie frenzy ability"
-msgstr ""
+msgstr "Získává schopnost záhrobní zuřivost"
 
 #. [advancement]: id=ghast_resist
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:904
 msgid "+5% resistance to blade and impact"
-msgstr ""
+msgstr "+5 % k odolnosti vůči útokům čepelí a úderem"
 
 #. [advancement]: id=ghast_cannibalize1
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:943
 msgid "Gains the cannibalize ability"
-msgstr ""
+msgstr "Získává schopnost kanibalizace"
 
 #. [advancement]: id=ghast_cannibalize2
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:968
 msgid "Improves the cannibalize ability"
-msgstr ""
+msgstr "Vylepšuje schopnost kanibalizace"
 
 #. [advancement]: id=ghast_death_cloud
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:999
 msgid "Gains the death cloud ability"
-msgstr ""
+msgstr "Získává schopnost oblak smrti"
 
 #. [trait]: id=loyal
 #: data/campaigns/Descent_Into_Darkness/utils/characters.cfg:45
