@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:00 UTC\n"
-"PO-Revision-Date: 2020-11-07 10:16+0100\n"
+"PO-Revision-Date: 2020-11-09 18:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -9224,7 +9224,7 @@ msgstr ""
 #. [message]: id=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:983
 msgid "Aye, and not just any orcs either, those are all hardened veterans!"
-msgstr "Jo, a ne jenom skřeti — samí ostřílení veteráni k tomu!"
+msgstr "Jo, a nejenom skřeti – samí ostřílení veteráni k tomu!"
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:987
@@ -9282,8 +9282,8 @@ msgid ""
 "At these words all the allied forces gave out a combined and thunderous "
 "cheer. Their long ordeal was finally over."
 msgstr ""
-"Po těchto slovech vydala shromážděná vojska radostný řev. Jejich dlouhé "
-"strádání bylo u konce."
+"Po těchto slovech vydala shromážděná spojenecká vojska radostný řev. Jejich "
+"dlouhé strádání bylo u konce."
 
 #. [message]: id=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1041
@@ -9369,8 +9369,8 @@ msgid ""
 "Our challenge is to ensure that the orcs do not unite under one strong, "
 "warlike leader in the future."
 msgstr ""
-"Výzvou pro nás je — jak zajistit, aby už se skřeti nespojili pod velení "
-"jediného silného vůdce?"
+"Je pro nás výzvou, jak zajistit, aby už se skřeti nespojili pod velení "
+"jediného silného vůdce."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:110
@@ -9386,17 +9386,17 @@ msgid ""
 "orcs, trolls, ogres or any other creatures will be roving around preying on "
 "innocent people."
 msgstr ""
-"Jo. A nechceme přece jenom odepřít skřetům vládu nad Severem; chceme z něj "
-"udělat místo, kde budou moci všechny rasy v bezpečí žít, cestovat a "
-"obchodovat. Musíme taky zajistit, aby se kolem nepotulovaly nějaké bandy "
-"skřetů, obrů a podobných potvor."
+"Jo. A nechceme přece jenom odepřít skřetům vládu nad Severem. Chceme z něj "
+"udělat místo, kde budou moct všechny rasy v bezpečí žít, cestovat a "
+"obchodovat. Musíme taky zajistit, aby se žádné samozvané bandy skřetů, "
+"trollů, obrů či podobných potvor nepotulovaly kolem a neokrádaly nevinné "
+"obyvatelstvo."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:118
 msgid "A worthy and difficult task. Does anybody have any ideas?"
 msgstr "Obtížný cíl, ale skvělý. Má někdo nějaký nápad?"
 
-# Markus
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:122
 msgid "I do have a suggestion."
@@ -9483,13 +9483,11 @@ msgstr "Perfektní!"
 msgid "Great!"
 msgstr "Vynikající!"
 
-# Elenia
 #. [message]: id=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:163
 msgid "Smart!"
 msgstr "Chytré!"
 
-# Camerin
 #. [message]: id=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:167
 msgid "Sounds like fun."
@@ -9566,7 +9564,7 @@ msgstr "Stalragu?"
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:210
 msgid "I am yours to command, my lord Tallin."
-msgstr "Čekám na rozkazy, Lorde Talline."
+msgstr "Čekám na rozkazy, lorde Talline."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:214
@@ -9583,7 +9581,7 @@ msgstr "(<i>Chichi</i>) Raději si na to zvykni."
 msgid ""
 "You have led myself and the Shinsplitters wisely. We will uphold the Council "
 "of Warders."
-msgstr "Vedl jsi mne a lamželeza dobře; Radu dohlížitelů podpoříme."
+msgstr "Vedl jsi mne a lamželeza dobře. Radu dohlížitelů podpoříme."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:233
