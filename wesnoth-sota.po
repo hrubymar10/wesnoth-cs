@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:00 UTC\n"
-"PO-Revision-Date: 2020-11-08 20:09+0100\n"
+"PO-Revision-Date: 2020-11-10 20:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1657,7 +1657,7 @@ msgstr "Obchod"
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:163
 msgid "Public House"
-msgstr "Veřejný dům"
+msgstr "hospoda"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:168
