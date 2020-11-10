@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-08 21:18+0100\n"
+"PO-Revision-Date: 2020-11-10 17:22+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2493,6 +2493,8 @@ msgid ""
 "Malin, ye were once one o’ my friends and tha pride o’ tha town. I truly "
 "don’t want ta fight ya. I’ll give ya one more chance. Leave Parthyn."
 msgstr ""
+"Maline, byl jsi kdysi mým přítelem a pýchou města. Opravdu s tebou nechci "
+"bojovat a dám ti ještě jednu šanci. Odejdi z Parthynu."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:659
@@ -2989,7 +2991,7 @@ msgstr "Vzbuďte stráž! Do zbraně!"
 #. [unit]: type=Tentacle of the Deep, id=Tentacly
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:598
 msgid "Tentacly"
-msgstr ""
+msgstr "Chapadlák"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:607
@@ -2997,6 +2999,7 @@ msgid ""
 "I have heard rumors that the mages of Tath have been experimenting on the "
 "wildlife..."
 msgstr ""
+"Slyšel jsem zvěsti, že mágové z Tathu experimentovali s divokými mostry..."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:656
@@ -3004,11 +3007,13 @@ msgid ""
 "Oh? The temple healers are trying to heal a man who is already dead. Perhaps "
 "you could... give them a little demonstration as to how it is actually done."
 msgstr ""
+"Ale? Chrámoví léčitelé se snaží uzdravit muže, který je již mrtvý. Možná bys "
+"jim mohl... předvést malou ukázku toho, jak se to vlastně dělá."
 
 #. [unit]: type=Soulless, id=Jaime
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:673
 msgid "Fat Jaime the Drunk Sailor"
-msgstr ""
+msgstr "Tlustý námořník Jaime Opilec"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:707
@@ -3016,7 +3021,7 @@ msgid ""
 "It appears as if these stables contain some armaments that could be useful "
 "for an undead rider."
 msgstr ""
-"Vypadá to, že tyto stáje obsahují výzbroj, která by mohla být pro nemrtvé "
+"Vypadá to, že tyto stáje obsahují výzbroj, která by mohla být pro nemrtvého "
 "jezdce užitečná."
 
 #. [message]: speaker=unit
