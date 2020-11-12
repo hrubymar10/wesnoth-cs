@@ -2120,8 +2120,8 @@ msgid ""
 msgstr ""
 "Velmi malá mapa pro hru 2 proti 2. Pro boje ve stísněných podmínkách je "
 "klíčem k vítězství úspěšná rotace jednotek a dopředné plánování tahů. "
-"Doporučené rozdělení je 1 &amp; 4 proti 2 &amp; 3 (severovýchod proti jihozápadu). "
-"Navrženo pro 75 zlatých na začátku, obsahuje 20 vesnic."
+"Doporučené rozdělení je 1 &amp; 4 proti 2 &amp; 3 (severovýchod proti "
+"jihozápadu). Navrženo pro 75 zlatých na začátku, obsahuje 20 vesnic."
 
 #. [side]
 #: data/multiplayer/scenarios/4p_Isars_Cross.cfg:20
@@ -2212,7 +2212,8 @@ msgid ""
 "for players 1 &amp; 4 vs. 2 &amp; 3. There are 28 villages."
 msgstr ""
 "Osu této mapy pro hru 2 proti 2 tvoří řeka. V protilehlých rozích jsou "
-"dvojice tvrzí. Navrženo pro spojenectví 1 &amp; 4 proti 2 &amp; 3. Na mapě je 28 vesnic."
+"dvojice tvrzí. Navrženo pro spojenectví 1 &amp; 4 proti 2 &amp; 3. Na mapě "
+"je 28 vesnic."
 
 #. [multiplayer]: id=multiplayer_4p_Morituri
 #: data/multiplayer/scenarios/4p_Morituri.cfg:5
@@ -2243,8 +2244,8 @@ msgid ""
 "FFA."
 msgstr ""
 "Mapa pro hru 2 proti 2 s pěti různými cestami pro útok. Vyvážena pro hru "
-"východ (1 &amp; 4) proti západu (2 &amp; 3), ale hratelná při jakémkoliv rozdělení týmů "
-"nebo při hře všichni proti všem."
+"východ (1 &amp; 4) proti západu (2 &amp; 3), ale hratelná při jakémkoliv "
+"rozdělení týmů nebo při hře všichni proti všem."
 
 #. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
 #: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:6
