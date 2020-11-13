@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:00 UTC\n"
-"PO-Revision-Date: 2020-11-12 17:52+0100\n"
+"PO-Revision-Date: 2020-11-13 19:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1184,7 +1184,7 @@ msgstr "Přežij a poraz všechny nepřátelské útoky"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:152
 msgid "Dark Forecast — a random survival scenario"
-msgstr "Temná předpověď - náhodný přežívací scénář"
+msgstr "Temná předpověď – náhodný přežívací scénář"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:157
