@@ -20,14 +20,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-15 11:55+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-11-15 19:13+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -1890,14 +1891,14 @@ msgid ""
 "thrust of spears is often enough to severely cripple the target, allowing "
 "the main Dunefolk force to close in and finish the job."
 msgstr ""
-"Ačkoli mohou běžci při operacích proti nepřátelům plnit podobnou roli jako "
-"chodci, jejich charakteristika je ve skutečnosti odvozena od jestřábů, které "
-"používají k udržování kontaktu s hlavními voji armád pouštních lidí. "
+"Ačkoli mohou běžkyně při operacích proti nepřátelům plnit podobnou roli jako "
+"chodkyně, jejich charakteristika je ve skutečnosti odvozena od jestřábů, "
+"které používají k udržování kontaktu s hlavními voji armád pouštních lidí. "
 "Nejčastěji je lze nalézt operující za nepřátelskými liniemi, kde mají "
 "obvykle za úkol získávat užitečné informace o pohybech nepřátelských vojsk. "
 "To samo o sobě postačuje k tomu, aby většina pouštních armád přechytračila "
-"své nepřátele. Když však k tomu situace uzraje, shromáždí se tito agilní "
-"válečníci a udeří do týlu slabě chráněných zásobovacích linií nebo na křídla "
+"své nepřátele. Když však k tomu situace uzraje, shromáždí se tyto agilní "
+"válečnice a udeří do týlu slabě chráněných zásobovacích linií nebo na křídla "
 "vojsk. Déšť bolas doprovázený tlakem hrotů kopí je často dostatečný, aby "
 "vážně ochromil cíl a umožnil hlavním silám pouštních lidí dokončit práci."
 
@@ -2218,22 +2219,20 @@ msgid ""
 "assassinating key units, or pincering an enemy formation into a "
 "disadvantageous position."
 msgstr ""
-"Rváči, kteří se narodili a vyrůstali na otevřeném písku, jsou zvyklí na "
+"Rváčky, které se narodily a vyrůstaly na otevřeném písku, jsou zvyklé na "
 "drsné, vyprahlé pouštní vedro a nehostinný terén. V porovnání s jinými "
-"pouštními lidmi jsou tito kočovníci na nestabilním povrchu dun až "
-"nepochopitelně pohybliví. To jim umožňuje hlídat stáda a snadno lovit v "
+"pouštními lidmi jsou tyto kočovnice na nestabilním povrchu dun až "
+"nepochopitelně pohyblivé. To jim umožňuje hlídat stáda a snadno lovit v "
 "pustinách. Při bitevním nasazení jim stejná pohyblivost umožňuje "
 "proklouznout nepřátelskými liniemi a vyhnout se všemožným útokům. Tyto "
-"dovednosti činí ze rváčů efektivní sabotéry, kteří jsou schopni odříznout "
+"dovednosti činí ze rváček efektivní sabotérky, které jsou schopné odříznout "
 "únikové cesty a zásobovací linky, zabít klíčové jednotky nebo okleštit "
 "nepřátelské formace v nevýhodných pozicích."
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk
 #: data/core/units/dunefolk/Sky_Hunter.cfg:13
-#, fuzzy
-#| msgid "Merman Hunter"
 msgid "female^Dune Sky Hunter"
-msgstr "Mořský lovec"
+msgstr "Pouštní vzdušná lovkyně"
 
 #. [unit_type]: id=Dune Sky Hunter, race=dunefolk
 #: data/core/units/dunefolk/Sky_Hunter.cfg:37
@@ -2249,6 +2248,17 @@ msgid ""
 "tools for combat, the eagles can live for up to a few decades and are often "
 "precious companions to their dunefolk partners."
 msgstr ""
+"Pouštní orli jsou často mylně považováni za mladé jedince ptáka Noha. Jsou "
+"to velcí majestátní draví ptáci, kteří jsou notoricky agresivní a téměř je "
+"nelze zkrotit. Ve volné přírodě se orli živí větší kořistí, jako jsou vlci a "
+"malí koně. Říká se, že loví i nezbedné malé děti. Tyto tvory je nesmírně "
+"obtížné ochočit kvůli jejich síle. Dokonce i ty nejzkušenější sokolnice se k "
+"nim mnohdy neodváží přiblížit. V případě, že je krotitelka ptáků v případě "
+"orla úspěšná, je vztah mezi ptákem a lovkyní více vzájemným poutem mezi "
+"dvěma rovnocenými partnery než podřízeným vztahem paní a jejího mazlíčka. "
+"Orli slouží nejen jako bojové nástroje, ale protože mohou žít až několik "
+"desetiletí, jsou často vzácnými společníky svých partnerů z řad pouštního "
+"lidu."
 
 #. [attack]: type=blade
 #: data/core/units/dunefolk/Sky_Hunter.cfg:151
@@ -2383,13 +2393,13 @@ msgstr ""
 "Útočná vojenská síla pouštního lidu je limitována jednou hlavní nevýhodou. "
 "Organizované síly pouštního lidu bývají poměrně pomalé. Proto mají nepřátelé "
 "často možnost se přeskupit a přivolat posily. A pak je další útok mnohem "
-"obtížnější. Aby tomu čelili, vyměnili chodci své původní praky za těžká "
+"obtížnější. Aby tomu čelily, vyměnily chodkyně své původní praky za těžká "
 "bola, kterými mohou ustupující linie druhé strany zpomalit a zabránit jim v "
 "nerušeném úniku. Stejný způsob boje lze použít i v opačném scénáři, při "
 "ústupu pouštních lidí. Postupující nepřátelská armáda může být zbržďována, "
 "což umožní zraněným pouštním válečníkům se vzpamatovat. Tato taktika nese "
-"své riziko, protože i když jsou chodci těžko polapitelní, tak v přímé "
-"konfrontaci jsou celkem křehcí a pokud jsou ponecháni bez krytí, lze je "
+"své riziko, protože i když jsou chodkyně těžko polapitelné, tak v přímé "
+"konfrontaci jsou celkem křehké a pokud jsou ponechány bez krytí, lze je "
 "snadno přemoci."
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
@@ -2420,7 +2430,7 @@ msgstr ""
 "disponují tito jezdci také dostatečnými lučištnickými dovednostmi, s pomocí "
 "kterých dokáží oslabovat nepřátelské síly nebo pobíjet prchající opozdilce."
 
-# Sice originál svádí k meči, ale dalších popisů se jedná o šavli.
+# Sice originál svádí k meči, ale dle dalších popisů se jedná o šavli.
 #. [unit_type]: id=Dune Swordsman, race=dunefolk
 #: data/core/units/dunefolk/Swordsman.cfg:8
 msgid "Dune Swordsman"
@@ -2495,10 +2505,8 @@ msgstr ""
 
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
 #: data/core/units/dunefolk/Wayfarer.cfg:8
-#, fuzzy
-#| msgid "Drake Blademaster"
 msgid "Dune Wayfarer"
-msgstr "Drakonidský mistr meče"
+msgstr "Pouštní poutník"
 
 #. [unit_type]: id=Dune Wayfarer, race=dunefolk
 #: data/core/units/dunefolk/Wayfarer.cfg:21
@@ -2533,13 +2541,41 @@ msgid ""
 "the other Wayfarers again. My tale might not be that impressive to them, but "
 "at least it is an improvement over my previous encounter with the wyvern...”"
 msgstr ""
+"Z deníku Balaha, pouštního strážce:\n"
+"\n"
+"„... Dnes to byl šestý den. Šest dní pronásledování skrz poušť bez spánku a "
+"bez odpočinku... ale nevyžaduji ani jedno. Rudooký Roh ukradl z mého stáda "
+"příliš mnoho kusů pro své dravé hodování. Musím se ho zbavit, než karavana "
+"vyhladoví. Sledoval jsem ho tak daleko. A bez ohledu na to, jak daleko "
+"uprchne, ho budu sledovat dál.“\n"
+"\n"
+"„... zatraceně! Ten tvor byl jen pár set kroků daleko, ale byl jsem oslněn "
+"sluncem! Podařilo se mi vstřelit pár šípů do té nepříjemné věci. Ale "
+"posloužilo to jen k tomu, že jsem ho zpomalil. Stále se však zdá, že je až "
+"únavně rychlejší než jsem já. S trochou štěstí ho dostihnu, než se dostane "
+"do hor.“\n"
+"\n"
+"„... jedenáctý den. Poté, co přistál na svahu, jsem tu stvůru zahnal do "
+"kouta. Ale objevili se další tři, s kterými jsem nepočítal. Ptáci Rohové "
+"jsou v přímém zápolení divocí protivníci. Už bojovat s jedním není "
+"jednoduchý úkol, ale se čtyřmi najednou? Mám štěstí, že jsem s sebou měl "
+"druhou sekeru, jinak bych byl během té bitvy těžce raněn. Teď si obvazuji "
+"zraněnou nohu a čekám, až to zabere. Potom se vrátím zabít poslední dva. "
+"Možná si pak konečně najdu čas na jídlo a odpočinek.“\n"
+"\n"
+"„... i pro mě je překvapením, že jsem při své jednadvacetidenní expedici "
+"procestoval téměř polovinu Severní pouště. Karavaně by to trvalo téměř tři "
+"měsíce. Předpokládám ale, že je to tím, že jsem cestoval poněkud nalehko. "
+"Kladem této cesty je, že se mi podařilo obstarat trochu soleného masa z "
+"ptáků Nohů. To by pro děti mohla být dobrá pochoutka. Také bude hezké znovu "
+"vidět některé z ostatních poutníků. Můj příběh na ně možná nebude působit "
+"tak strhujícím dojmem, ale oproti mému předchozímu setkání s wyvernou je to "
+"přinejmenším zlepšení...“"
 
 #. [unit_type]: id=Dune Windbolt, race=dunefolk
 #: data/core/units/dunefolk/Windbolt.cfg:8
-#, fuzzy
-#| msgid "Dune Rider"
 msgid "Dune Windbolt"
-msgstr "Dunový jezdec"
+msgstr "Dunový jízdní obkružovač"
 
 #. [unit_type]: id=Dune Windbolt, race=dunefolk
 #: data/core/units/dunefolk/Windbolt.cfg:21
@@ -2555,6 +2591,16 @@ msgid ""
 "able to otherwise. Having honed their craft to its apex, windbolts are the "
 "undisputed masters of ranged combat among the Dunefolk."
 msgstr ""
+"Lukostřelba ze hřbetu koně představuje řadu dalších výzev, které jen velmi "
+"málo lidí dokáže překonat. To, co odděluje proslavené obkružovače od těch "
+"ostatních je jejich schopnost nejen tyto obtíže zvládnout, ale dokonce je "
+"proměnit ve výhody. Jízdní obkružovači, využívajíce vysoku rychlost svých "
+"ořů, jsou ve skutečnosti lepšími lukostřelci, když sedí v sedle, než když "
+"stojí na zemi. Dodatečná hybnost z jízdy poskytuje jejich již tak mocným "
+"výstřelům další sílu. Při jízdě v klikatých tvarech jsou tito lučištníci "
+"schopni zakřivovat dráhy svých šípů a trefují tak cíle, které by jinak "
+"netrefili. Obkružovači, kteří vybrousili své umění k dokonalosti, patří mezi "
+"pouštními lidmi nesporně k mistrům boje na dálku."
 
 #. [unit_type]: id=Wyvern Rider, race=monster, description=
 #: data/core/units/dunefolk/Wyvern_Rider.cfg:4
@@ -3205,18 +3251,6 @@ msgstr "Elfí hraničář"
 
 #. [unit_type]: id=Elvish Ranger, race=elf
 #: data/core/units/elves/Ranger.cfg:19
-#, fuzzy
-#| msgid ""
-#| "The silent watchers of the forests, rangers are masters of stealth and "
-#| "reconnaissance. Many are explorers and loners, preferring to travel alone "
-#| "along the paths between the towering trees and among the unspoiled "
-#| "natural beauty of their homes, of which they are fiercely protective. "
-#| "While they possess considerable skill in both blade and bow, rangers are "
-#| "a little less adept at fighting other warriors on even terms, preferring "
-#| "instead to ambush their enemies from the shadows in the woods. A surprise "
-#| "attack from rangers can cripple even a force many times their size, and "
-#| "attacking armies often choose to withdraw rather than risk a game of "
-#| "guerrilla warfare with rangers in the forests."
 msgid ""
 "The silent watchers of the forests, Elvish rangers are masters of stealth "
 "and reconnaissance. Many are explorers and loners, preferring to wander "
@@ -3229,14 +3263,14 @@ msgid ""
 "risk a game of prolonged guerrilla warfare in the forests."
 msgstr ""
 "Jako tišší strážcí lesů jsou hraničáři odborníky na výzvědy a kradmý pohyb. "
-"Mnozí jsou průzkumníky a samotáři, raději cestují sami po stezkách mezi "
-"vysoko se tyčícími stromy, obklopeni nedotčenou přírodní krásou jejich "
-"domovů, kterou urputně chrání. Ačkoli zachází dost obratně jak s čepelí, tak "
-"s lukem, nejsou tak zdatní v boji s jinými válečníky za stejných podmínek. "
-"Místo toho dávají přednost přepadání svých nepřátel ze zálohy ve stínech "
-"lesa. Překvapivý útok hraničářů může ochromit i sílu, která je mnohokrát "
-"převyšuje počtem a útočící vojska často raději zvolí ústup, než aby "
-"riskovala hru na partyzánskou válku s hraničáři v lesích."
+"Mnozí z nich jsou průzkumníci a samotáři. Nejraději se potulují mezi vysoko "
+"se tyčícími stromy ukrývajícími přirozenou krásu jejich domovů, kterou "
+"urputně chrání. Ačkoli zachází dost obratně jak s čepelí, tak s lukem, jsou "
+"oproti jiným válečníkům za srovnatelných podmínek méně zdatní v přímém boji. "
+"Místo toho dávají přednost přepadání nepřátel ze stínů lesa. Překvapivý útok "
+"hraničářů může ochromit i sílu, která je mnohokrát počtem převyšuje "
+"a útočící vojska často raději zvolí ústup, než aby riskovala hru na "
+"partyzánskou válku s hraničáři v lesích."
 
 #. [special_note]
 #: data/core/units/elves/Ranger.cfg:21
@@ -3244,6 +3278,8 @@ msgid ""
 "Elvish Rangers are well-traveled and adept at traversing harsh terrains like "
 "sand, water, and mountains."
 msgstr ""
+"Elfí hraničáři jsou zcestovaní a zběhlí v překonávání drsných terénů, jako "
+"je písek, voda a hory."
 
 #. [female]
 #: data/core/units/elves/Ranger.cfg:96
@@ -7132,8 +7168,8 @@ msgstr ""
 "potácející se světem nahý jako v den svého narození a hltající maso "
 "mrtvých.\n"
 "\n"
-"Díky těmto věcem je ve všech civilizovaných zemích nekromancie odsuzována "
-"s téměř prvotní nenávistí."
+"Tyto monstra jsou jedním z důvodů, proč je nekromantie odsuzována s takřka "
+"primární nenávistí."
 
 #. [unit_type]: id=Necrophage, race=undead
 #: data/core/units/undead/Corpse_Necrophage.cfg:4
