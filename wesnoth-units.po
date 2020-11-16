@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:01 UTC\n"
-"PO-Revision-Date: 2020-11-16 18:25+0100\n"
+"PO-Revision-Date: 2020-11-16 18:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5353,11 +5353,10 @@ msgstr ""
 "nejsou nagy pravými tvory moře, neboť nejsou schopny dýchat pod vodou. Jsou "
 "malé a poněkud křehké, ale také mnohem mrštnější než jejich protivníci."
 
-# nagini - ženský rod
 #. [female]
 #: data/core/units/nagas/Fighter.cfg:49
 msgid "Nagini Fighter"
-msgstr "Nagini bojovnice"
+msgstr "Nága bojovnice"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga
 #: data/core/units/nagas/Myrmidon.cfg:4
@@ -5393,10 +5392,10 @@ msgid ""
 "only are they potent enemies on any open terrain, but their ability to swim "
 "allows them a deadly mobility."
 msgstr ""
-"Nejzkušenější z mistryň meče mezi nagini jsou zasvěcovány do kasty "
+"Nejzkušenější z mistryň meče mezi nágami jsou zasvěcovány do kasty "
 "myrmidoňanek, vládkyň umění dvou čepelí. Útočí rychle tak jako hadi, kterým "
-"se také podobají a po útoku vždy ladně odtančí. Nejenže jsou mocnými "
-"protivnicemi v otevřeném terénu, ale i schopnými plavkyněmi, což jim dodává "
+"se také podobají a po útoku vždy ladně odtančí. Nejenže jsou mocnými "
+"protivnicemi v otevřeném terénu, ale i schopnými plavkyněmi, což jim dodává "
 "smrtící pohyblivost."
 
 #. [unit_type]: id=Naga Warrior, race=naga
@@ -5424,7 +5423,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:46
 msgid "Nagini Warrior"
-msgstr "Nagini válečnice"
+msgstr "Nága válečnice"
 
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:48

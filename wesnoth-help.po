@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 21:00+0300\n"
-"PO-Revision-Date: 2020-11-15 18:45+0100\n"
+"PO-Revision-Date: 2020-11-16 18:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6276,19 +6276,16 @@ msgstr ""
 "divočině, hlubinách oceánu a dalších odlehlých místech světa. Většinou "
 "vystupují pouze v příbězích a snech obyvatel Wesnothu."
 
-# Nágy? Hadí lid?
 #. [race]: id=naga
 #: data/core/units.cfg:309
 msgid "race^Naga"
-msgstr "Naga"
+msgstr "Nága"
 
-# Nágy? Hadí lid?
 #. [race]: id=naga
 #: data/core/units.cfg:310
 msgid "race^Nagini"
-msgstr "Nagini"
+msgstr "Nága"
 
-# Nágy? Hadí lid?
 #. [race]: id=naga
 #: data/core/units.cfg:311
 msgid "race^Nagas"
