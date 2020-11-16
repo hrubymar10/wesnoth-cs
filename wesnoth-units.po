@@ -20,15 +20,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-15 19:13+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-11-16 18:47+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -6208,11 +6207,10 @@ msgstr ""
 msgid "chakri"
 msgstr "čakri"
 
-# nagini - ženský rod
 #. [female]
 #: data/core/units/nagas/Dirkfang.cfg:94
 msgid "Nagini Dirkfang"
-msgstr "Mladá nagini ostrobřitka"
+msgstr "Mladá nága ostrobřitka"
 
 #. [unit_type]: id=Naga Fighter, race=naga
 #: data/core/units/nagas/Fighter.cfg:4
@@ -6234,11 +6232,10 @@ msgstr ""
 "nejsou nagy pravými tvory moře, neboť nejsou schopny dýchat pod vodou. Jsou "
 "malé a poněkud křehké, ale také mnohem mrštnější než jejich protivníci."
 
-# nagini - ženský rod
 #. [female]
 #: data/core/units/nagas/Fighter.cfg:49
 msgid "Nagini Fighter"
-msgstr "Nagini bojovnice"
+msgstr "Nága bojovnice"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga
 #: data/core/units/nagas/Myrmidon.cfg:4
@@ -6274,10 +6271,10 @@ msgid ""
 "only are they potent enemies on any open terrain, but their ability to swim "
 "allows them a deadly mobility."
 msgstr ""
-"Nejzkušenější z mistryň meče mezi nagini jsou zasvěcovány do kasty "
+"Nejzkušenější z mistryň meče mezi nágami jsou zasvěcovány do kasty "
 "myrmidoňanek, vládkyň umění dvou čepelí. Útočí rychle tak jako hadi, kterým "
-"se také podobají a po útoku vždy ladně odtančí. Nejenže jsou mocnými "
-"protivnicemi v otevřeném terénu, ale i schopnými plavkyněmi, což jim dodává "
+"se také podobají a po útoku vždy ladně odtančí. Nejenže jsou mocnými "
+"protivnicemi v otevřeném terénu, ale i schopnými plavkyněmi, což jim dodává "
 "smrtící pohyblivost."
 
 #. [unit_type]: id=Naga Ophidian, race=naga
@@ -6348,11 +6345,10 @@ msgstr ""
 msgid "chakram"
 msgstr "čakram"
 
-# nagini - ženský rod
 #. [female]
 #: data/core/units/nagas/Ringcaster.cfg:93
 msgid "Nagini Ringcaster"
-msgstr "Nagini vrhačka prstenců"
+msgstr "Nága vrhačka prstenců"
 
 #. [unit_type]: id=Naga Sicarius, race=naga
 #: data/core/units/nagas/Sicarius.cfg:4
@@ -6414,7 +6410,7 @@ msgstr ""
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:46
 msgid "Nagini Warrior"
-msgstr "Nagini válečnice"
+msgstr "Nága válečnice"
 
 #. [female]
 #: data/core/units/nagas/Warrior.cfg:48
@@ -6489,7 +6485,7 @@ msgstr ""
 "tisíc šípů, aniž by ho jediný zasáhl. Byl nazýván Xylrix (Bouře) a byl to "
 "válečník, jehož arogance byla stejně veliká jako jeho talent. Byl vždy více "
 "než ochotný chlubit se svou zdatností každému jednomu z těch, kdo by ho "
-"sledovali. Jednoho dne, když se předváděl skupině mladých nagini, vybral si "
+"sledovali. Jednoho dne, když se předváděl skupině mladých nág, vybral si "
 "jako cíl posvátný strom Allnai.\n"
 "\n"
 "„Sledujte,“ zařval a rozdělil strom přímo na dvě části.\n"
@@ -6517,7 +6513,6 @@ msgstr ""
 "soustředění se na vrh čepelí, neznamená to, že v boji zblízka neobstojí. "
 "Neboť i nevyvážený čakram lze vylepšit hroty a menšími čepelemi.\n"
 
-# nagini - ženský rod
 #. [female]
 #: data/core/units/nagas/Zephyr.cfg:110
 msgid "Nagini Zephyr"
