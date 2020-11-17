@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-17 11:45+0100\n"
+"PO-Revision-Date: 2020-11-17 19:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -85,7 +85,7 @@ msgstr ""
 "Tvůj otec Karun Černé oko byl největší skřetí velitel, jaký kdy žil. Teď je "
 "na tobě jako na jeho synovi, abys zkřížil plány sobecky vymyšlené lidmi, "
 "kteří porušili staré dohody se skřety a snaží se zabrat vaše země. Sjednoť "
-"soupeřící skřetí kmeny, svolej Skřetí Radu, pozvedni Velkou Hordu a pošli "
+"soupeřící skřetí kmeny, svolej Skřetí radu, pozvedni Velkou Hordu a pošli "
 "lidské červy a jejich odporné spojence do země mrtvých.\n"
 "\n"
 
@@ -416,7 +416,7 @@ msgid ""
 "the free tribes and crush these humans."
 msgstr ""
 "Půjdeme do Barag Gór v zemích svobodných kmenů a budem požadovat spolupráci "
-"Velké Rady. S jejich pomocí můžeme naverbovat jednotky ze svobodných kmenů a "
+"Velké rady. S jejich pomocí můžeme naverbovat jednotky ze svobodných kmenů a "
 "tyhle lidi rozdrtit."
 
 #. [message]: role=second
@@ -578,7 +578,7 @@ msgid ""
 "Gór in the lands of the free tribes. We shall ask them for support. With "
 "their help, perhaps we can unite the orcish tribes and crush these humans."
 msgstr ""
-"Můj otec často mluvil o šamanech Velké Rady, kteří žijí v Barag Gór v zemích "
+"Můj otec často mluvil o šamanech Velké rady, kteří žijí v Barag Gór v zemích "
 "svobodných kmenů. Měli bychom je požádat o podporu. S jejich pomocí bychom "
 "třeba dokázali sjednotit skřetí kmeny a rozdrtit lidi."
 
@@ -1187,7 +1187,7 @@ msgid ""
 "can call up the Great Horde. If they are captured then all the orcs on this "
 "continent would surely be doomed."
 msgstr ""
-"Jen přes mou mrtvolu. Šamané Velké Rady jsou jediní, kteří mohou svolat "
+"Jen přes mou mrtvolu. Šamané Velké rady jsou jediní, kteří mohou svolat "
 "Velkou Hordu. Jestli je zajmou, tak budou určitě všichni skřeti na tomhle "
 "kontinentě zničeni."
 
@@ -1379,7 +1379,7 @@ msgid ""
 msgstr ""
 "Kapou'e a šamané odpočívali a diskutovali o problému po tři dny. Nakonec "
 "rozhodli, že je nezbytné svolat Velkou Hordu k vyrovnání se s touto masivní "
-"lidskou invazí. Ale k vydání takového rozkazu se musí svolat celá Velká Rada."
+"lidskou invazí. Ale k vydání takového rozkazu se musí svolat celá Velká rada."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:132
@@ -1391,7 +1391,7 @@ msgid ""
 msgstr ""
 "Když bylo jasné, že lide udělají všechno co mohou, aby tomu zabránili tak, "
 "že zajmou či zabijí šamany, Kapou'e byl požádán, aby je doprovodil do "
-"přístavu Tirigaz, kde sídlil zbytek Rady."
+"přístavu Tirigaz, kde sídlil zbytek rady."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:138
@@ -1559,7 +1559,7 @@ msgid ""
 "It will be faster and easier for us if we don’t have to worry about "
 "protecting you."
 msgstr ""
-"Poslouchejte. Jestli se máme setkat se zbytkem Velké Rady, musíme odrazit "
+"Poslouchejte. Jestli se máme setkat se zbytkem Velké rady, musíme odrazit "
 "tenhle útok. Vy šamani se schovejte zde v lese, dokud je neporazíme. Bude to "
 "pro nás rychlejší a snazší, když se nebudeme muset starat o vaši ochranu."
 
@@ -2321,7 +2321,7 @@ msgstr "Kdo je to? Kapou'e! Co děláš na mém území, ty slabošský zakrslí
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:129
 msgid "Hold on, Shan Taum. We seek the Great Council, not a quarrel with you."
-msgstr "Zadrž, Šan Taume. Přišli jsme za Velkou Radou, ne se s tebou přít."
+msgstr "Zadrž, Šan Taume. Přišli jsme za Velkou radou, ne se s tebou přít."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:134
@@ -2389,7 +2389,7 @@ msgid ""
 "and escorting Pirk, Gork and Vraurk. The council is grateful for that."
 msgstr ""
 "Kapou'e. Šeptá se, že jsi podnikl dlouhou cestu, abys vyhledal naši pomoc a "
-"doprovodil Pirka, Gorka a Vraurka. Velká Rada ti za to děkuje."
+"doprovodil Pirka, Gorka a Vraurka. Velká rada ti za to děkuje."
 
 #. [message]: speaker=Fabstep
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:173
@@ -2457,7 +2457,7 @@ msgid ""
 "and give you the leadership of it."
 msgstr ""
 "Nech své lidi zde, Kapou'e — pro tuto chvíli jsou v bezpečí — a jdi bránit "
-"Prestim. Teď, když je naše Rada kompletní, rozhodneme zda svoláme Velkou "
+"Prestim. Teď, když je naše rada kompletní, rozhodneme zda svoláme Velkou "
 "Hordu a dáme ti nad ní velení."
 
 #. [message]: speaker=Shan Taum
@@ -3976,7 +3976,7 @@ msgid ""
 msgstr ""
 "No podívejme se na to. Nejprve zradí pána, kterému je vázán přísahou a "
 "promění se v boty lízajícího lidského špióna. Potom zařídí smrt poloviny "
-"Velké Rady a tím se stane přímo zodpovědným za smrt stovek skřetů. A nakonec "
+"Velké rady a tím se stane přímo zodpovědným za smrt stovek skřetů. A nakonec "
 "to nejlepší ze všeho, je přímo zodpovědný za krvavou občanskou válku v čase, "
 "kdy jsou jeho lidé na pokraji naprostého vyhlazení!"
 
@@ -4088,7 +4088,7 @@ msgstr ""
 "Zároveň s ním dorazili jeho generálové Al'Brok a Flar'Tar, kteří přivedli "
 "stovky krvežíznivých skřetů. Válečníci kmenů, které Kapou'e donutil k pokoře "
 "zastrašováním, tu byli také. Navíc také přišli pomoci zbývající šamané Velké "
-"Rady, aby zachovali jednotu Hordy."
+"rady, aby zachovali jednotu Hordy."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:139
@@ -4537,7 +4537,7 @@ msgstr ""
 "hraběmu jednotky a stáhl je ze skřetího území. Dle své části úmluvy Kapou'e "
 "odešel z Dorsetu a rozpustil Velkou Hordu. Avšak předtím než tak udělal, "
 "ustanovil tři další šamany — s jednomyslným souhlasem všech — aby byla Velká "
-"Rada opět kompletní."
+"rada opět kompletní."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/19_Epilogue.cfg:32
