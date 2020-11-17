@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-17 19:03+0100\n"
+"PO-Revision-Date: 2020-11-17 19:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -85,7 +85,7 @@ msgstr ""
 "Tvůj otec Karun Černé oko byl největší skřetí velitel, jaký kdy žil. Teď je "
 "na tobě jako na jeho synovi, abys zkřížil plány sobecky vymyšlené lidmi, "
 "kteří porušili staré dohody se skřety a snaží se zabrat vaše země. Sjednoť "
-"soupeřící skřetí kmeny, svolej Skřetí radu, pozvedni Velkou Hordu a pošli "
+"soupeřící skřetí kmeny, svolej Skřetí radu, pozvedni Velkou hordu a pošli "
 "lidské červy a jejich odporné spojence do země mrtvých.\n"
 "\n"
 
@@ -1188,7 +1188,7 @@ msgid ""
 "continent would surely be doomed."
 msgstr ""
 "Jen přes mou mrtvolu. Šamané Velké rady jsou jediní, kteří mohou svolat "
-"Velkou Hordu. Jestli je zajmou, tak budou určitě všichni skřeti na tomhle "
+"Velkou hordu. Jestli je zajmou, tak budou určitě všichni skřeti na tomhle "
 "kontinentě zničeni."
 
 #. [message]: speaker=Grüü
@@ -1378,7 +1378,7 @@ msgid ""
 "entire Great Council would have to gather."
 msgstr ""
 "Kapou'e a šamané odpočívali a diskutovali o problému po tři dny. Nakonec "
-"rozhodli, že je nezbytné svolat Velkou Hordu k vyrovnání se s touto masivní "
+"rozhodli, že je nezbytné svolat Velkou hordu k vyrovnání se s touto masivní "
 "lidskou invazí. Ale k vydání takového rozkazu se musí svolat celá Velká rada."
 
 #. [part]
@@ -2458,7 +2458,7 @@ msgid ""
 msgstr ""
 "Nech své lidi zde, Kapou'e — pro tuto chvíli jsou v bezpečí — a jdi bránit "
 "Prestim. Teď, když je naše rada kompletní, rozhodneme zda svoláme Velkou "
-"Hordu a dáme ti nad ní velení."
+"hordu a dáme ti nad ní velení."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:246
@@ -2826,7 +2826,7 @@ msgstr ""
 msgid ""
 "We’ve received messengers from the Council, saying that they are gathering "
 "tribes into the Great Horde."
-msgstr "Obdržel jsem zprávu od Rady. Kmeny se shromažďují do Velké Hordy."
+msgstr "Obdržel jsem zprávu od Rady. Kmeny se shromažďují do Velké hordy."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:274
@@ -2970,7 +2970,7 @@ msgid ""
 "It is now time to show them who we are and to lead the Great Horde in "
 "pursuit. We will not rest until we destroy Earl Lanbec’h. Smite, stab, slay!"
 msgstr ""
-"Je načase jim ukázat, kdo je tu pánem a vyslat Velkou Hordu, aby je "
+"Je načase jim ukázat, kdo je tu pánem a vyslat Velkou hordu, aby je "
 "pronásledovala. Nespočineme, dokud nezničíme Hraběte Lanbec'ha. Bodnout, "
 "Udeřit, Zabít!"
 
@@ -3011,7 +3011,7 @@ msgid ""
 "With the arrival of the Great Horde, and the humans having retreated, the "
 "united orcish forces held a council of war."
 msgstr ""
-"Po příjezdu Velké Hordy a ústupu lidí svolala sjednocená skřetí armáda "
+"Po příjezdu Velké hordy a ústupu lidí svolala sjednocená skřetí armáda "
 "válečnou poradu."
 
 #. [part]
@@ -3022,7 +3022,7 @@ msgid ""
 "executions, the leadership of the horde was formally bestowed upon Kapou’e."
 msgstr ""
 "Po chvíli handrkování — někteří starší válečníci byli neochotní nechat se "
-"vést takovým mladíkem — a několika následných popravách byl vůdcem Hordy "
+"vést takovým mladíkem — a několika následných popravách byl vůdcem hordy "
 "jmenován Kapou'e."
 
 #. [part]
@@ -3169,7 +3169,7 @@ msgid ""
 msgstr ""
 "Kapou'e předpokládal nějakou zradu. Očekával, že lidské útoky budou za tak "
 "krutého počasí minimální a proto v Dorestu nechal jen malou posádku, aby ho "
-"bránila, zatímco on a hlavní část Hordy spěchala na pomoc Borstepu."
+"bránila, zatímco on a hlavní část hordy spěchala na pomoc Borstepu."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:123
@@ -3549,7 +3549,7 @@ msgstr ""
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:650
 msgid ""
 "Bah, do not think you can break the unity of the horde with your stupid lies!"
-msgstr "Pf, nemysli si, že můžeš zničit jednotu Hordy svými hloupými lžemi."
+msgstr "Pf, nemysli si, že můžeš zničit jednotu hordy svými hloupými lžemi."
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:655
@@ -4027,7 +4027,7 @@ msgid ""
 "left him?"
 msgstr ""
 "Hej náčelníku, je to divné. Nezdá se, že by měl Šan Taum mnoho mužů kolem. "
-"Měl kontrolu nad polovinou Velké Hordy. Myslíte, že ho opustili?"
+"Měl kontrolu nad polovinou Velké hordy. Myslíte, že ho opustili?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:292
@@ -4404,7 +4404,7 @@ msgid ""
 msgstr ""
 "Zadrž, hrabě Lanbec'hu. Dosáhl jsem dohody s těmito skřety. Porušil jsi "
 "dohodu; musíš neprodleně rozpustit své jednotky a stáhnout se ze skřetího "
-"území. Jakmile se tak stane, Kapou'e ti vrátí Dorest a zastaví Hordu. Měli "
+"území. Jakmile se tak stane, Kapou'e ti vrátí Dorest a zastaví hordu. Měli "
 "jsme dohodu s Kapou'eho otcem už předtím a věřím, že je tento rod "
 "důvěryhodný. A jestli to není dost, pak jsme tu my abychom ti pomohli v "
 "případě, že poruší úmluvu."
@@ -4535,7 +4535,7 @@ msgid ""
 msgstr ""
 "Jakmile byl hrabě Lanbec'h zabit, dostál Howgart III. svému slovu, rozpustil "
 "hraběmu jednotky a stáhl je ze skřetího území. Dle své části úmluvy Kapou'e "
-"odešel z Dorsetu a rozpustil Velkou Hordu. Avšak předtím než tak udělal, "
+"odešel z Dorsetu a rozpustil Velkou hordu. Avšak předtím než tak udělal, "
 "ustanovil tři další šamany — s jednomyslným souhlasem všech — aby byla Velká "
 "rada opět kompletní."
 
@@ -4725,7 +4725,7 @@ msgstr "Flar’Tar"
 #. [note]
 #: data/campaigns/Son_Of_The_Black_Eye/utils/utils.cfg:101
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
-msgstr "Velká Horda: žold za každou jednotku snížen o jeden zlatý."
+msgstr "Velká horda: žold za každou jednotku snížen o jeden zlatý."
 
 #~ msgid ""
 #~ "In this scenario, you may ask Grüü to move to any hex by right-clicking "
