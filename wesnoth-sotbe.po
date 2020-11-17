@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-17 20:36+0100\n"
+"PO-Revision-Date: 2020-11-17 20:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2445,20 +2445,14 @@ msgstr ""
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:201
-#, fuzzy
-#| msgid ""
-#| "Leave your people here Kapou’e — they are safe for the moment — and go "
-#| "defend Prestim. In the meantime, now that the council is complete again, "
-#| "we will decide. We may have to form the Great Horde again, and give you "
-#| "the leadership of it."
 msgid ""
 "Go defend Prestim, Kapou'e. In the meantime, now that the council is "
 "complete again, we will decide. We may have to form the Great Horde again, "
 "and give you the leadership of it."
 msgstr ""
-"Nech své lidi zde, Kapou’e — pro tuto chvíli jsou v bezpečí — a jdi bránit "
-"Prestim. Teď, když je naše rada kompletní, rozhodneme zda svoláme Velkou "
-"hordu a dáme ti nad ní velení."
+"Jdi bránit Prestim, Kapou’e. Mezitím, když je teď rada opět úplná, "
+"rozhodneme. Možná budeme muset znovu vytvořit Velkou hordu a dát ti nad ní "
+"velení."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:246
