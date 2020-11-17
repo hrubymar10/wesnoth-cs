@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-17 22:10+0100\n"
+"PO-Revision-Date: 2020-11-17 22:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -279,7 +279,7 @@ msgid ""
 "leadership of it to his son-in-law Baron Alber."
 msgstr ""
 "To samozřejmě způsobilo, že skřeti důsledně vyvražďovali lidské osady a "
-"vesnice na svých územích. Poté se Hrabě Lanbec'h — nejmocnější lidský "
+"vesnice na svých územích. Poté se hrabě Lanbec’h — nejmocnější lidský "
 "válečný lord Severu — rozhodl definitivně vypořádat se skřetí hrozbou, "
 "sestavil armádu a velitelem ustanovil svého zetě Barona Albera."
 
@@ -461,7 +461,7 @@ msgstr "Lidská armáda"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:22
 msgid "Defeat Lanbec’h"
-msgstr "Poraz Lanbec'ha"
+msgstr "Poraz Lanbec’ha"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:31
@@ -510,7 +510,7 @@ msgid ""
 "Lanbec’h led the army himself."
 msgstr ""
 "Nebyl zklamán. O pár dní později přijela hlavní část lidské armády. Hrabě "
-"Lanbec'h, rozzuřený k nepříčetnosti smrtí svého zetě, osobně vedl armádu."
+"Lanbec’h, rozzuřený k nepříčetnosti smrtí svého zetě, osobně vedl armádu."
 
 #. [message]: speaker=Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:124
@@ -2608,7 +2608,7 @@ msgid ""
 "Hurry-hurry, friends. Lanbec’h and his kind are right on our tails, we must "
 "reach Prestim quickly."
 msgstr ""
-"Honem, honem, přátelé. Hrabě Lanbec'h a jeho jednotky jsou nám v patách. "
+"Honem, honem, přátelé. Hrabě Lanbec’h a jeho jednotky jsou nám v patách. "
 "Musíme pospíšit do Prestimu."
 
 #. [message]: speaker=Kapou'e
@@ -2727,7 +2727,7 @@ msgstr ""
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:84
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:78
 msgid "Earl Lanbec’h"
-msgstr "Hrabě Lanbec'h"
+msgstr "Hrabě Lanbec’h"
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:674
@@ -2812,7 +2812,7 @@ msgid ""
 msgstr ""
 "Nejsem si tak jistý. Každá pevnost má nějakou slabinu. Zdi Prestimu jsou "
 "silné, ale dlouhé a je obtížné je bránit na mnoha místech najednou. Tenhle "
-"hrabě Lanbec'h musí vědět, že nemohou prorazit pouze přebroděním řeky v "
+"hrabě Lanbec’h musí vědět, že nemohou prorazit pouze přebroděním řeky v "
 "místě, kde stával most. Takže musí mít lepší plán než tohle."
 
 #. [message]: role=cannonfodder
@@ -2885,8 +2885,8 @@ msgstr "Plouf"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:1052
 msgid "We arrive to honor our alliance, Earl Lanbec’h."
 msgstr ""
-"Hlásím, že jsme dorazili. Připraveni k boji za slávu naší aliance, Hrabě "
-"Lanbec'hu."
+"Hlásím, že jsme dorazili. Připraveni k boji za slávu naší aliance, hrabě "
+"Lanbec’hu."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:1057
@@ -2965,7 +2965,7 @@ msgid ""
 "pursuit. We will not rest until we destroy Earl Lanbec’h. Smite, stab, slay!"
 msgstr ""
 "Je načase jim ukázat, kdo je tu pánem a vyslat Velkou hordu, aby je "
-"pronásledovala. Nespočineme, dokud nezničíme Hraběte Lanbec'ha. Bodnout, "
+"pronásledovala. Nespočineme, dokud nezničíme hraběte Lanbec’ha. Bodnout, "
 "Udeřit, Zabít!"
 
 #. [scenario]: id=12_Giving_Some_Back
@@ -3064,14 +3064,14 @@ msgid ""
 msgstr ""
 "Kapou’e osobně — toužící vyřešit tuto záležitost jednou provždy — vedl své "
 "zbývající jednotky k Dorestu, lidskému městu jižně od Prestimu, do kterého "
-"ustoupil Hrabě Lanbec'h."
+"ustoupil hrabě Lanbec’h."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:224
 msgid ""
 "Earl Lanbec’h, you slimy coward, come out and face me if you have the guts!"
 msgstr ""
-"Hrabě Lanbec'hu, ty slizký zbabělče, vyjdi ven a postav se mi, jestli máš "
+"Hrabě Lanbec’hu, ty slizký zbabělče, vyjdi ven a postav se mi, jestli máš "
 "odvahu."
 
 #. [message]: speaker=Arthain
@@ -3081,7 +3081,7 @@ msgid ""
 "Earl to deal with. He’s left that pleasure to me instead."
 msgstr ""
 "Promiň kamaráde, jsi považován za příliš bezvýznamného, než aby s tebou "
-"jednal někdo jako Hrabě. Místo toho tu zanechal mne."
+"jednal někdo jako hrabě. Místo toho tu zanechal mne."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:235
@@ -3910,7 +3910,7 @@ msgid ""
 "surely be exterminated."
 msgstr ""
 "I přes tuto noční můru je Kapou’e hnal stejně nemilosrdně jako sebe. Jarní "
-"oblevy měli v zádech a nebylo pochyb, že hrabě Lanbec'h shromažďuje lidskou "
+"oblevy měli v zádech a nebylo pochyb, že hrabě Lanbec’h shromažďuje lidskou "
 "armádu. Do té doby museli být skřeti sjednoceni bez ohledu na metodu, "
 "protože roztříštění a nejednotní by bezpochyby byli vyhlazeni."
 
@@ -4056,7 +4056,7 @@ msgstr "Zadrž lidi"
 #. [objectives]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:28
 msgid "Defeat Earl Lanbec’h"
-msgstr "Poraz hraběte Lanbec'ha"
+msgstr "Poraz hraběte Lanbec’ha"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:127
@@ -4107,7 +4107,7 @@ msgid ""
 "after Kapou’e’s arrival, riders caught sight of Earl Lanbec’h’s army."
 msgstr ""
 "Dny ubíhaly, sníh tál a Kapou’e připravil své obrany. Několik týdnu po "
-"Kapou’eho příjezdu, jezdci zahlédli armádu Hraběte Lanbec'ha."
+"Kapou’eho příjezdu, jezdci zahlédli armádu hraběte Lanbec’ha."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:234
@@ -4194,7 +4194,7 @@ msgid ""
 "of you are no doubt violating. It is our duty as the orchestrator and "
 "witness of this treaty to see that it is honored."
 msgstr ""
-"Sakra mám! Hrabě Lanbec'hu, Severní aliance byla před sedmnácti lety svědkem "
+"Sakra mám! Hrabě Lanbec’hu, Severní aliance byla před sedmnácti lety svědkem "
 "dohody mezi vašimi lidmi a skřety, kterou oba bez pochybnosti porušujete. "
 "Jako organizátor a svědek té smlouvy mám povinnost poznat, kdy je to vážné."
 
@@ -4216,7 +4216,7 @@ msgid ""
 "this war. But enough, it is time for all this to end. I call for both sides "
 "to parley and we shall discuss this matter."
 msgstr ""
-"Nech těch lží, Lanbec'hu. Víme, že jsi to byl ty, kdo začal tuhle válku. Ale "
+"Nech těch lží, Lanbec’hu. Víme, že jsi to byl ty, kdo začal tuhle válku. Ale "
 "teď je čas ji ukončit. Vyzývám obě strany k jednání, abychom mohli tuto "
 "záležitost projednat."
 
@@ -4277,7 +4277,7 @@ msgstr "Severní aliance"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:26
 msgid "Kill Shan Taum and Earl Lanbec’h"
-msgstr "Zabij Šan Tauma a Hraběte Lanbec'ha."
+msgstr "Zabij Šan Tauma a hraběte Lanbec’ha."
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:37
@@ -4293,7 +4293,7 @@ msgid ""
 msgstr ""
 "Kapou’e souhlasil se setkáním s Howgartem III. Nicméně lidem stále "
 "nedůvěřoval a vzal si sebou Grüüa a jednoho ze svých nejdůvěryhodnějších "
-"vojáků. Hrabě Lanbec'h rozhodně odmítl výzvu k vyjednávání."
+"vojáků. Hrabě Lanbec’h rozhodně odmítl výzvu k vyjednávání."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:184
@@ -4320,9 +4320,9 @@ msgid ""
 "aggression, then under the dictates of the Northern Alliance, he himself "
 "would be forced to move against the Earl."
 msgstr ""
-"Howgart III. souhlasil a dále slíbil, že pokud Hrabě Lanbec'h bude "
+"Howgart III. souhlasil a dále slíbil, že pokud hrabě Lanbec’h bude "
 "pokračovat v agresi, v nesouladu s příkazy Severní aliance, osobně povede "
-"jednotky aliance proti Hraběti."
+"jednotky aliance proti hraběti."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:196
@@ -4396,7 +4396,7 @@ msgid ""
 "father before and I believe his blood will be trustworthy. And if that isn’t "
 "enough, then we are here to protect you in case he violates the pact."
 msgstr ""
-"Zadrž, hrabě Lanbec'hu. Dosáhl jsem dohody s těmito skřety. Porušil jsi "
+"Zadrž, hrabě Lanbec’hu. Dosáhl jsem dohody s těmito skřety. Porušil jsi "
 "dohodu; musíš neprodleně rozpustit své jednotky a stáhnout se ze skřetího "
 "území. Jakmile se tak stane, Kapou’e ti vrátí Dorest a zastaví hordu. Měli "
 "jsme dohodu s Kapou’eho otcem už předtím a věřím, že je tento rod "
@@ -4527,8 +4527,8 @@ msgid ""
 "horde was dispersed he appointed three more shamans — with the consent of "
 "all — to make the Great Council complete again."
 msgstr ""
-"Jakmile byl hrabě Lanbec'h zabit, dostál Howgart III. svému slovu, rozpustil "
-"hraběmu jednotky a stáhl je ze skřetího území. Dle své části úmluvy Kapou’e "
+"Jakmile byl hrabě Lanbec’h zabit, dostál Howgart III. svému slovu, rozpustil "
+"hraběcí jednotky a stáhl je ze skřetího území. Dle své části úmluvy Kapou’e "
 "odešel z Dorsetu a rozpustil Velkou hordu. Avšak předtím než tak udělal, "
 "ustanovil tři další šamany — s jednomyslným souhlasem všech — aby byla Velká "
 "rada opět kompletní."
