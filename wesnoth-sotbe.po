@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:00 UTC\n"
-"PO-Revision-Date: 2020-11-17 20:26+0100\n"
+"PO-Revision-Date: 2020-11-17 20:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -145,7 +145,7 @@ msgstr "Poraz Albera"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:31
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:30
 msgid "Death of Kapou’e"
-msgstr "Kapou'e zemře"
+msgstr "Kapou’e zemře"
 
 #. [side]: id=Kapou'e, type=Orcish Leader
 #. [side]
@@ -299,7 +299,7 @@ msgid ""
 "orcish leader Kapou’e, the son of the Black-Eye."
 msgstr ""
 "Za soumraku jednotky dosáhly hornatého území pod správou skřetího vůdce "
-"Kapou'eho, syna Černého oka."
+"Kapou’eho, syna Černého oka."
 
 #. [message]: speaker=Alber
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:140
@@ -400,7 +400,7 @@ msgid ""
 "Wise decision, Kapou’e. By the size of that army, this is no mere raid — it "
 "seems to me that the humans have decided to declare war on us."
 msgstr ""
-"Moudré rozhodnutí, Kapou'e. Při velikosti té armády to není jen nájezd — zdá "
+"Moudré rozhodnutí, Kapou’e. Při velikosti té armády to není jen nájezd — zdá "
 "se mi, že lidé se nám rozhodli vyhlásit válku."
 
 #. [message]: speaker=Kapou'e
@@ -451,7 +451,7 @@ msgid ""
 "try to steal from Kapou’e, Son of the Black-Eye!"
 msgstr ""
 "Připravte se na bitvu, mí pěšáci! Ukážeme těm lidem, co se stane, když se "
-"pokusíte krást u Kapou'eho, syna Černého oka!"
+"pokusíte krást u Kapou’eho, syna Černého oka!"
 
 #. [scenario]: id=02_The_Human_Army
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:4
@@ -481,12 +481,12 @@ msgstr "Odolávej, dokud nebudou tví lidé připraveni odejít (14 kol)"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:45
 msgid "Then move Kapou’e to the signpost in the northeast"
-msgstr "Pak přesuň Kapou'eho k ukazateli na severovýchodě."
+msgstr "Pak přesuň Kapou’eho k ukazateli na severovýchodě."
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:52
 msgid "Move Kapou’e to the signpost in the northeast"
-msgstr "Přesuň Kapou'eho k ukazateli na severovýchodě."
+msgstr "Přesuň Kapou’eho k ukazateli na severovýchodě."
 
 #. [side]: type=General, id=Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:87
@@ -499,7 +499,7 @@ msgid ""
 "Refusing to yield to fear, Kapou’e rallied his warriors in preparation for "
 "the upcoming battle."
 msgstr ""
-"Kapou'e se odmítl podat strachu a shromáždil své válečníky v přípravě pro "
+"Kapou’e se odmítl podat strachu a shromáždil své válečníky v přípravě pro "
 "nadcházející bitvu."
 
 #. [part]
@@ -523,7 +523,7 @@ msgid ""
 "And this is that stupid human who dares march against Kapou’e — Son of the "
 "Black-Eye!"
 msgstr ""
-"A tohle je ten hloupý člověk, který se odvážil pochodovat proti Kapou'emu — "
+"A tohle je ten hloupý člověk, který se odvážil pochodovat proti Kapou’emu — "
 "synu Černého oka!"
 
 #. [message]: speaker=narrator
@@ -532,7 +532,7 @@ msgid ""
 "As Kapou’e saw the hardened troops pour out of the human encampment, he "
 "began to have second thoughts."
 msgstr ""
-"Jak Kapou'e uviděl proudit z lidského tábora zocelené jednotky, počal měnit "
+"Jak Kapou’e uviděl proudit z lidského tábora zocelené jednotky, počal měnit "
 "svůj názor."
 
 #. [message]: speaker=Kapou'e
@@ -647,7 +647,7 @@ msgstr "Cesta pohořím Haag"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:31
 msgid "Move Kapou’e to the end of the mountains"
-msgstr "Dostaň Kapou'eho ven z hor"
+msgstr "Dostaň Kapou’eho ven z hor"
 
 #. [objectives]
 #. [objective]: condition=win
@@ -713,7 +713,7 @@ msgstr "Stát! Kdo jste?"
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:165
 msgid "It is I, Kapou’e, son of the Black-Eye Karun. What do you want, dwarf?"
-msgstr "Jsem Kapou'e, syn Karuna Černého oka. Co chceš, trpaslíku?"
+msgstr "Jsem Kapou’e, syn Karuna Černého oka. Co chceš, trpaslíku?"
 
 #. [message]: speaker=Kwili
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:171
@@ -1386,7 +1386,7 @@ msgid ""
 "deal with this massive human incursion. However, in order to do that the "
 "entire Great Council would have to gather."
 msgstr ""
-"Kapou'e a šamané odpočívali a diskutovali o problému po tři dny. Nakonec "
+"Kapou’e a šamané odpočívali a diskutovali o problému po tři dny. Nakonec "
 "rozhodli, že je nezbytné svolat Velkou hordu k vyrovnání se s touto masivní "
 "lidskou invazí. Ale k vydání takového rozkazu se musí svolat celá Velká rada."
 
@@ -1399,7 +1399,7 @@ msgid ""
 "was residing."
 msgstr ""
 "Když bylo jasné, že lide udělají všechno co mohou, aby tomu zabránili tak, "
-"že zajmou či zabijí šamany, Kapou'e byl požádán, aby je doprovodil do "
+"že zajmou či zabijí šamany, Kapou’e byl požádán, aby je doprovodil do "
 "přístavu Tirigaz, kde sídlil zbytek rady."
 
 #. [part]
@@ -1408,7 +1408,7 @@ msgid ""
 "Leaving most of his people at Barag Gór, Kapou’e, accompanied by the shamans "
 "and his warriors, set off to Tirigaz."
 msgstr ""
-"Opouštěje většinu svého lidu v Barag Gór, Kapou'e doprovázený šamany a svými "
+"Opouštěje většinu svého lidu v Barag Gór, Kapou’e doprovázený šamany a svými "
 "válečníky se vydal k Tirigazu."
 
 #. [message]: speaker=narrator
@@ -1557,7 +1557,7 @@ msgid ""
 "Looks like humans have attacked here too. You were right, Kapou’e, the "
 "humans have declared all-out war on us."
 msgstr ""
-"Vypadá to, že i tady zaútočili lidé. Měl jsi pravdu Kapou'e, lidé nám "
+"Vypadá to, že i tady zaútočili lidé. Měl jsi pravdu Kapou’e, lidé nám "
 "vyhlásili válku."
 
 #. [message]: speaker=Kapou'e
@@ -1594,7 +1594,7 @@ msgstr "Vypadá to, že společnost našeho druhu se blíží ze severu."
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:213
 msgid "Greetings from Kapou’e, Son of the Black-Eye Karun."
-msgstr "Pozdravy od Kapou'eho, syna Karuna Černého oka."
+msgstr "Pozdravy od Kapou’eho, syna Karuna Černého oka."
 
 #. [message]: speaker=Affman
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:218
@@ -1683,7 +1683,7 @@ msgstr ""
 msgid ""
 "Congratulations on your victory, Kapou’e. You do honor to the memory of your "
 "father."
-msgstr "Kapou'e, gratuluji k vítězství. Děláš čest památce tvého otce."
+msgstr "Kapou’e, gratuluji k vítězství. Děláš čest památce tvého otce."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:391
@@ -1966,7 +1966,7 @@ msgstr "To je mi jedno. Ztraťte se!"
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:414
 msgid "It’s no use reasoning with them, Kapou’e, they aren’t going to listen."
-msgstr "S nimi není rozumná domluva, Kapou'e, oni nás neposlechnou."
+msgstr "S nimi není rozumná domluva, Kapou’e, oni nás neposlechnou."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:419
@@ -2021,7 +2021,7 @@ msgid ""
 "As soon as the sandstorm died down, Kapou’e and his men — eager to escape "
 "the searing heat — left the oasis and continued on their trek."
 msgstr ""
-"Hned jak písečná bouře odezněla, Kapou'e a jeho muži — horliví uniknout "
+"Hned jak písečná bouře odezněla, Kapou’e a jeho muži — horliví uniknout "
 "pálivému teplu — opustili oázu a pokračovali v cestě."
 
 #. [part]
@@ -2291,7 +2291,7 @@ msgid ""
 "reached the city of Lmarig in the Mourned Hills, which was then ruled by "
 "Shan Taum the Smug."
 msgstr ""
-"Po vyčištění Tichého Lesa od elfů se Kapou'e a jeho společnost vydali na "
+"Po vyčištění Tichého Lesa od elfů se Kapou’e a jeho společnost vydali na "
 "poslední část jejich cesty. Během pár dnů konečně dosáhli města Lmarig v "
 "Truchlivých kopcích, kterému vládl Šan Taum Samolibý."
 
@@ -2325,7 +2325,7 @@ msgstr "Pochybuji, že bude vítat jeho syna."
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:124
 msgid ""
 "Who is that? Kapou’e! What are you doing in my lands, you weakling runt?"
-msgstr "Kdo je to? Kapou'e! Co děláš na mém území, ty slabošský zakrslíku?"
+msgstr "Kdo je to? Kapou’e! Co děláš na mém území, ty slabošský zakrslíku?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:129
@@ -2360,7 +2360,7 @@ msgstr "Vážně? A co bys z něj pil? Mátový odvar?"
 msgid ""
 "Exasperated, Kapou’e launched an attack on his fellow orc Shan Taum the Smug."
 msgstr ""
-"A tak rozzuřený Kapou'e zaútočil na svého spojence, Šan Tauma Samolibého."
+"A tak rozzuřený Kapou’e zaútočil na svého spojence, Šan Tauma Samolibého."
 
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:155
@@ -2397,7 +2397,7 @@ msgid ""
 "Kapou’e, rumors tell of you making a long trip to seek assistance from us, "
 "and escorting Pirk, Gork and Vraurk. The council is grateful for that."
 msgstr ""
-"Kapou'e. Šeptá se, že jsi podnikl dlouhou cestu, abys vyhledal naši pomoc a "
+"Kapou’e. Šeptá se, že jsi podnikl dlouhou cestu, abys vyhledal naši pomoc a "
 "doprovodil Pirka, Gorka a Vraurka. Velká rada ti za to děkuje."
 
 #. [message]: speaker=Fabstep
@@ -2448,7 +2448,7 @@ msgid ""
 "of the river and your people won’t be safe. You are the only one that can "
 "help us defend Prestim!"
 msgstr ""
-"Kapou'e, padne-li Prestim, získají lidé velmi silné postavení na téhle "
+"Kapou’e, padne-li Prestim, získají lidé velmi silné postavení na téhle "
 "straně řeky, a tvé kmeny nikdy nebudou v bezpečí. Jsi jediný, kdo nám může "
 "pomoci zachránit Prestim!"
 
@@ -2460,7 +2460,7 @@ msgid ""
 "will decide. We may have to form the Great Horde again, and give you the "
 "leadership of it."
 msgstr ""
-"Nech své lidi zde, Kapou'e — pro tuto chvíli jsou v bezpečí — a jdi bránit "
+"Nech své lidi zde, Kapou’e — pro tuto chvíli jsou v bezpečí — a jdi bránit "
 "Prestim. Teď, když je naše rada kompletní, rozhodneme zda svoláme Velkou "
 "hordu a dáme ti nad ní velení."
 
@@ -3027,7 +3027,7 @@ msgid ""
 msgstr ""
 "Po chvíli handrkování — někteří starší válečníci byli neochotní nechat se "
 "vést takovým mladíkem — a několika následných popravách byl vůdcem hordy "
-"jmenován Kapou'e."
+"jmenován Kapou’e."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:134
@@ -3048,7 +3048,7 @@ msgid ""
 "invading the harbor of Tirigaz, and to stop any further human incursion into "
 "orcish territory."
 msgstr ""
-"Horda byla rozdělena na dvě části. Na radu šamanů dal Kapou'e vedení nad "
+"Horda byla rozdělena na dvě části. Na radu šamanů dal Kapou’e vedení nad "
 "druhou skupinou Šan Taumovi Samolibému, který — navzdory jeho nepříjemné "
 "povaze — byl nelítostným a schopným vůdcem. Byl poslán do Bitoku, "
 "nejseverněji položeného skřetího města, aby odřízl lidi útočící na přístav "
@@ -3072,7 +3072,7 @@ msgid ""
 "his remaining forces to Dorest, the human city due southeast of Prestim, to "
 "which Earl Lanbec’h had retreated."
 msgstr ""
-"Kapou'e osobně — toužící vyřešit tuto záležitost jednou provždy — vedl své "
+"Kapou’e osobně — toužící vyřešit tuto záležitost jednou provždy — vedl své "
 "zbývající jednotky k Dorestu, lidskému městu jižně od Prestimu, do kterého "
 "ustoupil Hrabě Lanbec'h."
 
@@ -3132,7 +3132,7 @@ msgid ""
 "After conquering and occupying Dorest, Kapou’e and his men set themselves to "
 "stabilizing the area and bringing it firmly under the iron-hard orcish rule."
 msgstr ""
-"Po dobytí a zabrání Dorestu, Kapou'e a jeho muži stabilizovali oblast a "
+"Po dobytí a zabrání Dorestu, Kapou’e a jeho muži stabilizovali oblast a "
 "pevně ji přivedli pod železnou vládu skřetů."
 
 #. [part]
@@ -3171,7 +3171,7 @@ msgid ""
 "force to defend Dorest while he and the main horde of orcs sped to the aid "
 "of Borstep."
 msgstr ""
-"Kapou'e předpokládal nějakou zradu. Očekával, že lidské útoky budou za tak "
+"Kapou’e předpokládal nějakou zradu. Očekával, že lidské útoky budou za tak "
 "krutého počasí minimální a proto v Dorestu nechal jen malou posádku, aby ho "
 "bránila, zatímco on a hlavní část hordy spěchala na pomoc Borstepu."
 
@@ -3210,7 +3210,7 @@ msgid ""
 "picked up a trail of a large body of dwarves, elves and humans heading east "
 "through the mountains."
 msgstr ""
-"S očima hořícíma obavou a zlostí poslal Kapou'e jezdce prohledat zemi ve "
+"S očima hořícíma obavou a zlostí poslal Kapou’e jezdce prohledat zemi ve "
 "všech směrech, aby našli viníky, zatímco se zbytkem hordy postavil tábor. "
 "Jeden z jezdců se vrátil za pár hodin a hlásil, že nalezl stezku, kterou se "
 "ubíralo velké množství trpaslíků, elfů a lidí cestujících na východ skrz "
@@ -3336,7 +3336,7 @@ msgid ""
 "mountain pass. Kapou’e began to recognize the lands about them and sure "
 "enough, they soon found themselves back in the tribe’s homeland."
 msgstr ""
-"Po rozdrcení trpasličí blokády horda pokračovala horským průsmykem. Kapou'e "
+"Po rozdrcení trpasličí blokády horda pokračovala horským průsmykem. Kapou’e "
 "začal rozpoznávat krajinu okolo nich a byl si jistý, že brzy budou zpět v "
 "zemi jeho kmene."
 
@@ -3563,7 +3563,7 @@ msgid ""
 "eye or something like that."
 msgstr ""
 "Ne, skutečně. Je to pravda. Je vyplašený z nějakého mladého povýšence "
-"zvaného Kapou'e. Rozkazuje všem šamanům, jen protože jeho otec měl černé oko "
+"zvaného Kapou’e. Rozkazuje všem šamanům, jen protože jeho otec měl černé oko "
 "nebo tak něco."
 
 #. [message]: speaker=second_unit
@@ -3657,12 +3657,12 @@ msgstr "Poraz všechny rebelské nepřátele a..."
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:33
 msgid "Then move Kapou’e to the signpost in the southwest"
-msgstr "Přesuň Kapou'eho k ukazateli na jihozápadě."
+msgstr "Přesuň Kapou’eho k ukazateli na jihozápadě."
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:42
 msgid "Move Kapou’e to the signpost in the southwest"
-msgstr "Přesuň Kapou'eho k ukazateli na jihozápadě."
+msgstr "Přesuň Kapou’eho k ukazateli na jihozápadě."
 
 #. [side]: type=Orcish Warlord, id=Braga
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:87
@@ -3736,10 +3736,10 @@ msgid ""
 "give him a good chance to clobber the orcs together again — the old "
 "fashioned way."
 msgstr ""
-"Kapou'e přísahal, že to nedopustí. Ta celá záležitost zaváněla zrádným "
+"Kapou’e přísahal, že to nedopustí. Ta celá záležitost zaváněla zrádným "
 "spiknutím zaměřeným na zničení jednoty skřetů. Navíc pokud měl ten milovník "
 "stromů pravdu, za vším stál Šan Taum Samolibý. Co zamýšlel získat zničením "
-"vlastní rasy bylo Kapou'emu jedno, ale rozhodl se pochodovat k Bitoku a "
+"vlastní rasy bylo Kapou’emu jedno, ale rozhodl se pochodovat k Bitoku a "
 "osobně se zrádci postavit. Navíc Bitok je na druhé straně skřetího teritoria "
 "a to mu dávalo šanci stmelit skřety znovu dohromady — starou dobrou cestou."
 
@@ -3756,12 +3756,12 @@ msgid ""
 "direct southwest beeline towards Bitok. They were all to meet in Dorest that "
 "spring to repel the human attack that seemed certain to come."
 msgstr ""
-"Kapou'e si u svých jednotek vypěstoval respekt jako moudrý a schopný vůdce a "
-"jeho vojáci jej ujistili o své věrnosti. Potěšený Kapou'e jim vydal pokyny "
+"Kapou’e si u svých jednotek vypěstoval respekt jako moudrý a schopný vůdce a "
+"jeho vojáci jej ujistili o své věrnosti. Potěšený Kapou’e jim vydal pokyny "
 "ke shromáždění dalších kmenů i silou, když to bude nutné. Al'Brok byl vyslán "
-"západně podél cesty, kudy téměř před rokem Kapou'e unikl lidským jednotkám. "
+"západně podél cesty, kudy téměř před rokem Kapou’e unikl lidským jednotkám. "
 "Flar'Tar odešel přímo na jih, kde měl shromáždit kmeny podél Pohoří Haag a "
-"východně od Truchlivých kopců. Sám Kapou'e přímou čarou zamířil "
+"východně od Truchlivých kopců. Sám Kapou’e přímou čarou zamířil "
 "severozápadně k Bitoku. Všichni se měli sejít v Dorestu toho jara k odražení "
 "útoku lidí, který určitě přijde."
 
@@ -3771,7 +3771,7 @@ msgid ""
 "Having thus made his plans, Kapou’e set out for Bitok to get to the root of "
 "this treachery."
 msgstr ""
-"Majíc vytvořený plán, Kapou'e se vydal směrem na Bitok, aby se dobral kořene "
+"Majíc vytvořený plán, Kapou’e se vydal směrem na Bitok, aby se dobral kořene "
 "zrady."
 
 #. [message]: speaker=Kapou'e
@@ -3903,7 +3903,7 @@ msgid ""
 "who weren’t killed in combat died from exhaustion, or fell behind and froze "
 "to death."
 msgstr ""
-"Kapou'e a jeho následovníci vykonali vyčerpávající pochod napříč zmrzlými "
+"Kapou’e a jeho následovníci vykonali vyčerpávající pochod napříč zmrzlými "
 "severními územími. Skřetům to připadalo jako jako neustálá noční můra "
 "skládající se z mrznutí, pochodování a bojování. Jídla bylo málo a zásoby "
 "získané od povstaleckých kmenů se dávaly na přesné příděly. Mnoho slabších "
@@ -3919,7 +3919,7 @@ msgid ""
 "way or another, since if they were separated and scattered, they would "
 "surely be exterminated."
 msgstr ""
-"I přes tuto noční můru je Kapou'e hnal stejně nemilosrdně jako sebe. Jarní "
+"I přes tuto noční můru je Kapou’e hnal stejně nemilosrdně jako sebe. Jarní "
 "oblevy měli v zádech a nebylo pochyb, že hrabě Lanbec'h shromažďuje lidskou "
 "armádu. Do té doby museli být skřeti sjednoceni bez ohledu na metodu, "
 "protože roztříštění a nejednotní by bezpochyby byli vyhlazeni."
@@ -3939,7 +3939,7 @@ msgid ""
 "Finally, after over three months, Kapou’e and his exhausted but hardened "
 "army arrived at Bitok, just before the spring thaw."
 msgstr ""
-"Konečně, po třech měsících Kapou'e a jeho vyčerpaná, ale zocelená armáda "
+"Konečně, po třech měsících Kapou’e a jeho vyčerpaná, ale zocelená armáda "
 "přišli k Bitoku těsně před první jarní oblevou."
 
 #. [message]: speaker=Kapou'e
@@ -3950,7 +3950,7 @@ msgstr "Dobré ráno, Šan Taume!"
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:204
 msgid "What... Kapou’e! What in the frozen Northlands are you doing here?!"
-msgstr "Co... Kapou'e! Co děláš v těchto zmrzlých severních zemích?"
+msgstr "Co... Kapou’e! Co děláš v těchto zmrzlých severních zemích?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:209
@@ -4076,8 +4076,8 @@ msgid ""
 "mug out of the traitor’s skull, Kapou’e gathered his men and headed for "
 "Dorest."
 msgstr ""
-"Jak Kapou'e očekával, jednotky, které porazily Šan Tauma ho nikde nenašly. "
-"Skřípajíc zuby a slibujíc, že z lebky zrádce udělá pohár, Kapou'e shromáždil "
+"Jak Kapou’e očekával, jednotky, které porazily Šan Tauma ho nikde nenašly. "
+"Skřípajíc zuby a slibujíc, že z lebky zrádce udělá pohár, Kapou’e shromáždil "
 "své muže a zamířil k Dorestu."
 
 #. [part]
@@ -4090,7 +4090,7 @@ msgid ""
 "way they could to preserve the unity of the Horde."
 msgstr ""
 "Zároveň s ním dorazili jeho generálové Al'Brok a Flar'Tar, kteří přivedli "
-"stovky krvežíznivých skřetů. Válečníci kmenů, které Kapou'e donutil k pokoře "
+"stovky krvežíznivých skřetů. Válečníci kmenů, které Kapou’e donutil k pokoře "
 "zastrašováním, tu byli také. Navíc také přišli pomoci zbývající šamané Velké "
 "rady, aby zachovali jednotu Hordy."
 
@@ -4104,8 +4104,8 @@ msgid ""
 "Younger grunts especially worshiped him with such fervor that he found it "
 "almost frightening."
 msgstr ""
-"Jejich přítomnost se ukázala být zbytečnou. Byl to šok, když Kapou'e po "
-"několika dnech zjistil, že ho jeho lidé chovají v úctě. Novinky o Kapou'eho "
+"Jejich přítomnost se ukázala být zbytečnou. Byl to šok, když Kapou’e po "
+"několika dnech zjistil, že ho jeho lidé chovají v úctě. Novinky o Kapou’eho "
 "smělých činech se šířily daleko — od záchrany šamanů u Barag Gór až po jeho "
 "nucený pochod severními sněhovými bouřemi. Zvláště mladší vojáci ho uctívali "
 "s horlivostí, která byla skoro děsivá."
@@ -4116,8 +4116,8 @@ msgid ""
 "Days passed, the snows melted and Kapou’e readied his defenses. A few weeks "
 "after Kapou’e’s arrival, riders caught sight of Earl Lanbec’h’s army."
 msgstr ""
-"Dny ubíhaly, sníh tál a Kapou'e připravil své obrany. Několik týdnu po "
-"Kapou'eho příjezdu, jezdci zahlédli armádu Hraběte Lanbec'ha."
+"Dny ubíhaly, sníh tál a Kapou’e připravil své obrany. Několik týdnu po "
+"Kapou’eho příjezdu, jezdci zahlédli armádu Hraběte Lanbec'ha."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:238
@@ -4250,7 +4250,7 @@ msgid ""
 "I am Kapou’e, son of the Black-Eye Karun. Seventeen years ago you people "
 "assassinated my father after inviting him to join the Northern Alliance."
 msgstr ""
-"Jsem Kapou'e, syn Karuna Černého oka. Před sedmnácti lety jste vy lidé "
+"Jsem Kapou’e, syn Karuna Černého oka. Před sedmnácti lety jste vy lidé "
 "zabili mého otce poté, co jste ho pozvali, aby se přidal k Severní Alianci."
 
 #. [message]: speaker=Howgarth III
@@ -4301,7 +4301,7 @@ msgid ""
 "brought along Grüü, as well as one of his most trusted soldiers. Earl "
 "Lanbec’h flatly refused to attend the parley."
 msgstr ""
-"Kapou'e souhlasil se setkáním s Howgartem III. Nicméně lidem stále "
+"Kapou’e souhlasil se setkáním s Howgartem III. Nicméně lidem stále "
 "nedůvěřoval a vzal si sebou Grüüa a jednoho ze svých nejdůvěryhodnějších "
 "vojáků. Hrabě Lanbec'h rozhodně odmítl výzvu k vyjednávání."
 
@@ -4317,8 +4317,8 @@ msgid ""
 "Horde."
 msgstr ""
 "Lidé přestali útočit a obě strany se setkaly ve středu bitevního pole. "
-"Howgart III. požadoval, aby Kapou'e odevzdal Dorest zpět lidem a vrátil se "
-"do vlastních zemí, určených dohodou. Kapou'e to odmítl udělat na tak dlouho, "
+"Howgart III. požadoval, aby Kapou’e odevzdal Dorest zpět lidem a vrátil se "
+"do vlastních zemí, určených dohodou. Kapou’e to odmítl udělat na tak dlouho, "
 "dokud budou lidé stále útočit na skřetí teritorium. Chtěl, aby lidé "
 "rozpustili své jednotky a vrátili všechny země, které ukradli skřetům. Jenom "
 "pak vrátí Dorest a rozptýlí Hordu."
@@ -4342,7 +4342,7 @@ msgid ""
 "Black-Eye Karun was the message declining their invitation to join the "
 "Northern Alliance, brought by none other than Shan Taum himself."
 msgstr ""
-"Když skončili, Kapou'e se začal ptát na okolnosti smrti jeho otce. Howgart "
+"Když skončili, Kapou’e se začal ptát na okolnosti smrti jeho otce. Howgart "
 "III. zopakoval svůj příběh, ve kterém poslední věc, kterou slyšeli od Karuna "
 "Černého oka byla zpráva odmítající jejich pozvání do Severní Aliance, "
 "pronesená nikým jiným než samotným Šan Taumem."
@@ -4385,7 +4385,7 @@ msgstr "Takže to ty jsi zabil mého otce."
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:498
 msgid "What did I tell you, Kapou’e?"
-msgstr "Co jsem ti říkal, Kapou'e?"
+msgstr "Co jsem ti říkal, Kapou’e?"
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:504
@@ -4408,8 +4408,8 @@ msgid ""
 msgstr ""
 "Zadrž, hrabě Lanbec'hu. Dosáhl jsem dohody s těmito skřety. Porušil jsi "
 "dohodu; musíš neprodleně rozpustit své jednotky a stáhnout se ze skřetího "
-"území. Jakmile se tak stane, Kapou'e ti vrátí Dorest a zastaví hordu. Měli "
-"jsme dohodu s Kapou'eho otcem už předtím a věřím, že je tento rod "
+"území. Jakmile se tak stane, Kapou’e ti vrátí Dorest a zastaví hordu. Měli "
+"jsme dohodu s Kapou’eho otcem už předtím a věřím, že je tento rod "
 "důvěryhodný. A jestli to není dost, pak jsme tu my abychom ti pomohli v "
 "případě, že poruší úmluvu."
 
@@ -4419,7 +4419,7 @@ msgid ""
 "You and your damned compromises can go to hell. Your beloved Kapou’e will be "
 "joining you shortly."
 msgstr ""
-"Ty a tvé zatracené kompromisy můžete táhnout do pekla. Tvůj milovaný Kapou'e "
+"Ty a tvé zatracené kompromisy můžete táhnout do pekla. Tvůj milovaný Kapou’e "
 "se k tobě hned připojí."
 
 #. [message]: speaker=Howgarth III
@@ -4435,7 +4435,7 @@ msgid ""
 "automatically assume that Kapou’e tricked and killed you."
 msgstr ""
 "Ha ha! Zábavné, Howgarte. Rozhlédni se. Zemřeš hned, jak můj skřetí přítel "
-"vydá rozkaz. A tví muži pak budou automaticky předpokládat, že tě Kapou'e "
+"vydá rozkaz. A tví muži pak budou automaticky předpokládat, že tě Kapou’e "
 "obelstil a zabil tě."
 
 #. [message]: speaker=Howgarth III
@@ -4453,7 +4453,7 @@ msgid ""
 "these traitors. Once they are dead and dispersed, then I trust you will "
 "carry out our agreement."
 msgstr ""
-"Kapou'e, je důležité, abych se vrátil do tábora a přinesl zprávy o naší nové "
+"Kapou’e, je důležité, abych se vrátil do tábora a přinesl zprávy o naší nové "
 "dohodě a této zradě. Jeden z mých gryfoních jezdců mne tam vezme. Má osobní "
 "stráž a zbytek gryfonů ti pomůže se probojovat z této pasti. Jakmile se "
 "dostaneš zpět do svého tábora, podnikneme společný útok na tyhle zrádce. Až "
@@ -4470,7 +4470,7 @@ msgid ""
 "Blast! The human has escaped. Orcs, bring me Kapou’e’s head. I must get to "
 "my camp and assault the city."
 msgstr ""
-"Sakra! Ten člověk uprchl. Skřeti, přineste mi Kapou'eho hlavu. Musím se "
+"Sakra! Ten člověk uprchl. Skřeti, přineste mi Kapou’eho hlavu. Musím se "
 "vrátit do tábora a zaútočit na město."
 
 #. [message]: speaker=Grüü
@@ -4497,7 +4497,7 @@ msgstr "Krev a ocel! Ten zrádce byl můj!"
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:773
 msgid "I’m sorry, Kapou’e. I’ll have my men leave what remains of him to you."
-msgstr "Omlouvám se, Kapou'e. Moji muži ti přenechají, co z něho zbylo."
+msgstr "Omlouvám se, Kapou’e. Moji muži ti přenechají, co z něho zbylo."
 
 #. [message]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:779
@@ -4538,7 +4538,7 @@ msgid ""
 "all — to make the Great Council complete again."
 msgstr ""
 "Jakmile byl hrabě Lanbec'h zabit, dostál Howgart III. svému slovu, rozpustil "
-"hraběmu jednotky a stáhl je ze skřetího území. Dle své části úmluvy Kapou'e "
+"hraběmu jednotky a stáhl je ze skřetího území. Dle své části úmluvy Kapou’e "
 "odešel z Dorsetu a rozpustil Velkou hordu. Avšak předtím než tak udělal, "
 "ustanovil tři další šamany — s jednomyslným souhlasem všech — aby byla Velká "
 "rada opět kompletní."
@@ -4552,7 +4552,7 @@ msgid ""
 "sovereign over all the northern tribes."
 msgstr ""
 "Stejně Rahul udělal to co udělal i Kapouehomu otci, Howgart III. poslal "
-"pozvání Kapou'emu, aby se přidal k Severní Alianci. Kapou'e odmítl. Namísto "
+"pozvání Kapou’emu, aby se přidal k Severní Alianci. Kapou’e odmítl. Namísto "
 "toho odešel do Barag Gór, udělal z něj hlavní město a ustanovil se "
 "panovníkem všech severních kmenů."
 
@@ -4566,8 +4566,8 @@ msgid ""
 "effect that orcs desiring to trade would have free passage anywhere in "
 "orcish territory without hindrance from other tribes."
 msgstr ""
-"Kapou'e vládl po mnoho let a tyto roky byly časem nebývalé skřetí prosperity "
-"a jednoty. Pod vedením Kapou'eho sjednocené skřetí síly důkladně prohledaly "
+"Kapou’e vládl po mnoho let a tyto roky byly časem nebývalé skřetí prosperity "
+"a jednoty. Pod vedením Kapou’eho sjednocené skřetí síly důkladně prohledaly "
 "a vyčistily své území od všech odpadlických band lidí, trpaslíků, elfů a "
 "nemrtvých. Byly uzavřeny dohody, zaručující skřetům toužícím po obchodu "
 "volný pohyb kdekoliv ve skřetím území bez překážek a obtěžování ostatními "
@@ -4582,7 +4582,7 @@ msgid ""
 "Kapou’e, both attacks were quickly and decisively crushed, even before the "
 "Northern Alliance could intervene."
 msgstr ""
-"Během osmého a poté znovu během čtrnáctého roku Kapou'eho vlády byla skřetí "
+"Během osmého a poté znovu během čtrnáctého roku Kapou’eho vlády byla skřetí "
 "teritoria znovu napadena. Poprvé elfy a poté znovu lidmi. Bylo to jako důkaz "
 "skřetí jednoty - oba útoky byly rychle a rozhodně rozdrceny, dokonce dříve "
 "než mohla Severní Aliance zasáhnout."
@@ -4597,7 +4597,7 @@ msgid ""
 "of this and, consequently, those orcs thirsting for battle got more than "
 "enough to keep them from attacking their nearest neighbors."
 msgstr ""
-"Aby minimalizoval boje mezi kmeny, Kapou'e také sestavil obrovskou armádu z "
+"Aby minimalizoval boje mezi kmeny, Kapou’e také sestavil obrovskou armádu z "
 "obyvatel ze všech koutů jeho říše. Aby si mohl dovolit vydržování tak velké "
 "armády, často pronajímal její části k boji v cizích bitvách. Národy všech "
 "ras to s výhodou využívaly a následkem toho skřeti žíznící po boji mohli "
@@ -4612,7 +4612,7 @@ msgid ""
 "Tales of his courage and cunning reached even as far as Wesnoth itself."
 msgstr ""
 "Grüü měl zvláštní zálibu v těchto výpadech. Obrovský, mazaný a rychlý troll "
-"se brzy stal dokonce známějším než Kapou'e. Příběhy o jeho odvaze a "
+"se brzy stal dokonce známějším než Kapou’e. Příběhy o jeho odvaze a "
 "prohnanosti se donesly až do samotného Wesnothu."
 
 #. [unit_type]: id=Novice Orcish Shaman, race=orc
