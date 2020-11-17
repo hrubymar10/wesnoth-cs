@@ -22,15 +22,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-08-28 10:00+0200\n"
-"Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2020-11-17 11:45+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.1\n"
 
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:9
@@ -83,7 +82,7 @@ msgid ""
 "born allies to the land of the dead!\n"
 "\n"
 msgstr ""
-"Tvůj otec Karun Černé Oko byl největší skřetí velitel, jaký kdy žil. Teď je "
+"Tvůj otec Karun Černé oko byl největší skřetí velitel, jaký kdy žil. Teď je "
 "na tobě jako na jeho synovi, abys zkřížil plány sobecky vymyšlené lidmi, "
 "kteří porušili staré dohody se skřety a snaží se zabrat vaše země. Sjednoť "
 "soupeřící skřetí kmeny, svolej Skřetí Radu, pozvedni Velkou Hordu a pošli "
@@ -211,7 +210,7 @@ msgid ""
 "Alliance and the orcs settled their territorial disputes."
 msgstr ""
 "Rahul I., vůdce Severní Aliance, uzavřel mír se skřety během čtrnáctého roku "
-"své vlády. Ukončil tak patnáct let trvající válku s Karunem Černým Okem, "
+"své vlády. Ukončil tak patnáct let trvající válku s Karunem Černým okem, "
 "vládcem skřetů. Mírová dohoda mezi místními lidmi a skřety stanovila, která "
 "země náleží skřetům a která lidem."
 
@@ -229,7 +228,7 @@ msgid ""
 "unity of the orcs by slaying their strongest leader."
 msgstr ""
 "Na Rahula tak zapůsobila inteligence prokázaná velitelem Karunem Černým "
-"Okem, že ho pozval, aby se přidal k Severní Alianci. Po dlouhém uvažování se "
+"okem, že ho pozval, aby se přidal k Severní Alianci. Po dlouhém uvažování se "
 "Karun rozhodl nabídku přijmout. Ale na cestě do města Trpasličí Dveře — "
 "hlavního stanu Severní Aliance — byli Karun a jeho malá skupina strážců "
 "napadeni a vybiti do posledního muže. Neexistovali žádní přeživší, aby "
@@ -251,7 +250,7 @@ msgstr ""
 "Mírová dohoda však stále platila, protože — ačkoliv byla Severní Alianci "
 "dohodnuta — byla uzavřena mezi místními hrabstvími a skřetími kmeny a neměla "
 "se Severní Aliancí přímou spojitost. Další — a možná hlavní — důvod, proč "
-"dohoda platila, byl, že se smrtí Černého Oka se skřetí jednota rozpadla a "
+"dohoda platila, byl, že se smrtí Černého oka se skřetí jednota rozpadla a "
 "oni znovu upadli do vzájemného handrkování. Tudíž byla následující léta "
 "víceméně klidná a prosperující — aspoň tedy pro lidi."
 
@@ -300,7 +299,7 @@ msgid ""
 "orcish leader Kapou’e, the son of the Black-Eye."
 msgstr ""
 "Za soumraku jednotky dosáhly hornatého území pod správou skřetího vůdce "
-"Kapou'eho, syna Černého Oka."
+"Kapou'eho, syna Černého oka."
 
 #. [message]: speaker=Alber
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:140
@@ -452,7 +451,7 @@ msgid ""
 "try to steal from Kapou’e, Son of the Black-Eye!"
 msgstr ""
 "Připravte se na bitvu, mí pěšáci! Ukážeme těm lidem, co se stane, když se "
-"pokusíte krást u Kapou'eho, Syna Černého Oka!"
+"pokusíte krást u Kapou'eho, syna Černého oka!"
 
 #. [scenario]: id=02_The_Human_Army
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:4
@@ -525,7 +524,7 @@ msgid ""
 "Black-Eye!"
 msgstr ""
 "A tohle je ten hloupý člověk, který se odvážil pochodovat proti Kapou'emu — "
-"Synu Černého Oka!"
+"synu Černého oka!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:137
@@ -705,7 +704,7 @@ msgstr "Stát! Kdo jste?"
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:158
 msgid "It is I, Kapou’e, son of the Black-Eye Karun. What do you want, dwarf?"
-msgstr "Jsem Kapou'e, syn Karuna Černého Oka. Co chceš, trpaslíku?"
+msgstr "Jsem Kapou'e, syn Karuna Černého oka. Co chceš, trpaslíku?"
 
 #. [message]: speaker=Kwili
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:164
@@ -785,7 +784,7 @@ msgstr ""
 msgid ""
 "I’ve never pushed so far. We are crossing the border of the Black-Eye lands."
 msgstr ""
-"Ještě nikdy jsem nebyl tak daleko. Překračujeme hranice zemí Černého Oka."
+"Ještě nikdy jsem nebyl tak daleko. Překračujeme hranice zemí Černého oka."
 
 #. [unit]: id=Blemaker, type=Troll Warrior
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:239
@@ -1227,7 +1226,7 @@ msgid ""
 "Freedom! Many thanks, Son of the Black-Eye. I’m Jetto, master of assassins, "
 "now you can count on the assassins’ guild to help you in your quest!"
 msgstr ""
-"Svoboda! Tisíceré díky, Synu Černého Oka. Jsem Jetto, mistr vrahů. Od této "
+"Svoboda! Tisíceré díky, synu Černého oka. Jsem Jetto, mistr vrahů. Od této "
 "chvíle můžeš počítat s pomocí celého zabijáckého spolku."
 
 #. [message]: speaker=Kapou'e
@@ -1256,7 +1255,7 @@ msgid ""
 "Thank you, Son of the Black-Eye. If you hadn’t arrived when you did, I don’t "
 "know what would have happened to us."
 msgstr ""
-"Děkuji ti, synu Černého Oka. Kdyby jsi nepřijel v pravý čas, nevím co by se "
+"Děkuji ti, synu Černého oka. Kdyby jsi nepřijel v pravý čas, nevím co by se "
 "s námi stalo."
 
 #. [message]: speaker=Kapou'e
@@ -1318,7 +1317,7 @@ msgstr ""
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:580
 msgid ""
 "Son of the Black-Eye! Could I ask for my release from this blighted cage?"
-msgstr "Synu Černého Oka! Mohu požádat o propuštění z této zkažené klece?"
+msgstr "Synu Černého oka! Mohu požádat o propuštění z této zkažené klece?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:585
@@ -1345,7 +1344,7 @@ msgid ""
 "Freedom! Many thanks, Son of the Black-Eye. I’m Jetto, master of assassins, "
 "now you can count on my assassins to help you in your quest!"
 msgstr ""
-"Svoboda! Tisíceré díky, Synu Černého Oka. Jsem Jetto, mistr vrahů. Od této "
+"Svoboda! Tisíceré díky, synu Černého oka. Jsem Jetto, mistr vrahů. Od této "
 "chvíle můžeš na své cestě počítat s pomocí mých vrahů."
 
 #. [scenario]: id=05_To_the_Harbor_of_Tirigaz
@@ -1470,7 +1469,7 @@ msgid ""
 "Hush, Vraurk, we must trust the Son of the Black-Eye in these matters, for "
 "he is far more cunning in them than we are."
 msgstr ""
-"Ticho, Vraurku. Musíme důvěřovat Synu Černého Oka v těchto záležitostech, ve "
+"Ticho, Vraurku. Musíme důvěřovat synu Černého oka v těchto záležitostech, ve "
 "kterých je mnohem zběhlejší než jsme my."
 
 #. [message]: speaker=Grüü
@@ -1567,7 +1566,7 @@ msgstr ""
 #. [message]: speaker=Gork
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:186
 msgid "This is a wise choice. Good luck, Son of the Black-Eye."
-msgstr "Moudrá volba. Hodně štěstí, Synu Černého oka."
+msgstr "Moudrá volba. Hodně štěstí, synu Černého oka."
 
 #. [message]: speaker=Slowhand
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:191
@@ -1586,12 +1585,12 @@ msgstr "Vypadá to, že společnost našeho druhu se blíží ze severu."
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:213
 msgid "Greetings from Kapou’e, Son of the Black-Eye Karun."
-msgstr "Pozdravy od Kapou'eho, syna Karuna Černého Oka."
+msgstr "Pozdravy od Kapou'eho, syna Karuna Černého oka."
 
 #. [message]: speaker=Affman
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:218
 msgid "Son of the great Black-Eye Karun?! You do us honor, Chief."
-msgstr "Syn Karuna Černého Oka? Prokazujete nám poctu, náčelníku."
+msgstr "Syn Karuna Černého oka? Prokazujete nám poctu, náčelníku."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:223
@@ -2306,7 +2305,7 @@ msgid ""
 "Smug, who was a rival of Black-Eye Karun."
 msgstr ""
 "Jsi troll, takže to nemůžeš vědět - těmto zemím vládne Šan Taum Samolibý, "
-"který byl soupeřem Karuna Černého Oka."
+"který byl soupeřem Karuna Černého oka."
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:120
@@ -2679,7 +2678,7 @@ msgstr "Sbohem."
 #. [message]: speaker=Inarix
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:490
 msgid "Damn you, Son of the Black-Eye! You’ll pay for this!"
-msgstr "Proklínám tě, Synu Černého Oka! Za tohle zaplatíš!"
+msgstr "Proklínám tě, synu Černého oka! Za tohle zaplatíš!"
 
 #. [message]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:504
@@ -3264,7 +3263,7 @@ msgid ""
 "all, we are dealing with the Son of the Black-Eye here."
 msgstr ""
 "Dobrá, ale našli lidští spojenci tu zůstanou také a pomohou ti. Jednáme tu "
-"přeci jenom se Synem Černého Oka."
+"přeci jenom se synem Černého oka."
 
 #. [message]: speaker=Darstang
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:261
@@ -3568,7 +3567,7 @@ msgstr ""
 msgid ""
 "Refer to Black-Eye Karun with respect, wose-born. Now, where are the shamans?"
 msgstr ""
-"Mluv o Karunovi Černém Oku s úctou, ty stromová kryso. Kde jsou tedy šamané?"
+"Mluv o Karunovi Černém oku s úctou, ty stromová kryso. Kde jsou tedy šamané?"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:665
@@ -3787,7 +3786,7 @@ msgstr ""
 #. [message]: speaker=Braga
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:225
 msgid "Black-Eye! We won’t submit to an upstart like you!"
-msgstr "Černé Oko! Takovému povýšenci, jako jsi ty, se nepodvolíme!"
+msgstr "Černé oko! Takovému povýšenci, jako jsi ty, se nepodvolíme!"
 
 #. [message]: speaker=Meato
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:231
@@ -3844,7 +3843,7 @@ msgstr "Tenhle kmen je zpacifikovaný."
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:374
 msgid "This is what you get for deserting the Son of the Black-Eye."
-msgstr "To je to, co se dostává za zradu Syna Černého Oka."
+msgstr "To je to, co se dostává za zradu syna Černého oka."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:383
@@ -4247,7 +4246,7 @@ msgid ""
 "I am Kapou’e, son of the Black-Eye Karun. Seventeen years ago you people "
 "assassinated my father after inviting him to join the Northern Alliance."
 msgstr ""
-"Jsem Kapou'e, syn Karuna Černého Oka. Před sedmnácti lety jste vy lidé "
+"Jsem Kapou'e, syn Karuna Černého oka. Před sedmnácti lety jste vy lidé "
 "zabili mého otce poté, co jste ho pozvali, aby se přidal k Severní Alianci."
 
 #. [message]: speaker=Howgarth III
@@ -4341,7 +4340,7 @@ msgid ""
 msgstr ""
 "Když skončili, Kapou'e se začal ptát na okolnosti smrti jeho otce. Howgart "
 "III. zopakoval svůj příběh, ve kterém poslední věc, kterou slyšeli od Karuna "
-"Černého Oka byla zpráva odmítající jejich pozvání do Severní Aliance, "
+"Černého oka byla zpráva odmítající jejich pozvání do Severní Aliance, "
 "pronesená nikým jiným než samotným Šan Taumem."
 
 #. [part]
