@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-25 18:00 UTC\n"
-"PO-Revision-Date: 2020-11-17 20:47+0100\n"
+"PO-Revision-Date: 2020-11-17 22:14+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -209,7 +209,7 @@ msgid ""
 "with Black-Eye Karun, ruler of the enemy orcs. A peace treaty between the "
 "Alliance and the orcs settled their territorial disputes."
 msgstr ""
-"Rahul I., vůdce Severní Aliance, uzavřel mír se skřety během čtrnáctého roku "
+"Rahul I., vůdce Severní aliance, uzavřel mír se skřety během čtrnáctého roku "
 "své vlády. Ukončil tak patnáct let trvající válku s Karunem Černým okem, "
 "vládcem skřetů. Mírová dohoda mezi místními lidmi a skřety stanovila, která "
 "země náleží skřetům a která lidem."
@@ -228,11 +228,11 @@ msgid ""
 "unity of the orcs by slaying their strongest leader."
 msgstr ""
 "Na Rahula tak zapůsobila inteligence prokázaná velitelem Karunem Černým "
-"okem, že ho pozval, aby se přidal k Severní Alianci. Po dlouhém uvažování se "
+"okem, že ho pozval, aby se přidal k Severní alianci. Po dlouhém uvažování se "
 "Karun rozhodl nabídku přijmout. Ale na cestě do města Trpasličí Dveře — "
-"hlavního stanu Severní Aliance — byli Karun a jeho malá skupina strážců "
+"hlavního stanu Severní aliance — byli Karun a jeho malá skupina strážců "
 "napadeni a vybiti do posledního muže. Neexistovali žádní přeživší, aby "
-"událost popsali, ale brzy se mezi skřety začalo věřit, že Severní Aliance "
+"událost popsali, ale brzy se mezi skřety začalo věřit, že Severní aliance "
 "nachystala léčku a rozkázali zabít jejich hlavního velitele, aby zničili "
 "jednotu skřetů."
 
@@ -247,9 +247,9 @@ msgid ""
 "and they once again descended into inner squabbling. Thus the years that "
 "followed were relatively peaceful and prosperous — at least for the humans."
 msgstr ""
-"Mírová dohoda však stále platila, protože — ačkoliv byla Severní Alianci "
+"Mírová dohoda však stále platila, protože — ačkoliv byla Severní alianci "
 "dohodnuta — byla uzavřena mezi místními hrabstvími a skřetími kmeny a neměla "
-"se Severní Aliancí přímou spojitost. Další — a možná hlavní — důvod, proč "
+"se Severní aliancí přímou spojitost. Další — a možná hlavní — důvod, proč "
 "dohoda platila, byl, že se smrtí Černého oka se skřetí jednota rozpadla a "
 "oni znovu upadli do vzájemného handrkování. Tudíž byla následující léta "
 "víceméně klidná a prosperující — aspoň tedy pro lidi."
@@ -4185,7 +4185,7 @@ msgstr "Kdo si myslíš, že jsi, lidský červe?"
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:448
 msgid "I am Howgarth of the Northern Alliance, successor to the late Rahul I."
-msgstr "Jsem Howgart III., vůdce Severní Aliance, nástupce Rahula I."
+msgstr "Jsem Howgart III., vůdce Severní aliance, nástupce Rahula I."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:454
@@ -4193,7 +4193,7 @@ msgid ""
 "This is a strictly territorial matter, Howgarth. The Northern Alliance has "
 "no right to intervene in this affair."
 msgstr ""
-"Tohle je naprosto jasně místní problém, Howgarte. Severní Aliance nemá právo "
+"Tohle je naprosto jasně místní problém, Howgarte. Severní aliance nemá právo "
 "zasahovat do této záležitosti."
 
 #. [message]: speaker=Howgarth III
@@ -4204,7 +4204,7 @@ msgid ""
 "of you are no doubt violating. It is our duty as the orchestrator and "
 "witness of this treaty to see that it is honored."
 msgstr ""
-"Sakra mám! Hrabě Lanbec'hu, Severní Aliance byla před sedmnácti lety svědkem "
+"Sakra mám! Hrabě Lanbec'hu, Severní aliance byla před sedmnácti lety svědkem "
 "dohody mezi vašimi lidmi a skřety, kterou oba bez pochybnosti porušujete. "
 "Jako organizátor a svědek té smlouvy mám povinnost poznat, kdy je to vážné."
 
@@ -4251,7 +4251,7 @@ msgid ""
 "assassinated my father after inviting him to join the Northern Alliance."
 msgstr ""
 "Jsem Kapou’e, syn Karuna Černého oka. Před sedmnácti lety jste vy lidé "
-"zabili mého otce poté, co jste ho pozvali, aby se přidal k Severní Alianci."
+"zabili mého otce poté, co jste ho pozvali, aby se přidal k Severní alianci."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:492
@@ -4282,7 +4282,7 @@ msgstr "Zábavné. To jméno zní povědomě."
 #. [scenario]: id=18_Northern_Alliance
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:4
 msgid "Northern Alliance"
-msgstr "Severní Aliance"
+msgstr "Severní aliance"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:26
@@ -4331,8 +4331,8 @@ msgid ""
 "would be forced to move against the Earl."
 msgstr ""
 "Howgart III. souhlasil a dále slíbil, že pokud Hrabě Lanbec'h bude "
-"pokračovat v agresi, v nesouladu s příkazy Severní Aliance, osobně povede "
-"jednotky Aliance proti Hraběti."
+"pokračovat v agresi, v nesouladu s příkazy Severní aliance, osobně povede "
+"jednotky aliance proti Hraběti."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:200
@@ -4344,7 +4344,7 @@ msgid ""
 msgstr ""
 "Když skončili, Kapou’e se začal ptát na okolnosti smrti jeho otce. Howgart "
 "III. zopakoval svůj příběh, ve kterém poslední věc, kterou slyšeli od Karuna "
-"Černého oka byla zpráva odmítající jejich pozvání do Severní Aliance, "
+"Černého oka byla zpráva odmítající jejich pozvání do Severní aliance, "
 "pronesená nikým jiným než samotným Šan Taumem."
 
 #. [part]
@@ -4552,7 +4552,7 @@ msgid ""
 "sovereign over all the northern tribes."
 msgstr ""
 "Stejně Rahul udělal to co udělal i Kapouehomu otci, Howgart III. poslal "
-"pozvání Kapou’emu, aby se přidal k Severní Alianci. Kapou’e odmítl. Namísto "
+"pozvání Kapou’emu, aby se přidal k Severní alianci. Kapou’e odmítl. Namísto "
 "toho odešel do Barag Gór, udělal z něj hlavní město a ustanovil se "
 "panovníkem všech severních kmenů."
 
@@ -4585,7 +4585,7 @@ msgstr ""
 "Během osmého a poté znovu během čtrnáctého roku Kapou’eho vlády byla skřetí "
 "teritoria znovu napadena. Poprvé elfy a poté znovu lidmi. Bylo to jako důkaz "
 "skřetí jednoty - oba útoky byly rychle a rozhodně rozdrceny, dokonce dříve "
-"než mohla Severní Aliance zasáhnout."
+"než mohla Severní aliance zasáhnout."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/19_Epilogue.cfg:50
