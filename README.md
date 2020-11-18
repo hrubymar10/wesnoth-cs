@@ -9,36 +9,35 @@ Czech translations of The Battle for Wesnoth
 | Text Domain            | %        |
 | ---------------------- |:--------:|
 | `wesnoth`              | **91%**  |
-| `wesnoth-anl`          | **99%**  |
+| `wesnoth-anl`          | **100%** |
 | `wesnoth-announcement` | **45%**  |
-| `wesnoth-aoi`          | **100%** |
-| `wesnoth-did`          | **52%**  |
-| `wesnoth-dm`           | **98%**  |
-| `wesnoth-dw`           | **99%**  |
-| `wesnoth-editor`       | **100%** |
+| `wesnoth-did`          | **100%** |
+| `wesnoth-dm`           | **100%** |
+| `wesnoth-dw`           | **100%** |
+| `wesnoth-editor`       | **94%**  |
 | `wesnoth-ei`           | **100%** |
 | `wesnoth-help`         | **82%**  |
-| `wesnoth-httt`         | **99%**  |
+| `wesnoth-httt`         | **100%** |
 | `wesnoth-l`            | **29%**  |
 | `wesnoth-lib`          | **91%**  |
 | `wesnoth-low`          | **100%** |
 | `wesnoth-manpages`     | **54%**  |
 | `wesnoth-manual`       | **96%**  |
-| `wesnoth-multiplayer`  | **84%**  |
-| `wesnoth-nr`           | **89%**  |
+| `wesnoth-multiplayer`  | **96%**  |
+| `wesnoth-nr`           | **100%** |
 | `wesnoth-sof`          | **62%**  |
-| `wesnoth-sota`         | **93%**  |
-| `wesnoth-sotbe`        | **99%**  |
+| `wesnoth-sota`         | **95%**  |
+| `wesnoth-sotbe`        | **100%** |
 | `wesnoth-steam`        | **100%** |
-| `wesnoth-tb`           | **99%**  |
+| `wesnoth-tb`           | **100%** |
 | `wesnoth-test`         | **100%** |
-| `wesnoth-thot`         | **98%**  |
-| `wesnoth-trow`         | **99%**  |
-| `wesnoth-tsg`          | **81%**  |
-| `wesnoth-tutorial`     | **95%**  |
-| `wesnoth-units`        | **90%**  |
+| `wesnoth-thot`         | **100%** |
+| `wesnoth-trow`         | **100%** |
+| `wesnoth-tsg`          | **100%** |
+| `wesnoth-tutorial`     | **100%** |
+| `wesnoth-units`        | **95%**  |
 | `wesnoth-utbs`         | **93%**  |
-| `wesnoth-wc`           | **0%**   |
+| `wesnoth-wc`           | **47%**  |
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
