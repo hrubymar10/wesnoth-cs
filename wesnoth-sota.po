@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:41 UTC\n"
-"PO-Revision-Date: 2020-11-14 10:37+0100\n"
+"PO-Revision-Date: 2020-11-21 14:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -405,7 +405,7 @@ msgstr "Každý hrob lze použít pouze jednou."
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:262
 msgid "Guardhouse"
-msgstr "Strážnice"
+msgstr "strážnice"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:274
@@ -413,7 +413,7 @@ msgid ""
 "  Temple\n"
 "of Healing"
 msgstr ""
-"  Chrám\n"
+"  chrám\n"
 "   léčení"
 
 #. [event]
@@ -555,7 +555,7 @@ msgstr ""
 msgid ""
 "And why <i>seven</i> of us? Who wants to break into a cemetery that badly?"
 msgstr ""
-"A proč je nás<i>sedm</i>? Kdo tak hrozný by chtěl proniknout na hřbitov?"
+"A proč je nás <i>sedm</i>? Kdo tak hrozný by chtěl proniknout na hřbitov?"
 
 #. [message]: speaker=Glant
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:761
@@ -644,8 +644,8 @@ msgid ""
 "He's <i>dead</i>! This is dark sorcery like in my granddad’s time in the old "
 "country! The penalty is death. Attack and destroy them both!"
 msgstr ""
-"On je <i>mrtvý</i>! Tohle je temná magie jako z dob mého děda ve staré zemi! "
-"Trestem za ní je smrt. Zaútočte a zničte je oba!"
+"On je <i>mrtvý</i>! Tohle je temná magie jako z dob mého děda ve staré zemi! "
+"Trestem za ni je smrt. Zaútočte a zničte je oba!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:916
