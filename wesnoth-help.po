@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 01:28-0300\n"
-"PO-Revision-Date: 2020-11-16 18:41+0100\n"
+"PO-Revision-Date: 2020-11-21 01:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5022,18 +5022,9 @@ msgstr "Dlouhá temnota (3)"
 msgid "The Long Dark (4)"
 msgstr "Dlouhá temnota (4)"
 
-# tabulka útoků
 #: data/core/macros/special-notes.cfg:6 src/help/help_topic_generators.cpp:565
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "Special Notes:"
 msgid "Special Notes:"
-msgstr ""
-"\n"
-"\n"
-"Zvláštní rysy:"
+msgstr "Zvláštní rysy:"
 
 #: data/core/macros/special-notes.cfg:15
 #, fuzzy
@@ -7362,20 +7353,16 @@ msgid "Defense properties: "
 msgstr ""
 
 #: src/help/help_topic_generators.cpp:261
-#, fuzzy
-#| msgid "level"
 msgid "Level"
-msgstr "úroveň"
+msgstr "Úroveň"
 
 #: src/help/help_topic_generators.cpp:322
 msgid "Advances from: "
 msgstr "Povyšuje z: "
 
 #: src/help/help_topic_generators.cpp:324
-#, fuzzy
-#| msgid "Advances from: "
 msgid "Advances to: "
-msgstr "Povyšuje z: "
+msgstr "Povyšuje na: "
 
 #: src/help/help_topic_generators.cpp:353
 msgid "Base unit: "
@@ -7409,19 +7396,15 @@ msgstr "Vylepšení schopností: "
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:528
-#, fuzzy
-#| msgid "HP: "
 msgid "HP:"
-msgstr "životů: "
+msgstr "Životy:"
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:532
-#, fuzzy
-#| msgid "Moves: "
 msgid "Moves:"
-msgstr "kroků: "
+msgstr "Kroky:"
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
@@ -7445,28 +7428,22 @@ msgstr "Rušení:"
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:548
-#, fuzzy
-#| msgid "Cost: "
 msgid "Cost:"
-msgstr "Cena: "
+msgstr "Cena:"
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:552
-#, fuzzy
-#| msgid "Alignment: "
 msgid "Alignment:"
-msgstr "Příslušnost: "
+msgstr "Příslušnost:"
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  It uses
 #. non-breaking spaces to prevent unpleasant line breaks (issue #3256).  In the
 #. translation use non-breaking spaces as appropriate for the target language.
 #: src/help/help_topic_generators.cpp:559
-#, fuzzy
-#| msgid "Required XP: "
 msgid "Required XP:"
-msgstr "Potřebných zkušeností: "
+msgstr "Zkušenosti:"
 
 # malé nebo velké 1. písmeno
 #: src/help/help_topic_generators.cpp:574
@@ -7500,10 +7477,8 @@ msgid "Resistance"
 msgstr "Odolnost"
 
 #: src/help/help_topic_generators.cpp:697
-#, fuzzy
-#| msgid "Terrain Editor"
 msgid "Terrain Modifiers"
-msgstr "Editor terénu"
+msgstr "Vliv terénu"
 
 #: src/help/help_topic_generators.cpp:701
 msgid "Terrain"
@@ -7514,10 +7489,8 @@ msgid "Movement Cost"
 msgstr "Bodů pohybu"
 
 #: src/help/help_topic_generators.cpp:707
-#, fuzzy
-#| msgid "Defense"
 msgid "Defense Cap"
-msgstr "Obrana"
+msgstr "Omezení obrany"
 
 #: src/help/help_topic_generators.cpp:712
 msgid "Vision Cost"
