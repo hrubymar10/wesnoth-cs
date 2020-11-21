@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:42+0300\n"
-"PO-Revision-Date: 2020-11-12 21:29+0100\n"
+"PO-Revision-Date: 2020-11-21 02:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6701,7 +6701,7 @@ msgstr "Příslušnost:"
 #. translation use non-breaking spaces as appropriate for the target language.
 #: src/help/help_topic_generators.cpp:559
 msgid "Required XP:"
-msgstr "Potřeba XP:"
+msgstr "Zkušenosti:"
 
 #: src/help/help_topic_generators.cpp:568
 msgid "unit help^Attacks"
@@ -6757,7 +6757,7 @@ msgstr "Cena pohybu"
 
 #: src/help/help_topic_generators.cpp:685
 msgid "Defense Cap"
-msgstr ""
+msgstr "Omezení obrany"
 
 #: src/help/help_topic_generators.cpp:690
 msgid "Vision Cost"
