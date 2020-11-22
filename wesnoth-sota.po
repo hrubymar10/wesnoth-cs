@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:53 UTC\n"
-"PO-Revision-Date: 2020-11-21 15:00+0100\n"
+"PO-Revision-Date: 2020-11-22 21:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1305,7 +1305,7 @@ msgstr "Ten duch by jistě nešel tak, abych ho nemohla následovat."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:253
 msgid "If there is one bat, there are certainly more. We should be careful."
 msgstr ""
-"Pokud je zde jeden netopýr, tak je jich zde jistě ještě mnohem víc. Musíme "
+"Pokud je zde jeden netopýr, tak jich zde je jistě ještě mnohem víc. Musíme "
 "být opatrní."
 
 #. [message]: speaker=Ardonna
@@ -1637,22 +1637,22 @@ msgstr "Raydah"
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:138
 msgid "Inn"
-msgstr "Hostinec"
+msgstr "hostinec"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:143
 msgid "Tackle Shop"
-msgstr "Vetešnictví"
+msgstr "vetešnictví"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:148
 msgid "Cemetery"
-msgstr "Hřbitov"
+msgstr "hřbitov"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:153
 msgid "Mercantile"
-msgstr "Obchod"
+msgstr "obchod"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:163
@@ -1662,17 +1662,17 @@ msgstr "hospoda"
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:168
 msgid "Jailhouse"
-msgstr "Vězení"
+msgstr "vězení"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:173
 msgid "Boatworks"
-msgstr "Loděnice"
+msgstr "loděnice"
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:178
 msgid "Grange Hall"
-msgstr "Hospodářská budova"
+msgstr "hospodářská budova"
 
 #. [unit]: type=Delinquent, id=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:251
@@ -1682,12 +1682,12 @@ msgstr "Shynal"
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:281
 msgid "Carcyn Fisher at your service, and this is my friend Shynal."
-msgstr "Rybář z Carcynu k vašim službám a zde je můj přítel Shynal."
+msgstr "Rybář Carcyn k vašim službám a zde je má kamarádka Šinal."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:285
 msgid "“Friend?” (<i>Giggle</i>) Oh, yes, we’re very good friends."
-msgstr "„Přítel?“ (<i>Zahihňá se</i>) Ó ano, My jsme velice dobří přátelé."
+msgstr "„Kamarádka?“ (<i>Zahihňá se</i>) Ó ano, my jsme velice dobří kamarádi."
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:289
@@ -1706,12 +1706,12 @@ msgstr "Jsi Carcyn třetí, předpokládám?"
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:302
 msgid "Don’t remind me. My father is the one who threw me in this hole."
-msgstr "Nepřipomínej mi to. Můj otec je ten kdo mě hodil do této díry."
+msgstr "Nepřipomínejte mi to. Můj otec byl tím, kdo mě hodil do této díry."
 
 #. [message]: speaker=Carcyn Fisher
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:306
 msgid "You stay out of this, son."
-msgstr "Ty se od toho drž dál synu."
+msgstr "Drž se od toho dál, synu."
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:310
@@ -1719,8 +1719,8 @@ msgid ""
 "Not a chance! I’ve waited all my life to see someone put you in your place. "
 "Here is someone you can’t push around!"
 msgstr ""
-"Ani náhodou! Celý život jsem čekal na to, až tě někdo usadí na tvé místo. A "
-"zde je někdo, komu nemůžeš odporovat!"
+"Ani náhodou! Celý život jsem čekal na to, až tě někdo jak se patří usadí. A "
+"tady je ten, komu nemůžeš odporovat!"
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:314
@@ -1733,18 +1733,18 @@ msgid ""
 "The only Carcyn now. I’ve waited all my life to see someone to put my father "
 "in his place. I guess you did that."
 msgstr ""
-"Nyní už jediný Carcyn. Čekal jsem celý svůj život, abych viděl někoho, kdo "
-"by usadil mého otce na jeho místo. Myslím, že jsi to právě udělala."
+"Nyní už jediný Carcyn. Čekal jsem celý život, abych viděl někoho, kdo by "
+"mému otci ukázal, kde je jeho místo. Myslím, že jste to právě udělal."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:324
 msgid "You’re the only Carcyn for me."
-msgstr "Jsi pro mě jediný Carcyn."
+msgstr "Pro mě jsi jediný Carcyn."
 
 #. [message]: speaker=Raydah
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:337
 msgid "Look at that! He’s not from the Academy."
-msgstr "Podívej se na to! On určitě není z Akademie."
+msgstr "Podívej se na to! Ten nebude z Akademie."
 
 #. [message]: speaker=Carcyn Fisher
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:341
@@ -1763,13 +1763,13 @@ msgstr "Varoval jsem tě, abys mi nevzdoroval."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:362
 msgid "Greetings! I am Ras-Tabahn the mage."
-msgstr "Zdravím Vás! Já jsem mág Ras-Tabahn."
+msgstr "Zdravím! Já jsem mág Ras-Tabahn."
 
 #. [message]: speaker=Carcyn Fisher
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:366
 msgid ""
 "Greetings, traveler. I am Carcyn Fisher the Second. How can I be of service?"
-msgstr "Zdravím poutníku. Jsem Rybář z Carcynu. Jak ti mohu být nápomocen?"
+msgstr "Zdravím poutníku. Jsem rybář Carcyn druhý. Jak ti mohu být nápomocen?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:370
@@ -1786,8 +1786,8 @@ msgid ""
 "No one in <i>my</i> town wishes to “escape”! We don’t care to hear your "
 "offer. Peddle your corruption elsewhere."
 msgstr ""
-"Nikdo z <i>mého</i> města si nepřeje „utéct“! Nezajímá nás vaše nabídka. "
-"Zabývejte se svými malichernostmi jinde."
+"Nikdo z <i>mého</i> města si nepřeje „utéct“! Nezajímá nás tvoje nabídka. "
+"Nabízej svou zkaženost jinde."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:378
@@ -1796,9 +1796,9 @@ msgid ""
 "my agents to every house and public space in this town and repeat my offer. "
 "You will allow this."
 msgstr ""
-"Ta nabídka nebyla určena <i>vás</i>, ale pro vaše mladé. Vyšlu své zástupce "
-"do každého domu a veřejného prostranství v tomto městě, aby zopakovali mojí "
-"nabídku. A vy to dovolíte."
+"Ta nabídka nebyla určena pro <i>tebe</i>, ale pro vaše mladé. Vyšlu své "
+"zástupce do každého domu a na každé veřejného prostranství v tomto městě, "
+"aby mou nabídku zopakovali. A ty to dovolíš."
 
 #. [message]: speaker=Carcyn Fisher
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:382
@@ -1806,8 +1806,8 @@ msgid ""
 "I will do no such thing! I will be dead before I allow you to ensorcell our "
 "children!"
 msgstr ""
-"Neudělám takovou věc! Raději bych zemřel než abych nechal své děti jít s "
-"vámi!"
+"Neudělám takovou věc! Raději bych zemřel, než abych tě nechal působit na "
+"naše děti!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:386
@@ -1826,15 +1826,14 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:437
 msgid "You can now recruit dark adepts!"
-msgstr "Nyní můžete verbovat temné učedníky!"
+msgstr "Nyní můžeš verbovat temné učedníky!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:463
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:416
 msgid ""
 "This has taken too long. We will surely miss our meeting with Ardonna now."
-msgstr ""
-"Toto trvá až příliš dlouho. Bude nám jistě chybět naše setkání s Ardonnou."
+msgstr "Trvalo to moc dlouho. Určitě teď promeškáme naše setkání s Ardonnou."
 
 #. [scenario]: id=09_Training_Session
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:13
@@ -1874,7 +1873,7 @@ msgstr "Znič všechny nemrtvé jednotky"
 #. [objective]: condition=lose
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:141
 msgid "Death of all five dark adepts"
-msgstr "Smrt všech pěti temných adeptů"
+msgstr "Všech pět temných učedníků zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:145
@@ -1882,7 +1881,7 @@ msgstr "Smrt všech pěti temných adeptů"
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:108
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:120
 msgid "Death of Ras-Tabahn"
-msgstr "Smrt Ras-Tabahna"
+msgstr "Ras-Tabahn zemře"
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:155
@@ -2063,7 +2062,7 @@ msgstr "Vy! Zničili jste město Carcyn!"
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:472
 msgid "The town is hardly destroyed. I just encouraged a change of leadership."
-msgstr "Město je těžce poškozeno. Akorát jsem povzbudil změnu vedení."
+msgstr "Město bylo sotva poškozeno. Akorát jsem povzbudil změnu vedení."
 
 #. [message]: speaker=Okean
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:476
@@ -2789,8 +2788,8 @@ msgid ""
 "Now I’m really far from home. I’ve never been north of the river before. I "
 "hope I get to see some dwarves!"
 msgstr ""
-"Nyní jsem už opravdu daleko od domova. Nikdy jsem neviděla nic na sever od "
-"řeky. Doufám, že uvidím pár trpaslíků!"
+"Nyní jsem už opravdu daleko od domova. Nikdy jsem nebyla na sever od řeky. "
+"Doufám, že uvidím pár trpaslíků!"
 
 #. [message]: speaker=Vok-Hroog
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/14_Entering_the_Northlands.cfg:214
@@ -4204,7 +4203,7 @@ msgstr "Ale já nevím, jak tě přivést zpět!"
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:198
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:255
 msgid "Shynal!"
-msgstr "Shynale!"
+msgstr "Šinalo!"
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:202
@@ -4254,7 +4253,7 @@ msgstr "Ó, můj sladký Carcyne!"
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:292
 msgid "You were always so reckless."
-msgstr "Vždy jsi byl tak bezohledný."
+msgstr "Vždy jsi byl tak lehkomyslný."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:298
@@ -4264,7 +4263,7 @@ msgstr "Budeš mi chybět."
 #. [message]: speaker=$unit.id
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:466
 msgid "Aww. I wanted to be a mage like Shynal."
-msgstr "Vždy jsem chtěl být mág jako Shynal."
+msgstr "Ach jo. Chtěl bych být mág jako Šinal."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:472
