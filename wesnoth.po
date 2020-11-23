@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:40-0300\n"
-"PO-Revision-Date: 2020-11-12 21:21+0100\n"
+"PO-Revision-Date: 2020-11-23 20:09+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -454,7 +454,7 @@ msgstr "čepel"
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:156
 #: src/units/alignment.hpp:10
 msgid "chaotic"
-msgstr "chaotická"
+msgstr "chaotický"
 
 #. [language]
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:159
@@ -509,7 +509,7 @@ msgstr "úder"
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:186
 #: src/units/alignment.hpp:8
 msgid "lawful"
-msgstr "zákonná"
+msgstr "zákonný"
 
 #. [language]
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:189
