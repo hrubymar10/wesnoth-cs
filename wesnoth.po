@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:52-0300\n"
-"PO-Revision-Date: 2020-11-21 02:17+0100\n"
+"PO-Revision-Date: 2020-11-23 20:14+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -8333,11 +8333,11 @@ msgstr[2] "<span color=\"$color\">$number_or_percent</span> bodů pohybu"
 
 #: src/units/types.cpp:545 src/units/types.hpp:181
 msgid "chaotic"
-msgstr "chaotická"
+msgstr "chaotický"
 
 #: src/units/types.cpp:545 src/units/types.hpp:179
 msgid "lawful"
-msgstr "zákonná"
+msgstr "zákonný"
 
 #: src/units/types.cpp:545 src/units/types.hpp:182
 msgid "liminal"
