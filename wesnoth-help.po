@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:40-0300\n"
-"PO-Revision-Date: 2020-11-21 01:57+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-11-24 20:13+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -231,8 +232,6 @@ msgid "+1 max HP"
 msgstr "+1 max. HP"
 
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:53
-#, fuzzy
-#| msgid "first strike"
 msgid "firststrike"
 msgstr "první úder"
 
@@ -478,22 +477,22 @@ msgstr ""
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:78
 msgid "Select single hexes."
-msgstr ""
+msgstr "Vybrat jedno políčko."
 
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:79
 msgid "Select seven hexes at a time."
-msgstr ""
+msgstr "Vybrat 7 políček najednou."
 
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:80
 msgid "Select nineteen hexes at a time."
-msgstr ""
+msgstr "Vybrat 19 políček najednou."
 
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:81 data/core/editor/help.cfg:82
 msgid "Select three hexes in a line."
-msgstr ""
+msgstr "Vybrat 3 políčka v linii."
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:89
@@ -519,22 +518,22 @@ msgstr ""
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:97
 msgid "Rotate clockwise by 60°."
-msgstr ""
+msgstr "Otočit o 60° po směru hodinových ručiček."
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:98
 msgid "Rotate counter-clockwise by 60°."
-msgstr ""
+msgstr "Otočit o 60° proti směru hodinových ručiček."
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:99
 msgid "Flip horizontally"
-msgstr ""
+msgstr "Převrátit horizontálně"
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:100
 msgid "Flip vertically"
-msgstr ""
+msgstr "Převrátit vertikálně"
 
 #. [topic]: id=editor_tool_starting
 #: data/core/editor/help.cfg:107
@@ -988,19 +987,20 @@ msgstr "Encyklopedie"
 
 #. [topic]: id=..encyclopedia
 #: data/core/encyclopedia/_main.cfg:14
-#, fuzzy
-#| msgid "<ref>dst='..geography' text='Geography'</ref>"
 msgid ""
 "<ref>dst='..calendar' text='Calendar'</ref>\n"
 "<ref>dst='..geography' text='Geography'</ref>"
-msgstr "<ref>dst='..geography' text='Zeměpis'</ref>"
+msgstr ""
+"<ref>dst='..calendar' text='Kalendář'</ref>\n"
+"<ref>dst='..geography' text='Zeměpis'</ref>"
 
 #. [section]: id=calendar
 #. [topic]: id=..calendar
 #: data/core/encyclopedia/calendar.cfg:5 data/core/encyclopedia/calendar.cfg:12
 msgid "Calendar"
-msgstr ""
+msgstr "Kalendář"
 
+# Tady bych se opravdu inspiroval těmi indiánskými měsíci.
 #. [topic]: id=..calendar
 #: data/core/encyclopedia/calendar.cfg:13
 msgid ""
@@ -1165,59 +1165,6 @@ msgstr "Wesnothské království"
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:77
-#, fuzzy
-#| msgid ""
-#| "The Kingdom of Wesnoth is located in the north-central portion of the "
-#| "<ref>dst='great_continent' text='Great Continent'</ref>. Most of the "
-#| "mainline campaigns revolve around it. It is bounded on the map by the "
-#| "<ref>dst='great_river' text='Great River'</ref> to the north, the shore "
-#| "of the <ref>dst='great_ocean' text='ocean'</ref> to the west, the "
-#| "Aethenwood to the <ref>dst='southwest_elven_lands' text='southwest'</"
-#| "ref>, and the Bitter Swamp to the southeast.\n"
-#| "\n"
-#| "Over the River Aethen, south of Fort Tahn, is a Wesnothian frontier "
-#| "region. It is bounded to the south (off-map) by dense woods of which the "
-#| "Aethenwood may be considered a northernmost extension.\n"
-#| "\n"
-#| "<header>text='Notable cities:'</header>\n"
-#| "    • Weldyn: The capital of Wesnoth.\n"
-#| "    • Aldril: City lying on the Bay of Pearls.\n"
-#| "    • Blackwater Port: City lying south of the Bay of Pearls.\n"
-#| "    • Carcyn: Located between the Grey Woods and the Great River.\n"
-#| "    • Dan’Tonk: Wesnoth’s largest city, located in the center of the "
-#| "country, just west and north of Weldyn.\n"
-#| "    • Soradoc: The northernmost border outpost of Wesnoth, controls the "
-#| "confluence of the Weldyn River and the Great River.\n"
-#| "    • Fort Tahn: The southernmost border outpost, controls the north/"
-#| "south road crossing the River Aethen.\n"
-#| "    • Tath: Important fort city north of Dan’Tonk, exerts control over "
-#| "the wilderness country around the east of the Brown Hills and north to "
-#| "the Ford of Abez.\n"
-#| "\n"
-#| "<header>text='Notable land features:'</header>\n"
-#| "    • Gryphon Mountain: Home of the fabled Gryphons.\n"
-#| "    • Ford of Abez: Shallow part of the Great River, it is usually "
-#| "controlled by Wesnothian forces.\n"
-#| "    • Weldyn River: It branches from the Great River and goes south.\n"
-#| "    • Great Central Plain: Area bounded by Weldyn, Dan’Tonk, and Fort "
-#| "Tahn, this plain is Wesnoth’s bread basket and home to most of its "
-#| "population.\n"
-#| "    • Dulatus Hills: These rolling hills bordering the Great Central "
-#| "Plain provide much of Wesnoth’s livestock and agriculture.\n"
-#| "    • Brown Hills: Wasteland surrounding Gryphon Mountain that is not "
-#| "well-populated and occasionally very dangerous.\n"
-#| "    • Horse Plains: Region of rolling plains just south of the Great "
-#| "River, bounded by Glyn’s Forest to the west and the River Weldyn to the "
-#| "east; the southern reach merges into the Central Plain. Home of the "
-#| "powerful Clans; the best horses in Wesnoth are bred here.\n"
-#| "    • Estmark Hills: Largish range rising south of the Great River and "
-#| "east of the Weldyn River. The northernmost portion, nearest the River "
-#| "Weldyn, has at various times been settled by Wesnothians, but the "
-#| "Kingdom’s control is tenuous at best and banditry is common.\n"
-#| "    • Glyn’s Forest: Sometimes known as the Royal Forest, named for one "
-#| "of Haldric II’s sons.\n"
-#| "    • Gray Woods: Large forest in the heart of the wilds of Wesnoth, "
-#| "located between Carcyn and Aldril and generally considered to be haunted."
 msgid ""
 "The Kingdom of Wesnoth is located in the north-central portion of the "
 "<ref>dst='great_continent' text='Great Continent'</ref>. Most of the "
@@ -1272,50 +1219,51 @@ msgid ""
 msgstr ""
 "Wesnothské království se rozprostírá ve středu severní části "
 "<ref>dst='great_continent' text='Velkého kontinentu'</ref>. Většina hlavních "
-"tažení se odehrává právě tam. Ze severu je ohraničena <ref>dst='great_river' "
+"tažení se odehrává právě zde. Ze severu je ohraničeno <ref>dst='great_river' "
 "text='Velkou řekou'</ref>, ze západu pobřežím <ref>dst='great_ocean' "
-"text='oceánu'</ref>, lesem Aethenwood z <ref>dst='southwest_elven_lands' "
+"text='oceánu'</ref>, Aethenským lesem z <ref>dst='southwest_elven_lands' "
 "text='jihozápadu'</ref> a Štiplavým močálem na jihovýchodě.\n"
 "\n"
 "Wesnothská hranice je za řekou Aethen, jižně od pevnosti Tahn. Na jihu (mimo "
 "mapu) je ohraničena hustými lesy, jejichž nejsevernější část je právě "
-"Aethenwood.\n"
+"Aethenský les.\n"
 "\n"
 "<header>text='Významná města'</header>:\n"
 "    • Weldyn: Hlavní město Wesnothu.\n"
 "    • Aldril: Město ležící v Zátoce perel.\n"
 "    • Přístav Temná Voda: Město ležící jižně od Zátoky perel.\n"
 "    • Carcyn: Leží mezi Šedým hvozdem a Vekou řekou.\n"
-"    • Dan’Tonk: Nejrozsáhlejší město Wesnothu ležící v centru země "
-"severozápadně od Weldynu.\n"
+"    • Dan Tonk: Největší město Wesnothu, ležící v centru země severozápadně "
+"od Weldynu.\n"
 "    • Soradok: Nejseverněji ležící pevnost Wesnothu, ovládající soutok řeky "
 "Weldyn a Velké řeky.\n"
 "    • Pevnost Tahn: Nejjižněji položená hraniční pevnost ovládající cestu "
 "z jihu na sever, která vede přes řeku Aethen.\n"
-"    • Tath: Důležité opevněné město severně od Dan’Tonk, které pomáhá "
-"kontrolovat divočinu na východ od Hnědých pahorků a severně od Brodu "
+"    • Tath: Důležité opevněné město severně od Dan Tonk, které pomáhá "
+"kontrolovat divočinu na východ od Hnědých pahorků a severně od brodu "
 "u Abezu.\n"
 "\n"
 "<header>text='Významné krajinné prvky:'</header>\n"
 "    • Hora gryfonů: Domov legendárních gryfonů.\n"
-"    • Brod u Abezu: Mělká část Velké řeky, obvykle kontrolovaná Wesnothskou "
+"    • brod u Abezu: Mělká část Velké řeky, obvykle kontrolovaná wesnothskou "
 "armádou.\n"
-"    • Řeka Weldyn: Rameno Velké řeky, které směřuje na jih.\n"
-"    • Velká centrální nížina: Oblast ohraničená Weldynem, městem Dan’Tonk "
-"a pevností Tahn, tato plocha je obilnicí Wesnothu a žije tu také nejvíc jeho "
+"    • řeka Weldyn: Rameno Velké řeky, které se stáčí na jih.\n"
+"    • Velká centrální nížina: Oblast ohraničená Weldynem, městem Dan Tonk "
+"a pevností Tahn. Tato plocha je obilnicí Wesnothu a žije tu také nejvíc jeho "
 "obyvatel.\n"
 "    • Dulatuské pahorky: Na této zvlněné ploše hraničící s Velkou centrální "
 "nížinou je soustředěna velká část zemědělství Wesnothu.\n"
 "    • Hnědé pahorky: Pustina obklopující Horu gryfonů. Není moc osídlená "
 "a tu a tam je i dost nebezpečná.\n"
 "    • Nížina koní: Zvlněná nížina vyvstávající jižně od Velké řeky, "
-"ohraničená Glynovým lesem na západě a řekou Weldyn na východě; jižní část "
-"splývá s Centrální nížinou. Domov mocných klanů; nejlepší koně v celém "
-"Wesnothu se rodí tady.\n"
-"    • Východní hory: Horské pásmo vystupující jižně od Velké řeky a východně "
-"od řeky Weldyn. Nejsevernější část, nejblíže řece Weldyn, byla mnohokrát "
-"osídlená lidmi z Wesnothu, ale kontrola nad touto oblastí je chatrná "
-"a ozbrojená přepadení jsou tu na denním pořádku.\n"
+"ohraničená Glynovým lesem na západě a řekou Weldyn na východě. Jižní část "
+"splývá s Centrální nížinou. Domov mocných klanů. Jsou tu chováni nejlepší "
+"koně v celém Wesnothu.\n"
+"    • kopce Východní marky: Rozsáhlá pahorkatina vystupující jižně od Velké "
+"řeky a východně od řeky Weldyn. Nejsevernější část, nejblíže řece Weldyn, "
+"byla v různých dobách několikrát osídlena lidmi z Wesnothu. Kontrola nad "
+"touto oblastí je ale chatrná a ozbrojená přepadení jsou tu na denním "
+"pořádku.\n"
 "    • Glynův les: Někdy nazýván také Královský les, pojmenovaný po jednom ze "
 "synů Haldrika II.\n"
 "    • Šedý hvozd: Rozsáhlý les v srdci divočiny Wesnothu, který se nachází "
@@ -1366,6 +1314,7 @@ msgstr ""
 msgid "Northlands"
 msgstr "Severní země"
 
+# Wesmérie není město, ale oblast. Kalian je město. Chyba v originále.
 #. [topic]: id=northlands
 #: data/core/encyclopedia/geography.cfg:120
 msgid ""
@@ -1416,7 +1365,7 @@ msgstr ""
 "\n"
 "<header>text='Významná města:'</header>\n"
 "    • Glamdrol: Hlavní město skřetů.\n"
-"    • Wesmérie: Místo konání Ka’lianu — Elfského koncilu.\n"
+"    • Wesmérie: Místo konání Kalianu – elfského koncilu.\n"
 "    • Trpasličí Dveře: Smíšené město lidí a trpaslíků blízko Knalgy na jihu "
 "Srdcových hor. Významné obchodní středisko.\n"
 "    • Dallben and Delwyn: Vesnice lidí postavené osadníky, kteří překročili "
@@ -1428,11 +1377,11 @@ msgstr ""
 " <header>text='Významné krajinné prvky:'</header>\n"
 "    • <ref>dst='heart_mountains' text='Srdcové hory'</ref>: Téměř "
 "nepřekročitelná hranice mezi okolím řeky a Severními pláněmi.\n"
-"    • Srdcové špičáky: obzvlášť zlověstná skupina horských štítů, které se "
+"    • Srdcové špičáky: Obzvlášť zlověstná skupina horských štítů, které se "
 "nachází jihovýchodně od jezera Vrug a severně od Wesmérie. Jde "
-"nejnebezpečnější a nejhůře obyvatelnou část Srdcových hor; žijí tu jen "
+"nejnebezpečnější a nejhůře obyvatelnou část Srdcových hor. Žijí tu jen "
 "poustevníci, mágové a pomatenci.\n"
-"    • Močály děsu: velmi rozlehlá bažina situovaná mezi Srdcovými horami "
+"    • Močály děsu: Velmi rozlehlá bažina situovaná mezi Srdcovými horami "
 "a Velkou řekou. Nechvalně proslulé a velmi nebezpečné místo.\n"
 "    • jezero Vrug: Rozlehlé horské jezero, jehož odtok vytesal jedinou cestu "
 "skrz Severní hory.\n"
@@ -1440,16 +1389,16 @@ msgstr ""
 "jezero Vrug. Jde o elfské jméno; mezi lidmi je nazývána Longlier.\n"
 "    • řeka Listra: Pravý přítok Velké řeky přitékající ze severu. Vlévá se "
 "do ní Arkan-thoria.\n"
-"    • les Lintanir: Nejjižnejší část Velkého severního lesa, obrovský les, "
-"jehož východní a severní hranice jsou známé jen elfům. Jejich hlavní město, "
-"Elensirie, bylo jen zřídka navštíveno lidmi.\n"
+"    • les Lintanir: Nejjižnejší část Velkého severního lesa, obrovského "
+"lesa, jehož východní a severní hranice jsou známé jen elfům. Jejich hlavní "
+"město, Elensirie, bylo jen zřídka navštíveno lidmi.\n"
 "    • <ref>dst='great_river' text='Velká řeka'</ref>: Pramen této řeky je "
 "někde na východě severních zemí."
 
 #. [topic]: id=southwest_elven_lands
 #: data/core/encyclopedia/geography.cfg:141
 msgid "Southwest Elven Lands"
-msgstr "Jihozápadní elfské země"
+msgstr "Jihozápadní elfská země"
 
 #. [topic]: id=southwest_elven_lands
 #: data/core/encyclopedia/geography.cfg:142
@@ -1480,10 +1429,10 @@ msgstr ""
 "    • Žádná nejsou známa\n"
 "\n"
 "<header>text='Významné krajinné útvary:'</header>\n"
-"    • les Aethenwood: Velký hvozd na jihu, pokračující jižním směrem dále "
-"než bylo zmapováno. Je domovem <ref>dst='..race_elf' text='elfů'</ref>. "
-"Ačkoliv ho tak elfové nikdy nenazývali, jižní část tohoto lesa byla "
-"obyvateli Kerlathu pojmenována Jižní les.\n"
+"    • Aethenský les: Velký hvozd na jihu, pokračující jižním směrem dále než "
+"bylo zmapováno. Je domovem <ref>dst='..race_elf' text='elfů'</ref>. Ačkoliv "
+"ho tak elfové nikdy nenazývali, jižní část tohoto lesa byla obyvateli "
+"Kerlathu pojmenována Jižní les.\n"
 "    • Černý les: Prastarý les, o kterém se ví jen velice málo a jež elfové "
 "už dávno opustili."
 
@@ -1591,7 +1540,6 @@ msgstr "Úvod"
 msgid "Gameplay"
 msgstr "Pravidla hry"
 
-#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:29 data/core/help.cfg:517
