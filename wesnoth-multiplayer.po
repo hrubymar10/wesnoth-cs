@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:40 UTC\n"
-"PO-Revision-Date: 2020-11-15 16:32+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-11-24 20:49+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
@@ -457,6 +458,8 @@ msgid ""
 "Units may not move into a hex with a rock cairn. They may, however, be "
 "recruited to, and move from, such hexes."
 msgstr ""
+"Jednotky se nemohou přesunout na políčka, na kterých je kamenná mohyla. "
+"Mohou však na takových políčcích být verbovány a přesouvat se z nich."
 
 #. [note]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:298
@@ -1717,10 +1720,8 @@ msgstr "Kamenná podobizna Lo-bsanga, Sullina služebníka."
 
 #. [multiplayer]: id=multiplayer_Swamp_of_Dread
 #: data/multiplayer/scenarios/2p_Swamp_of_Dread.cfg:7
-#, fuzzy
-#| msgid "2p — Sablestone Delta"
 msgid "2p — Swamp of Dread"
-msgstr "2p — Ústí řeky Sablestone"
+msgstr "2p — Močály děsu"
 
 #. [multiplayer]: id=multiplayer_Swamp_of_Dread
 #: data/multiplayer/scenarios/2p_Swamp_of_Dread.cfg:8
@@ -1736,6 +1737,18 @@ msgid ""
 "great strategic value means it is fiercely contested by all with military "
 "aims in the Great Continent's heart."
 msgstr ""
+"Severně od Velké řeky leží Močály děsu, obrovská nehostinná blátivá oblast "
+"prokletá odpornou magií. Protíná je jen několik bezpečných cest. Mimo tyto "
+"cesty je v močálech téměř zaručeno uvíznutí a smrt. Jsou však poměrně často "
+"vyhledávanou oblastí, protože tvoří výhodnou spojnici mezi jižními rovinami "
+"a drsným severem. Neohrožení průzkumníci tu překonávají nebezpečná "
+"rašeliniště při hledání míst k založení výnosných obchodních stanic. "
+"Největší z těchto cest, vedoucí skrz Arethův průsmyk, representuje mnohokrát "
+"v různých sporech zmiňovaný a dobře známý přechod, který se používá již od "
+"prvních starověkých válek mezi elfy a trpaslíky. Navzdory chudé půdě a "
+"omezeným zdrojům má tato oblast velkou strategickou hodnotu, což znamená, že "
+"je v hledáčku všech, co operují s vojenskými úmysly v srdci Velkého "
+"kontinentu."
 
 #. [multiplayer]: id=multiplayer_The_Freelands
 #: data/multiplayer/scenarios/2p_The_Freelands.cfg:6
@@ -2172,7 +2185,7 @@ msgid ""
 "player FFA map. Works fine 2 vs. 2 as well. There are 36 villages."
 msgstr ""
 "Ovládnutí prostoru kolem centrální tvrze je v rámci této mapy velmi "
-"výdělečné. Tato mapa pro 4 hráče byla navržena pro hru „všichni proti všem“, "
+"výdělečné. Tato mapa pro 4 hráče byla navržena pro hru všichni proti všem, "
 "ale je hratelná i v případě hry 2 proti 2. Na mapě je 36 vesnic."
 
 #. [side]
@@ -2307,24 +2320,18 @@ msgstr "5p — Aukce X"
 
 #. [multiplayer]: id=multiplayer_Auction-X
 #: data/multiplayer/scenarios/5p_Auction-X.cfg:7
-#, fuzzy
-#| msgid ""
-#| "4 players surround a central keep, play vs the AI survival style, or as a "
-#| "FFA or 4 vs. 1. The center player will need more gold in a 4 vs. 1 or "
-#| "FFA, and the best way to determine how much is an auction, LOWEST bid "
-#| "wins. It is a very small map so 75 gold is recommended for the other "
-#| "players."
 msgid ""
 "4 players surround a central keep, play vs. the AI survival style, or as a "
 "FFA or 4 vs. 1. The center player will need more gold in a 4 vs. 1 or FFA, "
 "and the best way to determine how much is an auction, LOWEST bid wins. It is "
 "a very small map so 75 gold is recommended for the other players."
 msgstr ""
-"Čtyři hráči obklopují centrální tvrz při hře na přežití proti AI, nebo volné "
-"hře 4 proti 1. Hráč uprostřed potřebuje více zlata, pokud proti němu stojí "
-"všichni ostatní. A nezapomínejte, že nejlepším způsobem jak zjistit, jak "
-"vysoká je sázka, je vsadit co nejméně! Tato mapa je velmi malá, pro ostatní "
-"hráče je doporučeno 75 zlatých."
+"Čtyři hráči obklopují centrální tvrz při hře na přežití proti AI, při hře "
+"všichni proti všem nebo volné hře 4 proti 1. Hráč v centru potřebuje více "
+"zlata, pokud proti němu stojí všichni ostatní nebo při hře všichni proti "
+"všem. A nezapomínejte, že nejlepším způsobem jak zjistit, jak vysoká je "
+"sázka, je vsadit co nejméně! Tato mapa je velmi malá, proto je pro ostatní "
+"hráče doporučeno nastavení 75 zlatých."
 
 #. [side]
 #: data/multiplayer/scenarios/5p_Auction-X.cfg:70
@@ -2428,7 +2435,6 @@ msgstr "6p — Hexcake"
 msgid "2 vs. 2 or 3 vs. 3 team game."
 msgstr "Týmová hra 2 proti 2 nebo 3 proti 3."
 
-# pův.: "Přežívačka"
 #. [multiplayer]: id=multiplayer_6p_Team_Survival
 #: data/multiplayer/scenarios/6p_Team_Survival.cfg:246
 msgid "6p — Team Survival"
@@ -2470,7 +2476,6 @@ msgstr "Vůdci tvých týmů zemřou"
 msgid "Hint: Learning the enemy spawn points and types helps a lot."
 msgstr "Tip: Hodně pomáhá zjistit, kde se objevují kteří nepřátelé."
 
-# Loajalisti?
 #. [label]
 #: data/multiplayer/scenarios/6p_Team_Survival.cfg:407
 msgid "Turn 2: Loyalists"
