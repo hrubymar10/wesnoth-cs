@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:52-0300\n"
-"PO-Revision-Date: 2020-11-23 20:14+0100\n"
+"PO-Revision-Date: 2020-11-25 17:04+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6557,7 +6557,7 @@ msgstr "Vůdci"
 
 #: src/help/help_impl.cpp:657
 msgid "Recruits"
-msgstr "Naverbováno"
+msgstr "Rekruti"
 
 # v nápovědě podrobnosti jednotky když k ní není žádný text
 #: src/help/help_impl.cpp:719 src/units/types.cpp:479
