@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:41 UTC\n"
-"PO-Revision-Date: 2020-11-22 18:27+0100\n"
+"PO-Revision-Date: 2020-11-27 17:52+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1993,12 +1993,14 @@ msgstr "Jak si přeješ. (<i>kašel, kašel</i>)"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:396
 msgid ""
 "You can recruit from in front of each dark adept during the first turn only."
-msgstr "Můžete verbovat před každého temného učně pouze během prvního kola."
+msgstr ""
+"Můžeš před každého temného učedníka naverbovat jednu jednotku, ale pouze "
+"během prvního kola."
 
 #. [scenario]: id=10_Merfolk_Revenge
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:13
 msgid "Merfolk Revenge"
-msgstr "Merfolkská Odplata"
+msgstr "Mstivé šupiny"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:25
@@ -2015,7 +2017,7 @@ msgstr ""
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:46
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:132
 msgid "Merfolk"
-msgstr "Merfolk"
+msgstr "Mořský lid"
 
 #. [side]: type=Merman Triton, id=Okean
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:48
@@ -2042,7 +2044,7 @@ msgstr "Zvláštní. Zajímalo by mě, koho jsou. Možná gryfonů?"
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:190
 msgid "A large flightless bird would be my guess."
-msgstr "Z velkého nelétavého ptáka typuji."
+msgstr "Typuji, že jsou z velkého nelétavého ptáka."
 
 #. [message]: speaker=$other_human
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:194
@@ -2059,7 +2061,7 @@ msgstr "Souhlasím. Podívejme se."
 msgid ""
 "I wonder what are they from. A large flightless bird perhaps? Let us see."
 msgstr ""
-"Zajímalo by mě, koho jsou. Velkého nelétavého ptáka možná? Podívejme se."
+"Zajímalo by mě, čí jsou. Možná z velkého nelétavého ptáka? Podívejme se."
 
 #. [message]: speaker=$other_human
 #. [message]: speaker=Ardonna
@@ -2072,7 +2074,7 @@ msgstr "Jo, měl jsi pravdu!"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:251
 msgid "I wonder if it could carry someone light. A skeleton maybe."
 msgstr ""
-"Zajímalo by mě, jestli by to mohlo nést někoho lehkého. Možná kostlivce."
+"Zajímalo by mě, jestli by to mohlo nést někoho lehkého. Třeba kostlivce."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:309
@@ -2098,7 +2100,7 @@ msgstr "Vyhráli jsme, ale obávám se, že nám nevystačí zlato."
 #. [set_variable]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:387
 msgid "Good. We ended with a fair amount of gold."
-msgstr "Výborně. Zakončili jsme to s poměrně velkým množstvím zlata."
+msgstr "Dobře. Zakončili jsme to s poměrně slušným množstvím zlata."
 
 #. [message]: speaker=Okean
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:440
@@ -2387,9 +2389,9 @@ msgid ""
 "When the mage isss dead and her dead horde put to ressst, we agree. We will "
 "have been compensssated adequately."
 msgstr ""
-"Až bude čarodějka mrtvá a její mrtvé hordy budou odpočívat, tak budeme "
-"sssouhlasssit sss tím, že nám to bylo dossstatečným způsssobem "
-"vykompenzováno."
+"Ažž bude čarodějka ssejmutá a její mrtvé hordy sspočinou sss ní, tak budeme "
+"sssouhlasssit sss tím, žže nám vššše bylo dossstatečným zzpůsssobem "
+"vykompenzzováno."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:162
@@ -2409,12 +2411,12 @@ msgstr "Od této chvíle můžeš verbovat duchy!"
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:210
 msgid "Human, take me with you!"
-msgstr "Člověče, vezmi mě sss sssebou!"
+msgstr "Člověče, vezzmi mě sss sssebou!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:214
 msgid "Why should I allow that? Your people attacked me!"
-msgstr "A proč bych tě měla vzít s sebou? Tvoji lidé mě napadli!"
+msgstr "A proč bych tě měla brát s sebou? Tvoji druhové mě napadli!"
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:218
@@ -2423,18 +2425,16 @@ msgid ""
 "learn. My race livesss but a short time compared to yoursss. I would learn "
 "to exssstend my ssspan, and the planetsss told me you know this sssecret."
 msgstr ""
-"Zkoušššel jsssem je zastavit! Nechtěl jsssem útočit. Chtěl jsssem ssse učit. "
-"My žijeme krátko v porovnání sss vaššším životem. Chci žít déle a planety mi "
-"pověděly, že ty znáššš to tajemssství."
+"Zkoušššel jsssem je zzasstavit! Nechtěl jsssem útočit. Chtěl jsssem ssse "
+"učit. My žžijeme krátce v porovnání sss vaššším žživotem. Chci ssi "
+"prodloužžit žživot a planety mi ssdělily, že ty znáššš to tajemssství."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:222
 msgid ""
 "Actually, I am searching for that secret now. But could you follow the "
 "orders of a woman?"
-msgstr ""
-"Po pravdě se to tajemství snažím najít. Ale budeš poslouchat, co ti poví "
-"žena?"
+msgstr "Po pravdě se to tajemství snažím najít. Ale budeš poslouchat ženu?"
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:226
@@ -2444,9 +2444,11 @@ msgid ""
 "frightening and forbidden by my clan. I sssubmit to your power. Now that I "
 "know you are female, I will find it easier as it isss the way of my kind."
 msgstr ""
-"Díval jsssem ssse na temnotu mezi hvězdami a temnota mi nevadila, ale tvoje "
-"duššše ukrývá jinou temnotu. Ssstrašššidelnou a zakázanou pro můj klan. "
-"Odevzdávám ssse tvé moci. Ačkoliv vím, že jsssi žena, bude to lehčí."
+"Ssledoval jsssem temnotu mezi hvězzdami a nebyl jssem její prázzdotou "
+"zzassstraššen. Ale tvá duššše sskrývá odliššnou temnotu. Ssstrašššidelnou a "
+"zzakázzanou pro můj klan. Odevzzdávám ssse tvé moci. A to, žže jssem "
+"zzjisstil, žžesss žžena, mi to ussnadňuje. Protožže pro náššš druh je "
+"přirozzené posslouchat žženy."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:230
@@ -2459,23 +2461,23 @@ msgid ""
 "Yesss, but the planetsss tell me your name isss now untrue. I do not "
 "underssstand thisss."
 msgstr ""
-"Ano, ale planety mi říkali, že tvé jméno není pravdivé. Jmenuješšš ssse "
-"jinak. Nerozumím tomu."
+"Jassně. Ale planety mi ssdělily, žže tvé přízzvissko užž není pravdivé. "
+"Jmenuješšš ssse jinak. Nerozzumím tomu ssdělení."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:238
 msgid "Nor do I. Your planets are quite cryptic."
-msgstr "To ani já ne. Ale tvé planety nehovoří jasně."
+msgstr "To ani já ne. Tvé planety hovoří v hádankách."
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:242
 msgid "They reveal what they will."
-msgstr "Odhalila to, co sssami touží odhalit."
+msgstr "Odhalí to, co sssami toužží odhalit."
 
 #. [scenario]: id=12_Walking_Trees
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:9
 msgid "Walking Trees"
-msgstr "Chodící Stromy"
+msgstr "Chodící stromy"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:21
@@ -2558,7 +2560,7 @@ msgstr "Dolmathengalin"
 #. [message]: speaker=Dolmathengalin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:350
 msgid "You are greeted daughter of elves. Why does the forest moan in despair?"
-msgstr "Buď zdráva, dcero Elfů. Proč je les tak přeplněn beznadějí?"
+msgstr "Buď zdráva, dcero elfů. Proč je les tak přeplněn beznadějí?"
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:354
@@ -2571,8 +2573,8 @@ msgid ""
 "That dark mage has woken our dead and stifles the air with her very "
 "presence. Please wake your people, Elder, and destroy her."
 msgstr ""
-"Ta temná mágině vzbudila naše mrtvé předky a ničí vzduch už jen svojí "
-"přítomností. Probuď prosím svůj lid, starší a znič ji."
+"Ta temná magině vzbudila naše mrtvé a ničí vzduch už jen svojí přítomností. "
+"Probuď prosím svůj lid, starší, a znič ji."
 
 #. [message]: speaker=Dolmathengalin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:362
@@ -2631,18 +2633,17 @@ msgid ""
 "Green Isle directly, he undoubtedly knows more than we about their methods. "
 "Recently, I have learned where to find him."
 msgstr ""
-"Rád. Předpokládám, že jste se učili o velkým mágu Crelaneru v hodině "
-"historie. Bojoval s králem Haldricem Prvním. Protože přímo čelil nesmrtelným "
-"pánům ze Zeleného ostrova, nepochybně ví o jejich metodách víc než my. "
-"Nedávno jsem zjistil, kde ho najdu."
+"Rád. Předpokládám, že jste se v hodinách historie učili o velkém mágu "
+"Krelanu. Bojoval s králem Haldrikem I. a protože přímo čelil nesmrtelným "
+"lordům ze Zeleného ostrova, nepochybně zná jejich metody víc než my. Nedávno "
+"jsem zjistil, kde ho najdu."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:133
 msgid ""
 "Of course I know about Crelanu. But can we force him to reveal his knowledge "
 "to us?"
-msgstr ""
-"Samozřejmě že vím o Crelanerovi. Ale můžeme ho donutit, aby nám řekl co ví?"
+msgstr "Samozřejmě že Krelana znám. Ale můžeme ho donutit, aby nám řekl co ví?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:137
@@ -2653,10 +2654,10 @@ msgid ""
 "something I could accomplish on my own, but now, with a force such as ours, "
 "it should be easily done."
 msgstr ""
-"To by nemělo být nutné. Zjistil jsem, že kdysi napsal knihu se všemi "
-"tajemstvími, které musí obsahovat také informace o nesmrtelnosti. Tu knihu "
-"si musíme jenom půjčit. Vím, že dostat se k té knize je náročné a samotnému "
-"by se mi to asi nikdy nepodařilo, ale nyní, s tvojí pomocí, to bude hračka."
+"To by nemělo být nutné. Zjistil jsem, že kdysi napsal knihu se všemi svými "
+"tajemstvími. Tam musí být také informace o nesmrtelnosti. Tu knihu si stačí "
+"jen půjčit. Vím, že dostat se k té knize je náročné a samotnému by se mi to "
+"asi nikdy nepodařilo, ale nyní, s tvojí pomocí, to bude hračka."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:141
@@ -2703,10 +2704,11 @@ msgid ""
 "originally Rassin Tabin, but that is fairly ordinary, and at one point, it "
 "no longer suited."
 msgstr ""
-"Pravděpodobně. Když se akademický mág dostane přes studia, získává část "
-"síly, která se dostane i do jeho jména. Ty jsi daleko za tím. Nyní jsi "
-"svobodná mágině, a můžeš si určit své vlastní jméno. Původně jsem byl Rassin "
-"Tabin, ale to bylo velmi obyčejné, a v jednou mi prostě přestalo vyhovovat."
+"Pravděpodobně. Když akademický mág dokončí svá studia, vyslechne si slabiky "
+"moci, které se stanou i součástí jeho jména. Ty jsi se dostala daleko za "
+"tento bod. Jsi ale teď svobodná magině, a tak si můžeš určit své vlastní "
+"jméno. Já jsem se původně jmenoval Rassin Tabin, ale bylo to velmi obyčejné "
+"jméno a jednou mi to prostě přestalo vyhovovat."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:170
@@ -3231,7 +3233,7 @@ msgid ""
 "Nor should you! You must embrace it. Crelanu said as much. He also said your "
 "life force must depart, but he didn’t say it could not come back to you!"
 msgstr ""
-"Ani ty bys neměl! Musíš to přijmout. Krelanu to tak říkal. Také řekl, že tvá "
+"Ani bys neměl! Musíš to přijmout. Krelanu to tak říkal. Také řekl, že tvá "
 "životní síla musí odejít. Ale neřekl, že se k tobě nemůže vrátit!"
 
 #. [message]: speaker=Ras-Tabahn
@@ -3285,9 +3287,9 @@ msgid ""
 "also believed that it would work. And like you said, he should know. For "
 "now, you can rest. We’ll have an altar built soon."
 msgstr ""
-"Crelaner řekl, že to neudělá. To ale znamená, že on by to <i>mohl</i> "
-"udělat, takže i věří, že by to mohlo fungovat. A jak jsi říkal, on by to "
-"vědět měl. Prozatím odpočívejme. Oltář bude brzy hotový."
+"Krelanu řekl, že to neudělá. To ale znamená, že on by to <i>mohl</i> udělat, "
+"takže i věří, že by to mohlo fungovat. A jak jsi říkal, on by to vědět měl. "
+"Zatím si odpočiň. Oltář bude brzy hotový."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:302
@@ -3296,7 +3298,7 @@ msgid ""
 "although neither of us needs speak the incantations aloud anymore, you "
 "should this time, as any mistake would be disastrous."
 msgstr ""
-"Nemusíš čekat, než zemřeš. Můžeme se o to postarat okamžitě. A ačkoliv nikdo "
+"Nemusíš čekat, až zemřeš. Můžeme se o to postarat okamžitě. A ačkoliv nikdo "
 "z nás už nepotřebuje říkat zaklínadla nahlas, tak ty by jsi teď asi měl. "
 "Jakýkoliv omyl by měl strašlivé následky."
 
@@ -3679,7 +3681,7 @@ msgstr "Aigondur"
 msgid ""
 "Human invaders be comin’ through the Hall o’ Heroes! I’m closin’ th’ Troll "
 "Gate!"
-msgstr "Lidský vetřelci přicházejí ze síně hrdinů! Zavírám trolí bránu!"
+msgstr "Lidský vetřelci přicházejí ze Síně hrdinů! Zavírám Trolí bránu!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/20_North_Knalga.cfg:769
@@ -3841,23 +3843,25 @@ msgid ""
 "We have arrived, Taxsstrimon. We will fight bessside you. They will pay for "
 "killing our malesss!"
 msgstr ""
-"Dorazili jsssme Taxsstrimone. Budeme bojovat po tvém boku. Zaplatí za "
-"zabíjení našššich mužů!"
+"Jsssme tu Taxsstrimone. Posstavíme sse do boje po tvém boku. Zzaplatí zza "
+"zzzabíjení našššich ješšštěrů!"
 
 #. [message]: speaker=Taxtrimon
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:579
 msgid "Well met Fizztsars. Now these creatures will certainly fall."
-msgstr "Setkáváme se v pravou chvíli. Tyto potvory brzy padnou."
+msgstr "Sssetkáváme sse právě v časss. Teď tyto sstvůry jisstojisstě zzničíme."
 
 #. [message]: speaker=Fizztsars
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:588
 msgid "Except for the male of oursss with them. He will come with usss."
-msgstr ""
+msgstr "Ažžž na naššeho ješšštěra, co je ss nimi. Ten sse vrátí ss námi."
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:592
 msgid "No! I will not return yet, I still have sssecrets to learn!"
 msgstr ""
+"Ne! Nebudu sse zzatím vracet nikam zzpátky. Ješště jssou tajemssství, co "
+"chci pozznat! "
 
 #. [unit]: type=Dwarvish Dragonguard, id=Thrigalurd
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:619
@@ -3892,7 +3896,7 @@ msgstr "Dobře. Tak toto bylo intenzivní."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:729
 msgid "At last we are victorious!"
-msgstr "Alespoň jsme zvítězili!"
+msgstr "Konečně jsme zvítězili!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:780
@@ -3910,20 +3914,20 @@ msgid ""
 "This is the place Crelanu’s gryphon told us to come, and yon party has an "
 "ill-favored look."
 msgstr ""
-"Toto je to místo, kam nás poslal Crelanerův gryfon. Už pohled na tu skupinu "
-"je strašný."
+"Toto je to místo, kam nás poslal Krelanův gryfon. Už pohled na tu skupinu je "
+"strašný."
 
 #. [message]: speaker=Gwendir
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:846
 msgid "Yes, I believe that is our quarry."
-msgstr "Myslím si, že toto byl náš kamenolom."
+msgstr "Ano, věřím, že toto je místo, kde můžem udělat hodně práce."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:850
 msgid "Crelanu! Still he haunts us. Remind me again why we didn’t kill him."
 msgstr ""
-"Crelaneli! Stále mě straší. Připomeň mi ještě jedno, proč jsme ho vlastně už "
-"dávno nezabili? Měli jsme to udělat."
+"Krelanu! Ten chlap mě pořád pronásleduje. Připomeň mi ještě jednou, proč "
+"jsme ho vlastně už nezabili?"
 
 #. [message]: speaker=Gwendir
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:854
@@ -3971,8 +3975,8 @@ msgid ""
 "We have found them! These magi destroyed a profitable business venture. We "
 "will take vengeance. You horse humans can assist us."
 msgstr ""
-"Našli jsme je! Tito mágové zničili naše obchody. Pomstíme se. Vy, jezdci na "
-"koních nám proti nim pomůžete."
+"Našššli jssme je! To jssou ti mágové zzničili naššši obchodní sstanici. "
+"Pomsstíme sse. Vy, jezzdci na koních nám můžžete assisstovat."
 
 #. [unit]: type=Merman Hoplite, id=Mauapan
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:913
@@ -4112,10 +4116,11 @@ msgstr ""
 "kapitáni mají ale i po smrti dostatečnou autoritu, a to i když se jejich "
 "vzpomínky nenávratně ztratí."
 
+# Velmi pravděpodobně se ztahuje k ženě.
 #. [unit_type]: id=Delinquent, race=human
 #: data/campaigns/Secrets_of_the_Ancients/units/Delinquent.cfg:4
 msgid "Delinquent"
-msgstr "Kriminálník"
+msgstr "Kriminálnice"
 
 #. [unit_type]: id=Delinquent, race=human
 #: data/campaigns/Secrets_of_the_Ancients/units/Delinquent.cfg:18
@@ -4125,8 +4130,8 @@ msgid ""
 "preferable to them than tying themselves to a husband."
 msgstr ""
 "Některé ženy odmítnou typický život, který jim předurčila společnost a "
-"začnou se věnovat kriminalitě. Můžou za to skončit ve vězení, ale je to pro "
-"ně lepší volba, než manželské pouto."
+"začnou se věnovat zločinu. Můžou za to skončit ve vězení. Ale horší "
+"vyhlídkou než vězeňská pouta jsou pro ně pouta manželská."
 
 #. [unit_type]: id=Dunefolk, race=dunefolk
 #. [unit_type]: id=Noble, race=human
@@ -4149,8 +4154,9 @@ msgid ""
 "do some damage with their picks."
 msgstr ""
 "Trpasličí horníci jsou hlavními pracovníky ve společenství trpaslíků. Dolují "
-"vzácné rudy, ale nepodílejí se na tvorbě zbraní a jiných cenných předmětů. "
-"Nemají vojenský výcvik a jejich jedinou zbraní je hornické nářadí."
+"ze země vzácné rudy, ale nepodílejí se na výrobě zbraní ani jiných "
+"artefaktů. Nemají vojenský výcvik, ale stále mohou bojovat s pomocí svého "
+"hornického nářadí."
 
 #. [attack]: type=pierce
 #: data/campaigns/Secrets_of_the_Ancients/units/Dwarvish_Miner.cfg:22
@@ -4166,20 +4172,15 @@ msgid ""
 "Anyone who encounters an Ancient Lich likely has far worse things to worry "
 "about than death!"
 msgstr ""
-"Zkušený lich dokáže ovlivňovat síly duchovního světa a vrhat mrznoucí blesky "
-"s ničivým efektem, nebo vysát životní sílu z těla. Síla, jakou dokáže lich "
-"vládnout je úžasná. Kdokoliv, kdo se střetne se Starým Lichem se může obávat "
-"mnohem horších věcí než jen smrti!\n"
-"\n"
-"Skúsený kostrej dokáže ovlyvňovať sily duchovného sveta a vrhať mrznúce "
-"blesky s ničivým efektom, alebo vysať životnú silu z tela. Sila, akou dokáže "
-"kostej disponovať, je úžasná. Ktokoľvek, kto sa stretne s prastarým "
-"kostejom, sa môže obývať oveľa horších vecí, ako len smrti!"
+"Zkušený lich dokáže snadno proniknout do světa duchovních sil a vrhat "
+"mrznoucí blesky se zničujícím účinkem, nebo vysávat samotnou životní sílu z "
+"těla. Síla, jakou dokáže takový lich vládnout je úžasná. Kdokoliv, kdo se "
+"střetne se starým lichem se může obávat mnohem horších věcí než je smrt!"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
 #: data/campaigns/Secrets_of_the_Ancients/units/Orcish_Shaman.cfg:4
 msgid "Orcish Shaman"
-msgstr "Skřetí Šaman"
+msgstr "Skřetí šaman"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
 #: data/campaigns/Secrets_of_the_Ancients/units/Orcish_Shaman.cfg:21
@@ -4191,11 +4192,12 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
-"Skřetí šamani jsou strážci skřetí magie. Mají respekt v jednotlivých kmenech "
-"a scházejí se na skřetím koncilu, kde učiňují důležitá rozhodnutí, která "
-"ovlivňují celou skřetí komunitu. Slouží jako vyjednávači a soudci v různých "
-"konfliktech. I když jsou fyzicky slabší než normální skřeti, tak jsou dobří "
-"mágové a mohou proklínat své nepřátele a krást jim jejich životy."
+"Skřetí šamani jsou strážci skřetí magie. Jsou ve svých klanech respektovaní. "
+"Scházejí se na skřetím koncilu, kde činí důležitá rozhodnutí, co ovlivňují "
+"celou skřetí komunitu. Slouží jako vyjednávači a soudci v různých "
+"konfliktech, které vznikají mezi hašteřivými skřetími klany. I když jsou "
+"fyzicky slabší než běžní skřeti, jsou to dobří mágové. Mohou na své "
+"nepřátele sesílat kletby a vysávat jim tak životy."
 
 #. [unit_type]: id=Sailor, race=human
 #: data/campaigns/Secrets_of_the_Ancients/units/Sailor.cfg:4
@@ -4238,12 +4240,12 @@ msgstr ""
 #. and some fly.
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:93
 msgid "All Corpses"
-msgstr ""
+msgstr "Mrtvoly všech typů"
 
 #. [unit_type]: id=SotA Walking Corpse_Dummy, race=undead
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:105
 msgid "Choose this “unit” to get a list of available corpses."
-msgstr ""
+msgstr "Výběrem této „jednotky” se ti rozbalí seznam dostupných mrtvol."
 
 #. [unit_type]: id=SotA Flying Corpse_Gryphon
 #. [unit_type]: id=SotA Flying Corpse_Bat
@@ -4354,12 +4356,12 @@ msgstr "Budeš mi chybět."
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:307
 msgid "Now I will never learn the sssecret of exssstending my ssspan."
-msgstr ""
+msgstr "Teď užž sse nikdy nedozzzvím tajemssství ssetrvání na sssvětě."
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:323
 msgid "I'm going to miss him."
-msgstr ""
+msgstr "Bude mi chybět."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:329
@@ -4374,12 +4376,12 @@ msgstr "Ano, byl užitečný."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:346
 msgid "Indeed, he will be missed."
-msgstr ""
+msgstr "Vskutku, bude mi chybět."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:368
 msgid "Don't worry, my pet. I can save you."
-msgstr ""
+msgstr "Neboj se, můj mazlíčku. Nenechám tě padnout."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:424
@@ -4395,17 +4397,18 @@ msgstr "Vždy jsem chtěl být mág jako Carcyn."
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:437
 msgid "Do not make me regret liberating you from jail. My decision is final."
 msgstr ""
-"Nedávej mi důvod litovat, že jsem tě dostal z vězení. Moje poslední slovo."
+"Nedávej mi důvod litovat toho, že jsem tě osvobodil z vězení. Moje poslední "
+"slovo platí."
 
 #. [option]
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:440
 msgid "I have reconsidered. Perhaps you will be very powerful one day."
-msgstr "Změnil jsem názor. Jednou budeš velice silný."
+msgstr "Změnil jsem názor. Možná budeš jednou velice silný."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:451
 msgid "Thanks!"
-msgstr "Děkuji!"
+msgstr "Díky!"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:466
@@ -4413,8 +4416,8 @@ msgid ""
 "Hey, I wanted to be a wizard like you and live forever when you figure it "
 "out! I know I could be super-powerful in the end."
 msgstr ""
-"Hej! Já chci čarovat a žít navěky stejně jako ty jakmile zjistíš, jak na to! "
-"Vím, že na konci budu mít nepopsatelnou sílu."
+"Hej! Já chci taky čarovat a žít navěky! Stejně jako ty, teda až zjistíš, jak "
+"na to. Vím, že nakonec budu mít nepopsatelnou sílu."
 
 #. [option]
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:472
@@ -4627,7 +4630,6 @@ msgstr "Poloprázdno"
 #. shown instead of the unit_type name in the recruitment dialog
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:24
 #, fuzzy
-#| msgid "Flying Corpse"
 msgid "recruit^Flying Corpse (Bat)"
 msgstr "Létající mrtvola"
 
@@ -4708,10 +4710,8 @@ msgstr "Plavající mrtvola"
 #. [value]: type=SotA Swimming Corpse
 #. this is used for both naga and merfolk zombies
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:64
-#, fuzzy
-#| msgid "You can now raise saurian corpses!"
 msgid "You can now raise swimming corpses!"
-msgstr "Nyní můžeš vyvolávat mrtvoly ještěráků!"
+msgstr "Nyní můžeš vyvolávat mrtvoly plavců!"
 
 #. [value]: type=SotA Walking Corpse_Saurian
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:69
@@ -4800,58 +4800,56 @@ msgstr ""
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:33
 msgid "Lvl 0"
-msgstr ""
+msgstr "Úroveň 0"
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:36
 msgid "Undead"
-msgstr ""
+msgstr "Nemrtví"
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:41
 msgid "Traits"
-msgstr ""
+msgstr "Vlastnosti"
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:44
 msgid "Attacks"
-msgstr ""
+msgstr "Útoky"
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:56
 msgid "Choose a Corpse"
-msgstr ""
+msgstr "Vyber tělo"
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:71
 msgid "Recruit"
-msgstr ""
+msgstr "Naverbovat"
 
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:72
 msgid "Cancel"
-msgstr ""
+msgstr "Zpět"
 
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:85
 msgid "HP: "
-msgstr ""
+msgstr "Životy:"
 
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:85
 msgid "MP: "
-msgstr ""
+msgstr "Kroky:"
 
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:85
 msgid "XP: "
-msgstr ""
+msgstr "Zkušenosti:"
 
 #. [lua]: postshow
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:150
 msgid "There are no corpses available."
-msgstr ""
+msgstr "Žádná těla nejsou k dispozici."
 
 #. [lua]: postshow
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:155
-#, fuzzy
-#| msgid "You don't have enough gold to raise that unit."
 msgid "You do not have enough gold to recruit that unit"
-msgstr "Nemáš dostatek zlatých k vyvolání této jednotky."
+msgstr "K naverbování této jednotky nemáš dostatek zlatých."
 
 #~ msgid ""
 #~ "22 III, 23 YW\n"
