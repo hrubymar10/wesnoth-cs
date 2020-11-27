@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:40-0300\n"
-"PO-Revision-Date: 2020-11-26 23:32+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-11-27 17:02+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -5830,7 +5831,7 @@ msgstr "divá"
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:287
 msgid "Receives only 50% defense in land-based villages"
-msgstr "V pozemních vesnicích získává obranu pouze 50%"
+msgstr "V pozemních vesnicích získává obranu pouze 50 %"
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:288
@@ -5894,8 +5895,8 @@ msgid ""
 "<italic>text='Slow'</italic> units have 1 less movement point but 5% more "
 "hitpoints."
 msgstr ""
-"<italic>text='Pomalé'</italic> jednotky mají o 1 pohybový bod méně, ale o 5% "
-"více životů, než je obvyklé."
+"<italic>text='Pomalé'</italic> jednotky mají o 1 pohybový bod méně, ale o 5 "
+"% více životů, než je obvyklé."
 
 #. [trait]: id=dim
 #: data/core/macros/traits.cfg:343
@@ -5926,7 +5927,7 @@ msgid ""
 "Units with trait <italic>text='dim'</italic> suffer a 20% increase in "
 "experience required to advance."
 msgstr ""
-"Jednotky s vlastností <italic>text='hloupý'</italic> vyžadují o 20% více "
+"Jednotky s vlastností <italic>text='hloupý'</italic> vyžadují o 20 % více "
 "zkušeností pro postup na další úroveň."
 
 #. [trait]: id=aged
@@ -6551,17 +6552,17 @@ msgstr ""
 #. [race]: id=dunefolk
 #: data/core/units.cfg:209
 msgid "race^Dunefolk Human"
-msgstr "Lidé Dunefolku"
+msgstr "Pouštní člověk"
 
 #. [race]: id=dunefolk
 #: data/core/units.cfg:210
 msgid "race+female^Dunefolk Human"
-msgstr "Dunefolské ženy"
+msgstr "Pouštní žena"
 
 #. [race]: id=dunefolk
 #: data/core/units.cfg:211
 msgid "race+plural^Dunefolk"
-msgstr "Pouštní lidé"
+msgstr "Pouštní lid"
 
 #. [race]: id=dunefolk
 #: data/core/units.cfg:213
@@ -6620,6 +6621,60 @@ msgid ""
 "The origins of this tradition likely lie in the heritage of the Dunefolk’s "
 "distant past in the exotic far corners of Irdya."
 msgstr ""
+"Pouštní lid, odnož zapomenuté nomádské civilizace, si nárokuje území říčních "
+"údolí a oáz písečných pustin. Není známo, za jakých okolností osídlili tento "
+"vzdálený kout Velkého kontinentu. Jejich legendy vyprávějí o mnoha dlouhých "
+"a nebezpečných cestách po vzdálených zemích, ale skutečný původ těchto lidí "
+"je tématem nekonečných a vášnivých debat i mezi jejich vlastními "
+"nejučenějšími učenci.\n"
+"\n"
+"Ať se vzali, kde se vzali, pouštním lidem se daří. V jejich největších a "
+"nejúrodnějších regionech hrdě stojí rušná města. Páteř městské ekonomiky "
+"tvoří zkušení řemeslníci, skvělí kováři a bohatí obchodníci. Každé z těchto "
+"měst se také těší míře nezávislosti, která je u centralizovanějších národů "
+"na severu méně obvyklá. Mnohá z nich si dokonce udržují své vlastní stálé "
+"armády. Přesto se v dobách nouze dokáží sjednotit pod vedením vyšší autority "
+"určené k ochraně nadřazeného zájmu národa.\n"
+"\n"
+"Ti, kteří se neusadili v těchto městských centrech, stále dodržují životní "
+"styl svých předků. Toulají se po dunách a vodí svá stáda od jednoho vodního "
+"zdroje k druhému. Nejaktivnější jsou během svítání a za soumraku, kdy nejsou "
+"pustiny ani příliš horké, ani příliš studené. Jejich dovednost pohybovat se "
+"po písku je vynikající, a to i dle měřítek pouštního lidu. Přestože na ně "
+"jejich městské protějšky někdy shlížejí s opovržením, poskytují neocenitelné "
+"služby jako mobilní, lehká vojska během válečného stavu nebo jako doprovod "
+"pro obchodní karavany v době míru.\n"
+"\n"
+"Díky sklonům pouštních lidí k obchodování a průzkumu naschromáždily jejich "
+"města obrovská bohatství, což je věc, která v ostatních rasách a národech "
+"vyvolává obdiv i závist. Vzájemné zájmy podpořily srdečné vztahy se "
+"sousedními kmeny nág. Ale tajnůstkářské rasy, jako jsou drakonidé či elfové, "
+"vždy považovali expedice pouštních lidí za příliš rušivé, zvláště, když se "
+"odehrávaly blízko územních hranic. Také není neobvyklé, že se karavany "
+"pouštních lidí stanou v horách kořistí trollích přepadů, což dalo vzniknout "
+"bezpočtu příběhů o nepředstavitelném pokladu hromaděném ve skrytých "
+"jeskyních.\n"
+"\n"
+"V důsledku toho, že pouštní lidé žili po staletí v nepřátelském prostředí, "
+"vyvinuli racionální metody zkoumání, pomocí nichž neustále zlepšují své "
+"chápání světa. Studium bylinné medicíny udržuje jejich válečníky a "
+"pracovníky čerstvé a zdravé. Znalosti alchymie jim umožňují zkrotit oheň a "
+"využívat ho jako smrtící zbraň v bitvě. Zároveň je toto analytické myšlení "
+"oddělilo od magického umění. Pro racionální mysl je magie nekontrolovatelná, "
+"nepředvídatelná, a proto nespolehlivá. Z tohoto důvodu se pouštním lidem "
+"obzvláště hnusí zvrácenosti nekromancie a temných umění, a to ještě více než "
+"jiným rasám.\n"
+"\n"
+"Zvídavá a objevitelská povaha pouštního lidu nevylučuje vojenskou sílu. "
+"Nejen, že je schopen do bitvy postavit hbité lehké jednotky, těžkou jízdu "
+"(katafrakty) i těžce obrněnou pěchotu, ale jeho pronikavé technologické "
+"znalosti mu poskytují rozhodující výhodu nad svými protivníky. Ale "
+"nejstrašnějším pohledem, co může vidět ten, kdo s pouštním lidem zápolí, je "
+"určitě pohled na jeho bojové nasazení divokých a bizarních zvířat, od "
+"majestátního ptáka Roha po impozantní wyvernu. Synergie pouštního lidu s "
+"těmito tvory mu umožňuje velkou všestrannost v boji. Počátky této tradice "
+"pravděpodobně spočívají v dědictví ze vzdálené minulosti pouštního lidu, "
+"která se odehrávala v exotických vzdálených koutech Irdye."
 
 #. [race]: id=lizard
 #: data/core/units.cfg:234
