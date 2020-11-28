@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-22 11:40+0100\n"
+"PO-Revision-Date: 2020-11-28 10:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -376,9 +376,9 @@ msgid ""
 "them look like tough old soldiers. It would be foolish to confront them with "
 "the forces we have on hand."
 msgstr ""
-"Uh, náčelníku, se vší úctou, tahle armáda je obrovská! A nejen to, ale "
-"většina z nich vypadá jako ostřílení vojáci. Bylo by bláznovství se s nimi "
-"utkat s jednotkami, které máme k dispozici."
+"Uh, náčelníku, se vší úctou, tahle armáda je obrovská! A nejen to, ale "
+"většina z nich vypadá jako ostřílení vojáci. Bylo by bláznovství postavit se "
+"jim s jednotkami, které máme k dispozici."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:228
@@ -391,8 +391,8 @@ msgid ""
 "If what you say is true, then there is no way our tribe can face such an "
 "army alone."
 msgstr ""
-"Jestli je to co říkáš pravda, pak není způsob jak by mohl náš kmen čelit "
-"takové armádě osamocen."
+"Jestli je to, co říkáš, pravda, pak není způsob, jak by mohl náš kmen sám "
+"čelit takové armádě."
 
 #. [message]: speaker=Vrag
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:236
@@ -415,9 +415,9 @@ msgid ""
 "assistance from the Great Council. With their help, we can raise troops from "
 "the free tribes and crush these humans."
 msgstr ""
-"Půjdeme do Barag Gór v zemích svobodných kmenů a budem požadovat spolupráci "
-"Velké rady. S jejich pomocí můžeme naverbovat jednotky ze svobodných kmenů a "
-"tyhle lidi rozdrtit."
+"Půjdeme do Barag Gór v zemích svobodných kmenů a budeme požadovat spolupráci "
+"Velké rady. S jejich pomocí můžeme naverbovat jednotky ze svobodných kmenů "
+"a tyhle lidi rozdrtit."
 
 #. [message]: role=second
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:251
@@ -425,8 +425,8 @@ msgid ""
 "But the free tribes are beyond the Mountains of Haag. These mountains are "
 "infested with dwarves and wild trolls."
 msgstr ""
-"Ale svobodné kmeny jsou až za Horami Haag. Ty hory jsou zamořené trpaslíky a "
-"divokými trolly."
+"Ale svobodné kmeny jsou až za pohořím Haag. Ty hory jsou zamořené trpaslíky "
+"a divokými trolly."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:256
@@ -737,7 +737,7 @@ msgid ""
 "Your scorn and rudeness shall be your undoing. Dwarves, let no orc pass this "
 "way alive!"
 msgstr ""
-"Vaše opovržení a hrubost bude vaším přečinem. Trpaslíci, nenechte žádného "
+"Vaše opovržení a hrubost bude vaší zhoubou. Trpaslíci, nenechte žádného "
 "skřeta projít touto cestou živého!"
 
 #. [message]: speaker=Kapou'e
