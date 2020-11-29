@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:52 UTC\n"
-"PO-Revision-Date: 2020-11-28 10:27+0100\n"
+"PO-Revision-Date: 2020-11-29 09:37+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -899,10 +899,10 @@ msgid ""
 "take it anyway. Let them know that they live only on my good graces. I’ll "
 "take the army to Barag Gór. Catch up when you’re done."
 msgstr ""
-"Varovali jsme tě, trpaslíku. Jezdci, rozptylte se po okolí a vyberte co jen "
-"půjde z každého z těchto domů. Jestli někdo odmítne zaplatit, svažte ho a "
-"zlato seberte stejně. Řekněte jim, že to jen má shovívavost, že jsou stále "
-"naživu. Já vezmu armádu do Barag Gór. Dožeňte nás, až budete hotoví."
+"Varovali jsme tě, trpaslíku. Jezdci, rozptylte se po okolí a vyberte, co jen "
+"půjde, z každého z těchto domů. Jestli někdo odmítne zaplatit, svažte ho "
+"a zlato seberte stejně. Řekněte jim, že je to jen má shovívavost, že jsou "
+"stále naživu. Já vezmu armádu do Barag Gór. Dožeňte nás, až budete hotoví."
 
 #. [message]: role=doggie
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:391
@@ -926,8 +926,8 @@ msgid ""
 "in our journey with your son? You are a powerful warrior, and you would be "
 "of great help."
 msgstr ""
-"Blemakere, mnohokrát díky za tvoji pomoc v tomto boji. Nepřidáš se k nám na "
-"naší pouti se svým synem? Jsi mocný válečník a velmi bychom ocenili tvoji "
+"Blemakere, mnohokrát díky za tvoji pomoc v tomto boji. Nepřidáš se k nám na "
+"naší pouti i se svým synem? Jsi mocný válečník a velmi bychom ocenili tvoji "
 "pomoc."
 
 #. [message]: speaker=Grüü
@@ -1002,7 +1002,7 @@ msgid ""
 "Except for the shamans, the Barag Gór defenders will not follow you into the "
 "next scenario"
 msgstr ""
-"Kromě šamanů, váš nebudou obránci Barag Gor následovat do dalšího scénáře"
+"Kromě šamanů tě nebudou obránci Barag Gór následovat do dalšího scénáře"
 
 #. [side]: type=Elvish Marshal, id=Etheliel
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:65
@@ -1089,7 +1089,7 @@ msgstr "Co bys čekal, náčelníku. Jsou to koneckonců elfové."
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:256
 msgid "Hmmm. $scout.name, go find out what they are up to."
-msgstr "Hmm, $scout.name|e, běž zjistit co tu pohledávají."
+msgstr "Hmm, $scout.name|e, běž zjistit, co tu pohledávají."
 
 #. [message]: role=Scout
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:261
@@ -1110,8 +1110,8 @@ msgid ""
 "Quit your boasting, mule-ears. The chief wants to know why you’re here, "
 "instead of cowering in your dung-spattered forests."
 msgstr ""
-"Přestaň se chvástat, ty ušatá hlavo. Náčelník chce vědět, proč jste tady "
-"místo aby jste se choulili ve vašich zaprděných lesích."
+"Přestaň se chvástat, ty ušatá hlavo. Náčelník chce vědět, proč jste tady, "
+"místo abyste se choulili ve vašich zaprděných lesích."
 
 #. [message]: speaker=Ammon
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:301
@@ -1119,13 +1119,13 @@ msgid ""
 "Watch your mouth around your betters, goblin! And you can tell your chief to "
 "hand the shamans over to us if he wants to be alive by sundown."
 msgstr ""
-"Dávej si pozor na ústa před lepšími, gobline! A svému náčelníkovi můžeš "
-"říct, aby nám vydal šamany jestli se chce dožít západu slunce."
+"Dávej si pozor na ústa před lepšími, gobline! A svému náčelníkovi můžeš "
+"říct, aby nám vydal šamany, jestli se chce dožít západu slunce."
 
 #. [message]: role=Scout
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:306
 msgid "What business do you high-and-mighty elves have with our shamans?"
-msgstr "Co chcete našim šamanům vy vysocí, mocní elfové?"
+msgstr "Co chcete našim šamanům, vy vysocí, mocní elfové?"
 
 #. [message]: speaker=Ammon
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:311
@@ -1139,7 +1139,7 @@ msgid ""
 "things; they are not for the likes of you. Why do you want them anyway?"
 msgstr ""
 "Ale ano. Šamani střeží naše pradávné znalosti i posvátné předměty. Nejsou "
-"pro takové jako jste vy. Proč je vůbec chcete?"
+"pro takové, jako jste vy. Proč je vůbec chcete?"
 
 #. [message]: speaker=Ammon
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:321
@@ -1149,7 +1149,7 @@ msgstr "No... lidé... se s nimi chtějí setkat."
 #. [message]: role=Scout
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:326
 msgid "Oh, so they paid you to come and get them, have they?"
-msgstr "Oh, takže oni ti zaplatili abys sem přišel a zajal je?"
+msgstr "Oh, takže oni ti zaplatili, abys sem přišel a zajal je?"
 
 #. [message]: speaker=Ammon
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:331
@@ -1213,7 +1213,7 @@ msgstr "Pokračuj, Grüü."
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:440
 msgid "We go and we kill all of them. What do you think?"
-msgstr "Půjdeme, a všechny je pobijeme. Co ty na to?"
+msgstr "Půjdeme a všechny je pobijeme. Co ty na to?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:445
