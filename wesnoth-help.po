@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:52-0300\n"
-"PO-Revision-Date: 2020-11-29 14:05+0100\n"
+"PO-Revision-Date: 2020-11-29 16:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4672,22 +4672,23 @@ msgid ""
 " This unit’s arcane attack deals tremendous damage to magical creatures, and "
 "even some to mundane creatures."
 msgstr ""
-" Nezemský útok této jednotky působí zničující zranění jak nemrtvým, tak také "
-"některým živým stvořením."
+" Nezemský útok této jednotky působí zničující zranění magickým stvořením "
+"a také dost velké poškození těm obyčejným."
 
 #: data/core/macros/special-notes.cfg:14
 msgid " This unit is capable of basic healing."
-msgstr " Tato jednotka je schopna základní léčby."
+msgstr " Tato jednotka dokáže poskytnout základní ošetření."
 
 #: data/core/macros/special-notes.cfg:17
 msgid " This unit is capable of rapid healing."
-msgstr " Tato jednotka je schopna rychlé léčby."
+msgstr " Tato jednotka dokáže poskytnout rychlé léčení."
 
 #: data/core/macros/special-notes.cfg:20
 msgid ""
 " This unit is capable of healing those around it, and curing them of poison."
 msgstr ""
-" Tato jednotka je schopna jednak léčit, ale také uzdravit jednotky z otravy."
+" Tato jednotka je schopna jednak léčit, ale také uzdravit okolní jednotky "
+"z otravy."
 
 #: data/core/macros/special-notes.cfg:23
 msgid ""
@@ -4700,7 +4701,7 @@ msgid ""
 " This unit regenerates, which allows it to heal as though always stationed "
 "in a village."
 msgstr ""
-" Schopnost regenerace znamená, že je tato jednotka léčena stejně jako kdyby "
+" Schopnost regenerace znamená, že je tato jednotka léčena stejně, jako kdyby "
 "byla neustále ve vesnici."
 
 #: data/core/macros/special-notes.cfg:29
@@ -4726,7 +4727,7 @@ msgid ""
 "control and thus move unhindered around them."
 msgstr ""
 " Průbojnost umožňuje těmto jednotkám ignorovat oblasti kontroly "
-"nepřátelských jednotek, což jim umožňuje se mezi nimi volně pohybovat."
+"nepřátelských jednotek, což jim dovoluje se mezi nimi volně pohybovat."
 
 # blbé, ale jak jinak to udělat?
 #: data/core/macros/special-notes.cfg:38
@@ -4746,8 +4747,8 @@ msgid ""
 " In woodlands, this unit’s ambush skill renders it invisible to enemies "
 "unless it is immediately adjacent or has revealed itself by attacking."
 msgstr ""
-" Dovedností těchto jednotek je schopnost stát se v lesích neviditelnou, "
-"dokud nezaútočí nebo se nepřítel nepostaví hned vedle."
+" Dovedností této jednotky je schopnost stát se v lesích neviditelnou, dokud "
+"nezaútočí nebo se nepřítel nepostaví hned vedle."
 
 #: data/core/macros/special-notes.cfg:47
 msgid " This unit is able to hide at night, leaving no trace of its presence."
@@ -4775,7 +4776,8 @@ msgid ""
 " This unit gains 1 hitpoint added to its maximum whenever it kills a living "
 "unit."
 msgstr ""
-" Vždy, když zabije nepřítele, zvyšuje tato jednotka maximum svých životů o 1."
+" Vždy, když zabije živého nepřítele, zvyšuje tato jednotka maximum svých "
+"životů o 1."
 
 #: data/core/macros/special-notes.cfg:59
 msgid ""
@@ -4793,7 +4795,7 @@ msgid ""
 msgstr ""
 " Pokud právě nějaký spojenec zaměstnává nepřátelskou jednotku, tato jednotka "
 "se může připlížit a napadnout ji nečekaně zezadu (z opačné strany), což "
-"způsobí dvojnásobná zranění napadené jednotky. Platí to však pouze pro útok."
+"napadené jednotce způsobí dvojnásobná zranění. Platí to však pouze pro útok."
 
 # pův.: "procitnou "
 #: data/core/macros/special-notes.cfg:65
@@ -4847,8 +4849,8 @@ msgid ""
 " Using a charging attack doubles both damage dealt and received; this does "
 "not affect defensive retaliation."
 msgstr ""
-" Útok výpadem zdvojnásobuje velikost poškození rozdaného, tak přijatého. To "
-"se nevztahuje na defenzivní protivýpady."
+" Útok výpadem zdvojnásobuje velikost poškození jak rozdaného, tak přijatého. "
+"To se nevztahuje na defenzivní protivýpady."
 
 #: data/core/macros/special-notes.cfg:86
 msgid ""
