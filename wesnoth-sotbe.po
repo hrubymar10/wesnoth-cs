@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-29 14:10+0100\n"
+"PO-Revision-Date: 2020-11-29 14:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2979,7 +2979,7 @@ msgstr "Splácení účtů."
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:33
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:34
 msgid "Death of Al’Brock"
-msgstr "Al'Brok zemře"
+msgstr "Al’Brok zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:37
@@ -2987,7 +2987,7 @@ msgstr "Al'Brok zemře"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:37
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:38
 msgid "Death of Flar’Tar"
-msgstr "Flar'Tar zemře"
+msgstr "Flar’Tar zemře"
 
 #. [side]: type=General, id=Arthain
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:78
@@ -3369,7 +3369,7 @@ msgid ""
 "take your trolls and circle around to the Northwest. If all goes well we "
 "shall surround them."
 msgstr ""
-"Moji muži znají dobře tuhle zemi. Flar'Tare a Al'Broku, vemte oba zvědy a "
+"Moji muži znají dobře tuhle zemi. Flar’Tare a Al’Broku, vemte oba zvědy a "
 "obejděte je ze severovýchodu a z jihovýchodu. Ty, Grüü, vezmi své trolly a "
 "jděte na severozápad. Když všechno půjde dobře, obklíčíme je."
 
@@ -3748,9 +3748,9 @@ msgid ""
 msgstr ""
 "Kapou’e si u svých jednotek vypěstoval respekt jako moudrý a schopný vůdce a "
 "jeho vojáci jej ujistili o své věrnosti. Potěšený Kapou’e jim vydal pokyny "
-"ke shromáždění dalších kmenů i silou, když to bude nutné. Al'Brok byl vyslán "
+"ke shromáždění dalších kmenů i silou, když to bude nutné. Al’Brok byl vyslán "
 "západně podél cesty, kudy téměř před rokem Kapou’e unikl lidským jednotkám. "
-"Flar'Tar odešel přímo na jih, kde měl shromáždit kmeny podél pohoří Haag a "
+"Flar’Tar odešel přímo na jih, kde měl shromáždit kmeny podél pohoří Haag a "
 "východně od Truchlivých kopců. Sám Kapou’e přímou čarou zamířil "
 "severozápadně k Bitoku. Všichni se měli sejít v Dorestu toho jara k odražení "
 "útoku lidí, který určitě přijde."
@@ -4079,7 +4079,7 @@ msgid ""
 "remaining shamans of the Great Council were also present to help in whatever "
 "way they could to preserve the unity of the Horde."
 msgstr ""
-"Zároveň s ním dorazili jeho generálové Al'Brok a Flar'Tar, kteří přivedli "
+"Zároveň s ním dorazili jeho generálové Al’Brok a Flar’Tar, kteří přivedli "
 "stovky krvežíznivých skřetů. Válečníci kmenů, které Kapou’e donutil k pokoře "
 "zastrašováním, tu byli také. Navíc také přišli pomoci zbývající šamané Velké "
 "rady, aby zachovali jednotu Hordy."
@@ -4710,7 +4710,7 @@ msgstr ""
 
 #: data/campaigns/Son_Of_The_Black_Eye/utils/utils.cfg:74
 msgid "Al’Brock"
-msgstr "Al'Brok"
+msgstr "Al’Brok"
 
 #: data/campaigns/Son_Of_The_Black_Eye/utils/utils.cfg:88
 msgid "Flar’Tar"
