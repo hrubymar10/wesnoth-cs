@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:40 UTC\n"
-"PO-Revision-Date: 2020-11-06 20:20+0100\n"
+"PO-Revision-Date: 2020-12-01 23:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -898,8 +898,8 @@ msgid ""
 "You must move someone here by the end of the next turn, or Westin will fall "
 "and you will be defeated!"
 msgstr ""
-"Musíš sem do konce příštího tahu někoho přesunout, jinak Westin padne a "
-"budeš poražen!"
+"Musíš sem do konce příštího kola někoho přesunout, jinak Westin padne "
+"a budeš poražen!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:442
@@ -3815,7 +3815,8 @@ msgid ""
 "Starting with turn 6, each additional turn you survive strengthens the "
 "defenses of Westin."
 msgstr ""
-"Počínaje 6. tahem, každý další tah, který přežiješ, posílí westinskou obranu."
+"Počínaje 6. kolem, každé další kolo, které přežiješ, posílí westinskou "
+"obranu."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:260
