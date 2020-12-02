@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-24 23:51+0100\n"
+"PO-Revision-Date: 2020-12-03 00:34+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1143,7 +1143,7 @@ msgstr "Získal jsi"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_tellunit.lua:48
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. [lua]: show_dialog
 #: data/campaigns/World_Conquest/lua/game_mechanics/pickup_confirmation_dialog.lua:26
@@ -1742,12 +1742,12 @@ msgstr "trénovaná"
 #. [lua]: training.describe_bonus
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:274
 msgid "Nothing to learn here"
-msgstr ""
+msgstr "Tady se nelze nic naučit"
 
 #. [lua]: training.describe_bonus
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:276
 msgid "From $level_before to $level_after"
-msgstr ""
+msgstr "Z $level_before|. na $level_after|. úroveň"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:5
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:61
@@ -1755,6 +1755,8 @@ msgid ""
 "You look like you could use some help. Mind if I join in? It’s been a while "
 "since I had a good fight!"
 msgstr ""
+"Vypadáte, že by se vám hodila nějaká pomoc. Nevadí, když se přidám? Už je to "
+"dlouho, co jsem si pořádně zabojoval!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:6
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:277
@@ -1764,11 +1766,12 @@ msgstr ""
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:344
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:353
 msgid "Excellent. We could always use more help."
-msgstr ""
+msgstr "Výborně. Nějaká pomoc se vždy hodí."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:9
 msgid "’bout time. Been forever since I had a good fight, eh?"
 msgstr ""
+"Jó je načase. Jak je to dávno, co jsem si naposled pořádně zabojoval, co?"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:14
 msgid "Who you? I help you smash!"
@@ -1786,7 +1789,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:29
 msgid "I hunts. I join you, I hunts good for you!"
-msgstr ""
+msgstr "Jsem lovec. Přidám se k tobě a budu ti dobrým lovcem!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:34
 msgid "Very well. But take care where your dog does its stuff."
@@ -2081,7 +2084,7 @@ msgstr "Výborně. Potrava pro děla se nám vždy hodí."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:328
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:331
 msgid "Odd, it doesn’t seem to attack. I wonder if we can use it?"
@@ -2298,6 +2301,7 @@ msgid ""
 "Why do we fight amongst ourselves? We should band together and take the "
 "coast with our combined forces!"
 msgstr ""
+"Proč bojujeme mezi sebou? Měli bychom se spojit a společně dosáhnou pobřeží!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:36
@@ -2305,6 +2309,8 @@ msgid ""
 "You speak truly; together we can overpower the rest. After that, who knows? "
 "Together we could go on to conquer other lands across the sea!"
 msgstr ""
+"Máš pravdu. Společně můžeme ostatní přemoci. A poté, kdo ví? Mohli bychom "
+"společně pokračovat v dobývání dalších zemí za mořem!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:40
@@ -2312,6 +2318,8 @@ msgid ""
 "Foolish upstarts. You will never defeat us! Come, my allies. Let us crush "
 "them!"
 msgstr ""
+"Hloupí nafoukanci. Nikdy nás nepřemůžete! Pojďte, moji spojenci. Pojďme je "
+"rozdrtit!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:41
@@ -2321,23 +2329,23 @@ msgstr "Ano! Zaženeme je do moře!"
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:42
 msgid "Never fear! Your trusted friends stand beside you!"
-msgstr ""
+msgstr "Odvahu! Vaši osvědčení přátelé vám stojí po boku!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:44
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:58
 msgid "Victory is ours! Let us set sail in search of new lands to conquer!"
-msgstr ""
+msgstr "Dosáhli jsme vítězství! Poplujme a najděme nové země, co lze dobýt!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:47
 msgid "Ahhh. Just look at these fertile lands, ripe for conquest!"
-msgstr ""
+msgstr "Aáách. Jak krásný pohled na tyto úrodné země, zralé k dobytí!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:48
 msgid "What’s this?! Foreign invaders have set foot upon our shores!"
-msgstr ""
+msgstr "Co se to děje?! Na naše břehy se vylodili cizí útočníci!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:49
@@ -2412,6 +2420,7 @@ msgstr ""
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:66
 msgid "You are not the only ones with allies! We’ll push on till the end!"
 msgstr ""
+"Nejsi jediný, kdo má spojence! Budeme pokračovat v nátlaku až do konce!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:68
@@ -2641,14 +2650,16 @@ msgstr ""
 "po další krvi. Pokaždé, když zabije nepřítele, získá skrz tajemné démonské "
 "síly natrvalo část jeho životů."
 
+# Použil jsem ten výraz stromous, aby překlad nebyl čtyřslovný.
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:67
 msgid "Root of the Elder Wose"
-msgstr ""
+msgstr "Kořen starého stromouse"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:70
 msgid ""
 " Dwarven forged, this blunt weapon mimics the crushing power of the Wose."
 msgstr ""
+"Tato tupá zbraň, vykovaná trpaslíky, napodobuje drtivou sílu stromového lidu."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:73
 msgid "Cruel spike"
@@ -2757,45 +2768,51 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:121
 msgid "Ring of power"
-msgstr ""
+msgstr "Prsten síly"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:124
 msgid ""
 "Wearing this ring enhances damage with arcane and elemental attacks, "
 "allowing using them with supernatural skill and presence."
 msgstr ""
+"Tento prsten u svého nositele zvyšuje poškození udílené ohněm, chladem a "
+"nezemskými útoky, čímž umožňuje je použít s nadpřirozenou mohutností."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:127
 msgid "Runic sword"
-msgstr ""
+msgstr "Runový meč"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:130
 msgid ""
 "This magic sword empowers the wielder’s melee attacks with the magical "
 "property."
 msgstr ""
+"U nositele tohoto magického meče jsou jeho útokům na blízko propůjčeny "
+"magické vlastnosti."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:133
 msgid "Staff of radiance"
-msgstr ""
+msgstr "Zářící hůl"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:136
 msgid "This sacred rod can unleash brilliant bursts of luminous energy."
-msgstr ""
+msgstr "Touto posvátnou holí lze sesílat oslnivé záblesky světelné energie."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:139
 msgid "Stormbringer"
-msgstr ""
+msgstr "Bouřlivák"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:142
 msgid ""
 "This tormented sword causes rage in any who wield it. Melee attacks will "
 "gain the fury ability pressing engagement for 3 rounds."
 msgstr ""
+"Tento zmučený meč vyvolává ve svém nositeli vztek. Jeho útoky na blízko "
+"získají vlastnost zuřivosti, která trvá po 3 kola útoků."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:145
 msgid "Sylph bow"
-msgstr ""
+msgstr "Luk sylfy"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:148
 msgid ""
@@ -2803,60 +2820,70 @@ msgid ""
 "power with each generation and speeds up the wielders movements so that more "
 "strikes can be landed before the engagement is over."
 msgstr ""
+"Toto elfí dědictví, runový luk, je předáván z královny na princeznu a s "
+"každou generací nabírá více síly. Zrychluje pohyby svého držitele tak, že "
+"dokáže během střetnutí vystřelit více výstřelů."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:151
 msgid "Terror disguise"
-msgstr ""
+msgstr "Maska děsu"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:154
 msgid ""
 "This cursed outfit spreads a trail of darkness, harming those who get too "
 "close."
 msgstr ""
+"Tato prokletá maska šíří stopu temnoty a zraňuje ty, co se dostanou příliš "
+"blízko."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:157
 msgid "The Key"
-msgstr ""
+msgstr "Klíč"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:160
 msgid "This magical object opens the gateway between dimensions."
-msgstr ""
+msgstr "Tento magický předmět otevírá bránu mezi dimenzemi."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:163
 msgid "Tome of secrets"
-msgstr ""
+msgstr "Tajuplný spis "
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:166
 msgid "This forgotten book imparts ancient knowledge to the reader."
-msgstr ""
+msgstr "Tato zapomenutá kniha přináší svému čtenáři starodávné znalosti."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:169
 msgid "Trident of storms"
-msgstr ""
+msgstr "Trojzubec bouře"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:172
 msgid ""
 "This legendary trident can summon lightning from the heavens, granting its "
 "wielder magical ranged fire attack."
 msgstr ""
+"Tento legendární trojzubec dokáže přivolat z nebes blesk a poskytuje svému "
+"držiteli magický ohnivý útok na dálku."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:175
 msgid "Trolls blood potion"
-msgstr ""
+msgstr "Lektvar trollí krve"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:178
 msgid "This foul-smelling potion allows the imbiber to regenerate health."
 msgstr ""
+"Tento páchnoucí lektvar poskytuje tomu, kdo ho požije, schopnost regenerace."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:181
 msgid "Ointment of venom"
-msgstr ""
+msgstr "Jedovaté mazání"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:184
 msgid ""
 "This deadly poison envenoms the user’s blade and pierce attacks, increasing "
 "damage and allowing them to inflict poison."
 msgstr ""
+"Tento smrtelný jed zvyšuje poškození, která udílí jeho uživatel útoky čepelí "
+"a bodnutím. Také činí tyto útoky otrávenými."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:187
 msgid "War banner"
@@ -2871,6 +2898,8 @@ msgid ""
 "This inspiring banner rallies the bearer’s allies to war, imparting a damage "
 "bonus to the allied units around it."
 msgstr ""
+"Tato inspirativní zástava povzbuzuje v boji spojence svého nositele. "
+"Sousedícím spojeneckým jednotkám přináší bonus k udílenému poškození."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:196
 msgid "Winged scepter"
