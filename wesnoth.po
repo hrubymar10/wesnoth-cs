@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:52-0300\n"
-"PO-Revision-Date: 2020-11-25 17:04+0100\n"
+"PO-Revision-Date: 2020-12-03 17:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1537,7 +1537,7 @@ msgid ""
 "100% of finishing gold carried over to the next scenario."
 msgstr ""
 "\n"
-"100% výsledného zlata je přeneseno do dalšího scénáře."
+"100 % výsledného zlata je přeneseno do dalšího scénáře."
 
 #: data/core/macros/deprecated-utils.cfg:116
 msgid ""
@@ -1545,7 +1545,7 @@ msgid ""
 "40% of finishing gold carried over to the next scenario."
 msgstr ""
 "\n"
-"40% výsledného zlata je přeneseno do dalšího scénáře."
+"40 % výsledného zlata je přeneseno do dalšího scénáře."
 
 #: data/core/macros/deprecated-utils.cfg:121
 msgid ""
@@ -1553,7 +1553,7 @@ msgid ""
 "20% of finishing gold carried over to the next scenario."
 msgstr ""
 "\n"
-"20% výsledného zlata je přeneseno do dalšího scénáře."
+"20 % výsledného zlata je přeneseno do dalšího scénáře."
 
 #. [message]: speaker=narrator
 #: data/core/macros/items.cfg:21
@@ -3659,8 +3659,8 @@ msgid ""
 msgstr ""
 "Zákonné jednotky bojují lépe ve dne a hůře v noci.\n"
 "\n"
-"Den: +25% poškození\n"
-"Noc: −25% poškození"
+"Den: +25 % poškození\n"
+"Noc: −25 % poškození"
 
 #. [language]
 #: data/english.cfg:12
@@ -3668,7 +3668,8 @@ msgid ""
 "Neutral units are unaffected by day and night, fighting equally well under "
 "both conditions."
 msgstr ""
-"Neutrální jednotky nejsou ovlivněny střídáním dne a noci. Bojují vždy stejně."
+"Neutrální jednotky nejsou ovlivněny střídáním dne a noci. V každou denní "
+"dobu bojují stejně."
 
 #. [language]
 #: data/english.cfg:13
@@ -3680,8 +3681,8 @@ msgid ""
 msgstr ""
 "Chaotické jednotky bojují lépe v noci a hůře ve dne.\n"
 "\n"
-"Den: −25% poškození\n"
-"Noc: +25% poškození"
+"Den: −25 % poškození\n"
+"Noc: +25 % poškození"
 
 #. [language]
 #: data/english.cfg:17
@@ -3693,8 +3694,8 @@ msgid ""
 msgstr ""
 "Šeré jednotky dosahují svých plných schopností pouze během šera.\n"
 "\n"
-"Den: −25% poškození\n"
-"Noc: −25% poškození"
+"Den: −25 % poškození\n"
+"Noc: −25 % poškození"
 
 #. [language]
 #: data/english.cfg:23
