@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-12-03 00:34+0100\n"
+"PO-Revision-Date: 2020-12-04 00:33+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2108,7 +2108,7 @@ msgstr ""
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:19
 msgid "<b>Gold</b>:\n"
-msgstr ""
+msgstr "<b>Zlatých</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:20
@@ -2248,11 +2248,17 @@ msgid ""
 "on a map in a bonus point; 3) By dropping from enemies in later scenarios. "
 "Note, however, that not all units can pick up all items."
 msgstr ""
+"<b>Předměty</b>\n"
+"Jednotkám mohou být dávany předměty, které je činí silnějšími. Artefakty "
+"můžeš získat třemi způsoby: 1) předmět si vybereš jako svůj počáteční bonus; "
+"2) předmět najdeš v bonusovém místě na mapě; 3) předmět vyzvedneš od padlých "
+"nepřátel (v pozdějších scénářích). Upozorňujeme však, že ne všechny jednotky "
+"mohou vyzvednout všechny předměty."
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:48
 msgid "Factions"
-msgstr ""
+msgstr "Frakce"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:49
@@ -2270,24 +2276,24 @@ msgstr ""
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:50
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
 
 #. [lua]: type_icon
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:176
 msgid " (not available for enemies)"
-msgstr ""
+msgstr " (předmět není dostupný pro nepřátele)"
 
 #. [lua]: type_icon
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:177
 msgid " (not available for players)"
-msgstr ""
+msgstr " (předmět není dostupný pro hráče)"
 
 #. [lua]: root_node.on_modified
 #. [lua]: GUI_FORCE_WIDGET_MINIMUM_SIZE
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:250
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help_dialog.lua:79
 msgid "WoCopedia"
-msgstr ""
+msgstr "WoCoDePedie"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:34
@@ -2356,7 +2362,7 @@ msgstr ""
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:51
 msgid "We win! Truly ours will be a glorious empire!"
-msgstr ""
+msgstr "Vyhráli jsme! Naše říše bude vskutku slavná!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:52
@@ -2903,14 +2909,18 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:196
 msgid "Winged scepter"
-msgstr ""
+msgstr "Okřídlené žezlo"
 
+# Druhá věta je sice v originále množná, ale reálně se bude jednat o jednotlivce.
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:199
 msgid ""
 "This wondrous rod imparts the user the ability to soar through the skies, "
 "making it a breeze to move through most terrain. Units that can already fly "
 "get improved defenses."
 msgstr ""
+"Toto úžasné žezlo dává svému uživateli schopnost vzlétnout po obloze, takže "
+"je pro něj hračkou se pohybovat po většině terénu. Jednotka, které již létat "
+"dovede, získá vylepšenou obranu."
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:202
 msgid "Winter’s bloom"
@@ -2934,7 +2944,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:4
 msgid "staff of radiance"
-msgstr ""
+msgstr "zářící hůl"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:7
 msgid "storm trident"
@@ -2997,7 +3007,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:43
 msgid "swim"
-msgstr ""
+msgstr "plavání"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:46
 msgid ""
