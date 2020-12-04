@@ -19,15 +19,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:40-0300\n"
-"PO-Revision-Date: 2020-12-03 00:22+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-12-04 17:06+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [multiplayer_side]: id=Custom
 #: data/_main.cfg:22
@@ -553,15 +552,15 @@ msgstr "útok"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:4
 msgid "World Conquest 1p"
-msgstr "Dobytí světa 1p"
+msgstr "Dobytí světa 1hr"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:7
 msgid "World Conquest 2p"
-msgstr "Dobytí světa 2p"
+msgstr "Dobytí světa 2hr"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:10
 msgid "World Conquest 3p"
-msgstr "Dobytí světa 3p"
+msgstr "Dobytí světa 3hr"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:13
 msgid ""
