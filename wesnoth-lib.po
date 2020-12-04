@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:52-0300\n"
-"PO-Revision-Date: 2020-12-04 15:19+0100\n"
+"PO-Revision-Date: 2020-12-04 15:36+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4075,10 +4075,11 @@ msgstr "Vlastní možnosti"
 msgid "Game Settings"
 msgstr "Nastavení hry"
 
+# málo místa - musí to být hodně krátké
 #. [slider]: id=num_players
 #: data/gui/window/mp_create_game.cfg:702
 msgid "Any"
-msgstr "Jakýkoliv"
+msgstr "vše"
 
 #. [label]
 #: data/gui/window/mp_create_game.cfg:835
