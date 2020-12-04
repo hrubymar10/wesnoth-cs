@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:40-0300\n"
-"PO-Revision-Date: 2020-11-08 19:15+0100\n"
+"PO-Revision-Date: 2020-12-04 14:49+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4650,7 +4650,7 @@ msgstr "Jsem připraven"
 #. [text]
 #: data/gui/window/outro.cfg:49
 msgid "Press ESC to skip"
-msgstr ""
+msgstr "Přeskočit stisknutím Esc"
 
 # Doslovný překlad „Klávesové zkratky“ nelze použít, protože se nevejde do vyhrazeného prostoru
 #. [widget]: id=label
