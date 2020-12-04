@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:52-0300\n"
-"PO-Revision-Date: 2020-11-08 20:17+0100\n"
+"PO-Revision-Date: 2020-12-04 15:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6294,11 +6294,11 @@ msgstr "Scénáře"
 # !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:103
 msgid "Multiplayer Campaigns"
-msgstr "Scénáře pro více hráčů"
+msgstr "Tažení pro více hráčů"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:104
 msgid "Singleplayer Campaigns"
-msgstr "Scénáře pro jednoho hráče"
+msgstr "Tažení pro jednoho hráče"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:105
 msgid "Custom Maps"
