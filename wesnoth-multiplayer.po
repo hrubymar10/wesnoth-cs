@@ -19,15 +19,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:40 UTC\n"
-"PO-Revision-Date: 2020-12-03 23:51+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-12-04 15:01+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
@@ -361,7 +360,7 @@ msgstr ""
 "realit a časů. Jak její vláda nad Tlamou roste, jednou snad Sulla dokáže "
 "překonat i to, co ji sem váže. Do té doby se bude bavit pořádáním bitev mezi "
 "tvory, kteří měli to neštěstí, že sem byli vtaženi.\n"
-"Navrhl Doc Patterson."
+"Navrhl Doc Paterson."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:22
@@ -518,7 +517,7 @@ msgstr ""
 "od elementála. Doteď kolují povídačky o mnohých mocných předmětech "
 "a artefaktech, ukrytých či ztracených někde mezi žulovými a obsidiánovými "
 "zdmi citadely ještě za dob Neohroženého.\n"
-"Navrhl Doc Patterson."
+"Navrhl Doc Paterson."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:22
@@ -588,7 +587,7 @@ msgstr "Zápaďané"
 #. [multiplayer]: id=multiplayer_Basilisk
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:37
 msgid "2p — Caves of the Basilisk"
-msgstr "2p – Baziliškova sluje"
+msgstr "2p – Baziliškovy sluje"
 
 #. [multiplayer]: id=multiplayer_Basilisk
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:39
@@ -1387,7 +1386,7 @@ msgid ""
 "subtly parceled battlefield. Designed by Doc Paterson."
 msgstr ""
 "Válčení proměnilo prosté farmy a vesnice tohoto jinak poklidného regionu v "
-"rozdělená válečná pole. Navrhl Doc Patterson."
+"rozdělená válečná pole. Navrhl Doc Paterson."
 
 #. [multiplayer]: id=multiplayer_Hellhole
 #: data/multiplayer/scenarios/2p_Hellhole.cfg:7
