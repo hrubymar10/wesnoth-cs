@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:52 UTC\n"
-"PO-Revision-Date: 2020-12-04 17:10+0100\n"
+"PO-Revision-Date: 2020-12-04 17:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1377,7 +1377,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Hamlets
 #: data/multiplayer/scenarios/2p_Hamlets.cfg:6
 msgid "2p — Hamlets"
-msgstr "2hr – Vesnice"
+msgstr "2hr – Osady"
 
 #. [multiplayer]: id=multiplayer_Hamlets
 #: data/multiplayer/scenarios/2p_Hamlets.cfg:7
@@ -2103,7 +2103,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_4p_Hamlets
 #: data/multiplayer/scenarios/4p_Hamlets.cfg:5
 msgid "4p — Hamlets"
-msgstr "4hr – Vesnice"
+msgstr "4hr – Osady"
 
 #. [multiplayer]: id=multiplayer_4p_Hamlets
 #: data/multiplayer/scenarios/4p_Hamlets.cfg:6
