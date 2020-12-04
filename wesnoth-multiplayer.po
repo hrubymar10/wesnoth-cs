@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:52 UTC\n"
-"PO-Revision-Date: 2020-12-04 15:11+0100\n"
+"PO-Revision-Date: 2020-12-04 15:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2083,7 +2083,7 @@ msgstr "Malá mapa pro hru 2 proti 2."
 #. [multiplayer]: id=multiplayer_Geothermal
 #: data/multiplayer/scenarios/4p_Geothermal.cfg:7
 msgid "4p — Geothermal"
-msgstr "2p – Geotermál"
+msgstr "4p – Geotermál"
 
 #. [multiplayer]: id=multiplayer_Geothermal
 #: data/multiplayer/scenarios/4p_Geothermal.cfg:9
