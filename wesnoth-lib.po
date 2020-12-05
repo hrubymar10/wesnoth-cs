@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:40-0300\n"
-"PO-Revision-Date: 2020-12-04 15:31+0100\n"
+"PO-Revision-Date: 2020-12-05 08:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5299,7 +5299,7 @@ msgstr "Statistiky"
 #. [column]
 #: data/gui/window/statistics_dialog.cfg:549
 msgid "Damage"
-msgstr "Poškození"
+msgstr "Zranění"
 
 #. [column]
 #: data/gui/window/statistics_dialog.cfg:550
@@ -5311,6 +5311,11 @@ msgid ""
 "The sum (or difference) of the two numbers in parentheses is the actual "
 "number of hitpoints inflicted/taken."
 msgstr ""
+"Rozdíl mezi očekávaným a skutečným výsledkem v procentech.\n"
+"První číslo v závorce je očekávaná velikost uštědřenéno nebo utrpěnéno "
+"zranění.\n"
+"Součet (nebo rozdíl) dvou čísel v závorce je zranění skutečně uštědřené nebo "
+"utrpěné."
 
 #. [column]
 #: data/gui/window/statistics_dialog.cfg:553
@@ -5320,7 +5325,7 @@ msgstr ""
 #. [column]
 #: data/gui/window/statistics_dialog.cfg:568
 msgid "Hits"
-msgstr ""
+msgstr "Zásahy"
 
 #. [column]
 #: data/gui/window/statistics_dialog.cfg:571
@@ -5336,6 +5341,16 @@ msgid ""
 "Green values indicate this side fared better than expected.\n"
 "Red values indicate this side fared worse than expected."
 msgstr ""
+"<i>Dosavadní</i> pravděpodobnost uštědření nebo utrpění nanejvýš tolika "
+"zásahů v procentech.\n"
+"\n"
+"Intuitivně se jedná o míru toho, jak tuto stranu ovlivnila náhodnost.\n"
+"Hodnoty mezi 0 a 50 ukazují, že počet zásahů byl menší než očekávaný.\n"
+"Hodnoty mezi 50 a 100 ukazují, že počet zásahů byl větší než očekávaný.\n"
+"\n"
+"Zelené hodnoty naznačují, že se této straně dařilo lépe, než bylo "
+"očekáváno.\n"
+"Červené hodnoty naznačují, že se této straně dařilo hůře, než bylo očekáváno."
 
 #. [button]: id=cancel
 #: data/gui/window/story_viewer.cfg:131
@@ -6826,11 +6841,11 @@ msgstr "Toto kolo"
 
 #: src/gui/dialogs/statistics_dialog.cpp:217
 msgid "Actual hit rates, by chance to hit:"
-msgstr ""
+msgstr "Skutečná míra zásahů podle šance na zásah:"
 
 #: src/gui/dialogs/statistics_dialog.cpp:219
 msgid "(no attacks have taken place yet)"
-msgstr ""
+msgstr "(ještě nedošlo k žádným útokům)"
 
 #: src/gui/dialogs/statistics_dialog.cpp:328
 msgid ""
@@ -6841,6 +6856,10 @@ msgid ""
 "The sum (or difference) of the two numbers in parentheses is the actual "
 "number of hits inflicted/taken."
 msgstr ""
+"Rozdíl mezi očekávaným a skutečným výsledkem v procentech.\n"
+"První číslo v závorce je očekávaný počet uštědřených nebo utrpěných zásahů.\n"
+"Součet (nebo rozdíl) dvou čísel v závorce je množství zásahů skutečně "
+"uštědřených nebo utrpěných."
 
 #: src/gui/dialogs/statistics_dialog.cpp:372
 msgid "Recruits"
@@ -6848,7 +6867,7 @@ msgstr "Naverbováno"
 
 #: src/gui/dialogs/statistics_dialog.cpp:373
 msgid "Recalls"
-msgstr "Přivoláno"
+msgstr "Povoláno"
 
 #: src/gui/dialogs/statistics_dialog.cpp:374
 msgid "Advancements"
@@ -6870,7 +6889,7 @@ msgstr "Uštědřeno"
 #: src/gui/dialogs/statistics_dialog.cpp:411
 #: src/gui/dialogs/statistics_dialog.cpp:418
 msgid "Taken"
-msgstr "Utrženo"
+msgstr "Utrpěno"
 
 #: src/gui/dialogs/statistics_dialog.cpp:459
 msgid "$count|× $name"
