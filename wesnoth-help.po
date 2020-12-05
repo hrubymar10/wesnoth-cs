@@ -19,15 +19,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:40-0300\n"
-"PO-Revision-Date: 2020-12-03 00:22+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-12-05 07:13+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -7314,17 +7313,15 @@ msgstr ""
 
 #: src/help/help_topic_generators.cpp:157
 msgid "Base Terrain: "
-msgstr "Základní terén:"
+msgstr "Základní terén: "
 
 #: src/help/help_topic_generators.cpp:177
-#, fuzzy
-#| msgid "Movement Cost"
 msgid "Movement properties: "
-msgstr "Bodů pohybu"
+msgstr "Vlastnosti pohybu: "
 
 #: src/help/help_topic_generators.cpp:181
 msgid "Defense properties: "
-msgstr ""
+msgstr "Vlastnosti obrany: "
 
 #: src/help/help_topic_generators.cpp:261
 msgid "Level"
