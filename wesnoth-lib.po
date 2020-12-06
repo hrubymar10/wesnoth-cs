@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:52-0300\n"
-"PO-Revision-Date: 2020-12-05 08:48+0100\n"
+"PO-Revision-Date: 2020-12-06 08:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6496,7 +6496,7 @@ msgstr "Uštědřeno"
 
 #: src/gui/dialogs/statistics_dialog.cpp:216
 msgid "Taken"
-msgstr "Utrpěno"
+msgstr "Utrženo"
 
 #: src/gui/dialogs/statistics_dialog.cpp:259
 msgid "$count|× $name"
