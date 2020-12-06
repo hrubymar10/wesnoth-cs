@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-05 20:44 UTC\n"
-"PO-Revision-Date: 2020-11-15 18:19+0100\n"
+"PO-Revision-Date: 2020-12-06 18:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -15972,10 +15972,8 @@ msgstr "žízeň"
 
 #. [unstore_unit]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:128
-#, fuzzy
-#| msgid "female^teaching"
 msgid "female^thirst"
-msgstr "učení"
+msgstr "žízeň"
 
 #. [unstore_unit]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:180
@@ -15986,10 +15984,8 @@ msgstr "osvěžený"
 #. [unstore_unit]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:181
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:275
-#, fuzzy
-#| msgid "refreshed"
 msgid "female^refreshed"
-msgstr "osvěžený"
+msgstr "osvěžená"
 
 #: data/campaigns/Under_the_Burning_Suns/utils/garak-abilities.cfg:57
 msgid "+%d XP"
