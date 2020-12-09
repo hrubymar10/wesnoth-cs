@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-05 20:43 UTC\n"
-"PO-Revision-Date: 2020-10-28 23:09+0100\n"
+"PO-Revision-Date: 2020-12-09 22:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -27,7 +27,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.3\n"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:22
@@ -2822,8 +2821,8 @@ msgid ""
 "Lord Kalenz or get a message to him."
 msgstr ""
 "Není mi to dáno, Delfadore. Musím se vrátit do Lintaniru, jak rychle to jen "
-"půjde. Severní elfové musí být okamžitě zpraveni o stavu věcí — a možná "
-"najdu nejvyššího lorda Kalenze nebo mu alespoň dám poslat zprávu."
+"půjde. Severní elfové musí být okamžitě zpraveni o stavu věcí – a možná "
+"najdu nejvyššího lorda Kalenze, nebo mu alespoň dám poslat zprávu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1285
