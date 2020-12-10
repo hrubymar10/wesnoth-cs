@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-11-29 14:32+0100\n"
+"PO-Revision-Date: 2020-12-10 23:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1255,13 +1255,13 @@ msgid ""
 "Thank you, Son of the Black-Eye. If you hadn’t arrived when you did, I don’t "
 "know what would have happened to us."
 msgstr ""
-"Děkuji ti, synu Černého oka. Kdyby jsi nepřijel v pravý čas, nevím co by se "
-"s námi stalo."
+"Děkuji ti, synu Černého oka. Kdybys nepřijel v pravý čas, nevím, co by se "
+"s námi stalo."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:515
 msgid "No problem! It was fun, wasn’t it, Grüü?"
-msgstr "Není zač! Byla ta zábava, nemám pravdu Grüü?"
+msgstr "Není zač! Byla to zábava, nemám pravdu, Grüü?"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:520
@@ -1273,7 +1273,7 @@ msgstr "Hahaha! Jo!"
 msgid ""
 "But, actually, we have come all the way from our lands to get your help."
 msgstr ""
-"Ale popravdě řečeno jsme ušli celou tu cestu z našich zemí, abychom dostali "
+"Ale popravdě řečeno, ušli jsme celou tu cestu z našich zemí, abychom získali "
 "pomoc my od vás."
 
 #. [message]: speaker=Vraurk
@@ -1287,8 +1287,8 @@ msgid ""
 "Those insolent humans have massed a huge army and attacked us. We defeated "
 "their vanguard but in the end we were forced to retreat."
 msgstr ""
-"Ti drzí lidé shromáždili obrovskou armádu a zaútočili na nás. Porazili jsme "
-"jejich předvoj, ale nakonec nás dohnali k ústupu."
+"Ti drzí lidé shromáždili obrovskou armádu a zaútočili na nás. Porazili jsme "
+"jejich předvoj, ale nakonec nás donutili k ústupu."
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:540
