@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-12-10 23:44+0100\n"
+"PO-Revision-Date: 2020-12-11 08:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1377,9 +1377,10 @@ msgid ""
 "deal with this massive human incursion. However, in order to do that the "
 "entire Great Council would have to gather."
 msgstr ""
-"Kapou’e a šamané odpočívali a diskutovali o problému po tři dny. Nakonec "
-"rozhodli, že je nezbytné svolat Velkou hordu k vyrovnání se s touto masivní "
-"lidskou invazí. Ale k vydání takového rozkazu se musí svolat celá Velká rada."
+"Kapou’e a šamané po tři dny odpočívali a probírali tu záležitost. Nakonec "
+"bylo rozhodnuto, že k tomu, aby se vypořádali s tak silnou lidskou invazí, "
+"bude asi nezbytné svolat Velkou hordu. Nicméně aby se tak stalo, měla by se "
+"shromáždit celá Velká rada."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:132
@@ -1389,9 +1390,9 @@ msgid ""
 "escort the shamans to the Harbor of Tirigaz where the rest of the council "
 "was residing."
 msgstr ""
-"Když bylo jasné, že lide udělají všechno co mohou, aby tomu zabránili tak, "
-"že zajmou či zabijí šamany, Kapou’e byl požádán, aby je doprovodil do "
-"přístavu Tirigaz, kde sídlil zbytek rady."
+"Protože teď bylo zřejmé, že lidé dělali všechno proto, aby tomu zabránili, "
+"ať už zajmutím nebo zabitím šamanů, byl Kapou’e požádán, aby je doprovodil "
+"do přístavu Tirigaz, kde sídlil zbytek rady."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:138
@@ -1399,15 +1400,14 @@ msgid ""
 "Leaving most of his people at Barag Gór, Kapou’e, accompanied by the shamans "
 "and his warriors, set off to Tirigaz."
 msgstr ""
-"Opouštěje většinu svého lidu v Barag Gór, Kapou’e doprovázený šamany a svými "
-"válečníky se vydal k Tirigazu."
+"Opouštěje většinu svého lidu v Barag Gór, vydal se Kapou’e v doprovodu "
+"šamanů a svých válečníků k Tirigazu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:186
 msgid ""
 "A couple of days into their journey, the party halted to rest for the night."
-msgstr ""
-"Po několika dnech cesty společnost zastavila k odpočinku na zbytek noci."
+msgstr "Po několika dnech cesty se společnost zastavila na noc k odpočinku."
 
 #. [message]: speaker=Vraurk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:192
@@ -1418,7 +1418,7 @@ msgstr ""
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:196
 msgid "It is too quiet. Just plain boring."
-msgstr "Je až příliš klidné. Myslím, že to nebyl dobrý plán."
+msgstr "Je až příliš klidné. Zkrátka naprosto nudné."
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:200
@@ -1430,7 +1430,9 @@ msgstr "Ticho! Něco jsem zaslechl."
 msgid ""
 "You’re right. I can see something is moving in these hills. Looks like there "
 "are undead there."
-msgstr "Taky to slyším. Bylo to ze strany od hor. Zdá se, že tam jsou nemrtví."
+msgstr ""
+"Máš pravdu. Vidím, že v těch kopcích se něco pohybuje. Zdá se, že jsou tam "
+"nemrtví."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:225
@@ -1454,9 +1456,9 @@ msgid ""
 "our supply lines and path of retreat. In these days of turmoil, we don’t "
 "know what lies ahead, so it is best not to leave any threats in our rear."
 msgstr ""
-"Grüü má pravdu. Není moudré nechat ty nemrtvé být, aby potom přerušili naši "
-"zásobovací linii a ústupovou cestu. V tyto časy nepokoje nevíme co leží před "
-"námi, takže je nejlepší nenechávat si žádnou hrozbu v zádech."
+"Grüü má pravdu. Není moudré nechat ty nemrtvé být, aby pak přerušili naši "
+"zásobovací linii a ústupovou cestu. V těchto časech nepokoje nevíme, co leží "
+"před námi, takže je nejlepší nenechávat si žádnou hrozbu v zádech."
 
 #. [message]: speaker=Vraurk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:245
@@ -1469,8 +1471,8 @@ msgid ""
 "Hush, Vraurk, we must trust the Son of the Black-Eye in these matters, for "
 "he is far more cunning in them than we are."
 msgstr ""
-"Ticho, Vraurku. Musíme důvěřovat synu Černého oka v těchto záležitostech, ve "
-"kterých je mnohem zběhlejší než jsme my."
+"Ticho, Vraurku. V těchto záležitostech musíme důvěřovat synu Černého oka, "
+"protože je v nich mnohem zběhlejší, než jsme my."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:255
