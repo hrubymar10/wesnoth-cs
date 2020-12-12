@@ -115,6 +115,123 @@ msgstr "palcát"
 #: data/core/units/merfolk/Diviner.cfg:49
 #: data/core/units/merfolk/Enchantress.cfg:24
 #: data/core/units/merfolk/Initiate.cfg:26
+#: data/core/units/merfolk/Priestess.cfg:45# translation of wesnoth-units.pot to Czech
+# Czech translations for Battle for Wesnoth package.
+# Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
+# Copyright (C) 2004 - 2020 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Czech Wesnoth translation team <hrubymar10@gmail.com>,
+#
+#
+# Yeti <yeti@physics.muni.cz> et al, 2004.
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2005 - 2007.
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
+# Jan Dědič <jan.dedic@gmail.com>, 2014.
+# Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Tereza Žejdlová, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-11-21 04:41 UTC\n"
+"PO-Revision-Date: 2020-12-12 23:21+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
+"Language-Team: Český <hrubymar10@gmail.com>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#. [attack]: type=impact
+#. [attack]: type=arcane
+#: data/campaigns/Dead_Water/units/Brawler.cfg:24
+#: data/campaigns/Dead_Water/units/Citizen.cfg:23
+#: data/campaigns/Under_the_Burning_Suns/units/monsters/Darawf.cfg:23
+#: data/campaigns/Under_the_Burning_Suns/units/monsters/Small_Mudcrawler.cfg:16
+#: data/campaigns/Under_the_Burning_Suns/units/quenoth/Divine_Avatar.cfg:30
+#: data/core/units/monsters/Giant_Mudcrawler.cfg:32
+#: data/core/units/monsters/Yeti.cfg:37
+#: data/core/units/trolls/Rocklobber.cfg:26
+#: data/core/units/trolls/Troll_Shaman.cfg:33
+#: data/core/units/trolls/Whelp.cfg:25
+#: data/core/units/undead/Skeleton_Archer.cfg:38
+msgid "fist"
+msgstr "pěst"
+
+#. [attack]: type=impact
+#: data/campaigns/Dead_Water/units/Brawler.cfg:32
+#: data/core/units/monsters/Fire_Dragon.cfg:43
+#: data/core/units/monsters/Icemonax_Greater.cfg:79
+msgid "tail"
+msgstr "ocas"
+
+#. [attack]: type=impact
+#: data/campaigns/Dead_Water/units/Kraken.cfg:37
+#: data/core/units/monsters/Cuttle_Fish.cfg:31
+#: data/core/units/monsters/Tentacle.cfg:34
+msgid "tentacle"
+msgstr "chapadlo"
+
+#. [attack]: type=pierce
+#: data/campaigns/Dead_Water/units/Kraken.cfg:48
+#: data/core/units/monsters/Cuttle_Fish.cfg:42
+msgid "ink"
+msgstr "inkoust"
+
+#. [attack]: type=impact
+#: data/campaigns/Dead_Water/units/Soldier_King.cfg:31
+#: data/campaigns/Dead_Water/units/Warrior_King.cfg:32
+#: data/campaigns/Dead_Water/units/Young_King.cfg:27
+#: data/campaigns/The_South_Guard/units/Horseman_Commander.cfg:43
+#: data/campaigns/The_South_Guard/units/Mounted_General.cfg:44
+#: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Guardian.cfg:27
+#: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Sentinel.cfg:28
+#: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Warden.cfg:27
+#: data/core/units/dunefolk/Alchemist.cfg:37
+#: data/core/units/dunefolk/Apothecary.cfg:38
+#: data/core/units/dunefolk/Cataphract.cfg:38
+#: data/core/units/dunefolk/Herbalist.cfg:39
+#: data/core/units/dunefolk/Horse_Archer.cfg:26
+#: data/core/units/dunefolk/Luminary.cfg:40
+#: data/core/units/dunefolk/Rider.cfg:26
+#: data/core/units/dunefolk/Sunderer.cfg:31
+#: data/core/units/dunefolk/Windbolt.cfg:31
+#: data/core/units/humans/Loyalist_Heavy_Infantryman.cfg:23
+msgid "mace"
+msgstr "palcát"
+
+#. [attack]: type=impact
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:24
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:21
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:26
+#: data/campaigns/Descent_Into_Darkness/units/Frontier_Baroness.cfg:65
+#: data/campaigns/Secrets_of_the_Ancients/units/Orcish_Shaman.cfg:28
+#: data/campaigns/Son_Of_The_Black_Eye/units/Novice_Orcish_Shaman.cfg:27
+#: data/campaigns/Son_Of_The_Black_Eye/units/Old_Orcish_Shaman.cfg:27
+#: data/campaigns/Son_Of_The_Black_Eye/units/Orcish_Shaman.cfg:27
+#: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Lady.cfg:66
+#: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Leader.cfg:67
+#: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Outcast.cfg:66
+#: data/campaigns/Under_the_Burning_Suns/units/quenoth/Druid.cfg:30
+#: data/campaigns/Under_the_Burning_Suns/units/quenoth/Mystic.cfg:29
+#: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shaman.cfg:30
+#: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shyde.cfg:33
+#: data/core/units/elves/Druid.cfg:29 data/core/units/elves/Enchantress.cfg:29
+#: data/core/units/elves/Shaman.cfg:35 data/core/units/elves/Sorceress.cfg:29
+#: data/core/units/humans/Mage.cfg:29 data/core/units/humans/Mage_Arch.cfg:39
+#: data/core/units/humans/Mage_Elder.cfg:27
+#: data/core/units/humans/Mage_Great.cfg:33
+#: data/core/units/humans/Mage_Red.cfg:32
+#: data/core/units/humans/Mage_Silver.cfg:40
+#: data/core/units/humans/Mage_White.cfg:50
+#: data/core/units/merfolk/Diviner.cfg:49
+#: data/core/units/merfolk/Enchantress.cfg:24
+#: data/core/units/merfolk/Initiate.cfg:26
 #: data/core/units/merfolk/Priestess.cfg:45
 #: data/core/units/saurians/Augur.cfg:26 data/core/units/saurians/Oracle.cfg:38
 #: data/core/units/saurians/Soothsayer.cfg:27
@@ -3104,6 +3221,7 @@ msgstr ""
 msgid "female^Elvish Lady"
 msgstr "Elfí dáma"
 
+# Panské protějšky nejsou úplně dobré, ale pánské, mužské nebo lordí jsou ještě horší.
 #. [unit_type]: id=Elvish Lady, race=elf
 #: data/core/units/elves/Lady.cfg:20
 msgid ""
@@ -3119,6 +3237,16 @@ msgid ""
 "peacekeepers, holding high authority during times of amity and taking a "
 "lesser role in times of war."
 msgstr ""
+"Urozené dámy elfích enkláv jsou obvykle silně propojeny s pozemským aspektem "
+"elfí magie a je jim přisuzována moudrost a ochrana. Je jim svěřeno udržování "
+"mnoha ctěných elfích tradic a hrají velkou roli při zabezpečování pokoje a "
+"přirozené zázračnosti svých proslulých lesních útočišť. Na rozdíl od svých "
+"panských protějšků, z nichž mnozí získávají díky používání nezemské magie "
+"značný individuální vhled a uvědomění, šíří většina dam svou moc v rámci "
+"společenských řádů, které řídí, často za určitou cenu svých osobních "
+"schopností. Z tohoto důvodu slouží nejčastěji jako diplomatky a strážkyně "
+"míru. Proto je jejich autorita v dobách přátelství mnohem vyšší než v dobách "
+"války."
 
 #. [unit_type]: id=Elvish Lord, race=elf
 #: data/core/units/elves/Lord.cfg:4
@@ -3197,12 +3325,23 @@ msgid ""
 "task for any invasion force, precisely because of the skillful maneuvering "
 "of the marshals who are entrusted with the protection of their people."
 msgstr ""
+"Elfové nepatří mezi časté podněcovatele otevřené války. Ale když přijde čas "
+"bojovat, nevyhýbají se jí. Za tímto účelem stále udržují malý počet "
+"strategicky smýšlejících maršálů. Tito velitelé, vybraní z "
+"nejtalentovanějších hlídkových kapitánů, procházejí rozsáhlým výcvikem v "
+"různých vojenských stylech, včetně těch lidských a skřetích. Jsou to "
+"neortodoxní, ale skvělí stratégové, kteří vynikají v rozbíjení velkých "
+"bitevních front na menší potyčky, přetvářejíce tak běžné kampaně na "
+"rozptýlenou partyzánskou válku. Angažovanost elfů v jejich domovině "
+"představuje pro každou invazní sílu skličující úkol, což je přesně kvůli "
+"obratnému manévrování maršálů, kterým je svěřena ochrana jejich lidu."
 
 #. [unit_type]: id=Elvish Outrider, race=elf
 #: data/core/units/elves/Outrider.cfg:4
 msgid "Elvish Outrider"
 msgstr "Elfí eskorta"
 
+# Tak toto opravdu přeložit doslovně neumím. Nebo umím, ale krása tím utrpí.
 #. [unit_type]: id=Elvish Outrider, race=elf
 #: data/core/units/elves/Outrider.cfg:19
 msgid ""
@@ -3236,6 +3375,33 @@ msgid ""
 "The truth of this tale, one can only surmise, but doubtless, Outriders the "
 "fastest do comprise."
 msgstr ""
+"Byl kdysi jeden elf, co jméno Beirand měl, který na velkou cestu do dálav "
+"vyjel.\n"
+"Bez spočinutí on tři a deset dní jel, než do přístřešku jezerní nymfy "
+"vešel.\n"
+"\"Podívej, Naryo!\" radostný výkřik zněl, „Také zde vidíš tu nádhernou "
+"jabloněl?“\n"
+"Hned v odpověd jí dychtivou po boku měl, cvalem, však rozvážným co nesetřel "
+"by pel.\n"
+"Nedala mu čas, aby se rozseděl, než vzdušný její hlas se vůkol rozezněl:\n"
+"Mé je ovoce v háji, tak co bych elfe chtěl, snad by sis ty či kůň tvůj na ně "
+"nemyslel?\n"
+"Na to jí prosil on: „Odpočinek uděl. Naši sešlost cestou by i slepý viděl!“\n"
+"\"K únavě své sis svým činěním přišel. Závodit však musíš, bys mou milost "
+"našel.\"\n"
+"A vskutku se k tomu ten elfí jezdec měl, že ten závod od stromu ke stromu on "
+"jel.\n"
+"Ač kvílící vichr mu kolem uší zněl, ocasu jeho koně se přece neudržel.\n"
+"Jako v záblescích lehce on na koni jel, jako by cvalem svým ovládnout vítr "
+"chtěl.\n"
+"Jel tak, že i čas tikati zapomněl, až nakonec se v cíli na místě prvním "
+"skvěl.\n"
+"V hlase jejím pak tón ocenění zněl a svou milost dala i těm, co za bratry "
+"měl.\n"
+"A když pak Beirand od Naryi odešel, stále si nesl milost, co u ní našel.\n"
+"\n"
+"O pravdivosti tohoto příběhu se lze už jen dohadovat, ale jeho poselství "
+"nejrychlejší jezdci elfích eskort bezpochyby stále naplňují."
 
 #. [unit_type]: id=Elvish Ranger, race=elf
 #: data/core/units/elves/Ranger.cfg:3
@@ -6693,14 +6859,6 @@ msgstr "Skřetí pěšák"
 
 #. [unit_type]: id=Orcish Grunt, race=orc
 #: data/core/units/orcs/Grunt.cfg:17
-#, fuzzy
-#| msgid ""
-#| "Orcish Grunts are the mainstay of the orcish forces, made up of the "
-#| "biggest and strongest orcs the clan can muster, given the most basic of "
-#| "equipment and thrown into the field. Even these basic recruits can be "
-#| "dangerous, as the larger orcs are naturally strong and can survive many "
-#| "injuries before falling. What makes an orcish horde most threatening, "
-#| "however, is the sheer numbers in which these fighters can be fielded."
 msgid ""
 "True orcs are well known for their raw strength and ferocity, as well as "
 "their propensity toward aggressive combat. These traits mean that even the "
@@ -6710,12 +6868,13 @@ msgid ""
 "overcome. What makes an orcish horde most threatening, however, is the sheer "
 "numbers in which these fighters can be fielded."
 msgstr ""
-"Stěžejní částí skřetích vojenských sil jsou pěšáci, tvořeni těmi největšími "
-"a nejsilnějšími skřety, které klan dokáže shromáždit. Je jim dána ta "
-"nejzákladnější výstroj a jsou uvedeni na bitevní pole. I tihle základní "
-"branci mohou být nebezpeční, protože větší skřeti jsou od přírody silní "
-"a dokážou přestát mnoho zranění než padnou. Avšak to nejhrozivější na skřetí "
-"hordě jsou pouhé počty těchto bojovníků, kteří mohou být postaveni do boje."
+"Čistokrevní skřeti jsou pověstní svou surovou silou a divokostí, stejně jako "
+"svým sklonem k agresivnímu boji. Tyto vlastnosti znamenají, že i ti nejméně "
+"zkušení a nejhůře vybavení skřetí pěšáci mohou na bojišti představovat "
+"náročné soupeře. I osamocený skřet je schopen uštědřit brutálně těžké rány a "
+"přestát velké množství zásahů, než je přemožen. Avšak to nejhrozivější na "
+"skřetí hordě jsou vlastní počty těchto bojovníků, co mohou být postaveni do "
+"boje."
 
 #. [unit_type]: id=Orcish Leader, race=orc
 #: data/core/units/orcs/Leader.cfg:4
@@ -6810,6 +6969,15 @@ msgid ""
 "precisely what gives rise to these ruthless soldiers, rightly dubbed "
 "‘Slayers’ by their enemies."
 msgstr ""
+"Zruční skřetí zabijáci jsou překvapivě mrštní a skrytí vojáci. Dosáhli velké "
+"hbitosti tím, že se vzdali těžkého brnění svých bratří. Zbraň jejich výběru, "
+"jed, je často kritizována jako nemravný nástroj, který se nehodí pro "
+"zavedené zvyky typického umění boje. Většina skřetů však žádná taková bojová "
+"pravidla neuznává a snaží se dosáhnout vítězství jakýmikoli nezbytnými "
+"prostředky. Neboť porážka pro ně představuje, bez ohledu na svou příčinu, "
+"největší možné zneuctění. Brutální podstata totální války, v které se skřeti "
+"angažují, je přesně to, co dává vzniknout takovýmto bezohledným vojákům, "
+"jimž jejich nepřátelé právem říkají „mordýři“."
 
 #. [unit_type]: id=Orcish Slurbow, race=orc
 #: data/core/units/orcs/Slurbow.cfg:4
