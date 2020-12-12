@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-12-11 08:58+0100\n"
+"PO-Revision-Date: 2020-12-12 23:21+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1502,7 +1502,7 @@ msgstr "Ách, to bylo dobré."
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:296
 msgid "The day is coming, these night creatures will soon return to the pit."
-msgstr "Máme vyhráno. Přichází den, a ty noční potvory zalezou do svých děr."
+msgstr "Máme vyhráno. Přichází den a ty noční potvory zalezou do svých děr."
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:300
@@ -1550,7 +1550,7 @@ msgid ""
 "Looks like humans have attacked here too. You were right, Kapou’e, the "
 "humans have declared all-out war on us."
 msgstr ""
-"Vypadá to, že i tady zaútočili lidé. Měl jsi pravdu Kapou’e, lidé nám "
+"Vypadá to, že i tady zaútočili lidé. Měl jsi pravdu, Kapou’e, lidé nám "
 "vyhlásili válku."
 
 #. [message]: speaker=Kapou'e
