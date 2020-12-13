@@ -129,7 +129,7 @@ msgstr ""
 "nebo zcela neosvěží vodou v oáze, bude každé kolo ztrácet 4 životy a "
 "poškození způsobená jejími útoky se sníží o 1.\n"
 "\n"
-"Jednotka nemůže na dehydrataci zemřít a její poškození nemůže klesnout na 0."
+"Jednotka nemůže na dehydrataci zemřít a poškození, které uděluje, nemůže klesnout na 0."
 
 #. [lua]: wesnoth.interface.game_display.unit_status
 #: data/campaigns/Under_the_Burning_Suns/lua/theme.lua:20
@@ -15828,7 +15828,7 @@ msgstr "Quenothský elf"
 #. [race]: id=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/units.cfg:6
 msgid "race+female^Quenoth Elf"
-msgstr "Quenothský elfka"
+msgstr "Quenothská elfka"
 
 #. [race]: id=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/units.cfg:7
