@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-05 20:44 UTC\n"
-"PO-Revision-Date: 2020-12-12 23:25+0100\n"
+"PO-Revision-Date: 2020-12-13 10:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1591,7 +1591,7 @@ msgstr ""
 #. [message]: speaker=Affman
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:208
 msgid "Look, a party of our kind approaches from the North."
-msgstr "Vypadá to, že společnost našeho druhu se blíží ze severu."
+msgstr "Vypadá to, že se ze severu blíží družina našich."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:213
@@ -1606,7 +1606,7 @@ msgstr "Syn Karuna Černého oka? Prokazujete nám poctu, náčelníku."
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:223
 msgid "Do not grovel like humans, just tell me what’s going on here."
-msgstr "Neplaz se jako ti lidé, jen mi řekni co se tu děje."
+msgstr "Neplaz se jako ti lidé, jen mi řekni, co se tu děje."
 
 #. [message]: speaker=Affman
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:228
@@ -1616,10 +1616,10 @@ msgid ""
 "hold them off, but they captured the northern keep. And then human "
 "reinforcements arrived from their settlements to the South."
 msgstr ""
-"Vážně nevím. Jeden den byl všude klid a mír a ten další připlula flotila "
-"lidských lodí a začala chrlit jednotky. Zkoušeli jsme je odrážet jak jen to "
-"šlo, ale obsadili severní pevnost. A potom přijely další lidské posily z "
-"jejich osad na jihu."
+"Vážně nevím. Jeden den byl všude klid a mír a ten další připlula flotila "
+"lidských lodí a začala chrlit jednotky. Zkoušeli jsme je odrážet, jak jen to "
+"šlo, ale obsadili severní pevnost. A potom přijely další lidské posily "
+"z jejich osad na jihu."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:233
@@ -1634,8 +1634,8 @@ msgid ""
 "children. The rest of us remained here to buy them some time."
 msgstr ""
 "Když jsme si uvědomili, že není způsob jak lidi zadržet, poslali jsme je "
-"východně na místo poblíž Truchlivých kopců s našimi ženami a dětmi. My jsme "
-"tu zůstali a pokoušíme se jim získat nějaký čas."
+"s našimi ženami a dětmi východně, na místo poblíž Truchlivých kopců. My jsme "
+"tu zůstali a pokoušíme se jim získat nějaký čas."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:243
@@ -1647,9 +1647,9 @@ msgid ""
 "land."
 msgstr ""
 "Moudré rozhodnutí. Přišli jsme sice, abychom hovořili se šamany, ale když už "
-"jsme tu, musíme vám pomoci z této kaše. Grüü, zdrž je a já zatím poběžím do "
-"pevnosti a zorganizuji s našimi jednotkami protiúder. Nemůžeme je sice "
-"porazit na moři bez lodí, ale můžeme zničit zázemí, které si vydobyli na "
+"jsme tu, musíme vám pomoci z této kaše. Grüü, zdrž je a já zatím poběžím do "
+"pevnosti a zorganizuji s našimi jednotkami protiúder. Bez lodí je sice "
+"nemůžeme porazit na moři, ale dokážeme zničit zázemí, které si vydobyli na "
 "pevnině."
 
 #. [message]: speaker=Grüü
