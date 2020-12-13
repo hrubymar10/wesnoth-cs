@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-05 20:44 UTC\n"
-"PO-Revision-Date: 2020-11-28 08:53+0100\n"
+"PO-Revision-Date: 2020-12-13 09:52+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1930,7 +1930,7 @@ msgstr "Můžeme pomoci?"
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:370
 msgid "plural^As you wish. (<i>Cough, cough</i>)"
-msgstr "Jak si přeješ. (<i>kašel, kašel</i>)"
+msgstr "Jak si přejete. (<i>Kašle a kašle.</i>)"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:380
@@ -1950,7 +1950,7 @@ msgstr "Mohu pomoci?"
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:389
 msgid "As you wish. (<i>Cough, cough</i>)"
-msgstr "Jak si přeješ. (<i>kašel, kašel</i>)"
+msgstr "Jak si přeješ. (<i>Kašle a kašle.</i>)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:397
@@ -2055,7 +2055,7 @@ msgstr "Nyní můžeš verbovat kostipštrosy!"
 #. [set_variable]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:391
 msgid "Hopefully this will be enough gold."
-msgstr "Doufejme, že to bude dostatek zlata."
+msgstr "Doufejme, že nám vystačí zlato."
 
 #. [set_variable]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:402
@@ -2083,8 +2083,8 @@ msgid ""
 "Your words mock us. Those humans were valuable trading partners of ours. We "
 "will have justice!"
 msgstr ""
-"Vaše slova se nám vysmívají. Tito lidé byli našimi cennými obchodními "
-"partnery. Budeme žádat spravedlnost!"
+"Vysmíváš se nám. Ti lidé byli našimi cennými obchodními partnery. Budeme "
+"žádat spravedlnost!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:480
@@ -2103,9 +2103,9 @@ msgid ""
 "around for emergencies — I think 50 is about right. You help me collect "
 "some. (<i>Cough, cough</i>)"
 msgstr ""
-"Toto nás bude stát, ale chci si nechat nějaké zlato pro případ nouze — "
-"Myslím tak okolo 50 zlatých. Děti, pomozte mi nějaký sehnat. (<i>Kašel, "
-"kašel</i>)"
+"Toto nás bude něco stát. Ale chci si nechat nějaké zlato pro případ nouze – "
+"myslím, že by bylo dobrých tak 50 zlatých. Pomůžete mi nějaké sehnat. "
+"(<i>Kašle a kašle.</i>)"
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:493
@@ -2148,7 +2148,7 @@ msgstr "Jak?"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:518
 msgid ""
 "addressed_plural^Have you never been fishing before? With bait of course."
-msgstr "Ty jsi nikdy předtím nerybařil? Návnadou samozřejmě."
+msgstr "Jste předtím nikdy nerybařili? Návnadou samozřejmě."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:528
@@ -2157,8 +2157,9 @@ msgid ""
 "emergencies — I think 50 is about right. Help me collect some. (<i>Cough, "
 "cough</i>)"
 msgstr ""
-"Toto nás bude stát, ale chci si nechat nějaké zlato pro případ nouze — "
-"Myslím tak okolo 50 zlatých. Pomoz mi nějaký sehnat. (<i>Kašel, kašel</i>)"
+"Toto nás bude něco stát. Ale chci si nechat nějaké zlato pro případ nouze – "
+"myslím, že by bylo dobrých tak 50 zlatých. Pomůžeš mi nějaké sehnat. "
+"(<i>Kašle a kašle.</i>)"
 
 #. [message]: id=Carcyn,Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:532
@@ -2173,7 +2174,7 @@ msgstr "Nemám chuť brodit se ve vodě kvůli boji s těmito věcmi."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:553
 msgid "Have you never been fishing before? With bait of course."
-msgstr "Ty jsi nikdy předtím nerybařil? Návnadou samozřejmě."
+msgstr "Jsi předtím nikdy nerybařil? Návnadou samozřejmě."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:563
@@ -2183,10 +2184,10 @@ msgid ""
 "some. (<i>Cough, cough</i>) I hope I can lure these fish onto land. Maybe I "
 "should recruit some bait."
 msgstr ""
-"Toto mě bude stát, ale chci si nechat nějaké zlato pro případ nouze — Myslím "
-"tak okolo 50 zlatých. Měl bych raději poslat někoho, aby nějaký sehnal. "
-"(<i>Kašel, kašel</i>) Doufám, že dokážu tyto ryby vylákat na pevninu. Asi "
-"bych si mohl naverbovat nějakou návnadu."
+"Toto mě bude něco stát. Ale chci si nechat nějaké zlato pro případ nouze – "
+"myslím, že by bylo dobrých tak 50 zlatých. Měl bych raději poslat někoho, "
+"aby nějaké sehnal. (<i>Kašle a kašle.</i>) Doufám, že dokážu ty rybáky "
+"vylákat na pevninu. Asi bych měl naverbovat nějakou návnadu."
 
 #. [scenario]: id=11_Battleground
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:10
@@ -2587,7 +2588,7 @@ msgid ""
 "Greetings Ardonna! (<i>Cough</i>) I was successful, and I see that you were "
 "as well."
 msgstr ""
-"Zdravím tě, Ardonno! (<i>Kašel</i>) Byl jsem úspěšný a vidím, že ty též."
+"Zdravím tě, Ardonno! (<i>Kašle.</i>) Byl jsem úspěšný a vidím, že ty též."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:117
@@ -2772,6 +2773,9 @@ msgid ""
 "I have a sssense of dark foreboding regarding the sssnowy peaksss ahead. We "
 "may meet our doom if we don't have enough coinsss."
 msgstr ""
+"Ty ssněžžné vrššky před námi ve mně vzzbuzzují temné tušššení. Můžžeme tu "
+"potkat naššši zzkázzu, kdyžž nebudeme dissponovat dosstatečným množžssstvím "
+"zzlatek."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/14_Entering_the_Northlands.cfg:179
@@ -2779,6 +2783,8 @@ msgid ""
 "The passes to the north are the end of many travelers. We would be wise to "
 "reach them with a reserve of gold. (<i>Cough, cough</i>)"
 msgstr ""
+"Pro mnoho pocestných se staly průsmyky na severu konečnou stanicí života. "
+"Bylo by moudré se k nim dostat s rezervou zlata. (<i>Kašle a kašle.</i>)"
 
 #. [message]: speaker=Krongk
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/14_Entering_the_Northlands.cfg:192
@@ -2833,7 +2839,7 @@ msgid ""
 "Many orcs are decent sorts (<i>cough, cough</i>). I fought alongside Krag-"
 "Ubor once, who the farther orc just mentioned."
 msgstr ""
-"Mnozí skřeti jsou čestní. (<i>kašel, kašel</i>). Bojoval jsem jednou po boku "
+"Mnozí skřeti jsou slušní (<i>kašle a kašle</i>). Bojoval jsem jednou po boku "
 "Krag-Ubora, kterého jeden ze skřetů zrovna zmínil."
 
 #. [message]: speaker=Vok-Hroog
@@ -2896,12 +2902,13 @@ msgstr ""
 "6. V. roku 23 w. l.\n"
 "\n"
 "Dostali jsme se k průsmyku přes hory, o kterém Ras-Tabahn mluvil. Vzduch je "
-"chladný v této výšce. Mlha se od odpoledne táhne ze sněhu a z rampouchů "
-"odkapává ta nejčistší voda. Všechno se mi to připadá takové osvěžující, ale "
-"Ras-Tabahnovi záchvaty kašle jsou teď častější. Někdy mluví jen v krátkých "
-"větách a dochází mu dech. Samozřejmě, že je starý. Je mu minimálně 50. Jsem "
-"si však jistá, že je velmi nemocný. Jeho slabost ve mě probouzí přesvědčení, "
-"že se blíží jeho konec. Nechce o tom mluvit a popírá vážnost celé situace."
+"v této výšce chladný. Ze sněhu se odpoledne táhne mlha a z rampouchů na "
+"skalních převisech odkapává ta nejčistší voda. Všechno se mi to připadá "
+"takové osvěžující. Ale Ras-Tabahnovy záchvaty kašle jsou častější. Někdy mu "
+"dochází dech a mluví jen v krátkých větách. Samozřejmě, že je starý. Je mu "
+"minimálně 50 let. Jsem si však jistá, že je velmi nemocný. Jeho slabost ve "
+"mně probouzí přesvědčení, že se blíží jeho konec. Ale on o tom nechce mluvit "
+"a raději popírá vážnost svého problému."
 
 #. [side]: type=Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:45
@@ -2927,7 +2934,7 @@ msgstr "Zajímalo by mě, čí jsou. Možná gryphonů?"
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:179
 msgid "A large (<i>cough, cough</i>) flightless bird... would be my guess."
-msgstr "Velkého (<i>kašel, kašel</i>) nelétavého ptáka... bych si tipoval."
+msgstr "Velkého (<i>kašle a kašle</i>) nelétavého ptáka... bych si tipoval."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:183
@@ -3063,7 +3070,7 @@ msgstr ""
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:330
 msgid "Crelanu! (<i>Cough, cough</i>) We have come... for your book."
-msgstr "Krelanu! (<i>kašel, kašel</i>) Přišli jsme... pro tvou knihu."
+msgstr "Krelanu! (<i>Kašle a kašle.</i>) Přišli jsme... pro tvou knihu."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:334
@@ -3194,7 +3201,7 @@ msgstr "Ještě kousek."
 msgid ""
 "Ardryn-Na, I’m dying. (<i>Cough, cough</i>) I don’t think... I can stop it."
 msgstr ""
-"Ardryn-No, umírám. (<i> kašel, kašel</i>) Nemyslím si... že to dokážu "
+"Ardryn-No, umírám. (<i>Kašle a kašle.</i>) Nemyslím si..., že to dokážu "
 "zastavit."
 
 #. [message]: speaker=Ardonna
@@ -3219,9 +3226,9 @@ msgid ""
 "consciousness should follow the flow of your will, as it will have no other "
 "place to go."
 msgstr ""
-"Dej svoji vůli do jiného objektu, který je tvojí součástí. Například tvoje "
-"hůl. A když to uděláš přesně, když tvoje tělo zemře, celé tvoje vědomí bude "
-"následovat proud myšlenek tvé mysli a nebude mít kam jinam jít."
+"Promítni svou vůli do jiného objektu, který je tvou součástí. Například do "
+"své hole. Když to uděláš přesně v okamžiku, kdy tvé tělo zemře, celé tvé "
+"vědomí by mělo následovat proud tvé vůle a nebude mít možnost odejít jinam."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:152
@@ -3230,9 +3237,10 @@ msgid ""
 "the stone would serve to anchor me (<i>cough, cough, cough</i>) to this "
 "plane... and stop the downward flow of my soul... for just a moment."
 msgstr ""
-"Po pravdě, můžeme jít do země mrtvých. Ale... Když bych měl oltář... kámen "
-"by mohl sloužit jako kotva, která by mě držela na tomto místě... "
-"stabilizovala by mě tu... ale jen na chvíli."
+"Po pravdě, mohlo by jít do... země mrtvých. Ale... kdybych měl oltář..., "
+"kámen by mohl posloužit jako kotva, co by mé vědomí přidržela (<i>kašle a "
+"nemůže přestat</i>) na tomto místě... Zabránilo by to odchodu mé duše..., "
+"ale jen na chvíli."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:156
@@ -3240,15 +3248,16 @@ msgid ""
 "And a moment is all you need! You only need project your will <i>back</i> "
 "into your body, animating it as you would anything else!"
 msgstr ""
-"A chvíle je vše, co potřebuješ! Musíš jen dostat svojí vůli <i>zpět</i> do "
-"svého těla, ovládat ho tak, jako by si ovládal cokoliv jiného!"
+"A chvíle je vše, co potřebuješ! Potřebuješ jen promítnout svou vůli <i>zpět</"
+"i> do svého těla, ovládat ho tak, jako bys ovládal cokoliv jiného!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:160
 msgid ""
 "You seem... more sure than I, but  (<i>cough, cough</i>) I have no choice."
 msgstr ""
-"Ty jsi si tím víc jistá než já... Jenže (<i>kašle</i>) já nemám na výběr."
+"Ty jsi si tím víc jistá než já... Jenže (<i>kašle a kašle</i>) já nemám na "
+"výběr."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:164
@@ -3280,7 +3289,7 @@ msgstr "Dobře. Jsem připraven. Udělej to."
 #. [scenario]: id=18_Abandoned_Outpost
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:18
 msgid "Abandoned Outpost"
-msgstr "Opuštěná předsunutá hlídka"
+msgstr "Opuštěná výspa"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:31
@@ -3367,8 +3376,8 @@ msgstr "Přesuň Ardryn-Nu a Ras-Tabahna na západní okraj jeskyně"
 msgid ""
 "To turn a necromancer into a lich, right-click on it while it is in a castle."
 msgstr ""
-"Chcete-li přeměnit temného učedníka na licha, tak na něj klepněte pravým "
-"tlačítkem když je v tvrzi."
+"Chceš-li přeměnit nekromanta na licha, klepni na něj pravým tlačítkem, když "
+"je v hradu."
 
 #. [set_menu_item]: id=lichify
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:102
@@ -3378,7 +3387,7 @@ msgstr "Přeměnit na licha"
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:132
 msgid "You can only do this in a castle."
-msgstr "Toto můžeš udělat pouze v hradu."
+msgstr "Toto můžeš udělat pouze ve hradu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:478
@@ -3388,9 +3397,10 @@ msgid ""
 "as long as it is in a castle. If the necromancer has gained enough "
 "experience, it will immediately level into an ancient lich!"
 msgstr ""
-"Odteď můžeš povýšit svoje temné učedníky na lichy! Po zbytek tažení můžeš "
-"pravým tlačítkem změnit temného učně na licha kdekoliv v hradě. Jakmile "
-"získá dostatek zkušeností, automaticky se povýší na starého licha!"
+"Odteď můžeš povyšovat svoje temné čaroděje na lichy! Po zbytek tažení můžeš "
+"také pomocí pravého tlačítka změnit stávajícího nekromanta na licha, pokud "
+"se nachází v hradu. A pokud nekromant získal dostatek zkušeností, "
+"automaticky se povýší na starého licha!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:483
@@ -3415,7 +3425,7 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:491
 msgid "Why would the Dwarvish empire abandon an outpost like this?"
-msgstr "Proč by trpaslíci opouštěli takovouto základnu?"
+msgstr "Proč by trpaslíci opouštěli takovou pěknou výspu?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:495
@@ -3425,7 +3435,7 @@ msgstr "Možná to zjistíme. Měli bychom postupovat obezřetně."
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:511
 msgid "Giant spidersss! That explainsss the cobwebsss everywhere."
-msgstr "Obří pavouci! To vysvětluje ty pavučiny, co jsou všude kolem."
+msgstr "Obří pavouci! To vysssvětluje ty pavučiny, co jssou vššude kolem."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:517
@@ -3958,17 +3968,6 @@ msgstr "Epilog"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/22_Epilogue.cfg:16
-#, fuzzy
-#| msgid ""
-#| "10 VII, 23 YW — Final Entry\n"
-#| "\n"
-#| "We prevailed today on the field, but our victory was somewhat bitter. "
-#| "<i>Everyone</i> was afraid or angry and immediately attacked us instead "
-#| "of listening to our news. I realize now... the world is not ready for our "
-#| "knowledge. I give up on all of them. I am going to live in the old troll "
-#| "city and learn the applications of mountain fire. In some future time, "
-#| "less conservative attitudes will dominate, and I can certainly afford to "
-#| "wait. In the meantime, we are doing what we can to hasten that day."
 msgid ""
 "10 VII, 23 YW — Final Entry\n"
 "\n"
@@ -3989,11 +3988,14 @@ msgstr ""
 "Dnes jsme zvítězili na bojišti, ale naše vítězství bylo trochu hořké. "
 "<i>Všichni</i> se nás báli a nebo na nás byli naštvaní a okamžitě na nás "
 "útočili místo toho, aby vyslyšeli, co jsme dokázali. Nyní jsem si "
-"uvědomila... Svět není připravený na naší moudrost. Vzdala jsem se všeho "
-"a všech. Jdu žít do starého města trollů a naučím se využít horský oheň. "
-"Někdy v budoucnu převládne méně konzervativní myšlení a mně se určitě "
-"vyplatí na to počkat. Zatím se snažím udělat vše pro to, aby se ten den "
-"přiblížil."
+"uvědomila... Svět není připravený na naší moudrost. Nemohou pochopit, že "
+"jsme přemohli ten základní principiální strach: strach ze smrti. Místo toho "
+"se na nás dívají a soudí nás podle našeho vzhledu, což je vede k nevědomému "
+"násilí vůči nám. Vzdávám to s nimi se všemi. Prozatím se stáhnu – možná "
+"půjdu žít do starého trollího města a naučím se využívat horský oheň. Možná "
+"někdy v budoucnu převládne méně konzervativní myšlení a naše znalosti "
+"přijdou k užitku. Určitě se mi vyplatí na to počkat. Mezitím uděláme, co "
+"můžeme, abychom ten den uspíšili."
 
 #. [then]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/22_Epilogue.cfg:31
@@ -4330,12 +4332,12 @@ msgstr "Lich"
 #. [set_menu_item]: id=hide-sails
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:968
 msgid "Hide Sails and Rigging"
-msgstr "Skrýt plachty a výstroj"
+msgstr "Skrýt plachty a lanoví"
 
 #. [set_menu_item]: id=show-sails
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:1007
 msgid "Show Sails and Rigging"
-msgstr "Zobrazit plachty a výstroj"
+msgstr "Zobrazit plachty a lanoví"
 
 #. [terrain_type]: id=grave
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:16
@@ -4377,7 +4379,7 @@ msgstr "Pavučina"
 #. [terrain_type]: id=graveyard-fence-top
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:96
 msgid "Fence-Top"
-msgstr "Vysoký plot"
+msgstr "Vršek plotu"
 
 #. [terrain_type]: id=graveyard-fence-bottom
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:105
@@ -4387,22 +4389,22 @@ msgstr "Plot"
 #. [terrain_type]: id=graveyard-fence-bottom
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:106
 msgid "Fence-Bottom"
-msgstr "Nízký plot"
+msgstr "Spodek plotu"
 
 #. [terrain_type]: id=ship--forecastle
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:125
 msgid "Ship Forecastle"
-msgstr "Vnitřek lodi"
+msgstr "Příďová paluba lodi"
 
 #. [terrain_type]: id=ship--main-deck
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:138
 msgid "Ship Main Deck"
-msgstr "Lodní paluba"
+msgstr "Hlavní paluba lodi"
 
 #. [terrain_type]: id=ship--poop-deck
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:148
 msgid "Ship Poop Deck"
-msgstr "Lodní plošina"
+msgstr "Záďová paluba lodi"
 
 #. [terrain_type]: id=ship--hull
 #. [terrain_type]: id=ship--railing
@@ -4415,7 +4417,7 @@ msgstr "Lodní trup"
 #. [terrain_type]: id=ship--rigging-and-sails
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:170
 msgid "Ship Rigging and Sails"
-msgstr "Lodní výstroje a plachty"
+msgstr "Lodní lanoví a plachty"
 
 #. [terrain_type]: id=ship--railing
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:179
@@ -4461,7 +4463,7 @@ msgstr "Překryv prázdnoty"
 #. [terrain_type]: id=half-void-overlay
 #: data/campaigns/Secrets_of_the_Ancients/utils/terrain.cfg:344
 msgid "Half Void"
-msgstr "Poloprázdno"
+msgstr "Poloviční prázdnota"
 
 #~ msgid ""
 #~ "You can recruit or recall from your starting position on the first turn "
