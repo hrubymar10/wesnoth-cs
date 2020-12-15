@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-12-13 10:25+0100\n"
+"PO-Revision-Date: 2020-12-15 18:52+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1676,7 +1676,7 @@ msgstr ""
 msgid ""
 "Congratulations on your victory, Kapou’e. You do honor to the memory of your "
 "father."
-msgstr "Kapou’e, gratuluji k vítězství. Děláš čest památce tvého otce."
+msgstr "Kapou’e, gratuluji k vítězství. Děláš čest památce svého otce."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:391
@@ -1699,7 +1699,7 @@ msgid ""
 msgstr ""
 "Oh, skvělé. To znamená, že musíme překročit Poušť smrti, která je plná "
 "obrovských jedovatých škorpionů a lidských psanců. A obejít ji by zabralo "
-"celou věčnost! Nemluvě o tom, že po poušti musíme překročit Tichý les!"
+"celou věčnost! Nemluvě o tom, že za pouští se musíme dostat skrz Tichý les!"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:399
@@ -1707,7 +1707,7 @@ msgid ""
 "Well, we have no choice... I’ve never tasted scorpions but I am sure they "
 "are good. This journey will be fun."
 msgstr ""
-"Nemáme na výběr... Ještě nikdy jsem neochutnal škorpiona, ale jsem si jistý, "
+"Nemáme na výběr... Ještě nikdy jsem neochutnal škorpiony, ale jsem si jistý, "
 "že budou dobří. Tahle cesta slibuje zábavu."
 
 #. [scenario]: id=07_The_Desert_of_Death
@@ -1718,7 +1718,7 @@ msgstr "Poušť smrti"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:20
 msgid "Reach the Oasis in the Southeast"
-msgstr "Dostaň se do oázy na jihovýhodě"
+msgstr "Dostaň se do oázy na jihovýchodě"
 
 #. [side]: type=Assassin, type=Rogue, id=Ar-Dant
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:85
@@ -1758,7 +1758,7 @@ msgstr "Ar Dant"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:84
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:129
 msgid "Villains"
-msgstr "Nepřátele"
+msgstr "Darebáci"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:114
@@ -1796,8 +1796,8 @@ msgid ""
 "than the reach of their hands and it began to seem they would be buried "
 "alive by smothering sand."
 msgstr ""
-"Hned poté však začal vát silný vítr. Ten se rychle změnil v běsnění, vířící "
-"horký písek všude okolo nich. Viděli jen o něco málo dále, než kam dosáhly "
+"Hned poté však začal vát silný vítr. Ten se rychle změnil v běsnění, horký "
+"písek vířil všude okolo nich. Viděli jen o něco málo dále, než kam dosáhly "
 "jejich paže a začalo to vypadat, že budou dusivým pískem pohřbeni zaživa."
 
 #. [message]: speaker=Kapou'e
@@ -1830,7 +1830,7 @@ msgid ""
 "won’t meet them."
 msgstr ""
 "Slyšel jsem, že je lze nejsnáze porazit, když zaútočíš na jejich oči ostrou "
-"čepelí, zapálíš je a nebo je prošpikuješ šípy. Ale také doufám, že je "
+"čepelí, zapálíš je a nebo je prošpikuješ šípy. Ale také doufám, že je "
 "nepotkáme."
 
 #. [message]: speaker=Pirk
@@ -1840,9 +1840,9 @@ msgid ""
 "out of this sandstorm! These things can last for weeks, and if we aren’t "
 "buried alive by all the sand we will die of hunger and thirst."
 msgstr ""
-"Nestaral bych se o škorpiony právě teď; staral bych se spíš o to jak se "
-"dostat z téhle písečné bouře. Tyhle věci mohou trvat týdny a jestli nás "
-"písek nepohřbí zaživa, zemřeme hladem a žízní."
+"Nestaral bych se o škorpiony právě teď; staral bych se spíš o to, jak se "
+"dostat z téhle písečné bouře. Může trvat týdny a jestli nás všechen ten "
+"písek nepohřbí zaživa, zemřeme hladem a žízní."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:182
@@ -1865,8 +1865,8 @@ msgid ""
 "Finally we’ve done it! Now let’s wait out this sandstorm, resupply and get "
 "some rest before we continue on our journey."
 msgstr ""
-"Konečně, dokázali jsme to! Teď počkáme než skončí ta písečná bouře, doplníme "
-"zásoby a odpočineme si než budeme pokračovat v naší cestě."
+"Konečně, dokázali jsme to! Teď přečkáme tu písečnou bouři, doplníme zásoby "
+"a odpočineme si, než budeme pokračovat v naší cestě."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:284
@@ -1901,13 +1901,13 @@ msgstr "Vy trollové jste nechutní."
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:326
 msgid "<i>Yuck</i>! Disgusting! These things taste horrible!"
-msgstr "<i>Ble</i> Odporné! Chutná to hrozně!"
+msgstr "<i>Ble</i>! Odporné! Chutná to hrozně!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:331
 msgid ""
 "I don’t know if you should have eaten that, Grüü, you don’t look so good."
-msgstr "Nevím jestli jsi to měl jíst, Grüü. Nevypadáš dobře."
+msgstr "Nevím, jestli jsi to měl jíst, Grüü. Nevypadáš dobře."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:336
@@ -1917,7 +1917,7 @@ msgstr "Ugg. Je mi zle."
 #. [message]: speaker=Gork
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:341
 msgid "Hmmm, it seems that scorpions are poisonous."
-msgstr "Hmm. zdá se, že ti škorpioni jsou jedovatí."
+msgstr "Hmm, zdá se, že ti škorpioni jsou jedovatí."
 
 #. [message]: speaker=Vraurk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:346
@@ -1939,7 +1939,7 @@ msgstr "(<i>Zvrací</i>)"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:404
 msgid ""
 "Hold it right there! This oasis is ours! Begone or you all will be killed!"
-msgstr "Stůj! Tahle oáza je naše. Táhni nebo tě zabijeme!"
+msgstr "Stůj! Tahle oáza je naše. Táhni, nebo tě zabijeme!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:409
@@ -1948,8 +1948,8 @@ msgid ""
 "completely out of food and water. There is no way we can keep going without "
 "stopping at this oasis."
 msgstr ""
-"Podívej, hlupáku, jsme uprostřed písečné bouře a jsme téměř bez vody a "
-"jídla. V žádném případě nemůžeme pokračovat bez zastávky v téhle oáze."
+"Podívej, hlupáku, jsme uprostřed písečné bouře a téměř bez vody a jídla. "
+"V žádném případě nemůžeme pokračovat bez zastávky v téhle oáze."
 
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:414
@@ -1981,7 +1981,7 @@ msgstr "... Vodu...!"
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:470
 msgid "... Come... on..., people...! We have... to... keep... going..."
-msgstr "... Pojďte...! Musíme... pokračovat... dál.."
+msgstr "... Pojďte...! Musíme... pokračovat... dál..."
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:475
@@ -2014,8 +2014,8 @@ msgid ""
 "As soon as the sandstorm died down, Kapou’e and his men — eager to escape "
 "the searing heat — left the oasis and continued on their trek."
 msgstr ""
-"Hned jak písečná bouře odezněla, Kapou’e a jeho muži – horliví uniknout "
-"pálivému teplu – opustili oázu a pokračovali v cestě."
+"Hned jak písečná bouře odezněla, Kapou’e a jeho muži – dychtiví uniknout "
+"spalujícímu žáru – opustili oázu a pokračovali v cestě."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:119
@@ -2026,10 +2026,10 @@ msgid ""
 "and all the natural sounds of the forest died away — leaving everything "
 "deathly quiet."
 msgstr ""
-"Byl to skvělý pohled, když konečně spatřili Tichý les k večeru druhého dne. "
-"Rychle postavili tábor v naději získání tolik potřebného odpočinku. Ale "
-"jakmile se objevil úsvit, vyvalila se silná mlha a pohřbila všechny přírodní "
-"zvuky, zanechávajíc jen smrtelné ticho."
+"Když k večeru druhého dne konečně spatřili Tichý les, velice se jim ulevilo. "
+"Rychle postavili tábor v naději na získání tolik potřebného odpočinku. Ale "
+"jakmile se objevil úsvit, vyvalila se hustá mlha a pohřbila všechny "
+"přirozené zvuky lesa, zanechávajíc jen mrtvolné ticho."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:147
@@ -2072,10 +2072,9 @@ msgid ""
 "rest. We are sufficiently armed to cope with a bunch of elvish poachers. If "
 "we meet any, we’ll cut them to pieces."
 msgstr ""
-"Co by elfové dělali tak daleko na skřetím území? Každopádně si musíme "
-"odpočinout. Tak i tak musíme najít místo k odpočinku. Jsme vyzbrojeni dost "
-"na zvládnutí party elfích pytláků. Jestli nějakého potkáme, rozsekáme ho na "
-"kusy."
+"Co by elfové dělali tak daleko na skřetím území? Každopádně si potřebujeme "
+"trochu odpočinout. Jsme vyzbrojeni dost na zvládnutí bandy elfích pytláků. "
+"Jestli nějaké potkáme, rozsekáme je na kusy."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:200
