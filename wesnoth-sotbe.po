@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-05 20:44 UTC\n"
-"PO-Revision-Date: 2020-12-15 19:03+0100\n"
+"PO-Revision-Date: 2020-12-16 19:09+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2176,7 +2176,7 @@ msgid ""
 "Yes, but our prince has been banished from those lands for collaborating "
 "with humans. He now seeks to carve out an empire for himself."
 msgstr ""
-"Ano, ale náš princ byl vypuzen z těch zemí za spolupráci s lidmi. Teď se "
+"Ano, ale z těch zemí byl náš princ za spolupráci s lidmi vypuzen. Teď se "
 "snaží založit svou vlastní říši."
 
 #. [message]: speaker=second_unit
@@ -2191,14 +2191,14 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:286
 msgid "Yes, that is correct."
-msgstr "Ano, to je správně."
+msgstr "Ano, je to tak."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:291
 msgid ""
 "Well folks, it looks like we have our work cut out for us. We must destroy "
 "this enclave."
-msgstr "Dobrá, vypadá to, že tu máme práci. Musíme zničit tu enklávu."
+msgstr "Dobrá, vypadá to, že tu máme práci. Musíme tuhle enklávu zničit."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:310
