@@ -19,15 +19,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 01:40-0300\n"
-"PO-Revision-Date: 2020-12-13 22:10+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-12-17 09:07+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -1000,7 +999,6 @@ msgstr ""
 msgid "Calendar"
 msgstr "Kalendář"
 
-# Tady bych se opravdu inspiroval těmi indiánskými měsíci.
 #. [topic]: id=..calendar
 #: data/core/encyclopedia/calendar.cfg:13
 msgid ""
@@ -1021,6 +1019,22 @@ msgid ""
 "Blackfire\n"
 "\n"
 msgstr ""
+"Každý rok wesnothského kalendáře sestává z 12 měsíců. Tak, jak jdou za "
+"sebou, jsou to:\n"
+"\n"
+"Oběl\n"
+"Krvolun\n"
+"Osev\n"
+"Zakořen\n"
+"Sedmikvět\n"
+"Hustokeř\n"
+"Hvězdohor\n"
+"Oplamen\n"
+"Zralec\n"
+"Sklizolun\n"
+"Ledokvět\n"
+"Očerň\n"
+"\n"
 
 #. [section]: id=geography
 #. [topic]: id=..geography
