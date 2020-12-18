@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-05 20:44 UTC\n"
-"PO-Revision-Date: 2020-12-16 19:09+0100\n"
+"PO-Revision-Date: 2020-12-18 19:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2241,8 +2241,8 @@ msgid ""
 "Good work, men, we’ve done it! Now we don’t have to worry about these elves "
 "attacking us. Let’s get some rest and continue our journey."
 msgstr ""
-"Dobrá práce chlapi, zvládli jsme to. Teď už se nemusíme bát, že na nás ti "
-"elfové zaútočí. Odpočineme si a pak budeme pokračovat dál."
+"Dobrá práce, chlapi, zvládli jsme to. Teď už se nemusíme bát, že na nás ti "
+"elfové zaútočí. Odpočineme si a pak budeme pokračovat dál."
 
 #. [message]: speaker=Lucile
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:386
@@ -2269,7 +2269,7 @@ msgstr "Šan Taum Samolibý"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:20
 msgid "Survive the Shan Taum menace for 20 turns"
-msgstr "Odolej silám Šan Tauma po 20 tahů"
+msgstr "Odolej silám Šan Tauma po 20 kol"
 
 #. [objectives]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:24
@@ -2299,7 +2299,7 @@ msgstr ""
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:105
 msgid "At last, here are the Mourned Hills! We can only hope for the best."
-msgstr "Konečně, tady jsou Truchlivé Kopce! Můžeme jen doufat v nejlepší."
+msgstr "Konečně, tady jsou Truchlivé kopce! Teď už můžeme jen doufat."
 
 #. [message]: speaker=Grüü
 #. [message]: role=cannonfodder
