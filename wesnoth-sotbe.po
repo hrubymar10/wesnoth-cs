@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-12-18 21:25+0100\n"
+"PO-Revision-Date: 2020-12-19 11:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2395,7 +2395,7 @@ msgstr ""
 #. [message]: speaker=Fabstep
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:173
 msgid "I know what you want from us but I’m afraid we can’t help you."
-msgstr "Vím, co žádáš, ale obávám se, že ti nebudeme moci pomoci."
+msgstr "Vím, co žádáš, ale obávám se, že ti nemůžeme pomoci."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:177
@@ -2410,8 +2410,8 @@ msgid ""
 "exploits, we understood you are a worthy son of your father."
 msgstr ""
 "Nechápeš to. Skřeti byli po dlouhá léta rozděleni. Jediný, kdo nás určitým "
-"způsobem sjednotil, byl tvůj otec Karun Černé oko. Podle toho, co jsme o "
-"tobě slyšeli, jsme pochopili, že jsi pravý syn svého otce."
+"způsobem sjednotil, byl tvůj otec Karun Černé oko. Donesly se k nám zvěsti "
+"o tvých činech a my pochopili, že jsi pravý syn svého otce."
 
 #. [message]: speaker=Vraurk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:185
@@ -2421,7 +2421,7 @@ msgid ""
 msgstr ""
 "To je pravda. A teď, když jsme ze všech stran pod tlakem lidí a elfů, "
 "potřebujeme vůdce, který by sjednotil naše národy pod jedinou vlajku. Tím "
-"vůdcem budeš <i>ty</>!"
+"vůdcem budeš <i>ty</i>!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:189
@@ -2440,9 +2440,9 @@ msgid ""
 "of the river and your people won’t be safe. You are the only one that can "
 "help us defend Prestim!"
 msgstr ""
-"Kapou’e, padne-li Prestim, získají lidé velmi silné postavení na téhle "
-"straně řeky, a tvé kmeny nikdy nebudou v bezpečí. Jsi jediný, kdo nám může "
-"pomoci zachránit Prestim!"
+"Kapou’e, padne-li Prestim, získají lidé na téhle straně řeky velmi silné "
+"postavení a tvé kmeny nikdy nebudou v bezpečí. Jsi jediný, kdo nám může "
+"pomoci Prestim ubránit!"
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:201
@@ -2468,7 +2468,7 @@ msgstr "Záchrana Inarixe"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:31
 msgid "Wait for Inarix’s arrival from the south on turn 4"
-msgstr "Počkej až Inarix než dorazí z jihu při 4. tahu"
+msgstr "Počkej na Inarixe, který ve 4. kole dorazí z jihu"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:41
@@ -2481,7 +2481,7 @@ msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to safety"
 msgstr ""
-"Aby jsi mohl později rekrutovat ještěráky, přiveď Inarixe a nejméně čtyři "
+"Abys mohl později rekrutovat ještěráky, přiveď Inarixe a nejméně čtyři "
 "ještěráky do bezpečí"
 
 #. [note]
@@ -2524,7 +2524,7 @@ msgstr ""
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:194
 msgid "Ah! They are no match against my hammer."
-msgstr "Ah! Nejsou výzva pro mé kladivo."
+msgstr "Ah! Před mým kladivem neobstojí."
 
 #. [message]: speaker=Plonk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:198
@@ -2533,9 +2533,9 @@ msgid ""
 "still trapped on the other side of the river some miles away. They won’t be "
 "able to cross the river."
 msgstr ""
-"Je to horší, než se zdá. Zvědové přinesli zprávy, že ještěráci, naši "
-"přátelé, které vede Inarix, se dostali do obklíčení na druhém břehu řeky "
-"několik mil odsud. Cestu k nám mají uzavřenu."
+"Je to horší, než se zdá. Zvědové přinesli zprávy, že se ještěráci, naši "
+"přátelé, které vede Inarix, dostali do obklíčení na druhém břehu řeky "
+"několik mil odsud. Cestu k nám mají uzavřenu."
 
 #. [message]: speaker=Plonk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:202
@@ -2552,8 +2552,8 @@ msgid ""
 "If Inarix falls prey to those humans then we won’t be able to count on their "
 "help in this struggle. We must do something!"
 msgstr ""
-"Jestli Inarix padne za oběť těm lidem, nebudeme moci počítat s jejich pomocí "
-"v tomto boji. Musíme něco udělat!"
+"Jestli Inarix padne za oběť těm lidem, nebudeme moci v tomto boji s pomocí "
+"ještěráků počítat. Musíme něco udělat!"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:211
@@ -2573,7 +2573,7 @@ msgid ""
 "have set up beside the bridge to destroy it. Any warriors trapped on the "
 "bridge or on the other side of the river will perish!"
 msgstr ""
-"Můžeme odpálit jižní most a tak je zpomalit. Jakmile ho většina ještěráků "
+"Můžeme odpálit jižní most, a tak je zpomalit. Jakmile ho většina ještěráků "
 "překročí, někdo musí jít a zapálit sud výbušniny, který jsme umístili pod "
 "most, aby ho zničil. Všichni bojovníci, kteří zůstanou na mostě nebo na "
 "opačné straně řeky, zemřou!"
@@ -2585,8 +2585,8 @@ msgid ""
 "have reinforced Prestim. It is time to avenge the death of our fallen kin my "
 "friends — get them!"
 msgstr ""
-"Podívejte! Kmen skřetů, který zničil mou enklávu v Tichém lese, přišel "
-"posílit Prestim. Je čas pomstím naše padlé bratry a sestry. Mí přátele – "
+"Podívejte! Kmen skřetů, který zničil mou enklávu v Tichém lese, přišel "
+"posílit Prestim. Je čas pomstít naše padlé bratry a sestry. Mí přátelé – "
 "dostaňte je!"
 
 #. [message]: speaker=Kapou'e
