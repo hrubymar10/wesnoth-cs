@@ -4678,7 +4678,7 @@ msgstr "Nyní můžeš vyvolávat mrtvoly lidí!"
 #. the mount is an undead horse (not a wolf), this is shown instead of the unit_type name in the recruitment dialog
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:49
 msgid "recruit^Walking Corpse (Mounted)"
-msgstr "recruit^Walking Corpse (Jezdec)"
+msgstr "Chodící mrtvola (jezdec)"
 
 #. [value]: type=SotA Walking Corpse_Mounted
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:50
