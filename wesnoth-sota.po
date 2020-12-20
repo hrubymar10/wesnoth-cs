@@ -4637,7 +4637,7 @@ msgstr "Poloviční prázdnota"
 #. shown instead of the unit_type name in the recruitment dialog
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:24
 msgid "recruit^Flying Corpse (Bat)"
-msgstr "recruit^Flying Corpse (Netopýr)"
+msgstr "Létající mrtvola (netopýr)"
 
 #. [value]: type=SotA Flying Corpse_Bat
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:25
