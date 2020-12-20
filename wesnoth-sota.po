@@ -4637,7 +4637,7 @@ msgstr "Poloviční prázdnota"
 #. shown instead of the unit_type name in the recruitment dialog
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:24
 msgid "recruit^Flying Corpse (Bat)"
-msgstr "recruit^Walking Corpse (Netopýr)"
+msgstr "recruit^Flying Corpse (Netopýr)"
 
 #. [value]: type=SotA Flying Corpse_Bat
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:25
@@ -4699,7 +4699,7 @@ msgstr "Nyní můžeš vyvolávat mrtvoly jezdců na vlcích!"
 #. this is used for both naga and merfolk zombies
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:62
 msgid "recruit^Swimming Corpse"
-msgstr "recruit^Walking Corpse (Plavec)"
+msgstr "recruit^Swimming Corpse (Plavec)"
 
 #. [value]: type=SotA Swimming Corpse
 #. this is used for both naga and merfolk zombies
@@ -4740,7 +4740,7 @@ msgstr "Nyní můžeš vyvolávat mrtvoly goblinů!"
 #. [value]: type=SotA Flying Corpse_Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:87
 msgid "recruit^Flying Corpse (Gryphon)"
-msgstr "recruit^Walking Corpse (Gryfon)"
+msgstr "recruit^Flying Corpse (Gryfon)"
 
 #. [value]: type=SotA Flying Corpse_Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:88
