@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-12-20 09:48+0100\n"
+"PO-Revision-Date: 2020-12-20 10:29+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2463,12 +2463,12 @@ msgstr "Neee! Nezabíjejte mě. Vzdávám se ti, ty malý červe."
 #. [scenario]: id=10_Saving_Inarix
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:12
 msgid "Saving Inarix"
-msgstr "Záchrana Inarixe"
+msgstr "Záchrana Inarix"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:31
 msgid "Wait for Inarix’s arrival from the south on turn 4"
-msgstr "Počkej na Inarixe, který ve 4. kole dorazí z jihu"
+msgstr "Počkej na Inarix, která ve 4. kole dorazí z jihu"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:41
@@ -2481,7 +2481,7 @@ msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to safety"
 msgstr ""
-"Abys mohl později rekrutovat ještěráky, přiveď Inarixe a nejméně čtyři "
+"Abys mohl později rekrutovat ještěráky, přiveď Inarix a nejméně čtyři "
 "ještěráky do bezpečí"
 
 #. [note]
@@ -2558,7 +2558,7 @@ msgstr ""
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:211
 msgid "I know what we must do. Kill elves and help Inarix cross."
-msgstr "Vím, co musíme dělat. Zabít elfy a pomoci Inarixovi přejít řeku."
+msgstr "Vím, co musíme dělat. Zabít elfy a pomoci Inarix přejít řeku."
 
 #. [message]: speaker=Plonk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:215
@@ -2596,7 +2596,7 @@ msgid ""
 "we can deal with him now, we have to focus on saving Inarix."
 msgstr ""
 "Ahhh, to je „Princ“ z Tichého lesa. Naneštěstí si nemyslím, že se s ním teď "
-"můžeme vypořádat. Musíme se zaměřit na záchranu Inarixe."
+"můžeme vypořádat. Musíme se zaměřit na záchranu Inarix."
 
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:237
@@ -2646,14 +2646,14 @@ msgstr "Hej, nepodpaluj to, nejsem ještě v bezpečí!"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:448
 msgid "Chief, we can’t be blowing the bridge before Inarix is here, can we?"
 msgstr ""
-"Náčelníku, dokud tu není Inarix nemůžem vyhodit most do povětří, že ne?"
+"Náčelníku, dokud tu není Inarix, nemůžem vyhodit most do povětří, že ne?"
 
 #. [then]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:460
 msgid ""
 "Chief, Inarix hasn’t yet made it across! Are you really sure you want to do "
 "this?"
-msgstr "Náčelníku, Inarix ještě nepřešel! Jste si jist, že to chcete udělat?"
+msgstr "Náčelníku, Inarix ještě nepřešla! Jste si jist, že to chcete udělat?"
 
 #. [else]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:464
@@ -4707,7 +4707,7 @@ msgid ""
 "Blast it, without Inarix to lead his saurians, we can no longer count on "
 "their help."
 msgstr ""
-"K čertu. Bez Inarixe vedoucího jeho národ nemůžeme počítat s jejich pomocí."
+"K čertu. Bez Inarix, vedoucí své ještěráky, nemůžeme počítat s jejich pomocí."
 
 #: data/campaigns/Son_Of_The_Black_Eye/utils/utils.cfg:74
 msgid "Al’Brock"
