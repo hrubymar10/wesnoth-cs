@@ -15,14 +15,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-19 01:27 UTC\n"
-"PO-Revision-Date: 2020-12-20 09:28+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-12-20 18:49+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
@@ -809,15 +810,6 @@ msgstr "Bezvýchodnost"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:25
-#, fuzzy
-#| msgid ""
-#| "22 III, 23 YW\n"
-#| "\n"
-#| "Research sometimes requires experiments, so I began.  I knew the bandit "
-#| "had intended to rob me, and once I had killed his beloved, he had "
-#| "intended to torture and kill me.  Now that I was in control, he was "
-#| "afraid and defensive, and while his hatred of me was unabated, his desire "
-#| "to live made him somewhat maleable."
 msgid ""
 "22 III, 23 YW\n"
 "\n"
@@ -836,21 +828,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:58
-#, fuzzy
-#| msgid ""
-#| "I passed him a wineskin, to put him at ease.  He eyed me suspiciously, "
-#| "then took a sip, calculating my intentions.  I then placed a portion of "
-#| "my gold resources on the table, and his eyes locked upon it.\n"
-#| "\n"
-#| "I then placed upon the table a ring stripped off the bandit named "
-#| "'Mossa', his beloved partner in crime.  His gaze shifted from the gold to "
-#| "the ring, and then quickly to my eyes.  Had he not been tied to the "
-#| "chair, he would have attacked me.\n"
-#| "\n"
-#| "I added more gold to the pile, but he didn't notice, he only glared at me "
-#| "with such hatred.  The hunger for vengeance radiated off of him like heat "
-#| "from a thousand suns - I could feel it more strongly than the fear or "
-#| "hunger from any of my pets..."
 msgid ""
 "I passed him a wineskin, to put him at ease. He eyed me suspiciously, then "
 "took a sip, calculating my intentions. I then placed a portion of my gold "
@@ -882,18 +859,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:75
-#, fuzzy
-#| msgid ""
-#| "This rich vein into the life-force of the bandit was like nothing I had "
-#| "ever seen, but I knew enough to bend his hunger to my will.  With further "
-#| "study, I may one day be able to stop it there, but today I could not:  "
-#| "The single-minded hunger consumed the man, it was all I could do to "
-#| "control its direction!\n"
-#| "\n"
-#| "The bandit howled, thrashed, tore at his clothes and bindings, eventually "
-#| "digging into his own flesh.  Eventually, when all but the hunger had been "
-#| "flensed from his being, he calmed down.  Now hairless, bloody, naked, and "
-#| "unthinking, the bandit was unrecognizable as the man he once was."
 msgid ""
 "This rich vein into the life-force of the bandit was like nothing I had ever "
 "seen, but I knew enough to bend his hunger to my will. With further study, I "
@@ -913,18 +878,12 @@ msgstr ""
 "jeho směr!\n"
 "\n"
 "Bandita zavyl, mlátil s sebou, strhával své oblečení i poutající provazy a "
-"nakonec se zaryl do vlastního těla. Když byl konečně všechem jeho bytostný "
+"nakonec se zaryl do vlastního těla. Když byl konečně všechen jeho bytostný "
 "hlad odplaven, uklidnil se. Nyní tu byl – bezvlasý, krvavý, nahý a "
 "nemyslící, k nepoznání od muže, kterým kdysi byl."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:93
-#, fuzzy
-#| msgid ""
-#| "No doubt whatever was left of the mind inside gibbered at what it had "
-#| "become, but the bandit was now my puppet and I stitched the wounds as "
-#| "best I could.  In some ways, this experiment was a failure, but the "
-#| "creature it created would be useful..."
 msgid ""
 "No doubt whatever was left of the mind inside gibbered at what it had "
 "become, but the bandit was now my puppet and I stitched the wounds as best I "
@@ -1782,7 +1741,8 @@ msgstr "Rybář Carcyn k vašim službám a zde je má kamarádka Šinal."
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:256
 msgid "“Friend?” (<i>Giggle</i>) Oh, yes, we’re very good friends."
-msgstr "„Kamarádka?“ (<i>Zahihňá se</i>) Ó ano, my jsme velice dobří kamarádi."
+msgstr ""
+"„Kamarádka?“ (<i>Zahihňá se.</i>) Ó ano, my jsme velice dobří kamarádi."
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:260
@@ -1947,13 +1907,13 @@ msgid ""
 "on, they came across three farmsteads on the riverbank that had clearly been "
 "raided."
 msgstr ""
-"Ras-Tabahnova nabídka zlákala velkou skupinu mladých, kteří se chtěli stát "
-"magiky. Skutečnost, že šlo o nelegální výcvik v černé magii pro ně nebyla "
-"důležitá. Důležitější pro ně byl útěk z pekelné budoucnosti, kterou jim "
-"rodiče dopředu naplánovali. Ras-Tabahn strávil spoustu dní v lese mimo "
-"Carcyn, aby je naučil, jak zavolat duchovní svět a převzít z něj malou část "
-"síly. Brzy poté, co se vydali dál, narazili na tři farmy na břehu řeky, "
-"které byly zjevně vypleněné."
+"Ras-Tabahnova nabídka zlákala velkou skupinu mladých, dychtivých se stát "
+"mágy. Skutečnost, že šlo o nelegální výcvik v černé magii, pro ně nebyla "
+"důležitá. Důležitější pro ně byl útěk z úmornosti pevně nalinkované "
+"budoucnosti, kterou jim rodiče dopředu naplánovali. Ras-Tabahn strávil "
+"spoustu dní v lese mimo Carcyn, aby je naučil, jak zavolat duchovní svět a "
+"převzít z něj malou část síly. Brzy poté, co se vydali dál, narazili na "
+"břehu řeky na tři farmy, které byly zjevně vypleněny."
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:140
@@ -1984,8 +1944,8 @@ msgid ""
 "You will not earn gold this scenario, but your gold from the previous "
 "scenario will be available in the next."
 msgstr ""
-"V tomto scénáři nebudeš dostávat zlato, ale bude přeneseno z minulého "
-"scénáře do příštího."
+"V tomto scénáři nebudeš dostávat zlato. To bude přeneseno do příštího "
+"scénaře z toho minulého."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:353
@@ -1997,16 +1957,16 @@ msgid ""
 "not help. I intend most of you to survive this battle, so try not to die."
 msgstr ""
 "Zajímalo by mě, co se tady stalo. Ale na tom nezáleží. To, co bylo pro tuto "
-"vesnici špatné je pro nás dobré. Já je oživím a vy na ně zaútočíte. "
-"Procvičte si jak zmrazení, tak útok na vysátí. Můžete si každý zvolit "
-"jednoho vojáka z naší armády k vaší ochraně a já vám ho přivolám. Poté už "
-"vám nepomůžu. Myslím, že většina z vás tuto bitvu přežije, takže se pokuste "
-"nezemřít."
+"vesnici špatné, je pro nás dobré. Já je oživím a vy na ně zaútočíte. "
+"Procvičte si jak zmrazení, tak útok s vysátím. Můžete si každý ke své "
+"ochraně zvolit jednoho vojáka z naší armády a já vám ho přivolám. Poté už "
+"vám nepomůžu. Chtěl bych, aby většina z vás tuto bitvu přežila, takže se "
+"pokuste nezemřít."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:361
 msgid "plural^You may watch."
-msgstr "Můžeš se dívat."
+msgstr "Můžete se dívat."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:365
@@ -2333,9 +2293,9 @@ msgstr ""
 "na sebe dívalo přes zátoku, která byla z velké části zaplavená. V blízkosti "
 "silnice se zdržovala pomalá voda, která byla na hladině potažená hnilobným "
 "slizem. Zbraně, brnění a další nesnadno identifikovatelné předměty trčely "
-"nad hladinu bažiny. Mohla jsem si snadno představit veliké obléhací stroje, "
+"nad hladinu močálu. Mohla jsem si snadno představit veliké obléhací stroje, "
 "které vrhaly kamení proti opevněným zdem a měnily je v ruiny a řinčení "
-"bojovníků které teď představovali jen vybělené kosti trčící z trosek."
+"bojovníků, které teď představovaly jen vybělené kosti trčící z trosek."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:41
@@ -2386,8 +2346,8 @@ msgid ""
 "The fish people gave good value for the last load. More metal of that type "
 "is desired."
 msgstr ""
-"Rybí lid nám poslal velmi hodnotné věci v minulé dodávce. Více kovu tohoto "
-"typu jsme potřebovali."
+"Rybí lid nám za poslední dodávku dobře zaplatil. Po té sortě kovu je velká "
+"poptávka."
 
 #. [message]: speaker=Krissaz
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:134
@@ -2415,9 +2375,9 @@ msgid ""
 "already won’t come here, and we are forced to rely on these ssserpents for "
 "protection."
 msgstr ""
-"Ne! Nejde, aby jste způsssobili, že bude toto místo ještě víc ssstrašlivé, "
-"než už je! Ženy už sssem dávno nechodí a ještě jsme nuceni ssse ssspoléhat "
-"na tyto hady kvůli ochraně."
+"Ne! Nessmíšš způsssobit, žže bude toto mísssto ješšště víc ssstraššidelné, "
+"nežž užž je! Sssamice ssse sssem užž bojí chodit a tak jssme nuceni ssse pro "
+"ssvou ochranu ssspoléhat na tyto hadoušše."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:150
@@ -2450,7 +2410,7 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:162
 msgid "Every time..."
-msgstr "Pokaždé..."
+msgstr "A tak je to vždycky..."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:171
@@ -4097,16 +4057,6 @@ msgstr ""
 
 #. [then]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/22_Epilogue.cfg:31
-#, fuzzy
-#| msgid ""
-#| "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. "
-#| "Most of the others are going with him. I wish them success. Vendraxis now "
-#| "knows what he must learn to replicate our metamorphosis. He will use the "
-#| "years left to him in study and practice while he attempts to change the "
-#| "attitudes of his people. As for me, I have placed some spells on my "
-#| "journal to help keep it from harm, and I will make it conspicuous on this "
-#| "battlefield. I hope that it will eventually make its way into the hands "
-#| "of someone in Tath who is willing to learn the secrets of the ancients."
 msgid ""
 "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. Most "
 "of the others are going with him. I wish them success. Vendraxis now knows "
@@ -4122,21 +4072,16 @@ msgstr ""
 "Ras-Tabahn jde znovu získat svojí sílu a bude pokračovat na Elensefar. "
 "Většina ostatních půjde s ním. Držím jim palce. Vendraxis teď už ví, co se "
 "musí naučit, aby mohl napodobit naší přeměnu. Roky, které mu zbývají, bude "
-"studovat a experimentovat a při tom se bude snažit změnit názor jeho lidu. "
-"Pokud jde o mne, použila jsem pár zaklínadel na můj deník aby se mu nic "
-"nestalo. Doufám, že jednou se dostane do rukou někoho v Tath nebo jiném "
-"městě, kdo se bude zajímat o tajemství předků."
+"studovat a experimentovat a při tom se bude snažit změnit názor jeho lidu.\n"
+"Pokud jde o mě, zanechám na tomto bitevním poli okatě svůj deník. Trochu se "
+"obávám, aby se ho většina nebála natolik, že se jej pokusí zničit. Seslala "
+"jsem na něj ale několik ochranných prvků, co jej pomohou zachovat. Tímto "
+"způsobem by měl přežít dostatečně dlouho, aby se dostal do rukou někoho s "
+"otevřenější myslí. Zejména Tath je domovem mnoha mágů. Stačí aby se našel "
+"jeden, který bude ochoten se učit tajemstvím předků."
 
 #. [else]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/22_Epilogue.cfg:34
-#, fuzzy
-#| msgid ""
-#| "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. "
-#| "Most of the others are going with him. I wish them success. As for me, I "
-#| "have placed some spells on my journal to help keep it from harm, and I "
-#| "will make it conspicuous on this battlefield. I hope that it will "
-#| "eventually make its way into the hands of someone in Tath who is willing "
-#| "to learn the secrets of the ancients."
 msgid ""
 "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. Most "
 "of the others are going with him. I wish them success. As for me, I will "
@@ -4148,10 +4093,13 @@ msgid ""
 "ancients."
 msgstr ""
 "Ras-Tabahn jde znovu získat svojí sílu a bude pokračovat na Elensefar. "
-"Většina ostatních půjde s ním. Držím jim palce. Pokud jde o mne, použila "
-"jsem pár zaklínadel na můj deník aby se mu nic nestalo. Doufám, že jednou se "
-"dostane do rukou někoho v Tath nebo jiném městě, kdo se bude zajímat o "
-"tajemství předků."
+"Většina ostatních půjde s ním. Držím jim palce.\n"
+"Pokud jde o mě, zanechám na tomto bitevním poli okatě svůj deník. Trochu se "
+"obávám, aby se ho většina nebála natolik, že se jej pokusí zničit. Seslala "
+"jsem na něj ale několik ochranných prvků, co jej pomohou zachovat. Tímto "
+"způsobem by měl přežít dostatečně dlouho, aby se dostal do rukou někoho s "
+"otevřenější myslí. Zejména Tath je domovem mnoha mágů. Stačí aby se našel "
+"jeden, který bude ochoten se učit tajemstvím předků."
 
 #. [unit_type]: id=Bone Bird, race=undead, description=
 #: data/campaigns/Secrets_of_the_Ancients/units/Bone_Bird.cfg:4
@@ -4688,9 +4636,8 @@ msgstr "Poloviční prázdnota"
 #. [value]: type=SotA Flying Corpse_Bat
 #. shown instead of the unit_type name in the recruitment dialog
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:24
-#, fuzzy
 msgid "recruit^Flying Corpse (Bat)"
-msgstr "Létající mrtvola"
+msgstr "Létající mrtvola (netopýr)"
 
 #. [value]: type=SotA Flying Corpse_Bat
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:25
@@ -4699,10 +4646,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly netopýrů!"
 
 #. [value]: type=SotA Walking Corpse_Rat
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:30
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Rat)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (krysa)"
 
 #. [value]: type=SotA Walking Corpse_Rat
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:31
@@ -4711,10 +4656,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly krys!"
 
 #. [value]: type=SotA Walking Corpse_Wolf
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:36
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Wolf)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (vlk)"
 
 #. [value]: type=SotA Walking Corpse_Wolf
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:37
@@ -4723,10 +4666,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly vlků!"
 
 #. [value]: type=SotA Walking Corpse_Human
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:42
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Human)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (člověk)"
 
 #. [value]: type=SotA Walking Corpse_Human
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:43
@@ -4736,10 +4677,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly lidí!"
 #. [value]: type=SotA Walking Corpse_Mounted
 #. the mount is an undead horse (not a wolf), this is shown instead of the unit_type name in the recruitment dialog
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:49
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Mounted)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (jezdec)"
 
 #. [value]: type=SotA Walking Corpse_Mounted
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:50
@@ -4748,10 +4687,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly jezdců!"
 
 #. [value]: type=SotA Walking Corpse_Wolf Rider
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:55
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Wolf Rider)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (jezdec na vlku)"
 
 #. [value]: type=SotA Walking Corpse_Wolf Rider
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:56
@@ -4761,8 +4698,6 @@ msgstr "Nyní můžeš vyvolávat mrtvoly jezdců na vlcích!"
 #. [value]: type=SotA Swimming Corpse
 #. this is used for both naga and merfolk zombies
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:62
-#, fuzzy
-#| msgid "Swimming Corpse"
 msgid "recruit^Swimming Corpse"
 msgstr "Plavající mrtvola"
 
@@ -4775,7 +4710,7 @@ msgstr "Nyní můžeš vyvolávat mrtvoly plavců!"
 #. [value]: type=SotA Walking Corpse_Saurian
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:69
 msgid "recruit^Walking Corpse (Saurian)"
-msgstr ""
+msgstr "Chodící mrtvola (ještěrák)"
 
 #. [value]: type=SotA Walking Corpse_Saurian
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:70
@@ -4784,10 +4719,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly ještěráků!"
 
 #. [value]: type=SotA Walking Corpse_Wose
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:75
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Wose)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (stromový muž)"
 
 #. [value]: type=SotA Walking Corpse_Wose
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:76
@@ -4796,10 +4729,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly stromových lidí!"
 
 #. [value]: type=SotA Walking Corpse_Goblin
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:81
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Goblin)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (goblin)"
 
 #. [value]: type=SotA Walking Corpse_Goblin
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:82
@@ -4809,7 +4740,7 @@ msgstr "Nyní můžeš vyvolávat mrtvoly goblinů!"
 #. [value]: type=SotA Flying Corpse_Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:87
 msgid "recruit^Flying Corpse (Gryphon)"
-msgstr ""
+msgstr "Létající mrtvola (gryfon)"
 
 #. [value]: type=SotA Flying Corpse_Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:88
@@ -4818,10 +4749,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly gryfonů!"
 
 #. [value]: type=SotA Walking Corpse_Spider
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:93
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Spider)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (pavouk)"
 
 #. [value]: type=SotA Walking Corpse_Spider
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:94
@@ -4830,10 +4759,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly pavouků!"
 
 #. [value]: type=SotA Walking Corpse_Troll
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:99
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Troll)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (troll)"
 
 #. [value]: type=SotA Walking Corpse_Troll
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:100
@@ -4842,10 +4769,8 @@ msgstr "Nyní můžeš vyvolávat mrtvoly trollů!"
 
 #. [value]: type=SotA Walking Corpse_Dwarf
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:105
-#, fuzzy
-#| msgid "Raise Walking Corpse (8 Gold)"
 msgid "recruit^Walking Corpse (Dwarf)"
-msgstr "Vyvolat chodící mrtvolu (8 zlatých)"
+msgstr "Chodící mrtvola (trpaslík)"
 
 #. [value]: type=SotA Walking Corpse_Dwarf
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:106
