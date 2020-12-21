@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-19 01:31 UTC\n"
-"PO-Revision-Date: 2020-12-20 09:37+0100\n"
+"PO-Revision-Date: 2020-12-21 21:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1696,7 +1696,8 @@ msgstr "Rybář Carcyn k vašim službám a zde je má kamarádka Šinal."
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:294
 msgid "“Friend?” (<i>Giggle</i>) Oh, yes, we’re very good friends."
-msgstr "„Kamarádka?“ (<i>Zahihňá se</i>) Ó ano, my jsme velice dobří kamarádi."
+msgstr ""
+"„Kamarádka?“ (<i>Zahihňá se.</i>) Ó ano, my jsme velice dobří kamarádi."
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:298
@@ -1861,13 +1862,13 @@ msgid ""
 "on, they came across three farmsteads on the riverbank that had clearly been "
 "raided."
 msgstr ""
-"Ras-Tabahnova nabídka zlákala velkou skupinu mladých, kteří se chtěli stát "
-"magiky. Skutečnost, že šlo o nelegální výcvik v černé magii pro ně nebyla "
-"důležitá. Důležitější pro ně byl útěk z pekelné budoucnosti, kterou jim "
-"rodiče dopředu naplánovali. Ras-Tabahn strávil spoustu dní v lese mimo "
-"Carcyn, aby je naučil, jak zavolat duchovní svět a převzít z něj malou část "
-"síly. Brzy poté, co se vydali dál, narazili na tři farmy na břehu řeky, "
-"které byly zjevně vypleněné."
+"Ras-Tabahnova nabídka zlákala velkou skupinu mladých, dychtivých se stát "
+"mágy. Skutečnost, že šlo o nelegální výcvik v černé magii, pro ně nebyla "
+"důležitá. Důležitější pro ně byl útěk z úmornosti pevně nalinkované "
+"budoucnosti, kterou jim rodiče dopředu naplánovali. Ras-Tabahn strávil "
+"spoustu dní v lese mimo Carcyn, aby je naučil, jak zavolat duchovní svět a "
+"převzít z něj malou část síly. Brzy poté, co se vydali dál, narazili na "
+"břehu řeky na tři farmy, které byly zjevně vypleněny."
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:137
@@ -1898,8 +1899,8 @@ msgid ""
 "You will not earn gold this scenario, but your gold from the previous "
 "scenario will be available in the next."
 msgstr ""
-"V tomto scénáři nebudeš dostávat zlato, ale bude přeneseno z minulého "
-"scénáře do příštího."
+"V tomto scénáři nebudeš dostávat zlato. To bude přeneseno do příštího "
+"scénaře z toho minulého."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:354
@@ -1911,16 +1912,16 @@ msgid ""
 "not help. I intend most of you to survive this battle, so try not to die."
 msgstr ""
 "Zajímalo by mě, co se tady stalo. Ale na tom nezáleží. To, co bylo pro tuto "
-"vesnici špatné je pro nás dobré. Já je oživím a vy na ně zaútočíte. "
-"Procvičte si jak zmrazení, tak útok na vysátí. Můžete si každý zvolit "
-"jednoho vojáka z naší armády k vaší ochraně a já vám ho přivolám. Poté už "
-"vám nepomůžu. Myslím, že většina z vás tuto bitvu přežije, takže se pokuste "
-"nezemřít."
+"vesnici špatné, je pro nás dobré. Já je oživím a vy na ně zaútočíte. "
+"Procvičte si jak zmrazení, tak útok s vysátím. Můžete si každý ke své "
+"ochraně zvolit jednoho vojáka z naší armády a já vám ho přivolám. Poté už "
+"vám nepomůžu. Chtěl bych, aby většina z vás tuto bitvu přežila, takže se "
+"pokuste nezemřít."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:362
 msgid "plural^You may watch."
-msgstr "Můžeš se dívat."
+msgstr "Můžete se dívat."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:366
@@ -2247,9 +2248,9 @@ msgstr ""
 "na sebe dívalo přes zátoku, která byla z velké části zaplavená. V blízkosti "
 "silnice se zdržovala pomalá voda, která byla na hladině potažená hnilobným "
 "slizem. Zbraně, brnění a další nesnadno identifikovatelné předměty trčely "
-"nad hladinu bažiny. Mohla jsem si snadno představit veliké obléhací stroje, "
+"nad hladinu močálu. Mohla jsem si snadno představit veliké obléhací stroje, "
 "které vrhaly kamení proti opevněným zdem a měnily je v ruiny a řinčení "
-"bojovníků které teď představovali jen vybělené kosti trčící z trosek."
+"bojovníků, které teď představovaly jen vybělené kosti trčící z trosek."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:45
@@ -2300,8 +2301,8 @@ msgid ""
 "The fish people gave good value for the last load. More metal of that type "
 "is desired."
 msgstr ""
-"Rybí lid nám poslal velmi hodnotné věci v minulé dodávce. Více kovu tohoto "
-"typu jsme potřebovali."
+"Rybí lid nám za poslední dodávku dobře zaplatil. Po té sortě kovu je velká "
+"poptávka."
 
 #. [message]: speaker=Krissaz
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:131
@@ -2329,9 +2330,9 @@ msgid ""
 "already won’t come here, and we are forced to rely on these ssserpents for "
 "protection."
 msgstr ""
-"Ne! Nejde, aby jste způsssobili, že bude toto místo ještě víc ssstrašlivé, "
-"než už je! Ženy už sssem dávno nechodí a ještě jsme nuceni ssse ssspoléhat "
-"na tyto hady kvůli ochraně."
+"Ne! Nessmíšš způsssobit, žže bude toto mísssto ješšště víc ssstraššidelné, "
+"nežž užž je! Sssamice ssse sssem užž bojí chodit a tak jssme nuceni ssse pro "
+"ssvou ochranu ssspoléhat na tyto hadoušše."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:147
@@ -2364,7 +2365,7 @@ msgstr ""
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:159
 msgid "Every time..."
-msgstr "Pokaždé..."
+msgstr "A tak je to vždycky..."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:168
@@ -3999,16 +4000,6 @@ msgstr ""
 
 #. [then]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/22_Epilogue.cfg:31
-#, fuzzy
-#| msgid ""
-#| "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. "
-#| "Most of the others are going with him. I wish them success. Vendraxis now "
-#| "knows what he must learn to replicate our metamorphosis. He will use the "
-#| "years left to him in study and practice while he attempts to change the "
-#| "attitudes of his people. As for me, I have placed some spells on my "
-#| "journal to help keep it from harm, and I will make it conspicuous on this "
-#| "battlefield. I hope that it will eventually make its way into the hands "
-#| "of someone in Tath who is willing to learn the secrets of the ancients."
 msgid ""
 "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. Most "
 "of the others are going with him. I wish them success. Vendraxis now knows "
@@ -4024,21 +4015,16 @@ msgstr ""
 "Ras-Tabahn jde znovu získat svojí sílu a bude pokračovat na Elensefar. "
 "Většina ostatních půjde s ním. Držím jim palce. Vendraxis teď už ví, co se "
 "musí naučit, aby mohl napodobit naší přeměnu. Roky, které mu zbývají, bude "
-"studovat a experimentovat a při tom se bude snažit změnit názor jeho lidu. "
-"Pokud jde o mne, použila jsem pár zaklínadel na můj deník aby se mu nic "
-"nestalo. Doufám, že jednou se dostane do rukou někoho v Tath nebo jiném "
-"městě, kdo se bude zajímat o tajemství předků."
+"studovat a experimentovat a při tom se bude snažit změnit názor jeho lidu.\n"
+"Pokud jde o mě, zanechám na tomto bitevním poli okatě svůj deník. Trochu se "
+"obávám, aby se ho většina nebála natolik, že se jej pokusí zničit. Seslala "
+"jsem na něj ale několik ochranných prvků, co jej pomohou zachovat. Tímto "
+"způsobem by měl přežít dostatečně dlouho, aby se dostal do rukou někoho s "
+"otevřenější myslí. Zejména Tath je domovem mnoha mágů. Stačí aby se našel "
+"jeden, který bude ochoten se učit tajemstvím předků."
 
 #. [else]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/22_Epilogue.cfg:34
-#, fuzzy
-#| msgid ""
-#| "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. "
-#| "Most of the others are going with him. I wish them success. As for me, I "
-#| "have placed some spells on my journal to help keep it from harm, and I "
-#| "will make it conspicuous on this battlefield. I hope that it will "
-#| "eventually make its way into the hands of someone in Tath who is willing "
-#| "to learn the secrets of the ancients."
 msgid ""
 "Ras-Tabahn is going to rebuild his strength and continue to Elensefar. Most "
 "of the others are going with him. I wish them success. As for me, I will "
@@ -4050,10 +4036,13 @@ msgid ""
 "ancients."
 msgstr ""
 "Ras-Tabahn jde znovu získat svojí sílu a bude pokračovat na Elensefar. "
-"Většina ostatních půjde s ním. Držím jim palce. Pokud jde o mne, použila "
-"jsem pár zaklínadel na můj deník aby se mu nic nestalo. Doufám, že jednou se "
-"dostane do rukou někoho v Tath nebo jiném městě, kdo se bude zajímat o "
-"tajemství předků."
+"Většina ostatních půjde s ním. Držím jim palce.\n"
+"Pokud jde o mě, zanechám na tomto bitevním poli okatě svůj deník. Trochu se "
+"obávám, aby se ho většina nebála natolik, že se jej pokusí zničit. Seslala "
+"jsem na něj ale několik ochranných prvků, co jej pomohou zachovat. Tímto "
+"způsobem by měl přežít dostatečně dlouho, aby se dostal do rukou někoho s "
+"otevřenější myslí. Zejména Tath je domovem mnoha mágů. Stačí aby se našel "
+"jeden, který bude ochoten se učit tajemstvím předků."
 
 #. [unit_type]: id=Bone Bird, race=undead, description=
 #: data/campaigns/Secrets_of_the_Ancients/units/Bone_Bird.cfg:4
