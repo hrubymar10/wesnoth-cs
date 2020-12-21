@@ -20,14 +20,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-19 01:27 UTC\n"
-"PO-Revision-Date: 2020-12-13 09:36+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-12-20 14:59+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -3027,23 +3028,6 @@ msgstr "Elfí hrdina"
 
 #. [unit_type]: id=Elvish Hero, race=elf
 #: data/core/units/elves/Hero.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Accomplished Elvish warriors are sometimes called ‘Sárcan’, roughly "
-#| "meaning ‘one who has sacrificed in defense’ or ‘one transfigured by "
-#| "experience’. Often translated to ‘Elvish Heroes’ in the human tongue, "
-#| "this name does indicate some level of esteem and prestige, but is not "
-#| "used to glorify the position that these elves hold. Elvish Heroes are "
-#| "those who have survived numerous wars and have outlived many of their "
-#| "friends who fell in prior battles. They have seen all manner of atrocity "
-#| "committed by all races, be it orcs and humans ravaging the natural beauty "
-#| "of the forests, or even their own kind, other elves who are not above "
-#| "slaughtering innocent people out of pride and vengeance. Many years of "
-#| "fighting naturally make these swordsmen highly skilled in melee combat, "
-#| "but the hardships and destruction wrought by war take a great toll on "
-#| "both mind and body. While the Elves realize the necessity of military "
-#| "strength and honor the ‘Sárcanet’ as heroes for their service, such a "
-#| "status is not one often sought after by the majority of Elvenkind."
 msgid ""
 "Accomplished Elvish warriors are sometimes called ‘Sárcan’, roughly meaning "
 "‘one who has sacrificed in defense’ or ‘one transfigured by experience’. "
@@ -3061,19 +3045,19 @@ msgid ""
 "Elvenkind."
 msgstr ""
 "Vynikající elfí válečníci jsou někdy nazýváni „Sárcan“, což přibližně "
-"znamená „ten, kdo se obětoval na obranu“ nebo „proměněný zkušeností“. Toto "
-"jméno, do lidské řeči často překládáno jako „elfí hrdinové“, naznačuje "
-"určitou úroveň vážnosti a významnosti, ale nepoužívá se k oslavě postavení, "
-"které tito elfové zastávají. Elfí hrdinové jsou ti, kteří přestáli mnohé "
-"války a přežili mnoho svých přátel, již padli v předchozích bitvách. "
-"Spatřili všechny způsoby krutosti páchané každou rasou, ať to byli skřeti "
-"a lidé pustošící přirozenou krásu lesů nebo dokonce jejich vlastní druh, "
-"jiní elfové, kteří se nepovznesli nad vraždění nevinných lidí z pýchy a pro "
-"pomstu. Mnoho let bojů z těchto šermířů přirozeně učinilo velké odborníky na "
-"boj zblízka, ale útrapy a ničení působené válkou si vybírají velkou daň na "
-"duši i na těle. Přestože si elfové uvědomují nezbytnost vojenských sil a ctí "
-"„Sárcanet“ za jejich službu jako hrdiny, není toto postavení většinou elfího "
-"národa často vyhledáváno."
+"znamená „ten, kdo se obětoval na obranu“ nebo „ten, kdo byl proměněn "
+"zkušeností“. Toto jméno, které je v jazyku lidí často překládáno jako „elfí "
+"hrdinové“, naznačuje určitou úroveň proslulosti, ale není určeno k oslavě "
+"této pozice. Elfí hrdinové jsou ti, kteří přestáli mnohé války a přežili "
+"mnoho svých přátel, co padli v předchozích bitvách. Tito bojem zakalení "
+"vojáci, kteří často patří mezi několik osamělých přeživších, byli zasvěceni "
+"do četných zvěrstev války, ať to byli skřeti a lidé pustošící přirozenou "
+"krásu jejich lesních domovů, trpaslíci drancující vzácné artefakty od "
+"padlých, nekromanti pozvedávající jejich vlastní druhy proti nim nebo "
+"dokonce jejich vlastní druh zabíjející bez výčitek a milosrdenství nevinné. "
+"Přestože si elfové uvědomují nezbytnost vojenských sil a ctí „Sárcany“ za "
+"jejich službu jako hrdiny, není toto postavení většinou elfího národa často "
+"vyhledáváno."
 
 #. [unit_type]: id=Elvish High Lord, race=elf
 #: data/core/units/elves/High_Lord.cfg:4
@@ -3177,6 +3161,15 @@ msgid ""
 "training the body to keep up with the eyes is no easy feat, and realizing "
 "this prodigious skill does come with the cost of weakness in close quarters."
 msgstr ""
+"Elfové jsou důvěrně spojeni se světem víl, což jim přirozeně vštěpuje a "
+"poskytuje vysoce rozvinuté smysly a neuvěřitelně živé vidění. V kombinaci s "
+"mnohaletými loveckými zkušenostmi v hlubokých lesích to významně přispívá k "
+"elfímu mistrovství v ovládání luků. Zkušený elfí střelec je schopen "
+"zasáhnout cíl o velikosti špendlíkové hlavičky ze vzdálenosti desítek kroků "
+"a také střílet tak rychle a přesně, aby ve vzduchu rozdělil padající větve. "
+"Synchronizace těla se zrakem není samozřejmě snadný výkon a vykonávání této "
+"podivuhodné dovednosti přichází za cenu nerozvíjení bojových dovedností na "
+"blízko."
 
 #. [attack]: type=pierce
 #: data/core/units/elves/Marksman.cfg:39
@@ -3412,6 +3405,15 @@ msgid ""
 "peaceful by nature, these shamans rarely engage in combat, instead using "
 "their magic to command the earth itself to hinder or pacify their enemies."
 msgstr ""
+"S trochou tréninku lze přirozenou elfí spřízněnost s přírodním světem "
+"přenést do hmotné magie, která dokáže ovlivnit fyzickou rovinu. Šamanky "
+"tohoto oboru nejčastěji používají své dovednosti k tomu, aby pečovaly o "
+"přírodní prostředí, které je spojuje s jejich silami, což má za následek "
+"neobvykle svěží a zelené lesy obklopující jejich domovy. Stejná magie se "
+"hodí k rozvíjení pozoruhodného a velmi proslulého talentu v umění "
+"léčitelství. Tyto šamanky jsou přirozeně oddané mírumilovnosti a zřídkakdy "
+"bojují. Místo toho pomocí své magie velí samotné Zemi, aby zbržďovala nebo "
+"pacifikovala jejich nepřátele."
 
 #. [unit_type]: id=Elvish Sharpshooter, race=elf
 #: data/core/units/elves/Sharpshooter.cfg:4
@@ -5024,7 +5026,7 @@ msgstr ""
 "Někteří muži, neschopní živit se řádným řemeslem, sklouznou po šikmé ploše "
 "až na dno, ale ani tam se nevzdávají a probojovávají si dál cestu životem, "
 "nejlépe pořádným kyjem. Prostě lotři. S trochou štěstí se dokáží vyhnout "
-"zatčení či smrti, které očekávají většinu z jejich řad."
+"zatčení či smrti, co na většinu z jejich řad čeká."
 
 #. [unit_type]: id=Thief, race=human
 #: data/core/units/humans/Outlaw_Thief.cfg:4
@@ -5602,12 +5604,6 @@ msgstr "Medvěd jeskynní"
 
 #. [unit_type]: id=Cave Bear, race=monster
 #: data/core/units/monsters/Bear.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Cave Bears are large, powerful beasts with sharp claws and large teeth.  "
-#| "Adapted to roaming the dark caves, they have a keen sense of smell and "
-#| "hearing, but poor eyesight.  When a rival predator, or some other threat, "
-#| "gets too close, a bear will reliably attack."
 msgid ""
 "Cave Bears are large, powerful beasts with sharp claws and large teeth. "
 "Adapted to roaming the dark caves, they have a keen sense of smell and "
@@ -5627,14 +5623,6 @@ msgstr "Ještěr bažinný"
 
 #. [unit_type]: id=Swamp Lizard, race=monster
 #: data/core/units/monsters/Crocodile.cfg:74
-#, fuzzy
-#| msgid ""
-#| "Swamps are vibrant environments, but often not friendly to humans or "
-#| "orcs.  Swamp Lizards are one of the more notable hazards, with their "
-#| "powerful jaws and armored hide.  Despite their primitive appearance, "
-#| "these lizards are not stupid, and after generations of being hunted for "
-#| "their hides, they have adopted a 'two legs bad' outlook and do not "
-#| "hesitate to avenge their ancestors."
 msgid ""
 "Swamps are vibrant environments, but often not friendly to humans or orcs. "
 "Swamp Lizards are one of the more notable hazards, with their powerful jaws "
@@ -5708,22 +5696,16 @@ msgstr "Starý sokol"
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/monsters/Elder_Falcon.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Elder Falcons bear the telltale scars of veteran warriors from protecting "
-#| "their masters, their bodies proof of repeated dives into a swirling "
-#| "melee. Stronger and faster than their younger kin, they are rumored to "
-#| "hit with enough force to remove an enemy's head. "
 msgid ""
 "Elder Falcons bear the telltale scars of veteran warriors from protecting "
 "their masters, their bodies proof of repeated dives into a swirling melee. "
 "Stronger and faster than their younger kin, they are rumored to hit with "
 "enough force to remove an enemy’s head."
 msgstr ""
-"Starší sokoli nesou jizvy svědčící o mnohých bojích a ochraně jejich pánů. "
-"Jejich těla svědčí o tom, jak se opakovaně vrhali do víru bitvy. Silnější a "
-"rycheljší než mladí sokoli, říká se dokonce, že dokáží zasáhnout dost silně "
-"na to, aby to soupeře stálo hlavu. "
+"Starší sokoli nesou výmluvné jizvy veteránů válek, které utržili při ochraně "
+"svých pánů. Jejich těla svědčí o tom, jak se opakovaně vrhali do víru boje. "
+"Jsou silnější a rychlejší než mladší sokoli, říká se dokonce, že dokáží "
+"zasáhnout tak silně, že to soupeře stojí hlavu."
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -5762,10 +5744,8 @@ msgstr "Lorem ipsum..."
 
 #. [attack]: type=fire
 #: data/core/units/monsters/Fire_Ant.cfg:73
-#, fuzzy
-#| msgid "fireball"
 msgid "fire"
-msgstr "ohnivá koule"
+msgstr "oheň"
 
 #. [unit_type]: id=Fire Dragon, race=monster
 #: data/core/units/monsters/Fire_Dragon.cfg:4
@@ -5893,7 +5873,7 @@ msgstr "klepeta"
 #. [variation]
 #: data/core/units/monsters/Giant_Scorpion.cfg:112
 msgid "Sand Scuttler"
-msgstr ""
+msgstr "Písečný krab"
 
 #. [variation]
 #: data/core/units/monsters/Giant_Scorpion.cfg:115
@@ -5902,6 +5882,10 @@ msgid ""
 "mix of mundane creature and elemental beast. Though usually timid, Sand "
 "Scuttlers sometimes attack unwary travelers, especially when startled."
 msgstr ""
+"Tito tvorové, kteří téměř splývají s písečnými dunami, jsou zvláštní "
+"směsicí pozemského tvora a elementálního stvoření. Ačkoli jsou píseční krabi "
+"obvykle plaší, někdy zaútočí na neopatrné cestovatele, zvláště pokud se "
+"cítí ohroženi."
 
 #. [unit_type]: id=Giant Scorpling, race=monster
 #: data/core/units/monsters/Giant_Scorpling.cfg:4
@@ -5910,19 +5894,6 @@ msgstr "Obří škorpioně"
 
 #. [unit_type]: id=Giant Scorpling, race=monster
 #: data/core/units/monsters/Giant_Scorpling.cfg:27
-#, fuzzy
-#| msgid ""
-#| "One of the most potent known venoms is that of the monstrous scorpions of "
-#| "the frontier. Fetching a high price by assassins and apothecaries alike, "
-#| "this venom is often seen as a quick way to make coin, alluring bold "
-#| "hunters to venture into the wilderness to harvest it. However, even in a "
-#| "juvenile state, these scorpions can deliver deadly stings and are faster "
-#| "than most men. What's worse is that they can live in rather large nests, "
-#| "and angering a seemingly lone scorpion can lead to swarms of them "
-#| "crawling up from the ground — quickly turning the hunter into the hunted. "
-#| "They are protected by a sturdy shell which hardens as they age, becoming "
-#| "more resilient. This carapace is very resistant to normal blade strikes "
-#| "or piercing attacks, but can be broken with heavy blows."
 msgid ""
 "One of the most potent known venoms is that of the monstrous scorpions of "
 "the frontier. Fetching a high price by assassins and apothecaries alike, "
@@ -5969,22 +5940,15 @@ msgstr ""
 msgid "web"
 msgstr "pavučina"
 
+# Pořád má v popisu, že je obří.
 #. [unit_type]: id=Giant Stoat, race=monster
 #: data/core/units/monsters/Giant_Stoat.cfg:4
-#, fuzzy
-#| msgid "Giant Stoat"
 msgid "Frost Stoat"
-msgstr "Obří lasice"
+msgstr "Obří lasice sněžná"
 
 # V originále je hlodavec, ale lasice je šelma.
 #. [unit_type]: id=Giant Stoat, race=monster
 #: data/core/units/monsters/Giant_Stoat.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Giant Stoats are a devious rodent predominantly found in the frozen "
-#| "northlands, although they can survive anywhere.  They generally scavenge "
-#| "and hunt smaller animals, but are territorial and the young adults have "
-#| "been known to attack larger intruders, including humans and orcs."
 msgid ""
 "Giant Stoats are a devious rodent predominantly found in the frozen parts of "
 "the Northlands, although they can survive anywhere. They generally scavenge "
@@ -5992,16 +5956,14 @@ msgid ""
 "known to attack larger intruders, including humans and orcs."
 msgstr ""
 "Obří lasice patří mezi nevyzpytatelné šelmy, které se vyskytují převážně v "
-"zamrzlých severních oblastech. Ale přežít mohou kdekoli. Běžně žerou jen "
-"mršiny či loví menší zvířata. Jsou ale teritoriální a je známo, že mladí "
+"zamrzlých oblastech Severních zemí. Ale přežít mohou kdekoli. Běžně žerou "
+"jen mršiny či loví menší zvířata. Jsou ale teritoriální a je známo, že mladí "
 "dospělci útočí i na větší vetřelce, včetně lidí a skřetů."
 
 #. [attack]: type=cold
 #: data/core/units/monsters/Giant_Stoat.cfg:71
-#, fuzzy
-#| msgid "fire claws"
 msgid "ice claw"
-msgstr "ohnivé drápy"
+msgstr "ledové drápy"
 
 #. [unit_type]: id=Icemonax, race=monster
 #: data/core/units/monsters/Icemonax.cfg:4
@@ -6010,13 +5972,6 @@ msgstr "Icemonax"
 
 #. [unit_type]: id=Icemonax, race=monster
 #: data/core/units/monsters/Icemonax.cfg:34
-#, fuzzy
-#| msgid ""
-#| "Icemonax are a strange beast of the frozen north, best described as a "
-#| "large, armored ground squirrel.  Their armor accummulates frost and snow, "
-#| "even in more temperate climates.  Most Icemonax are curious, often "
-#| "wandering into places they do not belong.  Despite this, efforts to study "
-#| "and domesticate them have failed, as they die soon after capture."
 msgid ""
 "Icemonax are a strange beast of the frozen north, best described as a large, "
 "armored ground squirrel. Their armor accumulates frost and snow, even in "
@@ -6025,11 +5980,11 @@ msgid ""
 "them have failed, as they die soon after capture."
 msgstr ""
 "Icemonaxové jsou podivná zvířata ze zmrzlého severu, která lze nejlépe "
-"připodobnit k velkým obrněným veverkám. Na jejich krunýřích se hromadí mráz "
-"a sníh, a to i v mírnějším podnebí. Většina icemonaxů je zvědavá, a tak "
-"často putují na místa, kde se běžně nevyskytují. I přes to, že na ně lze "
-"narazit, všechno úsilí o jejich studium a domestikaci selhalo, neboť v "
-"zajetí brzy umírají."
+"připodobnit k velkým obrněným veverkám, pohybujícím se po zemi. Na jejich "
+"krunýřích se hromadí mráz a sníh, a to i v mírnějším podnebí. Většina "
+"icemonaxů je zvědavá, a tak často putují na místa, kde se běžně nevyskytují. "
+"I přes to, že na ně lze narazit, všechno úsilí o jejich studium a "
+"domestikaci selhalo, neboť v zajetí brzy umírají."
 
 #. [unit_type]: id=Great Icemonax, race=monster
 #: data/core/units/monsters/Icemonax_Greater.cfg:4
@@ -6038,12 +5993,6 @@ msgstr "Velký icemonax"
 
 #. [unit_type]: id=Great Icemonax, race=monster
 #: data/core/units/monsters/Icemonax_Greater.cfg:35
-#, fuzzy
-#| msgid ""
-#| "Icemonax are a strange beast of the frozen north, best described as a "
-#| "large, armored ground squirrel.  Their armor accummulates ice and snow, "
-#| "even when the climate is warm and dry.  Some Icemonax grow to be quite "
-#| "large and powerful, guarding their smaller, younger kin."
 msgid ""
 "Icemonax are a strange beast of the frozen north, best described as a large, "
 "armored ground squirrel. Their armor accumulates ice and snow, even when the "
@@ -6051,9 +6000,10 @@ msgid ""
 "guarding their smaller, younger kin."
 msgstr ""
 "Icemonaxové jsou podivná zvířata ze zmrzlého severu, která lze nejlépe "
-"připodobnit k velkým obrněným veverkám. Na jejich krunýřích se hromadí led a "
-"sníh, a to i v teplém a suchém podnebí. Někteří icemonaxové vyrostou do "
-"větší velikosti a síly. Pak ochraňují své menší, mladší druhy."
+"připodobnit k velkým obrněným veverkám, pohybujícím se po zemi. Na jejich "
+"krunýřích se hromadí led a sníh, a to i v teplém a suchém podnebí. Někteří "
+"icemonaxové vyrostou do větší velikosti a síly. Pak ochraňují své menší, "
+"mladší druhy."
 
 #. [unit_type]: id=Jinn, race=monster, description=
 #: data/core/units/monsters/Jinn.cfg:4
@@ -6171,11 +6121,6 @@ msgstr "Prase bradavičnaté"
 
 #. [unit_type]: id=Gorer, race=monster
 #: data/core/units/monsters/Tusker_Gorer.cfg:35
-#, fuzzy
-#| msgid ""
-#| "As Tuskers age, their already formidable teeth grow longer and more "
-#| "numerous.  A mature boar gorer is a valuable asset to any farmer.  And "
-#| "angry boar gorer is a challenge even to the best hunters"
 msgid ""
 "As Tuskers age, their already formidable teeth grow longer and more "
 "numerous. A mature boar gorer is a valuable asset to any farmer. And an "
@@ -6203,11 +6148,6 @@ msgstr "Lončák"
 
 #. [unit_type]: id=Tusklet, race=monster
 #: data/core/units/monsters/Tusker_Tusklet.cfg:33
-#, fuzzy
-#| msgid ""
-#| "Young tuskers are as notoriously bad-tempered as the adults of the "
-#| "species, if a little less of a challenge.  But woe betide the unfortunate "
-#| "who comes between a Tusklet and its parents."
 msgid ""
 "Young tuskers are as notoriously bad-tempered as the adults of the species, "
 "if a little less of a challenge. But woe betide the unfortunate who comes "
@@ -6835,6 +6775,13 @@ msgid ""
 "inevitably the most shrewd and perceptive among his peers and has won the "
 "respect of his brethren through leadership rather than coercion."
 msgstr ""
+"Běžnou mylnou představou o hierarchii skřetích klanů je ta, že skřeti "
+"oceňují pouze hrubou sílu. I když vůdcem menšího skřetího vojska může být "
+"ten nejsilnější, vládce velkého kmene musí zvládat obtíže při potlačování "
+"vnitřních svárů a bojů, což je něco, čeho nelze pouze silou dosáhnout. "
+"Takový skřet pak nevyhnutelně patří mezi nejchytřejší a nejvnímavější mezi "
+"svými vrstevníky a respekt svých bratří si získal spíše vedením než "
+"nátlakem."
 
 #. [unit_type]: id=Orcish Slayer, race=orc
 #: data/core/units/orcs/Slayer.cfg:4
@@ -7317,10 +7264,8 @@ msgstr "Trpaslík"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:146
 #: data/core/units/undead/Corpse_Walking.cfg:145
-#, fuzzy
-#| msgid "wc_variation^Bat"
 msgid "wc_variation^Falcon"
-msgstr "Netopýr"
+msgstr "Sokol"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:180
@@ -7343,10 +7288,8 @@ msgstr "Gryfon"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:223
 #: data/core/units/undead/Corpse_Walking.cfg:222
-#, fuzzy
-#| msgid "wc_variation^Bat"
 msgid "wc_variation^Rat"
-msgstr "Netopýr"
+msgstr "Krysa"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:240
@@ -7363,10 +7306,8 @@ msgstr "Pavouk"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:259
 #: data/core/units/undead/Corpse_Walking.cfg:258
-#, fuzzy
-#| msgid "wc_variation^Spider"
 msgid "wc_variation^Serpent"
-msgstr "Pavouk"
+msgstr "Plaz"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:276
@@ -7383,16 +7324,14 @@ msgstr "Troll"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:303
 #: data/core/units/undead/Corpse_Walking.cfg:302
-#, fuzzy
-#| msgid "wc_variation^Wose"
 msgid "wc_variation^Tusker"
-msgstr "Stromový muž"
+msgstr "Kelnatec"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:311
 #: data/core/units/undead/Corpse_Walking.cfg:310
 msgid "tusk"
-msgstr ""
+msgstr "kel"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:316
@@ -7425,6 +7364,15 @@ msgid ""
 "that the rise of an Ancient Lich has not led to the shadows ruling the world "
 "for the rest of time."
 msgstr ""
+"Lich, který během své nově nalezené délky života, jež není omezena smrtí, "
+"nabere dostatek síly, se stává tím, kdo je schopen poskvrňovat duše "
+"zoufalstvím a zasévat zkázu po celém světě. Lich tohoto řádu vždy velí téměř "
+"neomezené hordě vzkříšených válečníků a nemrtvých příšer a je mistrem v "
+"temném čarodějnictví, co nahání hrůzu i těm nejznámějším lidským a elfím "
+"mágům. Taková postava obvykle reprezentuje temnou a krvavou kapitolu "
+"historie. A v těchto časech nouze jen neúnavné úsilí nejodvážnějších hrdinů "
+"zajišťuje, aby vzestup starého licha nevedl k tomu, že stíny povládnou světu "
+"po zbytek dnů."
 
 #. [unit_type]: id=Dark Adept, race=human
 #: data/core/units/undead/Necro_Dark_Adept.cfg:4
