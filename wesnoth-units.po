@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-19 01:31 UTC\n"
-"PO-Revision-Date: 2020-11-16 18:57+0100\n"
+"PO-Revision-Date: 2020-12-21 20:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1492,10 +1492,10 @@ msgid ""
 "Stronger and faster than their younger kin, they are rumored to hit with "
 "enough force to remove an enemy's head. "
 msgstr ""
-"Starší sokoli nesou jizvy svědčící o mnohých bojích a ochraně jejich pánů. "
-"Jejich těla svědčí o tom, jak se opakovaně vrhali do víru bitvy. Silnější a "
-"rycheljší než mladí sokoli, říká se dokonce, že dokáží zasáhnout dost silně "
-"na to, aby to soupeře stálo hlavu. "
+"Starší sokoli nesou výmluvné jizvy veteránů válek, které utržili při ochraně "
+"svých pánů. Jejich těla svědčí o tom, jak se opakovaně vrhali do víru boje. "
+"Jsou silnější a rychlejší než mladší sokoli, říká se dokonce, že dokáží "
+"zasáhnout tak silně, že to soupeře stojí hlavu."
 
 #. [attack]: type=pierce
 #: data/core/units/dunefolk/Elder_Falcon.cfg:35
@@ -4431,7 +4431,7 @@ msgstr ""
 "Někteří muži, neschopní živit se řádným řemeslem, sklouznou po šikmé ploše "
 "až na dno, ale ani tam se nevzdávají a probojovávají si dál cestu životem, "
 "nejlépe pořádným kyjem. Prostě lotři. S trochou štěstí se dokáží vyhnout "
-"zatčení či smrti, které očekávají většinu z jejich řad."
+"zatčení či smrti, co na většinu z jejich řad čeká."
 
 #. [unit_type]: id=Thief, race=human
 #: data/core/units/humans/Outlaw_Thief.cfg:4
@@ -6184,6 +6184,15 @@ msgid ""
 "that the rise of an Ancient Lich has not led to the shadows ruling the world "
 "for the rest of time."
 msgstr ""
+"Lich, který během své nově nalezené délky života, jež není omezena smrtí, "
+"nabere dostatek síly, se stává tím, kdo je schopen poskvrňovat duše "
+"zoufalstvím a zasévat zkázu po celém světě. Lich tohoto řádu vždy velí téměř "
+"neomezené hordě vzkříšených válečníků a nemrtvých příšer a je mistrem v "
+"temném čarodějnictví, co nahání hrůzu i těm nejznámějším lidským a elfím "
+"mágům. Taková postava obvykle reprezentuje temnou a krvavou kapitolu "
+"historie. A v těchto časech nouze jen neúnavné úsilí nejodvážnějších hrdinů "
+"zajišťuje, aby vzestup starého licha nevedl k tomu, že stíny povládnou světu "
+"po zbytek dnů."
 
 #. [unit_type]: id=Dark Adept, race=human
 #: data/core/units/undead/Necro_Dark_Adept.cfg:4
