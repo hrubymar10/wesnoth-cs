@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-17 09:07+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-12-22 14:28+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -1553,7 +1554,6 @@ msgstr "Úvod"
 msgid "Gameplay"
 msgstr "Pravidla hry"
 
-#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:29 data/core/help.cfg:517
@@ -4592,12 +4592,12 @@ msgid ""
 "Leadership engages in combat, its attacks do 25% more damage times the "
 "difference in their levels."
 msgstr ""
-"Tato jednotka dokáže vést jednotky vedle sebe, takže bojují lépe.\n"
+"Tato jednotka dokáže vést vlastní jednotky vedle sebe, takže bojují lépe.\n"
 "\n"
-"Vlastní jednotky nižší úrovně na sousedních polích způsobí v boji větší "
-"poškození. Když se jednotka nižšího stupně nachází v boji na stejné straně "
-"jako ta velící, pak její útok způsobí o 25% více poškození krát rozdíl "
-"jejich úrovní."
+"Vlastní jednotky nižší úrovně na sousedících polích způsobí v boji větší "
+"poškození. Když se sousedící jednotka nižší úrovně nachází v boji na stejné "
+"straně jako ta velící, pak její útok způsobí o 25 % více poškození krát "
+"rozdíl jejich úrovní."
 
 #. [skirmisher]: id=skirmisher
 #: data/core/macros/abilities.cfg:192
