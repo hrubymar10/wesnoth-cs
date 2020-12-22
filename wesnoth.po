@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-04 17:06+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2020-12-22 14:30+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [multiplayer_side]: id=Custom
 #: data/_main.cfg:22
@@ -236,7 +237,6 @@ msgid ""
 "option must also be enabled when creating a game for this to work."
 msgstr ""
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:365
@@ -251,7 +251,6 @@ msgstr "otrávený"
 msgid "Gold carryover:"
 msgstr "Přenesené zlato:"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [note]
 #. [lua]: generate_objectives
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:248
@@ -287,7 +286,7 @@ msgstr ""
 #. [lua]: wct_map_2a_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/2A_Springs.lua:182
 msgid "water^Springs"
-msgstr ""
+msgstr "water^Prameniště"
 
 #. [lua]: world_conquest_tek_map_decoration_2c
 #: data/campaigns/World_Conquest/lua/map/postgeneration/2C_Glaciers.lua:206
@@ -296,22 +295,18 @@ msgstr ""
 
 #. [lua]: wct_map_2d_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/2D_Provinces.lua:164
-#, fuzzy
-#| msgid "Preferences"
 msgid "Provinces"
-msgstr "Nastavení"
+msgstr "Provincie"
 
 #. [lua]: wct_map_2f_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/2F_Clayey.lua:126
-#, fuzzy
-#| msgid "Players"
 msgid "Clayey"
-msgstr "Hráči"
+msgstr "Jílovitá zem"
 
 #. [lua]: wct_map_3c_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/3C_Delta.lua:395
 msgid "river^Delta"
-msgstr ""
+msgstr "Delta"
 
 #. [lua]: world_conquest_tek_map_repaint_3d
 #: data/campaigns/World_Conquest/lua/map/postgeneration/3D_Sulfurous.lua:61
@@ -321,14 +316,12 @@ msgstr ""
 #. [lua]: wct_map_3e_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/3E_Coral.lua:78
 msgid "made of^Coral"
-msgstr ""
+msgstr "Korál"
 
 #. [lua]: wct_map_4a_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/4A_Thermal.lua:199
-#, fuzzy
-#| msgid "Normal"
 msgid "Thermal"
-msgstr "Normální"
+msgstr "Termální"
 
 #. [lua]: world_conquest_tek_map_repaint_4b
 #: data/campaigns/World_Conquest/lua/map/postgeneration/4B_Volcanic.lua:414
@@ -338,7 +331,7 @@ msgstr ""
 #. [lua]: wct_map_4d_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/4D_Podzol.lua:134
 msgid "Podzol"
-msgstr ""
+msgstr "Podzol"
 
 #. [lua]: wct_map_4e_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/4E_Wicked.lua:643
@@ -397,10 +390,8 @@ msgstr ""
 
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:596
-#, fuzzy
-#| msgid "XP to advance"
 msgid "$value| XP to advance"
-msgstr "zkušenostních bodů k postupu"
+msgstr "$value| zkušenostních bodů k postupu"
 
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:620
@@ -516,9 +507,6 @@ msgid "melee"
 msgstr "zblízka"
 
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:192
-#, fuzzy
-#| msgid "move"
-#| msgid_plural "moves"
 msgid "moves"
 msgstr "kroků"
 
@@ -3826,7 +3814,6 @@ msgstr "Jeskyně"
 msgid "Fungus"
 msgstr "Houby"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 #: data/core/team-colors.cfg:188 src/terrain/terrain.cpp:187
 msgid "Village"
@@ -3857,13 +3844,11 @@ msgstr "Neschůdný"
 msgid "Impassable"
 msgstr "Neschůdný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 #: data/core/team-colors.cfg:224 src/game_initialization/lobby_data.cpp:449
 msgid "Fog"
 msgstr "Mlha"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 #: data/core/team-colors.cfg:230 src/game_initialization/lobby_data.cpp:452
 #: src/game_initialization/lobby_data.cpp:455
@@ -4143,7 +4128,6 @@ msgstr "Ano"
 msgid "No"
 msgstr "Ne"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/screenshot_notification.cfg:95
 #: src/hotkey/command_executor.cpp:632
@@ -4184,31 +4168,26 @@ msgstr ""
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "Neplatná úroveň zastarání (měla by být 1-4)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:1075
 msgid "female^poisoned"
 msgstr "otrávená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1082
 msgid "female^slowed"
 msgstr "zpomalená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1082
 msgid "slowed"
 msgstr "zpomalený"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1088
 msgid "female^petrified"
 msgstr "zkamenělá"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1088
 msgid "petrified"
@@ -4224,14 +4203,12 @@ msgstr "neléčitelná"
 msgid "unhealable"
 msgstr "neléčitelný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 #: data/lua/wml/message.lua:433 src/scripting/game_lua_kernel.cpp:2897
 #: src/scripting/game_lua_kernel.cpp:2932
 msgid "input"
 msgstr "vstup"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:36 src/game_initialization/mp_game_utils.cpp:74
 msgid "Victory:"
@@ -4264,15 +4241,13 @@ msgstr "Povýšení:"
 
 #. [leadership]: id=magical_leadership
 #: data/scenario-test.cfg:339
-#, fuzzy
-#| msgid "Leadership"
 msgid "magical leadership"
-msgstr "velení"
+msgstr "magické velení"
 
 #. [leadership]: id=magical_leadership
 #: data/scenario-test.cfg:340
 msgid "female^magical leadership"
-msgstr ""
+msgstr "magické velení"
 
 #. [leadership]: id=magical_leadership
 #: data/scenario-test.cfg:341
@@ -4284,6 +4259,12 @@ msgid ""
 "Leadership engages in combat, its attacks do 25% more damage times the "
 "difference in their levels."
 msgstr ""
+"Tato jednotka dokáže vést vlastní jednotky vedle sebe, takže bojují lépe "
+"magickými útoky.\n"
+"Vlastní jednotky nižší úrovně na sousedících polích způsobují v boji větší "
+"poškození. Když se sousedící jednotka nižší úrovně nachází v boji na stejné "
+"straně jako ta velící, pak její útoky způsobují o 25 % více poškození krát "
+"rozdíl jejich úrovní."
 
 #. [resistance]: id=melee_steadfast
 #: data/scenario-test.cfg:366
@@ -4307,7 +4288,7 @@ msgstr ""
 #. [plague]: id=plague, type=Walking Corpse
 #: data/scenario-test.cfg:403
 msgid "plague"
-msgstr ""
+msgstr "nákaza"
 
 #. [plague]: id=plague, type=Walking Corpse
 #: data/scenario-test.cfg:404
@@ -4316,6 +4297,9 @@ msgid ""
 "Walking Corpse on the same side as the unit with the Plague attack. This "
 "doesn’t work on Undead or units in villages."
 msgstr ""
+"Když je jednotka zabita morovou ranou, je nahrazena chodící mrtvolou, "
+"patřící však na stranu jednotky, která ji zabila. Toto nefunguje u nemrtvých "
+"či jednotek umístěných ve vesnicích."
 
 #. [firststrike]: id=initiative
 #: data/scenario-test.cfg:465
@@ -4330,6 +4314,8 @@ msgid ""
 "All adjacent friendly units will strike first in melee combat, even when "
 "defending."
 msgstr ""
+"Všechny sousedící spřátelené jednotky zaútočí při boji zblízka jako první, a "
+"to i tehdy, když se brání."
 
 #. [chance_to_hit]: id=marksman_leadership
 #: data/scenario-test.cfg:478
@@ -4796,13 +4782,6 @@ msgstr ""
 
 #. [tip]
 #: data/tips.cfg:76
-#, fuzzy
-#| msgid ""
-#| "Poisoned units will lose eight hitpoints every turn until they are one "
-#| "point from dying. They will then remain at death’s door until the poison "
-#| "is removed. Healers can prevent a poisoned unit from deteriorating, but "
-#| "the poison will not be removed unless the unit regenerates, or begins a "
-#| "turn in a village or next to a unit with the <i>Cures</i> ability."
 msgid ""
 "Poisoned units will lose eight hitpoints every turn until they are one point "
 "from dying. They will then remain at death’s door until the poison is "
@@ -4813,8 +4792,8 @@ msgstr ""
 "Otrávené jednotky ztrácejí každé kolo osm bodů života, dokud jim nezbude "
 "jeden jediný. Pak zůstanou na prahu smrti až do doby, než jsou uzdraveny. "
 "Léčitelé mohou pozdržet účinky jedu, ale jed odstraní pouze schopnost "
-"<i>regenerace</i>, pobyt na začátku kola ve vesnici nebo vedle jednotky se "
-"schopností <i>uzdravování</i>."
+"<i>regenerace</i>, pobyt na začátku kola ve vesnici, v oáze nebo vedle "
+"jednotky se schopností <i>uzdravování</i>."
 
 #. [tip]
 #: data/tips.cfg:80
@@ -5233,12 +5212,6 @@ msgstr ""
 
 #. [tip]
 #: data/tips.cfg:221
-#, fuzzy
-#| msgid ""
-#| "Try to operate units with a small number of powerful attacks—such as Dark "
-#| "Adepts, Horsemen, Orcish Grunts or Dwarvish Thunderers—in pairs or "
-#| "threes. This gives you another try whenever your first devastating attack "
-#| "misses — as inevitably happens from time to time."
 msgid ""
 "Try to operate units with a small number of powerful attacks — such as Dark "
 "Adepts, Horsemen, Orcish Grunts or Dwarvish Thunderers — in pairs or threes. "
@@ -5247,17 +5220,11 @@ msgid ""
 msgstr ""
 "Pokus se používat jednotky s malým počtem silných útoků (např. temné "
 "učedníky, jezdce, skřetí pěšáky nebo trpasličí hromovládce) ve skupinkách po "
-"dvou či po třech. Takto je k dispozici další pokus, pokud první útok "
-"selže... což se běžně stává."
+"dvou či po třech. Tak budeš mít k dispozici další pokus, pokud první útok "
+"selže..., což se běžně stává."
 
 #. [tip]
 #: data/tips.cfg:225
-#, fuzzy
-#| msgid ""
-#| "Units with three or more attacks—especially magical attacks—are ideal for "
-#| "finishing off enemies with only a few hitpoints remaining. Be sure to use "
-#| "leadership—or a strong or dextrous unit—whenever the extra point or two "
-#| "of damage makes a one-hit kill possible."
 msgid ""
 "Units with three or more attacks — especially magical attacks — are ideal "
 "for finishing off enemies with only a few hitpoints remaining. Be sure to "
@@ -5266,7 +5233,7 @@ msgid ""
 msgstr ""
 "Jednotky se třemi nebo více útoky, zejména magickými, jsou vhodné pro "
 "dorážku nepřátel s pouhými několika životy. Pokud to umožní zabití jediným "
-"úderem, používej velení nebo silnou či obratnou jednotku."
+"úderem, využij shopnost velení nebo použij silnou či obratnou jednotku."
 
 #. [tip]
 #: data/tips.cfg:229
@@ -5419,6 +5386,9 @@ msgid ""
 "Select the <i>Change difficulty</i> option at the bottom of the <i>Load "
 "Game</i> screen when loading start-of-scenario save files."
 msgstr ""
+"Víš, že můžeš změnit úroveň obtížnosti kampaně během hraní? Uděláš to tak, "
+"že ve spodní části obrazovky <i>Načíst hru</i> vybereš při načítání souborů "
+"uložení začátků scénářů možnost <i>Změnit obtížnost</i>."
 
 #. [tip]
 #: data/tips.cfg:281
@@ -5864,10 +5834,8 @@ msgid "Invalid upload pack."
 msgstr "Neplatná lokace"
 
 #: src/addon/validation.cpp:477
-#, fuzzy
-#| msgid "Invalid tag name"
 msgid "Invalid add-on name."
-msgstr "Neplatný název značky"
+msgstr "Neplatný název rozšíření."
 
 #: src/addon/validation.cpp:481
 msgid "Formatting character in add-on name."
@@ -5920,7 +5888,6 @@ msgstr ""
 msgid "No add-on version specified."
 msgstr ""
 
-# v nápovědě podrobnosti jednotky když k ní není žádný text
 #: src/addon/validation.cpp:522
 #, fuzzy
 #| msgid "No description available."
@@ -8185,10 +8152,8 @@ msgid "Remaining: $left/$max"
 msgstr ""
 
 #: src/reports.cpp:1128
-#, fuzzy
-#| msgid "This is not a multiplayer save."
 msgid "This unit can attack multiple times per turn."
-msgstr "Toto není uložená pozice ze hry více hráčů."
+msgstr "Tato jednotka může zaútočit několikrát za kolo."
 
 #: src/reports.cpp:1220
 msgid "Time of day schedule:"
