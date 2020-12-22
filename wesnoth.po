@@ -4315,7 +4315,7 @@ msgid ""
 "defending."
 msgstr ""
 "Všechny sousedící spřátelené jednotky zaútočí při boji zblízka jako první, a "
-"to tehdy, když se brání."
+"to i tehdy, když se brání."
 
 #. [chance_to_hit]: id=marksman_leadership
 #: data/scenario-test.cfg:478
