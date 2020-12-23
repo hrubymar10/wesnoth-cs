@@ -19,15 +19,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-22 14:28+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2020-12-23 19:08+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -1829,8 +1828,8 @@ msgstr ""
 "\n"
 "Tažení jsou seskupena podle <italic>text='úrovně'</italic> "
 "a <italic>text='obtížnosti'</italic>. Například <italic>text='Dědic trůnu'</"
-"italic> je úrovně ‚nováček‘ a je hratelný na tři obtížnosti: ‚začátečník‘, "
-"‚normální‘ a ‚nelehká‘. Úroveň tažení naznačuje, jaká je předpokládána "
+"italic> je úrovně „nováček“ a je hratelný na tři obtížnosti: „začátečník“, "
+"„normální“ a „nelehká“. Úroveň tažení naznačuje, jaká je předpokládána "
 "zběhlost v herních mechanikách (jako například <ref>dst='movement' "
 "text='oblasti kontroly'</ref> a <ref>dst='time_of_day' text='denní doba'</"
 "ref>). Obtížnost ukazuje, jak budou scénáře náročné pro ostříleného hráče: "
@@ -2372,16 +2371,8 @@ msgstr ""
 
 #. [topic]: id=shroud_and_fog
 #: data/core/help.cfg:282
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "<header>text='Multiplayer Eras and Factions'</header>"
 msgid "<header>text='Multiplayer and undo'</header>"
-msgstr ""
-"\n"
-"\n"
-"<header>text='Éry a frakce pro hru více hráčů'</header>"
+msgstr "<header>text='Hra více hráčů a vracení tahů'</header>"
 
 #. [topic]: id=shroud_and_fog
 #: data/core/help.cfg:284
@@ -2393,6 +2384,12 @@ msgid ""
 "move. Chat messages and map labels are sent immediately, however they don’t "
 "cause the undoable moves to be sent."
 msgstr ""
+"Ve hrách více hráčů nelze vrátit tahy, které byly poslány po síti. Hra "
+"odkládá posílání dat ve snaze zachovat ti možnost vrácení tahu. Když "
+"debatuješ se spoluhráči, měj na paměti, že ostatní hráči obvykle vidí snímek "
+"z času posledního boje nebo tahu, který odhalil mlhu. Zprávy rozhovorů "
+"a popisky map se posílají hned, nicméně ty nezpůsobují posílání nevratných "
+"tahů."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:291
