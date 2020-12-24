@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:31-0300\n"
-"PO-Revision-Date: 2020-12-06 19:19+0100\n"
+"PO-Revision-Date: 2020-12-24 10:05+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -4972,32 +4972,32 @@ msgstr "Uložit"
 #. [label]
 #: data/gui/window/select_orb_colors.cfg:80
 msgid "Choose Orb/Minimap Colors"
-msgstr "Vyberte barvy orbů/minimapy"
+msgstr "Vyber barvy koulí a do minimapy"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:84
 msgid "Show unmoved orb"
-msgstr "Zobrazuj neposunutý orb"
+msgstr "Zobrazit kouli neposunutých"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:85
 msgid "Show partial moved orb"
-msgstr "Zobrazuj částečný orb pohybu"
+msgstr "Zobrazit kouli částečně posunutých"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:86
 msgid "Show moved orb"
-msgstr "Zobrazuj orb pohybu"
+msgstr "Zobrazit kouli posunutých"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:87
 msgid "Show ally orb"
-msgstr "Zobrazuj spřátelený orb"
+msgstr "Zobrazit kouli spojenců"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:88
 msgid "Show enemy orb"
-msgstr "Zobrazuj nepřátelský orb"
+msgstr "Zobrazit kouli nepřátel"
 
 #. [label]
 #: data/gui/window/sp_options_configure.cfg:44
