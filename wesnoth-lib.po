@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-24 10:09+0100\n"
+"PO-Revision-Date: 2020-12-24 10:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5162,7 +5162,7 @@ msgstr "Procházet screenshoty ve správci souborů"
 #. [label]
 #: data/gui/window/select_orb_colors.cfg:80
 msgid "Choose Orb/Minimap Colors"
-msgstr "Vyber barvy koulí a do minimapy"
+msgstr "Vybrat barvy koulí a do minimapy"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:84
