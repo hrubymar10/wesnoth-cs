@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-22 20:36+0100\n"
+"PO-Revision-Date: 2020-12-24 08:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -183,7 +183,7 @@ msgstr "Použít barevné kurzory"
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:144
 msgid "Customize orb colors"
-msgstr "Vybrat barvy orbů"
+msgstr "Upravit barvy koulí"
 
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:150

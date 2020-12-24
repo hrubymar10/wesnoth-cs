@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-23 19:08+0100\n"
+"PO-Revision-Date: 2020-12-24 09:21+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2971,7 +2971,7 @@ msgstr ""
 #. [topic]: id=orbs
 #: data/core/help.cfg:382
 msgid "Orbs and ellipses"
-msgstr ""
+msgstr "Koule a elipsy"
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:383
@@ -2979,28 +2979,29 @@ msgid ""
 "There are colored indicators above the energy bars of some units, consisting "
 "of a colored orb (and sometimes a <ref>dst='crowns' text='crown'</ref>)."
 msgstr ""
+"Nad proužky síly některých jednotek jsou barevné ukazatele, které se "
+"skládají z barevné koule (a někdy z <ref>dst='crowns' text='koruny'</ref>)."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:387
 msgid "The orbs show whether the unit can move, and the standard colors are:"
 msgstr ""
+"Koule ukazují, jestli se jednotka může pohnout, a jejich obvyklé barvy jsou:"
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:388
-#, fuzzy
-#| msgid " green if it hasn’t moved this turn,"
 msgid "• <bold>text='Green'</bold> if it hasn’t moved this turn."
-msgstr " zelená, pokud se jednotka tento tah nepřesunula,"
+msgstr ""
+"• <bold>text='Zelená'</bold>, pokud se jednotka v tomto kole nepřesunula."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:389
-#, fuzzy
-#| msgid " yellow if it has moved, but could still move further or attack, or"
 msgid ""
 "• <bold>text='Yellow'</bold> if it has moved, but could still move further "
 "or attack."
 msgstr ""
-" žlutá, pokud se přesunula, ale ještě se může posunout dál nebo útočit nebo"
+"• <bold>text='Žlutá'</bold>, pokud se přesunula, ale ještě se může posunout "
+"dál nebo útočit."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:390
@@ -3010,6 +3011,10 @@ msgid ""
 "in the middle of a multi-turn move (has been told to move further than it "
 "can in the current turn)."
 msgstr ""
+"• <bold>text='Červená'</bold>, pokud už se nemůže pohybovat nebo bojovat.\n"
+"    • Červená je také použita po příkazu „ukonči kolo jednotky“, a když je "
+"jednotka uprostřed tahu přes více kol (bylo jí přikázáno, aby se posunula "
+"dál, než může v současném kole)."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:392
@@ -3019,6 +3024,11 @@ msgid ""
 "moves, and the corresponding orb changes, are delayed as explained in "
 "<ref>dst='shroud_and_fog' text='Shroud and Fog of War'</ref>."
 msgstr ""
+"• <bold>text='Modrá'</bold> pro spojenecké jednotky. Během vlastního kola "
+"spojenců se jejich jednotky budou zobrazovat se zelenými, žlutýmy "
+"a červenými barvami, nicméně jejich tahy a odpovídající změny koulí jsou "
+"pozdrženy, jak je vysvětleno v <ref>dst='shroud_and_fog' text='zahalení tmou "
+"a mlha'</ref>."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:393
@@ -3026,19 +3036,13 @@ msgid ""
 "• Enemy units normally don’t have orbs, however these can be enabled in the "
 "advanced preference “Customize orb colors”."
 msgstr ""
+"Nepřátelské jednotky koule obyčejně nemají, ale lze je zapnout v pokročilém "
+"nastavení „Upravit barvy koulí“."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:395
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "<header>text='Cores'</header>"
 msgid "<header>text='Ellipses'</header>"
-msgstr ""
-"\n"
-"\n"
-"<header>text='Jádra'</header>"
+msgstr "<header>text='Elipsy'</header>"
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:398
@@ -3046,6 +3050,8 @@ msgid ""
 "A team-colored shape is drawn on the ground under each unit. This is called "
 "the “ellipse”, although some units’ ellipses are not elliptical."
 msgstr ""
+"Na zemi pod každou jednotkou je vykreslen tvar v barvě týmu. Říká se mu "
+"„elipsa“, i když elipsy některých jednotek nejsou oválné."
 
 #. [topic]: id=orbs
 #. The help page has a set of images above this paragraph, in the same order as the bullet points
@@ -3060,6 +3066,15 @@ msgid ""
 "• Some campaigns start with a level zero leader. Able to recruit but lacking "
 "a ZoC, these units have a broken outline version of the seven-pointed star."
 msgstr ""
+"• Většina jednotek má elipsu kulatou.\n"
+"• Jednotky, které mohou verbovat, mají sedmicípou hvězdu.\n"
+"• <ref>dst='crowns' text='Jednotky hrdinů'</ref> mají sedmicípou hvězdu "
+"menší. Tyto jednotky verbovat nemohou.\n"
+"• Jednotky bez <ref>dst='movement' text='oblasti kontroly'</ref> mají obrys "
+"tvaru přerušovaný.\n"
+"• Některá tažení začínají s velitelem na úrovni nula. Tyto jednotky mohou "
+"verbovat, ale postrádají oblast kontroly, takže mají přerušovaný obrys "
+"sedmicípé hvězdy."
 
 #. [topic]: id=crowns
 #: data/core/help.cfg:420
