@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-24 09:21+0100\n"
+"PO-Revision-Date: 2020-12-25 08:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3079,7 +3079,7 @@ msgstr ""
 #. [topic]: id=crowns
 #: data/core/help.cfg:420
 msgid "Crowns and loyal markers"
-msgstr ""
+msgstr "Koruny a známky věrnosti"
 
 #. [topic]: id=crowns
 #: data/core/help.cfg:421
@@ -3088,6 +3088,9 @@ msgid ""
 "text='orb'</ref>, and a corresponding shape to their <ref>dst='orbs' "
 "text='ellipses'</ref>:"
 msgstr ""
+"Některé jednotky mají na své <ref>dst='orbs' text='kouli'</ref> přidanou "
+"další značku a k tomu odpovídající tvar své <ref>dst='orbs' text='elipsy'</"
+"ref>:"
 
 #. [topic]: id=crowns
 #. The help page has a set of images above this paragraph, in the same order as the first set of bullet points, showing what the "loyal icon" is and the difference between "silver" and "blueish-silver".
@@ -3113,6 +3116,26 @@ msgid ""
 "campaign, assuming it doesn’t end immediately.\n"
 "• These units will never occur as random recruits."
 msgstr ""
+"• Vůdci jsou znázorněni se <bold>text='zlatou korunou'</bold>.\n"
+"• Hrdinové mají <bold>text='korunu modrostříbrnou'</bold>.\n"
+"• Postradatelní vůdci jsou zobrazeni s <bold>text='korunou stříbrnou'</"
+"bold>.\n"
+"• <ref>dst='traits_loyal' text='Věrné jednotky'</ref> mají "
+"<bold>text='značku věrných'</bold>.\n"
+"\n"
+"Z těchto skupin jsou do základních pravidel hry zabudováni pouze vůdci. Ti "
+"ostatní se nacházejí v taženích a jsou to postavy, které tvoří část "
+"vyprávění. Přesná pravidla pro ně jsou stanovena v jejich tažení a mohou se "
+"lišit od toho, co se od nich obvykle čeká:\n"
+"\n"
+"• Smrt kteréhokoli hrdiny vede k okamžité porážce.\n"
+"• Smrt postradatelného vůdce k okamžité porážce nevede, přestože tito mohou "
+"verbovat.\n"
+"• Všechny tyto jednotky mají hlavní výhodu vlastnosti věrný, a to že jejich "
+"údržba nic nestojí.\n"
+"• Ztráta jakékoliv této jednotky způsobí po zbytek tažení znevýhodnění za "
+"předpokladu, že tažení ihned neskončí.\n"
+"• Tyto jednotky se při náhodném verbování nikdy nevyskytnou."
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:454
