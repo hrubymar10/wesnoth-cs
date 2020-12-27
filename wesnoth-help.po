@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:31-0300\n"
-"PO-Revision-Date: 2020-12-26 13:55+0100\n"
+"PO-Revision-Date: 2020-12-27 11:08+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2011,7 +2011,7 @@ msgstr ""
 #. [topic]: id=saveload
 #: data/core/help.cfg:290
 msgid "Save-loading"
-msgstr ""
+msgstr "Opakované nahrávání"
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:291
@@ -2024,6 +2024,13 @@ msgid ""
 "<italic>text='expect'</italic> one of them to die about every 20 turns. So, "
 "you’ll rarely make it through a scenario without having it happen."
 msgstr ""
+"\n"
+"\n"
+"Jedna z výzev této hry je přijít na to, jak chránit své hrdiny. Malá rizika "
+"se rychle nastřádají. Když máš pět důležitých jednotek a každá z nich má "
+"v každém kole jen 1% šanci zemřít, můžeš <italic>text='očekávat'</italic>, "
+"že jedna z nich zemře přibližně každých 20 kol. Takže dokázat, aby se to "
+"během celého scénáře nestalo, se ti může podařit jen zřídka."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:291
@@ -2036,6 +2043,14 @@ msgid ""
 "the game, but we recommend against reloading merely to try the same strategy "
 "again while hoping for better luck."
 msgstr ""
+"Náhodná čísla jsou nedílnou součástí Wesnothu, kvůli smůle mohou útoky "
+"selhat a jednotky zemřít. Je to část hry, se kterou se počítá, a jeden "
+"z cílů, který si hra klade, je ten, že dostatečně dovedný hráč by měl být "
+"schopen dokončit všechna hlavní tažení na těžkou obtížnost bez toho, aby "
+"bylo třeba opakovaně nahrávat. Vrátit se k předchozímu kolu a zkusit jinou "
+"strategii je jedním ze způsobů, jak se hru naučit, ale nedoporučujeme "
+"opakovaně nahrávat pouze proto, aby se znovu zkusila stejná strategie "
+"s nadějí na větší štěstí."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:293
@@ -2046,6 +2061,11 @@ msgid ""
 "1.15.x series before 1.16.0 please assume that the forum threads are more "
 "authoritative than the text on this page."
 msgstr ""
+"\n"
+"\n"
+"Následující body jsou předmětem debat na fórech. Alespoň pro řadu 1.15.x "
+"před 1.16.0 prosím přepokládej, že vlákna diskusí na fórech jsou "
+"směrodatnější než text na této stránce."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:295
@@ -2061,6 +2081,15 @@ msgid ""
 "• There are more experience points available than on easy, and the player "
 "will be able to train enough troops to cope with losing some L2 or L3 units."
 msgstr ""
+"\n"
+"\n"
+"V hlavních taženích na těžkou obtížnost:\n"
+"• Dostatečně dovedný hráč bude mít slušnou možnost vyhrát napoprvé každý "
+"scénář bez toho, aby dopředu věděl, co se stane.\n"
+"• To předpokládá, že hráč zachytí všechny nápovědy obsažené v rozhovoru.\n"
+"• Je více bodů zkušenosti k mání než na jednoduchou obtížnost a hráč bude "
+"schopen vycvičit dost oddílů na to, aby se vypořádal se ztrátou několika "
+"jednotek druhé nebo třetí úrovně."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:300
@@ -2070,6 +2099,10 @@ msgid ""
 "That said, it’s a game; the best way to play it is whichever way gives you "
 "the most enjoyment."
 msgstr ""
+"\n"
+"\n"
+"Jinak řečeno, je to hra. Nejlepší způsob, jak ji hrát, je ten, ze kterého "
+"máš největší radost."
 
 #. [topic]: id=whylost
 #: data/core/help.cfg:307
