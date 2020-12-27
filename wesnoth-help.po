@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-26 13:38+0100\n"
+"PO-Revision-Date: 2020-12-27 09:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2394,7 +2394,7 @@ msgstr ""
 #. [topic]: id=saveload
 #: data/core/help.cfg:291
 msgid "Save-loading"
-msgstr ""
+msgstr "Opakované nahrávání"
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:292
@@ -2405,6 +2405,11 @@ msgid ""
 "recommend against reloading merely to try the same strategy again while "
 "hoping for better luck."
 msgstr ""
+"Náhodná čísla jsou nedílnou součástí Wesnothu, kvůli smůle mohou útoky "
+"selhat a jednotky zemřít – je to část hry, se kterou se počítá. Vrátit se "
+"k předchozímu kolu a zkusit jinou strategii je jedním ze způsobů, jak se hru "
+"naučit, ale nedoporučujeme opakovaně nahrávat pouze proto, aby se znovu "
+"zkusila stejná strategie s nadějí na větší štěstí."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:294
@@ -2415,6 +2420,11 @@ msgid ""
 "<italic>text='expect'</italic> one of them to die about every 20 turns. So, "
 "you’ll rarely make it through a scenario without having it happen."
 msgstr ""
+"Jedna z výzev této hry je přijít na to, jak chránit své hrdiny. Malá rizika "
+"se rychle nastřádají. Když máš pět důležitých jednotek a každá z nich má "
+"v každém kole jen 1% šanci zemřít, můžeš <italic>text='očekávat'</italic>, "
+"že jedna z nich zemře přibližně každých 20 kol. Takže dokázat, aby se to "
+"během celého scénáře nestalo, se ti může podařit jen zřídka."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:297
@@ -2426,6 +2436,13 @@ msgid ""
 "them in future scenarios. Your battle plan should distribute the risks based "
 "on which troops you want to recall later."
 msgstr ""
+"Malá rizika se nastřádají i pro obyčejné jednotky. Přestože se příběh "
+"a rozhovory obvykle snaží o to, aby sis se svými jednotkami vytvořil(a) "
+"nějakou citovou vazbu, herní mechanika odměňuje toho, kdo nezapomíná, že jde "
+"jen o hru – jen zřídka je za to, když necháš tyto jednotky zemřít, postih "
+"větší než ten, že je nebude možné v následujících scénářích znovu povolat. "
+"Tvé bitevní plány by měly rozložit rizika na základě toho, které oddíly "
+"chceš později znovu povolat."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:299
@@ -2436,6 +2453,11 @@ msgid ""
 "assuming that the player will be able to train enough troops to cope with "
 "losing some level two or level three units."
 msgstr ""
+"Úrovně obtížnosti jsou vyváženy za předpokladu, že hráč nebude opakovaně "
+"nahrávat. V hlavních taženích mají vyšší obtížnosti celkově více nepřátel "
+"tudíž i více bodů zkušenosti k mání. To vede k tomu, že jsou vyvážené "
+"v případě, když je hráč schopen vycvičit dost oddílů na to, aby se vypořádal "
+"se ztrátou několika jednotek druhé nebo třetí úrovně."
 
 #. [topic]: id=saveload
 #: data/core/help.cfg:301
@@ -2443,6 +2465,8 @@ msgid ""
 "That said, it’s a game; the best way to play it is whichever way gives you "
 "the most enjoyment."
 msgstr ""
+"Jinak řečeno, je to hra. Nejlepší způsob, jak ji hrát, je ten, ze kterého "
+"máš největší radost."
 
 #. [topic]: id=whylost
 #: data/core/help.cfg:308
