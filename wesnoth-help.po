@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2020-12-27 11:22+0100\n"
+"PO-Revision-Date: 2020-12-27 14:21+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -104,17 +104,13 @@ msgstr ""
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:62
-#, fuzzy
-#| msgid "heals +4"
 msgid "heals +12"
-msgstr "ošetření"
+msgstr "léčí +12"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:63
-#, fuzzy
-#| msgid "female^heals +4"
 msgid "female^heals +12"
-msgstr "ošetření"
+msgstr "léčí +12"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:64
@@ -4564,17 +4560,13 @@ msgstr ""
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:83
-#, fuzzy
-#| msgid "regenerates"
 msgid "regenerates +4"
-msgstr "regenerace"
+msgstr "obnovuje +4"
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:84
-#, fuzzy
-#| msgid "female^regenerates"
 msgid "female^regenerates +4"
-msgstr "regenerace"
+msgstr "obnovuje +4"
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:85
