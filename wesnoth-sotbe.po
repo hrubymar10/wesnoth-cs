@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-12-22 08:35+0100\n"
+"PO-Revision-Date: 2020-12-29 10:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2965,14 +2965,14 @@ msgid ""
 "It is now time to show them who we are and to lead the Great Horde in "
 "pursuit. We will not rest until we destroy Earl Lanbec’h. Smite, stab, slay!"
 msgstr ""
-"Je načase jim ukázat, kdo je tu pánem a vyslat Velkou hordu, aby je "
-"pronásledovala. Nespočineme, dokud nezničíme hraběte Lanbec’ha. Bodnout, "
-"Udeřit, Zabít!"
+"Je načase jim ukázat, kdo je tu pánem, a vyslat Velkou hordu, aby je "
+"pronásledovala. Nespočineme, dokud nezničíme hraběte Lanbec’ha. Udeřit, "
+"bodnout, zabít!"
 
 #. [scenario]: id=12_Giving_Some_Back
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:5
 msgid "Giving Some Back"
-msgstr "Splácení účtů."
+msgstr "Splácení účtů"
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:33
@@ -3026,7 +3026,7 @@ msgid ""
 "Riders were dispatched in all directions to gather intelligence and to "
 "pinpoint the exact location of the hostile forces."
 msgstr ""
-"Jezdi byli vysláni do všech směrů, aby shromáždili informace a určili "
+"Do všech směrů byli vysláni jezdci, aby shromáždili informace a určili "
 "přesnou pozici nepřátelských jednotek."
 
 #. [part]
@@ -4720,7 +4720,7 @@ msgstr "Flar’Tar"
 #. [note]
 #: data/campaigns/Son_Of_The_Black_Eye/utils/utils.cfg:101
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
-msgstr "Velká horda: žold za každou jednotku snížen o jeden zlatý."
+msgstr "Velká horda: cena za údržbu každé jednotky snížena o jeden zlatý."
 
 #~ msgid ""
 #~ "In this scenario, you may ask Grüü to move to any hex by right-clicking "
