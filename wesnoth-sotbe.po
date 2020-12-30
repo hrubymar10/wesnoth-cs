@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-19 01:31 UTC\n"
-"PO-Revision-Date: 2020-12-29 11:03+0100\n"
+"PO-Revision-Date: 2020-12-30 20:54+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3133,8 +3133,8 @@ msgid ""
 "After conquering and occupying Dorest, Kapou’e and his men set themselves to "
 "stabilizing the area and bringing it firmly under the iron-hard orcish rule."
 msgstr ""
-"Po dobytí a zabrání Dorestu, Kapou’e a jeho muži stabilizovali oblast a "
-"pevně ji přivedli pod železnou vládu skřetů."
+"Po dobytí a zabrání Dorestu se Kapou’e a jeho muži pustili do zabezpečení "
+"a pevného podmanění oblasti pod vládu železné ruky skřetů."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:109
@@ -3145,10 +3145,10 @@ msgid ""
 "exhaustion — raced into Dorest with the news that Borstep was under siege by "
 "a large force of dwarves, outlaws and elves."
 msgstr ""
-"Po několika týdnech potlačování menších rebelií a čistění zbývajících "
+"Po několika týdnech potlačování menších rebelií a čistění zbývajících "
 "lidských pevností napadl první sníh dlouhé severské zimy. Několik dní poté "
-"gobliní jezdec – napůl mrtev vyčerpáním – přijel do Dorestu se zprávu, že "
-"Borstep se dostal do obležení silami trpaslíků, psanců a elfů."
+"přijel do Dorestu – napůl mrtev vyčerpáním – gobliní jezdec se zprávou, že "
+"Borstep oblehly početné síly trpaslíků, psanců a elfů."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:115
@@ -3173,8 +3173,8 @@ msgid ""
 "of Borstep."
 msgstr ""
 "Kapou’e předpokládal nějakou zradu. Očekával, že lidské útoky budou za tak "
-"krutého počasí minimální a proto v Dorestu nechal jen malou posádku, aby ho "
-"bránila, zatímco on a hlavní část hordy spěchala na pomoc Borstepu."
+"krutého počasí minimální, a proto v Dorestu nechal jen malou posádku, aby ho "
+"bránila, zatímco on a hlavní část hordy spěchala na pomoc Borstepu."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:127
@@ -3185,7 +3185,7 @@ msgid ""
 "crafts, they marched the last leg of their journey through the deepening "
 "snow of the Mourned Hills."
 msgstr ""
-"Spěchajíce, aby dosáhli Borstepu než zamrzne řeka, skřeti se plavili proti "
+"Spěchajíce, aby dosáhli Borstepu než zamrzne řeka, plavili se skřeti proti "
 "proudu řeky Bork. Pádlovali dnem i nocí a jen tak tak se dostali skrze Tichý "
 "les, než řeka dočista zamrzla. Vytáhli plavidla na břeh a začali pochodovat "
 "poslední část cesty prohlubujícím se sněhem Truchlivých vrchů."
@@ -3198,8 +3198,8 @@ msgid ""
 "smashed, houses burnt and its inhabitants driven out or slaughtered. Of the "
 "orcish shamans there was no sign."
 msgstr ""
-"Když minuli poslední kopec před městem, naskytla se jim zoufalá podívaná. Z "
-"Borstepu nic nezbylo. Zdi byly rozbity, domy spáleny a obyvatelé odvedeni "
+"Když minuli poslední kopec před městem, naskytla se jim zoufalá podívaná. "
+"Z Borstepu nic nezbylo. Zdi byly rozbity, domy spáleny a obyvatelé odvedeni "
 "nebo pobiti. Po skřetích šamanech ani stopa."
 
 #. [part]
@@ -3211,11 +3211,10 @@ msgid ""
 "picked up a trail of a large body of dwarves, elves and humans heading east "
 "through the mountains."
 msgstr ""
-"S očima hořícíma obavou a zlostí poslal Kapou’e jezdce prohledat zemi ve "
-"všech směrech, aby našli viníky, zatímco se zbytkem hordy postavil tábor. "
-"Jeden z jezdců se vrátil za pár hodin a hlásil, že nalezl stezku, kterou se "
-"ubíralo velké množství trpaslíků, elfů a lidí cestujících na východ skrz "
-"hory."
+"S očima planoucíma předtuchou a zlostí poslal Kapou’e své jezdce prohledat "
+"zemi křížem krážem, aby našli viníky, zatímco se zbytkem hordy postavil "
+"tábor. O několik hodin později jeden jezdec ohlásil, že narazil na stopu "
+"velké skupiny trpaslíků, elfů a lidí cestujících skrz hory na východ."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:145
@@ -3223,7 +3222,7 @@ msgid ""
 "Breaking camp the following dusk, the horde set out in hot pursuit. By the "
 "third day, they caught up with their enemies."
 msgstr ""
-"Zbourali tábor a za soumraku se jali pronásledovat nepřítele. Třetího dne je "
+"Zbourali tábor a za soumraku se jali pronásledovat nepřátele. Třetího dne je "
 "dostihli."
 
 #. [event]
@@ -3243,12 +3242,12 @@ msgid ""
 "one of their pointless wars against each other."
 msgstr ""
 "Podívejte na ty dvě opuštěné hlásky. Nejspíš je postavili skřeti během jedné "
-"z nesmyslných válek proti sobě navzájem."
+"z nesmyslných válek, které proti sobě navzájem vedli."
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:250
 msgid "Blast it, the orcs have caught up to us."
-msgstr "K četu, skřeti nás objevili."
+msgstr "Zatraceně, skřeti nás dohnali."
 
 #. [message]: speaker=Darstang
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:255
@@ -3257,9 +3256,9 @@ msgid ""
 "than your kind can. Take the orcish prisoners and hurry to Melmog. The "
 "dwarves shall stop this orcish menace!"
 msgstr ""
-"Elfe, náš druh se může pohybovat a bojovat lépe a rychleji v těchto "
-"podmínkách než vy. Vezmi skřetí zajatce a spěchej do Melmogu. Trpaslíci "
-"zastaví tu skřetí hrozbu."
+"Elfe, náš druh se v těchto podmínkách může pohybovat a bojovat lépe "
+"a rychleji než vy. Vezmi skřetí zajatce a spěchej do Melmogu. Trpaslíci tu "
+"skřetí hrozbu zastaví!"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:260
@@ -3267,8 +3266,8 @@ msgid ""
 "Very well, but our human allies will also stay behind and help you. After "
 "all, we are dealing with the Son of the Black-Eye here."
 msgstr ""
-"Dobrá, ale našli lidští spojenci tu zůstanou také a pomohou ti. Jednáme tu "
-"přeci jenom se synem Černého oka."
+"Dobrá, ale naši lidští spojenci tu zůstanou také a pomohou ti. Máme tu "
+"nakonec co dočinění se synem Černého oka."
 
 #. [message]: speaker=Darstang
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:265
@@ -3283,8 +3282,8 @@ msgid ""
 "it’s time to show those orcs our steel!"
 msgstr ""
 "Pff, zbabělí malí elfové. Žádný trpaslík by nikdy nepřijal takovou nabídku. "
-"Dobře, že jsme se jich také zbavili, tihle elfové se jen pletou do cesty. Do "
-"toho chlapi, je na čase ukázat skřetům naši ocel!"
+"Ještě že už jsou pryč, tihle elfové se jen pletou do cesty. Do toho chlapi, "
+"je na čase ukázat skřetům naši ocel!"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:287
@@ -3294,7 +3293,7 @@ msgstr "Ahhh, skvěle. Konečně mám zase šanci rozmačkat nějakého trpaslí
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:293
 msgid "Let’s make them pay for what they did to our people. Blood and steel!"
-msgstr "Přinutíme je zaplatit za to co udělali našim lidem. Krev a ocel!"
+msgstr "Přinutíme je zaplatit za to, co udělali našim lidem. Krev a ocel!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:302
