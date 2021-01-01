@@ -15,14 +15,14 @@
 # Anežka Bubeníčková <masozravapalma@gmail.cz>, 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2020-12-30 20:51+0100\n"
+"PO-Revision-Date: 2021-01-01 15:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3288,7 +3288,7 @@ msgstr "Přinutíme je zaplatit za to, co udělali našim lidem. Krev a ocel!"
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:298
 msgid "Victory! ... Grüü, what <i>is</i> that you are eating?"
-msgstr "Vítězství! ... Grüü, <i>co</i> je to „to“, co jíš?"
+msgstr "Vítězství! ... Grüü, <i>co</i> to jíš?"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:303
@@ -3343,7 +3343,7 @@ msgstr "No, chlapi, jsme doma. Říkal jsem vám, že se jednou vrátíme."
 #. [message]: role=army
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:273
 msgid "Boy, have they ever built this place up."
-msgstr "Hele, podívejte co tu postavili."
+msgstr "Hele, podívejte, co tu postavili."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:279
@@ -3369,9 +3369,9 @@ msgid ""
 "take your trolls and circle around to the Northwest. If all goes well we "
 "shall surround them."
 msgstr ""
-"Moji muži znají dobře tuhle zemi. Flar’Tare a Al’Broku, vemte oba zvědy a "
-"obejděte je ze severovýchodu a z jihovýchodu. Ty, Grüü, vezmi své trolly a "
-"jděte na severozápad. Když všechno půjde dobře, obklíčíme je."
+"Moji muži znají tuhle zemi dobře. Flar’Tare a Al’Broku, oba vemte zvědy "
+"a obejděte to na severovýchod a jihovýchod. Ty, Grüü, vezmi své trolly "
+"a jděte na severozápad. Když všechno půjde dobře, obklíčíme je."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:297
@@ -3403,15 +3403,15 @@ msgid ""
 "Good, everyone move out. I will begin the attack from here. I want everyone "
 "to be in position by first watch at the latest. Is that clear?"
 msgstr ""
-"Dobrá, všichni přesunout. začnu s útokem odtud. Chci mít všechny na pozicích "
-"za první hlídky. Je to jasné?"
+"Dobrá, všichni odchod. Já začnu s útokem odtud. Chci mít všechny na pozicích "
+"nejpozději za první hlídky. Je to jasné?"
 
 #. [message]: speaker=Flar'Tar
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:328
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:699
 msgid "Yes, Chief."
-msgstr "Ano, Náčelníku."
+msgstr "Ano, náčelníku."
 
 #. [message]: speaker=Al'Brock
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:334
