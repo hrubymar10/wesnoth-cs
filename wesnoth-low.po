@@ -11,14 +11,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-21 04:41 UTC\n"
-"PO-Revision-Date: 2020-11-22 10:16+0100\n"
+"PO-Revision-Date: 2021-01-01 19:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1803,12 +1803,12 @@ msgstr ""
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:442
 msgid "Those dwarves must still be protecting our gold — on their land."
-msgstr ""
+msgstr "Ti trpaslíci určitě ještě pořád ochraňují naše zlato – ve své zemi."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:446
 msgid "Yes, it seems we must defend the Kalian alone."
-msgstr ""
+msgstr "Ano, vypadá to, že musíme Kalian bránit sami."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:478
@@ -1821,6 +1821,8 @@ msgid ""
 "You did, we’ve already driven them from the forest. You barely caught up in "
 "time to chase them into the hills."
 msgstr ""
+"To jste si asi mysleli vy, my už je vyhnali z lesa. Dorazili jste jen tak "
+"tak, abyste je stihli pronásledovat do kopců."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:487
@@ -1828,6 +1830,8 @@ msgid ""
 "Diplomacy, Landar. We do need to pursue the orcs into the mountains, and an "
 "army of dwarves will be welcome companions."
 msgstr ""
+"Diplomaticky, Landare. Potřebujeme skřety pronásledovat do hor a vojsko "
+"trpaslíků bude vítanou společností."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:491
