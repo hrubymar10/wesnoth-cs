@@ -12,14 +12,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:31-0300\n"
-"PO-Revision-Date: 2020-12-29 09:11+0100\n"
+"PO-Revision-Date: 2021-01-01 08:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3798,8 +3798,8 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Nastavit stranu jako nečinnou. Host může stranu takto označit po odpojení "
-"daného hráče.\n"
+"Nastaví stranu jako nečinnou. Hostitel může stranu takto označit po "
+"přerušení síťového spojení.\n"
 "\n"
 
 #. [topic]: id=mp_commands
