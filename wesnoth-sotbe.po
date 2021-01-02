@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2021-01-01 20:06+0100\n"
+"PO-Revision-Date: 2021-01-02 10:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3466,20 +3466,20 @@ msgstr "Hloupí trollové. Nikdy se na ně nemůžeš spolehnout."
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:564
 msgid "I’m here, Chief!"
-msgstr "Jsem tady, Náčelníku!"
+msgstr "Jsem tady, náčelníku!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:570
 msgid ""
 "Blood and stone, Grüü! You were supposed to be in position by first watch. "
 "It’s dawn!"
-msgstr ""
-"Do háje, Grüü! Měli jste být na pozici za první hlídky. Teď už je svítání!"
+msgstr "Do háje, Grüü! Měli jste být na pozici za první hlídky. Teď už svítá!"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:576
 msgid "Err, sorry, there were some humans in way. We squash, no problem."
-msgstr "Omlouvám se, zdrželi nás nějací lidé. Rozdrtili jsme je, bez problému."
+msgstr ""
+"Err, promiň, stáli nám v cestě nějací lidé. Rozdrtili jsme je, žádný problém."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:582
