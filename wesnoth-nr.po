@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-19 01:27 UTC\n"
-"PO-Revision-Date: 2021-01-02 13:03+0100\n"
+"PO-Revision-Date: 2021-01-02 13:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1323,7 +1323,7 @@ msgstr ""
 #. [scenario]: id=02_02_Meeting_With_Dwarves
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:5
 msgid "Meeting With Dwarves"
-msgstr "Setkej se s trpaslíky"
+msgstr "Setkání s trpaslíky"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:18
