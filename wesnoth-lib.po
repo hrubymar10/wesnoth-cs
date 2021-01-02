@@ -12,14 +12,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:31-0300\n"
-"PO-Revision-Date: 2020-12-24 10:18+0100\n"
+"PO-Revision-Date: 2021-01-02 18:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -7172,7 +7172,7 @@ msgid ""
 "paint base layer only. Ctrl+click to sample terrain under cursor."
 msgstr ""
 "Použijte levé/pravé tlačítko myši k vykreslení popředí/pozadí povrchu. "
-"Podržte Shift pro kreslení pouze základních vrstev. Ctrl+klinutí pro výběr "
+"Podržte Shift pro kreslení pouze základních vrstev. Ctrl+kliknutí pro výběr "
 "terénu pod kurzorem."
 
 #: src/hotkey/hotkey_command.cpp:193
@@ -7184,8 +7184,8 @@ msgid ""
 "Left mouse button selects or deselects with Ctrl, right brings up a context "
 "menu. Hold Shift for magic-wand selection of tiles with same terrain."
 msgstr ""
-"Levým tlačítkem myči vybírá nebo odebírá s Ctrl, pravé vyvolá kontextové "
-"menu. Podržte Shift pro výběr shodných polířek se stejným terénem pomocí "
+"Levým tlačítkem myši vybírá nebo odebírá s Ctrl, pravé vyvolá kontextové "
+"menu. Podržte Shift pro výběr shodných políček se stejným terénem pomocí "
 "magické hůlky."
 
 #: src/hotkey/hotkey_command.cpp:194
