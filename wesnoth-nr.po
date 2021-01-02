@@ -11,14 +11,14 @@
 # Petr Šlejhar <septim>, 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-19 01:31 UTC\n"
-"PO-Revision-Date: 2020-12-08 23:49+0100\n"
+"PO-Revision-Date: 2021-01-02 13:26+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -6395,19 +6395,14 @@ msgstr "Nikdy! Odmítám vyslovit ta prokletá slova!"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/08b_Ray_of_Hope.cfg:428
-#, fuzzy
-#| msgid ""
-#| "No art in itself is ever evil, my boy; evil or good is in is the use to "
-#| "which it is put. But now is not the time to argue; see how the arms of "
-#| "this creature reach for us! Quickly, we must defeat this creature!"
 msgid ""
 "No art in itself is ever evil, my boy; evil or good is in the use to which "
 "it is put. But now is not the time to argue; see how the arms of this "
 "creature reach for us! Quickly, we must defeat this creature!"
 msgstr ""
-"Chlapče, žádné umění není samo o sobě zlé, spíše to k čemu jej využiješ. Ale "
-"teď není čas na hádky, jen pohleď jak k nám ta stvůra natahuje pracky! "
-"Rychle, musíme ji porazit!"
+"Můj chlapče, žádné umění není samo o sobě zlé. Zlým nebo dobrým se stává "
+"podle toho, k čemu jej využiješ. Ale teď není čas na hádky. Jen pohleď, jak "
+"k nám ta stvůra natahuje paže! Rychle, musíme ji porazit!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/08b_Ray_of_Hope.cfg:434
@@ -7372,13 +7367,6 @@ msgstr "Tím chceš říci, že mám pokračovat v nekromancii?"
 
 #. [message]: speaker=Betrayed Friend
 #: data/campaigns/Northern_Rebirth/scenarios/09b_Judgment.cfg:166
-#, fuzzy
-#| msgid ""
-#| "Even the foulest of weapons can be put to good use, Tallin. Poison "
-#| "generally kills, but it can also be used to heal. In the same way, "
-#| "although this art is usually practiced by the most power-hungry and "
-#| "corrupt, it may still may turned to the ends of good by one with the "
-#| "strength of will and soul-depth you have gained through your suffering."
 msgid ""
 "Even the foulest of weapons can be put to good use, Tallin. Poison generally "
 "kills, but it can also be used to heal. In the same way, although this art "
