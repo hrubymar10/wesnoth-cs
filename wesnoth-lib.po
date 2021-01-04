@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-01-02 18:47+0100\n"
+"PO-Revision-Date: 2021-01-04 22:37+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -709,9 +709,9 @@ msgstr ""
 "obyvatelé jeskyň, jako trpaslíci a trollové, jsou zcela schopni najít "
 "v takovém terénu správný směr.\n"
 "\n"
-"Většina jednotek má ve skalnatých jeskyních obranný bonus okolo 50%, zatímco "
-"jízda je omezena na 40%. Trpaslíci, díky jejich malému vzrůstu, se ve "
-"skalnatých jeskyních těší obraně 60%.\n"
+"Většina jednotek má ve skalnatých jeskyních obranný bonus okolo 50 %, "
+"zatímco jízda je omezena na 40 %. Trpaslíci, díky svému malému vzrůstu, se "
+"ve skalnatých jeskyních těší obraně 60 %.\n"
 "\n"
 "Někdy jsou jeskyně <italic>text='osvětlené'</italic>."
 
@@ -989,7 +989,7 @@ msgstr "Vesnice z nepálených cihel"
 #. [terrain_type]: id=desert_village_ruin
 #: data/core/terrain.cfg:1466
 msgid "Ruined Adobe Village"
-msgstr "Vesnice z nepálených cihel"
+msgstr "Pobořená vesnice z nepálených cihel"
 
 #. [terrain_type]: id=desert_village_tent
 #: data/core/terrain.cfg:1479
@@ -1069,7 +1069,7 @@ msgstr "Zasněžená kamenná vesnice v kopcích"
 #. [terrain_type]: id=hill_village_ruin
 #: data/core/terrain.cfg:1680
 msgid "Ruined Hill Stone Village"
-msgstr "Rozbořená vesnice v kopcích"
+msgstr "Pobořená vesnice v kopcích"
 
 #. [terrain_type]: id=tropical_forest_village
 #: data/core/terrain.cfg:1693
@@ -1167,7 +1167,7 @@ msgstr "Ležení"
 #. [terrain_type]: id=encampment_ruin
 #: data/core/terrain.cfg:1874
 msgid "Ruined Encampment"
-msgstr "Ruiny tábora"
+msgstr "Pobořené ležení"
 
 #. [terrain_type]: id=encampment_snow
 #: data/core/terrain.cfg:1886
@@ -1217,12 +1217,12 @@ msgstr "Zasněžený lidský hrad"
 #. [terrain_type]: id=elven_castle
 #: data/core/terrain.cfg:1945
 msgid "Elven Castle"
-msgstr "Elfský hrad"
+msgstr "Elfí hrad"
 
 #. [terrain_type]: id=elven_castle_ruin
 #: data/core/terrain.cfg:1957
 msgid "Elven Castle Ruin"
-msgstr "Ruiny elfského hradu"
+msgstr "Ruiny elfího hradu"
 
 #. [terrain_type]: id=dwarven_castle
 #: data/core/terrain.cfg:1969
@@ -1236,12 +1236,12 @@ msgstr "Trpasličí hrad"
 #: data/core/terrain.cfg:1980 data/core/terrain.cfg:1992
 #: data/core/terrain.cfg:2005 data/core/terrain.cfg:2030
 msgid "Ruined Castle"
-msgstr "Zřícenina"
+msgstr "Pobořený hrad"
 
 #. [terrain_type]: id=ruin
 #: data/core/terrain.cfg:1981
 msgid "Ruined Human Castle"
-msgstr "Zřícený lidský hrad"
+msgstr "Pobořený lidský hrad"
 
 #. [terrain_type]: id=sunkenruin
 #: data/core/terrain.cfg:1993
@@ -1261,7 +1261,7 @@ msgstr "Pouštní hrad"
 #. [terrain_type]: id=sand_castle_ruin
 #: data/core/terrain.cfg:2031
 msgid "Ruined Desert Castle"
-msgstr "Zřícený pouštní hrad"
+msgstr "Pobořený pouštní hrad"
 
 #. [terrain_type]: id=troll_encampment
 #: data/core/terrain.cfg:2043
@@ -1292,7 +1292,7 @@ msgstr "Tvrz ležení"
 #. [terrain_type]: id=encampment_ruin_keep
 #: data/core/terrain.cfg:2096
 msgid "Ruined Encampment Keep"
-msgstr "Zřícená tvrz ležení"
+msgstr "Pobořená tvrz ležení"
 
 #. [terrain_type]: id=encampment_keep_tall
 #: data/core/terrain.cfg:2109
@@ -1350,7 +1350,7 @@ msgstr "Elfí hradní tvrz"
 #. [terrain_type]: id=elven_keep_ruin
 #: data/core/terrain.cfg:2200
 msgid "Elven Keep Ruin"
-msgstr "Zřícená elfí tvrz"
+msgstr "Zřícenina elfí tvrze"
 
 #. [terrain_type]: id=dwarven_keep
 #: data/core/terrain.cfg:2213
@@ -1364,12 +1364,12 @@ msgstr "Trpasličí hradní tvrz"
 #: data/core/terrain.cfg:2225 data/core/terrain.cfg:2238
 #: data/core/terrain.cfg:2251 data/core/terrain.cfg:2277
 msgid "Ruined Keep"
-msgstr "Zřícená tvrz"
+msgstr "Pobořená tvrz"
 
 #. [terrain_type]: id=ruined_keep
 #: data/core/terrain.cfg:2226
 msgid "Ruined Human Castle Keep"
-msgstr "Tvrz zříceného lidského hradu"
+msgstr "Pobořená lidská hradní tvrz"
 
 #. [terrain_type]: id=sunken_keep
 #: data/core/terrain.cfg:2239
@@ -1389,7 +1389,7 @@ msgstr "Pouštní tvrz"
 #. [terrain_type]: id=desert_keep_ruined
 #: data/core/terrain.cfg:2278
 msgid "Ruined Desert Keep"
-msgstr "Zřícená pouštní tvrz"
+msgstr "Pobořená pouštní tvrz"
 
 #. [terrain_type]: id=merman_campkeep
 #: data/core/terrain.cfg:2291
