@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:37 UTC\n"
-"PO-Revision-Date: 2020-12-04 17:24+0100\n"
+"PO-Revision-Date: 2021-01-04 22:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2090,7 +2090,7 @@ msgstr "Heh. To je překvapení. Mohou nám naši práci ulehčit."
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:446
 msgid "Look in the distance... riders approach!"
-msgstr "Podívejte - v dálce... přijíždějí jezdci!"
+msgstr "Podívejte, tam v dálce... přijíždějí jezdci!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:455
@@ -2179,7 +2179,7 @@ msgstr "Hotovo."
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:676
 msgid "The stronghold of Halstead began to shake..."
-msgstr "Pevnost Halstead se začala třást.."
+msgstr "Pevnost Halstead se začala otřásat..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:681
