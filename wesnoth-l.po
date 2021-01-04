@@ -488,7 +488,7 @@ msgstr "Jasken"
 #. [message]: speaker=Wolmas
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:464
 msgid "What’s happening here? Why be you running like mad, $unit.name|?"
-msgstr "Co se tu děje? Proč utíkáš jako blázen?"
+msgstr "To se podívejme, $unit.name|. Co se tu děje? Proč utíkáš jako blázen?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:468
