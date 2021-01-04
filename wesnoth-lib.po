@@ -7875,7 +7875,7 @@ msgstr "[%I:%M %p]"
 msgid ""
 "A terrain with a string with more than 4 characters has been found, the "
 "affected terrain is:"
-msgstr "Nalezen terén s řetězcem s více než čtyřmi znaky, postižený terén:"
+msgstr "Nalezen terén s řetězcem o více než čtyř znacích, postižený terén:"
 
 #: src/wml_exception.cpp:62
 msgid ""
