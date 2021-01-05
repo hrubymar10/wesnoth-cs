@@ -11,14 +11,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:37 UTC\n"
-"PO-Revision-Date: 2021-01-04 22:20+0100\n"
+"PO-Revision-Date: 2021-01-05 18:49+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2497,16 +2497,16 @@ msgid ""
 "while their banditry has resulted in moderate skill with the short sword."
 msgstr ""
 "Někteří mágové jsou vyloučeni z magických cechů kvůli pokusům provozovat "
-"zapomenutá umění. Když jsou nyní kompletně mimo zákon, tito mágové se snaží "
-"dělat vše nezbytné, aby podpořili své studium černé magie. I když nejsou tak "
-"zkušení jako mágové s klasičtějším výcvikem, jejich magie může být celkem "
-"smrtící, zatímco jejich banditství je zdokonalilo v dovednostech s krátkým "
-"mečem."
+"zakázaná umění. Když nyní stojí kompletně mimo zákon, tak se tito mágové "
+"snaží dělat vše nezbytné, aby podpořili své studium černé magie. I když "
+"nejsou tak kvalifikovaní jako mágové s klasičtějším výcvikem, jejich magie "
+"může být celkem smrtící, zatímco jejich banditství je zdokonalilo v "
+"dovednostech boje s krátkým mečem."
 
 #. [attack]: type=cold
 #: data/campaigns/Liberty/units/Rogue_Mage.cfg:33
 msgid "ice blast"
-msgstr "ledová koule"
+msgstr "ledová střela"
 
 #. [unit_type]: id=Shadow Lord, race=human
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:5
@@ -2523,9 +2523,9 @@ msgid ""
 "they lord over."
 msgstr ""
 "Nemnoho lidí odhalí tajemství světlé i temné magie a udrží si zdravý rozum. "
-"Mistři této rovnováhy se stanou Stínovými Lordy, plně neexistujícími ve "
-"světě světla ani ve světě temnoty. Už nepotřebuji fyzické zbraně a nahánějí "
-"strach svým nepřátelům i těm, kterým vládnou."
+"Mistři této rovnováhy se stanou stínovými lordy, plně neexistujícími ani ve "
+"světě světla, ani ve světě temnoty. Už nepotřebují fyzické zbraně a nahánějí "
+"strach jak svým nepřátelům, tak i těm, kterým vládnou."
 
 #. [attack]: type=blade
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:33
@@ -2541,7 +2541,7 @@ msgstr "stínový blesk"
 #. [attack]: type=impact
 #: data/campaigns/Liberty/units/Shadow_Lord.cfg:56
 msgid "shadow blast"
-msgstr "závan smrti"
+msgstr "stínová střela"
 
 #. [unit_type]: id=Shadow Mage, race=human
 #: data/campaigns/Liberty/units/Shadow_Mage.cfg:5
@@ -2559,12 +2559,12 @@ msgid ""
 "attacks. Despite their offensive power, the corruption in their souls has "
 "begun to adversely affect their health."
 msgstr ""
-"Roky násilí a brutality kvůli podpoře svých studií zavržených magických "
-"umění proměnilo stínové mágy v obávané bojovníky. Plně fascinování mocí, "
-"kterou ovládli, vedou malé skupinky následovníků. Při přímé konfrontaci za "
-"použití kouzel s ostatními mágy jsou v nevýhodě, proto spíše používají "
-"ničivé magické efekty pro posílení fyzických úderů. Navzdory jejich útočné "
-"moci, zkaženost v jejich duších zanechala patřičné následky na jejich zdraví."
+"Roky násilí a brutality propojené se studiem zavržených magických umění "
+"proměnilo stínové mágy v obávané bojovníky. Plně fascinováni mocí, kterou "
+"ovládli, vedou malé skupinky následovníků. V přímé konfrontaci s ostatními "
+"mágy jsou při použití kouzel v nevýhodě, proto spíše používají ničivé "
+"magické efekty pro posílení fyzických úderů. Navzdory jejich útočné moci jim "
+"zkaženost v duších zanechala patřičné následky na zdraví."
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/campaigns/Liberty/units/Skeleton_Rider.cfg:5
@@ -2607,7 +2607,7 @@ msgid ""
 "experienced residents."
 msgstr ""
 "Každá z vesnic rozptýlených po Wesnothu je většinou vedena skupinou "
-"starších, kteří jsou ve vesnici nejmoudřejšími a nejzkušenějšími obyvateli."
+"starších, kteří patří mezi nejmoudřejší a nejzkušenější obyvatele vesnice."
 
 #. [unit_type]: id=Highwayman_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:53
@@ -2623,9 +2623,9 @@ msgid ""
 "as magistrates so that legal and customary authority will coincide."
 msgstr ""
 "Celá vesnice svěřuje vedení vesnickým starším. Silní a moudří starší berou "
-"zodpovědnost za dobrý stav vesnice na svá ramena. Mají ale sklon volit "
-"vesnického stařešinu, který se stane starostou, takže se síla zákona a síla "
-"obyčejů spojí."
+"na svá ramena zodpovědnost za fungování komunity. Často si volí "
+"nejzkušenějšího vesnického stařešinu za starostu, čímž se síla zákona a síla "
+"obyčejů propojí."
 
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:59
@@ -2663,7 +2663,7 @@ msgid ""
 "human and otherwise, that prowl the Wesnoth countryside at night."
 msgstr ""
 "Hlídači jsou muži a ženy, kteří chrání vesnici od nájezdníků, lidských i "
-"jiných, kteří se v noci potulují na všech stranách."
+"jiných, co se v noci potulují po wesnothském venkově."
 
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:123
@@ -2684,7 +2684,7 @@ msgid ""
 "their home ground."
 msgstr ""
 "Příhraniční vesnice udržují domobranu určenou k odrážení nepřátel. I když "
-"nejsou tito pohraničníci trénovaní a vyzbrojení podle vojenských stanov, "
+"nejsou tito pohraničníci trénovaní a vyzbrojení podle vojenských standardů, "
 "jejich přirozená výdrž a znalost místních podmínek je činí na domácí půdě "
 "zdatnými protivníky."
 
@@ -2705,9 +2705,9 @@ msgid ""
 "bring in much of their food supply. Their stealth and intimate knowledge of "
 "local terrain can be valuable assets in combat."
 msgstr ""
-"Vesničané se především v divokých oblastech blízko hranic spoléhají na "
-"lovce, že obstarají dostatek zásob. Jejich podivuhodná a důvěrná znalost "
-"místního terénu může být velice užitečná v boji."
+"Vesničané se zvláště v divokých oblastech blízko hranic spoléhají na lovce, "
+"kteří jim zajišťují dostatek zásob. Schopnost kradmého pohybu a důvěrná "
+"znalost místního terénu může být lovcům velice užitečná i v boji."
 
 #. [unit_type]: id=Trapper_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:179
@@ -2722,8 +2722,7 @@ msgid ""
 "and swamps."
 msgstr ""
 "Zálesáci jsou zkušení lovci, kteří zajišťují jídlo a kožešiny pro několik "
-"vesnic. Jejich lovecká zkušenost je dělá nejcennějšími v noci a v lesích i "
-"bažinách."
+"vesnic. Jejich lovecká zkušenost vynikne hlavně v noci a v lesích i bažinách."
 
 #. [unit_type]: id=Huntsman_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:196
@@ -2741,8 +2740,9 @@ msgid ""
 "wilderness homes. They can bullseye ferocious swamp rats and track anything "
 "that moves in their territory."
 msgstr ""
-"Lovčí strávili jejich životy v lesích a bažinách jejich domova, divočiny. "
-"Zasáhnou i blechu a dokáží vystopovat cokoliv, co prošlo jejich teritoriem."
+"Lovčí strávili své životy v lesích a bažinách svého domova, divočiny. "
+"Zasáhnou i krysu divočící v močálu a dokáží vystopovat cokoliv, co prošlo "
+"jejich teritoriem."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/utils/utils.cfg:19
