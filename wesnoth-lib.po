@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-01-04 22:37+0100\n"
+"PO-Revision-Date: 2021-01-05 22:34+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5308,7 +5308,7 @@ msgstr "Přivolat"
 #. [text_box]: id=filter_box
 #: data/gui/window/unit_recall.cfg:341
 msgid "Search for unit name, unit type name, unit level, or trait."
-msgstr ""
+msgstr "Hledat jméno, typ, úroveň nebo vlastnost jednotky."
 
 #. [button]: id=rename
 #: data/gui/window/unit_recall.cfg:393
