@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2021-01-02 10:45+0100\n"
+"PO-Revision-Date: 2021-01-06 22:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3552,9 +3552,9 @@ msgid ""
 "says all the shamans ‘suck up’ to him just because his father had a black "
 "eye or something like that."
 msgstr ""
-"Ne, skutečně. Je to pravda. Je vyplašený z nějakého mladého povýšence "
-"zvaného Kapou’e. Rozkazuje všem šamanům, jen protože jeho otec měl černé oko "
-"nebo tak něco."
+"Ne, skutečně. Je to pravda. Je vyplašený z nějakého mladého povýšence "
+"zvaného Kapou’e. Rozkazuje všem šamanům jen proto, že jeho otec měl černé "
+"oko nebo tak něco."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:660
@@ -3647,7 +3647,7 @@ msgstr "Poraz všechny rebelské nepřátele a..."
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:37
 msgid "Then move Kapou’e to the signpost in the southwest"
-msgstr "Přesuň Kapou’eho k ukazateli na jihozápadě."
+msgstr "Pak přesuň Kapou’eho k ukazateli na jihozápadě."
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:46
@@ -3699,9 +3699,9 @@ msgid ""
 "looking for any survivors. Only when their rage was spent did the full "
 "implications of the shamans’ deaths begin to sink in."
 msgstr ""
-"Ve vteku z vraždy šamanů skřetí horda zmasakrovala všechny lidi a jejich "
-"spojence. V běsu prohledávali sníh celé hodiny, hledajíc přeživší. Nakonec "
-"se však uklidnili a důsledky smrti šamanů jim začaly docházet."
+"Ve vteku z vraždy šamanů skřetí horda zmasakrovala všechny lidi a jejich "
+"spojence. V běsu prohledávali sníh celé hodiny, hledajíce přeživší. Nakonec "
+"se však uklidnili a začaly jim docházet důsledky smrti šamanů."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:176
@@ -3710,9 +3710,9 @@ msgid ""
 "forces together. And if the orcish forces began to fight amongst themselves "
 "as they so often did, then the humans would eradicate them with ease."
 msgstr ""
-"Když se Rada rozpadla, nezbylo nic co by skřetí jednotky drželo pohromadě. A "
-"jestli začnou skřeti bojovat mezi sebou navzájem jak dříve dělali, lidé je "
-"snadno vyvraždí."
+"Když se Rada rozpadla, nezbylo nic, co by skřetí jednotky drželo pohromadě. "
+"A jestli začnou skřeti bojovat mezi sebou navzájem, jak to dělali dříve, "
+"lidé je snadno vyvraždí."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:182
@@ -3726,12 +3726,13 @@ msgid ""
 "give him a good chance to clobber the orcs together again — the old "
 "fashioned way."
 msgstr ""
-"Kapou’e přísahal, že to nedopustí. Ta celá záležitost zaváněla zrádným "
+"Kapou’e přísahal, že to nedopustí. Celá ta záležitost zaváněla zrádným "
 "spiknutím zaměřeným na zničení jednoty skřetů. Navíc pokud měl ten milovník "
 "stromů pravdu, za vším stál Šan Taum Samolibý. Co zamýšlel získat zničením "
-"vlastní rasy bylo Kapou’emu jedno, ale rozhodl se pochodovat k Bitoku a "
-"osobně se zrádci postavit. Navíc Bitok je na druhé straně skřetího teritoria "
-"a to mu dávalo šanci stmelit skřety znovu dohromady – starou dobrou cestou."
+"vlastní rasy bylo Kapou’emu jedno, ale rozhodl se pochodovat k Bitoku "
+"a osobně se zrádci postavit. Navíc Bitok je na druhé straně skřetího "
+"teritoria, a to mu dávalo šanci stmelit skřety znovu dohromady – starou "
+"dobrou cestou."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:188
@@ -3746,14 +3747,14 @@ msgid ""
 "direct southwest beeline towards Bitok. They were all to meet in Dorest that "
 "spring to repel the human attack that seemed certain to come."
 msgstr ""
-"Kapou’e si u svých jednotek vypěstoval respekt jako moudrý a schopný vůdce a "
-"jeho vojáci jej ujistili o své věrnosti. Potěšený Kapou’e jim vydal pokyny "
-"ke shromáždění dalších kmenů i silou, když to bude nutné. Al’Brok byl vyslán "
-"západně podél cesty, kudy téměř před rokem Kapou’e unikl lidským jednotkám. "
-"Flar’Tar odešel přímo na jih, kde měl shromáždit kmeny podél pohoří Haag a "
-"východně od Truchlivých vrchů. Sám Kapou’e přímou čarou zamířil "
-"severozápadně k Bitoku. Všichni se měli sejít v Dorestu toho jara k odražení "
-"útoku lidí, který určitě přijde."
+"Kapou’e si u svých jednotek vypěstoval respekt jako moudrý a schopný vůdce "
+"a jeho vojáci jej ujistili o své věrnosti. Potěšený Kapou’e jim vydal pokyny "
+"ke shromáždění dalších kmenů třeba i silou, když to bude nutné. Al’Brok byl "
+"vyslán západně podél cesty, kudy téměř před rokem Kapou’e unikl lidským "
+"jednotkám. Flar’Tar odešel přímo na jih, kde měl shromáždit kmeny podél "
+"pohoří Haag a východně od Truchlivých vrchů. Sám Kapou’e zamířil "
+"severozápadně, přímou čarou k Bitoku. Všichni se měli toho jara sejít "
+"v Dorestu k odražení útoku lidí, který určitě přijde."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:194
@@ -3761,7 +3762,7 @@ msgid ""
 "Having thus made his plans, Kapou’e set out for Bitok to get to the root of "
 "this treachery."
 msgstr ""
-"Majíc vytvořený plán, Kapou’e se vydal směrem na Bitok, aby se dobral kořene "
+"Maje vytvořený plán, vydal se Kapou’e směrem na Bitok, aby se dobral kořene "
 "zrady."
 
 #. [message]: speaker=Kapou'e
@@ -3772,10 +3773,10 @@ msgid ""
 "opposition in your path, I want this area to be firmly under my control by "
 "the time we are through here."
 msgstr ""
-"Jestli to máme v Bitoku zvládnout a vrátit se do Dorestu než nastane jaro, "
-"měli bychom se do toho dát. Tábor musíme založit co nejdřív to bude možné. "
-"Porazte každého nepřítele v cestě. Chci tuhle oblast pevně pod mojí "
-"kontrolou během doby co tu budeme."
+"Jestli to máme v Bitoku zvládnout a vrátit se do Dorestu, než nastane jaro, "
+"měli bychom se do toho dát. Tábor musíme založit, co nejdřív to bude možné. "
+"Porazte každého nepřítele v cestě. Chci mít tuhle oblast pevně pod kontrolou "
+"během doby, co tu budeme."
 
 #. [message]: speaker=Braga
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:225
