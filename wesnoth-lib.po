@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2021-01-05 22:31+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2021-01-06 22:57+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [ai]: id=ai_default_rca
 #: data/ai/ais/ai_default_rca.cfg:9
@@ -1729,7 +1730,7 @@ msgstr "Kamenný most přes propast"
 #: data/core/terrain.cfg:2848 data/core/terrain.cfg:2862
 #: data/core/terrain.cfg:2876
 msgid "Plank Bridge"
-msgstr "Dřevený most"
+msgstr "Prkenný most"
 
 #. [terrain_type]: id=off_map
 #: data/core/terrain.cfg:2893
@@ -1820,7 +1821,7 @@ msgstr ""
 "chaotické. Ve všech ostatních ohledech je osvětlená jeskyně shodná "
 "s normální jeskyní.\n"
 "\n"
-"Většina jednotek zde získá 20 až 40% obranný bonus, zatímco trpaslíci 50%."
+"Většina jednotek zde získá obranný bonus 20 až 40 %, zatímco trpaslíci 50 %."
 
 #. [terrain_type]: id=sand
 #: data/core/terrain.cfg:2980
@@ -1844,21 +1845,10 @@ msgstr ""
 "postavení než brodění v mělké vodě a také dává výjimečně vysokou obranu "
 "vodním tvorům.\n"
 "\n"
-"Mořský lid a nágy dostanou v pobřežních útesech obranu 70%."
+"Mořský lid a nágy získávají v pobřežních útesech obranný bonus 70 %."
 
 #. [terrain_type]: id=hills
 #: data/core/terrain.cfg:3011
-#, fuzzy
-#| msgid ""
-#| "<italic>text='Hills'</italic> represent any reasonably rough terrain,\n"
-#| "with enough dips and rises in the ground to provide some cover. Hills are "
-#| "difficult for most troops to navigate. Dwarves, trolls, and orcs have "
-#| "enough familiarity with the terrain that they can pass through it without "
-#| "being slowed down. Cavalry have enough trouble navigating the terrain "
-#| "that any defensive aid lent by cover is negated.\n"
-#| "\n"
-#| "Most units have about 50% defense in hills, whereas cavalry are limited "
-#| "to 40%. Dwarves enjoy 60% defense in hills."
 msgid ""
 "<italic>text='Hills'</italic> represent any reasonably rough terrain, with "
 "enough dips and rises in the ground to provide some cover. Hills are "
@@ -1873,13 +1863,13 @@ msgstr ""
 "<italic>text='Kopce'</italic> představují docela obtížný terén s dostatečným "
 "počtem údolí a skalních stěn, které poskytují určitý stupeň krytí. Kopce "
 "jsou obtížným terénem pro většinu jednotek a to zejména pro jejich "
-"orientaci. Trpaslíci, Trollové i Obři jsou s tímto terénem dostatečně "
+"orientaci. Trpaslíci, trollové a skřeti jsou s tímto terénem dostatečně "
 "obeznámeni, takže se v něm mohou pohybovat bez ztráty rychlosti. Jízda má v "
-"tomto terénu potíže s pohybem, takže je jakákoliv pomoc poskytnutá krytím "
+"tomto terénu potíže s pohybem, čímž je jakákoliv pomoc poskytnutá krytím "
 "zmařena.\n"
 "\n"
-"Většina jednotek v kopcích získá okolo 50% obranného bonusu, zatímco jízda "
-"je omezena 40%. Trpaslíci se v kopcích těší 60% obrannému bonusu."
+"Většina jednotek v kopcích získává obranný bonus okolo 50 %, zatímco jízda "
+"je omezena na 40 %. Trpaslíci se v kopcích těší obrannému bonusu 60 %."
 
 #. [terrain_type]: id=swamp_water
 #: data/core/terrain.cfg:3025
@@ -1901,7 +1891,7 @@ msgstr ""
 "v mokřadech, jsou také schopni použít tento terén pro svou ochranu.\n"
 "\n"
 "Většina jednotek se v močálech spokojí s 30% obrany. Mořští lidé, nágy "
-"a ještěráci se obvykle těší 60% obraně."
+"a ještěráci se obvykle těší 60 % obraně."
 
 #. [terrain_type]: id=shallow_water
 #: data/core/terrain.cfg:3038
@@ -2007,13 +1997,13 @@ msgid ""
 "\n"
 "Most units have defense of 30 to 40% on grassland."
 msgstr ""
-"<italic>text='Louka'</italic> představuje otevřenou rovinu — ať už "
-"kultivovanou, upravenou pro pastevectví, nebo divokou. Je to otevřená "
-"krajina, velmi vhodná pro pohyb, ale je zde těžké se bránit. Typickou "
-"jednotkou, pro kterou je tato krajina nejlepší, představuje jezdectvo, nebo "
-"velmi hbité jednotky, které dávají přednost otevřenému prostranství.\n"
+"<italic>text='Louka'</italic> představuje otevřenou rovinu, ať už "
+"kultivovanou, upravenou pro pastevectví, nebo divokou.\n"
+"Je to otevřená krajina, velmi vhodná pro pohyb, ale je zde těžké se bránit. "
+"Typické jednotky, pro které je tato krajina nejlepší, představuje jezdectvo "
+"nebo velmi hbité jednotky, které dávají přednost otevřenému prostranství.\n"
 "\n"
-"Většina jednotek má na louce defenzivní bonus od 30 do 40%."
+"Většina jednotek má na louce obranný bonus od 30 do 40 %."
 
 #. [terrain_type]: id=forest
 #: data/core/terrain.cfg:3105
@@ -2036,17 +2026,17 @@ msgstr ""
 "<italic>text='Lesy'</italic> představuje každý lesík s příslušným porostem, "
 "který je dostatečný pro zpomalení pochodu. I když zpomalí téměř každého, "
 "nabízí les pro většinu jednotek lepší defenzivní pozici než otevřené "
-"prostranství. Jízda má samozřejmě spoustu problémů při pohybu v tomto "
-"terénu, takže jakýkoliv prospěch, získaný ze skrytí se v lese, je tímto "
+"prostranství. Jízda má samozřejmě při pohybu v tomto terénu spoustu "
+"problémů, takže jakýkoliv prospěch, získaný ze skrytí se v lese, je tímto "
 "potlačen. Elfové jsou výjimkou oproti všeobecně platnému pravidlu pro lesy. "
 "Nejen že jsou schopni postupu lesem beze zpomalení, ale také získávají "
-"značný obranný bonus. Trpaslíci jsou také výjimkou; i když jsou schopni se "
+"značný obranný bonus. Trpaslíci jsou také výjimkou. I když jsou schopni se "
 "pohybovat lesem bez výrazné ztráty rychlosti, jejich neobeznámenost s "
 "terénem způsobuje, že nezískávají žádný obranný bonus.\n"
 "\n"
-"Většina jednotek získá jako obranný bonus 50%, ale jízda je omezena na 30%. "
-"Elfové naproti tomu získávají obranný bonus od 60% do 70%, a to i když jedou "
-"na koních. Trpaslíci obvykle získají v lese pouze 30% obrany."
+"Většina jednotek získá jako obranný bonus 50 %, ale jízda je omezena na 30 "
+"%. Elfové naproti tomu získávají obranný bonus od 60 % do 70 %, a to i když "
+"jedou na koních. Trpaslíci obvykle získají v lese obranný bonus pouze 30 %."
 
 # pseudoterén
 #. [terrain_type]: id=frozen
@@ -2360,11 +2350,13 @@ msgid ""
 "Before uploading content to this server, you must accept the following "
 "distribution terms by choosing “I Agree”."
 msgstr ""
+"Před nahráním obsahu na tento server musíš přijmout následující podmínky "
+"distribuce výběrem možnosti „Souhlasím“."
 
 #. [button]: id=ok
 #: data/gui/window/addon_license_prompt.cfg:104
 msgid "I Agree"
-msgstr ""
+msgstr "Souhlasím"
 
 #. [label]: id=byline
 #: data/gui/window/addon_manager.cfg:84
@@ -4064,10 +4056,8 @@ msgstr "Změň"
 
 #. [label]
 #: data/gui/window/mp_connect.cfg:71
-#, fuzzy
-#| msgid "Log on to the official Wesnoth multiplayer server"
 msgid "Choose or enter the address of a multiplayer server."
-msgstr "Přihlas se na oficiální herní server Wesnothu"
+msgstr "Vyber nebo zadej adresu serveru pro hru více hráčů."
 
 #. [label]
 #: data/gui/window/mp_connect.cfg:101
@@ -6410,10 +6400,8 @@ msgid "Do you really want to log out?"
 msgstr "Opravdu se chceš odhlásit?"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:218
-#, fuzzy
-#| msgid "Incompatible User-made Content."
 msgid "Incompatible User-made Content"
-msgstr "Nekompatibilní uživatelský obsah."
+msgstr "Nekompatibilní uživatelský obsah"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:219
 msgid ""
@@ -6423,10 +6411,8 @@ msgid ""
 msgstr ""
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:234
-#, fuzzy
-#| msgid "Missing User-made Content."
 msgid "Missing User-made Content"
-msgstr "Chybějící uživatelský obsah."
+msgstr "Chybějící uživatelský obsah"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:235
 msgid ""
