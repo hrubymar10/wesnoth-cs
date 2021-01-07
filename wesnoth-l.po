@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:37 UTC\n"
-"PO-Revision-Date: 2021-01-05 22:27+0100\n"
+"PO-Revision-Date: 2021-01-07 22:50+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1338,7 +1338,7 @@ msgstr "Šedý hvozd"
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:60
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:146
 msgid "Helicrom"
-msgstr "Helicrom"
+msgstr "Helikrom"
 
 #. [side]: type=Necromancer, id=Mal-Jarrof
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:96
@@ -1373,7 +1373,7 @@ msgid ""
 "attack a caravan head-on. It’s not noble work, but our pursuits require "
 "plenty of gold."
 msgstr ""
-"Jmenuji se Helicorm. A neměl byste být tak uhlazený. Velím nebezpečným "
+"Jmenuji se Helikrom. A neměl byste být tak uhlazený. Velím nebezpečným "
 "mužům. Moji stoupenci mohou nespatřeni projít jakýmkoliv městem, oloupit "
 "člověka zatímco spí nebo přímo zaútočit na karavanu. Není to vznešená práce, "
 "ale naše zábavy vyžadují spousty zlata."
@@ -1472,7 +1472,7 @@ msgid ""
 "disarray."
 msgstr ""
 "Porážka zlého licha mořícího Šedý hvozd byla spíše sladkohořké vítězství. Se "
-"smrtí Helicroma byl cech stínových čarodějů uvržen do zmatku."
+"smrtí Helikroma byl cech stínových čarodějů uvržen do zmatku."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:311
@@ -1851,7 +1851,7 @@ msgid ""
 "Send word to Helicrom that we are ready. It is time for him to repay his "
 "debt."
 msgstr ""
-"Pošli zprávu Helicromovi, že jsme připraveni. Je čas, aby splatil svůj dluh."
+"Pošli zprávu Helikromovi, že jsme připraveni. Je čas, aby splatil svůj dluh."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:358
@@ -1958,7 +1958,7 @@ msgid ""
 "Look at how tall it is! Those towers rise sheer out of the ground, as if "
 "called forth out of the earth."
 msgstr ""
-"Podívej jak je vysoká! Ty věže povstávají přímo z půdy, jakoby by byly "
+"Podívej, jak je vysoká! Ty věže povstávají přímo z půdy, jakoby by byly "
 "tvořeny samotnou zemí."
 
 #. [message]: speaker=Baldras
