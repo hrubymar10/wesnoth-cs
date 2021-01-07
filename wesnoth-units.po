@@ -12,7 +12,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 # Tereza Žejdlová, 2020.
 #
 msgid ""
@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2020-12-21 20:19+0100\n"
+"PO-Revision-Date: 2021-01-07 21:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2912,10 +2912,11 @@ msgstr ""
 "pozemskou. Jejich moc je podivuhodná a někdy i děsivá. Mýty o nich jsou "
 "příčinou zdravého strachu z elfů mezi ostatními rasami."
 
+# Upraveno vzhledem k popisu schopností sylf.
 #. [attack]: type=impact
 #: data/core/units/elves/Sylph.cfg:41
 msgid "gossamer"
-msgstr "pavučinka"
+msgstr "pavučinka reality"
 
 #. [unit_type]: id=Fog Clearer, race=monster
 #: data/core/units/fake/Fog_Clearer.cfg:13
