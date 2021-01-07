@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2021-01-05 21:31+0100\n"
+"PO-Revision-Date: 2021-01-07 16:14+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1300,6 +1300,8 @@ msgstr ""
 msgid ""
 "But Annuvin province be ruled by Elensefar, by you! We has no duty to Weldyn."
 msgstr ""
+"Ale Annuvin spadá pod Elensefar, pod vás! Nemáme žádný povinnosti k "
+"weldynskejm."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:219
@@ -1307,6 +1309,8 @@ msgid ""
 "You do now. I do not really need to tell you what happens should you refuse "
 "Her Majesty’s offer."
 msgstr ""
+"Však sám víš. Opravdu ti nemusím vykládat, co se stane, když odmítneš "
+"nabídku Jejího Veličenstva."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:223
@@ -1314,6 +1318,8 @@ msgid ""
 "Grow a spine, Maddock. If they come to ya and make you swears fealty to this "
 "Asheviere, woulds you really give up that easy?"
 msgstr ""
+"Narovnejte záda, Maddoku. Kdyby za vámi přišli, abyste přísahal věrnost tý "
+"Ašvíře, vzdal byste se opravdu tak snadno?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:227
@@ -1325,11 +1331,16 @@ msgid ""
 "of Abez, but unless we are attacked within the next few days, I shall be "
 "able to hold the city."
 msgstr ""
+"No, zatím se nedostali přes hradby mého města. Ve velké pevnosti Halstead na "
+"jihu je silná posádka, ale i kdyby mobilizovali všechny své jednotky, "
+"pochybuji, že by mohli dobít Elensefar. Je pravda, že prozatím se většina "
+"mých sil stále nevrátila z bitvy u Abezu, ale pokud nebudeme napadeni během "
+"několika příštích dní, budu schopen město udržet."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:231
 msgid "And what abouts us? Throw us like dogs to those Wesnothians?"
-msgstr ""
+msgstr "A co my? Předhodíte nás jako psy těm wesnothskejm?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:235
@@ -1339,6 +1350,10 @@ msgid ""
 "same time, I have some concessions that I shall have to make. I cannot "
 "afford a war with Weldyn, as you can surely understand."
 msgstr ""
+"Musíme udržovat tento nesnadný mír. Smlouva mezi Elensefarem a Wesnothem je "
+"starodávná a nemyslím si, že ji Její Veličenstvo hodlá zrušit. A jsou tu "
+"nějaké ústupky, které budu muset udělat. Jak si jistě uvědomuješ, nemůžu si "
+"válku s Weldynem dovolit."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:239
@@ -1346,6 +1361,8 @@ msgid ""
 "But we can’t do nothing! The Queen even be sending them beast orcs against "
 "us, that’s how evil she is! Surely you can’t stand for this..."
 msgstr ""
+"Ale my nemůžem nedělat nic! Královna na nás dokonce posílá ty zvířecí "
+"skřety, takhle je zlá! Tohle určitě nemůžete nechat bejt..."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:243
@@ -1356,6 +1373,11 @@ msgid ""
 "Even so, they may still want your head, Baldras, but you have the chance to "
 "preserve your village. Think of the bigger picture."
 msgstr ""
+"Ano, vím o sklonu královny Ašvíry najímat skřety k doplnění jejích sil. To "
+"neznamená, že bych s tím mohl něco dělat, i kdybych tomu byl nakloněn. "
+"Nejlepší rada, kterou vám mohu dát, je omluvit se. I tak možná budou chtít "
+"tvou hlavu, Baldrasi. Ale máte šanci zachovat svou vesnici. Mysli v širších "
+"souvislostech."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:247
@@ -1364,11 +1386,14 @@ msgid ""
 "action, waiting till them Wesnothians comes ta take the city right from yer "
 "hands."
 msgstr ""
+"V širších souvislostech vidím, jak tu dřepíte s vašimi muži, místo toho, "
+"abyste jednali. A čekáte, až přijdou wesnothský převzít město přímo z vašich "
+"rukou."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:251
 msgid "I very much doubt they would be bold enough to attack us outright—"
-msgstr ""
+msgstr "Velmi pochybuji, že by byli tak smělí, aby na nás zaútočili přímo..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:255
@@ -1376,6 +1401,7 @@ msgid ""
 "Head out o’ yer behind, Maddock, open yer eyes! Look south and tell me that "
 "again!"
 msgstr ""
+"Ohlídněte se, Maddoku, a otevřete oči! Podívejte se na jih a zopakujte mi to!"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:268
@@ -1383,6 +1409,8 @@ msgid ""
 "An invading army? No, something is not right with those soldiers... but I "
 "presume we have no time to ponder that for now. To arms!"
 msgstr ""
+"Invazní armáda? Ne, s těmi vojáky něco není v pořádku..., ale předpokládám, "
+"že teď nemáme čas nad tím uvažovat. Do zbraně!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:291
@@ -1455,7 +1483,7 @@ msgstr "..."
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:413
 msgid "Hmm. Something is quite wrong indeed..."
-msgstr ""
+msgstr "Hmm. Něco tu opravdu není v pořádku..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:426
@@ -1468,6 +1496,8 @@ msgid ""
 "Baldras and his men watch, petrified, as the skin and flesh of their "
 "adversaries begin to rot away."
 msgstr ""
+"Baldras a jeho muži sledují, zkamenělí hrůzou, jak z těl jejich protivníků "
+"začíná odehnívat kůže a maso."
 
 #. [wml_message]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:512
@@ -1494,6 +1524,8 @@ msgid ""
 "So, their human aspect returns. Whatever these creatures are, we shall crush "
 "them all under the light of the sun."
 msgstr ""
+"Jejich lidský aspekt se tedy vrací. Ať jsou tato stvoření kýmkoli, všechny "
+"je během denního světla rozdrtíme."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:826
@@ -1895,7 +1927,7 @@ msgstr ""
 #. [side]: type=Shadow Lord, id=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:90
 msgid "Helicrom"
-msgstr "Helicrom"
+msgstr "Helikrom"
 
 #. [side]: type=Shock Trooper, id=Linneus
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:111
@@ -1914,10 +1946,8 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:194
-#, fuzzy
-#| msgid "Death of Harper"
 msgid "Death of Helicrom"
-msgstr "Harper zemře"
+msgstr "Helikrom zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:198
@@ -1931,10 +1961,8 @@ msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:253
-#, fuzzy
-#| msgid "The leader, I presume."
 msgid "The leader, I presumes."
-msgstr "Vůdce, předpokládám."
+msgstr "Ty seš vůdce, předpokládám."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:257
@@ -1944,13 +1972,15 @@ msgid ""
 "take direct orders from him, I believe we can work something out for your "
 "situation."
 msgstr ""
+"To opravdu jsem. Jsem lord Helikrom, známý jako Vrána ze Šedého hvozdu. Jsme "
+"známí lorda Maddoka, který nám poslal zprávu o vašich nesnázích. I když od "
+"něj nepřijímáme přímé rozkazy, věřím, že pro vaši záležitost jsme schopni "
+"něco udělat."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:261
-#, fuzzy
-#| msgid "Your pursuits?"
 msgid "What be yer pursuits?"
-msgstr "Vaše povolání?"
+msgstr "A čím se zabejváš?"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:265
@@ -1984,6 +2014,8 @@ msgid ""
 "<i>Quid pro quo.</i> Our aid is never given freely. You have something that "
 "may be useful to us."
 msgstr ""
+"<i>Něco za něco.</i> Naše pomoc nikdy není zadarmo. Vy máte něco, co pro nás "
+"může být užitečné."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:277
@@ -2117,7 +2149,7 @@ msgstr "Je to past! Držte se!"
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:511
 msgid ""
 "Ah, here it is. I was wondering where I had misplaced my favorite blade."
-msgstr ""
+msgstr "Á tady je. A já se divil, kam jsem mohl založit svou oblíbenou čepel."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:545
@@ -2348,13 +2380,14 @@ msgstr ""
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1232
 msgid "This is the end for me..."
-msgstr ""
+msgstr "To je můj konec..."
 
 #. [scenario]: id=07_Glory
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:4
 msgid "Glory"
 msgstr "Sláva"
 
+# Píše se tam o 28 letech, ale 98 - 78 je jen dvacet.
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:20
 msgid ""
@@ -2369,6 +2402,16 @@ msgid ""
 "alongside the Grey Woods, completing the way between the two cities. With "
 "this, the alliance can truly be deemed a coalition of men."
 msgstr ""
+"Z alduinských letopisů, roku 98 w. l.\n"
+"\n"
+"Před dvaceti lety, v roce 78 w. l., podepsali král Wesnothu a lord z "
+"Elensefaru smlouvu o obchodu a spojenectví s cílem posílit bezpečnost lidí. "
+"Realizace této smlouvy vyžadovala vytvoření bezpečné cesty mezi Weldynem a "
+"Elensefarem, tak aby veškeré druhy nepřátelských tvorů nebo šelem byly z "
+"těchto civilizovaných území vytlačeny. Založení Aldrilu a Carcynu v úseku od "
+"města Dan Tonk zabezpečilo kdysi nebezpečný průchod podél Šedého hvozdu a "
+"dokončilo cestu mezi dvěma hlavními městy. Díky tomu lze tuto alianci "
+"skutečně považovat za koalici hodnou mužů."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:26
@@ -2380,6 +2423,11 @@ msgid ""
 "hill, we spent these years raising an immense stronghold from the earth’s "
 "living rock."
 msgstr ""
+"Na památku tohoto konkordátu byl na rozkaz pánů z Weldynu a Elensefaru před "
+"šesti lety vztyčen památník, umístěný uprostřed kdysi tak divoké krajiny. "
+"My, mágové z Alduinu, jsme propůjčili své služby, abychom prokázali plnou "
+"zdatnost a sílu lidské magie. Nad soustavou starých katakomb jsme na prostém "
+"kopci strávili roky zvedáním obrovské pevnosti ze živoucí skály Země."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:30
@@ -2393,6 +2441,13 @@ msgid ""
 "Halstead, as we have named it, is impenetrable. No one shall ever overcome "
 "these tidal waves of stone."
 msgstr ""
+"A tento den jsme dokončili dílo a tato strážnice západu se nyní tyčí stovky "
+"kroků nad okolními pláněmi jako obrovský monolit. Pohled na ty kolosální zdi "
+"je úžasný a děsivý, dokonce i pro nás mágy. Věže ční tak vysoko a "
+"zdi vypadají tak mohutně, že se tento počin zdá být spíše výsledkem "
+"přírodních sil než dílem člověka. To, že je tato hora dílem nevýznamných "
+"lidí, je téměř nepředstavitelné. Halstead, jak jsme jej pojmenovali, je "
+"neproniknutelný. Nikdo nikdy nepřekoná tyto masy kamene."
 
 #. [side]: type=General, id=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:56
@@ -2418,16 +2473,12 @@ msgstr "To je ona. Pevnost Halstead."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:265
-#, fuzzy
-#| msgid ""
-#| "Look at how tall it is! Those towers rise sheer out of the ground, as if "
-#| "called forth out of the earth."
 msgid ""
 "Look at how tall it is! Those towers be so sheer and smooth, like magic "
 "called them up out of the earth or something."
 msgstr ""
-"Podívej jak je vysoká! Ty věže povstávají přímo z půdy, jakoby by byly "
-"tvořeny samotnou zemí."
+"Dívejte, jak je vysoká! Ty věže jsou tak čistě a hladce opracovaný, jako by "
+"je magie vyvolala přímo ze země nebo tak něco."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:270
@@ -2438,20 +2489,20 @@ msgid ""
 "two cities and forged the walls of Halstead as a monument to tha new "
 "alliance."
 msgstr ""
+"No na tom může bejt něco pravdy. Starý příběhy vyprávěj, že v dřívějších "
+"dobách měli Elensefar a Weldyn opravdu silný mágy. Ne jako ty současný, co "
+"jen politikaří. Pomohli zkrotit půdu mezi dvěma městy a vytvořili zdi "
+"Halsteadu jako pomník nový aliance."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:275
-#, fuzzy
-#| msgid ""
-#| "I don’t see how we can bring it down. They are already invincible in "
-#| "there!"
 msgid "I don’t sees how we can bring it down. They seem invincible in there!"
-msgstr "Nevím jak bychom ji mohli zničit. Už teď jsou tam neporazitelní!"
+msgstr "Nevím, jak bychom ji mohli zničit. Vypadaj, že jsou tam neporazitelný!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:279
 msgid "Indeed..."
-msgstr ""
+msgstr "To skutečně jo..."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:283
@@ -2460,6 +2511,9 @@ msgid ""
 "previous orders of magi did help erect the fortress. What is not made known "
 "to most is that the original construction of the castle was flawed."
 msgstr ""
+"Nebojte se, Halstead má slabost. To, co Baldras vyprávěl, je částečně "
+"pravda, magické příkazy dřív pomáhaly pevnost postavit. Většina však neví, "
+"že původní konstrukce hradu byla vadná."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:287
@@ -2471,42 +2525,35 @@ msgid ""
 "Naturally, this was made secret by the magi, who did not want others to "
 "learn of their error."
 msgstr ""
+"Ty zdi byly postaveny nad systémem katakomb, které spojují čtyři věže s "
+"centrální pevností. A i když se zdají působivé, tunely nikdy neměly nést tak "
+"obrovskou váhu. Podpěry byly přidány později, aby udržely střed, který se "
+"nakonec bez nich začal hroutit. Mágové, kteří nechtěli, aby se "
+"ostatní dozvěděli o jejich chybě, to přirozeně tajili."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:291
-#, fuzzy
-#| msgid ""
-#| "So... we can knock out the supports and bring down the stronghold of "
-#| "Halstead. Would it really work?"
 msgid ""
 "So... we can knock out the supports and bring down the main keep. Would it "
 "really work?"
 msgstr ""
-"Takže... můžeme prostě odstranit výztuže a srovnat Halstead se zemí! Bude to "
-"vážně fungovat?"
+"Takže... můžem prostě odstranit výztuže a srovnat střed pevnosti se zemí! "
+"Bude to vážně fungovat?"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:295
-#, fuzzy
-#| msgid ""
-#| "I believe it will. Each tower has a passage down to the catacombs. If we "
-#| "can reach the center of each tower, one of our men can escape down to the "
-#| "bowels of the mountain and destroy its support. I am sure we will need to "
-#| "demolish no less than all four supports to raze the fortress."
 msgid ""
 "I believe it will. Each tower has a passage down to the catacombs. We must "
 "enter the tunnels and demolish all four supports, then the fortress should "
 "crumble."
 msgstr ""
-"Věřím, že bude. Každá věž má průchod do katakomb. Pokud se dostaneme ke "
-"středu každé věže, jeden z našich mužů může proniknout dolů k nitru hory a "
-"zničit výztuž. Jsem si jistý že budeme muset zničit všechny čtyři výztuže, "
-"abychom pevnost svrhli."
+"Věřím, že bude. Z každé věže je průchod dolů, do katakomb. Musíme se dostat "
+"do tunelů a zbourat všechny čtyři podpěry. Pak by se měla pevnost rozpadnout."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:299
 msgid "Let’s hope you’re right. Everything be hinging on this battle."
-msgstr ""
+msgstr "Snad máš pravdu. Všechno závisí na týhle bitvě."
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:308
@@ -2750,7 +2797,7 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:864
 #: data/campaigns/Liberty/utils/utils.cfg:34
 msgid "Unngh..."
-msgstr ""
+msgstr "Uggh..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:868
