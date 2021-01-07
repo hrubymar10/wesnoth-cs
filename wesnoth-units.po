@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-19 01:27 UTC\n"
-"PO-Revision-Date: 2021-01-06 21:56+0100\n"
+"PO-Revision-Date: 2021-01-07 13:08+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3095,6 +3095,20 @@ msgid ""
 "lords is invaluable for maintaining the prosperity of Elvish rule, whether "
 "or not they sit at the top of the chain of command."
 msgstr ""
+"Zatímco dualita elfí magie se nejznatelněji projevuje v cestách rozdělených "
+"mezi tělesný a tajemný svět, stejná dichotomie se odráží i mezi elfí "
+"šlechtou. Většina lordů se ocitla v silném propojení s čarodejnicemi a "
+"spojila se tak s aspekty vhledu a ničení, částečně kvůli tomu, že používají "
+"tajemný oheň. Ačkoli to není na stejné úrovni jako moudrost, obvykle je "
+"třeba respektovat pánovu intuici a bát se jeho hněvu. S jeho věkem se to "
+"stává jen pravdivější, protože čas přináší elfovi ostrost mysli a smyslů.\n"
+"\n"
+"Představy cizinců, že existuje vyšší třída „vysokých lordů“, jsou obvykle "
+"klam vyplývající z velkých rozdílů ve vnímavosti a moci, kterými tito "
+"zkušení elfové disponují. Ve skutečnosti se hierarchie elfí vlády liší mezi "
+"enklávami a pak situačně mezi dobami míru a války. Jediná věc, kterou lze s "
+"jistotou říci, je, že prozíravost těchto lordů je neocenitelná pro udržení "
+"prosperity elfí vlády a to ať už jsou či nejsou na vrcholu velení."
 
 #. [unit_type]: id=Elvish Lady, race=elf
 #: data/core/units/elves/Lady.cfg:4
@@ -3460,6 +3474,15 @@ msgid ""
 "sharpshooters of the elves have honed their art to its highest form and are "
 "the undisputed masters of archery."
 msgstr ""
+"I když nejde o formální název, je označení „ostrostřelec“ zažitým "
+"přívlastkem pro nejnadanější elfí střelce. Tito zkušení lučištníci jsou "
+"schopni výkonů, které i podle elfích měřítek hraničí se zázračnými "
+"vlastnostmi. Dovedou rozstřelit šíp letící ve vzduchu. Dovedou vystřelit "
+"druhý šíp, ještě než jejich první doletí. A to vše při zachování dostatečné "
+"síly potřebné k probití plátového brnění. Jediná salva jejich šípů sundá "
+"rytíře z koně a dokonce i dobře obrněný těžkooděnec zřídka přežije několik "
+"zásahů. Elfí ostrostřelci zdokonalili své umění do nejvyšší podoby a jsou "
+"nespornými mistry lukostřelby."
 
 #. [female]
 #: data/core/units/elves/Sharpshooter.cfg:82
@@ -3530,6 +3553,7 @@ msgstr ""
 msgid "female^Elvish Sylph"
 msgstr "Elfí sylfa"
 
+# Existuje mudrkyně i mudřena, ale zvolil jsem vědmu.
 #. [unit_type]: id=Elvish Sylph, race=elf
 #: data/core/units/elves/Sylph.cfg:21
 msgid ""
@@ -3549,11 +3573,26 @@ msgid ""
 "‘reflection pools’ and steer them is one of her greatest — and most feared — "
 "abilities."
 msgstr ""
+"Vědmy jako jsou sylfy jsou nesmírně silné těmi nejnepředstavitelnějšími "
+"způsoby a jsou mistryněmi manipulace spojení mezi pozemským a tajemným "
+"světem. Dlouhá léta strávená nahlížení do éterické říše narušila schopnost "
+"těchto elfek nahlížet fyzický svět. Na oplátku je jim poskytnut abstraktní "
+"náhled, z kterého získávají schopnost vidět jeden nebo dokonce několik "
+"různých aspektů esence reality. Stejně jako hromada střepů z rozbitého "
+"zrcadla i nesčetné fragmenty hmotného světa odrážejí světlo tajemnosti "
+"prostřednictvím mnoha různých aspektů. Pečlivá praxe umožňuje elfce sledovat "
+"tyto prameny světla z jednoho okna fyzické reality do druhého a sledovat, "
+"jak se s každou volbou svobodné vůle vyvíjí reálný výsledek. Zatímco přímého "
+"ovlivnění tkaniva reality není obvykle možné dosáhnout, nepřímá manipulace "
+"je možná, a to pomocí machinací v tělesné rovině, v které je odraz tajemné "
+"roviny nejsilnější. Schopnost sylf lokalizovat a řídit tyto „odrazové "
+"potenciality“ je jednou z jejich největších – a nejobávanějších – schopností."
 
+# Upraveno vzhledem k popisu schopností sylf.
 #. [attack]: type=impact
 #: data/core/units/elves/Sylph.cfg:44
 msgid "gossamer"
-msgstr "pavučinka"
+msgstr "pavučinka reality"
 
 #. [unit_type]: id=Fog Clearer, race=monster
 #: data/core/units/fake/Fog_Clearer.cfg:13
