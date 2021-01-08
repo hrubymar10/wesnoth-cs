@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2021-01-01 08:09+0100\n"
+"PO-Revision-Date: 2021-01-08 23:02+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -376,10 +376,8 @@ msgstr "Editor terénu"
 
 #. [section]: id=editor_mode_scenario
 #: data/core/editor/help.cfg:20
-#, fuzzy
-#| msgid "Map/Scenario Editor"
 msgid "Scenario Editor"
-msgstr "Editor map/scénářů"
+msgstr "Editor scénářů"
 
 #. [topic]: id=editor_tool_paint
 #: data/core/editor/help.cfg:28
@@ -532,10 +530,8 @@ msgstr "Převrátit vertikálně"
 
 #. [topic]: id=editor_tool_starting
 #: data/core/editor/help.cfg:107
-#, fuzzy
-#| msgid "Starting Positions Howto"
 msgid "Starting Locations Tool"
-msgstr "Vše o nastavování počáteční pozice"
+msgstr "Nástroj startovních pozic"
 
 #. [topic]: id=editor_tool_starting
 #: data/core/editor/help.cfg:108
@@ -4562,16 +4558,12 @@ msgstr "obnovuje +4"
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:85
-#, fuzzy
-#| msgid ""
-#| "The unit will heal itself 8 HP per turn. If it is poisoned, it will "
-#| "remove the poison instead of healing."
 msgid ""
 "The unit will heal itself 4 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
-"Jednotka se uzdraví o 8 životů za tah. V případě otravy se místo uzdravení "
-"odstraní jed."
+"Tato jednotka se sama vyléčí o 4 body života za kolo. Pokud je otrávena, tak "
+"místo léčení odstraní jed."
 
 #. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:105
@@ -4590,29 +4582,21 @@ msgstr ""
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:118
 msgid "diversion"
-msgstr ""
+msgstr "rozptýlení"
 
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:119
-#, fuzzy
-#| msgid "female^leadership"
 msgid "female^diversion"
-msgstr "velení"
+msgstr "rozptýlení"
 
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:120
-#, fuzzy
-#| msgid ""
-#| " If there is an enemy of the target on the opposite side of the target "
-#| "while attacking it, this unit may backstab, inflicting double damage by "
-#| "creeping around behind that enemy."
 msgid ""
 "If there is an enemy of the target on the opposite side of the target, this "
 "unit diverts the target’s attention and reduces its chance to hit by 20%."
 msgstr ""
-" Pokud právě nějaký spojenec zaměstnává nepřátelskou jednotku, tato jednotka "
-"se může připlížit a napadnout ji nečekaně zezadu (z opačné strany), což "
-"způsobí dvojnásobná zranění napadené jednotky. Platí to však pouze pro útok."
+"Jestliže je na opačné straně cíle jeho nepřítel, odvede tato jednotka "
+"pozornost tohoto cíle a sníží jeho šanci zasáhnout o 20 %."
 
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:121
@@ -7375,10 +7359,8 @@ msgid "The Battle for Wesnoth Help"
 msgstr "Nápověda Bitvy o Wesnoth"
 
 #: src/help/help.cpp:236 src/help/help.cpp:240
-#, fuzzy
-#| msgid "Parse error when parsing help text: "
 msgid "Parse error when parsing help text:"
-msgstr "Překládací chyba při pokusu o načtení pomocného textu: "
+msgstr "Chyba rozboru (parsing) textu nápovědy:"
 
 #: src/help/help_topic_generators.cpp:64
 msgid "Best of"
@@ -7458,17 +7440,13 @@ msgstr "Kroky:"
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:537
-#, fuzzy
-#| msgid "Vision: "
 msgid "Vision:"
-msgstr "Dohlédne: "
+msgstr "Rozhled:"
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
 #. unpleasant line breaks (issue #3256).
 #: src/help/help_topic_generators.cpp:543
-#, fuzzy
-#| msgid "Jamming: "
 msgid "Jamming:"
 msgstr "Rušení:"
 
