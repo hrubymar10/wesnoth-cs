@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2021-01-08 23:02+0100\n"
+"PO-Revision-Date: 2021-01-09 08:30+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -114,15 +114,6 @@ msgstr "léčí +12"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:64
-#, fuzzy
-#| msgid ""
-#| "This unit combines herbal remedies with magic to heal units more quickly "
-#| "than is normally possible on the battlefield.\n"
-#| "\n"
-#| "A unit cared for by this healer may heal up to 8 HP per turn, or stop "
-#| "poison from taking effect for that turn.\n"
-#| "A poisoned unit cannot be cured of its poison by a healer, and must seek "
-#| "the care of a village or a unit that can cure."
 msgid ""
 "This unit combines herbal remedies with magic to heal units more quickly "
 "than is normally possible on the battlefield.\n"
@@ -132,15 +123,13 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the "
 "care of a village or a unit that can cure."
 msgstr ""
-"Tato jednotka kombinuje účinky léčivých rostlin s magií, aby vyléčila "
-"jednotky rychleji než je běžně možné na bitevním poli.\n"
+"Tato jednotka kombinuje účinky léčivých rostlin s magií, aby vyléčila "
+"jednotky rychleji, než je na bojišti obvykle možné.\n"
 "\n"
-"Tato jednotka se na začátku tahu postará o všechny spřátelené zraněné "
-"jednotky stojící na sousedních polích.\n"
-"Zraněná jednotka se může za jeden tah vyléčit až o 8 životů nebo zastavit na "
-"jeden tah průběh otravy.\n"
-"Léčitel nedokáže uzdravit otrávenou jednotku; taková jednotka musí vyhledat "
-"pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat."
+"Jednotka se v péči tohoto léčitele může za jedno kolo vyléčit až o 12 bodů "
+"života, nebo po toto kolo zastavit účinky jedu.\n"
+"Otrávená jednotka nemůže být léčitelem uzdravena a musí vyhledat pomoc ve "
+"vesnici nebo u jednotky, která uzdravovat dokáže."
 
 #. [trait]: id=healthy
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:11
@@ -448,7 +437,7 @@ msgstr ""
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:67
 msgid "Select Tool"
-msgstr "Vybrat nástroj"
+msgstr "Vybírání"
 
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:68
@@ -490,7 +479,7 @@ msgstr "Vybrat 3 políčka v linii."
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:89
 msgid "Clipboard and Paste Tool"
-msgstr ""
+msgstr "Schránka a vkládání"
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:90
@@ -531,7 +520,7 @@ msgstr "Převrátit vertikálně"
 #. [topic]: id=editor_tool_starting
 #: data/core/editor/help.cfg:107
 msgid "Starting Locations Tool"
-msgstr "Nástroj startovních pozic"
+msgstr "Startovní pozice"
 
 #. [topic]: id=editor_tool_starting
 #: data/core/editor/help.cfg:108
@@ -604,15 +593,6 @@ msgstr "Pojmenované oblasti"
 
 #. [topic]: id=editor_named_area
 #: data/core/editor/help.cfg:160
-#, fuzzy
-#| msgid ""
-#| "Named Areas are sets of gamefields which can be addressed during scenario "
-#| "scripting by a given name.\n"
-#| "\n"
-#| "It can be used to abstract between the implementation of an effect and "
-#| "the map specific setting.\n"
-#| "This is a very powerful mechanism since it allows generic scenario "
-#| "codings working with different maps providing the needed named locations."
 msgid ""
 "This tool can create [time_area]s, unlike the name suggests these do not "
 "need to have a specific time zone assigned to them.\n"
@@ -627,14 +607,20 @@ msgid ""
 "This is a very powerful mechanism since it allows generic scenario code to "
 "work with different maps providing the needed named locations."
 msgstr ""
-"Popsané oblasti jsou sady herních políček, na které je možné se odkazovat ve "
-"skriptu scénáře pomocí jeho jména.\n"
+"Tento nástroj umí vytvářet pojmenované oblasti označené [time_area]. "
+"Přestože to název tagu naznačuje, nepotřebují mít přiřazen zvláštní čas.\n"
 "\n"
-"Popisky je možné použít k abstrahování mezi implementací efektu a "
-"specifickým nastavením mapy.\n"
-"Jde o velmi mocný mechanismus, který umožňuje zobecnit naprogramovaný "
-"scénář, aby mohl fungovat na různých mapách, které poskytnou potřebné "
-"popisky mapy."
+"Jsou to sady dlaždic, které lze během skriptování scénáře adresovat jejich "
+"identifikátorem (id). Volitelně mohou mít přiřazenu vlastní časovou zónu. "
+"Nejjednodušší způsob, jak oblast ([time_area]) při skriptování scénáře "
+"adresovat, je atributem \"area=\" ve standardních filtrech oblastí "
+"([filter_location]).\n"
+"\n"
+"Tento nástroj je možné použít pro abstrakci mezi implementací efektu "
+"a určitým nastavením mapy.\n"
+"Je to velice mocný mechanismus, protože umožňuje, aby obecný kód scénáře "
+"pracoval s různými mapami za předpokladu, že poskytují potřebné pojmenované "
+"oblasti."
 
 #. [topic]: id=editor_playlist
 #: data/core/editor/help.cfg:172
@@ -702,15 +688,6 @@ msgstr ""
 
 #. [topic]: id=..editor
 #: data/core/editor/help.cfg:213
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "• <ref>dst='editor_modes' text='Editing Modes'</ref>\n"
-#| "• <ref>dst='editor_toolkit' text='Editor Toolkit'</ref>\n"
-#| "• <ref>dst='editor_palette' text='Editor Palette'</ref>\n"
-#| "• <ref>dst='editor_brush' text='Editor Brushes'</ref> TODO: not sure if "
-#| "it needs a topic on its own\n"
-#| "• <ref>dst='editor_clipboard' text='Editor Clipboard'</ref>"
 msgid ""
 "<header>text='Basic Concepts'</header>\n"
 "• <ref>dst='editor_modes' text='Editing Modes'</ref>\n"
@@ -719,13 +696,12 @@ msgid ""
 "• The clipboard is described in the <ref>dst='editor_tool_paste' text='Paste "
 "Tool'</ref>"
 msgstr ""
-"\n"
+"<header>text='Základní pojmy'</header>\n"
 "• <ref>dst='editor_modes' text='Módy úprav'</ref>\n"
-"• <ref>dst='editor_toolkit' text='Panel nástrojů editoru'</ref>\n"
+"• <ref>dst='editor_toolkit' text='Sada nástrojů editoru'</ref>\n"
 "• <ref>dst='editor_palette' text='Paleta editoru'</ref>\n"
-"• <ref>dst='editor_brush' text='Štětce editoru'</ref> TODO: není jasné, "
-"jestli potřebuje vlastní téma\n"
-"• <ref>dst='editor_clipboard' text='Schránka editoru'</ref>"
+"• Schránka je popsána u nástroje <ref>dst='editor_tool_paste' "
+"text='Vkládání'</ref>"
 
 #. [topic]: id=editor_modes
 #: data/core/editor/help.cfg:223
@@ -763,25 +739,6 @@ msgstr "Nástroje"
 
 #. [topic]: id=editor_toolkit
 #: data/core/editor/help.cfg:242
-#, fuzzy
-#| msgid ""
-#| "The editor provides several tools for editing your maps and scenarios. At "
-#| "all times, one of the editor tools is active. The active tool's context "
-#| "determines the content of the editor palette and context menu.\n"
-#| "\n"
-#| "These following tools are provided:\n"
-#| "\n"
-#| "• <ref>dst='editor_tool_paint' text='Paint Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_fill'  text='Fill Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_select' text='Select Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_paste' text='Paste Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_starting' text='Starting Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_label' text='Label Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_item' text='Item Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_soundsource' text='Soundsource Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_village' text='Village Tool'</ref>\n"
-#| "• <ref>dst='editor_tool_unit' text='Unit Tool'</ref>\n"
-#| "\n"
 msgid ""
 "The editor provides several tools for editing your maps and scenarios. At "
 "all times, one of the editor tools is active. The active tool’s context "
@@ -802,23 +759,24 @@ msgid ""
 "• <ref>dst='editor_tool_village' text='Village Tool'</ref>\n"
 "• <ref>dst='editor_tool_unit' text='Unit Tool'</ref>"
 msgstr ""
-"Editor poskytuje několik nástrojů pro úpravu vašich map a scénářů. Vždy je "
-"aktivní některý z nástrojů. Na vybraném nástroji závisí, jaká paleta a "
-"kontextové menu se v editoru zobrazuje.\n"
+"Editor poskytuje pro úpravu tvých map a scénářů několik nástrojů. Vždy je "
+"jeden z nich aktivní. Vybraný nástroj určuje obsah palety editoru "
+"a kontextového menu.\n"
 "\n"
-"Připravené jsou tyto nástroje:\n"
+"Tyto nástroje jsou dostupné jak v módu pouze pro terén, tak v módu scénáře:\n"
 "\n"
 "• <ref>dst='editor_tool_paint' text='Malování'</ref>\n"
-"• <ref>dst='editor_tool_fill'  text='Vyplňování'</ref>\n"
+"• <ref>dst='editor_tool_fill' text='Vyplňování'</ref>\n"
 "• <ref>dst='editor_tool_select' text='Vybírání'</ref>\n"
 "• <ref>dst='editor_tool_paste' text='Vkládání'</ref>\n"
-"• <ref>dst='editor_tool_starting' text='Vybírání počáteční polohy'</ref>\n"
-"• <ref>dst='editor_tool_label' text='Umístění popisku'</ref>\n"
-"• <ref>dst='editor_tool_item' text='Umístění předmětů'</ref>\n"
-"• <ref>dst='editor_tool_soundsource' text='Výběr zvuku'</ref>\n"
-"• <ref>dst='editor_tool_village' text='Vesnice'</ref>\n"
-"• <ref>dst='editor_tool_unit' text='Jednotky'</ref>\n"
+"• <ref>dst='editor_tool_starting' text='Startovní pozice'</ref>\n"
 "\n"
+"Tyto nástroje jsou dostupné pouze v módu scénáře:\n"
+"\n"
+"• <ref>dst='editor_tool_label' text='Popisky'</ref>\n"
+"• <ref>dst='editor_tool_item' text='Předměty'</ref>\n"
+"• <ref>dst='editor_tool_village' text='Vesnice'</ref>\n"
+"• <ref>dst='editor_tool_unit' text='Jednotky'</ref>"
 
 #. [topic]: id=..editor_mode_terrain
 #: data/core/editor/help.cfg:264
