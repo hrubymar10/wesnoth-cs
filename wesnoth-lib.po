@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-01-07 21:12+0100\n"
+"PO-Revision-Date: 2021-01-09 22:09+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2868,7 +2868,7 @@ msgstr "Žádné"
 #. [label]
 #: data/gui/window/editor_generate_map.cfg:43 src/hotkey/hotkey_command.cpp:243
 msgid "Generate Map"
-msgstr "Vygeneruj mapu"
+msgstr "Generovat mapu"
 
 #. [label]
 #: data/gui/window/editor_generate_map.cfg:58
@@ -2924,7 +2924,7 @@ msgstr "Vytvoř"
 #. [label]
 #: data/gui/window/editor_resize_map.cfg:35 src/hotkey/hotkey_command.cpp:241
 msgid "Resize Map"
-msgstr "Změň velikost"
+msgstr "Změnit velikost"
 
 #. [label]
 #: data/gui/window/editor_resize_map.cfg:54
@@ -6905,15 +6905,15 @@ msgstr "Popis jednotky"
 
 #: src/hotkey/hotkey_command.cpp:97
 msgid "Delete Unit"
-msgstr "Smaž jednotku"
+msgstr "Smazat jednotku"
 
 #: src/hotkey/hotkey_command.cpp:100
 msgid "Save Replay"
-msgstr "Ulož záznam"
+msgstr "Uložit záznam"
 
 #: src/hotkey/hotkey_command.cpp:101 src/hotkey/hotkey_command.cpp:174
 msgid "Save Map"
-msgstr "Ulož mapu"
+msgstr "Uložit mapu"
 
 #: src/hotkey/hotkey_command.cpp:104
 msgid "Repeat Recruit"
@@ -6921,7 +6921,7 @@ msgstr "Zopakuj verbování"
 
 #: src/hotkey/hotkey_command.cpp:106
 msgid "Show/Hide Labels"
-msgstr "Zobraz/skryj popisky"
+msgstr "Zobrazit/skrýt popisky"
 
 #: src/hotkey/hotkey_command.cpp:107
 msgid "End Turn"
@@ -6929,11 +6929,11 @@ msgstr "Ukončit kolo"
 
 #: src/hotkey/hotkey_command.cpp:109
 msgid "Toggle Ellipses"
-msgstr "Zapni/vypni elipsy"
+msgstr "Zapnout/vypnout elipsy"
 
 #: src/hotkey/hotkey_command.cpp:110
 msgid "Toggle Grid"
-msgstr "Zapni/vypni mřížku"
+msgstr "Zapnout/vypnout mřížku"
 
 #: src/hotkey/hotkey_command.cpp:111
 msgid "Mouse Scrolling"
@@ -7108,11 +7108,11 @@ msgstr "Nový scénář"
 
 #: src/hotkey/hotkey_command.cpp:173
 msgid "Load Map"
-msgstr "Načti mapu"
+msgstr "Načíst mapu"
 
 #: src/hotkey/hotkey_command.cpp:175
 msgid "Save Map As"
-msgstr "Ulož mapu jako"
+msgstr "Uložit mapu jako"
 
 #: src/hotkey/hotkey_command.cpp:176
 msgid "Save Scenario As"
@@ -7120,7 +7120,7 @@ msgstr "Uložit scénář jako"
 
 #: src/hotkey/hotkey_command.cpp:177
 msgid "Save All Maps"
-msgstr "Ulož všechny mapy"
+msgstr "Uložit všechny mapy"
 
 #: src/hotkey/hotkey_command.cpp:178
 msgid "Revert All Changes"
@@ -7164,7 +7164,7 @@ msgstr "Další nástroj"
 
 #: src/hotkey/hotkey_command.cpp:192
 msgid "Paint Tool"
-msgstr "Kreslící nástroj"
+msgstr "Nástroj malování"
 
 #: src/hotkey/hotkey_command.cpp:192 src/hotkey/hotkey_command.cpp:193
 msgid ""
@@ -7324,7 +7324,7 @@ msgstr "Výchozí štětec"
 
 #: src/hotkey/hotkey_command.cpp:219
 msgid "Single Tile"
-msgstr "Vlastní buňka"
+msgstr "Jediná dlaždice"
 
 #: src/hotkey/hotkey_command.cpp:220
 msgid "Radius One"
@@ -7344,7 +7344,7 @@ msgstr "Štětec JZ-SV"
 
 #: src/hotkey/hotkey_command.cpp:225
 msgid "Cut"
-msgstr "Vyřízni"
+msgstr "Vyjmout"
 
 #: src/hotkey/hotkey_command.cpp:226
 msgid "Copy"
@@ -7357,7 +7357,7 @@ msgstr "Levým tlačítkem vložíte ze schránky, pravým vyvoláte kontextové
 
 #: src/hotkey/hotkey_command.cpp:227
 msgid "Paste"
-msgstr "Vlož"
+msgstr "Vložit"
 
 #: src/hotkey/hotkey_command.cpp:228
 msgid "Export Selected Coordinates to System Clipboard"
@@ -7365,7 +7365,7 @@ msgstr "Exportovat vybrané souřadnice do schránky systému"
 
 #: src/hotkey/hotkey_command.cpp:229
 msgid "Select All"
-msgstr "Vyber vše"
+msgstr "Vybrat vše"
 
 #: src/hotkey/hotkey_command.cpp:230
 msgid "Select Inverse"
@@ -7373,7 +7373,7 @@ msgstr "Invertovat výběr"
 
 #: src/hotkey/hotkey_command.cpp:231
 msgid "Select None"
-msgstr "Vyber nic"
+msgstr "Zrušit výběr"
 
 #: src/hotkey/hotkey_command.cpp:232
 msgid "Rotate Clipboard Clockwise"
@@ -7393,15 +7393,15 @@ msgstr "Převrátit schránku vertikálně"
 
 #: src/hotkey/hotkey_command.cpp:236
 msgid "Rotate Selection"
-msgstr "Otoč výběr"
+msgstr "Otočit výběr"
 
 #: src/hotkey/hotkey_command.cpp:237
 msgid "Flip Selection"
-msgstr "Otoč výběr"
+msgstr "Převrátit výběr"
 
 #: src/hotkey/hotkey_command.cpp:238
 msgid "Fill Selection"
-msgstr "Vyplň výběr"
+msgstr "Vyplnit výběr"
 
 #: src/hotkey/hotkey_command.cpp:239
 msgid "Generate Tiles in Selection"
@@ -7417,15 +7417,15 @@ msgstr "Otoč mapu"
 
 #: src/hotkey/hotkey_command.cpp:244
 msgid "Apply a Mask"
-msgstr "Aplikuj masku"
+msgstr "Aplikovat masku"
 
 #: src/hotkey/hotkey_command.cpp:245
 msgid "Create Mask"
-msgstr "Vytvoř masku"
+msgstr "Vytvořit masku"
 
 #: src/hotkey/hotkey_command.cpp:246
 msgid "Refresh Display"
-msgstr "Obnov pohled"
+msgstr "Obnovit pohled"
 
 #: src/hotkey/hotkey_command.cpp:248
 msgid "Update Terrain Transitions"
@@ -7449,39 +7449,39 @@ msgstr "Obnovovat přechody terénu automaticky: Částečně"
 
 #: src/hotkey/hotkey_command.cpp:257
 msgid "Refresh Image Cache"
-msgstr "Obnov obrazovou paměť"
+msgstr "Obnovit obrazovou paměť"
 
 #: src/hotkey/hotkey_command.cpp:258
 msgid "Draw Hex Coordinates"
-msgstr "Zobraz souřadnice políček"
+msgstr "Zobrazit souřadnice políček"
 
 #: src/hotkey/hotkey_command.cpp:259
 msgid "Draw Terrain Codes"
-msgstr "Zobraz kódy terénu"
+msgstr "Zobrazit kódy terénu"
 
 #: src/hotkey/hotkey_command.cpp:260
 msgid "Draw Number of Bitmaps"
-msgstr "Zobraz počet bitmap"
+msgstr "Zobrazit počet bitmap"
 
 #: src/hotkey/hotkey_command.cpp:262
 msgid "Save Selection to Area"
-msgstr "Ulož výběr do oblasti"
+msgstr "Uložit výběr do oblasti"
 
 #: src/hotkey/hotkey_command.cpp:263
 msgid "Rename Selected Area"
-msgstr "Přejmenuj vybranou oblast"
+msgstr "Přejmenovat vybranou oblast"
 
 #: src/hotkey/hotkey_command.cpp:264
 msgid "Remove Selected Area"
-msgstr "Odeber vybranou oblast"
+msgstr "Odebrat vybranou oblast"
 
 #: src/hotkey/hotkey_command.cpp:265
 msgid "Add New Area"
-msgstr "Přidej novou oblast"
+msgstr "Přidat novou oblast"
 
 #: src/hotkey/hotkey_command.cpp:267
 msgid "Edit Scenario"
-msgstr "Uprav scénář"
+msgstr "Upravit scénář"
 
 #: src/hotkey/hotkey_command.cpp:268
 msgid "Edit Side"
