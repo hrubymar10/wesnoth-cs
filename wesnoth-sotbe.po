@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2021-01-06 22:54+0100\n"
+"PO-Revision-Date: 2021-01-10 22:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -3876,8 +3876,8 @@ msgid ""
 "I can’t leave these renegades unguarded at our rear. I must take care of "
 "them before continuing."
 msgstr ""
-"Nemůžu v našem týle nechat tyhle odpadlíky nehlídané. Než budu pokračovat, "
-"musím se o ně postarat."
+"Nemůžu v našem týle nechat tyhle odpadlíky nehlídané. Než budu pokračovat, "
+"musím se o ně postarat."
 
 #. [scenario]: id=16_The_Coward
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:4
@@ -3909,12 +3909,11 @@ msgid ""
 "who weren’t killed in combat died from exhaustion, or fell behind and froze "
 "to death."
 msgstr ""
-"Kapou’e a jeho následovníci vykonali vyčerpávající pochod napříč zmrzlými "
-"severními územími. Skřetům to připadalo jako jako neustálá noční můra "
-"skládající se z mrznutí, pochodování a bojování. Jídla bylo málo a zásoby "
-"získané od povstaleckých kmenů se dávaly na přesné příděly. Mnoho slabších "
-"skřetů, kteří nebyli zabiti v boji, zemřelo vyčerpáním nebo zůstali vzadu a "
-"umrzli."
+"Kapou’e a jeho stoupenci vykonali vyčerpávající pochod napříč zmrzlými "
+"Severními zeměmi. Skřetům to připadalo jako neustálá noční můra skládající "
+"se z mrznutí, pochodování a bojování. Jídla bylo málo a zásoby získané od "
+"povstaleckých kmenů se dávaly na přísné příděly. Mnoho slabších skřetů, "
+"kteří nebyli zabiti v boji, zemřelo vyčerpáním nebo zůstali vzadu a umrzli."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:114
@@ -3926,9 +3925,9 @@ msgid ""
 "surely be exterminated."
 msgstr ""
 "I přes tuto noční můru je Kapou’e hnal stejně nemilosrdně jako sebe. Jarní "
-"oblevy měli v zádech a nebylo pochyb, že hrabě Lanbec’h shromažďuje lidskou "
-"armádu. Do té doby museli být skřeti sjednoceni bez ohledu na metodu, "
-"protože roztříštění a nejednotní by bezpochyby byli vyhlazeni."
+"oblevy měli v zádech a nebylo pochyb, že hrabě Lanbec’h shromažďuje armádu "
+"lidí. Do té doby museli být skřeti sjednoceni bez ohledu na metodu, protože "
+"roztříštění a nejednotní by bezpochyby byli vyhlazeni."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:120
@@ -3936,8 +3935,9 @@ msgid ""
 "And so they marched on, persevering in weather that would kill even the most "
 "hardened human, and through fierce bloody battles with belligerent tribes."
 msgstr ""
-"A tak pochodovali dál neúnavně v počasí, které by zabilo dokonce i ty "
-"nejtvrdší lidi, kteří prošli krvavými bitvami proti agresivním kmenům."
+"A tak dál neúnavně pochodovali v počasí, které by zabilo dokonce i ty "
+"nejtvrdší lidi, a prošli urputnými, krvavými bitvami proti znepřáteleným "
+"kmenům."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:126
@@ -3945,8 +3945,8 @@ msgid ""
 "Finally, after over three months, Kapou’e and his exhausted but hardened "
 "army arrived at Bitok, just before the spring thaw."
 msgstr ""
-"Konečně, po třech měsících Kapou’e a jeho vyčerpaná, ale zocelená armáda "
-"přišli k Bitoku těsně před první jarní oblevou."
+"Konečně po více než třech měsících Kapou’e a jeho vyčerpaná, ale zocelená "
+"armáda přišli těsně před první jarní oblevou k Bitoku."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:197
@@ -3956,7 +3956,7 @@ msgstr "Dobré ráno, Šan Taume!"
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:204
 msgid "What... Kapou’e! What in the frozen Northlands are you doing here?!"
-msgstr "Co... Kapou’e! Co děláš v těchto zmrzlých severních zemích?"
+msgstr "Co... Kapou’e! Co děláš v těchto zmrzlých Severních zemích?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:209
@@ -3965,8 +3965,8 @@ msgid ""
 "father’s old friend. How could I not, given his impressive list of recent "
 "accomplishments."
 msgstr ""
-"Ach, jen jsem myslel, že si dopřeji vzpružující zimní procházku a navštívím "
-"otcova starého přítele. Jak bych mohl, když jsem se doslechl o jeho "
+"Ach, jen jsem myslel, že si dopřeji vzpružující zimní procházku a navštívím "
+"otcova starého přítele. Jak bych mohl nepřijít, když jsem se doslechl o jeho "
 "působivých úspěších."
 
 #. [message]: speaker=Shan Taum
@@ -3984,16 +3984,16 @@ msgid ""
 "all, he is directly responsible for a bloody civil war right at the time "
 "when his people are on the edge of total extermination!"
 msgstr ""
-"No podívejme se na to. Nejprve zradí pána, kterému je vázán přísahou a "
-"promění se v boty lízajícího lidského špióna. Potom zařídí smrt poloviny "
-"Velké rady a tím se stane přímo zodpovědným za smrt stovek skřetů. A nakonec "
-"to nejlepší ze všeho, je přímo zodpovědný za krvavou občanskou válku v čase, "
-"kdy jsou jeho lidé na pokraji naprostého vyhlazení!"
+"No tak se na to podívejme. Nejprve zradí pána, kterému je vázán přísahou, "
+"a promění se v patolízalského špióna lidí. Potom zařídí smrt poloviny Velké "
+"rady, a tím se stane přímo zodpovědným za smrt stovek skřetů. A to nejlepší "
+"ze všeho, je přímo zodpovědný za krvavou občanskou válku v čase, kdy jsou "
+"jeho lidé na pokraji naprostého vyhlazení!"
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:226
 msgid "LIES! THESE ARE ALL LIES!"
-msgstr "LŽI! TO JSOU LŽI!"
+msgstr "LŽI! JSOU TO VŠECHNO LŽI!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:231
@@ -4001,13 +4001,13 @@ msgid ""
 "Tell you what, you ungrateful backstabbing traitor, if you surrender right "
 "now I will just cut off your head instead of torturing you to death."
 msgstr ""
-"Něco ti povím ty nevděčný, do zad bodající zrádče, když se vzdáš právě teď a "
-"tady, jen ti useknu hlavu namísto toho abych tě umučil k smrti."
+"Něco ti povím, ty nevděčný, do zad bodající zrádče. Když se hned teď vzdáš, "
+"jen ti useknu hlavu namísto toho, abych tě umučil k smrti."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:237
 msgid "How dare you accuse me of being a traitor, you turdlicker!"
-msgstr "Jak se odvažuješ mne nařknout ze zrady, ty podřadný bastarde!"
+msgstr "Jak se odvažuješ nařknout mne ze zrady, ty podřadný bastarde!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:242
@@ -4036,8 +4036,8 @@ msgid ""
 "men around. He was given control of half the Great Horde. Do you think they "
 "left him?"
 msgstr ""
-"Hej náčelníku, je to divné. Nezdá se, že by měl Šan Taum mnoho mužů kolem. "
-"Měl kontrolu nad polovinou Velké hordy. Myslíte, že ho opustili?"
+"Hej náčelníku, je to dost divné. Nezdá se, že by měl Šan Taum kolem mnoho "
+"mužů. Dostal velení nad polovinou Velké hordy. Myslíte, že ho opustili?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:292
