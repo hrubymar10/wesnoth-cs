@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-18 22:26-0300\n"
-"PO-Revision-Date: 2021-01-13 19:04+0100\n"
+"PO-Revision-Date: 2021-01-14 17:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -840,21 +840,31 @@ msgid ""
 "this is the leftmost of the four buttons at the top of the palette, and the "
 "graphic changes depending on what is selected. Examples:"
 msgstr ""
+"Paleta editoru obsahuje příslušné položky, které můžeš použít s právě "
+"vybraným nástrojem. Například nástroj malování ukáže dlouhý seznam všech "
+"dostupných terénů a nástroj pro jednotky ukáže jednotky, které jsou k mání. "
+"Při použití nástroje pro startovní pozice se paleta změní na výpis „Hráč 1“, "
+"„Hráč 2“ atd.\n"
+"\n"
+"<bold>text='Filtr'</bold>\n"
+"Pro zobrazení pouze podmnožiny dostupných položek existuje funkce filtru – "
+"ze čtyř tlačítek nad paletou je to tlačítko nejvíce vlevo a obrázek na něm "
+"se mění podle toho, co je vybráno. Příklady:"
 
 #. [topic]: id=editor_palette
 #: data/core/editor/help.cfg:297
 msgid "Show all kinds of terrain"
-msgstr ""
+msgstr "Ukázat všechny typy terénu"
 
 #. [topic]: id=editor_palette
 #: data/core/editor/help.cfg:298
 msgid "Show only water terrains"
-msgstr ""
+msgstr "Ukázat jen terény s vodou"
 
 #. [topic]: id=editor_palette
 #: data/core/editor/help.cfg:299
 msgid "Show only villages"
-msgstr ""
+msgstr "Ukázat pouze vesnice"
 
 #. [topic]: id=map_format
 #: data/core/editor/help.cfg:309
