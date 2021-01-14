@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2021-01-10 22:03+0100\n"
+"PO-Revision-Date: 2021-01-14 18:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2287,7 +2287,7 @@ msgstr "Šan Taum"
 #. [side]: type=Orcish Warlord, id=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:69
 msgid "Rivals"
-msgstr ""
+msgstr "Soupeři"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:77
