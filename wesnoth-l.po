@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2021-01-11 19:18+0100\n"
+"PO-Revision-Date: 2021-01-15 15:50+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1917,6 +1917,13 @@ msgid ""
 "peaceful, but back then, we hads our homes and our friends and our family... "
 "now we be creatures of the dark."
 msgstr ""
+"24. zakořene, roku 501 w. l.\n"
+"\n"
+"Slunce tyhle šedý lesy vůbec neprosvítí. Ale popravdě jsem si na to čím dál "
+"víc zvykal. Ty časy, kdy jsem si lebedil na teplým sluníčku, klábosil s "
+"Erwen a koukal, jak si děti hrají na polích... ty časy už jsou dávno pryč. "
+"Naše životy nikdy nebyly opravdu klidný, ale tehdy jsme měli svý domovy, "
+"přátele a rodinu... a teď jsme stvoření temnoty."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:51
@@ -1929,6 +1936,13 @@ msgid ""
 "trinket. I never wanted to goes, of course. I were always real lazy. Still "
 "am, even now."
 msgstr ""
+"Tímhle způsobem se dopracuju k opravdový osamělosti. Pořád mám Harpera a "
+"jsem za toho chlapce vděčnej, ale on opravdu nemůže rozumět starýmu "
+"chlapovi, jako jsem já. Minulost je minulost, to vím. Ale nemohu si pomoct a "
+"těhle chvílích myslívám na ségru. Vzpomínám na starý časy, jak mě vždycky "
+"tahala na nějaký malý hloupý skotačení, malou prácičku za pár zlatejch nebo "
+"malou cetku. Samozřejmě jsem nikdy nechtěl jít. Byl jsem vždycky fakt línej. "
+"A pořád jsem, dokonce i teď."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:55
@@ -1937,6 +1951,9 @@ msgid ""
 "so mopey, live a little!” I know he be trying to be cheery, but Light, he "
 "really don’t know how much he be reminding me of her sometimes..."
 msgstr ""
+"A potom mi Harper řekne: „Pojď, strejdo, čeká nás dobrodružství! Nebuď tak "
+"sklíčenej, oživni trochu!“ Vím, že se snaží bejt veselej, ale ach bože, ani "
+"on sám netuší, jak moc mi ji někdy připomíná..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:59
@@ -1946,11 +1963,16 @@ msgid ""
 "of pride, or my duties to the village, or Harper, or even just remembering "
 "the past, making some futile attempts to go back to better times."
 msgstr ""
+"Musím bejt silnej. To si furt říkám. Předstírám, že jsem silnej, ale... "
+"nevím, co mě vlastně drží v chodu. Je to ten zavádějící pocit hrdosti? Nebo "
+"moje povinnosti vůči vesnici? Nebo Harper? Nebo dokonce jen vzpomínky na "
+"minulost, který jsou spíš marnejma pokusama o návrat do starejch dobrejch "
+"časů?"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:63
 msgid "Either way, I be here now, on this adventure."
-msgstr ""
+msgstr "Ať tak nebo tak, teď jsem tady na tomhle dobrodružství."
 
 #. [side]: type=Shadow Lord, id=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:90
@@ -2087,6 +2109,13 @@ msgid ""
 "villages will be able to resist them. Your only choice would be to flee "
 "farther north into orcish territory."
 msgstr ""
+"A musím ti něco říct, Baldrasi. Během minulého týdne se několik hlídek opět "
+"vydalo přes Velkou řeku do Annuvinu. Žena jménem Relana se jim v čele malé "
+"domobrany postavila a zvítězila. Ale s těžkými ztrátami. Koruna si však "
+"tohoto povstání začala všímat a shromažďuje síly v Halsteadu. Až se tyto "
+"její armády dají do pohybu, žádná z vašich malých vesnic jim nebude schopna "
+"odolat. Vaší jedinou možností by pak bylo uprchnout dále na sever na území "
+"skřetů."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:297
@@ -2094,11 +2123,13 @@ msgid ""
 "We’d never survive there. But would it be so bad if we just swore fealty to "
 "the Queen?"
 msgstr ""
+"Tam bychom nikdy nepřežili. Ale bylo by něco špatnýho na tom, když bychom "
+"přece jen tu věrnost tý královně přísahali?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:301
 msgid "Only if we gots no other choices. Let’s hear the mage’s plan first."
-msgstr ""
+msgstr "Jen pokud nebudem mít jiný možnosti. Nejdřív si vyslechnem mágův plán."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:305
@@ -2110,26 +2141,32 @@ msgid ""
 "Grey Woods. We are in prime position to gnaw away at their troops, crippling "
 "their forces before they ever arrive at their destination."
 msgstr ""
+"Nežádám vás, abyste vedli válku. Přímá konfrontace s armádami Weldynu by "
+"byla nepochybně pošetilá. Máme však v dosahu jiné prostředky. Nejrychlejší "
+"cesta od Dana Tonku do Halsteadu vede průsmykem mezi Hnědými pahorky a Horou "
+"gryfonů, na který navazuje trasa vedoucí přes tento Šedý hvozd. Jsme v "
+"nejlepší pozici, kde se můžem do jejich jednotek zahryznout a ochromit tak "
+"jejich síly dřív, než dorazí na místo určení."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:309
 msgid "Then what?"
-msgstr ""
+msgstr "A potom co?"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:313
 msgid "I am sure you can guess, magistrate."
-msgstr ""
+msgstr "Jsem si jistý, že to uhodneš starosto."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:317
 msgid "You mean to sack Halstead itself."
-msgstr ""
+msgstr "Myslíš vyplenit vlastní Halstead."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:321
 msgid "There’s no way we can fight them all... can we?"
-msgstr ""
+msgstr "Asi s nima nezvládnem bojovat najednou... nebo jo?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:325
@@ -2138,6 +2175,9 @@ msgid ""
 "Either way, that’ll slow them Wesnothians down enough for us to figures out "
 "the next step."
 msgstr ""
+"Nevím. Ale prozatím se přepadávání jejich hlídek zdá být snadno "
+"proveditelný. V každým případě to wesnothský zpomalí natolik, abychom mohli "
+"vyšpekulovat další krok."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:329
@@ -2147,6 +2187,10 @@ msgid ""
 "the end of the woods. The outpost also must not be alerted to our presence, "
 "or we will have the bulk of their forces upon us."
 msgstr ""
+"Moji zvědové za poslední den zjistili přítomnost pěti čet, co míří do "
+"pevnosti, aby se připojili k posádce. Musíme je všechny eliminovat, než se "
+"dostanou k základně na konci lesa. Základna také nesmí být upozorněna na "
+"naši přítomnost, jinak budeme mít v zádech většinu jejich sil."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:340
@@ -2155,25 +2199,19 @@ msgstr "Blíží se první četa..."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:384
-#, fuzzy
-#| msgid ""
-#| "When we are done, no one will fear the open roads and night sky more than "
-#| "the army of the usurper. Strike fast, strike silently... and leave no one "
-#| "alive."
 msgid ""
 "My men and I shall pincer them from the other side of this path. When we are "
 "done, no one shall fear the open roads and night sky more than the armies of "
 "Weldyn. Strike quickly, strike silently... and leave no one alive."
 msgstr ""
-"Až skončíme, nikdo se nebude bát otevřených cest a nočního nebe víc než "
-"armády samozvanců. Udeříme rychle, udeříme tiše... a nikdo nepřežije."
+"Já se svými muži je zmáčkneme z druhé strany této cesty. Až skončíme, nikdo "
+"se nebude bát otevřených silnic a nočního nebe víc než armády Weldynu. "
+"Udeřte rychle, udeřte tiše... a nenechte nikoho naživu."
 
 #. [message]: speaker=Linneus
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:496
-#, fuzzy
-#| msgid "It’s an ambush! Hold your ground!"
 msgid "It’s an ambush! Run!"
-msgstr "Je to past! Držte se!"
+msgstr "Je to past! Vpřed!"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:511
@@ -2184,42 +2222,42 @@ msgstr "Á tady je. A já se divil, kam jsem mohl založit svou oblíbenou čepe
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:545
 msgid "Hey, I found some old coins in this shack."
-msgstr ""
+msgstr "Hej, našel jsem v týhle chatrči nějaké starý mince."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:581
 msgid "Bleagh, a slimy tentacle. Why’s it so big?"
-msgstr ""
+msgstr "Blééé, to je ale slizký chapadlo. Proč je tak velký?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:594
 msgid "There’s a rusty key here. I wonder if it could be useful?"
-msgstr ""
+msgstr "Tady je rezavej klíč. Zajímalo by mě, jestli se bude k něčemu hodit?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:621
 msgid "There is a waterlogged coffin here."
-msgstr ""
+msgstr "Je tu rakev nasáklá vodou."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:634
 msgid "Hey, that key fits in this coffin. Should I open it?"
-msgstr ""
+msgstr "Hej, ten klíč pasuje do tý rakve. Mám jí otevřít?"
 
 #. [option]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:639
 msgid "No, that be a terrible idea."
-msgstr ""
+msgstr "Ne, to je hroznej nápad."
 
 #. [option]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:646
 msgid "Fine, do it."
-msgstr ""
+msgstr "Jasný, udělej to."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:661
 msgid "What is this disgusting monster?"
-msgstr ""
+msgstr "Co je to za nechutný monstrum?"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:666
@@ -2277,16 +2315,18 @@ msgid ""
 "Woods, woods, woods and more woods! Bah, that general had better have a good "
 "reason for dragging me out to Halstead with all these oafs."
 msgstr ""
+"Les, les, les všude jen další les! Ten generál by měl mít sakra dobrej důvod "
+"k tomu, že teď musím táhnout se vší tou pakáží do Halsteadu."
 
 #. [message]: type=Duelist
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:983
 msgid "But cap’n, we’re your loyal troops..."
-msgstr ""
+msgstr "Ale kapitáne, my jsme přece tvoji věrní vojáci..."
 
 #. [message]: type=Master at Arms
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:987
 msgid "Shut it and keep moving."
-msgstr ""
+msgstr "Drž hubu a šlapej."
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1008
@@ -2294,6 +2334,7 @@ msgid ""
 "Several platoons of troops were supposed to arrive today. I wonder if "
 "something happened to them."
 msgstr ""
+"Dnes mělo dorazit několik čet. Zajímalo by mě, jestli se jim něco nestalo."
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1025
@@ -2301,12 +2342,15 @@ msgid ""
 "Something about these woods seems quite unnatural. Perhaps we should stop "
 "sending our soldiers this way."
 msgstr ""
+"Z těch lesů čiší něco zlověstného. Možná bychom měli přestat posílat naše "
+"vojáky touto trasou."
 
 #. [message]: speaker=Archarel
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1041
 msgid ""
 "Troops, to arms! Show these fugitive scum the meaning of the Queen’s law!"
 msgstr ""
+"Vojáci, do zbraně! Ukažte té rebelské spodině sílu královniných zákonů!"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1045
@@ -2314,6 +2358,8 @@ msgid ""
 "With the outpost aware of our presence, we can no longer harry their "
 "reinforcements. Their forces will soon grow too powerful for us to resist."
 msgstr ""
+"Teď, když o nás základna ví, nemůžeme pokračovat v napadání posil. Jejich "
+"síly brzy natolik vzroustou, že jim neodoláme."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1061
@@ -2322,9 +2368,9 @@ msgid ""
 "They were surprised to see their fellow soldiers engaged in combat with the "
 "band of thugs of which they had heard so much."
 msgstr ""
-"Dalšího rána se místní hlídka vrátila do blízké základny. Byli překvapeni, "
-"když spatřili jejich druhy bojovat s bandou hrdlořezů, o kterých tolik "
-"slyšeli."
+"Dalšího rána se místní noční hlídka vracela do blízké základny. Byli "
+"překvapeni, když spatřili své druhy ve víru boje s bandou lupičů, o kterých "
+"tolik slyšeli."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1110
@@ -2394,6 +2440,7 @@ msgstr ""
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1155
 msgid "Then it’s decided. We’ll attack the fort together. Luck be with us."
 msgstr ""
+"Takže je rozhodnuto. Zaútočíme na pevnost společně. Ať nám přeje štěstí."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1195
@@ -2401,11 +2448,15 @@ msgid ""
 "Lieutenant, we were assaulted by a band of outlaws en route to the outpost. "
 "We were barely able to evade them and make it here!"
 msgstr ""
+"Poručíku, cestou na základnu na nás zaútočila banda psanců. Sotva jsme se "
+"jich dokázali zbavit a dostat se sem!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1215
 msgid "Look there! Outlaws and bandits roam these woods, harrying our patrols!"
 msgstr ""
+"Podívejte! V těch lesích se potulují psanci a bandité, co obtěžují naše "
+"hlídky!"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1232
