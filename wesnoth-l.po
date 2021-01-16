@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-10-17 04:28 UTC\n"
-"PO-Revision-Date: 2021-01-15 15:50+0100\n"
+"PO-Revision-Date: 2021-01-16 10:13+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2109,7 +2109,7 @@ msgid ""
 "villages will be able to resist them. Your only choice would be to flee "
 "farther north into orcish territory."
 msgstr ""
-"A musím ti něco říct, Baldrasi. Během minulého týdne se několik hlídek opět "
+"Musím ti něco říct, Baldrasi. Během minulého týdne se několik hlídek opět "
 "vydalo přes Velkou řeku do Annuvinu. Žena jménem Relana se jim v čele malé "
 "domobrany postavila a zvítězila. Ale s těžkými ztrátami. Koruna si však "
 "tohoto povstání začala všímat a shromažďuje síly v Halsteadu. Až se tyto "
@@ -2265,27 +2265,30 @@ msgid ""
 "A ghoul, a creature of disease and pestilence. Kill the putrid thing — its "
 "stench is making me sick."
 msgstr ""
+"Požírač mrtvých, stvoření nemocí a nákazy. Zabijte tu hnilobnou věc, z "
+"jejího zápachu se mi dělá špatně."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:691
 msgid ""
 "Disgusting though it may be, perhaps that creature’s corpse could be useful."
 msgstr ""
+"Jakkoli nechutná může ta věc být, možná by nám její mrtvola mohla být k užitku."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:706
 msgid "Should I use this potion?"
-msgstr ""
+msgstr "Mám použít tento lektvar?"
 
 #. [option]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:708
 msgid "Yes, I’ll use it."
-msgstr ""
+msgstr "Ano, použiju ho."
 
 #. [object]: id=poison_weapon
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:716
 msgid "Vile Concoction"
-msgstr ""
+msgstr "Hnusná směska"
 
 #. [object]: id=poison_weapon
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:718
@@ -2293,21 +2296,23 @@ msgid ""
 "This unit’s melee weapons gain the poison special and this unit gains a "
 "small number of hitpoints."
 msgstr ""
+"Jednotka získává navíc malý počet životů a její zbraně na blízko získávají "
+"speciální vlastnost otravy."
 
 #. [option]
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:752
 msgid "No, I’ll leave it for someone else."
-msgstr ""
+msgstr "Ne, nechám ho pro někoho jiného."
 
 #. [message]: type=Spearman
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:865
 msgid "Doesn’t something about these woods feel weird to you, sir?"
-msgstr ""
+msgstr "Není vám na těch lesích něco divného, pane?"
 
 #. [message]: type=Pikeman
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:869
 msgid "Afraid of ghosts, soldier?"
-msgstr ""
+msgstr "Bojíš se duchů, vojáku?"
 
 #. [message]: type=Master at Arms
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:979
@@ -2375,7 +2380,7 @@ msgstr ""
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1110
 msgid "It be done. Their patrols be shattered and broken."
-msgstr ""
+msgstr "Hotovíčko. Jejich hlídky jsou rozprášené a zničené."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1115
@@ -2384,6 +2389,9 @@ msgid ""
 "these tactics forever, when more platoons arrive. You must make your choice. "
 "Will you fight? Or will you return to your village and beg for amnesty?"
 msgstr ""
+"Výborně, ale boj zdaleka nekončí. Nebudeme moci používat tuto taktiku "
+"navždy, zvlášť když dorazí více čet. Musíte si vybrat. Budete bojovat? Nebo "
+"se vrátíte do své vesnice a budete prosit o amnestii?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1120
@@ -2391,11 +2399,13 @@ msgid ""
 "Amnesty? Knowing these Wesnothians, they’ll have my head. Then again, if I "
 "could gives my life to saves my whole village, I would."
 msgstr ""
+"Amnestii? Jak znám wesnothský, tak budou chtít mojí hlavu. Znovu říkám, že "
+"kdybych mohl dát svůj život za záchranu celý mý vesnice, udělal bych to."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1125
 msgid "We need you! Uncle..."
-msgstr ""
+msgstr "Potřebujeme tě! Strejdo..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1130
@@ -2642,16 +2652,19 @@ msgid ""
 "Dommel! The Queen has sent me and my warriors to support your forces. We "
 "come to squash the puny peasant rebellion."
 msgstr ""
+"Dommele! Královna mě poslala s mejma válečníkama k podpoře tvejch sil. "
+"Přišli jsme utnout tu špinavou sedláckou vzpouru."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:312
 msgid "I received no word from Her Majesty of your arrival, orc."
 msgstr ""
+"Nedostal jsem od Jejího Veličenstva žádnou zprávu o tvém příchodu, skřete."
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:316
 msgid "I have the orders right here."
-msgstr ""
+msgstr "Mám rozkaz bejt právě tady."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:320
@@ -2659,6 +2672,8 @@ msgid ""
 "I care not. I would be a fool and an oaf to let a band of stinky, raider "
 "orcs into Halstead without a fight."
 msgstr ""
+"To je mi jedno. Byl bych blázen a trouba, kdybych takovou bandu páchnoucích "
+"nájezdných skřetů pustil do Halsteadu. A bez boje."
 
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:324
