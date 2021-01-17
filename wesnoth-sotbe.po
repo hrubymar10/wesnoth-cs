@@ -22,7 +22,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-10 21:50+0100\n"
+"PO-Revision-Date: 2021-01-17 06:50+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -2278,7 +2278,7 @@ msgstr "Šan Taum"
 #. [side]: type=Orcish Warlord, id=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:69
 msgid "Rivals"
-msgstr ""
+msgstr "Soupeři"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:77
@@ -4708,15 +4708,12 @@ msgstr "Ahhh!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/utils/deaths.cfg:76
-#, fuzzy
-#| msgid ""
-#| "Blast it, without Inarix to lead his saurians, we can no longer count on "
-#| "their help."
 msgid ""
 "Blast it, without Inarix to lead her saurians, we can no longer count on "
 "their help."
 msgstr ""
-"K čertu. Bez Inarix, vedoucí své ještěráky, nemůžeme počítat s jejich pomocí."
+"Zatraceně. Bez Inarix, která by vedla své ještěráky, nemůžeme s jejich "
+"pomocí počítat."
 
 #: data/campaigns/Son_Of_The_Black_Eye/utils/utils.cfg:74
 msgid "Al’Brock"
