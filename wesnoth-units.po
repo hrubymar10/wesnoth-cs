@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-15 23:07+0100\n"
+"PO-Revision-Date: 2021-01-17 17:23+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -5893,13 +5893,6 @@ msgstr "Obří lasice sněžná"
 # V originále je hlodavec, ale lasice je šelma.
 #. [unit_type]: id=Frost Stoat, race=monster
 #: data/core/units/monsters/Frost_Stoat.cfg:35
-#, fuzzy
-#| msgid ""
-#| "Giant Stoats are a devious rodent predominantly found in the frozen parts "
-#| "of the Northlands, although they can survive anywhere. They generally "
-#| "scavenge and hunt smaller animals, but are territorial and the young "
-#| "adults have been known to attack larger intruders, including humans and "
-#| "orcs."
 msgid ""
 "Frost Stoats are a devious rodent predominantly found in the frozen parts of "
 "the Northlands, although they can survive anywhere. Their most distinctive "
@@ -5909,9 +5902,11 @@ msgid ""
 "attack larger intruders, including humans and orcs."
 msgstr ""
 "Obří lasice patří mezi nevyzpytatelné šelmy, které se vyskytují převážně v "
-"zamrzlých oblastech Severních zemí. Ale přežít mohou kdekoli. Běžně žerou "
-"jen mršiny či loví menší zvířata. Jsou ale teritoriální a je známo, že mladí "
-"dospělci útočí i na větší vetřelce, včetně lidí a skřetů."
+"zamrzlých oblastech Severních zemí. Ale přežít mohou kdekoli. Jejich "
+"nejvýraznějším rysem jsou ledově studené přední drápy, které se u jiných "
+"divokých zvířat nenajdou. Běžně žerou jen mršiny či loví menší zvířata. Jsou "
+"ale poměrně teritoriální a je známo, že mladí dospělci útočí i na větší "
+"vetřelce, včetně lidí a skřetů."
 
 #. [attack]: type=cold
 #: data/core/units/monsters/Frost_Stoat.cfg:104
@@ -5920,15 +5915,15 @@ msgstr "ledové drápy"
 
 #. [unit_type]: id=Giant Stoat
 #: data/core/units/monsters/Frost_Stoat.cfg:170
-#, fuzzy
-#| msgid "Giant Rat"
 msgid "Giant Stoat"
-msgstr "Obří krysa"
+msgstr "Obří lasice"
 
 #. [unit_type]: id=Giant Stoat
 #: data/core/units/monsters/Frost_Stoat.cfg:171
 msgid "Giant Stoats are obsolete, use Frost Stoat."
 msgstr ""
+"Obří lasice jsou již nepoužívané jednotky, využívejte místo nich obří lasice "
+"sněžné."
 
 #. [unit_type]: id=Giant Mudcrawler, race=monster
 #: data/core/units/monsters/Giant_Mudcrawler.cfg:4
@@ -6151,7 +6146,7 @@ msgstr "Pták Noh"
 #. [unit_type]: id=Horned Scarab, race=monster
 #: data/core/units/monsters/Scarab.cfg:4
 msgid "Horned Scarab"
-msgstr ""
+msgstr "Skarab rohatý"
 
 #. [special_note]
 #: data/core/units/monsters/Scarab.cfg:21
@@ -6159,6 +6154,8 @@ msgid ""
 "This unit can burrow under loose dirt, sand, or leaves, concealing itself if "
 "it does not change location."
 msgstr ""
+"Tato jednotka se může zavrtat do kypré hlíny, písku nebo listí a zůstat tam "
+"skryta, dokud se nepohne."
 
 #. [unit_type]: id=Horned Scarab, race=monster
 #: data/core/units/monsters/Scarab.cfg:25
@@ -6168,13 +6165,16 @@ msgid ""
 "of attack is the large, sharp horn growing from their head. Because of their "
 "large size, armor, and horn, they cannot fly."
 msgstr ""
+"Skarabové rohatí jsou druh velkého drsného hmyzu. Mohou dorůst do poměrně "
+"velké velikosti, což z nich činí hrozbu, zvláště v případě, kdy se rozhodnou "
+"být agresivní. Jejich hlavním útočným prostředkem je velký, ostrý roh "
+"vyrůstající z jejich hlavy. Kvůli své velikosti, silnému obrnění a rohu "
+"nemohou létat."
 
 #. [attack]: type=pierce
 #: data/core/units/monsters/Scarab.cfg:53
-#, fuzzy
-#| msgid "thorns"
 msgid "horn"
-msgstr "ostny"
+msgstr "roh"
 
 #. [unit_type]: id=Sea Serpent, race=monster
 #: data/core/units/monsters/Sea_Serpent.cfg:4
@@ -6329,6 +6329,17 @@ msgid ""
 "behavior may be an adaptation to the harsh desert environments they often "
 "inhabit."
 msgstr ""
+"Wyverny jsou velcí plazi, kteří se podobají drakům, nejsou však inteligentní "
+"ani kouzelné. Nicméně skutečnost, že jsou to jen divoká zvířata, by však "
+"neměla u jakékokoli cestovatele, co se s nimi setká, vyvolávat dojem, že od "
+"nich nic nehrozí. Protože když se cítí ohrožené nebo hladové, dokáží být "
+"rychlé a divoké.\n"
+"\n"
+"Wyverny jsou sociální tvorové, obvykle cestující ve dvojicích nebo malých "
+"skupinách. Jejich lovecké vzorce a potravní preference je obtížné rozeznat, "
+"protože často spolupracují s menšími zvířaty, která by mohla být jejich "
+"potenciální kořistí. Toto podivné chování může být výsledkem adaptace na "
+"drsné pouštní prostředí, které často obývají."
 
 #. [attack]: type=impact
 #: data/core/units/monsters/Wild_Wyvern.cfg:86
@@ -6395,17 +6406,6 @@ msgstr "Mladá nága ostrobřit"
 
 #. [unit_type]: id=Naga Dirkfang, race=naga
 #: data/core/units/nagas/Dirkfang.cfg:18
-#, fuzzy
-#| msgid ""
-#| "In contrast to the heavily melee-focused style of their northern "
-#| "brethren, young Naga of the southern waters prefer to soften their prey "
-#| "from afar before closing in. The small chakri they throw can be carried "
-#| "on the wrist or on a belt without causing hindrance.  While any final "
-#| "kill under water must usually be done at close range, the mixed combat "
-#| "style often allows them to live long enough to learn and improve. "
-#| "Sometimes viewed as cowardly by the northern Naga warriors, these "
-#| "fighters are nonetheless effective when it comes time to engage in "
-#| "warfare."
 msgid ""
 "In contrast to the heavily melee-focused style of their northern brethren, "
 "young Naga of the southern waters prefer to soften their prey from afar "
@@ -6508,19 +6508,6 @@ msgstr "Ofidián"
 
 #. [unit_type]: id=Naga Ophidian, race=naga
 #: data/core/units/nagas/Ophidian.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Experienced warriors of the Southern Naga often find work as mercenaries, "
-#| "usually hired by neighboring Dunefolk to control key waterways near the "
-#| "coastline.  Due to their constant confrontations with enemy horsemen, "
-#| "Ophidians have retired the ringed blades of their youth and picked up the "
-#| "piercing bow.  Though generally amicable with their wealthy employers, "
-#| "this friendliness should not be mistaken for loyalty, for the Ophidian "
-#| "are known for readily switching between rival city-state factions at the "
-#| "start of each shipping season, when demand for water-based protection is "
-#| "the highest.  As a group, these nagas encourage a healthy amount of "
-#| "competition among the surface factions, ensuring their services are "
-#| "valued by one tribe or another."
 msgid ""
 "Experienced warriors of the Southern Naga often find work as mercenaries, "
 "usually hired by neighboring Dunefolk to control key waterways near the "
@@ -6563,12 +6550,6 @@ msgstr "Nága vrhač prstenců"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga
 #: data/core/units/nagas/Ringcaster.cfg:17
-#, fuzzy
-#| msgid ""
-#| "The chakram, a greater blade ring than the chakri, is the signature "
-#| "weapon of the southern Naga and their renowned Ringcasters.  Well "
-#| "balanced chakrams are useful for throwing, but the rejected blades make a "
-#| "good fist-load weapon, similar to a sharp-bladed tekko or knuckleduster."
 msgid ""
 "The chakram, a greater blade ring than the chakri, is the signature weapon "
 "of the southern Naga and their renowned Ringcasters. Well balanced chakrams "
