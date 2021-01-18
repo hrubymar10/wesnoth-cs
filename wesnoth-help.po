@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 16:38+0300\n"
-"PO-Revision-Date: 2021-01-16 14:26+0100\n"
+"PO-Revision-Date: 2021-01-18 22:41+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -141,26 +141,40 @@ msgid ""
 "\n"
 "The selected brush changes the size of the tool:"
 msgstr ""
+"Malování dlaždic terénu na mapu.\n"
+"\n"
+"Nástroj malování používá velikosti štětců a paletu terénů.\n"
+"\n"
+"<bold>text='Klávesové modifikátory'</bold>\n"
+"\n"
+"• Shift + kliknutí myší: Když je vybrán základní terén, změní základ "
+"a překryv ponechá. Pokud je vybrán překryv, změní překryv a ponechá základ.\n"
+"• Control + kliknutí myší: Vybere terén pod kurzorem myši, jako kdyby byl "
+"vybrán na paletě terénů (vezme jak základ, tak překryv).\n"
+"\n"
+"<bold>text='Velikosti štětců'</bold>\n"
+"\n"
+"Vybraný štětec mění velikost nástroje:"
 
 #. [topic]: id=editor_tool_paint
 #: data/core/editor/help.cfg:41
 msgid "Paint single hexes."
-msgstr ""
+msgstr "Malovat jednotlivé hexy."
 
 #. [topic]: id=editor_tool_paint
 #: data/core/editor/help.cfg:42
 msgid "Paint seven hexes at a time."
-msgstr ""
+msgstr "Malovat sedm hexů najednou."
 
 #. [topic]: id=editor_tool_paint
 #: data/core/editor/help.cfg:43
 msgid "Paint nineteen hexes at a time."
-msgstr ""
+msgstr "Malovat devatenáct hexů najednou."
 
 #. [topic]: id=editor_tool_paint
 #: data/core/editor/help.cfg:44 data/core/editor/help.cfg:45
 msgid "Paint three hexes in a line."
-msgstr ""
+msgstr "Malovat tři hexy za sebou."
 
 #. [topic]: id=editor_tool_fill
 #: data/core/editor/help.cfg:52
