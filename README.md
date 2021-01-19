@@ -40,7 +40,7 @@ This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth
 
 ## All-Star Team
 
-- [Martin Hrubý (hrubymar10)](https://github.com/hrubymar10) - advisor, former maintainer, owner of this repo
+- [Martin Hrubý](https://github.com/hrubymar10) - advisor, former maintainer, owner of this repo
 - [MultiSeptim](https://github.com/MultiSeptim) - fast translator, army and slang specialist
 - [Michal Žejdl](https://github.com/celerini) - corrector, slow translator, maintainer
 
@@ -59,4 +59,4 @@ This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth
 - Czech translation page on wesnoth wiki: https://wiki.wesnoth.org/CzechTranslation
 - "Konvence českého překladu" on wesnoth wiki: https://wiki.wesnoth.org/CS:Konvence
 - [Additions](https://emer.cz/michal/wesnoth.html) to "Konvence" (in Czech)
-- [Upstream translations stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs)
+- [Upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs)
