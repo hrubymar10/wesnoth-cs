@@ -1,9 +1,6 @@
-# wesnoth-cs `1.14` branch
-Czech translations of The Battle for Wesnoth
+# Czech Translation of The Battle for Wesnoth
 
-## Branches
-* [`1.14`](https://github.com/hrubymar10/wesnoth-cs/tree/1.14) - **Default** branch reflects [`1.14`](https://github.com/wesnoth/wesnoth/tree/1.14) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)
-* ~~[`master`](https://github.com/hrubymar10/wesnoth-cs/tree/master) - branch reflects [`master`](https://github.com/wesnoth/wesnoth/tree/master) branch in [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth)~~ <-- Not created yet
+This branch reflects [upstream 1.14 branch](https://github.com/wesnoth/wesnoth/tree/1.14).
 
 ## Translations Stats
 | Text Domain            | %        |
@@ -41,17 +38,16 @@ Czech translations of The Battle for Wesnoth
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
-## Project Manager
-* [Martin Hrubý (hrubymar10)](https://github.com/hrubymar10)
+## All-Star Team
 
-## Maintainer
-* [celerini](https://github.com/celerini)
+- [Martin Hrubý](https://github.com/hrubymar10) - advisor, former maintainer, owner of this repo
+- [MultiSeptim](https://github.com/MultiSeptim) - fast translator, army and slang specialist
+- [Michal Žejdl](https://github.com/celerini) - corrector, slow translator, maintainer
 
-## Contributors
-* [SuperTukan](https://github.com/SuperTukan)
-* [tapikuv](https://github.com/tapikuv)
-* [Dondor17](https://github.com/Dondor17)
-* [MultiSeptim](https://github.com/MultiSeptim)
+## Former Contributors
+- [SuperTukan](https://github.com/SuperTukan)
+- [tapikuv](https://github.com/tapikuv)
+- [Dondor17](https://github.com/Dondor17)
 
 ## wesnoth-announcement
 `wesnoth-announcement.po` originate from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
@@ -59,11 +55,8 @@ Czech translations of The Battle for Wesnoth
 ## wesnoth-steam
 `wesnoth-steam.po` originate from https://github.com/wesnoth/steam-meta/blob/master/po/cs.po
 
-## Useful links
-* Czech translation page on wesnoth wiki: https://wiki.wesnoth.org/CzechTranslation
-* "Konvence českého překladu" on wesnoth wiki: https://wiki.wesnoth.org/CS:Konvence
-* Translation stats of stable branch: https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs
-* Translation stats of master branch: https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs
-
----
-Synced with commit: [e9347e6](https://github.com/wesnoth/wesnoth/tree/e9347e6219052f34f24e408cf2d2ac5c5be9693c)
+## Useful Links
+- Czech translation page on wesnoth wiki: https://wiki.wesnoth.org/CzechTranslation
+- "Konvence českého překladu" on wesnoth wiki: https://wiki.wesnoth.org/CS:Konvence
+- [Additions](https://emer.cz/michal/wesnoth.html) to "Konvence" (in Czech)
+- [Upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs)
