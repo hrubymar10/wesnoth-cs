@@ -1722,7 +1722,7 @@ msgstr "Maximální úroveň"
 #. [lua]: training.describe_training_level2
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:128
 msgid "level $level"
-msgstr "úroveň $level"
+msgstr "$level|. úroveň"
 
 #. [lua]: training.generate_message
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:145
