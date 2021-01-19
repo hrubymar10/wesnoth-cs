@@ -47,7 +47,7 @@ This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth
 ## Former Contributors
 - [SuperTukan](https://github.com/SuperTukan)
 - [tapikuv](https://github.com/tapikuv)
-- [Dondor17](https://github.com/Dondor17)
+- Dondor17
 
 ## wesnoth-announcement
 `wesnoth-announcement.po` originate from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
