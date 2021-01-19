@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2020-12-27 21:04+0100\n"
+"PO-Revision-Date: 2021-01-19 12:31+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1707,22 +1707,22 @@ msgstr ""
 #. [lua]: training.describe_training_level
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:113
 msgid "$name Training Maximum Level"
-msgstr ""
+msgstr "Maximální úroveň tréninku pro jednotku jménem $name"
 
 #. [lua]: training.describe_training_level
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:117
 msgid "$name Training level $level"
-msgstr ""
+msgstr "$level|. úroveň tréninku pro jednotku jménem $name"
 
 #. [lua]: training.describe_training_level2
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:126
 msgid "Maximum Level"
-msgstr ""
+msgstr "Maximální úroveň"
 
 #. [lua]: training.describe_training_level2
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:128
 msgid "level $level"
-msgstr ""
+msgstr "úroveň $level"
 
 #. [lua]: training.generate_message
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:145
@@ -1952,6 +1952,7 @@ msgstr ""
 msgid ""
 "A soldier is no good without something to fight for. Let me fight for you!"
 msgstr ""
+"Voják ztrácí svou cenu, když nemá zač bojovat. Nech mě za tebe bojovat!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:185
 msgid ""
@@ -1959,10 +1960,13 @@ msgid ""
 "right? Looks like you might be in a tight spot, but don’t worry. No one’s "
 "better at getting out of tight spots than me, boss!"
 msgstr ""
+"Hej, hej, v klidu tam! Ničím jsem ti neublížil. Všichni jsme tu přátelé, že? "
+"Vypadá to, že jste se dostali do úzkých. Ale nebojte se. Nikdo není lepší v "
+"úniku z úzkých míst než já, šéfe!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:190
 msgid "Chin up, lads. Today is a good day to die!"
-msgstr ""
+msgstr "Hlavu vzhůru, chlapci. Dnes je dobrý den na smrt!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:195
 msgid "Brave words. Welcome to The Fight Club..."
@@ -1975,15 +1979,16 @@ msgstr ""
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:202
 msgid "Need a hand? Me an’ me bird can get just about anywheres you need."
 msgstr ""
+"Potřebuješ píchnout? Já a můj pták se dostanem téměř kamkoli, kam potřebuješ."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:207
 msgid "Sounds good. You scared me for a moment."
-msgstr ""
+msgstr "To zní dobře. Na chvíli jsem z vás měl strach."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:210
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:252
 msgid "Cool. We could always need more air power."
-msgstr ""
+msgstr "Skvělé. Nějaká vzdušná síla se nám vždycky hodí."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:219
 msgid ""
@@ -2076,11 +2081,11 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:301
 msgid "You friend are? I friend help!"
-msgstr ""
+msgstr "Tys přítel? Přátelům pomáhám!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:306
 msgid "Me friend. We can play together."
-msgstr ""
+msgstr "Já přítel. Můžem se spojit."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:315
 msgid "Ah, please no hurtings me! I helps you, see?"
@@ -2106,7 +2111,7 @@ msgstr ""
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:339
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:348
 msgid "Oooh oooh oooh! I want to help! Pick me, pick me!"
-msgstr ""
+msgstr "Ouu ouu ouu! Chci pomoci! Vyberte mě, vyberte mě!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:341
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:350
@@ -2375,7 +2380,7 @@ msgstr "Co se to děje?! Na naše břehy se vylodili cizí útočníci!"
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:49
 msgid ""
 "We’ll send them back to where they came from quick enough. All troops, to me!"
-msgstr ""
+msgstr "Pošleme je rychle zpátky tam, odkud přišli. Všichny jednotky ke mně!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:51
@@ -2414,7 +2419,7 @@ msgstr ""
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:61
 msgid "Ready yourselves, men! The conquering hordes are upon us!"
-msgstr ""
+msgstr "Připravte se, muži! Jdou na nás hordy dobyvatelů!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:62
@@ -2422,11 +2427,13 @@ msgid ""
 "Word has come to our island of your victories. Your army is impressive, but "
 "it will avail you not."
 msgstr ""
+"Na náš ostrov se donesly zprávy o tvých vítězstvích. Tvá armáda je působivá, "
+"ale to ti nebude nic platné."
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:63
 msgid "Indeed. You come this far, and no farther!"
-msgstr ""
+msgstr "Dostal jsi se vskutku daleko. Ale dál už se nedostaneš!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:64
@@ -2434,11 +2441,13 @@ msgid ""
 "Hah! We didn’t come all this way just to give up and go home. We will "
 "destroy you as we have destroyed all that have stood before us!"
 msgstr ""
+"Ha! Nepřišli jsme až sem, jen abychom to vzdali a šli domů. Zničíme vás, tak "
+"jako jsme zničili všechny, co se nám postavili!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:65
 msgid "So be it. We stand squarely behind our allies."
-msgstr ""
+msgstr "Budiž. Stojíme přímo za svými spojenci."
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:66
@@ -2986,6 +2995,9 @@ msgid ""
 "better. Adjacent allied units will do 20% more damage. This is cumulative "
 "with leadership."
 msgstr ""
+"Tato jednotka může vést sousedící spojenecké jednotky, což jim umožní lépe "
+"bojovat. Sousedící spojenecké jednotky způsobí o 20 % větší poškození. Tato "
+"schopnost je kumulativní s velením."
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:19
 msgid "corruption"
@@ -3139,7 +3151,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:16
 msgid "Health"
-msgstr ""
+msgstr "Zdraví"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:19
 msgid ""
