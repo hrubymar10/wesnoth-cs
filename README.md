@@ -2,6 +2,8 @@
 
 This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth/tree/master).
 
+Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
+
 ## Translations Stats
 | Text Domain            | %        |
 | ---------------------- |:--------:|
@@ -38,11 +40,7 @@ This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth
 
 `Note:` *This table have only informational purposes and is **not** always up-to-date*
 
-## All-Star Team
-
-- [Martin Hrubý](https://github.com/hrubymar10) - advisor, former maintainer, owner of this repo
-- [MultiSeptim](https://github.com/MultiSeptim) - fast translator, army and slang specialist
-- [Michal Žejdl](https://github.com/celerini) - corrector, slow translator, maintainer
+There are also [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
 ## Former Contributors
 - [SuperTukan](https://github.com/SuperTukan)
@@ -54,9 +52,3 @@ This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth
 
 ## wesnoth-steam
 `wesnoth-steam.po` originate from https://github.com/wesnoth/steam-meta/blob/master/po/cs.po
-
-## Useful Links
-- Czech translation page on wesnoth wiki: https://wiki.wesnoth.org/CzechTranslation
-- "Konvence českého překladu" on wesnoth wiki: https://wiki.wesnoth.org/CS:Konvence
-- [Additions](https://emer.cz/michal/wesnoth.html) to "Konvence" (in Czech)
-- [Upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs)
