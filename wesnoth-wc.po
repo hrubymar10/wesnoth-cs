@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-19 12:31+0100\n"
+"PO-Revision-Date: 2021-01-20 22:18+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -1105,7 +1105,7 @@ msgstr "Výcvik"
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:125
 msgid "$name Training"
-msgstr ""
+msgstr "Výcvik jednotky jménem $name"
 
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:135
@@ -1775,7 +1775,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:14
 msgid "Who you? I help you smash!"
-msgstr ""
+msgstr "Kdo ty být? Já seřezat to pomůžu!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:19
 msgid ""
@@ -1859,10 +1859,13 @@ msgstr ""
 "které bych vám mohl nabídnout. Ale rád vám podám pomocnou ruku."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:94
+#, fuzzy
 msgid ""
 "You have come a long way over the ocean, yet I see that you know little of "
 "her ways. Let me show you."
 msgstr ""
+"Plul jsi dlouho přes oceán, přesto vidím, že znáš jen málo z jejích způsobů. "
+"Dovol mi ukázat ti jak na to."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:103
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:141
@@ -1882,6 +1885,8 @@ msgstr "Samozřejmě. Jak by mohla dívka odmítnout švarného jezdce?"
 msgid ""
 "Hurrah! Now THIS is a battle too grand to be missed. Save some for me, eh?"
 msgstr ""
+"Hurá! TATO bitva je příliš velkolepá, než aby se dala pominout. Nechal jsi "
+"něco i pro mě, nebo ne?"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:121
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:357
@@ -1890,6 +1895,9 @@ msgid ""
 "Ho there, friends! I am but a soldier of humble circumstances, yet long have "
 "I dreamed of joining great wars beyond our shores. Let me join your mission!"
 msgstr ""
+"Hej vy tam, přátelé! Jsem jen pěšákem na šachovnici světa, přesto jsem "
+"dlouho snil o tom, že budu bojovovat ve velkých válkách za našimi břehy. "
+"Dovolte mi, abych se připojil k vaší misi!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:126
 msgid ""
@@ -2140,7 +2148,7 @@ msgstr ""
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:21
 msgid "<b>Autorecall</b>:\n"
-msgstr ""
+msgstr "<b>Automatické přivolání</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:22
@@ -2150,11 +2158,14 @@ msgid ""
 "cost (up to castle size).\n"
 "\n"
 msgstr ""
+"Jednotky s vlastností HEROICKÝ jsou automaticky zdarma přivolány na začátku "
+"každého scénáře (do limitu velikosti hradu).\n"
+"\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:23
 msgid "<b>Recall Cost</b>:\n"
-msgstr ""
+msgstr "<b>Náklady na přivolání</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:24
@@ -2162,11 +2173,13 @@ msgid ""
 "Units costing less than 17 gold are cheaper to recall.\n"
 "\n"
 msgstr ""
+"Jednotky, které stojí méně než 17 zlatých mají menší náklady na přivolání.\n"
+"\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:25
 msgid "<b>Training</b>:\n"
-msgstr ""
+msgstr "<b>Výcvik</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:26
@@ -2207,7 +2220,7 @@ msgstr ""
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:31
 msgid "<b>Army discipline</b>:\n"
-msgstr ""
+msgstr "<b>Armádní disciplína</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:32
@@ -2218,6 +2231,11 @@ msgid ""
 "be advanced.\n"
 "\n"
 msgstr ""
+"V 1. až 3. scénáři mají nalezení cvičitelé za každou úroveň tréninku, co již "
+"hráči vlastní, 2 až 4% šanci stát se pokročilými cvičiteli (a vycvičit tak "
+"jednotku o 2 úrovně). Od 4. scénáře se toto stává irelevantním, neboť "
+"všichni cvičitelé budou vždy pokročilí.\n"
+"\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:34
@@ -2246,12 +2264,12 @@ msgstr ""
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:39
 msgid "Abilities"
-msgstr ""
+msgstr "Schopnosti"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:41
 msgid "Ability <b>Autorecall</b>:\n"
-msgstr ""
+msgstr "Schopnost <b>automatického přivolání</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:45
@@ -2295,6 +2313,16 @@ msgid ""
 "heroes, deserters, and random leaders also depend on your factions; the "
 "items you can get do not depend on the faction you choose."
 msgstr ""
+"<b>Frakce</b>\n"
+" Dobytí světa II pracuje s věkem, který sestává z frakcí, jenž jsou "
+"vytvořeny z dvojice frakcí Základního věku. Jednou z frakcí je ta, která "
+"disponuje léčitelskou jednotkou (Drakonidé, Rebelové či Věrní) a druhou z "
+"frakcí je ta, která jí nedisponuje (Seveřané, Knalganská aliance či "
+"Nemrtví). Verbovací seznam je také uspořádán v párech, takže někdy budeš "
+"muset naverbovat jinou jednotku, než budeš moci naverbovat svou kýženou "
+"jednotku. Tvá frakce také určuje, jací hrdinové, desertéři a náhodní vůdci "
+"budou dostupní. Výběr tvé frakce však neovlivní předměty, které budeš moci "
+"získat."
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:50
@@ -3129,7 +3157,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:4
 msgid "Melee Combat"
-msgstr ""
+msgstr "Boj zblízka"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:7
 msgid ""
@@ -3137,10 +3165,13 @@ msgid ""
 "much use on the field, but I bet I can teach your men a thing or two about "
 "swordplay."
 msgstr ""
+"Vypadá to, že by se ti hodila nějaká pomoc. Prošedivělý starý veterán, jako "
+"jsem já, ti nebude na bitevním poli už moc platný, ale vsadím se, že můžu "
+"naučit tvé muže jeden či dva šermířské triky."
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:10
 msgid "Ranger Tactics"
-msgstr ""
+msgstr "Hraničářská taktika"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:13
 msgid ""
@@ -3148,6 +3179,9 @@ msgid ""
 "for you, but I will gladly instruct your recruits in the art of the ranger, "
 "that they may better fight on their own."
 msgstr ""
+"Fandím ti v tvé záležitostí, ale není to můj boj. Nebudu za tebe bojovat, "
+"ale rád zasvětím tvé nováčky do hraničářského umění, aby zvládli lépe "
+"bojovat sami."
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:16
 msgid "Health"
@@ -3160,6 +3194,9 @@ msgid ""
 "steel in your backbone. When I’m through with you you’ll be able to keep on "
 "going no matter the odds!"
 msgstr ""
+"Vypadá to, že jsi rozpoutal pěkně krutý boj. Mám příliš vlastních potíží, "
+"abych se přidal, ale když chvíli vydržíš, zocelím základ tvých sil. Až s "
+"tebou budu hotov, budeš moci pokračovat a neohlížet se ani vlevo ani vpravo!"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:22
 msgid "Movement"
@@ -3173,6 +3210,11 @@ msgid ""
 "I’ll teach you how to break out of those dreary marching formations and step "
 "light as a feather!"
 msgstr ""
+"Cože, ty chceš abych se připojil k boji? Vůbec nepřichází v úvahu, starý "
+"brachu! Bojím se, že bojiště prostě nejsou scénou pro mě – žádné drama, "
+"žádný styl, žádná romantika! A vůbec žádné finesy! Pravděpodobně bys to "
+"nepochopil, takže mi dovol ti to ukázat. Naučím vás, jak se vymanit z těch "
+"fádních pochodových útvarů a vykročit lehce jako pírko!"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:28
 msgid "Combat Experience"
