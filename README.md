@@ -23,7 +23,7 @@ ETA: **2022-04-15**
 
 Notes:
 - 18 remaining messages in TSG belongs to the disabled scenario 06a Tidings Good and Ill, so translating these isn't to player profit.
-- Most of messages in AI are from demos/test scenarios, so above applies to it as well.
+- [Most of messages in AI are from demos/test scenarios](https://github.com/wesnoth/wesnoth/issues/4669), so above applies to it as well.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
 
