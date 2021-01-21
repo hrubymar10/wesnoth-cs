@@ -6,7 +6,7 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 ## To Do
 
 Domain | Messages | Translated | Remaining
-- | - | - | -
+------ | -------- | ---------- | ---------
 wesnoth-help | 659 | 95 % | 30
 wesnoth-l | 426 | 97 % | 11
 wesnoth-lib | 1433 | 92 % | 101
