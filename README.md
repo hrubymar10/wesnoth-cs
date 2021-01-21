@@ -3,44 +3,25 @@
 This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth/tree/master).
 
 Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
+## To Do
 
-## Translations Stats
-| Text Domain            | %        |
-| ---------------------- |:--------:|
-| `wesnoth`              | **92%**  |
-| `wesnoth-anl`          | **100%** |
-| `wesnoth-announcement` | **45%**  |
-| `wesnoth-did`          | **100%** |
-| `wesnoth-dm`           | **100%** |
-| `wesnoth-dw`           | **100%** |
-| `wesnoth-editor`       | **100%** |
-| `wesnoth-ei`           | **100%** |
-| `wesnoth-help`         | **96%**  |
-| `wesnoth-httt`         | **100%** |
-| `wesnoth-l`            | **74%**  |
-| `wesnoth-lib`          | **94%**  |
-| `wesnoth-low`          | **100%** |
-| `wesnoth-manpages`     | **56%**  |
-| `wesnoth-manual`       | **96%**  |
-| `wesnoth-multiplayer`  | **100%** |
-| `wesnoth-nr`           | **100%** |
-| `wesnoth-sof`          | **62%**  |
-| `wesnoth-sota`         | **100%** |
-| `wesnoth-sotbe`        | **100%** |
-| `wesnoth-steam`        | **100%** |
-| `wesnoth-tb`           | **100%** |
-| `wesnoth-test`         | **100%** |
-| `wesnoth-thot`         | **100%** |
-| `wesnoth-trow`         | **100%** |
-| `wesnoth-tsg`          | **100%** |
-| `wesnoth-tutorial`     | **100%** |
-| `wesnoth-units`        | **100%** |
-| `wesnoth-utbs`         | **94%**  |
-| `wesnoth-wc`           | **68%**  |
+Domain | Messages | Translated | Remaining
+- | - | - | -
+wesnoth-help | 659 | 95 % | 30
+wesnoth-l | 426 | 97 % | 11
+wesnoth-lib | 1433 | 92 % | 101
+wesnoth-manpages | 304 | 56 % | 133
+wesnoth-manual | 557 | 96 % | 17
+wesnoth-sof | 625 | 60 % | 244
+wesnoth-utbs | 1925 | 94 % | 101
+wesnoth-wc | 416 | 74 % | 108
+wesnoth | 1362 | 91 % | 109
 
-`Note:` *This table have only informational purposes and is **not** always up-to-date*
+Translation speed since 2020-08-28: **13** messages per day
 
-There are also [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
+ETA: **2021-03-27**
+
+There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
 ## Former Contributors
 - [SuperTukan](https://github.com/SuperTukan)
