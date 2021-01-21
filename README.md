@@ -17,7 +17,7 @@ wesnoth-units | 614 | 93 % | 37
 wesnoth-utbs | 1924 | 97 % | 55
 wesnoth | 1323 | 97 % | 29
 
-Translation speed since 2019-05-12: **1** message per day
+Progress since 2019-05-12: **1** message per day
 
 ETA: **2022-04-15**
 
