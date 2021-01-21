@@ -17,9 +17,13 @@ wesnoth-units | 614 | 93 % | 37
 wesnoth-utbs | 1924 | 97 % | 55
 wesnoth | 1323 | 97 % | 29
 
-Translation speed since 2019-05-12: **1** messages per day
+Translation speed since 2019-05-12: **1** message per day
 
 ETA: **2022-04-15**
+
+Notes:
+- 18 remaining messages in TSG belongs to the disabled scenario 06a Tidings Good and Ill, so translating these isn't to player profit.
+- Most of messages in AI are from demos/test scenarios, so above applies to it as well.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
 
