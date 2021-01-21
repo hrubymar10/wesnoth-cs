@@ -17,14 +17,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-19 21:05+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2021-01-21 11:43+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:10 data/campaigns/Liberty/_main.cfg:11
@@ -2936,7 +2937,7 @@ msgstr ""
 #. [message]: speaker=Vashna
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:949
 msgid "Grrarrghh... you blasted... fools..."
-msgstr "Grraghh... jste odstřelili... blázni..."
+msgstr "Grraghh... vy ničitelé... blázni..."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:954
@@ -2956,6 +2957,10 @@ msgid ""
 "It were a real shock. I were so stunned, I barely even remembers what "
 "happened after."
 msgstr ""
+"3. sedmikvětu, roku 501 w. l.\n"
+"\n"
+"Byl to skutečnej šok. Byl jsem tak ohromenej, že jsem si sotva pamatoval, co "
+"se stalo potom."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:19
@@ -2967,6 +2972,12 @@ msgid ""
 "regroup. It be looking like we really did disrupt Weldyn’s chain of command, "
 "least for now."
 msgstr ""
+"Nevím, co se stalo s Helikromem, neviděl jsem ani to, jak dopad Maddokův "
+"syn. Já, Harper a pár nás zbylejch jsme vzali nohy na ramena. Teď míříme "
+"zpátky na sever, k Carcynu a Elensefaru. Zdá se, že vojenský hlídky jsou ve "
+"skutečným zmatku. Většinou mi přišlo, že míří zpátky na jih, aby se "
+"přeskupili. Vypadá to, že jsme uspořádání velení weldynskejch rozstřelili, "
+"teda aspoň prozatím."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:22
@@ -2979,6 +2990,12 @@ msgid ""
 "to do next. We gots time now, with that Wesnoth army in chaos, but we can’t "
 "wait forever."
 msgstr ""
+"Jsem si jistej, že začas se wesnothský vrátěj. Když bude Maddok jednat tak, "
+"jak dosud a dřepět ve svý věži, obklíčí wesnothský nakonec Elensefar a město "
+"mu vezmou. Nechává s sebou jima vláčet jak nějakej zbabělec, ale... to už "
+"není můj problém. Pro mě je starostí moje vesnice. Potřebuju se vrátit, "
+"promluvit si s Relanou a vymyslet, co dál. Teď máme čas, s tím chaosem co "
+"vládne v řadách wesnothský armády, ale nemůžem čekat věčně."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:25
@@ -2992,6 +3009,15 @@ msgid ""
 "now that I thinks of it, it be real weird that so few died. The others "
 "must’ve escaped to somewhere. But I didn’t sees any clues here."
 msgstr ""
+"10. sedmikvětu, roku 501 w. l.\n"
+"\n"
+"Dnes jsme se vrátili do Dalbenu, ale vesnice byla prázdná. Našli jsme pár "
+"mrtvejch těl a několik spálenejch domů, ale vesnice nebyla vypleněná ani nic "
+"podobnýho. To musela udělat jedna z těch wesnothskejch hlídek. Proklínám ty "
+"zatracený mizery! Když jsem to tu poprvý viděl na vlastní oči, myslel jsem, "
+"že jsme selhali, že jsme přišli příliš pozdě..., ale teď, když na to "
+"pomyslím, mi přijde fakt divný, jak málo bylo padlejch. Ostatní museli někam "
+"utýct. Ale neviděl jsem žádný stopy nebo náznaky, co by mi poradily."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:31
@@ -3001,6 +3027,10 @@ msgid ""
 "her up some lilies. Seems like this’ll probably be the last time I gets to "
 "see her..."
 msgstr ""
+"Poslal jsem Harpera do Delwynu v naději, že tam něco najde. Mezitím nechám "
+"trochu odpočinout svý unavený tělo a zajdu se podívat na hřbitov za ségrou. "
+"Možná jí tam vezmu nějaký lilie. Vypadá to, že to bude pravděpodobně "
+"naposled, co ji navštívím..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:34
@@ -3012,6 +3042,12 @@ msgid ""
 "can? Besides, she’ll say that I still gots me a little piece of her in "
 "Harper, so I should cherish the lad."
 msgstr ""
+"Řekla by mi samozřejmě, abych nebyl smutnej. Že život byl jedným velkým "
+"dobrodružstvím, plným zábavy a že bych neměl myslet na věci, který nemůžu "
+"změnit. Svět je obrovskej a rozsáhlej a točí se, ať jsou na něm malý lidi "
+"jako já nebo ne. Nemám moc to měnit, tak proč nezkusit žít co nejlíp? Kromě "
+"toho by mi řekla, jak mi v Harperovi pořád přežívá kousek z ní, takže bych "
+"toho chlapce měl opatrovat."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:37
@@ -3021,6 +3057,11 @@ msgid ""
 "all them good times we had together ― somehow, some way, they keeps me "
 "going. Me and Harper, we won’t give up till the very end."
 msgstr ""
+"Budu, Erwen, opravdu budu. Všechno je to opravdu těžký. Nejsem žádná "
+"statečná duše, ani nějakej skvělej bojovník, jen dělám, co je v mejch "
+"silách. A nezapomněl jsem na všechny ty dobrý časy, který jsme spolu "
+"prožívali. Nějak, nějakým způsobem mě to udržuje v chodu. Já ani Harper se "
+"nevzdáme až do samýho konce."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:40
@@ -3031,6 +3072,11 @@ msgid ""
 "but he did bring back some note he found on Relana’s door. Let’s see what it "
 "says."
 msgstr ""
+"14. sedmikvětu, roku 501 w. l.\n"
+"\n"
+"Harper se dnes vrátil z Delwynu. Řekl, že tam nenašel ani živou duši. Ale "
+"přivezl zpátky nějakej vzkaz, co našel na Relaniných dveřích. Podívejme se, "
+"co se tam píše."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:46
@@ -3039,6 +3085,9 @@ msgid ""
 "gave them a good ol thrashing they won’t ever forget. But in the end, it "
 "weren’t enough. We had to run like criminals before they killed us all.”</i>"
 msgstr ""
+"<i>„Baldrasi, měl bys bejt hrdej. Bojovali jsme s těma vojákama dvakrát a "
+"dali jim takovej výprask, na kterej nikdy nezapomenou. Ale teď už nestačíme "
+"s dechem. Museli jsme utýct jak zločinci, než by nás všechny zabili.“</i>"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:50
@@ -3049,6 +3098,11 @@ msgid ""
 "southwest of the city and past the land’s end. See you in the Three Sisters, "
 "old friend. ― Relana”</i>"
 msgstr ""
+"<i>„Nevím, jestli si ty nebo Harper přečtete tenhle vzkaz. Ale pokud jo, "
+"očekávám, že nás půjdete najít. Pamatujete si na pirátský ostrovy, o "
+"kterejch jsme slýchávali od některejch elensefarskejch námořníků? Míříme "
+"tam, jihozápadně od města a za obzor země. Uvidíme se na Třech sestrách, "
+"starej příteli. – Relana“</i>"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:54
@@ -3056,6 +3110,8 @@ msgid ""
 "So they survived! Them islands be a bit far, but I suppose these old bones "
 "has one more adventure left in them..."
 msgstr ""
+"Takže přežili! Ty ostrovy jsou trochu daleko, ale myslím, že v mým starým "
+"těle zbejvá ještě dost energie na další dobrodružství..."
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/campaigns/Liberty/units/Bone_Knight.cfg:5
@@ -3095,8 +3151,8 @@ msgid ""
 msgstr ""
 "Někdy ti nejmocnější válečníci a generálové, prokletí nenávistí a úzkostí, "
 "přicházejí zpět na tento svět jako rytíři Smrti. Mrtví šlechtici jim slouží, "
-"zatímco sbírají dost bezbožné síly, aby se stali rytíři Smrti. Při procesu "
-"přeměny dosáhnou Rytířskou moc, zahrnující velení podřízeným."
+"zatímco sbírají dost bezbožné síly, aby se sami stali rytíři Smrti. Při "
+"procesu přeměny dosáhnou rytířské moci, zahrnující i velení podřízeným."
 
 #. [unit_type]: id=Rogue Mage, race=human
 #: data/campaigns/Liberty/units/Rogue_Mage.cfg:5
