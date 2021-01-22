@@ -4,8 +4,7 @@
 # Copyright (C) 2004 - 2020 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
-# Czech Wesnoth translation team <hrubymar10@gmail.com>,
-#
+# Czech Wesnoth translation team
 #
 # Yeti <yeti@physics.muni.cz> et al, 2004.
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2005 - 2007.
@@ -22,9 +21,9 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2021-01-14 18:18+0100\n"
+"PO-Revision-Date: 2021-01-22 22:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: Český <hrubymar10@gmail.com>\n"
+"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -456,7 +455,7 @@ msgstr ""
 #. [scenario]: id=02_The_Human_Army
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:4
 msgid "The Human Army"
-msgstr "Lidská armáda"
+msgstr "Armáda lidí"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:22
@@ -4055,20 +4054,19 @@ msgid ""
 "Good, we crushed this pocket of resistance too. Now where in the world did "
 "that coward Shan Taum run off to?"
 msgstr ""
-"Dobře, rozdrtili jsme i tohle ohnisko odporu. Teď, kam na světě ten zbabělec "
-"Šan Taum utekl?"
+"Dobře, rozdrtili jsme i tohle ohnisko odporu. A teď bych rád věděl, kam ten "
+"zbabělec Šan Taum zdrhnul."
 
 #. [scenario]: id=17_The_Human_Attack
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:5
 msgid "The Human Attack"
-msgstr "Lidský útok"
+msgstr "Útok lidí"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:25
 msgid "Hold off the humans"
 msgstr "Zadrž lidi"
 
-# | msgid "Earl Lanbec'h"
 #. [objectives]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:28
 msgid "Defeat Earl Lanbec’h"
@@ -4082,9 +4080,9 @@ msgid ""
 "mug out of the traitor’s skull, Kapou’e gathered his men and headed for "
 "Dorest."
 msgstr ""
-"Jak Kapou’e očekával, jednotky, které porazily Šan Tauma ho nikde nenašly. "
-"Skřípajíc zuby a slibujíc, že z lebky zrádce udělá pohár, Kapou’e shromáždil "
-"své muže a zamířil k Dorestu."
+"Jak Kapou’e očekával, v době, kdy oddíly Shan Tauma prohrávaly svůj boj, on "
+"sám nebyl nikde k nalezení. Skřípaje zuby a slibuje, že z lebky zrádce udělá "
+"pohár, Kapou’e shromáždil své muže a zamířil k Dorestu."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:137
@@ -4111,10 +4109,10 @@ msgid ""
 "almost frightening."
 msgstr ""
 "Jejich přítomnost se ukázala být zbytečnou. Byl to šok, když Kapou’e po "
-"několika dnech zjistil, že ho jeho lidé chovají v úctě. Novinky o Kapou’eho "
-"smělých činech se šířily daleko – od záchrany šamanů u Barag Gór až po jeho "
+"několika dnech zjistil, že ho jeho lidé chovají v úctě. Novinky o Kapou’eho "
+"smělých činech se šířily daleko – od záchrany šamanů u Barag Gór až po jeho "
 "nucený pochod severními sněhovými bouřemi. Zvláště mladší vojáci ho uctívali "
-"s horlivostí, která byla skoro děsivá."
+"s horlivostí, která byla skoro děsivá."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:149
@@ -4122,8 +4120,8 @@ msgid ""
 "Days passed, the snows melted and Kapou’e readied his defenses. A few weeks "
 "after Kapou’e’s arrival, riders caught sight of Earl Lanbec’h’s army."
 msgstr ""
-"Dny ubíhaly, sníh tál a Kapou’e připravil své obrany. Několik týdnu po "
-"Kapou’eho příjezdu, jezdci zahlédli armádu hraběte Lanbec’ha."
+"Dny ubíhaly, sníh tál a Kapou’e připravil své bojové síly. Několik týdnů po "
+"Kapou’eho příjezdu jezdci zahlédli armádu hraběte Lanbec’ha."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:238
@@ -4133,9 +4131,10 @@ msgid ""
 "reinforcements on their way. Spare no orc and let us take back this land "
 "which is rightfully ours!"
 msgstr ""
-"To je ono, muži! Je čas, aby skřeti zaplatili za všechno co nám udělali. "
-"Zaútočte beze slitování, máme několik oddílů posil na této cestě. Neušetřete "
-"zádného skřete a zaberte zpátky tuto zemi, která je právopltně naše!"
+"To je ono, muži! Je čas, aby skřeti zaplatili za všechno, co nám udělali. "
+"Zaútočte bez slitování, máme na cestě posily, několik odloučených oddílů. "
+"Neušetřete žádného skřeta a zaberte zpátky tuto zemi, která je právoplatně "
+"naše!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:243
