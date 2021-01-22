@@ -10,14 +10,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-21 11:43+0100\n"
+"PO-Revision-Date: 2021-01-22 22:40+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -25,7 +25,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:10 data/campaigns/Liberty/_main.cfg:11
@@ -1853,7 +1852,7 @@ msgid ""
 "You can come if you wish, but we are mostly interested in speaking to "
 "Baldras."
 msgstr ""
-"Chceš-li být přitom, můžeš. Nás ale hlavně zajímá rozhovor s Baldrasem."
+"Chceš-li být při tom, můžeš. Nás ale hlavně zajímá rozhovor s Baldrasem."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:649
@@ -3401,10 +3400,6 @@ msgstr ""
 msgid "Peasant Huntsman"
 msgstr "Vesnický lovčí"
 
-# | msgid ""
-# | "Huntsmen have spent their lives in the backwoods and swamps of their "
-# | "wilderness homes. They can bullseye wamprats and track anything that "
-# | "moves in their territory."
 #. [unit_type]: id=Huntsman_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:201
 msgid ""
