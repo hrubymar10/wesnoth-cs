@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 16:38+0300\n"
-"PO-Revision-Date: 2021-01-23 09:52+0100\n"
+"PO-Revision-Date: 2021-01-23 10:04+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -111,10 +111,8 @@ msgstr "Editor terénu"
 #. [section]: id=editor_mode_scenario
 #. [topic]: id=..editor_mode_scenario
 #: data/core/editor/help.cfg:20 data/core/editor/help.cfg:269
-#, fuzzy
-#| msgid "Map/Scenario Editor"
 msgid "Scenario Editor"
-msgstr "Editor map/scénářů"
+msgstr "Editor scénářů"
 
 #. [topic]: id=editor_tool_paint
 #: data/core/editor/help.cfg:28
@@ -263,7 +261,7 @@ msgstr "Vybrat tři hexy za sebou."
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:89
 msgid "Clipboard and Paste Tool"
-msgstr ""
+msgstr "Schránka a vkládání"
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:90
@@ -284,29 +282,27 @@ msgstr ""
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:97
 msgid "Rotate clockwise by 60°."
-msgstr ""
+msgstr "Otočit o 60° po směru hodinových ručiček."
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:98
 msgid "Rotate counter-clockwise by 60°."
-msgstr ""
+msgstr "Otočit o 60° proti směru hodinových ručiček."
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:99
 msgid "Flip horizontally"
-msgstr ""
+msgstr "Převrátit horizontálně"
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:100
 msgid "Flip vertically"
-msgstr ""
+msgstr "Převrátit vertikálně"
 
 #. [topic]: id=editor_tool_starting
 #: data/core/editor/help.cfg:107
-#, fuzzy
-#| msgid "Starting Positions Howto"
 msgid "Starting Locations Tool"
-msgstr "Vše o nastavování počáteční pozice"
+msgstr "Startovní pozice"
 
 #. [topic]: id=editor_tool_starting
 #: data/core/editor/help.cfg:109
@@ -719,17 +715,17 @@ msgstr ""
 #. [topic]: id=editor_palette
 #: data/core/editor/help.cfg:366
 msgid "Show all kinds of terrain"
-msgstr ""
+msgstr "Ukázat všechny typy terénu"
 
 #. [topic]: id=editor_palette
 #: data/core/editor/help.cfg:367
 msgid "Show only water terrains"
-msgstr ""
+msgstr "Ukázat jen terény s vodou"
 
 #. [topic]: id=editor_palette
 #: data/core/editor/help.cfg:368
 msgid "Show only villages"
-msgstr ""
+msgstr "Ukázat pouze vesnice"
 
 #. [topic]: id=editor_map_format
 #: data/core/editor/help.cfg:379
