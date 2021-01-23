@@ -13,12 +13,12 @@ wesnoth-manpages | 304 | 56 % | 133
 wesnoth-manual | 557 | 96 % | 17
 wesnoth-sof | 625 | 60 % | 244
 wesnoth-utbs | 1925 | 94 % | 101
-wesnoth-wc | 416 | 78 % | 88
+wesnoth-wc | 416 | 84 % | 64
 wesnoth | 1362 | 91 % | 109
 
 Progress since 2020-08-28: **13** messages per day
 
-ETA: **2021-03-27**
+ETA: **2021-03-25**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
