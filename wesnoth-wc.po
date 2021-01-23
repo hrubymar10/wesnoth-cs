@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-21 22:04+0100\n"
+"PO-Revision-Date: 2021-01-23 00:00+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -157,12 +157,12 @@ msgid ""
 "pair. The following pairs can also be found here:"
 msgstr ""
 "Pokaždé, když naverbuješ jednotku, je v tvém verbovacím seznamu nahrazena "
-"svou dvojicí. Následující dvojice najdeš také zde:"
+"sdruženou jednotkou z dvojice. Sdružené dvojice jednotek najdeš také zde:"
 
 #. [lua]: wesnoth.wml_actions.wc2_recruit_info
 #: data/campaigns/World_Conquest/lua/era/era.lua:316
 msgid "You are not using a WC2 faction."
-msgstr ""
+msgstr "Nepoužíváš frakci z věku Dobytí světa 2."
 
 #. [lua]: artifacts.give_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/artifacts.lua:146
@@ -172,7 +172,7 @@ msgstr "Nemůžu si to vzít."
 #. [lua]: wesnoth.wml_actions.wc2_show_item_info
 #: data/campaigns/World_Conquest/lua/game_mechanics/artifacts.lua:228
 msgid "Remind me what this item does"
-msgstr "Připomeň mi, jak tato možnost funguje"
+msgstr "Připomeň mi, jak tato věc funguje"
 
 #. [lua]: wesnoth.wml_actions.wc2_place_bonus
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:24
@@ -896,7 +896,7 @@ msgstr "Bažina"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
 msgid "Delirium"
-msgstr "Delirium"
+msgstr "delirium"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
@@ -908,11 +908,11 @@ msgstr "Delirium"
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
 msgid "Conclave"
-msgstr "Konkláve"
+msgstr "konkláve"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
 msgid "Farm"
-msgstr "Farma"
+msgstr "farma"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
@@ -952,11 +952,11 @@ msgstr "Větrný mlýn"
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
 msgid "Outpost"
-msgstr "Hláska"
+msgstr "hláska"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
 msgid "Shelter"
-msgstr "Útulek"
+msgstr "útulek"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
 msgid "Altar"
@@ -1087,7 +1087,7 @@ msgstr "povýšit na vůdce"
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:103
 msgid "possible units:"
-msgstr "dostupné jednotky:"
+msgstr "Dostupné jednotky:"
 
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:110
@@ -1104,7 +1104,7 @@ msgstr "Výcvik"
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:125
 msgid "$name Training"
-msgstr "Výcvik jednotky jménem $name"
+msgstr "Výcvik $name"
 
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:135
@@ -1706,12 +1706,12 @@ msgstr ""
 #. [lua]: training.describe_training_level
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:113
 msgid "$name Training Maximum Level"
-msgstr "Maximální úroveň tréninku pro jednotku jménem $name"
+msgstr "Maximální úroveň tréninku pro $name"
 
 #. [lua]: training.describe_training_level
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:117
 msgid "$name Training level $level"
-msgstr "$level|. úroveň tréninku pro jednotku jménem $name"
+msgstr "$level|. úroveň tréninku pro $name"
 
 #. [lua]: training.describe_training_level2
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:126
@@ -1726,17 +1726,17 @@ msgstr "$level|. úroveň"
 #. [lua]: training.generate_message
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:145
 msgid "$chance| chance to $arrow $desc"
-msgstr ""
+msgstr "$chance| šance na $arrow $desc"
 
 #. [lua]: training.apply
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:221
 msgid "trained"
-msgstr "trénovaný"
+msgstr "vycvičený"
 
 #. [lua]: training.apply
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:222
 msgid "female^trained"
-msgstr "trénovaná"
+msgstr "vycvičená"
 
 #. [lua]: training.describe_bonus
 #: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:274
@@ -2123,7 +2123,7 @@ msgstr "Ouu ouu ouu! Chci pomoci! Vyberte mě, vyberte mě!"
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:341
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:350
 msgid "...fine. I guess."
-msgstr ""
+msgstr "Tak fajn. Myslím, že to půjde."
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:17
@@ -2133,16 +2133,21 @@ msgstr "Herní mechanika"
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:19
 msgid "<b>Gold</b>:\n"
-msgstr "<b>Zlatých</b>:\n"
+msgstr "<b>Peníze</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:20
+#, fuzzy
 msgid ""
 "Carryover rate is 15% and split evenly among players. Negative amounts will "
 "not carry over. Early finish bonus is superior to village control, but it is "
 "not directly related to the carryover amount.\n"
 "\n"
 msgstr ""
+"Míra přenesení zlata je 15 % a zlato se dělí rovným dílem mezi hráče. "
+"Záporné zlato se nepřenáší. Bonus za rychlý konec je nadřazen kontrole "
+"vesnic, ale nesouvisí přímo s částkou převodu.\n"
+"\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:21
@@ -2189,11 +2194,16 @@ msgid ""
 "another’s.\n"
 "\n"
 msgstr ""
+"Pokaždé, když naverbuješ novou jednotku, projde výcvikem na úrovních, které "
+"ovládáš. Pokud jednotka získá z výcviku výhody, je označena vlastností "
+"„vycvičená“. Šance každé jednotky získat z výcviku výhody je nezávislá na "
+"šancích ostatních jednotek.\n"
+"\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:27
 msgid "<b>Upkeep</b>:\n"
-msgstr ""
+msgstr "<b>Údržba</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:28
@@ -2201,11 +2211,14 @@ msgid ""
 "Units with trait HEROIC or holding any magic ITEM have FREE upkeep.\n"
 "\n"
 msgstr ""
+"Jednotky s vlastností HEROICKÝ nebo držící nějaký magický PŘEDMĚT nevyžadují "
+"peníze na údržbu.\n"
+"\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:29
 msgid "<b>Bonus Points</b>:\n"
-msgstr ""
+msgstr "<b>Bonusová místa</b>:\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:30
@@ -2278,6 +2291,10 @@ msgid ""
 "recruited units. The following list shows all available training, the "
 "training you currently have is marked in green."
 msgstr ""
+"<b>Výcvik</b>\n"
+"Výcvik vylepšuje nově naverbované jednotky, na již existující jednotky nemá "
+"žádný vliv. Následující seznam zobrazuje veškerý dostupný výcvik, zeleně "
+"jsou označeny úrovně výcviku, které již ovládáš."
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:47
@@ -2313,15 +2330,14 @@ msgid ""
 "items you can get do not depend on the faction you choose."
 msgstr ""
 "<b>Frakce</b>\n"
-" Dobytí světa II pracuje s věkem, který sestává z frakcí, jež jsou "
-"vytvořeny z dvojic frakcí Základního věku. Jednou z frakcí je ta, která "
-"disponuje léčitelskou jednotkou (Drakonidé, Rebelové či Věrní), a druhou z "
-"frakcí je ta, která jí nedisponuje (Seveřané, Knalganská aliance či "
-"Nemrtví). Verbovací seznam je také uspořádán v párech, takže někdy budeš "
-"muset naverbovat jinou jednotku, než budeš moci naverbovat tu svou "
-"kýženou. Tvá frakce také určuje, jací hrdinové, desertéři a náhodní vůdci "
-"budou dostupní. Výběr tvé frakce však neovlivní předměty, které budeš moci "
-"získat."
+" Dobytí světa II pracuje s věkem, který sestává z frakcí, jež jsou vytvořeny "
+"z dvojic frakcí Základního věku. Jednou z frakcí je ta, která disponuje "
+"léčitelskou jednotkou (Drakonidé, Odbojní či Věrní), a druhou z frakcí je "
+"ta, která jí nedisponuje (Seveřané, Knalganská aliance či Nemrtví). "
+"Verbovací seznam je také uspořádán v párech, takže někdy budeš muset "
+"naverbovat jinou jednotku, než budeš moci naverbovat tu svou kýženou. Tvá "
+"frakce také určuje, jací hrdinové, zběhové a náhodní vůdci budou dostupní. "
+"Výběr tvé frakce však neovlivní předměty, které budeš moci získat."
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:50
@@ -2357,7 +2373,7 @@ msgid ""
 "Why do we fight amongst ourselves? We should band together and take the "
 "coast with our combined forces!"
 msgstr ""
-"Proč bojujeme mezi sebou? Měli bychom se spojit a společně dosáhnou pobřeží!"
+"Proč bojujeme mezi sebou? Měli bychom se spojit a společně dosáhnout pobřeží!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:36
@@ -2365,7 +2381,7 @@ msgid ""
 "You speak truly; together we can overpower the rest. After that, who knows? "
 "Together we could go on to conquer other lands across the sea!"
 msgstr ""
-"Máš pravdu. Společně můžeme ostatní přemoci. A poté, kdo ví? Mohli bychom "
+"Máš pravdu. Společně můžeme přemoct ostatní. A pak, kdo ví? Mohli bychom "
 "společně pokračovat v dobývání dalších zemí za mořem!"
 
 #. [lua]: end_message
@@ -2407,7 +2423,7 @@ msgstr "Co se to děje?! Na naše břehy se vylodili cizí útočníci!"
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:49
 msgid ""
 "We’ll send them back to where they came from quick enough. All troops, to me!"
-msgstr "Pošleme je rychle zpátky tam, odkud přišli. Všichny jednotky ke mně!"
+msgstr "Pošleme je rychle zpátky tam, odkud přišli. Všechny jednotky ke mně!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:51
@@ -2565,7 +2581,7 @@ msgstr " mapa: "
 
 #: data/campaigns/World_Conquest/lua/optional_mechanics/pick_advance.lua:10
 msgid "Preset Advancement"
-msgstr ""
+msgstr "Přednastavení povýšení"
 
 #. [lua]: wesnoth.wml_actions.wc2_pya_pick
 #: data/campaigns/World_Conquest/lua/optional_mechanics/pick_advance.lua:41
@@ -2574,15 +2590,18 @@ msgid ""
 "\n"
 "What are your new orders?"
 msgstr ""
+"Momentálně mám přednastavené povýšení na jednotku: $name\n"
+"\n"
+"Jaké jsou tvé nové rozkazy?"
 
 #. [lua]: wesnoth.wml_actions.wc2_pya_pick
 #: data/campaigns/World_Conquest/lua/optional_mechanics/pick_advance.lua:48
 msgid "Random"
-msgstr ""
+msgstr "Náhodná"
 
 #: data/campaigns/World_Conquest/lua/optional_mechanics/unitmarker.lua:12
 msgid "Special Overlay"
-msgstr ""
+msgstr "Speciální označení"
 
 #: data/campaigns/World_Conquest/resources/strings/artifacts.cfg:4
 msgid "Adamant armor"
@@ -3102,27 +3121,27 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:61
 msgid "Full movement on turn recruited or recalled"
-msgstr ""
+msgstr "volný pohyb hned po verbování nebo přivolání"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:64
 msgid "optional charge"
-msgstr ""
+msgstr "možnost volby výpadu"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:67
 msgid "tenacity"
-msgstr ""
+msgstr "tvrdošíjnost"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:70
 msgid "This unit’s vulnerabilities are halved when defending."
-msgstr ""
+msgstr "Zranitelnosti této jednotky jsou při obraně sníženy na polovinu."
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:73
 msgid "free upkeep"
-msgstr ""
+msgstr "nulové náklady na údržbu"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:76
 msgid "full movement"
-msgstr ""
+msgstr "volný pohyb"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:79
 msgid "terrain^water"
@@ -3134,7 +3153,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:85
 msgid "no undead^consumed by a living being:"
-msgstr ""
+msgstr "při požití živou jednotkou:"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:88
 msgid "up to"
@@ -3152,7 +3171,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:4
 msgid "per level"
-msgstr ""
+msgstr "(za každou úroveň)"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:4
 msgid "Melee Combat"
@@ -3170,7 +3189,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:10
 msgid "Ranger Tactics"
-msgstr "Hraničářská taktika"
+msgstr "Hraničářské taktiky"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:13
 msgid ""
@@ -3195,7 +3214,7 @@ msgid ""
 msgstr ""
 "Vypadá to, že jsi rozpoutal pěkně krutý boj. Mám příliš vlastních potíží, "
 "abych se přidal, ale když chvíli vydržíš, zocelím základ tvých sil. Až s "
-"tebou budu hotov, budeš moci pokračovat a neohlížet se ani vlevo ani vpravo!"
+"nimi budu hotov, budete moci pokračovat a neohlížet se ani vlevo ani vpravo!"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:22
 msgid "Movement"
@@ -3211,13 +3230,13 @@ msgid ""
 msgstr ""
 "Cože, ty chceš, abych se připojil k boji? Vůbec nepřichází v úvahu, starý "
 "brachu! Bojím se, že bojiště prostě nejsou scénou pro mě – žádné drama, "
-"žádný styl, žádná romantika! A vůbec žádné finesy! Pravděpodobně bys to "
-"nepochopil, takže mi dovol ti to ukázat. Naučím vás, jak se vymanit z těch "
-"fádních pochodových útvarů a vykročit lehce jako pírko!"
+"žádný styl, žádná romantika! A vůbec žádné finesy! Pravděpodobně byste to "
+"nepochopili, takže mi dovolte vám to ukázat. Naučím vás, jak se vymanit z "
+"těch fádních pochodových útvarů a vykročit lehce jako pírko!"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:28
 msgid "Combat Experience"
-msgstr ""
+msgstr "Ostřílenost"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:31
 msgid ""
@@ -3226,13 +3245,19 @@ msgid ""
 "for you. I know what real battle is like; by the time I’m through with ’em, "
 "your newbies might have some idea of it too."
 msgstr ""
+"Připojit se k bitvě? Kdepak, chlapci, můj talent by byl na frontě zbytečný. "
+"Dejte mi ale pár čerstvých rekrutů, se kterými budu pracovat, a já vám je "
+"dostanu do formy. Vím, o čem je skutečná bitva. Až s nimi skončím, mohli by "
+"o tom mít představu i vaši nováčci."
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:34
 msgid "Dark"
-msgstr ""
+msgstr "Temná umění"
 
 #: data/campaigns/World_Conquest/resources/strings/training.cfg:37
 msgid ""
 "I haven’t lived centuries fighting others’ battles, but I could combat "
 "boredom teaching your men a couple of things about dark techniques."
 msgstr ""
+"Nežil jsem staletí, abych bojoval v cizích bitvách. Ale mohl bych zahnat nudu a "
+"naučit vaše muže pár věcí o temných technikách."
