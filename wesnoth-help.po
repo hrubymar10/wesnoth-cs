@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-01-20 21:08+0100\n"
+"PO-Revision-Date: 2021-01-23 09:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -479,26 +479,38 @@ msgid ""
 "\n"
 "The selected brush changes the size of the tool:"
 msgstr ""
+"Vybere množinu šestiúhelníkových políček pro použití s tlačítky Vyjmout, "
+"Kopírovat a Vyplnit výběr, která se nacházejí pod lištou s menu.\n"
+"\n"
+"<bold>text='Klávesové modifikátory'</bold>\n"
+"\n"
+"• Shift + kliknutí myší: Režim „kouzelné hůlky“ vybere hex pod kurzorem myši "
+"a sousední hexy se stejným typem terénu.\n"
+"• Control + kliknutí myší: Zruší výběr hexů.\n"
+"\n"
+"<bold>text='Velikosti štětců'</bold>\n"
+"\n"
+"Vybraný štětec mění velikost nástroje:"
 
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:78
 msgid "Select single hexes."
-msgstr "Vybrat jedno políčko."
+msgstr "Vybrat jednotlivé hexy."
 
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:79
 msgid "Select seven hexes at a time."
-msgstr "Vybrat 7 políček najednou."
+msgstr "Vybrat sedm hexů najednou."
 
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:80
 msgid "Select nineteen hexes at a time."
-msgstr "Vybrat 19 políček najednou."
+msgstr "Vybrat devatenáct hexů najednou."
 
 #. [topic]: id=editor_tool_select
 #: data/core/editor/help.cfg:81 data/core/editor/help.cfg:82
 msgid "Select three hexes in a line."
-msgstr "Vybrat 3 políčka v linii."
+msgstr "Vybrat tři hexy za sebou."
 
 #. [topic]: id=editor_tool_paste
 #: data/core/editor/help.cfg:89
