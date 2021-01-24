@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2020-12-13 14:29+0100\n"
+"PO-Revision-Date: 2021-01-24 17:45+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Český <hrubymar10@gmail.com>\n"
 "Language: cs\n"
@@ -145,6 +145,8 @@ msgid ""
 "dazed: This unit is dazed. It suffers a -10% penalty to both its defense and "
 "chance to hit (except for magical attacks)."
 msgstr ""
+"omámení: Tato jednotka je omámená. O 10 % se snižuje jak její obrana, tak "
+"šance zasáhnout útokem (s výjimkou magických útoků)."
 
 #. [scenario]: id=01_The_Morning_After
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:5
@@ -642,10 +644,8 @@ msgstr "Chraňte kněžky, pošleme tu obludnost zpět do hloubek, odkud pocház
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:810
-#, fuzzy
-#| msgid "These fields seem strangely vacant. Where are the horses?"
 msgid "These fields seem strangely vacant. Where are the dustboks?"
-msgstr "Pole se zdají podivně prázdná. Kde jsou koně?"
+msgstr "Ohrady se zdají podivně prázdné. Kam se poděly antilopy?"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:815
@@ -664,59 +664,43 @@ msgstr "Je bezpečné vycházet ven? Byl jsem tak vyděšený."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:862
-#, fuzzy
-#| msgid "Where are all the other horses?"
 msgid "Where are all the other dustboks?"
-msgstr "Kde jsou všichni další koně?"
+msgstr "Kde jsou všechny další antilopy?"
 
 #. [message]: speaker=Naru
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:867
-#, fuzzy
-#| msgid ""
-#| "A hunting party left just yesterday, so unless the rocks fell all over "
-#| "the land, many of the horses have probably survived. The few that "
-#| "remained here were scared by the falling rocks and fled into the night. "
-#| "It took all my skill to calm Yasi and keep him from running."
 msgid ""
 "A hunting party left just yesterday, so unless the rocks fell all over the "
 "land, many of the dustboks have probably survived. The few that remained "
 "here were scared by the falling rocks and fled into the night. It took all "
 "my skill to calm Yasi and keep him from running."
 msgstr ""
-"Lovci zrovna včera odjeli, takže pokud kameny nepadaly po celé zemi, mnoho "
-"koní zřejmě přežilo. Těch pár, kteří tu zůstali, tak vystrašily padající "
-"balvany, že uprchli do noci. Jen stěží jsem uklidnil Yasiho a zabránil mu "
-"utéct."
+"Skupina lovců odjela zrovna včera, takže pokud kameny nepadaly po celé zemi, "
+"mnoho antilop zřejmě přežilo. Těch pár, co tu zůstalo, tak vystrašily "
+"padající balvany, že uprchly do noci. Jen stěží jsem uklidnil Yasiho a "
+"zabránil mu utéct."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:872
-#, fuzzy
-#| msgid ""
-#| "We’ll need your help in checking to see if the outer settlements "
-#| "survived. Who knows what kinds of damage they suffered in the night? And "
-#| "perhaps some of the people out in the desert have been able to round up "
-#| "some of the loose horses."
 msgid ""
 "We’ll need your help in checking to see if the outer settlements survived. "
 "Who knows what kinds of damage they suffered in the night? And perhaps some "
 "of the people out in the desert have been able to round up some of the loose "
 "dusties."
 msgstr ""
-"Budeme potřebovat tvou pomoc při kontrole vnějších osad. Snad přežili! Kdo "
+"Budeme potřebovat tvou pomoc při kontrole přeživších z vnějších osad. Kdo "
 "ví, co všechno se jim mohlo v noci stát? A třeba někteří z těch venku v "
-"poušti dokázali chytit některé uprchlé koně."
+"poušti dokázali sehnat zpátky některé uprchlé antilopy."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:877
 msgid "We can only hope that hunting party returns soon."
-msgstr "No, doufejme, že se lovci vrátí brzy."
+msgstr "No, doufejme, že se lovci brzy vrátí."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:887
-#, fuzzy
-#| msgid "Hey, Nisa, the rocks have stopped falling. You can come out now!"
 msgid "Hey, Nisen, the rocks have stopped falling. You can come out now!"
-msgstr "Hej, Niso, kamení už přestalo padat. Můžeš vyjít ven!"
+msgstr "Hej, Nisene, kamení už přestalo padat. Už můžeš vyjít ven!"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:891
@@ -749,7 +733,7 @@ msgid ""
 "bloodstains but nothing else. I fear for those elves who lived out here."
 msgstr ""
 "Tato osada je opuštěná. Jsou tu známky násilí a pár krvavých skvrn, ale "
-"jinak nic. Bojím se o ty elfy, kteří tu žili."
+"jinak nic. Bojím se o ty, kteří tu žili."
 
 #. [unit]: type=Necromancer, type=Dark Sorcerer, id=Xanthos
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1082
@@ -791,17 +775,12 @@ msgstr ""
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1118
-#, fuzzy
-#| msgid ""
-#| "Bah, I’ve fought these dark cultists before. They can be killed just like "
-#| "anyone else, and our elvish hunters can easily defeat their skeleton "
-#| "armies."
 msgid ""
 "Bah, I’ve fought these dark cultists before. They can be killed just like "
 "anyone else, and our riders can easily defeat their skeleton armies."
 msgstr ""
 "Pche, bojoval jsem už s takovými temnými kultisty. Dají se zabít jako každý "
-"jiný, a naši elfí lovci snadno rozmetají jejich kostlivé armády."
+"jiný, a naši jezdci snadno rozmetají jejich kostlivé armády."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1123
@@ -1126,6 +1105,8 @@ msgid ""
 "Your units become dehydrated during the day, losing hitpoints and damage "
 "when they are not on a water hex"
 msgstr ""
+"Tvé jednotky jsou během dne dehydrovány a dokud nejsou na políčku s vodou "
+"ztrácejí životy a sílu poškození"
 
 #. [note]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:235
@@ -1133,16 +1114,18 @@ msgid ""
 "Units are refreshed at the start of your turn when they are on a water or "
 "oasis hex"
 msgstr ""
+"Jednotky se občerství na začátku tvého tahu, pokud jsou na políčku s vodou "
+"nebo na oáze"
 
 #. [note]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:238
 msgid "Healers can prevent dehydration from getting worse, but cannot heal it"
-msgstr ""
+msgstr "Léčitelé mohou bránit postupu dehydratace, ale nemohou ji vyléčit"
 
 #. [note]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:241
 msgid "Healers are unable to heal adjacent units during the day"
-msgstr ""
+msgstr "Léčitelé nejsou během dne schopni léčit sousedící jednotky"
 
 #. [label]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:265
@@ -1158,10 +1141,11 @@ msgid ""
 "nightfall, but all his magics couldn’t save him when we cut off his head. "
 "Ah, those were the days..."
 msgstr ""
-"Kdysi dávno, ještě jako mladík, jsem tudy šel; vyrazili jsme proti "
-"nekromantovi skrývajícímu se v jedné z ruin, vytvářel armádu nemrtvých. Byla "
-"to ošklivá bitva, hlavně po setmění, ale všechna jeho magie mu nepomohla, "
-"když jsme mu usekli hlavu. Jo, to byly časy..."
+"Kdysi dávno, ještě jako mladík, jsem těmi písky putoval. Vyrazili jsme na "
+"velkou výpravu proti hnusnému nekromantovi skrývajícímu se v jedné z ruin, "
+"který vytvářel armádu nemrtvých. Byla to ošklivá bitva, hlavně po setmění, "
+"ale veškerá jeho magie mu nebyla nic platná, když jsme mu setnuli hlavu. Jó, "
+"to byly časy..."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:293
@@ -1186,8 +1170,8 @@ msgid ""
 "Rock we will be just a few miles from the edge of the mountains."
 msgstr ""
 "Vidíš tu hnědou tečku čnící na severním obzoru? To je Špičatá skála. Je to "
-"nejvyšší kousek země široko daleko, a u paty má pramen, nebo spíš měla "
-"minule když jsem tam tábořil. Pokud se dostaneme ke Špičaté skále, budeme "
+"nejvyšší kousek země široko daleko a u paty má pramen. Nebo spíš měla "
+"naposled, když jsem tam tábořil. Pokud se dostaneme ke Špičaté skále, budeme "
 "jen pár mil od okraje hor."
 
 #. [message]: speaker=Garak
@@ -1200,11 +1184,12 @@ msgid ""
 "old stone roads that lead from oasis to oasis. Once the path must have "
 "formed a great thoroughfare for commerce."
 msgstr ""
-"Ale mezi námi a tím místem se nalézají obzvlášť nehostinné písky s jen "
-"několika prameny a oázami. Myslím že tu kdysi naštěstí bývala karavanní "
-"stezka vedoucí na sever, která spojovala oázy. Není lehké je najít, ale "
-"občas vítr odvane písek z kusu staré dlážděné cesty, která vede od oázy k "
-"oáze. Kdysi musel ten chodník představovat rušnou obchodní tepnu."
+"Ale mezi námi a tím místem se nalézají obzvlášť nehostinné písky, jen s "
+"několika oázami a prameny. Naštěstí tu myslím kdysi bývala karavanní stezka "
+"vedoucí na sever, která spojovala jednotlivé oázy. Není lehké ty oázy najít, "
+"ale občas vítr odvane písek z kusu staré dlážděné cesty, která mezi "
+"jednotlivými oázami vede. Kdysi musel ten chodník představovat rušnou "
+"obchodní tepnu."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:324
@@ -1212,8 +1197,8 @@ msgid ""
 "I believe that there was once a great empire in these lands, long ago, "
 "before the sands came."
 msgstr ""
-"Věřím, že se v těchto zemích kdysi rozkládala velká říše, dávno, ještě "
-"předtím než přišly písky."
+"Věřím, že se v těchto zemích kdysi rozkládala velká říše, dávno předtím, než "
+"to tu pokryl písek."
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:330
@@ -15150,7 +15135,7 @@ msgstr "písek"
 #. Made-up animal name derived from 'dust' (sand) and 'bok' as in real-world steenbok or springbok antelope
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Dustbok.cfg:6
 msgid "Dustbok"
-msgstr ""
+msgstr "Antilopa pouštní"
 
 #. [unit_type]: id=Quenoth Fighter, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Fighter.cfg:5
