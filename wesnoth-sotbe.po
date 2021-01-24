@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-22 21:38+0100\n"
+"PO-Revision-Date: 2021-01-24 09:08+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4139,7 +4139,7 @@ msgstr "Tak pojďte lidští slaboši. Grüü pro vás má malý dárek..."
 #. [message]: speaker=narrator
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:344
 msgid "As a fresh day dawned, more human forces arrived."
-msgstr "Za úsvitu nového dne začaly přijíždět lidské jednotky."
+msgstr "Za úsvitu nového dne přijely další vojenské oddíly lidí."
 
 #. [message]: speaker=Bruce
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:357
