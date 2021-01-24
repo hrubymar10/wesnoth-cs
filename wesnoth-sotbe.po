@@ -21,7 +21,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2021-01-24 09:11+0100\n"
+"PO-Revision-Date: 2021-01-24 22:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4199,7 +4199,7 @@ msgid ""
 "no right to intervene in this affair."
 msgstr ""
 "Tohle je naprosto jasně místní problém, Howgarte. Severní aliance nemá právo "
-"zasahovat do této záležitosti."
+"do této záležitosti zasahovat."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:459
@@ -4210,8 +4210,8 @@ msgid ""
 "witness of this treaty to see that it is honored."
 msgstr ""
 "Sakra mám! Hrabě Lanbec’hu, Severní aliance byla před sedmnácti lety svědkem "
-"dohody mezi vašimi lidmi a skřety, kterou oba bez pochybnosti porušujete. "
-"Jako organizátor a svědek té smlouvy mám povinnost poznat, kdy je to vážné."
+"dohody mezi vašimi lidmi a skřety, kterou oba bez pochybnosti porušujete. "
+"Jako organizátor a svědek té smlouvy mám povinnost poznat, kdy je to vážné."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:465
@@ -4220,9 +4220,9 @@ msgid ""
 "your precious treaty as human territory. So if you are so keen on being all "
 "high and noble, then muster your men to help us push back this orcish menace."
 msgstr ""
-"Tím lépe pro vás. Fakt je, že tato země je jasně určená tvou drahocennou "
-"smlouvou jako lidské území. Takže jestli jsi tak horlivý být důležitý a "
-"vznešený, pak nám musí tví muži pomoci zatlačit skřetí hrozbu zpět."
+"No to mě těší. Fakt je, že tato země je jasně určená tvou drahocennou "
+"smlouvou jako lidské území. Takže jestli tolik dychtíš být důležitý "
+"a vznešený, pak nám musí tví muži pomoci zatlačit skřetí hrozbu zpět."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:470
@@ -4232,8 +4232,8 @@ msgid ""
 "to parley and we shall discuss this matter."
 msgstr ""
 "Nech těch lží, Lanbec’hu. Víme, že jsi to byl ty, kdo začal tuhle válku. Ale "
-"teď je čas ji ukončit. Vyzývám obě strany k jednání, abychom mohli tuto "
-"záležitost projednat."
+"teď je čas ji ukončit. Vyzývám obě strany k vyjednávání a budeme o této "
+"záležitosti rokovat."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:475
@@ -4241,7 +4241,7 @@ msgid ""
 "Ha ha, very funny, old fool. You think we are stupid enough to fall for "
 "that? I’ve not forgotten what you people did to my father."
 msgstr ""
-"Ha ha, velice zábavné, lidský červe. Myslíš že jsme dost hloupí, abychom na "
+"Ha ha, velice zábavné, lidský červe. Myslíš, že jsme dost hloupí, abychom na "
 "to skočili? Nezapomněl jsem, co vaši lidé provedli mému otci."
 
 #. [message]: speaker=Howgarth III
@@ -4265,9 +4265,9 @@ msgid ""
 "of the matter. I know nothing of his assassination. As a matter of fact, I "
 "was there when the orcish messenger brought Rahul Karun’s reply."
 msgstr ""
-"Cože? Obdrželi jsme zprávu, že odmítl naše pozvání a to byl konec té věci. "
-"Nevím nic o vraždě. Ve skutečnosti jsme tam byl, když skřetí posel přinesl "
-"Rahulovi Karunovu odpověď."
+"Cože? Obdrželi jsme zprávu, že odmítl naše pozvání, a to byl konec celé "
+"záležitosti. Nevím nic o vraždě. Ve skutečnosti jsem tam byl, když skřetí "
+"posel přinesl Rahulovi Karunovu odpověď."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:497
@@ -4282,7 +4282,7 @@ msgstr "Jestli si pamatuji správně, byl to skřet jménem Šan Taum."
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:508
 msgid "Funny, that name sounds oddly familiar..."
-msgstr "Zábavné. To jméno zní povědomě."
+msgstr "Zábavné. To jméno zní kupodivu povědomě..."
 
 #. [scenario]: id=18_Northern_Alliance
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:4
@@ -4292,12 +4292,12 @@ msgstr "Severní aliance"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:26
 msgid "Kill Shan Taum and Earl Lanbec’h"
-msgstr "Zabij Šan Tauma a hraběte Lanbec’ha."
+msgstr "Zabij Šan Tauma a hraběte Lanbec’ha"
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:37
 msgid "Death of Howgarth III"
-msgstr "Howgart III. zemře."
+msgstr "Howgart III. zemře"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:182
@@ -4321,12 +4321,12 @@ msgid ""
 "had stolen from the orcs. Only then would he return Dorest and disperse the "
 "Horde."
 msgstr ""
-"Lidé přestali útočit a obě strany se setkaly ve středu bitevního pole. "
-"Howgart III. požadoval, aby Kapou’e odevzdal Dorest zpět lidem a vrátil se "
+"Lidé přestali útočit a obě strany se setkaly ve středu bitevního pole. "
+"Howgart III. požadoval, aby Kapou’e odevzdal Dorest zpět lidem a vrátil se "
 "do vlastních zemí, určených dohodou. Kapou’e to odmítl udělat na tak dlouho, "
 "dokud budou lidé stále útočit na skřetí teritorium. Chtěl, aby lidé "
-"rozpustili své jednotky a vrátili všechny země, které ukradli skřetům. Jenom "
-"pak vrátí Dorest a rozptýlí Hordu."
+"rozpustili své jednotky a vrátili všechny země, které ukradli skřetům. Jenom "
+"pak vrátí Dorest a rozptýlí Hordu."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:194
@@ -4349,7 +4349,7 @@ msgid ""
 msgstr ""
 "Když skončili, Kapou’e se začal ptát na okolnosti smrti jeho otce. Howgart "
 "III. zopakoval svůj příběh, ve kterém poslední věc, kterou slyšeli od Karuna "
-"Černého oka byla zpráva odmítající jejich pozvání do Severní aliance, "
+"Černého oka, byla zpráva odmítající jejich pozvání do Severní aliance, "
 "pronesená nikým jiným než samotným Šan Taumem."
 
 #. [part]
@@ -4358,8 +4358,8 @@ msgid ""
 "As they were discussing the matter, a group of orcs charged from the "
 "surrounding trees and hills and surrounded the parley."
 msgstr ""
-"Jak diskutovali o těchto záležitostech, skupina skřetů se vyhrnula z "
-"okolních stromů a kopců a obklopili vyjednávače."
+"Jak diskutovali o těchto záležitostech, vyhrnula se z okolních stromů "
+"a kopců skupina skřetů a obklopili vyjednávače."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:477
@@ -4367,8 +4367,8 @@ msgid ""
 "Now now now, what do we have here. Collaborating with the enemy again just "
 "like your disgusting father, are you?"
 msgstr ""
-"Ale, Ale, Ale copak to tu máme. Spolupracuješ s lidmi stejně jako tvůj "
-"nechutný otec, že ano?"
+"Ale, ale, ale, copak to tu máme. Znovu spolupracuješ s nepřítelem, stejně "
+"jako tvůj nechutný otec, že ano?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:483
@@ -4380,7 +4380,7 @@ msgstr "Spolupráce s lidmi, pfff. Ty máš co říkat. Co tu děláš, Šan Tau
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:488
 msgid "I am here to do to you what I did to your father."
-msgstr "Jsem tu, abych ti udělal to co jsem udělal tvému otci."
+msgstr "Jsem tu, abych ti udělal to, co jsem udělal tvému otci."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:493
@@ -4411,12 +4411,12 @@ msgid ""
 "father before and I believe his blood will be trustworthy. And if that isn’t "
 "enough, then we are here to protect you in case he violates the pact."
 msgstr ""
-"Zadrž, hrabě Lanbec’hu. Dosáhl jsem dohody s těmito skřety. Porušil jsi "
-"dohodu; musíš neprodleně rozpustit své jednotky a stáhnout se ze skřetího "
-"území. Jakmile se tak stane, Kapou’e ti vrátí Dorest a zastaví hordu. Měli "
-"jsme dohodu s Kapou’eho otcem už předtím a věřím, že je tento rod "
-"důvěryhodný. A jestli to není dost, pak jsme tu my abychom ti pomohli v "
-"případě, že poruší úmluvu."
+"Zadrž, hrabě Lanbec’hu. S těmito skřety jsem dosáhl dohody. Protože "
+"agresorem byla tvoje armáda, musíš neprodleně rozpustit své jednotky "
+"a stáhnout se ze skřetího území. Jakmile se tak stane, Kapou’e ti vrátí "
+"Dorest a odvolá hordu. Dříve jsem jednával s Kapou’eho otcem a věřím, že "
+"tento rod je důvěryhodný. A jestli to není dost, pak jsme tu my, abychom ti "
+"pomohli v případě, že poruší úmluvu."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:515
@@ -4424,8 +4424,8 @@ msgid ""
 "You and your damned compromises can go to hell. Your beloved Kapou’e will be "
 "joining you shortly."
 msgstr ""
-"Ty a tvé zatracené kompromisy můžete táhnout do pekla. Tvůj milovaný Kapou’e "
-"se k tobě hned připojí."
+"Ty a tvé zatracené kompromisy můžete táhnout do pekla. Tvůj milovaný Kapou’e "
+"se k tobě brzy připojí."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:520
@@ -4446,7 +4446,7 @@ msgstr ""
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:531
 msgid "Not today, my friend. (<i>Whistles</i>)"
-msgstr "Ne dnes, můj příteli. (<i>Píská si</i>)"
+msgstr "Dnes ne, můj příteli. (<i>Píská si</i>)"
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:639
@@ -4460,7 +4460,7 @@ msgid ""
 msgstr ""
 "Kapou’e, je důležité, abych se vrátil do tábora a přinesl zprávy o naší nové "
 "dohodě a této zradě. Jeden z mých gryfoních jezdců mne tam vezme. Má osobní "
-"stráž a zbytek gryfonů ti pomůže se probojovat z této pasti. Jakmile se "
+"stráž a zbytek gryfonů ti pomůže probojovat se z této pasti. Jakmile se "
 "dostaneš zpět do svého tábora, podnikneme společný útok na tyhle zrádce. Až "
 "budou mrtví nebo rozprášení, věřím, že dodržíš naši dohodu."
 
@@ -4476,12 +4476,12 @@ msgid ""
 "my camp and assault the city."
 msgstr ""
 "Sakra! Ten člověk uprchl. Skřeti, přineste mi Kapou’eho hlavu. Musím se "
-"vrátit do tábora a zaútočit na město."
+"vrátit do tábora a zaútočit na město."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:697
 msgid "Shan Taum big coward. Never want to fight."
-msgstr "Šan Taum velký zbabělec. Nikdy nechce bojovat."
+msgstr "Šan Taum, velký zbabělec. Nikdy nechce bojovat."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:752
