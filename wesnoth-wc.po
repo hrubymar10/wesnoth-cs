@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-24 15:27+0100\n"
+"PO-Revision-Date: 2021-01-24 17:08+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -79,6 +79,11 @@ msgid ""
 "Includes an in-game help to know pairs status, with a right-click on an "
 "empty hex."
 msgstr ""
+"Jednotky jsou ve verbovacím seznamu definovány jako páry. Pokaždé, když je "
+"jednotka naverbována, je v seznamu nahrazena svou sdruženou dvojicí. Tato "
+"věk byl navržen tak, aby působil v Dobytí světa II vyváženě.\n"
+"Obsahuje herní nápovědu ke sdruženým párům jednotek, kterou lze zpřístupnit "
+"kliknutím na prázdné políčko mapy."
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:14
 msgid "The Horde"
@@ -1005,7 +1010,7 @@ msgstr "škola"
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
 msgid "Shrine"
-msgstr "Oltář"
+msgstr "oltář"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
@@ -1013,7 +1018,7 @@ msgstr "Oltář"
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
 msgid "Temple"
-msgstr "Chrám"
+msgstr "chrám"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
@@ -1042,7 +1047,7 @@ msgstr "Observatoř"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
 msgid "Tower"
-msgstr "Věž"
+msgstr "věž"
 
 #. [lua]: wc2_invest.invest
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest.lua:142
@@ -1911,6 +1916,8 @@ msgid ""
 "Finally reinforcements are here! I’ve been pinned down for days. Help me "
 "fight my way out of here and I’ll gladly follow you!"
 msgstr ""
+"Konečně jsou tu posily! Byl jsem tu zablokovaný několik dní. Pomozte mi "
+"probojovat se odsud a rád vás budu následovat!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:136
 msgid ""
@@ -2057,6 +2064,8 @@ msgid ""
 "I am called forth from eternal rest, bound to follow he who called me. Show "
 "me the enemy, master!"
 msgstr ""
+"Jsem povolán z věčného odpočinku, povinen následovat toho, kdo mě povolal. "
+"Ukaž mi nepřítele, mistře!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:271
 msgid ""
@@ -2521,6 +2530,8 @@ msgid ""
 "We have travelled great oceans and brought low mighty empires. Should we not "
 "wait until our forces regain their strength?"
 msgstr ""
+"Přepluli jsme velké oceány a svrhli mocné říše. Neměli bychom posečkat, než "
+"naše vojska opět naberou sílu?"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:70
@@ -2528,6 +2539,8 @@ msgid ""
 "One last effort! We better finish our campaign when we hold initiative, "
 "before Winter arrives."
 msgstr ""
+"Už jen jedna mise! Bude pro nás lepší dokončít naši kampaň, dokud máme "
+"iniciativu, dřív, než přijde velká zima."
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:74
@@ -2535,6 +2548,8 @@ msgid ""
 "Finally we come to the shores of the last continent. Here at the edge of the "
 "world our empire shall be made complete."
 msgstr ""
+"Konečně jsme se dostali na pobřeží posledního kontinentu. Tady na kraji "
+"světa bude naše říše dovršena."
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:75
@@ -2553,7 +2568,7 @@ msgstr ""
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:77
 msgid "No, not all of them. Today our full strength stands behind our allies!"
-msgstr ""
+msgstr "Ne, ne všichni. Všechny naše síly dnes stojí za našimi spojenci!"
 
 #. [lua]: end_message
 #: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:79
