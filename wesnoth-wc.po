@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-23 19:59+0100\n"
+"PO-Revision-Date: 2021-01-24 15:27+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -921,7 +921,7 @@ msgstr "Pole"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
 msgid "Granary"
-msgstr "Sýpka"
+msgstr "sýpka"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
 msgid "Grassland"
@@ -991,13 +991,13 @@ msgstr "knihovna"
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
 msgid "Sanctuary"
-msgstr "Svatyně"
+msgstr "svatyně"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
 msgid "School"
-msgstr "Škola"
+msgstr "škola"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
@@ -1903,6 +1903,8 @@ msgid ""
 "Looks like you’re a bit down on your luck, my friends. But now that I am "
 "here, there’s nothing to worry about!"
 msgstr ""
+"Vypadá to, že vás štěstí trochu opustilo, přátelé. Ale teď, když jsem tady, "
+"není se čeho bát!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:131
 msgid ""
@@ -2035,6 +2037,8 @@ msgid ""
 "You may be out to take over the land and the seas, but you’ll never get "
 "anywhere without control of the skies. Fortunately I’m here to help you!"
 msgstr ""
+"Možná se mílovými kroky přibližujete k ovládnutí země i moří, ale nikdy se "
+"nikam nedostanete bez kontroly nad nebem. Naštěstí jsem tu, abych vám pomohl!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:256
 msgid ""
@@ -2098,7 +2102,7 @@ msgstr "Já přítel. Můžem se spojit."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:315
 msgid "Ah, please no hurtings me! I helps you, see?"
-msgstr ""
+msgstr "Ach prosím, neubližujte mi! Pomáhám vám, vidíte?"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:318
 msgid "Fine. We could need a small help."
