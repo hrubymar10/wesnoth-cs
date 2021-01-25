@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-01-24 08:45+0100\n"
+"PO-Revision-Date: 2021-01-25 15:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1031,6 +1031,7 @@ msgstr "Formát mapy"
 #: data/core/editor/help.cfg:380
 msgid "Wesnoth stores its maps in human readable plain text files."
 msgstr ""
+"Wesnoth své mapy ukládá do jednoduchých textových souborů čitelných člověkem."
 
 #. [topic]: id=editor_map_format
 #: data/core/editor/help.cfg:382
@@ -4762,7 +4763,7 @@ msgstr ""
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:121
 msgid "This is inactive for now."
-msgstr ""
+msgstr "Toto zatím není aktivní."
 
 #. [leadership]: id=leadership
 #: data/core/macros/abilities.cfg:173
