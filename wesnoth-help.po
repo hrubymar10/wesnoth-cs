@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 16:38+0300\n"
-"PO-Revision-Date: 2021-01-24 08:59+0100\n"
+"PO-Revision-Date: 2021-01-25 16:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -747,6 +747,7 @@ msgstr "Formát mapy"
 #: data/core/editor/help.cfg:380
 msgid "Wesnoth stores its maps in human readable plain text files."
 msgstr ""
+"Wesnoth své mapy ukládá do jednoduchých textových souborů čitelných člověkem."
 
 #. [topic]: id=editor_map_format
 #: data/core/editor/help.cfg:382
