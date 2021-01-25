@@ -8,7 +8,7 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 Domain | Messages | Translated | Remaining
 ------ | -------- | ---------- | ---------
 wesnoth-ai | 379 | 75 % | 93
-wesnoth-help | 585 | 95 % | 25
+wesnoth-help | 585 | 95 % | 24
 wesnoth-lib | 1395 | 96 % | 49
 wesnoth-manpages | 301 | 63 % | 110
 wesnoth-manual | 557 | 96 % | 17
