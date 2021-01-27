@@ -10,7 +10,7 @@
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006, 2007.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 # Tereza Žejdlová, 2020.
 #
 msgid ""
@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2021-01-24 19:20+0100\n"
+"PO-Revision-Date: 2021-01-27 21:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11532,7 +11532,7 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:165
 msgid "This is—"
-msgstr "Toto je—"
+msgstr "Toto je..."
 
 # pův.: A musím říct, že $intl_ally_name mě svými činy přesvědčil, že ???.
 #. [message]: speaker=Melusand
@@ -11689,16 +11689,16 @@ msgid ""
 "they had dispelled evil and darkness forever."
 msgstr ""
 "Půjde to daleko rychleji, když mne nebudete přerušovat. Jak jsem říkala, "
-"Říše Wesnoth byla velmi pokročilá v umění magie a měla hluboké studnice "
-"vědomostí. Tehdy dávno bylo na obloze jenom jedno slunce, to, které nazýváte "
-"Sela. Ale král rozhodl, že nechá vynést do nebes druhé slunce, aby "
-"prodloužil dny a zkrátil temnotu. Všichni mágové, čarodějové, zaklínači a "
-"mudrci se sešli, vynesli kouzlem do nebe horu a nechali ji zářit tak jasně "
-"jako slunce. Vyslali toto druhé slunce - vy mu říkáte Naia - po obloze tak, "
-"že z noci zbývalo vždy jen několik hodin. Ačkoliv někteří tento pokus "
-"odsuzovali, stal se skvělým úspěchem a znamením síly a moci lidí. Zlatý věk "
-"zářil jasněji než kdy předtím a mnozí věřili, že zlo a temnota byly navěky "
-"poraženy."
+"říše Wesnoth byla velmi pokročilá v umění magie a disponovala obsáhlými "
+"zdroji vědomostí. Tehdy dávno bylo na obloze jenom jedno slunce, to, které "
+"nazýváte Sela. Ale král rozhodl, že nechá vynést do nebes druhé slunce, aby "
+"prodloužil dny a zkrátil temnotu. Všichni mágové, čarodějové a mudrci se "
+"sešli, vynesli kouzlem do nebe horu a nechali ji zářit tak jasně jako "
+"slunce. Vyslali toto druhé slunce – vy mu říkáte Naia – po obloze tak, že z "
+"noci zbývalo vždy jen několik hodin. Ačkoliv někteří tento pokus odsuzovali "
+"jako bláhovost, stal se skvělým úspěchem a znamením síly a moci lidí. Zlatý "
+"věk zářil jasněji než kdy předtím a mnozí věřili, že zlo a temnota byly "
+"navěky poraženy."
 
 # 1) následovník? potomek? ...?
 # 2) centrum Wesnothu - možná to jde vylepšit
@@ -11736,10 +11736,10 @@ msgid ""
 "drawn into the conflicts, Orcs and Trolls spread forth from the dark places, "
 "and chaos and darkness swallowed the lands."
 msgstr ""
-"Král i celá jeho rodina zahynuli a drobní pánové brzo rozervali říši na "
-"kusy, jak známé země upadaly do chaosu. Elfové a trpaslíci se zapletli do "
-"konfliktů, skřeti a trollové se rozlezli ze svých temných úkrytů; země "
-"pohltily chaos a temnota."
+"Král i celá jeho rodina zahynuli. A jak známé země upadaly do chaosu, "
+"rozervali váleční lordi z méně významných šlechtických rodů brzy říši na "
+"kusy. Elfové a trpaslíci se zapletli do konfliktů, skřeti a trollové se "
+"rozlezli ze svých temných úkrytů. Země pohltily chaos a temnota."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:283
@@ -12132,7 +12132,7 @@ msgstr ""
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:471
 msgid "This entire journey has been based on a lie—"
-msgstr "Celá tahle cesta byla založená na lži—"
+msgstr "Celá tahle cesta byla založená na lži..."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:477
@@ -12167,7 +12167,7 @@ msgid ""
 "Yechnagoth has already won."
 msgstr ""
 "Mnozí, kteří prošli temnými časy, si přejí, aby se mohli vrátit a změnit to, "
-"co se stalo. Ale to není v naší moci; vše, co teď můžeme, je dělat v čase, "
+"co se stalo. Ale to není v naší moci. Vše, co teď můžeme, je dělat v čase, "
 "který nám zbývá, to, co považujeme za správné. Nepodléhej zoufalství, "
 "Kalehu, jinak už Yechnagoth vyhrála."
 
@@ -14666,25 +14666,21 @@ msgstr "paprsek energie"
 #. [regenerate]: id=regenerates_yec
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:99
 msgid "alien regenerates"
-msgstr ""
+msgstr "nepřirozeně regeneruje"
 
 #. [regenerate]: id=regenerates_yec
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:100
-#, fuzzy
-#| msgid "disengage"
 msgid "female^alien regenerates"
-msgstr "uvolnění"
+msgstr "nepřirozeně regeneruje"
 
 #. [regenerate]: id=regenerates_yec
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:101
-#, fuzzy
-#| msgid "The unit will heal itself 6 HP per turn on sand or dirt terrain."
 msgid ""
 "The unit will heal itself 100 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
-"Jednotka se uzdraví každé kolo o 6 životů, pokud stojí na písečném nebo "
-"prašném terénu."
+"Jednotka každé kolo regeneruje 100 životů. Pokud je otrávená, tak se místo "
+"regenerace uzdraví."
 
 #. [unit_type]: id=Central Body2
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:114
