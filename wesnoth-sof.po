@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-26 21:58+0100\n"
+"PO-Revision-Date: 2021-01-27 19:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -449,12 +449,12 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:409
-#, fuzzy
-#| msgid "I want you to make it into a sceptre, a sceptre of fire."
 msgid ""
 "I want you to make it into a sceptre. A gold and ruby sceptre to all "
 "appearances. We shall call it the Sceptre of Fire."
-msgstr "Chci abyste z něj vytvořili žezlo. Ohnivé žezlo."
+msgstr ""
+"Chci, abyste z něj vytvořili žezlo. Podle všeho zlaté žezlo s rubínem. "
+"Budeme ho nazývat Ohnivé žezlo."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:414
@@ -496,16 +496,12 @@ msgstr "Dle rozkazu. Vydám se na cestu společně se zlatem."
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:487
-#, fuzzy
-#| msgid ""
-#| "Hey! You can’t do that — this road is an elvish road. We’re not letting "
-#| "you transport gold and jewels on it without paying a toll."
 msgid ""
 "Hey!  You can’t do that — this road is an elvish road. We’re not letting you "
 "transport gold and jewels on it without paying a toll."
 msgstr ""
-"Hej! Tohle nemůžete... tohle je elfí cesta. Nenecháme vás převézt zlato ani "
-"šperky bez zaplacení mýtného."
+"Hej! To nemůžete – tohle je elfí cesta. Nenecháme vás po ní převézt zlato "
+"ani šperky bez zaplacení mýtného."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:491
@@ -584,16 +580,12 @@ msgstr ""
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:689
-#, fuzzy
-#| msgid ""
-#| "Here’s the stone, for you dwarves! Now, if you’ll excuse me, I think I’ll "
-#| "be taking refuge in this castle here... I don’t much like fighting."
 msgid ""
 "Here’s the stone, for you dwarves! Now, if you’ll excuse me, I think I’ll be "
 "taking refuge here... I don’t much like fighting."
 msgstr ""
-"Tady máte ten kámen, trpaslíci! Teď, když mne omluvíte, bych se uchýlil tady "
-"do hradu... nemám moc rád boj."
+"Tady máte ten kámen, trpaslíci! Teď, když mne omluvíte, myslím, že se "
+"uchýlím sem... Nemám moc rád boj."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:710
@@ -1004,15 +996,13 @@ msgid ""
 "That’s all of the elves. Now I should go down to the city and report. I’m "
 "late already..."
 msgstr ""
-"Tak to bysme měli elfy. Teď bych měl jít podat hlášení do města. Už teď mám "
+"Tolik k elfům. Nyní bych měl jít podat hlášení do města. Už teď mám "
 "zpoždění..."
 
 #. [scenario]: id=2p5_Reaching_the_Runecrafter
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:3
-#, fuzzy
-#| msgid "Searching for the Runecrafter"
 msgid "Reaching the Runecrafter"
-msgstr "Hledání runového mistra"
+msgstr "Shánění runového mistra"
 
 #. [side]: type=Orcish Warrior, id=Bragdash
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:31
@@ -1261,7 +1251,7 @@ msgstr ""
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:136
 msgid "... ?"
-msgstr ""
+msgstr "...?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:140
