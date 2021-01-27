@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-24 18:27+0100\n"
+"PO-Revision-Date: 2021-01-26 21:58+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11566,17 +11566,11 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:165
 msgid "This is—"
-msgstr "Toto je—"
+msgstr "Toto je..."
 
 # pův.: A musím říct, že $intl_ally_name mě svými činy přesvědčil, že ???.
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:178
-#, fuzzy
-#| msgid ""
-#| "No, you don’t have to introduce yourselves. I already know who you are "
-#| "and why you have been journeying all this way. And I must say, Grog, that "
-#| "your recent actions and indeed your presence with these fine folk is a "
-#| "credit to your race."
 msgid ""
 "No, you don’t have to introduce yourselves. I already know who you are and "
 "why you have been journeying all this way. And I must say, Grog, that your "
@@ -11584,9 +11578,8 @@ msgid ""
 "your people."
 msgstr ""
 "Ne, nemusíte se představovat. Vím již, kdo jste a proč jste putovali až sem. "
-"A musím říct, že Grogovy dosavadní činy a nakonec i jeho přítomnost ve "
-"společnosti tohoto ušlechtilého lidu pomohly jeho rase vydobýt si u mne "
-"dobrou pověst."
+"A musím říct, Grogu, že tvé nedávné činy a tvé setrvávání ve společnosti "
+"tohoto ušlechtilého lidu dělají dobrý dojem o celém tvém národě."
 
 #. [message]: speaker=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:183
@@ -11595,12 +11588,6 @@ msgstr "Grog říká díky tobě."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:189
-#, fuzzy
-#| msgid ""
-#| "No, you don’t have to introduce yourselves. I already know who you are "
-#| "and why you have been journeying all this way. And I must say, Nog, that "
-#| "your recent actions and indeed your presence with these fine folk is a "
-#| "credit to your race."
 msgid ""
 "No, you don’t have to introduce yourselves. I already know who you are and "
 "why you have been journeying all this way. And I must say, Nog, that your "
@@ -11608,9 +11595,8 @@ msgid ""
 "your people."
 msgstr ""
 "Ne, nemusíte se představovat. Vím již, kdo jste a proč jste putovali až sem. "
-"A musím říct, že Nogoy dosavadní činy a nakonec i jeho přítomnost ve "
-"společnosti tohoto ušlechtilého lidu pomohly jeho rase vydobýt si u mne "
-"dobrou pověst."
+"A musím říct, Nogu, že tvé nedávné činy a tvé setrvávání ve společnosti "
+"tohoto ušlechtilého lidu dělají dobrý dojem o celém tvém národě."
 
 #. [message]: speaker=Nog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:194
@@ -11619,12 +11605,6 @@ msgstr "Nog říká díky tobě."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:200
-#, fuzzy
-#| msgid ""
-#| "No, you don’t have to introduce yourselves. I already know who you are "
-#| "and why you have been journeying all this way. And I must say, Rogrimir, "
-#| "that your recent actions and indeed your presence with these fine folk is "
-#| "a credit to your race."
 msgid ""
 "No, you don’t have to introduce yourselves. I already know who you are and "
 "why you have been journeying all this way. And I must say, Rogrimir, that "
@@ -11632,9 +11612,8 @@ msgid ""
 "well for your people."
 msgstr ""
 "Ne, nemusíte se představovat. Vím již, kdo jste a proč jste putovali až sem. "
-"A musím říct, že dosavadní činy Rogrimira a nakonec i jeho přítomnost ve "
-"společnosti tohoto ušlechtilého lidu pomohly jeho rase vydobýt si u mne "
-"dobrou pověst."
+"A musím říct, Rogrimire, že tvé nedávné činy a tvé setrvávání ve společnosti "
+"tohoto ušlechtilého lidu dělají dobrý dojem o celém tvém národě."
 
 #. [message]: speaker=Rogrimir
 #. [message]: speaker=Jarl
@@ -11645,12 +11624,6 @@ msgstr "Děkuji ti za tvou laskavost."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:211
-#, fuzzy
-#| msgid ""
-#| "No, you don’t have to introduce yourselves. I already know who you are "
-#| "and why you have been journeying all this way. And I must say, Jarl, that "
-#| "your recent actions and indeed your presence with these fine folk is a "
-#| "credit to your race."
 msgid ""
 "No, you don’t have to introduce yourselves. I already know who you are and "
 "why you have been journeying all this way. And I must say, Jarl, that your "
@@ -11658,9 +11631,8 @@ msgid ""
 "your people."
 msgstr ""
 "Ne, nemusíte se představovat. Vím již, kdo jste a proč jste putovali až sem. "
-"A musím říct, že Jarlovy dosavadní činy a nakonec i jeho přítomnost ve "
-"společnosti tohoto ušlechtilého lidu pomohly jeho rase vydobýt si u mne "
-"dobrou pověst."
+"A musím říct, Jarle, že tvé nedávné činy a tvé setrvávání ve společnosti "
+"tohoto ušlechtilého lidu dělají dobrý dojem o celém tvém národě."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:224
@@ -11704,18 +11676,14 @@ msgstr "Čí špehové?"
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:251
-#, fuzzy
-#| msgid ""
-#| "Perhaps I should start at the beginning. Make yourselves comfortable, for "
-#| "this may take a while. I want to tell you a tale, it is a story of the "
-#| "fall of what you refer to as ‘The Golden Age’."
 msgid ""
 "Perhaps I should start at the beginning, for that is a good place to start.  "
 "Make yourselves comfortable, this may take a while. I want to tell you a "
 "tale, it is a story of the fall of what you refer to as ‘The Golden Age’."
 msgstr ""
-"Nejspíš bych měla začít od začátku. Udělejte si pohodlí, možná bude to "
-"chvíli trvat. Chci vám povědět příběh pádu toho, co vy nazýváte „Zlatý věk“."
+"Nejspíš bych měla začít od začátku, protože tak to bývá nejlepší. Udělejte "
+"si pohodlí, možná to bude chvíli trvat. Chci vám povědět příběh pádu toho, "
+"co vy nazýváte „Zlatým věkem“."
 
 # lepší překlad názvu?
 #. [message]: speaker=Melusand
@@ -11737,20 +11705,6 @@ msgstr "Ano, o té době víme."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:268
-#, fuzzy
-#| msgid ""
-#| "This will go much faster if you don’t interrupt me. Now, as I was saying "
-#| "the Empire of Wesnoth was very learned in the magical arts and had vast "
-#| "repositories of knowledge. Back then there was only one sun in the sky, "
-#| "the sun you call Sela. But the king decreed that he would raise a second "
-#| "sun into the heavens, to lengthen their days and shorten the darkness. "
-#| "All the mages, sorcerers and wise men came together and cast a mountain "
-#| "into the sky and made it glow as bright as the sun. They sent this second "
-#| "sun, the one you call Naia, hurtling through the sky so that only a few "
-#| "hours of darkness remained each night. Though some had called the attempt "
-#| "foolish, it was a resounding success and stood as a tribute to the power "
-#| "and might of the humans. The golden age glowed brighter than ever and the "
-#| "many believed that they had dispelled evil and darkness forever."
 msgid ""
 "This will go much faster if you don’t interrupt me. Now, as I was saying, "
 "the Empire of Wesnoth was very learned in the magical arts and had vast "
@@ -11766,35 +11720,19 @@ msgid ""
 "they had dispelled evil and darkness forever."
 msgstr ""
 "Půjde to daleko rychleji, když mne nebudete přerušovat. Jak jsem říkala, "
-"Říše Wesnoth byla velmi pokročilá v umění magie a měla hluboké studnice "
-"vědomostí. Tehdy dávno bylo na obloze jenom jedno slunce, to, které nazýváte "
-"Sela. Ale král rozhodl, že nechá vynést do nebes druhé slunce, aby "
-"prodloužil dny a zkrátil temnotu. Všichni mágové, čarodějové, zaklínači a "
-"mudrci se sešli, vynesli kouzlem do nebe horu a nechali ji zářit tak jasně "
-"jako slunce. Vyslali toto druhé slunce - vy mu říkáte Naia - po obloze tak, "
-"že z noci zbývalo vždy jen několik hodin. Ačkoliv někteří tento pokus "
-"odsuzovali, stal se skvělým úspěchem a znamením síly a moci lidí. Zlatý věk "
-"zářil jasněji než kdy předtím a mnozí věřili, že zlo a temnota byly navěky "
-"poraženy."
+"říše Wesnoth byla velmi pokročilá v umění magie a disponovala obsáhlými "
+"zdroji vědomostí. Tehdy dávno bylo na obloze jenom jedno slunce, to, které "
+"nazýváte Sela. Ale král rozhodl, že nechá vynést do nebes druhé slunce, aby "
+"prodloužil dny a zkrátil temnotu. Všichni mágové, čarodějové a mudrci se "
+"sešli, vynesli kouzlem do nebe horu a nechali ji zářit tak jasně jako "
+"slunce. Vyslali toto druhé slunce – vy mu říkáte Naia – po obloze tak, že z "
+"noci zbývalo vždy jen několik hodin. Ačkoliv někteří tento pokus odsuzovali "
+"jako bláhovost, stal se skvělým úspěchem a znamením síly a moci lidí. Zlatý "
+"věk zářil jasněji než kdy předtím a mnozí věřili, že zlo a temnota byly "
+"navěky poraženy."
 
-# 1) následovník? potomek? ...?
-# 2) centrum Wesnothu - možná to jde vylepšit
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:273
-#, fuzzy
-#| msgid ""
-#| "But with their prosperity and power, over the generations the humans grew "
-#| "arrogant. One day a young descendant of the original king decreed that "
-#| "darkness should be abolished altogether from the land, so that light and "
-#| "goodness would shine forth everywhere. But the people had grown lazy and "
-#| "complacent and the ranks of mages who still trained hard to harness the "
-#| "magical arts had decreased greatly. Still the king believed he was all-"
-#| "powerful and would not listen to the mages’ protests. So, seeking to "
-#| "duplicate their ancestors’ previous success, the mages tried to lift a "
-#| "second mountain into the sky. But a great evil befell them that day; "
-#| "their power failed and the mountain crashed down onto the humans' "
-#| "capital, crushing all within it. In an instant the center of the Empire "
-#| "of Wesnoth was utterly destroyed."
 msgid ""
 "But with their prosperity and power, over the generations the humans grew "
 "arrogant. One day a young descendant of the original king decreed that "
@@ -11810,14 +11748,14 @@ msgid ""
 "destroyed."
 msgstr ""
 "S prosperitou a mocí rostla po generace i arogance lidí. Jednoho dne mladý "
-"následovník původního krále rozhodl, že temnota by měla být zcela odstraněna "
-"ze země, tak, že světlo a dobro bude svítit na vše. Ale lidé se stali línými "
-"a samolibými a řady mágů, kteří tvrdě trénovali, aby ovládli umění magie, "
-"značně prořídly. I tak král věřil, že je všemocný a nepopřál sluchu "
-"protestům mágů. Tak se mágové, pokoušejíc se zopakovat dřívější úspěch "
-"jejich předků, pokusili pozvednout druhou horu na oblohu. Ale toho dne na ně "
-"padlo velké zlo; jejich síla selhala a hora dopadla na lidské hlavní město, "
-"ničíc vše. V okamžiku nezbylo z centra Wesnothu nic než pustá zkáza."
+"následovník původního krále rozhodl, že temnota by měla být ze země zcela "
+"odstraněna, aby vše bylo osvěcováno světlem a dobrem. Ale lidé se stali "
+"línými a samolibými a řady mágů, kteří tvrdě trénovali, aby ovládli umění "
+"magie, značně prořídly. I tak král věřil, že je všemocný a nepopřál sluchu "
+"protestům mágů. Tak se mágové, snažíce se zopakovat dřívější úspěch svých "
+"předků, pokusili pozvednout na oblohu druhou horu. Ale toho dne je zasáhlo "
+"velké zlo. Jejich síla selhala a hora dopadla na lidské hlavní město, ničíc "
+"vše v něm. V okamžiku nezbylo ze středobodu Wesnothu nic než pustá zkáza."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:278
@@ -11827,10 +11765,10 @@ msgid ""
 "drawn into the conflicts, Orcs and Trolls spread forth from the dark places, "
 "and chaos and darkness swallowed the lands."
 msgstr ""
-"Král i celá jeho rodina zahynuli a drobní pánové brzo rozervali říši na "
-"kusy, jak známé země upadaly do chaosu. Elfové a trpaslíci se zapletli do "
-"konfliktů, skřeti a trollové se rozlezli ze svých temných úkrytů; země "
-"pohltily chaos a temnota."
+"Král i celá jeho rodina zahynuli. A jak známé země upadaly do chaosu, "
+"rozervali váleční lordi z méně významných šlechtických rodů brzy říši na "
+"kusy. Elfové a trpaslíci se zapletli do konfliktů, skřeti a trollové se "
+"rozlezli ze svých temných úkrytů. Země pohltily chaos a temnota."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:283
@@ -12223,7 +12161,7 @@ msgstr ""
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:471
 msgid "This entire journey has been based on a lie—"
-msgstr "Celá tahle cesta byla založená na lži—"
+msgstr "Celá tahle cesta byla založená na lži..."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:477
@@ -12258,7 +12196,7 @@ msgid ""
 "Yechnagoth has already won."
 msgstr ""
 "Mnozí, kteří prošli temnými časy, si přejí, aby se mohli vrátit a změnit to, "
-"co se stalo. Ale to není v naší moci; vše, co teď můžeme, je dělat v čase, "
+"co se stalo. Ale to není v naší moci. Vše, co teď můžeme, je dělat v čase, "
 "který nám zbývá, to, co považujeme za správné. Nepodléhej zoufalství, "
 "Kalehu, jinak už Yechnagoth vyhrála."
 
@@ -14753,25 +14691,21 @@ msgstr "paprsek energie"
 #. [regenerate]: id=regenerates_yec
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:100
 msgid "alien regenerates"
-msgstr ""
+msgstr "nepřirozeně regeneruje"
 
 #. [regenerate]: id=regenerates_yec
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:101
-#, fuzzy
-#| msgid "disengage"
 msgid "female^alien regenerates"
-msgstr "uvolnění"
+msgstr "nepřirozeně regeneruje"
 
 #. [regenerate]: id=regenerates_yec
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:102
-#, fuzzy
-#| msgid "The unit will heal itself 6 HP per turn on sand or dirt terrain."
 msgid ""
 "The unit will heal itself 150 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
-"Jednotka se uzdraví každé kolo o 6 životů, pokud stojí na písečném nebo "
-"prašném terénu."
+"Jednotka každé kolo regeneruje 150 životů. Pokud je otrávená, tak se místo "
+"regenerace uzdraví."
 
 #. [unit_type]: id=Central Body2
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:115
