@@ -11,8 +11,8 @@ wesnoth-help | 659 | 96 % | 26
 wesnoth-lib | 1433 | 92 % | 101
 wesnoth-manpages | 304 | 56 % | 133
 wesnoth-manual | 557 | 96 % | 17
-wesnoth-sof | 625 | 61 % | 240
-wesnoth-utbs | 1925 | 95 % | 89
+wesnoth-sof | 625 | 62 % | 235
+wesnoth-utbs | 1925 | 95 % | 79
 wesnoth-wc | 416 | 88 % | 47
 wesnoth | 1362 | 91 % | 109
 
