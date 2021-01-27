@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-27 19:13+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2021-01-27 22:58+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:11
@@ -68,7 +69,19 @@ msgstr "Náročná"
 msgid "Lord"
 msgstr "Lord"
 
-# Pozn.: někde uchovat ostatní verze básničky!
+# Varianty:
+# Ač tvoří to vlastního Wesnothu znak,
+# (Ač tvoří to vlastní Wesnothu znak,)
+# nepřišlo ze země té, přišlo jinak.
+# Kde kraj trpaslíků je chmurný jak mrak,
+# (Kde kraj trpaslíků chmurný všelijak,)
+# (V kraji trpaslíků, chmurném všelijak,)
+# tam runový kovář ho vytvořil tak,
+# že oheň plane žezlem, až šálí zrak.
+# (že žezlo ohněm plane, až šálí zrak.)
+# O něm i o tvůrcích, kdo, jak a kterak,
+# vyprávím příběh, je jeden beztak.
+# (vyprávím příběh, vše souvisí nějak.)
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:25
 msgid ""
@@ -82,13 +95,13 @@ msgid ""
 "Their tale I now relate...</i>\n"
 "\n"
 msgstr ""
-"<i>Ač tvoří to vlastní Wesnothu znak,\n"
+"<i>Ač tvoří to vlastního Wesnothu znak,\n"
 "nepřišlo ze země té, přišlo jinak.\n"
-"Kde kraj trpaslíků chmurný všelijak,\n"
+"Kde kraj trpaslíků je chmurný jak mrak,\n"
 "tam runový kovář ho vytvořil tak,\n"
 "že oheň plane žezlem, až šálí zrak.\n"
 "O něm i o tvůrcích, kdo, jak a kterak,\n"
-"vyprávím příběh, je jen jeden beztak.</i>\n"
+"vyprávím příběh, je jeden beztak.</i>\n"
 "\n"
 
 #. [campaign]: id=Sceptre_of_Fire
