@@ -4,20 +4,19 @@
 # Copyright (C) 2017 - 2020 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
-# Czech Wesnoth translation team <hrubymar10@gmail.com>,
-#
+# Czech Wesnoth translation team
 #
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2020-12-21 21:53+0100\n"
+"PO-Revision-Date: 2021-01-28 22:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: Český <hrubymar10@gmail.com>\n"
+"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -444,7 +443,7 @@ msgstr "Karadok"
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:393
 msgid "Oh, hello friend! I didn't know you were hiding in there."
-msgstr "A nazdárek přítelíčku! Nevěděla jsem, že se tam schováváš."
+msgstr "A nazdárek, přítelíčku! Nevěděla jsem, že se tam schováváš."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:399
@@ -465,7 +464,7 @@ msgstr "Možná by ho přilákalo, kdybych zacinkala nějakými mincemi."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:443
 msgid "Right-click adjacent to your leader to summon the bat."
 msgstr ""
-"Kliknutím pravým tlačítkem na políčko vedle svého velitele můžeš vyvolat "
+"Kliknutím pravým tlačítkem na políčko vedle svého velitele můžeš povolat "
 "netopýra."
 
 #. [set_menu_item]: id=summon_bat
