@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-01-25 15:48+0100\n"
+"PO-Revision-Date: 2021-01-29 16:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7760,7 +7760,7 @@ msgstr "Omezení obrany"
 
 #: src/help/help_topic_generators.cpp:712
 msgid "Vision Cost"
-msgstr "Cena pohledu"
+msgstr "Cena rozhledu"
 
 #: src/help/help_topic_generators.cpp:716
 msgid "Jamming Cost"
