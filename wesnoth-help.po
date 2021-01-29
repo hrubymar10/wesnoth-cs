@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-01-29 16:39+0100\n"
+"PO-Revision-Date: 2021-01-29 18:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5222,52 +5222,52 @@ msgstr "První hlídka — čtvrtá hodina"
 #. [time]: id=dawn1
 #: data/core/macros/schedules.cfg:514
 msgid "First Dawn"
-msgstr "První hlídka"
+msgstr "První svítání"
 
 #. [time]: id=dawn2
 #: data/core/macros/schedules.cfg:525
 msgid "Second Dawn"
-msgstr "Druhá hlídka"
+msgstr "Druhé svítání"
 
 #. [time]: id=morning1
 #: data/core/macros/schedules.cfg:536
 msgid "First Morning"
-msgstr "Ráno"
+msgstr "První dopoledne"
 
 #. [time]: id=morning2
 #: data/core/macros/schedules.cfg:548
 msgid "Second Morning"
-msgstr "Dopoledne"
+msgstr "Druhé dopoledne"
 
 #. [time]: id=midday1
 #: data/core/macros/schedules.cfg:560
 msgid "First Midday"
-msgstr "Poledne"
+msgstr "První poledne"
 
 #. [time]: id=midday2
 #: data/core/macros/schedules.cfg:572
 msgid "Second Midday"
-msgstr "Poledne"
+msgstr "Druhé poledne"
 
 #. [time]: id=afternoon1
 #: data/core/macros/schedules.cfg:584
 msgid "First Afternoon"
-msgstr "Druhá hlídka"
+msgstr "První odpoledne"
 
 #. [time]: id=afternoon2
 #: data/core/macros/schedules.cfg:596
 msgid "Second Afternoon"
-msgstr "Odpoledne"
+msgstr "Druhé odpoledne"
 
 #. [time]: id=dusk1
 #: data/core/macros/schedules.cfg:608
 msgid "First Dusk"
-msgstr "První hlídka"
+msgstr "První soumrak"
 
 #. [time]: id=dusk2
 #: data/core/macros/schedules.cfg:619
 msgid "Second Dusk"
-msgstr "Druhá hlídka"
+msgstr "Druhý soumrak"
 
 #. [time]: id=short_dark
 #: data/core/macros/schedules.cfg:630
