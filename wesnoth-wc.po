@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-24 17:08+0100\n"
+"PO-Revision-Date: 2021-01-29 19:46+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1964,6 +1964,8 @@ msgid ""
 "What, you want my help? A guy like me? Huh, that’s rich. Oh well... let’s "
 "give it a shot, eh?"
 msgstr ""
+"Cože, vy chcete pomoct? Od někoho jako já? Hm, to je sranda. No dobře... tak "
+"to půjdem zkusit, ne?"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:180
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:386
@@ -2006,38 +2008,44 @@ msgstr "To zní dobře. Na chvíli jsem z vás měl strach."
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:210
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:252
 msgid "Cool. We could always need more air power."
-msgstr "Skvělé. Nějaká vzdušná síla se nám vždycky hodí."
+msgstr "Úžasné. Nějaká vzdušná síla se nám vždycky hodí."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:219
 msgid ""
 "The ancient spirits tell me my destiny lies with yours. My sword is at your "
 "command."
 msgstr ""
+"Duchové předků mi říkají, že můj osud je svázaný s vaším. Můj meč je vám k "
+"službám."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:224
 msgid ""
 "Stand fast, for I bring you the strength of dragons to assist you in your "
 "battle!"
-msgstr ""
+msgstr "Vytrvejte, přináším vám sílu draků, co vám pomůže v bitvě!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:229
 msgid ""
 "Today is a most auspicious day for you, for I deem you worthy of the power "
 "of dragonfire. Show me your foes and I will incinerate them!"
 msgstr ""
+"Dnes je vám osud velmi příznivě nakloněn, neboť vás považuji za hodné síly "
+"dračího ohně. Ukažte mi své nepřátele a já je spálím!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:234
 msgid "Perfect. We can always use more firepower."
-msgstr ""
+msgstr "Skvělé. Více palebné síly se nám vždycky bude hodit."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:238
 msgid ""
 "You no fight good enough, no have saurian way. I show you way of saurian!"
 msgstr ""
+"Dokud se nessezznamíte ss našššimi bojovými zzvyklosstmi, nebudete v boji "
+"dossst dobří. Ukážžu vám zzpůssoby ješšštěráků!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:243
 msgid "Sure, bro..."
-msgstr ""
+msgstr "Jasně, kámo..."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:247
 msgid ""
@@ -2058,6 +2066,8 @@ msgid ""
 "Don’t hit me! I’m just your average regular friendly talking skeleton, see? "
 "Looks like you fellows could use some help!"
 msgstr ""
+"Nestřílejte! Jsem jen průměrný a obyčejný přátelsky vystupující kostlivec, "
+"víte? Vypadá to, že vy, druhové ve zbrani, byste užili nějakou tu pomoc!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:266
 msgid ""
@@ -2090,6 +2100,8 @@ msgid ""
 "Who calls me from my slumber? I sense a great battle being joined. Point me "
 "towards the enemy and I will feast upon their very souls!"
 msgstr ""
+"Kdo mě to volá z mého spánku? Cítím blízkost velké bitvy. Ukažte mi, kde "
+"jsou vaši nepřátelé a já budu hodovat na jejich duších!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:291
 msgid "Skreeeeeeee!"
@@ -2100,6 +2112,8 @@ msgid ""
 "This creature seems unusually intelligent for its kind. Perhaps it will help "
 "us!"
 msgstr ""
+"Toto stvoření se zdá být na svůj druh neobvykle inteligentní. Snad nám "
+"pomůže!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:301
 msgid "You friend are? I friend help!"
@@ -2129,6 +2143,8 @@ msgstr "..."
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:331
 msgid "Odd, it doesn’t seem to attack. I wonder if we can use it?"
 msgstr ""
+"Zvláštní, nezdá se, že by to útočilo. Zajímalo by mě, jestli to můžeme nějak "
+"využít?"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:339
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:348
@@ -2235,6 +2251,7 @@ msgstr ""
 msgid "<b>Bonus Points</b>:\n"
 msgstr "<b>Bonusová místa</b>:\n"
 
+# Ty uvedené počty sice moc nesedí se skutečností, ale budiž.
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:30
 msgid ""
@@ -2243,6 +2260,11 @@ msgid ""
 "units and either contain artifacts, loyal units, or training.\n"
 "\n"
 msgstr ""
+"V každém scénáři hra generuje tolik bonusových míst na mapě, kolik je hráčů "
+"ve hře. Bonusová místa mohou být aktivována jednotkami hráčů a lze na nich "
+"získat buď artefakty, věrné jednotky nebo trénink.\n"
+"\n"
+" \n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:31
@@ -3085,7 +3107,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:25
 msgid "darkness"
-msgstr ""
+msgstr "zatemnění"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:28
 msgid ""
@@ -3093,6 +3115,9 @@ msgid ""
 "and lawful units fight worse. Any units adjacent to this unit will fight as "
 "if it were dusk when it is day, and as if it were night when it is dusk."
 msgstr ""
+"Tato jednotka zatemňuje okolní políčka, takže chaotické jednotky bojují lépe "
+"a zákonné jednotky hůře. Jakékoli jednotky s touto jednotkou sousedící budou "
+"během dne bojovat, jako kdyby byl soumrak, a za soumraku, jako by byla noc."
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:31
 msgid "distract"
@@ -3130,11 +3155,11 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:49
 msgid "forcefield"
-msgstr ""
+msgstr "silové pole"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:52
 msgid "Adjacent enemies do 13% less damage."
-msgstr ""
+msgstr "Sousedící nepřátelské jednotky způsobují o 13 % menší poškození."
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:55
 msgid "fury"
@@ -3172,7 +3197,7 @@ msgstr "volný pohyb"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:79
 msgid "terrain^water"
-msgstr ""
+msgstr "voda"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:82
 msgid "improved defenses"
@@ -3188,13 +3213,15 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:91
 msgid "disengage"
-msgstr ""
+msgstr "uvolnění"
 
 #: data/campaigns/World_Conquest/resources/strings/effects.cfg:94
 msgid ""
 "Attack with this weapon gives unit 1 moves at end of combat (unit doesn’t "
 "gain a new attack)."
 msgstr ""
+"Útok touto zbraní poskytne jednotce po skončení souboje 1 pohybový bod navíc "
+"(jednotka nezíská nový útok)."
 
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:4
 msgid "per level"
