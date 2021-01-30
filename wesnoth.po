@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:38+0300\n"
-"PO-Revision-Date: 2021-01-29 17:04+0100\n"
+"PO-Revision-Date: 2021-01-30 12:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -142,7 +142,7 @@ msgstr "Potvrzovat načtení uložených her z jiné verze"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:117
 msgid "Show all unit types in help"
-msgstr "Ukázat v nápovědě všechny jednotky"
+msgstr "Ukázat v nápovědě všechny typy jednotek"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:118
@@ -4111,7 +4111,7 @@ msgstr "elektrický"
 #. [action]: id=button-playreplay, type=image
 #: data/themes/_initial.cfg:426 data/themes/_initial.cfg:586
 msgid "Play"
-msgstr "Hrát"
+msgstr "Přehrát"
 
 #. [action]: id=button-playreplay, type=image
 #: data/themes/_initial.cfg:427 data/themes/_initial.cfg:587
@@ -4131,7 +4131,7 @@ msgstr "po tomto tahu pauznout hru"
 #. [action]: id=button-resetreplay, type=image
 #: data/themes/_initial.cfg:457 data/themes/_initial.cfg:614
 msgid "Reset"
-msgstr "Resetovat"
+msgstr "Znovu"
 
 #. [action]: id=button-resetreplay, type=image
 #: data/themes/_initial.cfg:458 data/themes/_initial.cfg:615
@@ -5639,8 +5639,8 @@ msgid ""
 "Sends a private message. You cannot send private messages to players in a "
 "running game you observe or play in."
 msgstr ""
-"Pošle soukromou zprávu. Nelze ji poslat hráči, který hraje za některou "
-"stranu ve stejné hře jako vy (právě běžící)."
+"Pošle soukromou zprávu. Nemůžeš posílat soukromé zprávy hráčům v běžící "
+"hře, kterou sleduješ, nebo sám hraješ."
 
 #: src/chat_command_handler.hpp:117
 msgid "<nickname> <message>"
