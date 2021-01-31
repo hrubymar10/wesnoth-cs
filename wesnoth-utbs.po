@@ -32,6 +32,40 @@ msgstr ""
 #. [editor_group]: id=utbs
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:11
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:242
+# translation of wesnoth-utbs.pot to Czech
+# Czech translations for Battle for Wesnoth package.
+# Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
+# Copyright (C) 2006 - 2020 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Czech Wesnoth translation team
+#
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2006 - 2011.
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006, 2007.
+# Honza <Honza-mistic@seznam.cz>, 2014.
+# Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Tereza Žejdlová, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-01-16 14:18 UTC\n"
+"PO-Revision-Date: 2021-01-31 13:35+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
+"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#. [campaign]: id=Under_the_Burning_Suns
+#. [editor_group]: id=utbs
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:11
+#: data/campaigns/Under_the_Burning_Suns/_main.cfg:242
 msgid "Under the Burning Suns"
 msgstr "Pod žhnoucími slunci"
 
@@ -14872,7 +14906,7 @@ msgstr "Malý blátožrout"
 #. [unit_type]: id=Naga Guardian, race=naga
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Guardian.cfg:4
 msgid "Naga Guardian"
-msgstr "Naga hlídka"
+msgstr "Nága hlídka"
 
 #. [unit_type]: id=Naga Guardian, race=naga
 #. [unit_type]: id=Naga Sentinel, race=naga
@@ -14887,14 +14921,14 @@ msgid ""
 "participate in offensive raids."
 msgstr ""
 "Tito obávaní bojovníci jsou elitními hlídkami nág. Jsou pomalejší a více "
-"vyzbrojené než většina nág; třímají velké palice, kterými drtí nepřátele. "
-"Ponejvíce brání předsunuté základny nág, ale zřídkavě se účastní i útočných "
-"nájezdů."
+"obrněné než většina nág a třímají velké palice, kterými drtí nepřátele. "
+"Ponejvíce brání předsunuté základny nág, ale příležitostně se účastní i "
+"útočných nájezdů."
 
 #. [unit_type]: id=Naga Hunter, race=naga
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Hunter.cfg:4
 msgid "Naga Hunter"
-msgstr "Naga lovec"
+msgstr "Nága lovec"
 
 #. [unit_type]: id=Naga Hunter, race=naga
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Hunter.cfg:18
@@ -14912,12 +14946,12 @@ msgstr ""
 #. [unit_type]: id=Naga Sentinel, race=naga
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Sentinel.cfg:4
 msgid "Naga Sentinel"
-msgstr "Naga patrola"
+msgstr "Nága patrola"
 
 #. [unit_type]: id=Naga Warden, race=naga
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Warden.cfg:4
 msgid "Naga Warden"
-msgstr "Naga strážce"
+msgstr "Nága strážce"
 
 #. [unit_type]: id=Dark Assassin1, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/other/Dark_Assassin1.cfg:4
@@ -14938,12 +14972,12 @@ msgstr ""
 #. [attack]: type=blade
 #: data/campaigns/Under_the_Burning_Suns/units/other/Dark_Assassin1.cfg:40
 msgid "dagger"
-msgstr ""
+msgstr "dýka"
 
 #. [attack]: type=blade
 #: data/campaigns/Under_the_Burning_Suns/units/other/Dark_Assassin1.cfg:49
 msgid "throwing knives"
-msgstr ""
+msgstr "házecí nože"
 
 #. [unit_type]: id=Quenoth Archer, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Archer.cfg:5
@@ -14975,6 +15009,10 @@ msgid ""
 "with raw power and can force their way through all but the most secure of "
 "defenses."
 msgstr ""
+"Šampióni, kteří zvládli ovládání kůs téměř k dokonalosti, stojí v čele "
+"většiny quenothských kopinických sestav. Tito elfové možná mírně postrádají "
+"strategickou vytříbenost. O to více to kompenzují surovou silou, kdy si "
+"dokáží protlačit cestu přes všechny i ty nejzabezpečenější obranné linie."
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -14984,7 +15022,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Warrior.cfg:32
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Warrior.cfg:44
 msgid "glaive"
-msgstr "kosa"
+msgstr "kůsa"
 
 #. [unit_type]: id=Corrupted Quenoth Elf, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Corrupted_Elf.cfg:5
@@ -15055,6 +15093,12 @@ msgid ""
 "for combat and survival, these elves are the few who remain as healers and "
 "caretakers."
 msgstr ""
+"Druidky, uctívačky bohyně světla Eloh, jsou považovány za tajemné i "
+"ostatními elfkami stejného řádu. Tento dojem částěčně pramení z neobvyklého "
+"spojení druidek s přírodou, něčeho, co ve světě prostoupeném spáleným pískem "
+"téměř úplně chybí. V brutálním světě, kde se ostatní trénují v umění boje a "
+"přežití, jsou tyto elfky jedny z nemnohých, které setrvávají na léčitelské a "
+"ošetřovatelské cestě."
 
 #. [attack]: type=impact
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Druid.cfg:41
@@ -15087,6 +15131,14 @@ msgid ""
 "weaponry by forming robust spear ranks capable of repelling nearly any "
 "frontal assault."
 msgstr ""
+"Kdysi dávno, během prosperujících dob, elfští válečníci upřednostňovali "
+"použití mečů, neboť jim ve srovnání s jinými zbraněmi nablízko přišli jako "
+"elegantnější a všestrannější zbraně. V současné době však nedostatek surovin "
+"pro kovářskou výrobu snížil dostupnost čepelí, což si vyžádalo výrobu "
+"levnějších a snadněji opravitelných zbraní. Quenothští bojovníci jsou "
+"pozoruhodně zruční v koordinovaných skupinách, v kterých mohou čelit "
+"nedostatku sofistikovanějších zbraní vytvořením robustních kopinických "
+"formací schopných odrazit téměř jakýkoli frontální útok. "
 
 #. [unit_type]: id=Quenoth Flanker, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Flanker.cfg:5
@@ -15109,7 +15161,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Flanker.cfg:43
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Ranger.cfg:44
 msgid "blowgun"
-msgstr ""
+msgstr "foukačka"
 
 #. [unit_type]: id=Quenoth Marksman, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Marksman.cfg:5
@@ -15130,6 +15182,18 @@ msgid ""
 "ancestors, these master archers can achieve the same speed and precision as "
 "the Sharpshooters of old, all while in full gallop on horseback."
 msgstr ""
+"V dávných dobách byla elfí nadvláda v lukostřelbě mezi ostatními rasami "
+"Velkého kontinentu nepochybná. Vzhledem k tomu, že se lukostřelba stala v "
+"zemi s omezeným krytím méně životaschopnou, staly se dovednosti několika "
+"zbývajících elfích lučištníků podezřelými, a to až do té míry, že dokonce i "
+"jejich bratři začali věřit, že lukostřelba je spíše zastaralou památkou než "
+"praktickým bojovým nástrojem.\n"
+"\n"
+"Pouhý pohled na quenothského střelce v akci by stačil k rozptýlení tohoto "
+"pošetilého myšlenkového sledu. Tito mistrovští lukostřelc jsou schopni "
+"dosáhnout stejně legendárních výkonů jako jejich předkové. Dokáží střílet "
+"stejně rychle a přesně jako starodávní ostrostřelci a to vše z koňského "
+"hřbetu při plném trysku."
 
 #. [unit_type]: id=Quenoth Mystic, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Mystic.cfg:5
@@ -15455,6 +15519,14 @@ msgid ""
 "presence of these riders is a heartening one for most elves and a deterrent "
 "for the many pillagers that rove the deserts."
 msgstr ""
+"Mohutní a nebojácní tauři jsou často využíváni nejen k nájezdům a prorážení "
+"nepřátelských formací, ale také k seskupování a inspirování pěchoty při "
+"udržování linie. V býčích předvojích figurují vytrvalí jezdci, co dokáží "
+"přežít v bitvě a vést své bratry z předních linií. Jezdci předvoje se tyčí "
+"nad převalujícími se dunami a nesou velké vlajky, které se jasně obráží na "
+"pouštní obloze, čímž jsou v poušti výrazně zřetelní i při pohledu zdálky. "
+"Přítomnost těchto jezdců je pro většinu elfů povzbudivá. A pro mnoho "
+"drancířů, potulujících se v poušti, je odstrašující."
 
 #. [unit_type]: id=Quenoth Warrior, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Warrior.cfg:5
@@ -15563,7 +15635,7 @@ msgstr "Quenothské děvče"
 #. [unit_type]: id=EGhost
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Ghost.cfg:7
 msgid "Ethereal Ghost"
-msgstr "Nezemský duch"
+msgstr "Éterický duch"
 
 #. [unit_type]: id=EGhost
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Ghost.cfg:16
@@ -15587,7 +15659,7 @@ msgstr ""
 #. [unit_type]: id=ENightgaunt
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Nightgaunt.cfg:7
 msgid "Ethereal Nightgaunt"
-msgstr "Nezemský nightgaunt"
+msgstr "Éterický nightgaunt"
 
 #. [unit_type]: id=ENightgaunt
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Nightgaunt.cfg:20
@@ -15604,19 +15676,15 @@ msgstr ""
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Nightgaunt.cfg:26
-#, fuzzy
-#| msgid ""
-#| "SPECIAL_NOTE^ Unlike normal Nightgaunts, Ethereal Nightgaunts cannot hide "
-#| "at night."
 msgid ""
 "SPECIAL_NOTE^Unlike normal Nightgaunts, Ethereal Nightgaunts cannot hide at "
 "night."
-msgstr "Nezemští nightgaunti se na rozdíl od běžných nedokáži skrýt v noci."
+msgstr "Éteričtí nightgaunti se na rozdíl od běžných nedokáži skrýt v noci."
 
 #. [unit_type]: id=EShadow
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Shadow.cfg:7
 msgid "Ethereal Shadow"
-msgstr "Nezemský stín"
+msgstr "Éterický stín"
 
 #. [unit_type]: id=EShadow
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Shadow.cfg:21
@@ -15631,18 +15699,18 @@ msgstr ""
 "stáhnout se do temnoty. Od toho dne stíny světa přinášejí lidstvu "
 "bezdůvodnou nedefinovatelnou hrůzu.\n"
 "\n"
-"Na otázku proč vám snadno odpoví nekromant."
+"Na tuto otázku vám snadno odpoví nekromant."
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Shadow.cfg:29
 msgid ""
 "SPECIAL_NOTE^ Unlike normal Shadows, Ethereal Shadows cannot hide at night."
-msgstr "Nezemské stíny se na rozdíl od běžných nedokáži skrýt v noci."
+msgstr "Éterické stíny se na rozdíl od běžných nedokáži skrýt v noci."
 
 #. [unit_type]: id=ESpectre
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Spectre.cfg:7
 msgid "Ethereal Spectre"
-msgstr "Nezemský přízrak"
+msgstr "Éterický přízrak"
 
 #. [unit_type]: id=ESpectre
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Spectre.cfg:14
@@ -15655,18 +15723,18 @@ msgid ""
 "is that it is likely only the harbinger of a much more dangerous force that "
 "will follow in its wake."
 msgstr ""
-"Přízraky, někdy také nazývané ‘neviditelní lidé‘ jsou pravou rukou síly "
-"svého mistra. Tyto ohavnosti jsou oprávněným postrachem živých, držící "
-"nekonečnou hlídku nad říší svého pána.\n"
+"Přízraky, někdy také nazývané „průhlední lidé“ jsou pravou rukou síly svého "
+"mistra. Tyto ohavnosti jsou oprávněným postrachem živých, držící nekonečnou "
+"hlídku nad říší svého pána.\n"
 "\n"
-"Jejich stvoření není nijak jednoduchým činem, pravá hrůza z jejich spatření "
-"proto tkví spíše v tom, že jsou většinou pouhými zvěstovateli mnohem většího "
+"Jejich stvoření není jen tak snadným činem. Ta pravá hrůza z jejich spatření "
+"tedy tkví v tom, že jsou většinou pouhými předzvěstmi mnohem většího "
 "nebezpečí, kráčejícího v jejich stopách."
 
 #. [unit_type]: id=EWraith
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Wraith.cfg:7
 msgid "Ethereal Wraith"
-msgstr "Nezemský fantóm"
+msgstr "Éterický fantóm"
 
 #. [unit_type]: id=EWraith
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Ethereal_Wraith.cfg:15
@@ -15720,8 +15788,8 @@ msgid ""
 msgstr ""
 "Nikdo si není úplně jistý, jak vlastně pavoučí lichové vznikají, ale jsou to "
 "na pohled strašliví tvorové. Plazí se kolem na obřích kostlivých nohou a "
-"ohánějí se obřími kouzelnými holemi; tyto nemrtvé příšery jsou velmi "
-"obávané. "
+"třímají obří kouzelné hole. Tyto ohavné příšery jsou velmi obávanými "
+"nemrtvými nepřáteli."
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/campaigns/Under_the_Burning_Suns/units/undead/Undead_Horseman.cfg:5
@@ -15765,28 +15833,21 @@ msgstr ""
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:94
-#, fuzzy
-#| msgid " This unit is capable of basic healing and slowing dehydration."
 msgid "This unit is capable of basic healing and slowing dehydration."
 msgstr ""
 " Tato jednotka je schopna základní léčby a také dokáže zpomalit dehydrataci."
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:100
-#, fuzzy
-#| msgid ""
-#| " This unit is capable of healing those around it, slowing dehydration, "
-#| "and curing them of poison."
 msgid ""
 "This unit is capable of healing those around it, slowing dehydration, and "
 "curing them of poison."
 msgstr ""
-" Tato jednotka je schopna jednak léčit, ale také uzdravit jednotky z otravy."
+" Tato jednotka je schopna sousedící jednotky léčit, zpomalovat jim "
+"dehydrataci a uzdravovat je z otravy."
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:106
-#, fuzzy
-#| msgid "SPECIAL_NOTE^ This unit is able to move through solid stone walls."
 msgid "SPECIAL_NOTE^This unit is able to move through solid stone walls."
 msgstr "Tato jednotka dokáže procházet pevnými zdmi."
 
@@ -15807,6 +15868,9 @@ msgid ""
 "all the units of the same side adjacent to it. If no suitable unit is "
 "adjacent, its experience just goes back to zero."
 msgstr ""
+"Na začátku každého tahu tato jednotka přerozděluje své body zkušenosti všem "
+"jednotkám své strany, které se nacházejí vedle ní. Pokud s ní nesousedí "
+"žádná vhodná jednotka, její zkušenost se vrátí zpět na nulu."
 
 #. [attacks]: id=shock
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:126
@@ -15815,13 +15879,12 @@ msgstr "šok"
 
 #. [attacks]: id=shock
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:127
-#, fuzzy
 msgid ""
 "When this attack is used on offense, the opponent will retaliate with one "
 "less strike than normally, to a minimum of one strike."
 msgstr ""
-"Když je tento útok využitý při obraně, protivník bude mít o jeden úder méně "
-"než normálně, až do minima jednoho zásahu."
+"Pokud je tento útok použitý ofenzivně, zasažený protivník bude mít při "
+"protiúderech o jeden úder méně než normálně, minimálně však jeden úder."
 
 #. [dummy]: id=formation
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:158
@@ -15840,6 +15903,9 @@ msgid ""
 "ability is adjacent to it. However, this cannot raise the unit’s defense "
 "above 70%."
 msgstr ""
+"Tato jednotka získá +10 % k obrannému bonusu, pokud se na sousedícícm "
+"políčku nachází další jednotka se stejnou schopností. Tento efekt však "
+"nemůže zvýšit obranný bonus jednotky nad 70 %."
 
 #. [dummy]: id=disengage
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:179
@@ -15857,6 +15923,8 @@ msgid ""
 "If this unit doesn’t move before attacking, it will retain its movement "
 "points after the attack."
 msgstr ""
+"Pokud se tato jednotka před útokem nepohybuje, udrží si body pohybu i po "
+"útoku."
 
 #. [dummy]: id=daze
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:188
@@ -15873,6 +15941,14 @@ msgid ""
 "Magical attacks will still have a 70% chance to hit.\n"
 "Marksman attacks are only affected if the chance to hit is greater than 60%."
 msgstr ""
+"Když je zasažena tímto útokem, sníží se nepřátelské jednotce na jedno kolo o "
+"10 % jak obranný bonus, tak šance zasáhnout útokem. Před tímto speciálním "
+"efektem však mají přednost jiné speciální efekty, které ovlivňují šanci na "
+"zásah (např. magický útok či odstřelovač).\n"
+"\n"
+"Magické útoky budou stále mít 70 % šanci zasáhnout.\n"
+"Útoky odstřelovačů jsou ovlivněny pouze v případě, že šance na zásah je "
+"větší než 60 %."
 
 #. [skirmisher]: id=distract
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:199
@@ -15890,6 +15966,8 @@ msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but "
 "not for itself)."
 msgstr ""
+"Tato jednotka na sousedících políčkách ruší nepřátelské zóny kontroly pro "
+"své spojence (ne však pro sebe)."
 
 #. [dummy]: id=support
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:212
@@ -15905,29 +15983,26 @@ msgstr "podporující"
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:214
 msgid "The upkeep costs of adjacent friendly units are lowered by 1."
 msgstr ""
+"Náklady na údržbu jsou u sousedících spřátelených jednotek sníženy o 1."
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:220
-#, fuzzy
-#| msgid ""
-#| " This unit’s melee attack can overwhelm the defenses of enemies, "
-#| "preventing them from retaliating as effectively."
 msgid ""
 "This unit’s melee attack can overwhelm the defenses of enemies, preventing "
 "them from retaliating as effectively."
 msgstr ""
-"U této jednotky může útok na blízko převálcovat obranu nepřátel, takže "
-"protiúder není tak účinný."
+"U této jednotky může útok na blízko převálcovat obranu nepřátel a zabránit "
+"jim v účinném protiúderu."
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:226
 msgid "Groups of units of this type are able to shield each other in combat."
-msgstr ""
+msgstr "Skupiny jednotek tohoto typu se dokáží v boji navzájem chránit."
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:232
 msgid "This unit can move either before or after attacking."
-msgstr ""
+msgstr "Tato jednotka se může pohybovat před nebo po útoku."
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:238
@@ -15935,6 +16010,8 @@ msgid ""
 "This unit can daze its enemies, reducing their accuracy and defense until "
 "they end a turn."
 msgstr ""
+"Tato jednotka může omámit své nepřátele a snižovat tak do konce jejich tahu "
+"jejich přesnost a obranu."
 
 #. [special_note]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:244
@@ -15942,6 +16019,9 @@ msgid ""
 "This unit is capable of distracting opponents, allowing allied units to "
 "trespass their Zones of Control and move unhindered around them."
 msgstr ""
+"Tato jednotka je schopna rozptýlit protivníky a umožnit tak spojeneckým "
+"jednotkám překročit jejich zóny kontroly a bez překážek se kolem nich "
+"pohybovat."
 
 #. [unstore_unit]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:297
@@ -16047,15 +16127,17 @@ msgstr ""
 "Jak jen jsme ji mohli nechat zemřít? Nikdy předtím jsem neviděl takovou "
 "ohnivou magii. Bude nám bolestivě scházet."
 
+# Kontextuálně správnější než žízeň, originál kulhá.
 #. [floating_text]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:114
 msgid "female^thirst"
-msgstr "žízeň"
+msgstr "žíznivá"
 
+# Kontextuálně správnější než žízeň, originál kulhá.
 #. [floating_text]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:123
 msgid "thirst"
-msgstr "žízeň"
+msgstr "žíznivý"
 
 #. [floating_text]
 #. [unstore_unit]
@@ -16071,9 +16153,11 @@ msgstr "osvěžená"
 msgid "refreshed"
 msgstr "osvěžený"
 
+# Originální řetězec je nějaký divný.
 #: data/campaigns/Under_the_Burning_Suns/utils/garak-abilities.cfg:57
+#, fuzzy
 msgid "+%d XP"
-msgstr "+%d XP"
+msgstr "+% životů"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:6
