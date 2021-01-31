@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-26 21:58+0100\n"
+"PO-Revision-Date: 2021-02-01 00:25+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16121,7 +16121,7 @@ msgstr "osvěžený"
 
 #: data/campaigns/Under_the_Burning_Suns/utils/garak-abilities.cfg:57
 msgid "+%d XP"
-msgstr "+d% zkušenosti"
+msgstr "+%d zkušenosti"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:6
