@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-01-29 18:33+0100\n"
+"PO-Revision-Date: 2021-01-31 09:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -957,10 +957,8 @@ msgstr ""
 #. [topic]: id=editor_time_schedule
 #. Time of Day and Schedule Editor, please use a short string as it will be used in the left-hand pane of the help browser
 #: data/core/editor/help.cfg:347
-#, fuzzy
-#| msgid "Time Schedule Editor"
 msgid "ToD and Schedule Editor"
-msgstr "Časový plán"
+msgstr "Editor rozvrhu dne"
 
 #. [topic]: id=editor_time_schedule
 #: data/core/editor/help.cfg:348
@@ -4859,24 +4857,15 @@ msgstr ""
 #. [hides]: id=burrow
 #: data/core/macros/abilities.cfg:270
 msgid "burrow"
-msgstr ""
+msgstr "zanoření"
 
 #. [hides]: id=burrow
 #: data/core/macros/abilities.cfg:271
-#, fuzzy
-#| msgid "female^slow"
 msgid "female^burrow"
-msgstr "pomalá"
+msgstr "zanoření"
 
 #. [hides]: id=burrow
 #: data/core/macros/abilities.cfg:272
-#, fuzzy
-#| msgid ""
-#| "This unit can hide in forest, and remain undetected by its enemies.\n"
-#| "\n"
-#| "Enemy units cannot see this unit while it is in forest, except if they "
-#| "have units next to it. Any enemy unit that first discovers this unit "
-#| "immediately loses all its remaining movement."
 msgid ""
 "This unit can hide in forest or sand if it is resting (has not moved for a "
 "turn), and remain undetected by its enemies.\n"
@@ -4885,11 +4874,13 @@ msgid ""
 "except if they have units next to it. Any enemy unit that first discovers "
 "this unit immediately loses all its remaining movement."
 msgstr ""
-"Jednotka se dokáže ukrýt v lese a zůstat nezpozorována svými nepřáteli.\n"
+"Tato jednotka se dokáže ukrýt v lese nebo v písku, pokud odpočívá (po jedno "
+"kolo se nepohnula), a zůstat nezpozorována svými nepřáteli.\n"
 "\n"
-"Nepřátelské jednotky nemohou tuto jednotku spatřit v lese, pouze jsou-li na "
-"sousedních polích. Nepřátelská jednotka, která ji nalezne jako první, ztrácí "
-"všechny své zbývající body pohybu."
+"Dokud tato jednotka odpočívá v lese nebo v písku, nemohou ji nepřátelské "
+"jednotky spatřit až na případy, kdy jsou vedle ní. První nepřátelská "
+"jednotka, která tuto jednotku najde, okamžitě ztratí veškerou svou zbývající "
+"možnost pohybu."
 
 #. [hides]: id=nightstalk
 #: data/core/macros/abilities.cfg:293
