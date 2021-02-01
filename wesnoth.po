@@ -5639,8 +5639,8 @@ msgid ""
 "Sends a private message. You cannot send private messages to players in a "
 "running game you observe or play in."
 msgstr ""
-"Pošle soukromou zprávu. Nemůžeš posílat soukromé zprávy hráčům v běžící "
-"hře, kterou sleduješ, nebo sám hraješ."
+"Pošle soukromou zprávu. Nemůžeš posílat soukromé zprávy hráčům v běžící hře, "
+"kterou sleduješ, nebo sám hraješ."
 
 #: src/chat_command_handler.hpp:117
 msgid "<nickname> <message>"
