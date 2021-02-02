@@ -12,15 +12,15 @@ wesnoth-lib | 1433 | 92 % | 101 |
 wesnoth-manpages | 304 | 56 % | 133 |
 wesnoth-manual | 557 | 96 % | 17 |
 wesnoth-sof | 625 | 62 % | 235 | tapik
-wesnoth-utbs | 1925 | 97 % | 55 | Septim
+wesnoth-utbs | 1925 | 98 % | 27 | Septim
 wesnoth-wc | 416 | 93 % | 28 | Septim
 wesnoth | 1362 | 93 % | 83 |
 
-Total messages remaining: **674**
+Total messages remaining: **646**
 
 Progress since 2020-08-28: **13** messages per day
 
-ETA: **2021-03-24**
+ETA: **2021-03-23**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
