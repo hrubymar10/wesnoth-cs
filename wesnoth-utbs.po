@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-02-01 00:25+0100\n"
+"PO-Revision-Date: 2021-02-02 15:47+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1520,7 +1520,7 @@ msgstr "Elyssa"
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1052
 msgid "Go’hag"
-msgstr "Go’hag"
+msgstr "Gohag"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1053
@@ -1644,19 +1644,14 @@ msgstr ""
 
 #. [message]: speaker=Vengeful Lord
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1223
-#, fuzzy
-#| msgid ""
-#| "Elf with a bow, I remember you. You thought me defeated, but I am back "
-#| "even more powerful than before. Death reigns eternal, your scorched bones "
-#| "and lifeless body will join my host."
 msgid ""
 "Elf of the sands, I remember you. You thought me defeated, but I am back "
 "even more powerful than before. Death reigns eternal, your scorched bones "
 "and lifeless body will join my host."
 msgstr ""
-"Elfe, ty s tím lukem, pamatuji si tě. Mysleli jste si, že jsem poražen, ale "
-"vracím se ve formě ještě silnější než dříve. Smrt vládne navěky, a brzy mi "
-"budou sloužit i vaše dobité kosti a bezduchá těla!"
+"Pamatuji si tě, elfe z pouště. Mysleli jste si, že jsem poražen, ale vracím "
+"se ještě v silnější formě než dříve. Smrt vládne navěky. Brzy mi budou "
+"sloužit i vaše dobité kosti a bezduchá těla!"
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1228
@@ -1736,7 +1731,7 @@ msgid ""
 "there. I think we’re being watched. I suspect there are more of these "
 "bandits lurking in these dunes than we originally thought."
 msgstr ""
-"Viděli jste to? Myslím, že na tamté duně bylo někoho vidět; právě zmizel. "
+"Viděli jste to? Myslím, že na tamté duně bylo někoho vidět. Právě zmizel. "
 "Zřejmě nás někdo sleduje. Mám podezření, že se tu v těch dunách potuluje víc "
 "banditů než jsme si mysleli."
 
@@ -2117,7 +2112,7 @@ msgid ""
 "You always were an arrogant little bastard. Grak will swallow your soul, or "
 "what’s left of it."
 msgstr ""
-"Vždycky jsi byl arogantní malý bastard. Grek dřív spolkne tvou duši, nebo "
+"Vždycky jsi byl arogantní malý bastard. Grak dřív spolkne tvou duši, nebo "
 "spíš to co z ní zbylo."
 
 #. [message]: speaker=Azkotep
@@ -2126,8 +2121,8 @@ msgid ""
 "You spurned me once and I will make you pay. To battle, my minions! Become "
 "my wrath!"
 msgstr ""
-"Už jednou jsi mnou pohrdl; donutím tě za to zaplatit. Ale dost bylo "
-"včerejška - do boje, mé legie! Boj se hněvu mrtvých!"
+"Už jednou jsi mnou pohrdl, donutím tě za to zaplatit. Do boje, mí věrní! "
+"Ukažte sílu mého hněvu!"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:404
@@ -2273,23 +2268,18 @@ msgstr ""
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:672
-#, fuzzy
-#| msgid ""
-#| "I bless you champion with the light that will come, I bless you with the "
-#| "memory and the promise. Lay down your bow, champion, and let your sword "
-#| "shine in the dark."
 msgid ""
 "I bless you with the light that will come, I bless you with the memory and "
 "the promise. Lay down your shield, champion, and let your blade shine in the "
 "dark."
 msgstr ""
-"Prohlašuji tě šampiónem světla, které přijde. Dávám ti příslib paměti a "
-"naděje. Šampióne, odlož svůj luk a nech svůj meč zářit v temnotách."
+"Žehnám ti ve jménu světla, které přijde. Žehnám ti v síle vzpomínek a "
+"příslibů. Odlož svůj štít, šampióne, a nech svůj meč zářit v temnotách."
 
 #. [berserk]: id=berserk
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:701
 msgid "righteous rage"
-msgstr ""
+msgstr "spravedlivý vztek"
 
 #. [berserk]: id=berserk
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:703
@@ -2298,11 +2288,14 @@ msgid ""
 "attack presses the engagement until one of the combatants is slain, or 30 "
 "rounds of attacks have occurred."
 msgstr ""
+"Pokud je tento útok použit ofenzivně nebo defenzivně proti šampionům Grakovi "
+"či Zurovi, boj trvá tak dlouho, dokud jeden z protivníků nezemře, nebo do "
+"počtu 30 útoků."
 
 #. [chance_to_hit]: id=magical
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:712
 msgid "true strike"
-msgstr ""
+msgstr "úder pravdy"
 
 #. [chance_to_hit]: id=magical
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:714
@@ -2310,6 +2303,8 @@ msgid ""
 "This attack always has a 70% chance to hit regardless of the defensive "
 "ability of the champion being attacked."
 msgstr ""
+"Tento útok má vždy 70% šanci k zásahu bez ohledu na obranný bonus napadeného "
+"šampiona. "
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:778
@@ -2342,7 +2337,7 @@ msgstr "Ty tam! Kostitřase! Vyzývám tě, postav se mi!"
 #. [message]: speaker=Zur
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:826
 msgid "Puny elf... Time to die..."
-msgstr "Čas zemřít, elfe..."
+msgstr "Přišel čas zemřít, elfátko..."
 
 #. [message]: speaker=Zur
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:832
@@ -2376,15 +2371,11 @@ msgstr ""
 
 #. [message]: speaker=$lich_lord.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:933
-#, fuzzy
-#| msgid ""
-#| "No! This contest is not over yet, Azkotep. I shall show you a taste of my "
-#| "true power."
 msgid ""
 "No! This contest is not over yet, Ystara. I shall show you a taste of my "
 "true power."
 msgstr ""
-"Ne! Tato soutěž ještě neskončila, Azkotepe. Předvedu ti ukázku mé opravdové "
+"Ne! Tato soutěž ještě neskončila, Ystaro. Předvedu ti ukázku mé opravdové "
 "moci."
 
 #. [message]: speaker=$lich_lord.id
@@ -2654,7 +2645,7 @@ msgstr "Už se nikdy nedozvíme, co na tom pergamenu bylo."
 #. [message]: race=orc
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1625
 msgid "Chief has fallen! Flee!"
-msgstr "Náčelník padl! Prchněte, spaste se!"
+msgstr "Náčelník padnul! Prchejte!"
 
 # říká goblin...
 #. [message]: race=goblin,wolf
@@ -2985,7 +2976,7 @@ msgstr "Turg"
 #. [side]: id=Ug'lok, type=Orcish Warrior, type=Orcish Warlord
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:127
 msgid "Ug’lok"
-msgstr "Ug’lok"
+msgstr "Uglok"
 
 #. [objectives]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:197
@@ -3176,7 +3167,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:578
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:739
 msgid "Yesss, we remember the oath...  Sssslay them all!"
-msgstr ""
+msgstr "Ssvou příssahu ssplníme... Zzabte je všššechny!"
 
 #. [message]: speaker=Panok
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:600
@@ -3281,6 +3272,8 @@ msgid ""
 "Remember, Kaleh, it’s nasty fighting underground. We will be at a "
 "disadvantage against orcs and other things that prefer the darkness."
 msgstr ""
+"Pamatuj, Kalehu, v podzemí to nebude hezký boj. Budeme v nevýhodě proti "
+"skřetům a dalším věcem, co dávají přednost temnotě."
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:780
@@ -3310,8 +3303,8 @@ msgid ""
 "Looks like he’s been squirreling away his stolen loot in this cave. Not that "
 "he had much. Must be hard times."
 msgstr ""
-"Vypadá to, že si v téhle jeskyni vršil svůj lup. Ne že by tam měl nějak moc. "
-"Musí být krušné časy."
+"Vypadá to, že si v téhle jeskyni vršil svůj lup. Ne že by tady toho měl "
+"nějak moc. Časy musí být krušné."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:854
@@ -3513,7 +3506,7 @@ msgstr "Podzemní šarvátka"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:96
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1109
 msgid "team_name^Trolls"
-msgstr "Trólové"
+msgstr "Trollové"
 
 #. [side]
 #. [modify_side]
@@ -3938,7 +3931,7 @@ msgstr "Počkej chvilku... Prázdný pohled, špičaté uši – to musí být e
 #. [message]: speaker=second_dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1023
 msgid "Elves?! What in the nine hells are elves doing down here?"
-msgstr "Elfové!?! Co u devíti pekel dělají elfové tady dole?"
+msgstr "Elfové?! Co u devíti pekel dělají elfové tady dole?"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1028
@@ -4212,7 +4205,7 @@ msgstr ""
 #. [unit]: type=Troll Shaman, id=Thu'lok, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1825
 msgid "Thu’lok"
-msgstr "Thu’lok"
+msgstr "Thulok"
 
 #. [unit]: type=Troll Whelp, id=Harpo, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1840
@@ -4222,12 +4215,12 @@ msgstr "Harpo"
 #. [unit]: type=Troll Whelp, id=Groucho, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1855
 msgid "Groucho"
-msgstr "Groucho"
+msgstr "Groučo"
 
 #. [unit]: type=Troll Whelp, id=Chico, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1870
 msgid "Chico"
-msgstr "Chico"
+msgstr "Čiko"
 
 #. [unit]: type=Troll Rocklobber, id=Groo, role=ally
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1886
@@ -4603,7 +4596,7 @@ msgid ""
 "The cloaked figure is gone. Still, our work is not yet done. Gather "
 "yourselves together; we must follow Zurg."
 msgstr ""
-"Ta zahalená postava je pryč; náš úkol však stále není u konce. Shromážděte "
+"Ta zahalená postava je pryč. Náš úkol však stále není u konce. Shromážděte "
 "se, musíme jít za Zurgem."
 
 #. [message]: speaker=Kaleh
@@ -4612,7 +4605,7 @@ msgid ""
 "The cloaked figure is gone. Still, our work is not yet done. Gather "
 "yourselves together; we must follow Grimnir."
 msgstr ""
-"Ta zahalená postava je pryč; náš úkol však stále není u konce. Shromážděte "
+"Ta zahalená postava je pryč. Náš úkol však stále není u konce. Shromážděte "
 "se, musíme jít za Grimnirem."
 
 #. [message]: speaker=Kaleh
@@ -4637,7 +4630,7 @@ msgstr ""
 #. [scenario]: id=06a_In_the_Tunnels_of_the_Trolls
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:10
 msgid "In the Tunnels of the Trolls"
-msgstr "Ve trollích tunelech"
+msgstr "V trollích tunelech"
 
 #. [side]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:54
@@ -5515,7 +5508,7 @@ msgstr "Neustálá ostražitost, chlapci; nepřítel může být kdekoliv!"
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:634
 msgid "But sir—"
-msgstr "Ale pane—"
+msgstr "Ale pane..."
 
 #. [message]: speaker=Dwarf Sergeant
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:639
@@ -6823,21 +6816,14 @@ msgstr "Připadlo mi to jako vzdálený rachot. A co je to za hřmění?"
 msgid "Troll Avenger"
 msgstr "Troll mstitel"
 
-# pův.: Přidejte se k nám ve smrti!
 #. [message]: role=avenger
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:629
-#, fuzzy
-#| msgid ""
-#| "Foul elves, you not escaped us yet. The Great Leader shall be avenged! We "
-#| "have dammed the river and soon all shall drown in its dark waters. Come "
-#| "join us in death!"
 msgid ""
 "Foul elves, you not escaped us yet. Great Leader will be avenged! We plugged "
 "river and you all drown with us!"
 msgstr ""
-"Nečistí elfové, ještě jste nám neuprchli. Velký vůdce musí být pomstěn! "
-"Přehradili jsme řeku a brzo vše utone v jejích temných vodách. Zemřete s "
-"námi!"
+"Nečistí elfové, ještě jste nám neuprchli. Velký vůdce bude pomstěn! "
+"Nasměrovali jsme sem proud řeky. Všichni se s námi utopíte!"
 
 #. [unit]: type=Dwarvish Fighter
 #. [unit]: type=Dwarvish Thunderguard
@@ -6848,7 +6834,6 @@ msgstr ""
 msgid "Dwarf Avenger"
 msgstr "Trpaslík mstitel"
 
-# pův.: Přidejte se k nám ve smrti!
 #. [message]: role=avenger
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:700
 msgid ""
@@ -6981,7 +6966,7 @@ msgid ""
 "the earth and hate everything that lives above ground. This must be an "
 "invasion! The trolls must have started the flood!"
 msgstr ""
-"Jasně, přesně jako mi kdysi říkala babička — temně šedá kůže, červené oči "
+"Jasně, přesně jako mi kdysi říkala babička: temně šedá kůže, oči červené "
 "jako korálky, nemotorné brutální hovada s mozkem velikosti vilejše. Slídí "
 "hluboko pod zemí a nenávidí všechno co žije na povrchu. Tohle je útok, musí "
 "mít prsty v té potopě!"
@@ -7011,7 +6996,7 @@ msgid ""
 "hands on. This must part of their plot. The dwarves must have started the "
 "flood!"
 msgstr ""
-"Jasně, přesně jako mi kdysi říkala babička — nízcí a zavalití, dlouhé brady; "
+"Jasně, přesně jako mi kdysi říkala babička: nízcí a zavalití, dlouhé vousy, "
 "špinaví bastardi, kteří se plíží jako chobotnice. Číhají pod zemí a "
 "vycházejí, jen když můžou krást nějaké cennosti, na které dosáhnou prackami. "
 "Tohle musí být část nějakého jejich plánu, určitě je ta potopa jejich dílo!"
@@ -7034,19 +7019,14 @@ msgstr "Cože? Elfové?"
 
 #. [message]: speaker=Bellerin
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:976
-#, fuzzy
-#| msgid ""
-#| "Yeah, just like my old grandmam used to tell us: pointy ears, pale hair, "
-#| "those shifty eyes, hearts as hard as a hermit crab’s shell. It must be an "
-#| "invasion! They must have started the flood!"
 msgid ""
 "Yeah, just like my old grandmam used to tell us: pointy ears, those shifty "
 "eyes, hearts as hard as a hermit crab’s shell. It must be an invasion! They "
 "must have started the flood!"
 msgstr ""
-"Jasně, přesně jako mi kdysi říkala babička — špičaté uši, světlé vlasy, "
-"pichlavé oči, srdce tvrdé jako ulita raka poustevníka. Tohle musí být "
-"invaze, určitě spustili povodeň!"
+"Jasně, přesně jako mi kdysi říkala babička: špičaté uši, pichlavé oči, srdce "
+"tvrdé jako ulita raka poustevníka. Tohle musí být invaze, určitě spustili "
+"povodeň!"
 
 #. [set_variable]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:981
@@ -7096,7 +7076,7 @@ msgstr "Musí být nějaká další cesta ven. Musí!"
 #. [message]: speaker=$ally_name
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1064
 msgid "There might be, but I don’t—"
-msgstr "Možná, ano, ale nevím—"
+msgstr "Možná, ano, ale nevím..."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1069
@@ -7788,16 +7768,12 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2315
-#, fuzzy
-#| msgid ""
-#| "Look, the western passage is already flooding! It must connect back "
-#| "somehow to the other tunnels."
 msgid ""
 "I think I hear the sound of rushing water down the western passage; it might "
 "already be flooding! It must connect back somehow to the other tunnels."
 msgstr ""
-"Podívejte, západní chodba už se zaplavuje! Musí být nějak spojená s "
-"ostatními tunely."
+"Myslím, že v západní chodbě slyším zvuk proudící vody. Mohla by být už "
+"zaplavená! Musí být někde nějak připojená k ostatním tunelům."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2321
@@ -7968,7 +7944,7 @@ msgstr "Podívejte, denní světlo! Myslím že jsme se konečně dostali z jesk
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2599
 msgid "Kaleh? Zhul? I’m still stuck back here..."
-msgstr ""
+msgstr "Kalehu? Zhul? Pořád vězím tady vzadu..."
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2614
@@ -7986,7 +7962,7 @@ msgstr "Kalehu, myslím že bys měl přijít a podívat se na tohle."
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2650
 msgid "Ack, I’m surrounded by water!"
-msgstr ""
+msgstr "Ha, jsem obklopen vodou!"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2670
@@ -8014,7 +7990,7 @@ msgstr ""
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2696
 msgid "You idiot—"
-msgstr "Idiote—"
+msgstr "Idiote..."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2701
@@ -8623,19 +8599,13 @@ msgstr ""
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3346
-#, fuzzy
-#| msgid ""
-#| "You were weak and foolish, but I forgive you. You must remember, Kaleh, "
-#| "that without my guidance, your people would have died out years ago. I am "
-#| "your god, and you must follow my every command."
 msgid ""
 "You were weak and foolish, but I forgive you. You must remember, Kaleh, that "
 "without my guidance, your people would have died out years ago.  Believe in "
 "me, I alone can save you."
 msgstr ""
 "Byl jsi slabý a hloupý, ale odpouštím ti. Pamatuj, Kalehu, že bez mého "
-"vedení by tvůj lid vymřel před lety. Jsem tvá bohyně, a ty musíš vyplnit "
-"všechny mé příkazy."
+"vedení by tvůj lid vymřel před lety. Věř mi, jen já vás můžu zachránit."
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3351
@@ -8659,16 +8629,12 @@ msgstr ""
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3361
-#, fuzzy
-#| msgid ""
-#| "Of course I am. Oh, how little you understand. Do not worry yourself with "
-#| "all those tiny questions. Come to me and all will be made clear."
 msgid ""
 "Of course I am!  Oh, how little you understand. Do not worry yourself with "
 "such distractions, come to me and all will be made clear."
 msgstr ""
-"Ovšemže jsem. Ach, jak málo toho chápeš. Nestarej se o všechny ty zbytečné "
-"otázky. Přijď za mnou a vše bude hned jasné."
+"Ovšemže jsem. Ach, jak málo toho chápeš. Nestarej se o všechny ty "
+"rozptylující myšlenky. Přijď za mnou a vše bude hned jasné."
 
 #. [unit]: type=Human Commander, id=Sergeant Durstrag
 #. [event]
@@ -8705,7 +8671,7 @@ msgid ""
 "unfortunately we found your men dead—"
 msgstr ""
 "Mé jméno je Kaleh, a to je můj lid. Přicházíme z jihu a naneštěstí jsme "
-"našli vaše muže mrtvé—"
+"našli vaše muže mrtvé..."
 
 # pův.: jestli vás nevezmu za slovo
 #. [message]: speaker=Sergeant Durstrag
@@ -8723,7 +8689,7 @@ msgstr ""
 #. [message]: speaker=$ally_name
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3392
 msgid "Well, actually they were fleeing from—"
-msgstr "No, vlastně utíkali před—"
+msgstr "No, vlastně utíkali před..."
 
 #. [message]: speaker=Sergeant Durstrag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3404
@@ -8752,7 +8718,7 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3418
 msgid "Look, if you’ll just let me explain—"
-msgstr "Podívej, kdybys mě prostě nechal vysvětlit—"
+msgstr "Podívej, kdybys mě to prostě nechal vysvětlit..."
 
 #. [message]: speaker=Sergeant Durstrag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3430
@@ -8828,12 +8794,6 @@ msgstr ""
 # vaše kosti... /znečistí/
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3476
-#, fuzzy
-#| msgid ""
-#| "Kaleh, I am Eloh, bearer of the staff of Ishtar and slayer of the demon-"
-#| "god Zhangor. Do as I say! Submit to him or I will abandon your people to "
-#| "suffering and death. Your bones will litter the sand dunes, and vultures "
-#| "shall pick at your flesh. I am not a forgiving god, Kaleh."
 msgid ""
 "Kaleh, I am Eloh, bearer of the staff of Ishtar and slayer of the demon-god "
 "Zhangor. Submit to him or I shall abandon your people to suffering and "
@@ -8842,60 +8802,43 @@ msgid ""
 "desert sun."
 msgstr ""
 "Kalehu, já jsem Eloh, nositelka Ištařiny hole a ta, která zabila boha-démona "
-"Zhangora. Udělej to, co ti říkám! Vzdej se mu nebo opustím tvůj lid a "
-"zanechám jej napospas utrpení a smrti. Vaše kosti posypou písečné duny a "
-"supi se budou krmit vaším masem. Nejsem promíjející bohyně, Kalehu."
+"Zhangora. Vzdej se mu nebo opustím tvůj lid a zanechám jej napospas utrpení "
+"a smrti. Vaše kosti posypou písečné duny a supi se budou krmit vaším masem. "
+"Jsem dobrá bohyně, Kalehu, ale neodpouštím víc než ostré pouštní slunce."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3482
-#, fuzzy
-#| msgid ""
-#| "Then kill me if you must, but I will not give myself over to those who "
-#| "threaten me and my people. I have not come through peril and darkness "
-#| "just to surrender to a man such as you."
 msgid ""
 "Then kill me if you must, but I will not give myself over to those who "
 "threaten me and my people. I have not come through peril and darkness just "
 "to surrender to one such as you."
 msgstr ""
-"Pak mě zabij, jestli musíš, ale nevzdám se tomu, kdo vyhrožuje mi a mému "
-"lidu. Neprošel jsem utrpením a temnotou jenom proto, abych se vzdal takovému "
-"člověku jako jsi ty."
+"Pak mě zabij, jestli musíš. Ale nevzdám se tomu, kdo vyhrožuje mě a mému "
+"lidu. Neprošel jsem utrpením a temnotou jenom proto, abych se vzdal někomu "
+"takovému jako jsi ty."
 
 #. [message]: speaker=Sergeant Durstrag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3487
-#, fuzzy
-#| msgid ""
-#| "Your dare defy me?! All who refuse to submit to the authority of the Iron "
-#| "Council shall be killed. By the Dark Lady, I shall not put up with this "
-#| "bickering any longer. To battle, men! Drive those heathens back into the "
-#| "caves!"
 msgid ""
 "You dare defy me?! All who refuse to submit to the authority of the Iron "
 "Council shall be killed. By the Dark Lady, I shall not put up with this "
 "bickering any longer. To battle, men! Drive those heathens back into the "
 "caves!"
 msgstr ""
-"Ty si troufáš pohrdat mnou?!? Každý, kdo se odmítne podřídit autoritě "
-"Železné rady, má být zabit. U Temné paní, nebudu se obtěžovat s tímhle "
-"dohadováním ani o chvíli déle. Muži, do boje! Zatlačte ty neznabohy zpátky "
-"do jeskyní!"
+"Ty se mi opovažuješ vzdorovat?! Každý, kdo se odmítne podřídit autoritě "
+"Železné rady, má být zabit. U Temné paní, nebudu už zdržovat tímhle "
+"hašteřením. Muži, do boje! Zatlačte ty neznabohy zpátky do jeskyní!"
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3522
-#, fuzzy
-#| msgid ""
-#| "You disappoint me, Kaleh. You are weak, and not worthy of my guidance. Do "
-#| "what you will, but this is not over. You may be the appointed leader of "
-#| "your people but I am your god, and I will not let you usurp my authority."
 msgid ""
 "You disappoint me, Kaleh. You are weak, and not worthy of my guidance...  Do "
 "as you like, but know that while you may be the appointed leader of your "
 "people, I am your god, and you defy me at your peril!"
 msgstr ""
-"Znechucuješ mne, Kalehu. Jsi slabý a nehoden mého vedení. Dělej si co chceš, "
-"ale toto není konec. Můžeš být zvoleným vůdcem svého lidu, ale já jsem tvá "
-"bohyně a nenechám tě přivlastňovat si mou autoritu."
+"Znechucuješ mne, Kalehu. Jsi slabý a nehoden mého vedení... Dělej, jak "
+"myslíš. Ale věz, že i když můžeš být ustanoveným vůdcem svého lidu, vaší "
+"bohyní jsem já a ty se mi vzpíráš na vlastní nebezpečí!"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3533
@@ -8911,7 +8854,7 @@ msgstr ""
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3538
 msgid "Kaleh, would you mind telling me what in Uria’s name is going on."
-msgstr "Kalehu, nevadilo by ti říct mi, co u Urie se tu děje?"
+msgstr "Kalehu, nevadilo by ti říct mi, co se tu u Urie děje?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3543
@@ -8920,7 +8863,7 @@ msgid ""
 "I’d better head back to the outpost and rally our troops. I fear a whole lot "
 "of hurt is going to be coming up through those hills very soon."
 msgstr ""
-"Nemáme čas. Právě teď se musíme připravit na další bitvu. Raději bych se měl "
+"Není čas. Právě teď se musíme připravit na další bitvu. Raději bych se měl "
 "vrátit do pevnůstky a připravit naše jednotky. Obávám se, že velmi brzy "
 "vstoupí do těchto kopců velmi mnoho bolesti."
 
@@ -8928,7 +8871,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3548
 msgid ""
 "Well, now we’re really in for it. I hope you know what you’re doing, Kaleh."
-msgstr "No, teď jsme v tom tedy až po uši. Doufám že víš co děláš, Kalehu."
+msgstr "No, teď jsme v tom tedy až po uši. Doufám, že víš co děláš, Kalehu."
 
 #. [message]: speaker=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3557
@@ -9400,7 +9343,7 @@ msgstr "Uběhlo několik hodin..."
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4426
 msgid "Jezhar"
-msgstr ""
+msgstr "Jezhar"
 
 #. [message]: speaker=Dummy Unit7
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4430
@@ -9408,6 +9351,9 @@ msgid ""
 "Eastern scouts, reporting back!  If you like sand and hot dust, there's "
 "plenty more out there!  No water, or signs of others, we had to turn back."
 msgstr ""
+"Východní zvědové se hlásí zpět! Pokud máte rádi písek a horký prach, je ho "
+"tam požehnaně! Nenašli jsme žádnou vodu ani známky po výskytu jiných tvorů. "
+"Museli jsme se otočit a vrátit se."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4435
@@ -9415,11 +9361,13 @@ msgid ""
 "No shame in that, Jezhar.  Of all the scouts, only Tanstafaal and Nym have "
 "yet to return."
 msgstr ""
+"Stejně dobrá práce, Jezhare. Ze všech skupin zvědů se nevrátili už jen "
+"Tanstafaal a Nym."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4440
 msgid "And that has me worried.  What if-"
-msgstr ""
+msgstr "A to mě znepokojuje. Co když..."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4465
@@ -9478,19 +9426,14 @@ msgstr "Nesnaž se mu to vysvětlit, Esanoo. Budeme jim to muset ukázat."
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4552
-#, fuzzy
-#| msgid ""
-#| "It’s not important. What’s important is that I am an emissary from one "
-#| "who much desires to speak with you, Kaleh. Despite the danger, my master "
-#| "sent me and my brethren to scour the dry land searching for you."
 msgid ""
 "It’s not important. What’s important is that I am an emissary from one who "
 "much desires to speak with you, Kaleh. Despite the danger, our wise leader "
 "sent me and my brethren to scour the dry land searching for you."
 msgstr ""
 "To není důležité. Důležité je, že jsem vyslanec někoho, kdo si velmi přeje s "
-"tebou mluvit, Kalehu. Navzdory nebezpečí poslala má paní mne a mé bratry "
-"prohledat suchou zemi a najít tě."
+"tebou mluvit, Kalehu. Navzdory nebezpečí poslala naše moudrá vůdkyně mne a "
+"mé bratry prohledat suchou zemi a najít tě."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4557
@@ -9513,20 +9456,14 @@ msgstr "A proč bychom měli věřit čemukoliv co říkáš?"
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4572
-#, fuzzy
-#| msgid ""
-#| "My master thought you might be suspicious. She said that what we must "
-#| "talk with you about concerns the fate of your people. Apparently it "
-#| "concerns ‘Yechnagoth’ and ‘Zhangor’. She said that you would understand, "
-#| "Kaleh."
 msgid ""
 "Our leader thought you might be suspicious. She said that what we must talk "
 "with you about concerns the fate of your people. Apparently it concerns "
 "‘Yechnagoth’ and ‘Zhangor’. She said that you would understand, Kaleh."
 msgstr ""
-"Má paní očekávala, že budeš podezřívavý. Říkala, že to, co s tebou musíme "
-"projednat, se týká osudu tvého lidu. A taky ještě říkala, že se to týká "
-"„Yechnagoth“ a „Zhangora“. Prý to určitě pochopíš, Kalehu."
+"Naše vůdkyně očekávala, že budeš podezřívavý. Říkala, že to, co s tebou "
+"musíme projednat, se týká osudu tvého lidu. A taky ještě říkala, že se to "
+"týká „Yechnagoth“ a „Zhangora“. Prý to určitě pochopíš, Kalehu."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4577
@@ -9535,19 +9472,14 @@ msgstr "Hmmmm... Ano, myslím, že ano. Nevím proč, ale věřím ti."
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4582
-#, fuzzy
-#| msgid ""
-#| "Thank you. Now I have a boon to ask of you. Our instructions were to find "
-#| "you and to bring you and your people to meet with my master. The problem "
-#| "is that I don’t know where she is hiding."
 msgid ""
 "Thank you, Kaleh. Now I have a favor to ask of you. Our instructions were to "
 "find you and to bring you and your people to meet with our wise leader. The "
 "problem is that I don’t know where she is hiding."
 msgstr ""
-"Děkuji. Teď tě musím o něco poprosit. Naše instrukce byly najít tě a dovést "
-"tě i s tvým lidem k setkání naší paní. Problém je v tom, že nevím, kde se "
-"skrývá."
+"Děkuji ti, Kalehu. Teď tě musím o něco poprosit. Naše instrukce byly najít "
+"tě a dovést tě i s tvým lidem na schůzku s naší moudrou vůdkyní. Problém je "
+"v tom, že nevím, kde se skrývá."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4587
@@ -9605,10 +9537,8 @@ msgstr ""
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4602
-#, fuzzy
-#| msgid "Thank you. I am not very good at fighting on the dry ground."
 msgid "Thank you, Nym. I am not very good at fighting on the dry ground."
-msgstr "Děkuji. Nedokážu dost dobře bojovat na suché zemi."
+msgstr "Děkuji ti, Nym. Nedokážu dost dobře bojovat na suché zemi."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4607
