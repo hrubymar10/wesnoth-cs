@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2021-02-01 20:28+0100\n"
+"PO-Revision-Date: 2021-02-03 20:08+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1422,7 +1422,7 @@ msgstr "Óóó, vau."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:166
 msgid "I am Ras-Tabahn. Welcome to my laboratory, Ardonna of Tarrynth!"
-msgstr "Já jsem Ras-Tabahn. Vítej v mé laboratoři Ardonno z Tarrynthu!"
+msgstr "Já jsem Ras-Tabahn. Vítej v mé laboratoři, Ardonno z Tarrynthu!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:170
@@ -1439,10 +1439,10 @@ msgid ""
 "have even accomplished something which I have not. You have useful creatures "
 "— I believe you call them ghouls?"
 msgstr ""
-"Vím toho o tobě hodně. Mí duchové tě už nějakou dobu sledují. Ty, stejně "
-"jako já, sdílíš stejný cíl a tím je odolání smrti. Doufal jsem, že se pár "
+"Vím toho o tobě hodně. Mí duchové tě už nějakou dobu sledují. Ty, stejně "
+"jako já, sdílíš stejný cíl a tím je odolání smrti. Doufal jsem, že se pár "
 "studentů osvobodí od té konzervativní akademie, ale zdá se, že ty budeš "
-"jediná. Naštěstí jsi poměrně nápaditá a dokonce jsi dokázala něco, co já ne. "
+"jediná. Naštěstí jsi poměrně nápaditá a dokonce jsi dokázala něco, co já ne. "
 "Máš velmi užitečné bytosti – myslím, že jim říkáš požírači mrtvých?"
 
 #. [message]: speaker=Ardonna
@@ -1488,7 +1488,7 @@ msgstr ""
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:190
 msgid "Wait. I have heard nothing yet that makes me think I should trust you."
 msgstr ""
-"Počkat, Ještě jsem neslyšela nic, co by mě přimělo myslet si, že ti mohu "
+"Počkat. Ještě jsem neslyšela nic, co by mě přimělo myslet si, že ti mohu "
 "věřit."
 
 #. [message]: speaker=Ras-Tabahn
@@ -1503,12 +1503,12 @@ msgid ""
 "relentlessly. However, if we combine our research, we have a chance of "
 "finishing before it is too late for us."
 msgstr ""
-"Ehm... Ano, předpokládám že ne. Dovol mi, abych tě naučil některé z věcí, "
-"které znám a uvidíš, zda změníš svůj názor. Otázka důvěry ale není to "
+"Ehm... ano, předpokládám že ne. Dovol mi, abych tě naučil některé z věcí, "
+"které znám, a uvidíš, zda změníš svůj názor. Otázka důvěry ale není to "
 "nejdůležitější. Otázkou je, zda budeme schopni spolupracovat, či nikoliv. "
 "Poslouchej. Starověcí Wesané pilovali své umění po generace. Je toho víc, co "
-"se lze naučit a na co ti nebude stačit snad ani celý život. Pokud budeš "
-"dělat svůj výzkum sama, tak budeš jednoho dne stejně stará jako já a tvá "
+"se lze naučit a na co ti nebude stačit snad ani celý život. Pokud budeš "
+"dělat svůj výzkum sama, tak budeš jednoho dne stejně stará jako já a tvá "
 "smrt tě bude stále neúnavně sledovat. Pokud ale náš výzkum spojíme, máme "
 "šanci ho dokončit dřív, než bude pro nás oba moc pozdě."
 
@@ -1532,12 +1532,13 @@ msgid ""
 "of those shambling ghouls. I am actually in no hurry, as they have a "
 "terrible odor."
 msgstr ""
-"Skvěle. Zde je to, co navrhuji. Nejprve se na čas rozdělíme a ty podle mých "
-"pokynů navážeš sílu duchů. Mezitím se já pokusím o výcvik místních rolníků v "
-"umění magie. Neočekávám od té nevzdělané chátry mnoho, ale doufejme, že "
-"někteří budou dostatečně inteligentní na to, aby se k nám přidali. Až se "
-"znovu setkáme, tak mi ukážeš, jak vytvořit jednoho z těch kolébajících se "
-"požíračů mrtvol. Ale popravdě na to moc nespěchám, jelikož strašně páchnou."
+"Skvěle. Zde je to, co navrhuji. Nejprve se na čas rozdělíme a ty dáš podle "
+"mých pokynů dohromady oddíl duchů. Mezitím se já pokusím o výcvik místních "
+"rolníků v umění magie. Neočekávám od té nevzdělané chátry mnoho, ale "
+"doufejme, že někteří budou dostatečně inteligentní na to, aby se k nám "
+"přidali. Až se znovu setkáme, tak mi ukážeš, jak vytvořit jednoho z těch "
+"kolébajících se požíračů mrtvol. Ale popravdě na to moc nespěchám, jelikož "
+"strašně páchnou."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:206
@@ -1710,7 +1711,7 @@ msgstr ""
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:302
 msgid "You are Carcyn the Third I presume?"
-msgstr "Jsi Carcyn třetí, předpokládám?"
+msgstr "Jsi Carcyn Třetí, předpokládám?"
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:311
@@ -1778,7 +1779,7 @@ msgstr "Zdravím! Já jsem mág Ras-Tabahn."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:375
 msgid ""
 "Greetings, traveler. I am Carcyn Fisher the Second. How can I be of service?"
-msgstr "Zdravím poutníku. Jsem rybář Carcyn druhý. Jak ti mohu být nápomocen?"
+msgstr "Zdravím poutníku. Jsem rybář Carcyn Druhý. Jak ti mohu být nápomocen?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:379
