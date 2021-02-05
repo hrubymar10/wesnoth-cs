@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-02-04 19:39+0100\n"
+"PO-Revision-Date: 2021-02-05 19:26+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -634,7 +634,7 @@ msgstr ""
 #. [topic]: id=editor_tool_scenery
 #: data/core/editor/help.cfg:145
 msgid "Item Tool (Scenery Tool)"
-msgstr ""
+msgstr "Předměty (dekorace)"
 
 #. [topic]: id=editor_tool_scenery
 #: data/core/editor/help.cfg:146
@@ -650,6 +650,16 @@ msgid ""
 "of the terrain and are implemented in the scenario using WML’s "
 "<italic>text='[item]'</italic> tag."
 msgstr ""
+"Nástroj pro předměty umožňuje umístění dekorací jako třeba větrných mlýnů, "
+"knihovniček a monolitů. Na jeden hex lze dát více předmětů.\n"
+"\n"
+"<bold>text='Poznámka:'</bold> u již umístěných předmětů nástroj nepodporuje "
+"mazání ani funkci zpět. Momentálně mohou být omyly opraveny pouze úpravou "
+"vytvořeného WML souboru.\n"
+"\n"
+"Tento nástroj je dostupný pouze v režimu scénáře. Dekorace nejsou součástí "
+"terénu a ve scénáři jsou zavedeny použitím WML značky <italic>text='[item]'</"
+"italic>."
 
 #. [topic]: id=editor_tool_village
 #: data/core/editor/help.cfg:159
@@ -690,6 +700,16 @@ msgid ""
 "<italic>text='[unit]'</italic> tags to the appropriate "
 "<italic>text='[side]'</italic>."
 msgstr ""
+"Umístí jednotky náležející momentálně vybrané straně.\n"
+"\n"
+"• Kliknutí levým umístí jednotku.\n"
+"• Přetažení levým posune jednotku již umístěnou.\n"
+"• Když hex obsahuje jednotku, tak jsou do menu po kliknutí pravým přidány "
+"různé akce.\n"
+"\n"
+"Tento nástroj je dostupný pouze v režimu scénáře. K příslušné WML značce pro "
+"stranu <italic>text='[side]'</italic> přidává značku jednotky "
+"<italic>text='[unit]'</italic>."
 
 #. [topic]: id=editor_named_area
 #: data/core/editor/help.cfg:190
