@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-01 19:03+0100\n"
+"PO-Revision-Date: 2021-02-05 18:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5345,7 +5345,7 @@ msgid ""
 "otherwise possible."
 msgstr ""
 "Pokud je jednotka umístěna vedle léčitelů ze dvou spojeneckých stran, bude "
-"léčena v kolech obou stran. Takto může být jednotka léčena rychleji, než by "
+"léčena v kolech obou stran. Takto může být jednotka léčena rychleji, než by "
 "jinak bylo možné."
 
 #. [tip]
@@ -7916,7 +7916,7 @@ msgstr "neviditelný: "
 #: src/reports.cpp:334
 msgid "This unit is invisible. It cannot be seen or attacked by enemy units."
 msgstr ""
-"Tato jednotka je neviditelná. Nemůže být spatřena a nepřítel na ni nemůže "
+"Tato jednotka je neviditelná. Nemůže být spatřena a nepřítel na ni nemůže "
 "zaútočit."
 
 #: src/reports.cpp:337
