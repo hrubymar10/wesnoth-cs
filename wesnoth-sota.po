@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-02-06 12:12+0100\n"
+"PO-Revision-Date: 2021-02-06 20:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2017,8 +2017,8 @@ msgid ""
 "where they were to wait for Ardonna. As they arrived, another party did as "
 "well."
 msgstr ""
-"Ras-Tabahnova skupina dorazila na konec elfské cesty poblíž Velké řeky, kdy "
-"měli čekat na Ardonnu. Když dorazili, tak jiná skupina dorazila také."
+"Ras-Tabahnova skupina se dostala na konec elfí cesty poblíž Velké řeky, kde "
+"měli čekat na Ardonnu. Když dorazili, už tam byla jiná parta."
 
 #. [side]
 #. [side]: type=Merman Triton, id=Okean
@@ -2173,7 +2173,7 @@ msgstr "Ano, ano. Jsem v pořádku."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:477
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:512
 msgid "I don’t fancy wading in the water to fight these things."
-msgstr "Nemám chuť brodit se ve vodě kvůli boji s těmito věcmi."
+msgstr "Nemám chuť brodit se ve vodě kvůli boji s tímhle."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:481
@@ -2193,7 +2193,7 @@ msgstr "Jak?"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:490
 msgid ""
 "addressed_plural^Have you never been fishing before? With bait of course."
-msgstr "Jste předtím nikdy nerybařili? Návnadou samozřejmě."
+msgstr "To jste předtím nikdy nerybařili? Samozřejmě pomocí návnady."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:500
@@ -2214,12 +2214,12 @@ msgstr "Hned pane. Je vám dobře?"
 #. [message]: id=Carcyn,Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:513
 msgid "self_female^I don’t fancy wading in the water to fight these things."
-msgstr "Nemám chuť brodit se ve vodě kvůli boji s těmito věcmi."
+msgstr "Nemám chuť brodit se ve vodě kvůli boji s tímhle."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:525
 msgid "Have you never been fishing before? With bait of course."
-msgstr "Jsi předtím nikdy nerybařil? Návnadou samozřejmě."
+msgstr "To jsi předtím nikdy nerybařil? Samozřejmě pomocí návnady."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:535
