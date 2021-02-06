@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-01-29 18:25+0100\n"
+"PO-Revision-Date: 2021-02-06 11:34+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5931,18 +5931,20 @@ msgid ""
 "Could not create a new folder at $path|. Make sure you have the appropriate "
 "permissions to write to this location."
 msgstr ""
+"Nelze vytvořit novou složku v $path|. Ujisti se, že máš pro zápis do tohoto "
+"umístění příslušná povolení."
 
 #: src/gui/dialogs/file_dialog.cpp:725
 msgid "The following folder and its contents will be permanently deleted:"
-msgstr ""
+msgstr "Následující složka a její obsah budou nadobro odstraněny:"
 
 #: src/gui/dialogs/file_dialog.cpp:726
 msgid "The following file will be permanently deleted:"
-msgstr ""
+msgstr "Následující soubor bude nadobro odstraněn:"
 
 #: src/gui/dialogs/file_dialog.cpp:727
 msgid "Do you wish to continue?"
-msgstr "Přejete si pokračovat?"
+msgstr "Přeješ si pokračovat?"
 
 #: src/gui/dialogs/file_dialog.cpp:739
 msgid ""
