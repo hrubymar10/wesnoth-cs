@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-02-02 15:47+0100\n"
+"PO-Revision-Date: 2021-02-05 23:11+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15110,7 +15110,7 @@ msgstr ""
 #. [unit_type]: id=Quenoth Outrider, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Outrider.cfg:5
 msgid "Quenoth Outrider"
-msgstr "Quenothská kavalérie"
+msgstr "Quenothská eskorta"
 
 #. [unit_type]: id=Quenoth Outrider, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Outrider.cfg:22
@@ -15122,6 +15122,12 @@ msgid ""
 "riders is especially dangerous, for against them, both retreat and attrition "
 "are futile, a prospect that is only ruinous in the inhospitable desert."
 msgstr ""
+"Jsou vyličováni jako jezdci, co se „honí s větrem“, a skutečně se v poušti "
+"pohybují bezkonkurenční rychlostí s lehkostí vánku. Na rozdíl od svých méně "
+"zkušených bratří se jezdci eskort cvičí v přímém boji. Se svými meči a bolami "
+"najíždějí na zraněné jednotky a odkryté slabé boky nepřátelských linií. "
+"Skupina těchto jezdců je obzvláště nebezpečná, protože taktiky ústupu i "
+"stahování jsou proti ní neúčinné, v nehostinné poušti jen s vyhlídkou zkázy."
 
 #. [attack]: type=impact
 #. [effect]: type=impact
@@ -15182,6 +15188,10 @@ msgid ""
 "useful abilities to harry enemies and allows them to act as effective "
 "hunters and patrolmen."
 msgstr ""
+"Quenothští průzkumníci, jezdící na elegantních hbitých pouštních antilopách, "
+"se pohybují po písku bezkonkurenční rychlostí. Osvojili si ovládání meče a "
+"praku, což se hodí při pronásledování nepřátel a umožňuje jim efektivně "
+"působit v loveckých a hlídkových skupinách."
 
 #. [unit_type]: id=Quenoth Shaman, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shaman.cfg:5
@@ -15199,6 +15209,13 @@ msgid ""
 "inhospitable environment is a sign of hope as well, a chance that nature "
 "might one day rise from its sandy grave and bloom again."
 msgstr ""
+"Stejně jako elfové dávnověku se i mnoho quenothských elfů snaží proniknout "
+"do umění medicíny a léčení, spíše než se zdokonalovat v umění boje. Šamanky "
+"jsou velmi dobře informovány o řídkém rostlinstvu rozptýleném v pouštích. "
+"Dokonce mají určitou schopnost podpory růstu plodin, což je neocenitelná "
+"dovednost v oblastech s malou produkcí. Schopnost pěstovat flóru v tak "
+"nehostinném prostředí je také známkou naděje, šance, že příroda jednoho dne "
+"může povstat ze svého písečného hrobu a znovu rozkvést."
 
 #. [unit_type]: id=Quenoth Shyde, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shyde.cfg:5
@@ -15239,6 +15256,13 @@ msgid ""
 "this new magic sing of the dual nature of these embodiments of fire: flames "
 "that are both life and life’s demise."
 msgstr ""
+"Vílí a elfí magie byla často patřičně spojena s živou přírodou, ze které "
+"čerpala většinu své síly. S vymizením většiny vegetace na Irdyi však byli "
+"quenothští elfové nuceni hledat další zdroj své magie. Časem se naučili "
+"využívat sílu sluncí Sela a Naia – dvojčat, která rozdrtila lesy Irdye na "
+"popel, a přesto vyvinula energii potřebnou k jiskření života. Ty, které "
+"ovládají tuto novou magii, tak zpívají o dvojí povaze těchto ztělesnění "
+"ohně: plamenů, co jsou jak zdrojem, tak zánikem života."
 
 #. [unit_type]: id=Quenoth Sun Sylph, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Sylph.cfg:5
@@ -15347,6 +15371,30 @@ msgid ""
 "Goddess herself. I think I will call her Nala, meaning ‘Protector’ in our "
 "tongue. I am sure we will have many more adventures together."
 msgstr ""
+"Z deníku Syniela, křižovatele dun:\n"
+"\n"
+"Za soumraku mě přepadli poblíž oázy skřeti. Musel jsem uprchnout do pouště, "
+"ale i tam byli vlci tak rychlí, že se mnou téměř drželi krok. Celé hodiny "
+"jsem v jasném měsíčním světle běžel a běžel, už jsem sotva cítil nohy a "
+"stále mě pronásledovali. Myslel jsem, že jsem synem smrti. Ale jako by tomu "
+"Eloh chtěla, narazil jsem na mladou taurku, která se zatoulala od svého "
+"stáda. Musela vycítit mé potíže, protože ke mně přiběhla a pak celou dlouhou "
+"noc bojovala po mém boku. Na pokraji vyčerpání se nám nějak podařilo zahnat "
+"ty desítky skřetů a vlků. Za úsvitu jsme osamněli, ale naše těla byla poseta "
+"ranami a my byli unaveni až do morku kostí. A na dohled nebylo nic jiného "
+"než písek. To málo, co zbylo z mých zásob, jsem použil k ošetření ran "
+"taurky. Pak jsem podlehl únavě a už si toho moc nepamatuji.\n"
+"\n"
+"-----------------------\n"
+"\n"
+"Dnes jsem se probudil ve vesnici unavený, ale živý. Moji přátelé mi řekli, "
+"že taurka mě po mnoho hodin nesla pouští. Nesla mě bez ohledu na sebe, neboť "
+"v době, kdy jsme tam dorazili, byla v horším stavu než já. Mohu být jen "
+"vděčný za to, že se mi podařilo tu hroznou noc přežít. Tak věrného "
+"společníka se mi dostalo jen díky milosti Eloh. Je to má zachránkyně, má "
+"bdělá strážkyně, požehnání od samotné bohyně. Myslím, že jí budu říkat "
+"Nala, což v našem jazyce znamená „Ochránce“. Jsem si jistý, že spolu "
+"zažijeme mnohem více dobrodružství."
 
 #. [unit_type]: id=Tauroch Rider, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Tauroch_Rider.cfg:5
