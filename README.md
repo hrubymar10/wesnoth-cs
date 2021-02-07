@@ -14,14 +14,13 @@ wesnoth-manpages | 301 | 63 % | 110
 wesnoth-manual | 557 | 96 % | 17
 wesnoth-tsg | 666 | 97 % | 18
 wesnoth-units | 614 | 93 % | 37
-wesnoth-utbs | 1924 | 99 % | 1
 wesnoth | 1323 | 97 % | 29
 
-Total messages remaining: **362**
+Total messages remaining: **361**
 
 Progress since 2019-05-12: **1** message per day
 
-ETA: **2022-02-04**
+ETA: **2022-02-03**
 
 Notes:
 - 18 remaining messages in TSG belongs to the disabled scenario 06a Tidings Good and Ill, so translating these isn't to player profit.
