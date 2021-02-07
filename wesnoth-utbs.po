@@ -10,7 +10,7 @@
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006, 2007.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 # Tereza Žejdlová, 2020.
 #
 msgid ""
@@ -18,15 +18,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-02-05 23:11+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2021-02-07 11:33+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
@@ -7024,7 +7023,7 @@ msgid ""
 "eyes, hearts as hard as a hermit crab’s shell. It must be an invasion! They "
 "must have started the flood!"
 msgstr ""
-"Jasně, přesně jako mi kdysi říkala babička: špičaté uši, pichlavé oči, srdce "
+"Jasně, přesně jako mi kdysi říkala babička: špičaté uši, uhýbavé oči, srdce "
 "tvrdé jako ulita raka poustevníka. Tohle musí být invaze, určitě spustili "
 "povodeň!"
 
@@ -15227,17 +15226,17 @@ msgid ""
 "we be, for the power of faerie is that to transmute the flesh of our world, "
 "from sand to earth, from scorched wasteland to life.”"
 msgstr ""
-"Z učení Analie, léčitelky Smaragdového květu:\n"
+"Z učení Analie, léčitelky Smaragdového květu:\n"
 "\n"
 "„... tím, že se vydáme po cestě víly, musíme překročit hranici mezi "
-"fyzických a magickým, abychom se staly bytostmi obého. Tak jako fyzická "
+"fyzických a magickým, abychom se staly bytostmi obého. Tak jako fyzická "
 "forma váže krev, co nám dává život, musí vázat energii, která řídí náš svět. "
-"Tou energií je proudící vítr, koloběh dne a noci, nekonečný pochod času... "
+"Tou energií je proudící vítr, koloběh dne a noci, nekonečný pochod času... "
 "Jsme fyzická stvoření, ale také jsme nadčasoví duchové, bytosti dotčené vílí "
 "existencí. To je říše, co vydrží věky, ať už má podobu přírody, ohně nebo "
-"písku, vždy je přítomná. Protože je však proměnlivá, musíme i my být "
-"proměnlivé, protože síla víly spočívá v tom, že dokáže přetvořit maso z "
-"našeho světa, z písku země a spálených pustin na život.“"
+"písku, vždy je přítomná. Protože je však proměnlivá, musíme i my být "
+"proměnlivé, protože síla víly spočívá v tom, že dokáže přetvořit maso našeho "
+"světa, z písku na hlínu a ze spálených pustin na život.“"
 
 #. [unit_type]: id=Quenoth Sun Singer, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Singer.cfg:5
