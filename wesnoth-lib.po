@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-06 11:31+0100\n"
+"PO-Revision-Date: 2021-02-08 21:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2556,10 +2556,8 @@ msgstr "Řadit dle jména tažení v abecedním pořadí"
 
 #. [toggle_button]: id=sort_time
 #: data/gui/window/campaign_dialog.cfg:230
-#, fuzzy
-#| msgid "Time limit:"
 msgid "Timeline"
-msgstr "Časový limit:"
+msgstr "Časová osa"
 
 #. [toggle_button]: id=sort_time
 #: data/gui/window/campaign_dialog.cfg:231
@@ -2576,34 +2574,32 @@ msgstr "Rozšíření:"
 #. [label]
 #: data/gui/window/campaign_dialog.cfg:306
 msgid "Combat:"
-msgstr ""
+msgstr "Souboj:"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:321
-#, fuzzy
-#| msgid "Default"
 msgid "Default RNG"
-msgstr "Výchozí"
+msgstr "Výchozí GNČ"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:322
 msgid "Reloading alters future combat outcomes"
-msgstr ""
+msgstr "Opakované načítání mění budoucí výsledky soubojů"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:325
 msgid "Predictable RNG"
-msgstr ""
+msgstr "Předvídatelný GNČ"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:326
 msgid "Combat outcomes remain constant when reloading"
-msgstr ""
+msgstr "Výsledky soubojů zůstavají při opakovaném načítání neměnné"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:329
 msgid "Biased RNG (experimental)"
-msgstr ""
+msgstr "Ovlivněný GNČ (pokusný)"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:330
@@ -2611,35 +2607,33 @@ msgid ""
 "Combat outcomes are more in line with displayed probabilities and unaffected "
 "by reloading"
 msgstr ""
+"Výsledky soubojů jsou více v souladu se zobrazovanými pravděpodobnostmi "
+"a opakované načítání se jich nedotkne"
 
 #. [label]
 #: data/gui/window/campaign_dialog.cfg:345
-#, fuzzy
-#| msgid "Difficulty: "
 msgid "Difficulty:"
-msgstr "Obtížnost: "
+msgstr "Obtížnost:"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:359
 msgid "Easy"
-msgstr ""
+msgstr "Lehká"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:362
-#, fuzzy
-#| msgid "Normal Rug"
 msgid "Normal"
-msgstr "Obyčejný kobereček"
+msgstr "Normální"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:365
 msgid "Hard"
-msgstr ""
+msgstr "Těžká"
 
 #. [label]
 #: data/gui/window/campaign_dialog.cfg:422
 msgid "Play a Campaign"
-msgstr "Hraj tažení"
+msgstr "Hrát tažení"
 
 #. [button]: id=ok
 #: data/gui/window/campaign_dialog.cfg:486
@@ -7888,11 +7882,11 @@ msgstr "Spustí Výcvik"
 
 #: src/hotkey/hotkey_command.cpp:286
 msgid "Start Campaign"
-msgstr "Hraj tažení"
+msgstr "Začít tažení"
 
 #: src/hotkey/hotkey_command.cpp:287
 msgid "Start Multiplayer Game"
-msgstr "Hraj hru více hráčů"
+msgstr "Začít hru více hráčů"
 
 #: src/hotkey/hotkey_command.cpp:288
 msgid "Manage Add-ons"
