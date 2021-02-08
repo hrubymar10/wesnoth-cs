@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-06 11:34+0100\n"
+"PO-Revision-Date: 2021-02-08 21:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2433,7 +2433,7 @@ msgstr "Obránce"
 #. [label]
 #: data/gui/window/campaign_dialog.cfg:174
 msgid "Play a Campaign"
-msgstr "Hraj tažení"
+msgstr "Hrát tažení"
 
 #. [label]
 #: data/gui/window/campaign_dialog.cfg:231
@@ -7558,11 +7558,11 @@ msgstr "Spustí Výcvik"
 
 #: src/hotkey/hotkey_command.cpp:289
 msgid "Start Campaign"
-msgstr "Hraj tažení"
+msgstr "Začít tažení"
 
 #: src/hotkey/hotkey_command.cpp:290
 msgid "Start Multiplayer Game"
-msgstr "Hraj hru více hráčů"
+msgstr "Začít hru více hráčů"
 
 #: src/hotkey/hotkey_command.cpp:291
 msgid "Manage Add-ons"
