@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-02-07 13:39+0100\n"
+"PO-Revision-Date: 2021-02-08 18:37+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3525,7 +3525,6 @@ msgstr "Prozkoumej podzemí"
 msgid "Defeat troll leaders"
 msgstr "Poraz trollí vůdce"
 
-# | msgid "Defeat Dwarf Leaders"
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:333
 msgid "Defeat dwarf leaders"
@@ -3536,25 +3535,21 @@ msgstr "Poraz trpasličí vůdce"
 msgid "Defeat the Cloaked Figure"
 msgstr "Poraz zahalenou postavu"
 
-# | msgid "Death of Zhul"
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:366
 msgid "Death of Fundin"
 msgstr "Fundin zemře"
 
-# | msgid "Death of Nog"
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:373
 msgid "Death of Nori"
 msgstr "Nori zemře"
 
-# | msgid "Death of Zhul"
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:380
 msgid "Death of Thungar"
 msgstr "Thungar zemře"
 
-# | msgid "Death of Jarl"
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:387
 msgid "Death of Gnarl"
