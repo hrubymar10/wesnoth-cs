@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:38+0300\n"
-"PO-Revision-Date: 2021-02-06 12:09+0100\n"
+"PO-Revision-Date: 2021-02-08 18:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10506,11 +10506,6 @@ msgstr "Nastavení plánovacího módu"
 #~ msgid "Defeat Rowck"
 #~ msgstr "Porážka"
 
-# | msgid "Defeat enemy leader(s)"
-#, fuzzy
-#~ msgid "Death of the bat leader"
-#~ msgstr "Znič nepřátelské(ho) vůdce"
-
 #, fuzzy
 #~| msgid "Faction"
 #~ msgid "Station 1"
@@ -10750,21 +10745,6 @@ msgstr "Nastavení plánovacího módu"
 
 #~ msgid "Difficulty: Hard"
 #~ msgstr "Obtížnost: těžká"
-
-# | msgid "Campaign: $campaign_name"
-#, fuzzy
-#~ msgid "Main campaign define"
-#~ msgstr "Tažení: $campaign_name"
-
-# | msgid "Campaign Design"
-#, fuzzy
-#~ msgid "Extra campaign define"
-#~ msgstr "Návrh tažení"
-
-# | msgid "Multiplayer"
-#, fuzzy
-#~ msgid "Multiplayer define"
-#~ msgstr "Hra více hráčů"
 
 #~ msgid "Download"
 #~ msgstr "Stáhnout"
