@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-08 21:01+0100\n"
+"PO-Revision-Date: 2021-02-08 21:51+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3737,12 +3737,12 @@ msgstr "Vyžaduje heslo pro vstup"
 #. [toggle_button]: id=filter_vacant_slots
 #: data/gui/window/lobby_main.cfg:337
 msgid "Vacant slots"
-msgstr "Prázdné pozice"
+msgstr "Volné pozice"
 
 #. [toggle_button]: id=filter_vacant_slots
 #: data/gui/window/lobby_main.cfg:338
 msgid "Only show games with vacant slots"
-msgstr ""
+msgstr "Ukázat pouze hry s volnými pozicemi"
 
 #. [widget]: id=tab_label
 #. [toggle_button]: id=filter_with_friends
@@ -3754,19 +3754,17 @@ msgstr "Přátelé"
 #. [toggle_button]: id=filter_with_friends
 #: data/gui/window/lobby_main.cfg:351
 msgid "Only show games with friends"
-msgstr ""
+msgstr "Ukázat pouze hry s přáteli"
 
 #. [toggle_button]: id=filter_with_ignored
 #: data/gui/window/lobby_main.cfg:363
-#, fuzzy
-#| msgid "Connected Players"
 msgid "Blocked players"
-msgstr "Připojení hráči"
+msgstr "Blokovaní hráči"
 
 #. [toggle_button]: id=filter_with_ignored
 #: data/gui/window/lobby_main.cfg:364
 msgid "Show games that include players you have blocked"
-msgstr ""
+msgstr "Ukázat hry, které hostí hráče, jež jsi zablokoval"
 
 #. [toggle_button]: id=filter_invert
 #: data/gui/window/lobby_main.cfg:376
@@ -3784,26 +3782,24 @@ msgstr "Invertovat filtr"
 #: data/gui/window/mp_create_game/tiny_resolution.cfg:47
 #: data/gui/window/mp_create_game/tiny_resolution.cfg:321
 msgid "Create Game"
-msgstr "Vytvoř hru"
+msgstr "Vytvořit hru"
 
 #. [button]: id=join_global
 #: data/gui/window/lobby_main.cfg:421 data/gui/window/lobby_main.cfg:679
 msgid "Join"
-msgstr "Přidej se ke hře"
+msgstr "Připojit se"
 
 #. [button]: id=observe_global
 #: data/gui/window/lobby_main.cfg:433 data/gui/window/lobby_main.cfg:702
 msgid "Observe"
-msgstr "Pozoruj hru"
+msgstr "Sledovat"
 
 #. [widget]: id=tab_label
 #. [button]: id=server_info
 #: data/gui/window/lobby_main.cfg:448 data/gui/window/lobby_main.cfg:690
 #: data/gui/window/server_info.cfg:168
-#, fuzzy
-#| msgid "Advancements"
 msgid "Announcements"
-msgstr "Povýšeno"
+msgstr "Oznámení"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
@@ -3833,17 +3829,17 @@ msgstr "Rychlé záznamy"
 #. [option]
 #: data/gui/window/lobby_main.cfg:560 data/gui/window/lobby_main.cfg:722
 msgid "Skip quickly to the active turn when observing"
-msgstr ""
+msgstr "Při sledování rychle skočit do aktivního kola"
 
 #. [option]
 #: data/gui/window/lobby_main.cfg:564 data/gui/window/lobby_main.cfg:726
 msgid "Enter Blindfolded"
-msgstr ""
+msgstr "Vstoupit se zavázanýma očima"
 
 #. [option]
 #: data/gui/window/lobby_main.cfg:565 data/gui/window/lobby_main.cfg:727
 msgid "Do not show the map until given control of a side"
-msgstr ""
+msgstr "Neukázat mapu dokud není dána kontrola nad stranou"
 
 #. [label]
 #: data/gui/window/lobby_main.cfg:617 data/gui/window/lobby_main.cfg:834
@@ -3853,7 +3849,7 @@ msgstr "Čekárna hry více hráčů"
 #. [label]
 #: data/gui/window/lobby_player_info.cfg:38
 msgid "Player Info — "
-msgstr "Informace o hráči - "
+msgstr "Informace o hráči – "
 
 #. [button]: id=add_friend
 #. [button]: id=add_to_friends
@@ -6920,7 +6916,7 @@ msgstr "soukr. zpr. pro $receiver"
 
 #: src/gui/widgets/chatbox.cpp:388
 msgid "Joined <i>$name</i>"
-msgstr ""
+msgstr "Připojeno k: <i>$name</i>"
 
 #: src/gui/widgets/chatbox.cpp:394
 #, fuzzy
