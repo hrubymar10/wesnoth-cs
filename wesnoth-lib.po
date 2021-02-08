@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-08 21:13+0100\n"
+"PO-Revision-Date: 2021-02-08 22:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3549,7 +3549,7 @@ msgstr "Bez ignorovaných"
 #. [toggle_button]: id=filter_vacant_slots
 #: data/gui/window/lobby_main.cfg:362
 msgid "Vacant slots"
-msgstr "Prázdné pozice"
+msgstr "Volné pozice"
 
 #. [toggle_button]: id=filter_invert
 #: data/gui/window/lobby_main.cfg:373
@@ -3572,7 +3572,7 @@ msgstr "Odhlásit se"
 #: data/gui/window/mp_create_game/tiny_resolution.cfg:47
 #: data/gui/window/mp_create_game/tiny_resolution.cfg:323
 msgid "Create Game"
-msgstr "Vytvoř hru"
+msgstr "Vytvořit hru"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [grid]
@@ -3587,12 +3587,12 @@ msgstr "Nastavení"
 #. [button]: id=join_global
 #: data/gui/window/lobby_main.cfg:430 data/gui/window/lobby_main.cfg:585
 msgid "Join"
-msgstr "Přidej se ke hře"
+msgstr "Připojit se"
 
 #. [button]: id=observe_global
 #: data/gui/window/lobby_main.cfg:440 data/gui/window/lobby_main.cfg:597
 msgid "Observe"
-msgstr "Pozoruj hru"
+msgstr "Sledovat"
 
 #. [option]
 #: data/gui/window/lobby_main.cfg:459 data/gui/window/lobby_main.cfg:612
@@ -3607,17 +3607,17 @@ msgstr "Rychlé záznamy"
 #. [option]
 #: data/gui/window/lobby_main.cfg:464 data/gui/window/lobby_main.cfg:617
 msgid "Skip quickly to the active turn when observing"
-msgstr ""
+msgstr "Při sledování rychle skočit do aktivního kola"
 
 #. [option]
 #: data/gui/window/lobby_main.cfg:468 data/gui/window/lobby_main.cfg:621
 msgid "Enter Blindfolded"
-msgstr ""
+msgstr "Vstoupit se zavázanýma očima"
 
 #. [option]
 #: data/gui/window/lobby_main.cfg:469 data/gui/window/lobby_main.cfg:622
 msgid "Do not show the map until given control of a side"
-msgstr ""
+msgstr "Neukázat mapu dokud není dána kontrola nad stranou"
 
 #. [label]
 #: data/gui/window/lobby_main.cfg:523 data/gui/window/lobby_main.cfg:729
@@ -3627,7 +3627,7 @@ msgstr "Čekárna hry více hráčů"
 #. [label]
 #: data/gui/window/lobby_player_info.cfg:38
 msgid "Player Info — "
-msgstr "Informace o hráči - "
+msgstr "Informace o hráči – "
 
 #. [button]: id=add_friend
 #. [button]: id=add_to_friends
