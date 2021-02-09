@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-08 22:40+0100\n"
+"PO-Revision-Date: 2021-02-09 05:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6378,7 +6378,7 @@ msgstr "Reservováno pro $playername"
 
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:216
 msgid "Vacant slot"
-msgstr "Prázdná pozice"
+msgstr "Volná pozice"
 
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:220
 msgid "empty"
