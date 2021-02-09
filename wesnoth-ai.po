@@ -4,26 +4,24 @@
 # Copyright (C) 2013 - 2020 Wesnoth development team
 # This file is distributed under the same license as the the Battle for Wesnoth package.
 #
-# Czech Wesnoth translation team <hrubymar10@gmail.com>,
-#
+# Czech Wesnoth translation team
 #
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-09-26 20:34 UTC\n"
-"PO-Revision-Date: 2020-05-08 11:22+0200\n"
+"PO-Revision-Date: 2021-02-09 18:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
-"Language-Team: Český <hrubymar10@gmail.com>\n"
+"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.3\n"
 
 #. [ai]: id=ai_default_rca
 #: data/ai/ais/ai_default_rca.cfg:9
@@ -43,17 +41,17 @@ msgstr "Vývojová UI: Nečinná UI"
 #. [ai]: id=ai_default_rca_alternate_recruiting
 #: data/ai/dev/ai_default_rca_alternate_recruiting.cfg:10
 msgid "Multiplayer_AI^Dev AI: Default AI (RCA) with Alternate Recruiting"
-msgstr "Vývojová UI: Výchozí UI (RCA) s alternativním způsobem verbování"
+msgstr "Vývojová UI: Výchozí UI (RCA) s jiným verbováním"
 
 #. [ai]: id=formula_ai # id is needed to uniquely identify a MP AI, it is not needed in the scenario AI
 #: data/ai/dev/formula_ai.cfg:10
 msgid "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (Formula AI)"
-msgstr "Vývojová UI: Výchozí + Pokusné verbování (Formula UI)"
+msgstr "Vývojová UI: Výchozí + zkušební verbování (Formula AI)"
 
 #. [ai]: id=formula_ai_poisoning
 #: data/ai/dev/formula_ai_poisoning.cfg:9
 msgid "Multiplayer_AI^Dev AI: Default + Poisoning (Formula AI)"
-msgstr "Vývojová UI: Výchozí + Používání otravy (Formula UI)"
+msgstr "Vývojová UI: Výchozí + používání jedu (Formula AI)"
 
 #: data/ai/lua/patrol.lua:4
 msgid "Use the Patrols Micro AI instead of patrol.lua."
