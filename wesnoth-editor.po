@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-02-08 18:36+0100\n"
+"PO-Revision-Date: 2021-02-09 05:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -357,11 +357,11 @@ msgstr "Chyba načítání mapy"
 
 #: src/editor/map/context_manager.cpp:648
 msgid "Save Map As"
-msgstr "Ulož mapu jako"
+msgstr "Uložit mapu jako"
 
 #: src/editor/map/context_manager.cpp:669
 msgid "Save Scenario As"
-msgstr "Ulož scénář jako"
+msgstr "Uložit scénář jako"
 
 #: src/editor/map/context_manager.cpp:701
 msgid "No random map generators found."
