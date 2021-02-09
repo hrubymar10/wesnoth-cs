@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-09 18:07+0100\n"
+"PO-Revision-Date: 2021-02-09 18:25+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -45,22 +45,22 @@ msgstr "Pokusná UI"
 #. [ai]: id=idle_ai
 #: data/ai/ais/idle_ai.cfg:4
 msgid "Multiplayer_AI^Dev AI: Idle AI"
-msgstr "Výv. UI: Nečinná"
+msgstr "Vývojová UI: Nečinná UI"
 
 #. [ai]: id=ai_default_rca_alternate_recruiting
 #: data/ai/dev/ai_default_rca_alternate_recruiting.cfg:10
 msgid "Multiplayer_AI^Dev AI: Default AI (RCA) with Alternate Recruiting"
-msgstr "Výv. UI: Výchozí (RCA) s jiným verbováním"
+msgstr "Vývojová UI: Výchozí UI (RCA) s jiným verbováním"
 
 #. [ai]: id=formula_ai # id is needed to uniquely identify a MP AI, it is not needed in the scenario AI
 #: data/ai/dev/formula_ai.cfg:10
 msgid "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (Formula AI)"
-msgstr "Výv. UI: Výchozí + zkušební verbování (Formula AI)"
+msgstr "Vývojová UI: Výchozí + zkušební verbování (Formula AI)"
 
 #. [ai]: id=formula_ai_poisoning
 #: data/ai/dev/formula_ai_poisoning.cfg:9
 msgid "Multiplayer_AI^Dev AI: Default + Poisoning (Formula AI)"
-msgstr "Výv. UI: Výchozí + používání jedu (Formula AI)"
+msgstr "Vývojová UI: Výchozí + používání jedu (Formula AI)"
 
 #. [terrain_type]: id=zfarmer-fence  # AI-animal-proof fences from first scenario
 #. [terrain_type]: id=farmer-fence  # AI-animal-proof fences from first scenario
