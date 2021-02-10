@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-09 18:25+0100\n"
+"PO-Revision-Date: 2021-02-10 22:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2333,10 +2333,8 @@ msgstr "Zrušit"
 
 #. [label]
 #: data/gui/window/addon_license_prompt.cfg:39
-#, fuzzy
-#| msgid "addons_order^Type ($order)"
 msgid "addons_server^Terms"
-msgstr "Typ ($order)"
+msgstr "Podmínky"
 
 #. [label]: id=message
 #: data/gui/window/addon_license_prompt.cfg:54
@@ -3906,19 +3904,19 @@ msgstr "Zastavit hru"
 
 #: data/gui/window/logging.cfg:20
 msgid "Debug level logging: maximum information"
-msgstr "Úroveň zaznamenávání debug: maximum informací"
+msgstr "Zaznamenávání na úrovni ladění: maximum informací"
 
 #: data/gui/window/logging.cfg:22
 msgid "Info level logging: more information"
-msgstr "Úroveň zaznamenávání info: více informací"
+msgstr "Zaznamenávání na úrovni informace: více informací"
 
 #: data/gui/window/logging.cfg:24
 msgid "Warning level logging: less information"
-msgstr "Úroveň zaznamenávání warning: méně informací"
+msgstr "Zaznamenávání na úrovni varování: méně informací"
 
 #: data/gui/window/logging.cfg:26
 msgid "Error level logging: minimum information"
-msgstr "Úroveň zaznamenávání error: minimum informací"
+msgstr "Zaznamenávání na úrovni chyby: minimum informací"
 
 #: data/gui/window/logging.cfg:28
 msgid "Disable logging"
@@ -3931,35 +3929,33 @@ msgstr "Možnosti zaznamenávání"
 
 #. [label]
 #: data/gui/window/logging.cfg:192
-#, fuzzy
-#| msgid "Log Cabin"
 msgid "Log Domain"
-msgstr "Srub"
+msgstr "Oblast zaznamenávání"
 
 #. [row]
 #: data/gui/window/logging.cfg:196
 msgid "log_level^Debug"
-msgstr ""
+msgstr "Ladění"
 
 #. [row]
 #: data/gui/window/logging.cfg:197
 msgid "log_level^Info"
-msgstr ""
+msgstr "Informace"
 
 #. [row]
 #: data/gui/window/logging.cfg:198
 msgid "log_level^Warning"
-msgstr ""
+msgstr "Varování"
 
 #. [row]
 #: data/gui/window/logging.cfg:199
 msgid "log_level^Error"
-msgstr ""
+msgstr "Chyba"
 
 #. [row]
 #: data/gui/window/logging.cfg:200
 msgid "log_level^None"
-msgstr ""
+msgstr "Žádné"
 
 #. [button]: id=clear
 #: data/gui/window/lua_interpreter.cfg:117
