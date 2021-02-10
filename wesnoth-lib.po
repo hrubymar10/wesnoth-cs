@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-09 05:35+0100\n"
+"PO-Revision-Date: 2021-02-10 22:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3696,22 +3696,22 @@ msgstr "Možnosti zaznamenávání"
 #. [row]
 #: data/gui/window/logging.cfg:136
 msgid "Debug level logging: maximum information"
-msgstr "Úroveň zaznamenávání debug: maximum informací"
+msgstr "Zaznamenávání na úrovni ladění: maximum informací"
 
 #. [row]
 #: data/gui/window/logging.cfg:137
 msgid "Info level logging: more information"
-msgstr "Úroveň zaznamenávání info: více informací"
+msgstr "Zaznamenávání na úrovni informace: více informací"
 
 #. [row]
 #: data/gui/window/logging.cfg:138
 msgid "Warning level logging: less information"
-msgstr "Úroveň zaznamenávání warning: méně informací"
+msgstr "Zaznamenávání na úrovni varování: méně informací"
 
 #. [row]
 #: data/gui/window/logging.cfg:139
 msgid "Error level logging: minimum information"
-msgstr "Úroveň zaznamenávání error: minimum informací"
+msgstr "Zaznamenávání na úrovni chyby: minimum informací"
 
 #. [row]
 #: data/gui/window/logging.cfg:140
