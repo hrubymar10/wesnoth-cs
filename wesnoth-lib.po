@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-10 22:53+0100\n"
+"PO-Revision-Date: 2021-02-11 19:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4064,10 +4064,8 @@ msgstr "Když obdržíte zprávu od serveru"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:190
-#, fuzzy
-#| msgid "Ready to start:"
 msgid "Ready to start"
-msgstr "Připraveni začít:"
+msgstr "Připraveni začít"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:190
@@ -4086,15 +4084,13 @@ msgstr "Když nejste hostitel a hra začala"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:192
-#, fuzzy
-#| msgid "Turn changed:"
 msgid "Turn changed"
-msgstr "Změnil se tah:"
+msgstr "Změnilo se kolo"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:192
 msgid "When a new turn has begun"
-msgstr "Když začne další tah"
+msgstr "Když začalo nové kolo"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:193
