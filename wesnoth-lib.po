@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-11 19:58+0100\n"
+"PO-Revision-Date: 2021-02-12 03:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3967,7 +3967,6 @@ msgstr "Vyčistit konzoli"
 msgid "Clear the log area"
 msgstr "Vyčistit oblast logů"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #. [label]: id=title
 #: data/gui/window/mp_alerts_options.cfg:95
 msgid "Multiplayer Alerts"
@@ -3980,9 +3979,9 @@ msgid ""
 "multiplayer lobby; either by playing sound alerts or (if the game window is "
 "inactive or minimized) displaying desktop notifications."
 msgstr ""
-"Vybrat způsob, kterým chcete být informovaní o událostech při hře více hráčů "
-"a v čekárně před hrou více hráčů; buď bude přehráno zvukové upozornění nebo "
-"(pokud je okno neaktivní nebo minimalizované) zobrazením notifikace."
+"Vyber si, jak chceš být upozorněn na události při hrách více hráčů nebo při "
+"čekání na ně. Buď přehráním zvukových výstrah nebo (pokud je okno hry "
+"neaktivní či minimalizované) zobrazením oznámení na ploše."
 
 #. [widget]: id=label
 #. [label]
@@ -3994,7 +3993,7 @@ msgstr "Zvuk"
 #. [label]: id=notification_label
 #: data/gui/window/mp_alerts_options.cfg:163
 msgid "Desktop Notification"
-msgstr "Notifikace"
+msgstr "Oznámení na ploše"
 
 #. [label]
 #: data/gui/window/mp_alerts_options.cfg:178
@@ -4021,16 +4020,15 @@ msgstr "Hráč se odpojil"
 msgid "When a player leaves the lobby or game"
 msgstr "Když se hráč odpojí z čekárny nebo ze hry"
 
-# v chatu, "levá část tabulky" (jméno) - nesmí být příliš dlouhé!
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:186
 msgid "When a whisper is received"
-msgstr "Při obdržení zprávy šeptem"
+msgstr "Když je přijata zpráva šeptem"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:186
 msgid "Whisper"
-msgstr "Šeptat"
+msgstr "Šeptání"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:187
@@ -4040,7 +4038,7 @@ msgstr "Zpráva od přítele"
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:187
 msgid "When a message from a friend is received"
-msgstr "Když obdržíte zprávu od přítele"
+msgstr "Když je přijata zpráva od přítele"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:188
@@ -4050,7 +4048,7 @@ msgstr "Veřejná zpráva"
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:188
 msgid "When a public message is received"
-msgstr "Když obdržíte veřejnou zpárvu"
+msgstr "Když je přijata veřejná zpráva"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:189
@@ -4060,7 +4058,7 @@ msgstr "Zpráva od serveru"
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:189
 msgid "When a server message is received"
-msgstr "Když obdržíte zprávu od serveru"
+msgstr "Když je přijata zpráva od serveru"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:190
