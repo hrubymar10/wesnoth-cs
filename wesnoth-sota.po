@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 09:38 UTC\n"
-"PO-Revision-Date: 2021-02-09 20:13+0100\n"
+"PO-Revision-Date: 2021-02-12 20:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2371,7 +2371,7 @@ msgstr "A tak je to vždycky..."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:168
 msgid "Good. Now I can practice recruiting ghosts."
-msgstr "Výborně. Od teď mohu verbovat duchy."
+msgstr "Dobře. Teď můžu cvičit verbování duchů."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:174
@@ -2470,13 +2470,13 @@ msgid ""
 msgstr ""
 "17. IV. roku 23 w. l.\n"
 "\n"
-"Můj hlavní úkol byl splněn a moje armáda se rozrostla o duchy. Získala jsem "
-"též nového společníka, talentovaného v léčení. Nevěřila jsem, že by Ras-"
+"Můj hlavní úkol byl splněn a moje armáda se rozrostla o duchy. Získala jsem "
+"též nového společníka, talentovaného v léčení. Nevěřila jsem, že by Ras-"
 "Tabahn už čekal na dohodnutém místě, ale nechtěla jsem se zdržovat. Vybrala "
-"jsem si starou elfskou cestu a na sever jsme šli tak rychle, jak to jen šlo. "
-"Naštěstí nebyla moc poškozená i když byla na některých místech zarostlá a "
-"bylo složité poznat, kudy vede. Druhý den jsme byli stále hluboko v lesích, "
-"když jsme narazili na elfskou kouzelnici."
+"jsem si starou elfí cestu a na sever jsme šli tak rychle, jak to jen šlo. "
+"Naštěstí nebyla moc poškozená, i když byla na některých místech zarostlá "
+"a bylo složité poznat, kudy vede. Druhý den jsme byli stále hluboko "
+"v lesích, když jsme narazili na elfí kouzelnici."
 
 #. [side]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:43
@@ -2503,10 +2503,10 @@ msgid ""
 "continue to molest our peace, and you must release the dead you have "
 "enslaved."
 msgstr ""
-"Cítím zápach smrti a zkázy, jak dopadá na les. Když jsem se vydala na "
-"průzkum, očekávala jsem temné sily v práci. Namísto toho jsem našla lidskou "
-"mágini, jak odvážně kráčí naší cestou! Nedovolím ti pokračovat v narušování "
-"míru, a musíš osvobodit všechny, které jsi zotročila."
+"Cítím zápach smrti a zkázy, jak dopadá na les. Když jsem se vydala na "
+"průzkum, očekávala jsem, že objevím děsivé a skryté síly při práci. Namísto "
+"toho jsem našla lidskou mágyni, jak odvážně kráčí naší cestou! Nedovolím ti "
+"pokračovat v narušování míru a musíš osvobodit všechny, které jsi zotročila."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:320
@@ -2514,8 +2514,8 @@ msgid ""
 "Well, that I won’t do. However, if you do not attack, you will be rid of me "
 "soon, as I only wish to leave these woods."
 msgstr ""
-"Tak to neudělám. Každopádně, když na mne nezaútočíš, tak se mne rychle "
-"zbavíš. Mám v úmyslu opustit tento les."
+"No, tohle neudělám. Avšak když nezaútočíš, tak se mne rychle zbavíš, protože "
+"si pouze přeji opustit tento les."
 
 #. [message]: speaker=Isthiniel
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:324
@@ -2524,9 +2524,9 @@ msgid ""
 "that drives me. However, the woods themselves are disturbed, and they will "
 "cast you out on their own. I can feel them awaken."
 msgstr ""
-"Zaútočit? Ne, to nemůžeme. Většina našeho lidu sem nepřijde. Jen povinnost "
-"mne dovedla až sem. Každopádně jsou z vás znechucené samotné lesy. Vypudí "
-"vás pryč. Cítím je ožívat."
+"Zaútočit? Ne, to nemůžu. Většina mého lidu sem nepřichází. Jen povinnost mne "
+"dovedla až sem. Nicméně samotný les je zneklidněn a stromy samy vás vypudí. "
+"Cítím, jak procitají."
 
 #. [unit]: type=Ancient Wose, id=Dolmathengalin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:341
@@ -2536,7 +2536,7 @@ msgstr "Dolmathengalin"
 #. [message]: speaker=Dolmathengalin
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:348
 msgid "You are greeted daughter of elves. Why does the forest moan in despair?"
-msgstr "Buď zdráva, dcero elfů. Proč je les tak přeplněn beznadějí?"
+msgstr "Buď zdráva, dcero elfů. Proč les tak zoufale sténá?"
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:352
@@ -2549,7 +2549,7 @@ msgid ""
 "That dark mage has woken our dead and stifles the air with her very "
 "presence. Please wake your people, Elder, and destroy her."
 msgstr ""
-"Ta temná magyně vzbudila naše mrtvé a ničí vzduch už jen svojí přítomností. "
+"Ta temná mágyně vzbudila naše mrtvé a ničí vzduch už jen svojí přítomností. "
 "Probuď prosím svůj lid, starší, a znič ji."
 
 #. [message]: speaker=Dolmathengalin
