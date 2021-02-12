@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-12 03:59+0100\n"
+"PO-Revision-Date: 2021-02-12 04:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4132,10 +4132,8 @@ msgstr "Adresa"
 
 #. [button]: id=server_add
 #: data/gui/window/mp_connect.cfg:270
-#, fuzzy
-#| msgid "Address"
 msgid "Add"
-msgstr "Adresa"
+msgstr "Přidat"
 
 #. [label]
 #: data/gui/window/mp_create_game.cfg:119
@@ -4940,16 +4938,12 @@ msgstr "Limitovat FPS"
 
 #. [toggle_button]: id=fps_limiter
 #: data/gui/window/preferences/03_display.cfg:275
-#, fuzzy
-#| msgid ""
-#| "Disabling this increases CPU usage to 100% but may slightly improve "
-#| "performance at high resolutions"
 msgid ""
 "Disabling this increases CPU usage, but may slightly improve performance "
 "(requires restart to take effect)"
 msgstr ""
-"Vypnutí zvýší využití CPU na 100%, ale může trochu zlepšit výkon při "
-"vysokých rozlišeních."
+"Vypnutí zvýší využití CPU, ale může trochu zlepšit výkon (vyžaduje restart, "
+"aby to začalo působit)."
 
 #. [button]: id=choose_theme
 #: data/gui/window/preferences/03_display.cfg:290
@@ -5128,8 +5122,8 @@ msgid ""
 "Add this username to your friends list (add optional notes, e.g., "
 "'player_name notes on friend')"
 msgstr ""
-"Přidat toto uživatelské jméno do seznamu přátel (volitelně, např. 'jméno "
-"hráče zaznamenáno jako přítel')"
+"Přidat toto uživatelské jméno na tvůj seznam přátel (doplnit nepovinné "
+"poznámky, např. 'jméno_hráče poznámky o příteli')"
 
 #. [button]: id=add_ignored
 #: data/gui/window/preferences/05_multiplayer.cfg:277
@@ -5137,20 +5131,18 @@ msgid ""
 "Add this username to your ignore list (add optional reason, e.g., "
 "'player_name reason ignored')"
 msgstr ""
-"Přidat tohoto uživatele do seznamu ignorovaných (volitelně vyberte důvod, "
-"např. 'důvod ignorování')"
+"Přidat toto uživatelské jméno na tvůj seznam ignorovaných (doplnit nepovinný "
+"důvod, např. 'jméno_hráče důvod ignorování')"
 
 #. [button]: id=remove
 #: data/gui/window/preferences/05_multiplayer.cfg:290
 msgid "Remove this username from your list"
-msgstr "Odstraň tuto přezdívku ze seznamu"
+msgstr "Odstraň toto uživatelské jméno z tvého seznamu"
 
 #. [label]: id=no_friends_notice
 #: data/gui/window/preferences/05_multiplayer.cfg:311
-#, fuzzy
-#| msgid "You have not befriended or ignored any other players."
 msgid "You have not befriended or blocked any other players."
-msgstr "Nespřátelil ses s dalšími hráči ani jsi žádné neignoroval."
+msgstr "Nespřátelil(a) ses s dalšími hráči ani jsi žádné nezablokoval(a)."
 
 #. [button]: id=open
 #: data/gui/window/screenshot_notification.cfg:49
@@ -5838,16 +5830,16 @@ msgid "No grid defined."
 msgstr "Není definována žádná mřížka."
 
 #: src/gui/core/window_builder.cpp:433
-#, fuzzy
-#| msgid "A row must have a column."
 msgid "Grid '$grid' row $row must have at least one column."
-msgstr "Řádek musí mít sloupec."
+msgstr "Řádek $row mřížky '$grid' musí mít alespoň jeden sloupec."
 
 #: src/gui/core/window_builder.cpp:445
 msgid ""
 "Grid '$grid' row $row has a differing number of columns ($found found, "
 "$expected expected)"
 msgstr ""
+"Řádek $row mřížky '$grid' se liší v počtu sloupců (nalezeno $found, "
+"očekáváno $expected)"
 
 #: src/gui/dialogs/addon/manager.cpp:194
 msgid "addons_view^All Add-ons"
@@ -6702,7 +6694,7 @@ msgstr "otrapa"
 #: src/gui/dialogs/preferences_dialog.cpp:233
 #: src/gui/dialogs/preferences_dialog.cpp:293
 msgid "No username specified"
-msgstr "Nebylo zvoleno uživatelské jméno"
+msgstr "Nebylo zadáno uživatelské jméno"
 
 #: src/gui/dialogs/preferences_dialog.cpp:251
 msgid "Invalid username"
@@ -6903,16 +6895,12 @@ msgid "Joined <i>$name</i>"
 msgstr "Připojeno k: <i>$name</i>"
 
 #: src/gui/widgets/chatbox.cpp:394
-#, fuzzy
-#| msgid ""
-#| "Whisper session with <i>“$name”</i> started. If you do not want to "
-#| "receive messages from this user, type <i>/ignore $name</i>"
 msgid ""
 "Started private message with <i>$name</i>. If you do not want to receive "
 "messages from this player, type <i>/ignore $name</i>"
 msgstr ""
-"Zahájena soukromá konverzace s <i>“$name”</i>. Pokud si nepřejete přijímat "
-"od tohoto člověka zprávy, napište <i>/ignore $name</i>"
+"Zahájen soukromý rozhovor s <i>$name</i>. Jestliže od tohoto hráče nechceš "
+"přijímat zprávy, napiš <i>/ignore $name</i>."
 
 #: src/gui/widgets/chatbox.cpp:633
 msgid "$player has entered the room"
@@ -6931,10 +6919,8 @@ msgid "Opening links is not supported, contact your packager"
 msgstr "Otevírání odkazů není podporováno, kontaktujte správce vašeho balíčku"
 
 #: src/gui/widgets/label.cpp:143
-#, fuzzy
-#| msgid "Copied link!"
 msgid "Open link?"
-msgstr "Odkaz zkopírován!"
+msgstr "Otevřít odkaz?"
 
 #: src/gui/widgets/label.cpp:174
 msgid "Copied link!"
