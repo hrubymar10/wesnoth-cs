@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-12 04:03+0100\n"
+"PO-Revision-Date: 2021-02-12 05:06+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4917,8 +4917,8 @@ msgid ""
 "Add this username to your friends list (add optional notes, e.g., "
 "'player_name notes on friend')"
 msgstr ""
-"Přidat toto uživatelské jméno do seznamu přátel (volitelně, např. 'jméno "
-"hráče zaznamenáno jako přítel')"
+"Přidat toto uživatelské jméno na tvůj seznam přátel (doplnit nepovinné "
+"poznámky, např. 'jméno_hráče poznámky o příteli')"
 
 #. [button]: id=add_ignored
 #: data/gui/window/preferences/05_multiplayer.cfg:277
@@ -4926,13 +4926,13 @@ msgid ""
 "Add this username to your ignore list (add optional reason, e.g., "
 "'player_name reason ignored')"
 msgstr ""
-"Přidat tohoto uživatele do seznamu ignorovaných (volitelně vyberte důvod, "
-"např. 'důvod ignorování')"
+"Přidat toto uživatelské jméno na tvůj seznam ignorovaných (doplnit nepovinný "
+"důvod, např. 'jméno_hráče důvod ignorování')"
 
 #. [button]: id=remove
 #: data/gui/window/preferences/05_multiplayer.cfg:290
 msgid "Remove this username from your list"
-msgstr "Odstraň tuto přezdívku ze seznamu"
+msgstr "Odstraň toto uživatelské jméno z tvého seznamu"
 
 #. [label]: id=no_friends_notice
 #: data/gui/window/preferences/05_multiplayer.cfg:311
@@ -6411,7 +6411,7 @@ msgstr "otrapa"
 #: src/gui/dialogs/preferences_dialog.cpp:246
 #: src/gui/dialogs/preferences_dialog.cpp:306
 msgid "No username specified"
-msgstr "Nebylo zvoleno uživatelské jméno"
+msgstr "Nebylo zadáno uživatelské jméno"
 
 #: src/gui/dialogs/preferences_dialog.cpp:264
 msgid "Invalid username"
@@ -6587,8 +6587,8 @@ msgid ""
 "Whisper session with <i>“$name”</i> started. If you do not want to receive "
 "messages from this user, type <i>/ignore $name</i>"
 msgstr ""
-"Zahájena soukromá konverzace s <i>“$name”</i>. Pokud si nepřejete přijímat "
-"od tohoto člověka zprávy, napište <i>/ignore $name</i>"
+"Zahájen soukromý rozhovor s <i>„$name“</i>. Jestliže od tohoto uživatele "
+"nechceš přijímat zprávy, napiš <i>/ignore $name</i>."
 
 #: src/gui/widgets/chatbox.cpp:631
 msgid "$player has entered the room"
@@ -6608,7 +6608,7 @@ msgstr "Otevírání odkazů není podporováno, kontaktujte správce vašeho ba
 
 #: src/gui/widgets/label.cpp:172
 msgid "Do you want to open this link?"
-msgstr "Skutečně chcete otevřít tento odkaz?"
+msgstr "Chceš otevřít tento odkaz?"
 
 #: src/gui/widgets/label.cpp:203
 msgid "Copied link!"
