@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-12 03:55+0100\n"
+"PO-Revision-Date: 2021-02-12 04:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3740,8 +3740,8 @@ msgid ""
 "multiplayer lobby; either by playing sound alerts or (if the game window is "
 "inactive or minimized) displaying desktop notifications."
 msgstr ""
-"Vyber si, jak chceš být upozorněn na události při hrách více hráčů nebo při "
-"čekání na ně. Buď přehráním zvukových výstrah nebo (pokud je okno hry "
+"Vyber si, jak chceš být upozorněn(a) na události při hrách více hráčů nebo "
+"při čekání na ně. Buď přehráním zvukových výstrah nebo (pokud je okno hry "
 "neaktivní či minimalizované) zobrazením oznámení na ploše."
 
 #. [label]
@@ -3834,7 +3834,7 @@ msgstr "Připraveni začít:"
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:197
 msgid "When the game you are hosting is ready to start"
-msgstr "Když je hra, kterou hostíte, připravená ke spuštění"
+msgstr "Když je hra, kterou hostíš, připravená ke spuštění"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:198
@@ -3844,7 +3844,7 @@ msgstr "Hra začala:"
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:198
 msgid "When the host (not you) has started the game"
-msgstr "Když nejste hostitel a hra začala"
+msgstr "Když hostitel (ne ty) spustil hru"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:199
