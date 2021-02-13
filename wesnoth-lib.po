@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-12 05:06+0100\n"
+"PO-Revision-Date: 2021-02-13 11:14+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7133,9 +7133,10 @@ msgstr "Informace o mapě"
 msgid "Clear Selected Item Set"
 msgstr "Zruš vybranou sadu"
 
+# dlouhý text přidá v nastavení vodorovný posuvník a odsune sloupce GET doprava
 #: src/hotkey/hotkey_command.cpp:182
 msgid "Swap Foreground/Background Palette Item"
-msgstr "Prohodit na paletě terény pro popředí a pozadí"
+msgstr "Prohodit na paletě popředí s pozadím"
 
 #: src/hotkey/hotkey_command.cpp:183
 msgid "Change Palette Group"
@@ -7301,17 +7302,18 @@ msgstr "Přepnout odlišení jednotek na minimapě"
 msgid "Toggle Minimap Terrain Coding"
 msgstr "Přepnout odlišení povrchu na minimapě"
 
+# dlouhý text přidá v nastavení vodorovný posuvník a odsune sloupce GET doprava
 #: src/hotkey/hotkey_command.cpp:213
 msgid "Toggle Minimap Unit Drawing"
-msgstr "Přepnout zobrazení jednotek na minimapě"
+msgstr "Přepnout kreslení jednotek na minimapě"
 
 #: src/hotkey/hotkey_command.cpp:214
 msgid "Toggle Minimap Village Drawing"
-msgstr "Přepnout zobrazení vesnic na minimapě"
+msgstr "Přepnout kreslení vesnic na minimapě"
 
 #: src/hotkey/hotkey_command.cpp:215
 msgid "Toggle Minimap Terrain Drawing"
-msgstr "Přepnout zobrazení povrchu na minimapě"
+msgstr "Přepnout kreslení povrchu na minimapě"
 
 #: src/hotkey/hotkey_command.cpp:217
 msgid "Next Brush"
@@ -7374,13 +7376,15 @@ msgstr "Invertovat výběr"
 msgid "Select None"
 msgstr "Zrušit výběr"
 
+# dlouhý text přidá v nastavení vodorovný posuvník a odsune sloupce GET doprava
 #: src/hotkey/hotkey_command.cpp:232
 msgid "Rotate Clipboard Clockwise"
-msgstr "Otočit schránku po směru hodinových ručiček"
+msgstr "Otočit schránku doprava"
 
+# dlouhý text přidá v nastavení vodorovný posuvník a odsune sloupce GET doprava
 #: src/hotkey/hotkey_command.cpp:233
 msgid "Rotate Clipboard Counter-Clockwise"
-msgstr "Otočit schránku proti směru hodinových ručiček"
+msgstr "Otočit schránku doleva"
 
 #: src/hotkey/hotkey_command.cpp:234
 msgid "Flip Clipboard Horizontally"
