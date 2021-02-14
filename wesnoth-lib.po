@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-14 07:51+0100\n"
+"PO-Revision-Date: 2021-02-14 08:27+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5248,7 +5248,7 @@ msgstr "Napadni nepřítele"
 #. [label]
 #: data/gui/window/unit_create.cfg:47 src/hotkey/hotkey_command.cpp:115
 msgid "Create Unit (Debug!)"
-msgstr "Vytvoř jednotku (Debug!)"
+msgstr "Vytvořit jednotku (ladění!)"
 
 #. [toggle_button]: id=sort_0
 #: data/gui/window/unit_create.cfg:124
@@ -6796,11 +6796,11 @@ msgstr "Schránka editoru"
 
 #: src/hotkey/hotkey_command.cpp:49
 msgid "Debug Commands"
-msgstr "Vývojářské příkazy"
+msgstr "Příkazy ladění"
 
 #: src/hotkey/hotkey_command.cpp:50
 msgid "Custom WML Commands"
-msgstr "Uživatelský WML příkazy"
+msgstr "Vlastní WML příkazy"
 
 #: src/hotkey/hotkey_command.cpp:68
 msgid "Scroll Up"
@@ -6952,11 +6952,11 @@ msgstr "Mluv"
 
 #: src/hotkey/hotkey_command.cpp:116
 msgid "Change Side (Debug!)"
-msgstr "Změň stranu (Debug!)"
+msgstr "Změnit stranu (ladění!)"
 
 #: src/hotkey/hotkey_command.cpp:117
 msgid "Kill Unit (Debug!)"
-msgstr "Zabij jednotku (Debug!)"
+msgstr "Zabít jednotku (ladění!)"
 
 #: src/hotkey/hotkey_command.cpp:119
 msgid "Scenario Objectives"
@@ -7532,7 +7532,7 @@ msgstr "Uživatelský příkaz"
 
 #: src/hotkey/hotkey_command.cpp:281
 msgid "Run Formula"
-msgstr "Proveď vzorec"
+msgstr "Spustit vzorec"
 
 #: src/hotkey/hotkey_command.cpp:282
 msgid "Clear Messages"
