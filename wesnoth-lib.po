@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-14 20:45+0100\n"
+"PO-Revision-Date: 2021-02-14 21:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7260,7 +7260,7 @@ msgstr "Ztlumit zvuk"
 
 #: src/hotkey/hotkey_command.cpp:114
 msgid "Speak"
-msgstr "Mluv"
+msgstr "Mluvit"
 
 #: src/hotkey/hotkey_command.cpp:115
 msgid "Create Unit (Debug!)"
@@ -7796,11 +7796,11 @@ msgstr "Najít popisek nebo jednotku"
 
 #: src/hotkey/hotkey_command.cpp:271
 msgid "Speak to Ally"
-msgstr "Mluv ke spojencům"
+msgstr "Mluvit ke spojencům"
 
 #: src/hotkey/hotkey_command.cpp:272
 msgid "Speak to All"
-msgstr "Mluv ke všem"
+msgstr "Mluvit ke všem"
 
 #: src/hotkey/hotkey_command.cpp:274
 msgid "Help about save-loading"
@@ -7812,15 +7812,15 @@ msgstr "Tip: opakované nahrávání není třeba"
 
 #: src/hotkey/hotkey_command.cpp:275
 msgid "View Chat Log"
-msgstr "Ukaž záznam rozhovoru"
+msgstr "Podívat se na záznam rozhovoru"
 
 #: src/hotkey/hotkey_command.cpp:276
 msgid "Enter User Command"
-msgstr "Vlož uživatelský příkaz"
+msgstr "Vložit uživatelský příkaz"
 
 #: src/hotkey/hotkey_command.cpp:277
 msgid "Custom Command"
-msgstr "Uživatelský příkaz"
+msgstr "Vlastní příkaz"
 
 #: src/hotkey/hotkey_command.cpp:278
 msgid "Run Formula"
@@ -7828,7 +7828,7 @@ msgstr "Spustit vzorec"
 
 #: src/hotkey/hotkey_command.cpp:279
 msgid "Clear Messages"
-msgstr "Smaž zprávy"
+msgstr "Smazat zprávy"
 
 #: src/hotkey/hotkey_command.cpp:281
 msgid "Change Language"
@@ -7836,7 +7836,7 @@ msgstr "Změnit jazyk"
 
 #: src/hotkey/hotkey_command.cpp:282
 msgid "Refresh WML"
-msgstr "Obnov WML"
+msgstr "Obnovit WML"
 
 #: src/hotkey/hotkey_command.cpp:283
 msgid "Next Tip of the Day"
