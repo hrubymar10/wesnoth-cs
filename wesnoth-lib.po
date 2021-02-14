@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-14 09:57+0100\n"
+"PO-Revision-Date: 2021-02-14 10:51+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2868,7 +2868,7 @@ msgstr "Spolupráce uživatele vyžadována"
 #. [label]: id=title
 #: data/gui/window/edit_label.cfg:42 data/gui/window/editor_edit_label.cfg:42
 msgid "Place Label"
-msgstr "Umísti popisek"
+msgstr "Umístit popisek"
 
 #. [label]
 #: data/gui/window/edit_label.cfg:72 data/gui/window/editor_edit_label.cfg:72
@@ -7136,11 +7136,11 @@ msgstr "zrušit"
 
 #: src/hotkey/hotkey_command.cpp:74
 msgid "Select Hex"
-msgstr "Vyber políčko"
+msgstr "Vybrat políčko"
 
 #: src/hotkey/hotkey_command.cpp:75
 msgid "Deselect Hex"
-msgstr "Zruš výběr políčka"
+msgstr "Zrušit výběr políčka"
 
 #: src/hotkey/hotkey_command.cpp:76
 msgid "Move/Attack"
@@ -7292,7 +7292,7 @@ msgstr "Vrátit se do hlavního menu"
 
 #: src/hotkey/hotkey_command.cpp:126
 msgid "Set Team Label"
-msgstr "Umísti týmový popisek"
+msgstr "Nastavit týmový popisek"
 
 #: src/hotkey/hotkey_command.cpp:127
 msgid "Set Label"
@@ -7720,7 +7720,7 @@ msgstr "Obnovit přechody terénu"
 
 #: src/hotkey/hotkey_command.cpp:247
 msgid "Toggle Terrain Transition Update"
-msgstr "Obnovit přechody terénu"
+msgstr "Přepnout obnovu přechodu terénu"
 
 #: src/hotkey/hotkey_command.cpp:249
 msgid "Auto-update Terrain Transitions"
@@ -7784,7 +7784,7 @@ msgstr "Pozdržet překreslování mlhy"
 
 #: src/hotkey/hotkey_command.cpp:268
 msgid "Update Shroud Now"
-msgstr "Obnov mlhu"
+msgstr "Okamžitě obnovit mlhu"
 
 #: src/hotkey/hotkey_command.cpp:269
 msgid "Continue Move"
@@ -7792,7 +7792,7 @@ msgstr "Pokračuj v pohybu"
 
 #: src/hotkey/hotkey_command.cpp:270
 msgid "Find Label or Unit"
-msgstr "Najdi popisek nebo jednotku"
+msgstr "Najít popisek nebo jednotku"
 
 #: src/hotkey/hotkey_command.cpp:271
 msgid "Speak to Ally"
