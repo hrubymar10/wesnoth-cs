@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-14 18:29+0100\n"
+"PO-Revision-Date: 2021-02-14 20:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5528,7 +5528,7 @@ msgstr "Seznam jednotek"
 #. [label]: id=title
 #: data/gui/window/unit_recall.cfg:297
 msgid "Recall Unit"
-msgstr "Přivolat"
+msgstr "Povolat jednotku"
 
 #. [text_box]: id=filter_box
 #: data/gui/window/unit_recall.cfg:311
@@ -5549,7 +5549,7 @@ msgstr "Propustit"
 #. [button]: id=ok
 #: data/gui/window/unit_recall.cfg:450 src/hotkey/hotkey_command.cpp:105
 msgid "Recall"
-msgstr "Přivolat"
+msgstr "Povolat"
 
 #. [label]
 #: data/gui/window/unit_recruit.cfg:155
@@ -6833,7 +6833,7 @@ msgstr "Jednotka nemůže být přivolána z důvodu nedostatku zlata."
 
 #: src/gui/dialogs/unit_recall.cpp:323 src/hotkey/hotkey_command.cpp:96
 msgid "Rename Unit"
-msgstr "Přejmenuj"
+msgstr "Přejmenovat jednotku"
 
 #: src/gui/dialogs/unit_recall.cpp:359
 msgid "This unit is loyal and requires no upkeep."
@@ -7168,7 +7168,7 @@ msgstr "Předešlá jednotka"
 
 #: src/hotkey/hotkey_command.cpp:82
 msgid "Hold Position"
-msgstr "Drž pozici"
+msgstr "Držet pozici"
 
 #: src/hotkey/hotkey_command.cpp:83
 msgid "End Unit Turn"
@@ -7228,7 +7228,7 @@ msgstr "Uložit mapu"
 
 #: src/hotkey/hotkey_command.cpp:104
 msgid "Repeat Recruit"
-msgstr "Zopakuj verbování"
+msgstr "Zopakovat verbování"
 
 #: src/hotkey/hotkey_command.cpp:106
 msgid "Show/Hide Labels"
@@ -7304,7 +7304,7 @@ msgstr "Smazat popisky"
 
 #: src/hotkey/hotkey_command.cpp:129
 msgid "Show Enemy Moves"
-msgstr "Ukaž tahy nepřítele"
+msgstr "Ukázat tahy nepřítele"
 
 #: src/hotkey/hotkey_command.cpp:130
 msgid "Best Possible Enemy Moves"
@@ -7788,7 +7788,7 @@ msgstr "Okamžitě obnovit mlhu"
 
 #: src/hotkey/hotkey_command.cpp:269
 msgid "Continue Move"
-msgstr "Pokračuj v pohybu"
+msgstr "Pokračovat v pohybu"
 
 #: src/hotkey/hotkey_command.cpp:270
 msgid "Find Label or Unit"
