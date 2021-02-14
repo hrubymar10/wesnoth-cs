@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-14 10:58+0100\n"
+"PO-Revision-Date: 2021-02-14 11:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6503,7 +6503,7 @@ msgstr "$count|× $name"
 
 #: src/gui/dialogs/title_screen.cpp:174 src/hotkey/hotkey_command.cpp:91
 msgid "Screenshot"
-msgstr "Screenshot (kopie obrazovky)"
+msgstr "Snímek obrazovky"
 
 #: src/gui/dialogs/title_screen.cpp:484
 msgid "Choose Test"
@@ -6872,11 +6872,11 @@ msgstr "Znovu"
 
 #: src/hotkey/hotkey_command.cpp:87
 msgid "Zoom In"
-msgstr "Přibliž pohled"
+msgstr "Přiblížit pohled"
 
 #: src/hotkey/hotkey_command.cpp:88
 msgid "Zoom Out"
-msgstr "Oddal pohled"
+msgstr "Oddálit pohled"
 
 #: src/hotkey/hotkey_command.cpp:89
 msgid "Default Zoom"
@@ -6888,7 +6888,7 @@ msgstr "Okno/Celá obrazovka"
 
 #: src/hotkey/hotkey_command.cpp:92
 msgid "Map Screenshot"
-msgstr "Screenshot (kopie obrazovky)"
+msgstr "Snímek mapy"
 
 #: src/hotkey/hotkey_command.cpp:93
 msgid "Accelerated"
@@ -6964,11 +6964,11 @@ msgstr "Úkoly scénáře"
 
 #: src/hotkey/hotkey_command.cpp:122
 msgid "Pause Network Game"
-msgstr "Pozastav síťovou hru"
+msgstr "Pozastavit síťovou hru"
 
 #: src/hotkey/hotkey_command.cpp:123
 msgid "Continue Network Game"
-msgstr "Pokračuj v síťové hře"
+msgstr "Pokračovat v síťové hře"
 
 #: src/hotkey/hotkey_command.cpp:125
 msgid "Quit to Main Menu"
@@ -7075,7 +7075,7 @@ msgstr "Předpokládat smrt"
 
 #: src/hotkey/hotkey_command.cpp:159
 msgid "Quit to Desktop"
-msgstr "Ukončení programu"
+msgstr "Ukončit program"
 
 #: src/hotkey/hotkey_command.cpp:160
 msgid "Close Map"
@@ -7548,15 +7548,15 @@ msgstr "Obnov WML"
 
 #: src/hotkey/hotkey_command.cpp:286
 msgid "Next Tip of the Day"
-msgstr "Zobrazí další tip"
+msgstr "Zobrazit další tip dne"
 
 #: src/hotkey/hotkey_command.cpp:287
 msgid "Previous Tip of the Day"
-msgstr "Zobrazí předchozí tip"
+msgstr "Zobrazit předchozí tip dne"
 
 #: src/hotkey/hotkey_command.cpp:288
 msgid "Start Tutorial"
-msgstr "Spustí Výcvik"
+msgstr "Spustit výcvik"
 
 #: src/hotkey/hotkey_command.cpp:289
 msgid "Start Campaign"
@@ -7568,20 +7568,19 @@ msgstr "Začít hru více hráčů"
 
 #: src/hotkey/hotkey_command.cpp:291
 msgid "Manage Add-ons"
-msgstr "Spravuj rozšíření"
+msgstr "Spravovat rozšíření"
 
 #: src/hotkey/hotkey_command.cpp:292
 msgid "Manage Cores"
-msgstr "Spravuj jádra"
+msgstr "Spravovat jádra"
 
 #: src/hotkey/hotkey_command.cpp:293
 msgid "Start Editor"
-msgstr "Spusť editor map"
+msgstr "Spustit editor"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #: src/hotkey/hotkey_command.cpp:294
 msgid "Show Credits"
-msgstr "Zobraz poděkování"
+msgstr "Zobrazit poděkování"
 
 #: src/hotkey/hotkey_command.cpp:295
 msgid "Start Test Scenario"
