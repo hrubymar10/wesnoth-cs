@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-09 05:31+0100\n"
+"PO-Revision-Date: 2021-02-14 18:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8313,7 +8313,7 @@ msgstr "Hru se nepodařilo automaticky uložit. Uložte ji prosím ručně."
 
 #: src/savegame.cpp:642
 msgid "Save Game"
-msgstr "Ulož hru"
+msgstr "Uložit hru"
 
 #: src/savegame.cpp:656
 msgid "Game state is corrupted"
