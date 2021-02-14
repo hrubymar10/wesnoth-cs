@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-14 08:19+0100\n"
+"PO-Revision-Date: 2021-02-14 09:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4393,21 +4393,21 @@ msgstr "Pohlaví:"
 #: src/gui/dialogs/multiplayer/faction_select.cpp:141
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:494
 msgid "Random"
-msgstr "Náhodný"
+msgstr "Náhodně"
 
 #. [row]
 #. [toggle_button]: id=male_toggle
 #: data/gui/window/mp_faction_select.cfg:178
 #: data/gui/window/unit_create.cfg:225
 msgid "Male"
-msgstr "Mužské"
+msgstr "Muž"
 
 #. [row]
 #. [toggle_button]: id=female_toggle
 #: data/gui/window/mp_faction_select.cfg:180
 #: data/gui/window/unit_create.cfg:236
 msgid "Female"
-msgstr "Ženské"
+msgstr "Žena"
 
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:210
@@ -4417,7 +4417,7 @@ msgstr "Rekruti:"
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:289
 msgid "Choose Your Faction"
-msgstr "Vyberte si frakci"
+msgstr "Vyber si svou frakci"
 
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:314
@@ -4449,7 +4449,7 @@ msgstr "Vyber frakci a vůdce pro tuto stranu"
 #. [label]
 #: data/gui/window/mp_join_game.cfg:155 data/gui/window/mp_staging.cfg:157
 msgid "<b>Faction:</b>"
-msgstr "<b>Frankce:</b>"
+msgstr "<b>Frakce:</b>"
 
 #. [label]
 #: data/gui/window/mp_join_game.cfg:187 data/gui/window/mp_staging.cfg:190
@@ -5476,7 +5476,7 @@ msgstr "Napadni nepřítele"
 #. [label]
 #: data/gui/window/unit_create.cfg:55
 msgid "Create Unit"
-msgstr "Vytvoř jednotku"
+msgstr "Vytvořit jednotku"
 
 #. [toggle_button]: id=sort_0
 #: data/gui/window/unit_create.cfg:134
@@ -6819,7 +6819,7 @@ msgstr "Vybrat Test"
 
 #: src/gui/dialogs/unit_create.cpp:227
 msgid "unit_variation^Default Variation"
-msgstr ""
+msgstr "Výchozí varianta"
 
 #: src/gui/dialogs/unit_recall.cpp:225
 msgid ""

@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-02-07 22:13+0100\n"
+"PO-Revision-Date: 2021-02-14 09:41+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6881,7 +6881,7 @@ msgstr ""
 #. [race]: id=human
 #: data/core/units.cfg:191
 msgid "race^Human"
-msgstr "Člověk"
+msgstr "Muž"
 
 #. [race]: id=human
 #: data/core/units.cfg:192
