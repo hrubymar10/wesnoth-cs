@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-14 21:31+0100\n"
+"PO-Revision-Date: 2021-02-14 21:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7131,7 +7131,7 @@ msgstr "Informace o mapě"
 
 #: src/hotkey/hotkey_command.cpp:181
 msgid "Clear Selected Item Set"
-msgstr "Zruš vybranou sadu"
+msgstr "Zrušit vybranou sadu předmětů"
 
 # dlouhý text přidá v nastavení vodorovný posuvník a odsune sloupce GET doprava
 #: src/hotkey/hotkey_command.cpp:182
@@ -7156,7 +7156,7 @@ msgstr "Odstranit místo"
 
 #: src/hotkey/hotkey_command.cpp:188
 msgid "Add New Side"
-msgstr "Přidat Další stranu"
+msgstr "Přidat další stranu"
 
 #: src/hotkey/hotkey_command.cpp:190
 msgid "Next Tool"
@@ -7177,7 +7177,7 @@ msgstr ""
 
 #: src/hotkey/hotkey_command.cpp:193
 msgid "Fill Tool"
-msgstr "Vyplňovací nástroj"
+msgstr "Nástroj vyplňování"
 
 #: src/hotkey/hotkey_command.cpp:194
 msgid ""
@@ -7288,7 +7288,7 @@ msgstr "Přiřadí vybranou jednotku do seznamu verbování jiné jednotce."
 
 #: src/hotkey/hotkey_command.cpp:206
 msgid "Change Unit ID"
-msgstr "Změň ID jednotky"
+msgstr "Změnit ID jednotky"
 
 #: src/hotkey/hotkey_command.cpp:207
 msgid "Loyal"
