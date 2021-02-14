@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-14 08:27+0100\n"
+"PO-Revision-Date: 2021-02-14 10:14+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4172,21 +4172,21 @@ msgstr "Pohlaví:"
 #: src/gui/dialogs/multiplayer/faction_select.cpp:158
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:467
 msgid "Random"
-msgstr "Náhodný"
+msgstr "Náhodně"
 
 #. [row]
 #. [toggle_button]: id=male_toggle
 #: data/gui/window/mp_faction_select.cfg:178
 #: data/gui/window/unit_create.cfg:217
 msgid "Male"
-msgstr "Mužské"
+msgstr "Muž"
 
 #. [row]
 #. [toggle_button]: id=female_toggle
 #: data/gui/window/mp_faction_select.cfg:180
 #: data/gui/window/unit_create.cfg:229
 msgid "Female"
-msgstr "Ženské"
+msgstr "Žena"
 
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:210
@@ -4196,7 +4196,7 @@ msgstr "Rekruti:"
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:289
 msgid "Choose Your Faction"
-msgstr "Vyberte si frakci"
+msgstr "Vyber si svou frakci"
 
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:314
@@ -4228,7 +4228,7 @@ msgstr "Vyber frakci a vůdce pro tuto stranu"
 #. [label]
 #: data/gui/window/mp_join_game.cfg:155 data/gui/window/mp_staging.cfg:157
 msgid "<b>Faction:</b>"
-msgstr "<b>Frankce:</b>"
+msgstr "<b>Frakce:</b>"
 
 #. [label]
 #: data/gui/window/mp_join_game.cfg:187 data/gui/window/mp_staging.cfg:190
