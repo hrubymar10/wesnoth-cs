@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-14 21:01+0100\n"
+"PO-Revision-Date: 2021-02-14 21:15+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7312,15 +7312,15 @@ msgstr "Nejlepší možné tahy nepřítele"
 
 #: src/hotkey/hotkey_command.cpp:132
 msgid "Play Replay"
-msgstr "Přehrej záznam"
+msgstr "Přehrát záznam"
 
 #: src/hotkey/hotkey_command.cpp:133
 msgid "Reset Replay"
-msgstr "Resetuj záznam"
+msgstr "Znovu přehrát"
 
 #: src/hotkey/hotkey_command.cpp:134
 msgid "Stop Replay"
-msgstr "Zastav záznam"
+msgstr "Zastavit přehrávání"
 
 #: src/hotkey/hotkey_command.cpp:135
 msgid "Next Turn"
@@ -7352,7 +7352,7 @@ msgstr "Přeskočit animaci"
 
 #: src/hotkey/hotkey_command.cpp:142
 msgid "End Replay"
-msgstr "Ukončit záznam"
+msgstr "Ukončit přehrávání"
 
 #. TRANSLATORS: whiteboard menu entry: toggle planning mode
 #: src/hotkey/hotkey_command.cpp:145
