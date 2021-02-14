@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-13 11:04+0100\n"
+"PO-Revision-Date: 2021-02-14 07:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6948,19 +6948,19 @@ msgstr "Není definována žádná stránka."
 
 #: src/gui/widgets/multimenu_button.cpp:171
 msgid "multimenu^All Selected"
-msgstr ""
+msgstr "Vybráno vše"
 
 #: src/gui/widgets/multimenu_button.cpp:176
 msgid "multimenu^$excess other"
 msgid_plural "$excess others"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "$excess další"
+msgstr[1] "$excess další"
+msgstr[2] "$excess dalších"
 
 #: src/gui/widgets/multimenu_button.cpp:178
 #: src/gui/widgets/multimenu_button.cpp:234
 msgid "multimenu^None Selected"
-msgstr "Žádné nevybráno"
+msgstr "Nic nevybráno"
 
 #: src/gui/widgets/pane.cpp:416
 msgid "Need at least 1 parallel item."
