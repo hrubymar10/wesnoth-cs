@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-14 11:32+0100\n"
+"PO-Revision-Date: 2021-02-14 19:15+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3199,7 +3199,7 @@ msgstr "Otevřít složku s uloženými soubory"
 #: data/gui/window/game_save.cfg:42 data/gui/window/game_save_message.cfg:42
 #: data/gui/window/game_save_oos.cfg:42 src/hotkey/hotkey_command.cpp:99
 msgid "Save Game"
-msgstr "Ulož hru"
+msgstr "Uložit hru"
 
 #. [toggle_button]: id=ignore_all
 #: data/gui/window/game_save_oos.cfg:141
