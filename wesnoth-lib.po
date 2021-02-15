@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-02 12:37+0300\n"
-"PO-Revision-Date: 2021-02-14 21:47+0100\n"
+"PO-Revision-Date: 2021-02-15 17:51+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7520,7 +7520,7 @@ msgstr "Mluvit ke všem"
 
 #: src/hotkey/hotkey_command.cpp:278
 msgid "View Chat Log"
-msgstr "Podívat se na záznam rozhovoru"
+msgstr "Prohlížet záznam rozhovoru"
 
 #: src/hotkey/hotkey_command.cpp:279
 msgid "Enter User Command"
