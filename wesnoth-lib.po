@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-15 19:52+0100\n"
+"PO-Revision-Date: 2021-02-16 19:05+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5681,42 +5681,42 @@ msgstr "Text obsahuje neplatné Pango značky: "
 #. TRANSLATORS: Formats a two-element conjunctive list.
 #: src/formula/string_utils.cpp:260
 msgid "conjunct pair^$first and $second"
-msgstr ""
+msgstr "$first a $second"
 
 #. TRANSLATORS: Formats the first two elements of a conjunctive list.
 #: src/formula/string_utils.cpp:263
 msgid "conjunct start^$first, $second"
-msgstr ""
+msgstr "$first, $second"
 
 #. TRANSLATORS: Formats successive elements of a conjunctive list.
 #: src/formula/string_utils.cpp:267
 msgid "conjunct mid^$prefix, $next"
-msgstr ""
+msgstr "$prefix, $next"
 
 #. TRANSLATORS: Formats the final element of a conjunctive list.
 #: src/formula/string_utils.cpp:270
 msgid "conjunct end^$prefix, and $last"
-msgstr ""
+msgstr "$prefix a $last"
 
 #. TRANSLATORS: Formats a two-element disjunctive list.
 #: src/formula/string_utils.cpp:278
 msgid "disjunct pair^$first or $second"
-msgstr ""
+msgstr "$first nebo $second"
 
 #. TRANSLATORS: Formats the first two elements of a disjunctive list.
 #: src/formula/string_utils.cpp:281
 msgid "disjunct start^$first, $second"
-msgstr ""
+msgstr "$first, $second"
 
 #. TRANSLATORS: Formats successive elements of a disjunctive list.
 #: src/formula/string_utils.cpp:285
 msgid "disjunct mid^$prefix, $next"
-msgstr ""
+msgstr "$prefix, $next"
 
 #. TRANSLATORS: Formats the final element of a disjunctive list.
 #: src/formula/string_utils.cpp:288
 msgid "disjunct end^$prefix, or $last"
-msgstr ""
+msgstr "$prefix nebo $last"
 
 #: src/formula/string_utils.cpp:294 src/formula/string_utils.cpp:323
 msgid "timespan^expired"
