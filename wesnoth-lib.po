@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-17 01:59+0100\n"
+"PO-Revision-Date: 2021-02-17 02:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5720,63 +5720,63 @@ msgstr "$prefix nebo $last"
 
 #: src/formula/string_utils.cpp:294 src/formula/string_utils.cpp:323
 msgid "timespan^expired"
-msgstr ""
+msgstr "vypršel"
 
 #: src/formula/string_utils.cpp:300
 msgid "timespan^$num year"
-msgstr ""
+msgstr "$num rok"
 
 #: src/formula/string_utils.cpp:300
 msgid "timespan^$num years"
-msgstr ""
+msgstr "$num roky/roků"
 
 #: src/formula/string_utils.cpp:301
 msgid "timespan^$num month"
-msgstr ""
+msgstr "$num měsíc"
 
 #: src/formula/string_utils.cpp:301
 msgid "timespan^$num months"
-msgstr ""
+msgstr "$num měsíce/měsíců"
 
 #: src/formula/string_utils.cpp:302
 msgid "timespan^$num week"
-msgstr ""
+msgstr "$num týden"
 
 #: src/formula/string_utils.cpp:302
 msgid "timespan^$num weeks"
-msgstr ""
+msgstr "$num týdny/týdnů"
 
 #: src/formula/string_utils.cpp:303
 msgid "timespan^$num day"
-msgstr ""
+msgstr "$num den"
 
 #: src/formula/string_utils.cpp:303
 msgid "timespan^$num days"
-msgstr ""
+msgstr "$num dny/dní"
 
 #: src/formula/string_utils.cpp:304
 msgid "timespan^$num hour"
-msgstr ""
+msgstr "$num hodina"
 
 #: src/formula/string_utils.cpp:304
 msgid "timespan^$num hours"
-msgstr ""
+msgstr "$num hodin(y)"
 
 #: src/formula/string_utils.cpp:305
 msgid "timespan^$num minute"
-msgstr ""
+msgstr "$num minuta"
 
 #: src/formula/string_utils.cpp:305
 msgid "timespan^$num minutes"
-msgstr ""
+msgstr "$num minut(y)"
 
 #: src/formula/string_utils.cpp:306
 msgid "timespan^$num second"
-msgstr ""
+msgstr "$num vteřina"
 
 #: src/formula/string_utils.cpp:306
 msgid "timespan^$num seconds"
-msgstr ""
+msgstr "$num vteřin(y)"
 
 #: src/gui/core/canvas.cpp:610
 msgid "Line doesn't fit on canvas."
