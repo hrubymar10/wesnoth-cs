@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-16 19:12+0100\n"
+"PO-Revision-Date: 2021-02-17 02:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6518,6 +6518,8 @@ msgid ""
 "This unit cannot be recalled because you will not have enough gold at this "
 "point in your plan."
 msgstr ""
+"Tato jednotka nemůže být povolána, protože v tomto bodě tvého plánu nebudeš "
+"mít dost zlata."
 
 #: src/gui/dialogs/unit_recall.cpp:227
 msgid "This unit cannot be recalled because you do not have enough gold."
@@ -6543,7 +6545,7 @@ msgstr "Opravdu ji chceš propustit?"
 
 #: src/gui/dialogs/unit_recall.cpp:357
 msgid "This unit is an experienced one, having advanced levels."
-msgstr ""
+msgstr "Tato jednotka je zkušená, má pokročilé úrovně."
 
 #: src/gui/dialogs/unit_recall.cpp:362
 msgid "This unit is close to advancing a level."
@@ -6551,7 +6553,7 @@ msgstr "Tato jednotka bude brzy povýšena na další úroveň."
 
 #: src/gui/dialogs/unit_recall.cpp:368
 msgid "Dismiss Unit"
-msgstr "Propusť jednotku"
+msgstr "Propustit jednotku"
 
 #: src/gui/gui.cpp:84
 msgid "No default gui defined."
