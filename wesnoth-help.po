@@ -18,14 +18,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:17+0300\n"
-"PO-Revision-Date: 2021-02-14 09:41+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2021-02-18 19:27+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -1970,7 +1971,6 @@ msgstr "Úvod"
 msgid "Gameplay"
 msgstr "Pravidla hry"
 
-#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:29 data/core/help.cfg:517
@@ -5222,8 +5222,8 @@ msgid ""
 "Whether used offensively or defensively, this attack presses the engagement "
 "until one of the combatants is slain, or 30 rounds of attacks have occurred."
 msgstr ""
-"Ať už se použije v útoku nebo v obraně, boj trvá tak dlouho, dokud jeden z "
-"protivníků nezemře, nebo do počtu 30 útoků."
+"Ať už se použije ofenzivně nebo defensivně, boj trvá tak dlouho, dokud jeden "
+"z protivníků nezemře, nebo do počtu 30 útoků."
 
 #. [damage]: id=backstab
 #: data/core/macros/abilities.cfg:374
