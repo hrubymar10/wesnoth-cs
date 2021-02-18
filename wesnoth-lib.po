@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-17 02:31+0100\n"
+"PO-Revision-Date: 2021-02-18 23:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3913,7 +3913,7 @@ msgstr "Náhodné rozdělování frakcí:"
 #. [label]
 #: data/gui/window/mp_create_game.cfg:156
 msgid "Allow for mirror matchups when random factions are chosen."
-msgstr ""
+msgstr "Když jsou vybírány náhodné frakce, vzít v úvahu zrcadlené zápasy."
 
 #. [label]: id=mods_header
 #: data/gui/window/mp_create_game.cfg:203
@@ -6331,15 +6331,15 @@ msgstr "Žádný věk nenalezen"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:278
 msgid "Independent: Random factions assigned independently"
-msgstr ""
+msgstr "Nezávislé: náhodné frakce přiděleny nezávisle"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:279
 msgid "No Mirror: No two players will get the same faction"
-msgstr "Nezrcadlit: Hráč nebude mít stejnou frakci"
+msgstr "Nezrcadlit: žádní dva hráči nebudou mít stejnou frakci"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:280
 msgid "No Ally Mirror: No two allied players will get the same faction"
-msgstr "Nezrcadlit spojence: Spojenci nebudou mít stejnou frakci"
+msgstr "Nezrcadlit spojence: žádní dva spojenci nebudou mít stejnou frakci"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:535
 msgid "No eras available for this game."
@@ -6364,7 +6364,7 @@ msgstr "Vybrat počáteční scénář"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:911
 msgid "Select at which point to begin this campaign."
-msgstr ""
+msgstr "Vyber, odkud zahájit toto tažení."
 
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:210
 msgid "Computer Player"
