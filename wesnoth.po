@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-14 18:31+0100\n"
+"PO-Revision-Date: 2021-02-18 22:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7698,7 +7698,7 @@ msgstr "Tato jednotka nemá žádné použitelné zbraně."
 
 #: src/mp_game_settings.hpp:71
 msgid "Independent"
-msgstr "Nezávisle"
+msgstr "Nezávislé"
 
 #: src/mp_game_settings.hpp:72
 msgid "No Mirror"

@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-17 02:23+0100\n"
+"PO-Revision-Date: 2021-02-18 23:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2140,7 +2140,7 @@ msgstr "Vyhledat"
 msgid ""
 "There are no custom options available for the selected era, game, or "
 "modification."
-msgstr ""
+msgstr "Pro vybranou éru, hru nebo pozměnění neexistují vlastní možnosti."
 
 #. [button]: id=reset_option_values
 #. [button]: id=btn_reset_hotkeys
@@ -4148,7 +4148,7 @@ msgstr "Náhodné rozdělování frakcí:"
 #. [label]
 #: data/gui/window/mp_create_game.cfg:156
 msgid "Allow for mirror matchups when random factions are chosen."
-msgstr ""
+msgstr "Když jsou vybírány náhodné frakce, vzít v úvahu zrcadlené zápasy."
 
 #. [toggle_button]: id=use_map_settings
 #: data/gui/window/mp_create_game.cfg:313
@@ -6614,15 +6614,15 @@ msgstr "Žádný věk nenalezen"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:273
 msgid "Independent: Random factions assigned independently"
-msgstr ""
+msgstr "Nezávislé: náhodné frakce přiděleny nezávisle"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:274
 msgid "No Mirror: No two players will get the same faction"
-msgstr "Nezrcadlit: Hráč nebude mít stejnou frakci"
+msgstr "Nezrcadlit: žádní dva hráči nebudou mít stejnou frakci"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:275
 msgid "No Ally Mirror: No two allied players will get the same faction"
-msgstr "Nezrcadlit spojence: Spojenci nebudou mít stejnou frakci"
+msgstr "Nezrcadlit spojence: žádní dva spojenci nebudou mít stejnou frakci"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:523
 msgid "No eras available for this game."
@@ -6647,7 +6647,7 @@ msgstr "Vybrat počáteční scénář"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:901
 msgid "Select at which point to begin this campaign."
-msgstr ""
+msgstr "Vyber, odkud zahájit toto tažení."
 
 #: src/gui/dialogs/multiplayer/mp_join_game.cpp:210
 msgid "Computer Player"
