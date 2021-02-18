@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 14:18 UTC\n"
-"PO-Revision-Date: 2021-01-27 22:58+0100\n"
+"PO-Revision-Date: 2021-02-18 10:29+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1020,7 +1020,7 @@ msgstr "Shánění runového mistra"
 #. [side]: type=Orcish Warrior, id=Bragdash
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:31
 msgid "Bragdash Gar"
-msgstr ""
+msgstr "Bragdaš Gar"
 
 #. [side]: type=Orcish Warrior, id=Bragdash
 #. [side]
@@ -1034,12 +1034,12 @@ msgstr "Skřeti"
 #. [side]: type=Goblin Rouser, id=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:49
 msgid "Pidmer Gar"
-msgstr ""
+msgstr "Pidmer Gar"
 
 #. [side]: type=Goblin Rouser, id=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:56
 msgid "Goblins"
-msgstr ""
+msgstr "Goblini"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:66
@@ -1049,6 +1049,10 @@ msgid ""
 "group could make good time. After a few days journey, they saw a dim red "
 "glow in the tunnel ahead, and could feel sporadic vibrations in the rails."
 msgstr ""
+"Cesta do dalekých severních pustin byla dlouhá a nebezpečná. Tunely byly "
+"úzké, ale pokud se drželi starých důlních kolejí, mohli Rugnur a jeho "
+"skupina postupovat bez větších obtíží. Po několika dnech cesty spatřili v "
+"tunelu před sebou tlumenou rudou záři a v kolejích cítili sporadické vibrace."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:69
@@ -1056,16 +1060,18 @@ msgid ""
 "As the group got near the source of the glow, they heard metallic banging "
 "and guttural shouting, and their noses were assaulted by a fetid smell..."
 msgstr ""
+"Když se přiblížili ke zdroji záře, uslyšeli kovové bouchání a hrdelní křik a "
+"v nosech je zaštípal hnusný zápach..."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:83
 msgid "Reach the top of the map with Rugnur, Baglur, and Alanin"
-msgstr ""
+msgstr "Rugnur, Baglur a Alanin dosáhnou horního okraje mapy"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:140
 msgid "Those are orcs, aren't they?"
-msgstr ""
+msgstr "To jsou skřeti, že jo?"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:144
@@ -1073,11 +1079,12 @@ msgid ""
 "Aye, in all their destructive glory. Looks like they're trying to strip the "
 "metal from the rails."
 msgstr ""
+"Jo, v celé své ničivé slávě. Vypadá to, že se snaží získávat kov z kolejnic."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:148
 msgid "That's terrible, someone should stop them!"
-msgstr ""
+msgstr "To je hrozné, někdo by je měl zastavit!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:152
@@ -1085,16 +1092,18 @@ msgid ""
 "Do orcs always stink so bad? I've heard that they are stupid and messy, but "
 "this is almost unbearable!"
 msgstr ""
+"Smrdí skřeti fakt tak hrozně? Slyšel jsem, že jsou hloupí a špinaví, ale "
+"tohle je téměř nesnesitelné!"
 
 #. [message]: speaker=Bragdash
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:156
 msgid "We see you, we hear you, sneaky little moles! Pidmer, go skewer them!"
-msgstr ""
+msgstr "Vidíme a slyšíme vás, vy záludný malý krťáci! Pidmere, jděte do nich!"
 
 #. [message]: speaker=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:160
 msgid "Um... Aren't we needed for the salvage?"
-msgstr ""
+msgstr "Eh... Nestojíme ti za ochranu?"
 
 #. [message]: speaker=Bragdash
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:164
@@ -1103,16 +1112,20 @@ msgid ""
 "It takes a strong orc to break that steel, you go deal with those little "
 "cave rats. You can keep their shiny helmets, they might fit you!"
 msgstr ""
+"Ne! Napínali a namáhali jste se, co to šlo, ale tyhle kovový lajny vám "
+"odolaly! Na rozbití tý ocele je třeba silnýho skřeta, vy se musíte vypořádat "
+"s těma malýma jeskynníma krysama. Můžete si nechat jejich lesklý přilby, "
+"mohly by vám padnout!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:168
 msgid "Uh, well, we're not getting through without a fight..."
-msgstr ""
+msgstr "Nu dobrá, bez boje dál neprojdeme...,"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:173
 msgid "... Let's set up a base here."
-msgstr ""
+msgstr "... pojďme si tu udělat základnu."
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:205
@@ -1120,6 +1133,8 @@ msgid ""
 "This old cart still rolls smoothly on the track... It's forged by us "
 "dwarves, I shouldn't be surprised!"
 msgstr ""
+"S tímhle starým vozíkem jde stále hladce posouvat po trati... Je to kovářské "
+"dílo trpaslíků, neměl bych se divit! "
 
 #. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:210
@@ -1260,6 +1275,8 @@ msgid ""
 "Another day older, another foot stuck in the sludge! Let's start with some "
 "soft clay... Rugnur, how goes it at the western gate?"
 msgstr ""
+"Zas o další den starší a pořád jak chycenej po kolena v bahně! Pro začátek "
+"si zkusím podat nějakého měkouše... Rugnure, jak to jde u západní brány?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:136
@@ -1268,16 +1285,12 @@ msgstr "...?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:140
-#, fuzzy
-#| msgid ""
-#| "Where’s that fool Rugnur gotten to? It’s time for him to report on events "
-#| "in the surface world. He’s late!"
 msgid ""
 "Where's that fool Rugnur? He should be here to report on events in the "
 "surface world. He’s late!"
 msgstr ""
-"Kam se ten Rugnur poděl? Je čas, aby podal hlášení o událostech na povrchu. "
-"Má zpoždění!"
+"Kde ten hlupák Rugnur vězí? Je čas, aby podal hlášení o událostech na "
+"povrchu. Má zpoždění!"
 
 #. [message]: speaker=Noiraran
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:144
@@ -1305,16 +1318,12 @@ msgstr "Jen ať si zkusí ho vzít!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:165
-#, fuzzy
-#| msgid ""
-#| "Hey, Durstorn, have we started yet? King Haldric came by just now, wanted "
-#| "to talk to you..."
 msgid ""
 "(whew!) Sorry I'm late, but King Haldric came by just now, wanted to talk to "
 "you..."
 msgstr ""
-"Hej, Durstorne, už jsme začali? Král Haldrik u mne byl kvůli důležité "
-"záležitosti..."
+"(fíha!) Omlouvám se, že jdu pozdě, ale právě tu byl král Haldrik a chtěl s "
+"vámi mluvit..."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:169
@@ -1328,10 +1337,8 @@ msgstr "Cože? Nepřišel posel a nepředal ti zprávu?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:177
-#, fuzzy
-#| msgid "So what are you going to do?"
 msgid "No, what are you talking about?"
-msgstr "Tak co hodláš udělat?"
+msgstr "Ne, o čem to mluvíš?"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:181
@@ -1363,12 +1370,12 @@ msgstr ""
 #. [message]: speaker=Kuhnar
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:194
 msgid "Why were the elves attacking?"
-msgstr ""
+msgstr "Proč ty elfové útočili?"
 
 #. [message]: speaker=Noiraran
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:198
 msgid "More important than that, what'd the king offer for this sceptre, eh?"
-msgstr ""
+msgstr "Důležitější než elfové je to, kolik král za žežlo nabídl, hm?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:202
@@ -1394,31 +1401,22 @@ msgstr ""
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:210
-#, fuzzy
-#| msgid ""
-#| "Sorry, lord, but he said he would move on to another tribe if I left."
 msgid "Sorry, lord, but he said he would move on to another clan if I left."
-msgstr "Promiňte, pane. Ale tvrdil, že půjde za jiným kmenem, když odejdu."
+msgstr "Promiňte, pane. Ale tvrdil, že půjde za jiným klanem, když odmítnu."
 
 # schválně trochu nedoslovné
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:214
-#, fuzzy
-#| msgid ""
-#| "Can’t you tell a bluff when you hear one?! He knows we’re the best "
-#| "craftsmen, and he wouldn’t have gone to another tribe if we stalled for a "
-#| "year. Oh well, what’s done is done. We’ll have to work for less than I "
-#| "would prefer..."
 msgid ""
 "Can’t you tell a bluff when you hear one?! He knows we’re the best "
 "craftsmen, and he wouldn’t have gone to another clan if we stalled for a "
 "year. Oh well, what’s done is done. We’ll have to work for less than I would "
 "prefer..."
 msgstr ""
-"Neumíš poznat klam, když nějaký slyšíš?! On ví, že jsme nejlepší řemeslníci "
-"a neodešel by za jiným kmenem, ani kdybychom se měli dohadovat celý rok. "
-"Inu, co je dohodnuto je dohodnuto. Budeme pracovat za méně než by se mi "
-"líbilo..."
+"Neumíš poznat klam, když nějaký slyšíš?! On ví, že my jsme ti nejlepší "
+"řemeslníci. Neodešel by za jiným klanem, ani kdybychom se měli dohadovat "
+"celý rok. Inu, co je dohodnuto je dohodnuto. Budeme pracovat za méně než by "
+"se mi líbilo..."
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:218
@@ -1445,19 +1443,14 @@ msgstr "Myslíš toho bláznivého trpaslíka, který žije daleko na severu?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:230
-#, fuzzy
-#| msgid ""
-#| "Yes. He is the only one I know of who could craft the sceptre the way "
-#| "Haldric wants it. And he has nothing to do; he will be fine with wasting "
-#| "25 years of his life on this task."
 msgid ""
 "Yes. He is the only one I know of who could craft the sceptre the way "
 "Haldric wants it, bad magic and all. And he has nothing to do; he will be "
 "fine with wasting 25 years of his life on this insane task."
 msgstr ""
-"Ano. Je jediný, o kom vím, kdo dokáže vytvořit žezlo takovým způsobem jakým "
-"to Haldrik žádá. A jelikož nemá co na práci, nebude mu vadit ztratit 25 let "
-"života takovým úkolem."
+"Ano. Je jediný, o kom vím, že dokáže vytvořit žezlo takovým způsobem, jakým "
+"to Haldrik žádá, se vší tou magií a tak. A jelikož nemá co na práci, nebude "
+"mu vadit ztratit 25 let života nad tak šíleným úkolem."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:234
@@ -1480,23 +1473,26 @@ msgstr ""
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:242
 msgid "Thank you, Lord. I'll find him and do us proud!"
-msgstr ""
+msgstr "Děkuji vám, pane. Najdu ho. Budete na nás hrdý!"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:246
 msgid ""
 "Too late for that, young fool. But go on, I can see there's hope for you yet."
 msgstr ""
+"Na to je pozdě, mladý blázne. Ale pokračujte, vidím, že pro vás ještě "
+"existuje naděje."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:259
 msgid "What did I miss, eh?"
 msgstr "Co jsem zmeškal, hm?"
 
+# Přidáno jméno, aby to bylo jasnější.
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:263
 msgid "Where have you been? Lord-"
-msgstr ""
+msgstr "Kde jsi byl? Pan Durstorn..."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:267
@@ -1504,6 +1500,8 @@ msgid ""
 "A friend of Rugnur, huh? ... Follow him north. He needs all the help he can "
 "get!"
 msgstr ""
+"Rugnurův přítel, že...? Půjdeš s ním na sever. Hodí se mu každá pomocná "
+"ruka, co může získat!"
 
 #. [scenario]: id=3_Searching_for_the_Runecrafter
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:3
