@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-19 20:25+0100\n"
+"PO-Revision-Date: 2021-02-19 20:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6169,6 +6169,7 @@ msgstr "Stahování dat čekárny"
 #: src/gui/dialogs/lua_interpreter.cpp:690
 msgid "The lua console can only be used in debug mode! (Run ':debug' first)"
 msgstr ""
+"Konzoli lua lze použít pouze v režimu ladění! (Nejdřív spusť „:debug“.)"
 
 #: src/gui/dialogs/lua_interpreter.cpp:691
 msgid "lua console"
