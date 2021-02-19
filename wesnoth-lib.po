@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-19 20:55+0100\n"
+"PO-Revision-Date: 2021-02-19 21:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3402,7 +3402,7 @@ msgstr "Bitva o Wesnoth"
 #. [widget]: id=tab_label
 #: data/gui/window/game_version.cfg:528
 msgid "Paths"
-msgstr "Cesta"
+msgstr "Cesty"
 
 #. [widget]: id=tab_label
 #: data/gui/window/game_version.cfg:541
@@ -5403,7 +5403,7 @@ msgstr "Kořenový adresář"
 
 #: src/desktop/version.cpp:274
 msgid "operating_system^<unknown>"
-msgstr "<neznámý>"
+msgstr "<neznámý OS>"
 
 #: src/font/marked-up_text.cpp:402
 msgid "The maximum text width is less than 1."
