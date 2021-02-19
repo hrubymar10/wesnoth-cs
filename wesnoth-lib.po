@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-18 23:12+0100\n"
+"PO-Revision-Date: 2021-02-19 18:49+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5636,24 +5636,28 @@ msgstr "<neznámý>"
 #. TRANSLATORS: translate the part inside <...> only
 #: src/filesystem.cpp:637
 msgid "--userdata-dir=<relative path that doesn't start with a period>"
-msgstr ""
+msgstr "--userdata-dir=<relativní cesta, která nezačíná tečkou>"
 
 #: src/filesystem.cpp:640
 msgid ""
 "Use an absolute path, or a relative path that starts with a period and a "
 "backslash"
 msgstr ""
+"Použij absolutní cestu nebo relativní cestu, která začíná tečkou a zpětným "
+"lomítkem"
 
 #. TRANSLATORS: translate the part inside <...> only
 #: src/filesystem.cpp:705 src/filesystem.cpp:726
 msgid "--userdata-dir=<relative path>"
-msgstr ""
+msgstr "--userdata-dir=<relativní cesta>"
 
 #: src/filesystem.cpp:708 src/filesystem.cpp:729
 msgid ""
 "Use absolute paths. Relative paths are deprecated because they are "
 "interpreted relative to $HOME"
 msgstr ""
+"Použij absolutní cesty. Relativní cesty jsou zastaralé, protože jsou "
+"interpretovány relativně k $HOME"
 
 # TODO: cs,sk?
 #. TRANSLATORS: This is the language code which will be used
@@ -6220,6 +6224,8 @@ msgid ""
 "Could not delete $path|. Make sure you have the appropriate permissions to "
 "write to this location."
 msgstr ""
+"$path| se nepodařilo smazat. Ujisti se, že máš k zápisu do tohoto umístění "
+"příslušná oprávnění."
 
 #: src/gui/dialogs/folder_create.cpp:60
 msgid "New Bookmark"
