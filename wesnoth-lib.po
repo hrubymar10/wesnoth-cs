@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-01-16 17:18+0300\n"
-"PO-Revision-Date: 2021-02-19 23:19+0100\n"
+"PO-Revision-Date: 2021-02-20 00:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -754,6 +754,12 @@ msgid ""
 "fungus are wanted, 'Tb' is a mushroom base terrain, which can be used with "
 "or without '^Tf' on top."
 msgstr ""
+"Překryvy „^Uf“ a „^Ufi“ jsou zastaralé, protože i když grafika ukazuje "
+"překryv s jiným terénem vespod, vlastnosti pohybu a obrany jsou čistě terénu "
+"hub, spodní terén se nebere v úvahu. Doporučené náhrady jsou „^Tf“ a „^Tfi“, "
+"které vypadají stejně, ale mají vlastnosti vyplývající z grafiky. Pro "
+"políčka, která mají mít čistě vlastnosti hub, je základním houbovým terénem "
+"„Tb“, který může a nemusí být použit s „^Tf“ na vrchu."
 
 #. [terrain_type]: id=fungus_grove_old
 #. [terrain_type]: id=fungus_beam_old
@@ -2140,7 +2146,7 @@ msgstr "Vyhledat"
 msgid ""
 "There are no custom options available for the selected era, game, or "
 "modification."
-msgstr "Pro vybranou éru, hru nebo pozměnění neexistují vlastní možnosti."
+msgstr "Pro vybranou éru, hru nebo modifikaci neexistují vlastní možnosti."
 
 #. [button]: id=reset_option_values
 #. [button]: id=btn_reset_hotkeys
@@ -2504,7 +2510,7 @@ msgstr "Bonus z velení"
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:86
 msgid "Slowed penalty"
-msgstr ""
+msgstr "Postih zpomalení"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:90
@@ -5202,7 +5208,7 @@ msgstr "Konfigurovat možnosti"
 #. [label]
 #: data/gui/window/sp_options_configure.cfg:62
 msgid "Configure settings for the selected custom modifications."
-msgstr ""
+msgstr "Konfigurovat nastavení vybraných vlastních modifikací."
 
 #. [label]
 #: data/gui/window/statistics_dialog.cfg:141
@@ -5239,7 +5245,7 @@ msgstr ""
 #. [column]
 #: data/gui/window/statistics_dialog.cfg:553
 msgid "stats dialog^Ratio of actual to expected"
-msgstr ""
+msgstr "Poměr skutečného k očekávanému"
 
 #. [column]
 #: data/gui/window/statistics_dialog.cfg:568
