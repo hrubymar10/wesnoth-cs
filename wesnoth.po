@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-18 23:55+0100\n"
+"PO-Revision-Date: 2021-02-20 00:51+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3938,7 +3938,7 @@ msgstr "Alternativní server Wesnothu"
 msgid ""
 "There are no custom options available for the selected era, game, or "
 "modification."
-msgstr "Pro vybranou éru, hru nebo pozměnění neexistují vlastní možnosti."
+msgstr "Pro vybranou éru, hru nebo modifikaci neexistují vlastní možnosti."
 
 #. [button]: id=reset_option_values
 #: data/gui/macros/custom_options_tree.cfg:249

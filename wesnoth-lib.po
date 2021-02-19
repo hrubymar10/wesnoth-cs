@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-19 23:20+0100\n"
+"PO-Revision-Date: 2021-02-20 00:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2393,7 +2393,7 @@ msgstr "Bonus z velení"
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:86
 msgid "Slowed penalty"
-msgstr ""
+msgstr "Postih zpomalení"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:90
@@ -5004,7 +5004,7 @@ msgstr "Konfigurovat možnosti"
 #. [label]
 #: data/gui/window/sp_options_configure.cfg:62
 msgid "Configure settings for the selected custom modifications."
-msgstr ""
+msgstr "Konfigurovat nastavení vybraných vlastních modifikací."
 
 #. [label]
 #: data/gui/window/statistics_dialog.cfg:129
