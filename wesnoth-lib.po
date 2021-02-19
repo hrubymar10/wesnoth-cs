@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-19 21:13+0100\n"
+"PO-Revision-Date: 2021-02-19 23:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5081,12 +5081,12 @@ msgstr "Vrstva"
 #. [label]
 #: data/gui/window/terrain_layers.cfg:81
 msgid "Base.x"
-msgstr ""
+msgstr "Základ.x"
 
 #. [label]
 #: data/gui/window/terrain_layers.cfg:93
 msgid "Base.y"
-msgstr ""
+msgstr "Základ.y"
 
 #. [label]
 #: data/gui/window/terrain_layers.cfg:105
@@ -5101,7 +5101,7 @@ msgstr "Vrstvy terénu"
 #. [label]
 #: data/gui/window/terrain_layers.cfg:384
 msgid "Flags"
-msgstr "Vlajky"
+msgstr "Příznaky"
 
 #. [label]
 #: data/gui/window/theme_list.cfg:51
