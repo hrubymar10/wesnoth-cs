@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-01-28 19:39+0100\n"
+"PO-Revision-Date: 2021-02-20 16:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1285,7 +1285,7 @@ msgstr "Přesuň Thursagana na ukazatel"
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:444
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:560
 msgid "Death of Krawg"
-msgstr "Krawg zemře"
+msgstr "Kravág zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:151
@@ -1330,8 +1330,8 @@ msgid ""
 "live this far north! Even the elves won’t challenge us here."
 msgstr ""
 "Jeho dům bude pravděpodobně jediný tady nahoře. Nikdo jiný není tolik "
-"šílený, aby žil tak daleko na severu. Dokonce ani elfové tady s námi "
-"nechtějí bojovat."
+"šílený, aby žil tak daleko na severu. Dokonce ani elfové se tady s námi "
+"nechtějí potýkat."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:229
@@ -1350,7 +1350,7 @@ msgstr "Správně. Pravděpodobně se k němu budeme muset probojovat."
 #. [unit]: type=Gryphon, id=Krawg
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:341
 msgid "Krawg"
-msgstr "Krawg"
+msgstr "Kravág"
 
 #. [message]: speaker=Krawg
 #. Krawg's speech is purposely very distorted -- he has the
@@ -1358,7 +1358,7 @@ msgstr "Krawg"
 #. "Will you speak with us?"
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:356
 msgid "Kwill yooo spakkk wit uus?!"
-msgstr "Budeetess náámim mlvit?!"
+msgstr "Budeetéss náámim mlvit?!"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:361
@@ -1473,7 +1473,7 @@ msgid ""
 "Oh, and now I suppose Durstorn wants me to craft it, eh? Well I’m not going "
 "to."
 msgstr ""
-"Oh. A předpokládám, že Durstorn chce, abych ho vytvořil já. No, to neudělám."
+"Och. A předpokládám, že Durstorn chce, abych ho vytvořil já. No, to neudělám."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:541
@@ -1569,7 +1569,7 @@ msgstr ""
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:135
 msgid "Yes, we did. And that is Krawg, who helped us in the Northlands."
-msgstr "Ano, našli. A toto je Krawg, který nám pomohl v severních zemích."
+msgstr "Ano, našli. A toto je Kravág, který nám pomohl v severních zemích."
 
 #. [message]: speaker=Krawg
 #. "Yeah! Me Krawg!"
@@ -1747,7 +1747,7 @@ msgstr ""
 #. "Me, too!"
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:257
 msgid "M’ ’u!"
-msgstr "Ja tak!"
+msgstr "Jáá tááák!"
 
 #. [scenario]: id=4_Gathering_Materials
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:3
@@ -3577,7 +3577,7 @@ msgid ""
 "Gryphon."
 msgstr ""
 "A tak Rugnur zahynul – slavná smrt v očích trpasličích mudrců. Ale náš "
-"příběh ještě neskončil. Alanin stále žil, stejně jako Krawg Gryfon."
+"příběh ještě neskončil. Alanin stále žil, stejně jako gryfon Kravág."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:40
@@ -3594,8 +3594,8 @@ msgid ""
 "And Krawg — well, Krawg followed him. I know not how. But Krawg made his way "
 "south, to Weldyn, and reached it about the time that Alanin did."
 msgstr ""
-"A Krawg... no, Krawg ho následoval. Nevím jak. Ale Krawg zvládl svou cestu "
-"na jih do Weldynu stejně rychle jako Alanin."
+"A Kravág... no, Kravág ho následoval. Nevím jak. Ale Kravág zvládl svou "
+"cestu na jih do Weldynu stejně rychle jako Alanin."
 
 #. [unit]: type=Royal Guard, id=Guard Captain
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:63
@@ -3719,7 +3719,7 @@ msgstr ""
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:158
 msgid "I will let Krawg explain that."
-msgstr "Nechám to Krawga vysvětlit."
+msgstr "Nechám to Kravága vysvětlit."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:162
@@ -3739,8 +3739,8 @@ msgid ""
 "No, that is my... friend Krawg. He went with Rugnur into the caves, but "
 "escaped through a hole in the roof right before the lava filled the cave."
 msgstr ""
-"Ne, to je můj... přítel Krawg. Odešel s Rugnurem do jeskyně, ale uprchl, než "
-"láva naplnila jeskyni."
+"Ne, to je můj... přítel Kravág. Odešel s Rugnurem do jeskyní, ale unikl "
+"dírou ve stropě těsně před tím, než láva jeskyni naplnila."
 
 #. [message]: speaker=Krawg
 #. "Yes, yes. I saw the sceptre. Rugnur had it. Lost it in the cave."
@@ -3897,7 +3897,7 @@ msgstr "Ahhgg..."
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:71
 msgid "Kraa..."
-msgstr "Kraa..."
+msgstr "Kráá..."
 
 #~ msgid "Kill all of the elves before one of them escapes from the caves"
 #~ msgstr "Zabij všechny elfy dříve, než některý unikne z jeskyně"
