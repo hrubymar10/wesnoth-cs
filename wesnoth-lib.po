@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-20 00:47+0100\n"
+"PO-Revision-Date: 2021-02-20 01:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5833,7 +5833,7 @@ msgstr "Chceš odinstalovat '$addon|'?"
 
 #: src/gui/dialogs/advanced_graphics_options.cpp:75
 msgid "No matching widget found for scaling option"
-msgstr ""
+msgstr "Pro volbu škálování nebyl nalezen odpovídající widget"
 
 #: src/gui/dialogs/attack_predictions.cpp:116
 msgid "No usable weapon"
