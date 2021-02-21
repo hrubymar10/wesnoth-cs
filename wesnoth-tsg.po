@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 21:40 UTC\n"
-"PO-Revision-Date: 2020-12-07 22:43+0100\n"
+"PO-Revision-Date: 2021-02-21 14:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2396,10 +2396,6 @@ msgstr ""
 #. [message]: speaker=narrator
 #. All of Urza Afalas’s units have been transferred to the player’s side. The troops who attacked or were recruited last turn can’t attack this turn; the others can. The “disengaged” orb is the one used for Under the Burning Sun’s disengage ability.
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:890
-#, fuzzy
-#| msgid ""
-#| "Urza Afalas’s troops are exhausted from battle and cannot attack this "
-#| "turn, but are still able to withdraw and reposition themselves."
 msgid ""
 "Many of Urza Afalas’s troops are exhausted from battle and cannot attack "
 "this turn, but are still able to withdraw and reposition themselves.\n"
@@ -2407,8 +2403,11 @@ msgid ""
 "Units that can move but can’t attack are shown with the <i>disengaged</i> "
 "orb."
 msgstr ""
-"Oddíly Urzy Afalase jsou vyčerpané z bitvy a toto kolo nemohou útočit, ale "
-"stále jsou schopny se stáhnout a přemístit."
+"Mnoho oddílů Urzy Afalase je vyčerpaných z bitvy a v tomto kole nemohou "
+"útočit, ale stále jsou schopny se stáhnout a přemístit.\n"
+"\n"
+"Jednotky, které se mohou pohnout, ale nejsou schopny zaútočit, jsou ukázány "
+"s koulí <i>uvolněných</i>."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:924
