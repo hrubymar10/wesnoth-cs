@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 21:40 UTC\n"
-"PO-Revision-Date: 2021-02-21 00:52+0100\n"
+"PO-Revision-Date: 2021-02-21 09:54+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -509,10 +509,6 @@ msgstr "Dle rozkazu. Vydám se na cestu společně se zlatem."
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:487
-#, fuzzy
-#| msgid ""
-#| "Hey!  You can’t do that — this road is an elvish road. We’re not letting "
-#| "you transport gold and jewels on it without paying a toll."
 msgid ""
 "Hey! You can’t do that — this road is an elvish road. We’re not letting you "
 "transport gold and jewels on it without paying a toll."
@@ -3473,10 +3469,6 @@ msgstr ""
 
 #. [message]: id=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:249
-#, fuzzy
-#| msgid ""
-#| "Even though my chances have grown worse, I have to fulfil my duty. I do "
-#| "not owe them any less!"
 msgid ""
 "Even though my chances have grown worse, I have to fulfill my duty. I do not "
 "owe them any less!"
