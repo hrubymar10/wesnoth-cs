@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-02-20 16:55+0100\n"
+"PO-Revision-Date: 2021-02-21 09:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -616,8 +616,8 @@ msgid ""
 "Ha! Our reinforcements have arrived. There is no way you can withstand our "
 "combined strength!"
 msgstr ""
-"Ha! Naše posily přijely. Není způsob, jak by jste mohli odolávat naší "
-"spojené síle."
+"Ha! Naše posily dorazily. Není způsob, jak byste mohli odolávat naší spojené "
+"síle!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:598
@@ -1638,8 +1638,8 @@ msgid ""
 "Hm... a most interesting jewel. I can feel its magical power. I will start "
 "drawing up plans for the sceptre immediately."
 msgstr ""
-"Hm... skutečně zajímavý drahokam. Cítím jeho magickou sílu. Neprodleně začnu "
-"kreslit plány pro žezlo."
+"Hm... skutečně zajímavý drahokam. Cítím jeho magickou sílu. Hned začnu "
+"kreslit plány žezla."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:187
@@ -1670,8 +1670,8 @@ msgid ""
 "Just use my gold and coal, I have enough! Or, if they’re not ‘good enough’ "
 "for you, find them yourself."
 msgstr ""
-"Jen použij mé zlato a uhlí, mám dost! Nebo jestli nejsou pro tebe „dost "
-"dobré“, najdi si vlastní."
+"Použij prostě mé zlato a uhlí, mám ho dost! Nebo jestli nejsou pro tebe "
+"„dost dobré“, najdi si vlastní."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:203
@@ -1715,9 +1715,9 @@ msgid ""
 "mines, and I will bring some runecrafters-in-training from the academy to "
 "help fight these enemies."
 msgstr ""
-"To je přijatelné. Durstorne, pošli s námi nějaké horníky do východních dolů "
-"a já přivedu nějaké runové řemeslníky z akademie, aby nám pomohli bojovat "
-"proti nepřátelům."
+"To je přijatelné. Durstorne, pošli s námi do východních dolů nějaké horníky. "
+"A já přivedu nějaké runové učedníky z akademie, aby nám pomohli bojovat s "
+"nepřáteli."
 
 #. [unit]: type=Dwarvish Runesmith, id=Kinan    # wmllint: ignore
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:226
