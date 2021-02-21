@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 21:40 UTC\n"
-"PO-Revision-Date: 2021-02-01 22:49+0100\n"
+"PO-Revision-Date: 2021-02-21 14:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4453,10 +4453,8 @@ msgstr ""
 
 #. [special_note]
 #: data/core/units/humans/Loyalist_Royal_Guard.cfg:25
-#, fuzzy
-#| msgid "Compared to other loyalists, Royal Guards have more movepoints."
 msgid "Compared to other loyalists, Royal Guards have more movement points."
-msgstr "Oproti ostatním věrným má královská stráž více kroků."
+msgstr "Oproti ostatním věrným má královská stráž více bodů pohybu."
 
 #. [unit_type]: id=Sergeant, race=human
 #: data/core/units/humans/Loyalist_Sergeant.cfg:4
@@ -5761,19 +5759,11 @@ msgstr ""
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 #: data/core/units/monsters/Cuttle_Fish.cfg:4
-#, fuzzy
-#| msgid "Cuttle Fish"
 msgid "Cuttlefish"
 msgstr "Sépie"
 
 #. [unit_type]: id=Cuttle Fish, race=monster
 #: data/core/units/monsters/Cuttle_Fish.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Cuttle Fish are gigantic creatures of the seas. They can grab their "
-#| "opponents with strong tentacles, or spit a poisonous black ink from a "
-#| "distance. The best way to survive an encounter with these monsters is to "
-#| "remain ashore."
 msgid ""
 "Cuttlefish are gigantic creatures of the seas. They can grab their opponents "
 "with strong tentacles, or spit a poisonous black ink from a distance. The "
@@ -6966,17 +6956,6 @@ msgstr "Skřetí mordýř"
 
 #. [unit_type]: id=Orcish Slayer, race=orc
 #: data/core/units/orcs/Slayer.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Skilled orcish assassins are surprisingly nimble covert troops who "
-#| "achieve great agility by forgoing the heavy armor of their brethren. "
-#| "Their weapon of choice, poison, is often critized as a vicious tool "
-#| "unsuited for the established customs of typical warfare. Most orcs, "
-#| "however, recognize no such laws of combat and seek to attain victory by "
-#| "any means necessary. Defeat, no matter the reason, is usually treated as "
-#| "the greatest dishonor possible. The brutal nature of the total war that "
-#| "orcs engage in is precisely what gives rise to these ruthless soldiers, "
-#| "rightly dubbed ‘Slayers’ by their enemies."
 msgid ""
 "Skilled orcish assassins are surprisingly nimble covert troops who achieve "
 "great agility by forgoing the heavy armor of their brethren. Their weapon of "
@@ -7777,14 +7756,6 @@ msgstr "Vrhač kostí"
 
 #. [unit_type]: id=Bone Shooter, race=undead
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:16
-#, fuzzy
-#| msgid ""
-#| "Of a dark sorcerer’s creations, some take more strongly to the false life "
-#| "given them. The potency of their un-life is given equipment to match; "
-#| "archers, in particular, are often outfitted with a truly vile arsenal. "
-#| "Their quivers are filled with shafts made not of wood, but of the bones "
-#| "of their victims. It follows that they are dubbed simply ‘Bone-Shooters’ "
-#| "by their unfortunate enemies."
 msgid ""
 "Of a dark sorcerer’s creations, some take more strongly to the false life "
 "given them. The potency of their unlife is given equipment to match; "
@@ -7793,12 +7764,12 @@ msgid ""
 "victims. It follows that they are dubbed simply ‘Bone-Shooters’ by their "
 "unfortunate enemies."
 msgstr ""
-"Některé ze stvoření temných čarodějů začnou velmi lpět na svém falešném "
-"bytí. Vůle k životu je podepřena odpovídajícími nástroji; zvláště "
-"lukostřelci jsou v tomto ohledu vybaveni vpravdě hanebnými zbraněmi. Jejich "
-"toulec je naplněn šípy, které nejsou vytvořeny ze dřeva, ale z kostí jejich "
-"obětí. Takže jsou svými protivníky jednoduše nazývání „Vrhači kostí“. Tato "
-"ohavnost rozsévá strach mezi všemi živými bytostmi."
+"Některá ze stvoření temných čarodějů začnou velmi lpět na svém falešném "
+"bytí. Vůle k životu je podepřena odpovídajícími nástroji; zvláště "
+"lukostřelci jsou v tomto ohledu vybaveni vpravdě hanebnými zbraněmi. Jejich "
+"toulec je naplněn šípy, které nejsou vytvořeny ze dřeva, ale z kostí jejich "
+"obětí. Z toho vyplývá, že jsou svými nebohými nepřáteli přezdíváni jednoduše "
+"„Vrhači kostí“."
 
 #. [unit_type]: id=Chocobone, race=undead
 #: data/core/units/undead/Skele_Chocobone.cfg:4
