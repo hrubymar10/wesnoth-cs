@@ -14,20 +14,14 @@ wesnoth-lib | 1436 | 99 % | 13 | Michal
 wesnoth-manpages | 306 | 55 % | 135 |
 wesnoth-manual | 433 | 94 % | 25 |
 wesnoth-sof | 625 | 76 % | 144 | Septim
-wesnoth-sota | 646 | 99 % | 2 | Michal
-wesnoth-thot | 354 | 99 % | 1 | Michal
-wesnoth-trow | 1004 | 99 % | 2 | Michal
-wesnoth-tsg | 629 | 99 % | 1 | Michal
-wesnoth-units | 703 | 99 % | 5 | Michal
-wesnoth-utbs | 1927 | 99 % | 12 | Michal
 wesnoth-wc | 436 | 88 % | 48 | Septim
 wesnoth | 1355 | 93 % | 84 | Michal
 
-Total messages remaining: **506**
+Total messages remaining: **483**
 
 Progress since 2020-08-28: **12** messages per day
 
-ETA: **2021-04-04**
+ETA: **2021-04-02**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
