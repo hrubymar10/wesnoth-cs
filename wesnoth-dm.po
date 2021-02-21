@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 21:40 UTC\n"
-"PO-Revision-Date: 2020-12-09 22:17+0100\n"
+"PO-Revision-Date: 2021-02-21 10:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4608,11 +4608,6 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:354
-#, fuzzy
-#| msgid ""
-#| "Remember that one of our undead or I must strike the final blow, for "
-#| "Iliah-Malal’s un-life can only be ended by the touch of un-life or by the "
-#| "power of the Book of Crelanu."
 msgid ""
 "Remember that one of our undead or I must strike the final blow, for Iliah-"
 "Malal’s unlife can only be ended by the touch of unlife or by the power of "
@@ -4624,10 +4619,6 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:360
-#, fuzzy
-#| msgid ""
-#| "Remember that I must strike the final blow, for Iliah-Malal’s un-life can "
-#| "only be ended by the power of the Book of Crelanu."
 msgid ""
 "Remember that I must strike the final blow, for Iliah-Malal’s unlife can "
 "only be ended by the power of the Book of Crelanu."
