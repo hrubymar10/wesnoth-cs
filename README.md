@@ -12,10 +12,10 @@ wesnoth-lib | 1436 | 99 % | 13 | Michal
 wesnoth-manpages | 306 | 55 % | 135 |
 wesnoth-manual | 433 | 94 % | 25 |
 wesnoth-sof | 625 | 76 % | 144 | Septim
-wesnoth-wc | 436 | 88 % | 48 | Septim
+wesnoth-wc | 436 | 94 % | 25 |
 wesnoth | 1355 | 93 % | 84 | Michal
 
-Total messages remaining: **454**
+Total messages remaining: **431**
 
 Progress since 2020-08-28: **13** messages per day
 
