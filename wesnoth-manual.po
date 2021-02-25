@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "POT-Creation-Date: 2020-06-12 21:49-0400\n"
-"PO-Revision-Date: 2021-02-08 18:48+0100\n"
+"PO-Revision-Date: 2021-02-25 21:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -44,12 +44,11 @@ msgstr "Manuál uživatele Bitvy o Wesnoth"
 msgid "Preface"
 msgstr "Úvod"
 
-# Fantasy?
 #. type: Content of: <book><preface><simpara>
 #: doc/manual/manual.en.xml:12
 msgid ""
 "The Battle for Wesnoth is a turn-based strategy game with a fantasy theme."
-msgstr "Bitva o Wesnoth je tahová strategická hra s fantastickým námětem."
+msgstr "Bitva o Wesnoth je tahová strategická hra s fantasy námětem."
 
 #. type: Content of: <book><preface><simpara>
 #: doc/manual/manual.en.xml:13
@@ -247,15 +246,11 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject>
 #: doc/manual/manual.en.xml:90
-#, fuzzy
-#| msgid ""
-#| "<imageobject> <imagedata fileref=\"images/main-menu-1.11.9.jpg\"/> </"
-#| "imageobject>"
 msgid ""
 "<imageobject> <imagedata fileref=\"images/main-menu-1.13.11+dev.jpg\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/main-menu-1.11.9.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/main-menu-1.13.11+dev.jpg\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject><textobject><phrase>
@@ -539,10 +534,8 @@ msgstr "Hrát jediný scénář proti lidským nebo počítačovým protivníků
 
 #. type: Content of: <book><chapter><section><simpara>
 #: doc/manual/manual.en.xml:292
-#, fuzzy
-#| msgid "Message another player (in multiplayer)"
 msgid "There are also campaigns that can be played in multiplayer."
-msgstr "Pošle zprávu jinému hráči (ve hře více hráčů)"
+msgstr "Existují také tažení, která mohou být hrána ve hře více hráčů."
 
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:294
@@ -559,12 +552,12 @@ msgid ""
 "you choose not to use a unit at all during a scenario it is carried over to "
 "the next, so you don&#8217;t lose units you don&#8217;t use."
 msgstr ""
-"Tažení jsou sekvence bitev, propojených příběhem. Typické tažení se skládá s "
-"přibližně 10-20 scénářů. Hlavní výhodou tažení je, že Vám umožňují vyvíjet "
-"Vaši armádu. Po zakončení každého scénáře jsou jednotky uschovány pro "
-"použití v příštích scénářích, kde je můžete, ale nemusíte přivolat. Pokud je "
-"nepřivoláte, zůstanou i tak nadále k dispozici ve všech dalších scénářích "
-"tažení."
+"Tažení jsou sekvence bitev propojené příběhem. Typické tažení se skládá "
+"přibližně z 10 až 20 scénářů. Hlavní výhodou tažení je, že ti umožňují "
+"vyvíjet svou armádu. Po dokončení každého scénáře se přeživší jednotky na "
+"konci uloží, abys je mohl použít v dalším scénáři. Pokud se rozhodneš "
+"jednotku během scénáře vůbec nepoužít, bude přenesena do dalšího, takže o "
+"jednotky, které nepoužíváš, nepřijdeš."
 
 #. type: Content of: <book><chapter><section><section><simpara>
 #: doc/manual/manual.en.xml:302
@@ -573,8 +566,9 @@ msgid ""
 "is probably the most enjoyable, and is the recommended way for new players "
 "to learn the game."
 msgstr ""
-"Tažení představují zamýšlený primární účel Wesnothu, jsou nejzábavnější "
-"formou hry a také umožňují novým hráčům snadno se naučit hru."
+"Tažení představují zamýšlený primární účel Wesnothu, jsou pravděpodobně "
+"nejzábavnější formou hry a reprezentují doporučený způsob, kterým by se noví "
+"hráči měli hru učit."
 
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:307
@@ -916,15 +910,11 @@ msgstr "Aktuální čas, nebo zbývající čas (v hrách více hráčů na čas
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: doc/manual/manual.en.xml:456
-#, fuzzy
-#| msgid ""
-#| "<imageobject> <imagedata fileref=\"images/right_pane-1.11.9.jpg\"/> </"
-#| "imageobject>"
 msgid ""
 "<imageobject> <imagedata fileref=\"images/right_pane-1.13.11+dev.png\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/right_pane-1.11.9.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/right_pane-1.13.11+dev.png\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -1062,10 +1052,10 @@ msgid ""
 "recruit and recall more when that happens. But choose wisely, for each has "
 "strengths and weaknesses a cunning opponent will quickly exploit."
 msgstr ""
-"Jak Vaše jednotky získávají bojové zkušenosti, stávají se silnějšími a "
-"zvládají čím dál více. Některé také v boji padnou, takže budete muset "
-"naverbovat nebo přivolat další. Vybírejte ale dobře, výhody i nevýhody lze "
-"využít."
+"Jak tvé jednotky získávají bojové zkušenosti, učí se více dovedností a "
+"stávají se silnějšími. Také mohou padnout v bitvě a v tom případě budeš "
+"muset verbovat a přivolávat další. Vybírej ale moudře, protože každá "
+"jednotka má silné i slabé stránky, které mazaný protivník rychle využije."
 
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:534
@@ -1869,15 +1859,11 @@ msgstr "Verbování a přivolávání"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: doc/manual/manual.en.xml:1254
-#, fuzzy
-#| msgid ""
-#| "<imageobject> <imagedata fileref=\"images/recruit-1.11.9.jpg\"/> </"
-#| "imageobject>"
 msgid ""
 "<imageobject> <imagedata fileref=\"images/recruit-1.13.11+dev.png\"/> </"
 "imageobject>"
 msgstr ""
-"<imageobject> <imagedata fileref=\"images/recruit-1.11.9.jpg\"/> </"
+"<imageobject> <imagedata fileref=\"images/recruit-1.13.11+dev.png\"/> </"
 "imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -2402,10 +2388,12 @@ msgid ""
 "resistances. Resilient units are especially useful for holding strategic "
 "positions against opponents."
 msgstr ""
-"Houževnaté jednotky mají navíc 4HP + 1HP na úroveň. Jsou užitečné ve všech "
-"fázích tažení. Největší výhodu tato vlastnost poskytuje, pokud ji dostane "
-"jednotka s kombinací nízkých životů, dobré obrany a vysokých odolností. "
-"Houževnaté jednotky se hodí zvláště pro udržení strategických pozic."
+"Houževnaté jednotky mají navíc 4 životy + 1 život za každou úroveň. Jsou "
+"užitečné ve všech fázích tažení a tato vlastnost se hodí všem jednotkám. "
+"Houževnatost je často nejužitečnější vlastností v případě, pokud ji dostane "
+"jednotka s kombinací nízkého počtu životů, dobré obrany a vysokých "
+"odolností. Houževnaté jednotky se zvláště hodí pro udržení strategických "
+"pozic."
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:1602
@@ -3395,10 +3383,8 @@ msgstr "Žádná koule"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 #: doc/manual/manual.en.xml:2368
-#, fuzzy
-#| msgid "Enemy units have a red orb on the top of their energy bar"
 msgid "Enemy units have no orb on the top of their energy bar"
-msgstr "Nepřátelské jednotky mají červené koule na ukazateli energie"
+msgstr "Nepřátelské jednotky nemají na ukazateli energie žádnou kouli"
 
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:2376
@@ -3425,10 +3411,9 @@ msgid ""
 "ellipse that has broken lines. This indicates that the unit has no Zone of "
 "Control."
 msgstr ""
-"Plocha pod jednotkou je obvykle celistvý disk - kvůli pohledu ze strany "
-"vyhlíží jako elipsa. Na některých jednotkách, obvykle nulté úrovně, je okraj "
-"elipsy přerušovaný a připomíná tak trochu vrtuli helikoptéry; znamená to, že "
-"jednotka nevytváří oblast kontroly."
+"Elipsa obvykle vypadá jako celistvý disk. U jednotek úrovně 0 lze vidět "
+"elipsu tvořenou přerušovanou čarou. To značí, že jednotka nemá žádnou zónu "
+"kontroly."
 
 #. type: Content of: <book><chapter><section><section><simpara>
 #: doc/manual/manual.en.xml:2384
@@ -4111,21 +4096,14 @@ msgstr ""
 
 #. type: Content of: <book><chapter><section><section><simpara>
 #: doc/manual/manual.en.xml:2690
-#, fuzzy
-#| msgid ""
-#| "In particular, use your ranged weapons if the enemy has no ranged attack. "
-#| "The computer&#8217;s default choice only looks for the most damage you "
-#| "can deal, so using it will often result in your units taking more damage "
-#| "than necessary."
 msgid ""
 "In particular, use your ranged weapons if the enemy has no ranged attack. "
 "Using it will often reduce the damage which your units take until the enemy "
 "dies."
 msgstr ""
-"Nejvíce využívejte situaci, v níž nemá nepřítel žádný útok na dálku a Vaše "
-"jednotky ano. Automatika v dialogu pro výběr útoku vybere na začátku útok "
-"způsobující nepříteli největší zranění, ale taková volba často vyústí ve "
-"větší (a zbytečné) zranění i Vaší jednotky."
+"Zbraně na dálku používej zejména v případech, kdy nepřítel útok na dálku "
+"nemá. Jejich použití často sníží poškození, které tvé jednotky utrpí, než "
+"nepřítel zemře."
 
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:2695
