@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 21:40 UTC\n"
-"PO-Revision-Date: 2021-02-21 09:54+0100\n"
+"PO-Revision-Date: 2021-02-25 14:50+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1534,6 +1534,9 @@ msgid ""
 "breeze touched Rugnur's group, washing over them from a side tunnel leading "
 "up to the surface. Had they reached the Northlands?"
 msgstr ""
+"Trvalo ještě několik týdnů pochodu po kolejích, než chladný vánek z "
+"postranního tunelu vedoucího na povrch ovanul čela členů Rugnurovy "
+"skupiny. Dosáhli snad Severních zemí?"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:43
@@ -1544,6 +1547,11 @@ msgid ""
 "cold passage, and began to search for the runesmith named Thursagan. "
 "Thursagan, the Sage of Fire."
 msgstr ""
+"Ke své nelibosti byl Alanin vyslán, aby zapátral dále po kolejích. Ale brzy "
+"se vrátil a prohlásil, že hlavní tunel na sever je nedokončený a koleje tam "
+"končí. Z tohoto důvodu vyvedl Rugnur trpaslíky chodbou s chladným vzduchem a "
+"začal hledat runového kováře Thursagana. Thursagana, známého jako Mudrce "
+"ohně."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:99
@@ -1663,6 +1671,8 @@ msgid ""
 "Screech!\n"
 "<i>(Makes eye contact, bobs and cocks head.)</i>"
 msgstr ""
+"Kník!\n"
+"<i>(Vyhledává oční kontakt, houpá a naklání hlavu.)</i>"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:378
@@ -1705,13 +1715,18 @@ msgid ""
 "Aye, trolls and wolves are closing in... Sure, Krawg, we’ll help you fight "
 "them."
 msgstr ""
+"Jo, trollové a vlci se blíží... Jasně Kravágu, pomůžeme ti s nimi bojovat."
 
+# Potřebuji si ujasnit kontext.
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:441
+#, fuzzy
 msgid ""
 "Screech!\n"
 "<i>(Nods at the middle distance.)</i>"
 msgstr ""
+"Kník!\n"
+"<i>(Přikývne v rozletu.)</i>"
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:448
@@ -1832,6 +1847,8 @@ msgid ""
 "No wait, I wasn't clear! We need to contain this power, build some sort of "
 "magical cage!"
 msgstr ""
+"Ne počkej, nevyjádřil jsem se jasně! Potřebujeme tu sílu zadržet, vytvořit "
+"nějaký druh magické klece!"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:572
@@ -1839,6 +1856,8 @@ msgid ""
 "Aye, a cage, and we can't do it on our own, Thursagan. We need your skill "
 "and expertise!"
 msgstr ""
+"Ano, klece. A sami to nezvládneme, Thursagane. Potřebujeme tvé dovednosti a "
+"znalosti!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:576
@@ -1847,6 +1866,9 @@ msgid ""
 "contain that foolish man... I see your dilemma, and I do love a challenge, "
 "so let's build this powerful artifact. I expect it will take years."
 msgstr ""
+"Hmm, takže potřebujete tuto moc králi předat, ale také se snažíte toho "
+"pošetilého muže utlumit... Vidím vaše dilema a miluji výzvu. Takže pojďme "
+"ten mocný artefakt vytvořit. Předpokládám, že to bude trvat roky."
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:580
@@ -1865,14 +1887,16 @@ msgid ""
 "rune-craft for your troops. My goods do not come cheap though, I will not "
 "stoop to trifling apprentice-work..."
 msgstr ""
+"Pokud budeme chtít tu práci zvládnout, budeme potřebovat každou ruku, co "
+"zvládne runovou práci, kterou budeme moci získat. Pokud budu mít čas na "
+"zřízení obchodu v tvrzi, mohu pro tvé jednotky připravit malé runové "
+"kovářství. Moje zboží však není levné a nebudu se zahazovat s prací, co "
+"náleží učnům..."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:633
-#, fuzzy
-#| msgid ""
-#| "Well, now we are in the caves again! Come on, back south, to the city."
 msgid "Well, now we reached the caves again! Come on, back south, to the city."
-msgstr "Dobrá, teď jsme znovu v jeskyních. Pojďme zpět na jih k městu."
+msgstr "Dobrá, znovu jsme se dostali do jeskyní! Pojďme zpět na jih, do města."
 
 # no nevím...
 #. [scenario]: id=3t_The_Council_Regathers
@@ -1882,20 +1906,16 @@ msgstr "Znovushromážděná rada"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:45
-#, fuzzy
-#| msgid ""
-#| "The path back was less dangerous than it was a year earlier. It did not "
-#| "take them so long. So they quickly returned to the dwarven city, with two "
-#| "new members of their party — one expected, and one not."
 msgid ""
 "The path back to the dwarven city was well known to the travelers this time, "
 "so the journey south was relatively quick and uneventful. A week's march "
 "brought the expedition to the familiar plaza, with two new members of their "
 "party — one expected, and one not."
 msgstr ""
-"Cesta zpět byla méně nebezpečná než minulý rok. Nezabrala tak dlouhý čas. "
-"Rychle se vrátili do trpasličího města se dvěma novými členy společnosti – "
-"jedním očekávaným a jedním ne."
+"Cesta zpět do trpasličího města byla tentokrát cestovatelům dobře známá, "
+"takže putování na jih bylo relativně rychlé a bez komplikací. Po "
+"několikatýdenním pochodu dorazila výprava na známé náměstí se dvěma novými "
+"členy společnosti – jedním očekávaným a druhým ne."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:128
@@ -1908,13 +1928,13 @@ msgid ""
 "What? You mean you found Thursagan and got him to return with you? "
 "Astounding! But what is that gryphon doing there?"
 msgstr ""
-"Co? Myslíš tím, že jste našli Thursagana a on se s vámi vrátil? Ohromující! "
-"Ale co tu dělá ten gryfon?"
+"Co? Myslíš tím, že jste našli Thursagana a přiměli ho, aby se s vámi vrátil? "
+"Ohromující! Ale co tu dělá ten gryfon?"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:136
 msgid "Yes, we did. And that is Krawg, who helped us in the Northlands."
-msgstr "Ano, našli. A toto je Kravág, který nám pomohl v severních zemích."
+msgstr "Ano, přiměli. A toto je Kravág, který nám pomohl v Severních zemích."
 
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:140
@@ -2108,19 +2128,14 @@ msgstr "Shromáždění surovin"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:10
-#, fuzzy
-#| msgid ""
-#| "Those who went to the eastern mines were brave indeed. They were infested "
-#| "with trolls and other vile creatures, who thrived in the dark and gloom "
-#| "of the caves."
 msgid ""
 "Those who had worked the eastern mines were brave indeed. The mines were "
 "often infested with trolls and other vile creatures, who thrived in the dark "
 "and gloom of the caves."
 msgstr ""
-"Ti, kteří šli do východních dolů, byli vskutku stateční. Byly zamořeny "
-"trolly a jinými hnusnými nestvůrami, které prospívaly v temnotě a šeru "
-"jeskyní."
+"Ti, kteří pracovali ve východních dolech, byli vskutku stateční. Doly byly "
+"často zamořeny trolly a jinými hnusnými nestvůrami, co prospívaly v temnotě "
+"a šeru jeskyní."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:13
@@ -2128,21 +2143,23 @@ msgid ""
 "And braver still were Rugnur and his companions, who had to visit those "
 "tunnels after years of abandonment."
 msgstr ""
+"A ještě odvážnější byli Rugnur a jeho společníci, kteří museli tyto tunely "
+"navštívit léta po tom, co byly opuštěny."
 
 #. [side]: type=Troll Warrior, type=Troll
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:235
 msgid "Resident Trolls"
-msgstr ""
+msgstr "Trollí usedlíci"
 
 #. [side]: type=Troll Warrior, type=Troll
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:262
 msgid "Intruding Trolls"
-msgstr ""
+msgstr "Trollí vetřelci"
 
 #. [side]: type=Direwolf Rider, type=Goblin Pillager
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:291
 msgid "Goblin Explorers"
-msgstr ""
+msgstr "Goblinní průzkumníci"
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:644
@@ -2281,12 +2298,6 @@ msgstr ""
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:144
-#, fuzzy
-#| msgid ""
-#| "So, you have returned. I assume you have obtained the required materials? "
-#| "My jeweler Theganli has spent the last two years buying jewels from some "
-#| "of the northern clans. So now go to the forge and make your sceptre. What "
-#| "do you need to annoy me for?"
 msgid ""
 "So, you have returned. I assume you have obtained the required materials? My "
 "jeweler Theganli has spent great time and expense buying jewels from some of "
@@ -2294,9 +2305,9 @@ msgid ""
 "you need to annoy me for?"
 msgstr ""
 "Takže se vracíte. Předpokládám, že jste získali potřebné materiály? Můj "
-"klenotník Theganli strávil poslední dva roky nakupováním drahokamů od "
-"některých severních kmenů. Takže teď běžte do kovárny a vytvořte to žezlo... "
-"Kvůli čemu mne teď budete obtěžovat?"
+"klenotník Theganli spotřeboval spoustu času a peněz při nakupování drahokamů "
+"od některých severních klanů. Takže teď běžte do kovárny a vytvořte to "
+"žezlo. Kvůli čemu mě potřebuješ otravovat?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:148
@@ -2304,6 +2315,8 @@ msgid ""
 "We don’t need you, we need the ruby. I'll take it to Theganli and we'll "
 "review the cuts we plan to make."
 msgstr ""
+"Nepotřebujeme tebe, potřebujeme ten rubín. Vezmu ho k Theganlimu a posoudíme "
+"výbrusy, co plánujeme udělat."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:153
@@ -2312,16 +2325,12 @@ msgstr "Ty chceš brousit ten drahokam? Jsi šílený?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:158
-#, fuzzy
-#| msgid ""
-#| "What are you talking about, sir? You knew all along the jewel would have "
-#| "to be cut to make the sceptre out of."
 msgid ""
 "What do you mean, sir? You knew all along the jewel would have to be cut to "
 "make the sceptre."
 msgstr ""
-"O čem to mluvíte, pane? Celou dobu jste věděl, že drahokam by měl být pro "
-"výrobu žezla broušen."
+"O čem to mluvíte, pane? Celou dobu jste věděl, že drahokam musí být pro "
+"výrobu žezla zbroušen."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:162
@@ -2340,10 +2349,10 @@ msgstr "Je ve svém obchodě, v jižním tunelu."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:175
-#, fuzzy
-#| msgid "Whatever. Kuhnar, go, summon him here."
 msgid "<i>Harrumph!</i> Kuhnar, go summon him!"
-msgstr "Jistě. Kuhnare, běž, zavolej ho sem."
+msgstr ""
+"<i>Hartusí.</i>\n"
+"Kuhnare, běž a přivolej ho!"
 
 #. [message]: speaker=Kuhnar
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:181
@@ -2381,6 +2390,8 @@ msgid ""
 "Uh, um, yes, yes, very impressive ruby... Even in this raw form, it has an "
 "odd brilliance!"
 msgstr ""
+"Uh, hm, ano, ano, velmi působivý rubín... I v této surové formě má "
+"neobyčejný lesk!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:216
@@ -2389,10 +2400,8 @@ msgstr "Myslíš, že ho dokážeš zbrousit přesně dle mých návrhů?"
 
 #. [message]: speaker=Theganli
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:220
-#, fuzzy
-#| msgid "Well, uh, um, maybe... maybe... it will be hard... let me see..."
 msgid "Maybe... maybe... It will be hard, let me see..."
-msgstr "No, uh, um, možná... možná... bude to těžké... ukažte..."
+msgstr "Možná..., možná... Bude to těžké, ukažte..."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:224
@@ -2420,16 +2429,12 @@ msgstr ""
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:299
-#, fuzzy
-#| msgid ""
-#| "So what do you propose we do? We need this jewel cut in a very specific "
-#| "way to make sure... well, it doesn’t matter why."
 msgid ""
 "So what do you propose we do? This ruby needs to be cut, and cut in a "
 "specific way."
 msgstr ""
-"Co navrhuješ udělat? Potřebujeme zbrousit ten drahokam do velmi specifických "
-"tvarů, abychom... no je jedno proč."
+"Co navrhuješ udělat? Potřebujeme ten rubín zbrousit do velmi specifických "
+"tvarů."
 
 #. [message]: speaker=Theganli
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:303
@@ -2488,10 +2493,8 @@ msgstr "Dobrá. Běž a pronajmi je od nich."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:340
-#, fuzzy
-#| msgid "Very well. We’ll go south now."
 msgid "Very well, sir. We’ll go south now."
-msgstr "Tedy dobrá. Půjdeme hned na jih."
+msgstr "Tedy dobrá, pane. Vyrazíme na jih."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:344
@@ -2509,17 +2512,13 @@ msgstr "Pane, jste si jistý, že je to moudré?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:352
-#, fuzzy
-#| msgid ""
-#| "Of course! To be safe, though, you and Noiraran are going to come with us."
 msgid "Of course it is! You and Noiraran are going to come with us!"
-msgstr ""
-"Samozřejmě! Ačkoli, abych byl v bezpečí, ty a Noiraran půjdete se mnou."
+msgstr "Samozřejmě! A ty a Noiraran půjdete s námi!"
 
 #. [message]: speaker=Kuhnar
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:356
 msgid "Yes sir..."
-msgstr ""
+msgstr "Ano pane..."
 
 #. [scenario]: id=5_Hills_of_the_Shorbear_Clan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:3
@@ -2540,11 +2539,6 @@ msgstr "Nepřátelé"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:147
-#, fuzzy
-#| msgid ""
-#| "All dwarves are known for a love of gold and a heart of stone. The "
-#| "Shorbears were no exception. They were crafters of crafters — they made "
-#| "tools. The best in the land. And they bartered well."
 msgid ""
 "All dwarves are known for a love of gold and a heart of stone, and the "
 "Shorbears were no exception. They were very skilled crafters for a very "
@@ -2552,8 +2546,9 @@ msgid ""
 "exactly meek or humble..."
 msgstr ""
 "Všichni trpaslíci jsou známi láskou ke zlatu a srdcem z kamene. Shorbearové "
-"nebyli žádnou výjimkou. Byli řemeslníci řemeslníků – vyráběli nástroje. "
-"Nejlepší v zemi. A handlovali velice dobře."
+"nebyli žádnou výjimkou. Byli to velmi zkušení řemeslníci pro velmi vybranou "
+"klientelu a dovedli si to patřičně kompenzovat. Nebyli zrovna laskaví ani "
+"pokorní..."
 
 #. [label]
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:157
@@ -2579,41 +2574,31 @@ msgstr "Durstorn zemře"
 
 #. [message]: speaker=Kuhnar
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:278
-#, fuzzy
-#| msgid "Hills of the Shorbear Clan"
 msgid "Here we are! The hills of the Shorbear clan!"
-msgstr "Kopce klanu Shorbear"
+msgstr "Tak jsme tady! To jsou kopce klanu Shorbear!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:282
-#, fuzzy
-#| msgid ""
-#| "If I understand it correctly, we’re here to bargain with the Shorbears, "
-#| "and arrange for us to use their tools to cut the ruby."
 msgid ""
 "We’re here to bargain with the Shorbears for their tools, who should take "
 "lead?"
 msgstr ""
-"Pokud tomu rozumím správně, jdeme obchodovat se Shorbeary a domluvit použití "
-"jejich nástrojů pro broušení rubínu."
+"Jsme tu, abychom vyjednali se Shorbeary vypůjčení jejich nástrojů. Kdo by se "
+"toho měl ujmout?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:286
 msgid "I could-"
-msgstr ""
+msgstr "Já bych mohl..."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:290
-#, fuzzy
-#| msgid ""
-#| "And I’ll be doing the talking; I remember what happened last time you "
-#| "negotiated a deal! We lost five thousand pieces of silver."
 msgid ""
 "<i>I’ll</i> be doing the talking! I remember what happened last time you "
 "negotiated a deal, Rugnur! We lost five thousand pieces of silver!"
 msgstr ""
-"A vyjednávat budu já. Pamatuji si, co se stalo, když jsi vyjednával "
-"naposledy! Ztratili jsme pět tisíc zlatých."
+"Vyjednávat budu <i>já</i>! Pamatuji si, co se stalo, když jsi vyjednával "
+"naposledy, Rugnure! Ztratili jsme pět tisíc!"
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:294
@@ -2755,27 +2740,21 @@ msgstr "Jsi blázen?!"
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:381
 msgid "Of course not!"
-msgstr ""
+msgstr "Samozřejmě, že ne!"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:385
-#, fuzzy
-#| msgid ""
-#| "Of course not! Now, Glonoin; one thousand was my final offer. If you "
-#| "won’t accept it, we will take the tools from you by force!"
 msgid ""
 "Glonoin, yah scoundrel! One thousand was my final offer, and if you won’t "
 "accept that, we will take the tools from you by force!"
 msgstr ""
-"Samozřejmě, že ne! Tedy, Glonoine, jeden tisíc byla má poslední nabídka. "
-"Když ji nechceš přijmout, vezmeme si vaše nástroje pomocí síly."
+"Glonoine, ty darebáku, jeden tisíc byla má poslední nabídka. Pokud ji "
+"nepřijmeš, vezmeme si vaše nástroje silou."
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:390
-#, fuzzy
-#| msgid "I’d like to see you try!"
 msgid "Hah! I’d like to see you try!"
-msgstr "Budu se rád dívat, jak se snažíte."
+msgstr "Haha! Budu se rád dívat, jak se snažíte."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:394
@@ -2791,6 +2770,7 @@ msgstr "Ztichněte všichni! Zaútočte na ně!"
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:421
 msgid "Look at him fly... If only we could move that fast."
 msgstr ""
+"Podívejte se na něj, jak letí... Kdybychom se my mohli pohybovat tak rychle."
 
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:425
@@ -2856,23 +2836,17 @@ msgstr ""
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:498
-#, fuzzy
-#| msgid "I see. So you don’t have the ruby?"
 msgid "No reason? So you don’t have the ruby?"
-msgstr "Aha. Takže vy nemáte rubín?"
+msgstr "Bezdůvodně? Takže vy nemáte rubín?"
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:502
-#, fuzzy
-#| msgid ""
-#| "No, they do. They wanted to rent my tools to cut it, but they didn’t "
-#| "offer me nearly enough!"
 msgid ""
 "What ruby? They wanted to rent my tools to cut something, probably your "
 "ruby, but they didn’t offer me nearly enough!"
 msgstr ""
-"Ne, to oni. Chtěli si pronajmout mé nástroje, aby ho zpracovali, ale zdaleka "
-"mi nenabídli dost!"
+"Jaký rubín? Chtěli si vypůjčit mé nástroje na opracování něčeho, "
+"pravděpodobně toho rubínu, o kterém mluvíš, ale zdaleka mi nenabídli dost!"
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:506
