@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-02-21 09:43+0100\n"
+"PO-Revision-Date: 2021-02-25 21:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1563,13 +1563,13 @@ msgid ""
 "What? You mean you found Thursagan and got him to return with you? "
 "Astounding! But what is that gryphon doing there?"
 msgstr ""
-"Co? Myslíš tím, že jste našli Thursagana a on se s vámi vrátil? Ohromující! "
-"Ale co tu dělá ten gryfon?"
+"Co? Myslíš tím, že jste našli Thursagana a přiměli ho, aby se s vámi vrátil? "
+"Ohromující! Ale co tu dělá ten gryfon?"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:135
 msgid "Yes, we did. And that is Krawg, who helped us in the Northlands."
-msgstr "Ano, našli. A toto je Kravág, který nám pomohl v severních zemích."
+msgstr "Ano, přiměli. A toto je Kravág, který nám pomohl v Severních zemích."
 
 #. [message]: speaker=Krawg
 #. "Yeah! Me Krawg!"
