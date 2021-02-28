@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 18:40-0300\n"
-"PO-Revision-Date: 2021-02-20 00:35+0100\n"
+"PO-Revision-Date: 2021-02-28 08:02+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2444,10 +2444,8 @@ msgstr "Webové stránky:"
 
 #. [text_box]: id=filter
 #: data/gui/window/addon_manager.cfg:623
-#, fuzzy
-#| msgid "Filters on addon description, version, type or author."
 msgid "Filters on addon description, version, type or author"
-msgstr "Filtry na popis, verzi, typ nebo autora rozšíření."
+msgstr "Filtry na popis, verzi, typ nebo autora rozšíření"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:636
@@ -4151,10 +4149,8 @@ msgstr "Náhodné rozdělování frakcí:"
 
 #. [label]
 #: data/gui/window/mp_create_game.cfg:156
-#, fuzzy
-#| msgid "Allow for mirror matchups when random factions are chosen."
 msgid "Allow for mirror matchups when random factions are chosen"
-msgstr "Když jsou vybírány náhodné frakce, vzít v úvahu zrcadlené zápasy."
+msgstr "Když jsou vybírány náhodné frakce, vzít v úvahu zrcadlené zápasy"
 
 #. [toggle_button]: id=use_map_settings
 #: data/gui/window/mp_create_game.cfg:313
@@ -4370,13 +4366,11 @@ msgstr "Heslo:"
 
 #. [text_box]: id=game_password
 #: data/gui/window/mp_create_game.cfg:1004
-#, fuzzy
-#| msgid ""
-#| "Set the password that people wanting to join your game as players must "
-#| "enter."
 msgid ""
 "Set the password that people wanting to join your game as players must enter"
-msgstr "Nastav heslo, které musí hráči znát pro přidání se ke hře."
+msgstr ""
+"Nastavit heslo, které musí vložit lidé, kteří se ke tvé hře chtějí připojit "
+"jako hráči"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -4776,10 +4770,8 @@ msgstr "Filtr:"
 
 #. [text_box]: id=filter
 #: data/gui/window/preferences/02_hotkeys.cfg:50
-#, fuzzy
-#| msgid "Filters on hotkey description."
 msgid "Filters on hotkey description"
-msgstr "Filtry na popis klávesové zkratky."
+msgstr "Filtry na popis klávesové zkratky"
 
 #. [toggle_button]: id=sort_0
 #: data/gui/window/preferences/02_hotkeys.cfg:94
@@ -5188,15 +5180,13 @@ msgstr "Zobrazit kouli částečně posunutých"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:110
-#, fuzzy
-#| msgid "Show enemy orb"
 msgid "Show disengaged orb"
-msgstr "Zobrazit kouli nepřátel"
+msgstr "Zobrazit kouli uvolněných"
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:110
 msgid "This uses the colors for partial and moved orbs."
-msgstr ""
+msgstr "Tohle používá barvy pro částečně a úplně posunuté."
 
 #. [grid]
 #: data/gui/window/select_orb_colors.cfg:111
@@ -5556,10 +5546,8 @@ msgstr "Povolat jednotku"
 
 #. [text_box]: id=filter_box
 #: data/gui/window/unit_recall.cfg:311
-#, fuzzy
-#| msgid "Search for unit name, unit type name, unit level, or trait."
 msgid "Search for unit name, unit type name, unit level, or trait"
-msgstr "Hledat jméno, typ, úroveň nebo vlastnost jednotky."
+msgstr "Hledat jméno, typ, úroveň nebo vlastnost jednotky"
 
 #. [button]: id=rename
 #: data/gui/window/unit_recall.cfg:401
@@ -5624,8 +5612,6 @@ msgid "feature^Cocoa notifications back end"
 msgstr "Použití Cocoa notifikací"
 
 #: src/build_info.cpp:342 src/desktop/version.cpp:113
-#, fuzzy
-#| msgid "cpu_archictecture^<unknown>"
 msgid "cpu_architecture^<unknown>"
 msgstr "<neznámá arch. CPU>"
 
@@ -7218,10 +7204,8 @@ msgid "End Unit Turn"
 msgstr "Ukončit kolo jednotky"
 
 #: src/hotkey/hotkey_command.cpp:84
-#, fuzzy
-#| msgid "Scroll Left"
 msgid "Scroll to Leader"
-msgstr "Posunout vlevo"
+msgstr "Posunout na vůdce"
 
 #: src/hotkey/hotkey_command.cpp:85
 msgid "Undo"
@@ -7252,10 +7236,8 @@ msgid "Map Screenshot"
 msgstr "Snímek mapy"
 
 #: src/hotkey/hotkey_command.cpp:93
-#, fuzzy
-#| msgid "Accelerated speed"
 msgid "Toggle Accelerated Speed"
-msgstr "Zrychlená hra"
+msgstr "Přepnout zrychlení"
 
 #: src/hotkey/hotkey_command.cpp:94
 msgid "Terrain Description"
@@ -7326,10 +7308,8 @@ msgid "Kill Unit (Debug!)"
 msgstr "Zabít jednotku (ladění!)"
 
 #: src/hotkey/hotkey_command.cpp:118
-#, fuzzy
-#| msgid "Preferences"
 msgid "Open Preferences Screen"
-msgstr "Nastavení"
+msgstr "Otevřít obrazovku nastavení"
 
 #: src/hotkey/hotkey_command.cpp:119
 msgid "Scenario Objectives"
@@ -7844,10 +7824,8 @@ msgid "Update Shroud Now"
 msgstr "Okamžitě obnovit mlhu"
 
 #: src/hotkey/hotkey_command.cpp:269
-#, fuzzy
-#| msgid "Continue Move"
 msgid "Continue Interrupted Move"
-msgstr "Pokračovat v pohybu"
+msgstr "Pokračovat v přerušeném pohybu"
 
 #: src/hotkey/hotkey_command.cpp:270
 msgid "Find Label or Unit"
@@ -7887,7 +7865,7 @@ msgstr "Spustit vzorec"
 
 #: src/hotkey/hotkey_command.cpp:279
 msgid "Clear Chat and Errors"
-msgstr ""
+msgstr "Vymazat rozhovor a chyby"
 
 #: src/hotkey/hotkey_command.cpp:281
 msgid "Change Language"
