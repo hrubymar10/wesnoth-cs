@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-25 20:04+0100\n"
+"PO-Revision-Date: 2021-02-28 08:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6780,15 +6780,15 @@ msgstr "Screenshot mapy"
 
 #: src/hotkey/hotkey_handler.cpp:217
 msgid "(press $hk to disable)"
-msgstr "(stiskni $hk k vypnutí)"
+msgstr "(stiskni $hk pro vypnutí)"
 
 #: src/hotkey/hotkey_handler.cpp:217
 msgid "Accelerated speed enabled!"
-msgstr "Povoleno zvýšení rychlosti!"
+msgstr "Zrychlení zapnuto!"
 
 #: src/hotkey/hotkey_handler.cpp:221
 msgid "Accelerated speed disabled!"
-msgstr "Zakázáno zvýšení rychlosti!"
+msgstr "Zrychlení vypnuto!"
 
 #: src/hotkey/hotkey_handler.cpp:413
 msgid "Back to Turn "
