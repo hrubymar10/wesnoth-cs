@@ -360,11 +360,11 @@ msgid ""
 "you can check the \"Show replay\" check box. The loaded game will make all "
 "the moves from the beginning while you watch."
 msgstr ""
-"Kliknutím na toto tlačítko lze načíst dříve uloženou hru. Zobrazí se dialog "
-"se seznamem uložených her. Výběrem hry a kliknutím na Ok ji načteš, "
-"tlačítkem Zrušit se vrátíš do hlavního menu. Pokud vybereš místo hry záznam, "
-"můžeš zaškrtnout políčko „Ukaž záznamy“. Načtený záznam hry ti přehraje "
-"všechny tahy od začátku hry."
+"Kliknutím na toto tlačítko lze načíst dříve uloženou hru. Zobrazí se dialogové okno "
+"se seznamem uložených her. Výběrem hry a kliknutím na Načíst hru ji načteš, "
+"tlačítkem Zrušit se vrátíš do hlavního menu. Pokud vybereš hru se záznamem, "
+"můžeš zaškrtnout políčko „Přehrát záznam“. Načtená hra ti přehraje "
+"všechny tahy od začátku, zatímco se budeš dívat."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:163
