@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-28 08:31+0100\n"
+"PO-Revision-Date: 2021-03-02 21:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8449,11 +8449,6 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1143
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-# | msgid "Defeat enemy leader(s)"
-#, fuzzy
-msgid "Death of the bat leader"
-msgstr "Znič nepřátelské(ho) vůdce"
 
 #~ msgid "theme^Classic"
 #~ msgstr "Klasický"
