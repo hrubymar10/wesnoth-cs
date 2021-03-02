@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 21:40 UTC\n"
-"PO-Revision-Date: 2021-02-25 14:50+0100\n"
+"PO-Revision-Date: 2021-03-02 13:35+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3093,12 +3093,8 @@ msgstr ""
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:314
-#, fuzzy
-#| msgid ""
-#| "Yes, of course, let’s just all be cowards! What happened to your honor, "
-#| "Durstorn?!"
 msgid "What happened to your honor, Durstorn?!"
-msgstr "Ano jistě. Jen buďme všichni zbabělci. Kde je tvá hrdost, Durstorne?!"
+msgstr "Kam se poděla tvá hrdost, Durstorne?!"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:318
@@ -3166,21 +3162,15 @@ msgstr "<i>Buch!</i>"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:418
-#, fuzzy
-#| msgid ""
-#| "Well, I suppose we were right to silence him, but I don’t like this. In "
-#| "any case, now we should try to get out of here."
 msgid ""
 "Well, I suppose he should have expected that, but I don’t like this. In any "
 "case, now we should try to get out of here."
 msgstr ""
-"Asi jsme udělali správně, když jsme ho umlčeli, ale nemám tyhle věci rád. "
-"V každém případě bychom se odtud měli pokusit dostat."
+"No, myslím, že se to dalo očekávat, ale i tak se mi to nelíbí. V každém "
+"případě bychom se teď odtud měli pokusit dostat."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:422
-#, fuzzy
-#| msgid "Yes. So, see the area to the northeast of us?"
 msgid "Yes. See the area to the northeast of us?"
 msgstr "Ano. Vidíš tu oblast na severovýchod od nás?"
 
@@ -3190,6 +3180,8 @@ msgid ""
 "That’s where the fewest elvish guards are, we just might make it back "
 "underground before they block us completely."
 msgstr ""
+"Tam je místo, kde je nejméně elfích strážců. Mohli bychom se dostat zpět do "
+"podzemí, než nás úplně zablokují."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:443
@@ -3279,7 +3271,7 @@ msgstr "Asi ano..."
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:493
 msgid "Come out, dwarves, let's get this over with!"
-msgstr ""
+msgstr "Pojďte ven, trpaslíci, dokončíme to!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:527
@@ -3334,16 +3326,12 @@ msgstr "Útěk před jezdci"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:63
-#, fuzzy
-#| msgid ""
-#| "Rugnur had fled across the Arkan-thoria, but Alanin could not do that. He "
-#| "went south — back to the Wesnoth border."
 msgid ""
 "Rugnur fled through the hills by the Arkan-thoria, while Alanin went south — "
 "back to the Wesnoth border."
 msgstr ""
-"Rugnur uprchl za Arkan-thorii, ale Alanin to udělat nemohl. Jel na jih – "
-"zpět k wesnothským hranicím."
+"Rugnur uprchl přes kopce u Arkan-thorie, zatímco Alanin zamířil na jih –"
+" zpět k wesnothským hranicím."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:66
@@ -3351,6 +3339,8 @@ msgid ""
 "The elves pursued both of them, but first let us join Alanin in his flight "
 "south."
 msgstr ""
+"Elfové je oba pronásledovali.\n"
+"Nejprve se ale připojme k Alaninovi při jeho útěku na jih."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:98
@@ -3359,29 +3349,21 @@ msgstr "Dosáhni wesnothské předsunuté základny na jihu"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:118
-#, fuzzy
-#| msgid ""
-#| "Well, the elves are behind me for now, but they will send riders to catch "
-#| "me, and elvish riders are faster than me."
 msgid ""
 "Well, the elves are behind me for now, but their riders are fast and will "
 "catch up quick."
 msgstr ""
-"Elfové jsou za mnou, ale pošlou jezdce, aby mne chytili a elfí jezdci jsou "
-"rychlejší než já."
+"Dobrá, nechal jsem elfy za sebou. Ale jejich jezdci jsou rychlí a brzy mě "
+"dostihnou."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:122
-#, fuzzy
-#| msgid ""
-#| "My only hope is to convince the peasants to stop the elves from passing "
-#| "through their land, so I can get ahead of them."
 msgid ""
 "My only hope is to convince the peasants to stop the elves from passing "
 "through their land, so I can get ahead of those riders."
 msgstr ""
-"Má jediná naděje je přesvědčit sedláky, aby zastavili elfy při průchodu "
-"jejich zemí, takže bych se dostal dál před ně."
+"Má jediná naděje je přesvědčit sedláky, aby elfy při průchodu jejich zemí "
+"zastavili. Tak bych mohl získat před těmi jezdci větší náskok."
 
 #. [unit]: type=Elvish Outrider, id=Asaeri
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:128
@@ -3984,6 +3966,8 @@ msgid ""
 "Well, we've put some distance between us and the elves, so we have a little "
 "time to think. What is this place?"
 msgstr ""
+"Získali jsme před elfy nějaký náskok, takže máme trochu času na přemýšlení. "
+"Co je tohle za místo?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1017
@@ -3992,6 +3976,9 @@ msgid ""
 "we're under the crater, sitting on the magma chamber... I think we should "
 "try to cause it to erupt."
 msgstr ""
+"Pamatuješ si, co říkal Krakraš o tom, že tohle bývala sopka? Zdá se, že se "
+"nacházíme pod kráterem a sedíme v magmatické komoře... Myslím, že bychom se "
+"měli pokusit způsobit její výbuch."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1021
@@ -4000,7 +3987,7 @@ msgid ""
 "safe place so the lava doesn’t kill us."
 msgstr ""
 "Hm, to dává smysl. Zahubí to všechny elfy a nám by se mohlo podařit najít "
-"bezpečné místo tak, aby nás láva nezabila."
+"takové bezpečné místo, aby nás láva nezabila."
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1025
@@ -4014,15 +4001,18 @@ msgid ""
 "there's a high ceiling, shaped like a cone. At the center of this chamber, "
 "we'll find what is holding back the lava flow, and there lies our chance."
 msgstr ""
+"Podívej se, kdyby to byla normální sopka, viděl bys hvězdy a oblohu. Místo "
+"toho je tu vysoký strop ve tvaru kužele. Ve středu této komory najdeme to, "
+"co brzdí lávový proud. Tam leží naše šance."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1033
-#, fuzzy
-#| msgid "Very well. We will continue to explore until we find it."
 msgid ""
 "I see, yes. Quite a gamble, yet what choice do we have? We will continue to "
 "explore until we find it."
-msgstr "Tedy dobrá. Budeme pokračovat v průzkumu dokud to nenajdeme."
+msgstr ""
+"Rozumím, jasně. Je to docela hazard, ale máme snad na výběr? Budeme "
+"pokračovat v průzkumu, dokud to nenajdeme."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1041
@@ -4030,6 +4020,7 @@ msgid ""
 "Indeed, Krawg, we are not alone down here. Orcs and trolls are prowling "
 "around."
 msgstr ""
+"Vskutku tady dole nejsme sami, Kravágu. Skřeti a trollové se potulují kolem."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1059
@@ -4037,23 +4028,25 @@ msgid ""
 "Friends, brothers, this is a desperate situation, I need your help. Can we "
 "negotiate pay after we're back to safety?"
 msgstr ""
+"Přátelé, bratři, tohle je zoufalá situace. Potřebuji vaši pomoc. Můžeme "
+"vyrovnat váš žold až potom, co se vrátíme do bezpečí?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1064
 msgid "Recall costs are reduced for the duration of the scenario."
-msgstr ""
+msgstr "Náklady na přivolání jednotek jsou během tohoto scénáře sníženy."
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1101
 msgid "End of the road, little dwarves! That ruby is as good as ours..."
 msgstr ""
+"Tady vaše cesta končí, trpaslíčci! Ten rubín se bude v našich rukou vyjímat "
+"stejně jako ve vašich..."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1140
-#, fuzzy
-#| msgid "Thursagan! The elves are right on our tail; what should we do?"
 msgid "Thursagan! The elves are right on our tail! What should we do?"
-msgstr "Thursagane! Elfové jsou hned za námi. Co budeme dělat?"
+msgstr "Thursagane! Elfové jsou hned za námi! Co budeme dělat?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1144
@@ -4061,13 +4054,13 @@ msgid ""
 "We should try to set off the volcano as soon as possible. Draw the elves "
 "further into the caves, so they can’t escape when it does erupt."
 msgstr ""
-"Měli bychom se pokusit co nejdříve spustit vulkán. Zatáhnout elfy hlouběji "
-"do jeskyň, takže nebudou moci utéct, až to vybuchne."
+"Měli bychom se pokusit co nejdříve spustit vulkán. Zatáhni elfy hlouběji do "
+"jeskyň, aby nemohli utéct, až to vybuchne."
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1165
 msgid "Damnation! I almost had it... but now I join Landar..."
-msgstr ""
+msgstr "Zatraceně! Skoro jsem to měl..., ale teď se připojím k Landarovi..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1179
@@ -4120,21 +4113,18 @@ msgid ""
 "lost. But our tale is not yet complete. For Alanin lived still, as did Krawg "
 "the Gryphon."
 msgstr ""
-"A tak Rugnur zahynul – slavná smrt v očích trpasličích mudrců. Ale náš "
-"příběh ještě neskončil. Alanin stále žil, stejně jako gryfon Kravág."
+"A tak zemřel Rugnur – slavnou smrtí v očích trpasličích mudrců – a s ním i "
+"Thursagan, největší z runových kovářů, na jehož dědictví brzy usedl prach. "
+"Ale náš příběh ještě nekončí. Alanin stále žil, stejně jako gryfon Kravág."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:39
-#, fuzzy
-#| msgid ""
-#| "Alanin traveled south, to Wesnoth, to Haldric II. To report the events of "
-#| "the past fifteen years."
 msgid ""
 "Alanin traveled south to Wesnoth, to report the events of the past years to "
 "Haldric II."
 msgstr ""
-"Alanin cestoval na jih, k Wesnothu, ke králi Haldrikovi II. Ohlásit události "
-"uplynulých patnácti let."
+"Alanin cestoval na jih, do Wesnothu, aby podal Haldrikovi II. zprávu o "
+"událostech posledních let."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:42
@@ -4148,12 +4138,12 @@ msgstr ""
 #. [unit]: type=Royal Guard, id=Guard Captain
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:62
 msgid "Guard Captain"
-msgstr "Kapitán stráže"
+msgstr "kapitán stráže"
 
 #. [unit]: type=Swordsman, id=Gatekeeper
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:79
 msgid "Gatekeeper"
-msgstr "Strážce brány"
+msgstr "strážce brány"
 
 #. [message]: speaker=Gatekeeper
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:103
@@ -4167,7 +4157,7 @@ msgid ""
 "the Northlands."
 msgstr ""
 "Z cesty. Jsem Alanin z Haldrikovy královské stráže a přináším zprávy ze "
-"severních zemí."
+"Severních zemí."
 
 #. [message]: speaker=Gatekeeper
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:111
@@ -4197,34 +4187,26 @@ msgstr "Vstup, Alanine, a předej králi svou zprávu."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:130
-#, fuzzy
-#| msgid ""
-#| "My King, fifteen years ago you sent me on a mission into the Northlands. "
-#| "I have returned. What do you wish to know of my mission?"
 msgid ""
 "My King, you had sent me on a mission into the Northlands with the Ruby of "
 "Fire. I have returned."
 msgstr ""
-"Můj králi, před patnácti lety jsi mne poslal na misi do severních zemí. "
-"Vrátil jsem se. Co si přeješ znát o mém úkolu?"
+"Můj králi, poslal jsi mě s Ohnivým rubínem na misi do Severních zemí. Vrátil "
+"jsem se."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:134
 msgid "Of course, I could not forget. Was the Sceptre completed?"
-msgstr ""
+msgstr "Samozřejmě, na to nejde zapomenout. Bylo žezlo dokončeno?"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:138
-#, fuzzy
-#| msgid ""
-#| "I believe it was completed, but, I do not have it. It is buried deep in "
-#| "the mountains of the Northlands."
 msgid ""
 "I believe it was completed, my lord, but I do not have it. I'm afraid it is "
 "buried deep in the mountains of the Northlands."
 msgstr ""
-"Věřím, že bylo dokončeno, ale já ho nemám. Je skryto hluboko v horách na "
-"severu."
+"Věřím, že bylo dokončeno, můj pane, ale já ho nemám. Obávám se, že je "
+"pohřbeno hluboko v horách Severních zemí."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:142
@@ -4232,21 +4214,19 @@ msgid ""
 "What!? Why? Do the dwarves not honor our contract? Has Rugnur, or whatever "
 "his name is, become a thief?"
 msgstr ""
+"Cože!? Proč? Nechtějí snad trpaslíci dodržet naši smlouvu? Stal se Rugnur, "
+"nebo jak se jmenuje, pouhým zlodějem?"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:146
-#, fuzzy
-#| msgid ""
-#| "My Lord, the dwarves are dead, slain by fire and smoke as lava poured out "
-#| "of one of the mountains. I saw the eruption from afar as I was returning "
-#| "to you."
 msgid ""
 "My Lord, the dwarves lead by Rugnur are dead, slain by fire and smoke as "
 "lava poured out of one of the mountains. I saw the eruption from afar as I "
 "was returning to you."
 msgstr ""
-"Můj pane, trpaslíci jsou mrtví, zabiti ohněm a kouřem, když láva proudila "
-"ven z jedné z hor. Cestou zpátky k vám jsem viděl v dálce erupci."
+"Můj pane, trpaslíci vedení Rugnurem jsou mrtví, zabiti ohněm a kouřem, když "
+"se z jedné z hor vyvalila láva. Viděl jsem erupci zdáli, když jsem se vracel "
+"zpátky k vám."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:150
@@ -4255,25 +4235,16 @@ msgstr "A proč se tedy vracíš bez žezla?"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:154
-#, fuzzy
-#| msgid ""
-#| "We had been besieged by elves, in a dwarvish castle that was not "
-#| "Rugnur’s. The sceptre could not be completed there, but it could in a "
-#| "cave that lay to the northeast of it. Rugnur sent me back, with the "
-#| "message that it had been completed, but he and all the rest of the "
-#| "dwarves went into the caves, and were immediately followed by hundreds of "
-#| "elves."
 msgid ""
 "We had been besieged by elves, in a dwarvish castle that was not Rugnur’s. "
 "Rugnur sent me back, with the message that the sceptre was near completion, "
 "but he and all the rest of the dwarves went into the caves south of the "
 "Arkan-thoria, and were immediately followed by hundreds of elves."
 msgstr ""
-"Byli jsme obleženi elfy v trpasličím hradě, který ale nebyl Rugnurova kmene. "
-"Žezlo tam nemohlo být dokončeno, ale mohlo se tak stát v jeskyni ležící "
-"severovýchodně od hradu. Rugnur mne poslal zpátky se zprávou, že bude "
-"dokončeno, ale on a zbytek trpaslíků zamířili do jeskyní a byli ihned "
-"následováni stovkami elfů."
+"Byli jsme obléháni elfy v trpasličím hradě, který ale nebyl Rugnurova klanu. "
+"Rugnur mě poslal zpátky se zprávou, že žezlo je téměř dokončeno. Ale on "
+"a zbytek trpaslíků zamířili do jeskyní jižně od Arkan-thorie, kam "
+"je okamžitě následovaly stovky elfů."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:158
@@ -4436,6 +4407,8 @@ msgid ""
 "The length of this unit’s improvised weapon allows it to strike first in "
 "defensive melee, but it cannot use it to attack."
 msgstr ""
+"Délka této improvizované zbraně umožnuje jednotce zaútočit jako první, ale "
+"pouze při defenzivním použití."
 
 #. [attack]: type=impact
 #: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:25
@@ -4445,7 +4418,7 @@ msgstr "bič"
 #. [firststrike]: id=deterrentstrike
 #: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:34
 msgid "deterrent strike"
-msgstr ""
+msgstr "odstrašující úder"
 
 #. [firststrike]: id=deterrentstrike
 #: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:35
@@ -4453,6 +4426,8 @@ msgid ""
 "This unit always strikes first with this attack if they are defending, but "
 "cannot attack with it at all."
 msgstr ""
+"Tato jednotka tímto útokem vždy udeří jako první, ale pouze při defenzivním "
+"použití. Při ofenzivním použití ho vůbec nemůže použít."
 
 #. [unit_type]: id=Dwarvish Miner, race=dwarf
 #: data/campaigns/Sceptre_of_Fire/units/Dwarvish_Miner.cfg:4
@@ -4509,6 +4484,7 @@ msgstr ""
 #: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:113
 msgid "My tools are ready. Step closer, if you want to witness my rune-work."
 msgstr ""
+"Mé nástroje jsou připraveny. Pojď blíž, pokud chceš vidět mé runové řemeslo."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:285
@@ -4587,7 +4563,7 @@ msgstr "Ne"
 #. [option]
 #: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:383
 msgid "Not now."
-msgstr ""
+msgstr "Teď ne."
 
 #. [option]
 #: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:400
