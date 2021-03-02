@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 18:40-0300\n"
-"PO-Revision-Date: 2021-02-28 08:25+0100\n"
+"PO-Revision-Date: 2021-03-02 21:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4101,10 +4101,8 @@ msgstr "$percent % zlata přeneseno do dalšího scénáře."
 
 #. [modification]: id=plan_unit_advance
 #: data/modifications.cfg:6
-#, fuzzy
-#| msgid "XP to advance"
 msgid "Plan Unit Advance"
-msgstr "zkušenostních bodů k postupu"
+msgstr "Plánovat povýšení jednotky"
 
 #. [modification]: id=plan_unit_advance
 #: data/modifications.cfg:7
@@ -4115,13 +4113,10 @@ msgid ""
 "units of the same type."
 msgstr ""
 
-# text místo klikacího seznamu povýšení v nápovědě
 #. [checkbox]: id=pickadvance_force_choice
 #: data/modifications.cfg:12
-#, fuzzy
-#| msgid "No advancement"
 msgid "Force advancement planning"
-msgstr "Bez povýšení"
+msgstr "Vynutit plánování povýšení"
 
 #. [checkbox]: id=pickadvance_force_choice
 #: data/modifications.cfg:13
@@ -4135,10 +4130,8 @@ msgstr ""
 #. [lua]: pickadvance.show_dialog_unsynchronized
 #: data/modifications/pick_advance/dialog.lua:30
 #: data/modifications/pick_advance/main.lua:10
-#, fuzzy
-#| msgid "Delay Advancements"
 msgid "Plan Advancement"
-msgstr "Pozdržet povýšení"
+msgstr "Plánovat povýšení"
 
 #. [lua]: pickadvance.show_dialog_unsynchronized
 #: data/modifications/pick_advance/dialog.lua:67
@@ -4164,10 +4157,8 @@ msgstr "Zrušit"
 # text místo klikacího seznamu povýšení v nápovědě
 #. [lua]: preshow
 #: data/modifications/pick_advance/dialog.lua:174
-#, fuzzy
-#| msgid "No advancement"
 msgid "No planned advancement"
-msgstr "Bez povýšení"
+msgstr "Žádné plánované povýšení"
 
 #. [leadership]: id=magical_leadership
 #: data/scenario-test.cfg:339
