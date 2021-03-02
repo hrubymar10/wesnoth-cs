@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-02-25 21:33+0100\n"
+"PO-Revision-Date: 2021-03-02 20:06+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3600,12 +3600,12 @@ msgstr ""
 #. [unit]: type=Royal Guard, id=Guard Captain
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:63
 msgid "Guard Captain"
-msgstr "Kapitán stráže"
+msgstr "kapitán stráže"
 
 #. [unit]: type=Swordsman, id=Gatekeeper
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:80
 msgid "Gatekeeper"
-msgstr "Strážce brány"
+msgstr "strážce brány"
 
 #. [message]: speaker=Gatekeeper
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:99
@@ -3619,7 +3619,7 @@ msgid ""
 "the Northlands."
 msgstr ""
 "Z cesty. Jsem Alanin z Haldrikovy královské stráže a přináším zprávy ze "
-"severních zemí."
+"Severních zemí."
 
 #. [message]: speaker=Gatekeeper
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:107
