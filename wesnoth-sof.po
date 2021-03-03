@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 21:40 UTC\n"
-"PO-Revision-Date: 2021-03-02 13:35+0100\n"
+"PO-Revision-Date: 2021-03-03 12:02+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -209,10 +209,10 @@ msgid ""
 "and the challenge he set, or that of Konrad, king of Wesnoth by virtue of "
 "the Sceptre."
 msgstr ""
-"Ano, Ohnivé žezlo. Žezlo má dlouhou, slavnou a děsivou historii. Ale nejsem "
-"tu, abych vám vyprávěl, jak Haldrik Velký přivezl tento klenot přes oceán. "
-"Ani vám nebudu vyprávět příběh Gararda prvního, o výzvě kterou vyhlásil, "
-"nebo o Konrádovi, králi Wesnothu právem žezla."
+"Ano, Ohnivé žezlo. Žezlo má dlouhou, slavnou a také děsivou historii. Ale "
+"nejsem tu, abych vám vyprávěl, jak Haldrik Velký přivezl klenot tvořící "
+"jádro žezla přes oceán. Ani vám nebudu vyprávět příběh Gararda I. a jeho "
+"výzvě, kterou vyhlásil. Nebo příběh o Konrádovi, králi Wesnothu právem žezla."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:193
@@ -221,10 +221,9 @@ msgid ""
 "dwarfdom. And of the dwarves who made it; for they were great, they were. "
 "They are counted among the greatest of the heroes of ancient Knalga."
 msgstr ""
-"Jsem zde abych vám vyprávěl příběh jeho tvoření. O jeho obrábění hluboko v "
-"jeskyních trpasličího království a o trpaslících, kteří ho vytvořili; neboť "
-"ti byli vskutku vznešení a jsou započítáni mezi nejmocnějšími hrdiny dávné "
-"Knalgy."
+"Jsem zde, abych vám vyprávěl příběh jeho vzniku. O jeho výrobě hluboko v "
+"jeskyních trpasličího království a o trpaslících, kteří ho vytvořili. Neboť "
+"ti byli vskutku vznešení a patří mezi nejmocnějšími hrdiny dávné Knalgy."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:196
@@ -235,18 +234,20 @@ msgid ""
 "army behind him..."
 msgstr ""
 "Náš příběh začíná u malé pohraniční stanice v jižních kopcích Knalgy. Velí "
-"jí mladý trpaslík Rugnur a druhý král Wesnothu, Haldrik II, jede po cestě od "
-"Abezského brodu s armádou v patách..."
+"jí mladý trpaslík Rugnur a druhý král Wesnothu, Haldrik II., jede po cestě "
+"od Abezského brodu se svou armádou v patách..."
 
+# Opět volba překladatele o kovu měny. Kontextuálně upraveno.
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:220
 msgid "Transport 5 caravans full of silver back to the dwarvish castle"
-msgstr "Doprav 5 karavan plných stříbra zpět do trpasličího hradu"
+msgstr "Doprav 5 karavan zlata do trpasličího hradu"
 
+# Opět volba překladatele o kovu měny. Kontextuálně upraveno.
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:222
 msgid "Transport 4 caravans full of silver back to the dwarvish castle"
-msgstr "Doprav 4 karavany plné stříbra zpět do trpasličího hradu"
+msgstr "Doprav 4 karavany zlata do trpasličího hradu"
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:230
@@ -362,7 +363,7 @@ msgid ""
 "And what... you want us to do this, contain the radiance of the stone? By "
 "making an artifact of some kind?"
 msgstr ""
-"A co... chceš, abychom to udělali, ovládli vyzařování kamene? Vytvořením "
+"A co... chceš, abychom s tím udělali, ovládli vyzařování kamene? Vytvořením "
 "nějakého artefaktu?"
 
 #. [message]: speaker=Haldric II
@@ -449,7 +450,7 @@ msgstr "Ani náhodou pod patnáct tisíc!"
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:400
 msgid ""
 "Then no deal. I’ll gather my things and go to another dwarvish clan now."
-msgstr "Potom nebude dohoda. Raději půjdu za jiným trpasličím kmenem."
+msgstr "Potom nebude dohoda. Raději půjdu za jiným trpasličím klanem."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:405
@@ -487,9 +488,9 @@ msgid ""
 "and make sure you are going to get it done on time. I expect it done before "
 "my reign as king is ended."
 msgstr ""
-"Skvěle. Mám tu zlato připravené k naložení a pošlu někoho s kamenem "
-"samotným. Zůstane s vámi, dokud nebude žezlo hotovo, aby se ujistil, že "
-"žezlo dokončíte včas. Očekávám, že bude hotové, než skončí má vláda."
+"Skvěle. Mám tu zlato připravené k naložení a pošlu někoho se samotným "
+"kamenem. Zůstane s vámi, dokud nebude žezlo hotovo, aby se ujistil, že žezlo "
+"dokončíte včas. Očekávám, že bude hotové, než skončí má vláda."
 
 #. [unit]: type=Dragoon, id=Alanin
 #. [side]
@@ -513,8 +514,8 @@ msgid ""
 "Hey! You can’t do that — this road is an elvish road. We’re not letting you "
 "transport gold and jewels on it without paying a toll."
 msgstr ""
-"Hej! To nemůžete – tohle je elfí cesta. Nenecháme vás po ní převézt zlato "
-"ani šperky bez zaplacení mýtného."
+"Hej! To nemůžete, tohle je elfí cesta. Nenecháme vás po ní převézt zlato ani "
+"šperky bez zaplacení mýtného."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:491
@@ -918,7 +919,8 @@ msgid ""
 "dwarf-made stonecraft. We refuse — now let’s close these gates!"
 msgstr ""
 "Můžete být silnější než my, ale pochybuji, že se dostanete přes trpasličí "
-"kamennou vychytávku. Odmítáme se vzdát – teď pojďme uzavřít ty brány!"
+"kamennou vychytávku. Odmítáme se vzdát.\n"
+"Teď pojďme uzavřít ty brány!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:504
@@ -2415,17 +2417,12 @@ msgstr "Máš už něco?!"
 
 #. [message]: speaker=Theganli
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:295
-#, fuzzy
-#| msgid ""
-#| "Ah, well, uh, no... no, not yet... unfortunately... it seems... it can’t "
-#| "be cut... or scratched... or damaged at all... at least not by my tools..."
 msgid ""
 "Ah, well, uh, no... no... unfortunately... It seems it can’t be cut, or "
 "scratched, or damaged at all! At least not by my tools..."
 msgstr ""
-"Ah, no, uh, ne, ještě ne... naneštěstí... zdá se... že nemůže být "
-"zbroušen... nebo poškrábán... nebo vůbec poškozen... alespoň ne mými "
-"nástroji."
+"Ah, no, uh, ne... ne... naneštěstí... Zdá se..., že nemůže být zbroušen... "
+"nebo poškrábán... nebo vůbec poškozen... alespoň ne mými nástroji..."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:299
@@ -2443,26 +2440,23 @@ msgid ""
 "and grit of some rare mineral, I don't know what it is or how they got it, "
 "but their work is well known among us gem crafters."
 msgstr ""
+"No... A co požádat klan Shorbear? Mají dobré nástroje... Dláta a drť "
+"nějakého vzácného minerálu. Nevím, co to je nebo jak se k tomu dostali, ale "
+"jejich práce je mezi námi klenotníky dobře známá."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:307
-#, fuzzy
-#| msgid "Who are they?"
 msgid "Shorbear? Who are they?"
-msgstr "Co jsou zač?"
+msgstr "Klan Shorbear? Co jsou zač?"
 
 #. [message]: speaker=Theganli
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:311
-#, fuzzy
-#| msgid ""
-#| "Another group... of dwarves... live south of here... above ground... "
-#| "yes... best jewelers I know of... have special tools... tools, yes..."
 msgid ""
 "Another group of dwarves that live south of here... Above ground, if you can "
 "believe it! Yes, they're the best jewelers..."
 msgstr ""
-"Jiná skupina... trpaslíků... žijí na jih odsud... nad zemí... ano... "
-"nejlepší klenotníci co znám... mají speciální nástroje... nástroje, ano..."
+"Jiná skupina trpaslíků, co žije jižně odsud... Nad zemí, považte! Ano a jsou "
+"to nejlepší klenotníci co znám..."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:315
@@ -2486,10 +2480,8 @@ msgstr ""
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:336
-#, fuzzy
-#| msgid "Fine. Go rent it from them."
 msgid "Fine! Go rent it from them."
-msgstr "Dobrá. Běž a pronajmi je od nich."
+msgstr "Dobře! Běž a pronajmi je od nich."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:340
@@ -2623,15 +2615,11 @@ msgstr ""
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:302
-#, fuzzy
-#| msgid ""
-#| "You’re a king?! Must be a pretty small kingdom for you to come yourself "
-#| "to bargain with us!"
 msgid ""
 "You’re a <i>lord</i>?! Must be a pretty small clan for you to come yourself "
 "to bargain with us!"
 msgstr ""
-"Ty jsi král?! To musí být dost malé království, když jsi s námi přišel "
+"Ty jsi <i>lord</i>?! To musí být dost malý klan, když jsi s námi přišel "
 "vyjednávat sám!"
 
 #. [message]: speaker=Durstorn
@@ -2794,36 +2782,25 @@ msgstr "Nyní můžeš nabírat jezdce na gryfonech."
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:482
-#, fuzzy
-#| msgid ""
-#| "Aha! I’ve spent years looking for you dwarves, but now I’ve found you! "
-#| "Prepare to die!"
 msgid ""
 "Aha! I've been looking all over for you dwarves, but now I’ve found you! "
 "Prepare to die!"
 msgstr ""
-"Ha! Hledáním vás trpaslíků jsem strávil roky, ale teď jsem vás našel! "
-"Připravte se zemřít!"
+"Ha! Hledal jsem vás všude, ale teď jsem vás našel! Připravte se na smrt!"
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:486
-#, fuzzy
-#| msgid "Who the devil are you?"
 msgid "Who in the earth’s guts are you?"
-msgstr "Kdo k čertu jsi?"
+msgstr "Kdo u zemských řití jsi ty?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:490
-#, fuzzy
-#| msgid ""
-#| "I thought we left the elves behind at the gates four years ago! It seems "
-#| "we have two enemies now."
 msgid ""
 "I thought we left the elves behind at the gates way back when... It seems we "
 "have two enemies now!"
 msgstr ""
-"Myslel jsem, že jsme elfům uprchli u brány před čtyřmi lety! Zdá se, že teď "
-"máme dva nepřátele."
+"Myslel jsem, že elfové zůstali za branami, když... Zdá se, že teď máme dva "
+"nepřátele!"
 
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:494
