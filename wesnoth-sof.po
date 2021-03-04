@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-03-02 20:06+0100\n"
+"PO-Revision-Date: 2021-03-04 21:26+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -197,10 +197,10 @@ msgid ""
 "and the challenge he set, or that of Konrad, king of Wesnoth by virtue of "
 "the Sceptre."
 msgstr ""
-"Ano, Ohnivé žezlo. Žezlo má dlouhou, slavnou a děsivou historii. Ale nejsem "
-"tu, abych vám vyprávěl, jak Haldrik Velký přivezl tento klenot přes oceán. "
-"Ani vám nebudu vyprávět příběh Gararda prvního, o výzvě kterou vyhlásil, "
-"nebo o Konrádovi, králi Wesnothu právem žezla."
+"Ano, Ohnivé žezlo. Žezlo má dlouhou, slavnou a také děsivou historii. Ale "
+"nejsem tu, abych vám vyprávěl, jak Haldrik Velký přivezl klenot tvořící "
+"jádro žezla přes oceán. Ani vám nebudu vyprávět příběh Gararda I. a o jeho "
+"výzvě, kterou vyhlásil. Nebo příběh o Konrádovi, králi Wesnothu právem žezla."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:113
@@ -209,10 +209,9 @@ msgid ""
 "dwarfdom. And of the dwarves who made it; for they were great, they were. "
 "They are counted among the greatest of the heroes of ancient Knalga."
 msgstr ""
-"Jsem zde abych vám vyprávěl příběh jeho tvoření. O jeho obrábění hluboko v "
-"jeskyních trpasličího království a o trpaslících, kteří ho vytvořili; neboť "
-"ti byli vskutku vznešení a jsou započítáni mezi nejmocnějšími hrdiny dávné "
-"Knalgy."
+"Jsem zde, abych vám vyprávěl příběh jeho vzniku. O jeho výrobě hluboko v "
+"jeskyních trpasličího království a o trpaslících, kteří ho vytvořili. Neboť "
+"ti byli vskutku vznešení a patří mezi nejmocnější hrdiny dávné Knalgy."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:116
@@ -223,18 +222,20 @@ msgid ""
 "army behind him..."
 msgstr ""
 "Náš příběh začíná u malé pohraniční stanice v jižních kopcích Knalgy. Velí "
-"jí mladý trpaslík Rugnur a druhý král Wesnothu, Haldrik II, jede po cestě od "
-"Abezského brodu s armádou v patách..."
+"jí mladý trpaslík Rugnur a druhý král Wesnothu, Haldrik II., jede po cestě "
+"od Abezského brodu se svou armádou v patách..."
 
+# Opět volba překladatele o kovu měny. Kontextuálně upraveno.
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:136
 msgid "Transport 5 caravans full of silver back to the dwarvish castle"
-msgstr "Doprav 5 karavan plných stříbra zpět do trpasličího hradu"
+msgstr "Doprav 5 karavan zlata do trpasličího hradu"
 
+# Opět volba překladatele o kovu měny. Kontextuálně upraveno.
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:138
 msgid "Transport 4 caravans full of silver back to the dwarvish castle"
-msgstr "Doprav 4 karavany plné stříbra zpět do trpasličího hradu"
+msgstr "Doprav 4 karavany zlata do trpasličího hradu"
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:146
@@ -354,7 +355,7 @@ msgid ""
 "And what... you want us to do this, contain the radiance of the stone? By "
 "making an artifact of some kind?"
 msgstr ""
-"A co... chceš, abychom to udělali, ovládli vyzařování kamene? Vytvořením "
+"A co... chceš, abychom s tím udělali, ovládli vyzařování kamene? Vytvořením "
 "nějakého artefaktu?"
 
 #. [message]: speaker=Haldric II
@@ -441,7 +442,7 @@ msgstr "Ani náhodou pod patnáct tisíc!"
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:305
 msgid ""
 "Then no deal. I’ll gather my things and go to another dwarvish clan now."
-msgstr "Potom nebude dohoda. Raději půjdu za jiným trpasličím kmenem."
+msgstr "Potom nebude dohoda. Raději půjdu za jiným trpasličím klanem."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:310
@@ -475,9 +476,9 @@ msgid ""
 "and make sure you are going to get it done on time. I expect it done before "
 "my reign as king is ended."
 msgstr ""
-"Skvěle. Mám tu zlato připravené k naložení a pošlu někoho s kamenem "
-"samotným. Zůstane s vámi, dokud nebude žezlo hotovo, aby se ujistil, že "
-"žezlo dokončíte včas. Očekávám, že bude hotové, než skončí má vláda."
+"Skvěle. Mám tu zlato připravené k naložení a pošlu někoho se samotným "
+"kamenem. Zůstane s vámi, dokud nebude žezlo hotovo, aby se ujistil, že žezlo "
+"dokončíte včas. Očekávám, že bude hotové, než skončí má vláda."
 
 #. [unit]: type=Dragoon, id=Alanin
 #. [side]: id=Alanin, type=Dragoon
@@ -501,7 +502,7 @@ msgid ""
 "Hey! You can’t do that — this road is an elvish road. We’re not letting you "
 "transport gold and jewels on it without paying a toll."
 msgstr ""
-"Hej! Tohle nemůžete... tohle je elfí cesta. Nenecháme vás převézt zlato ani "
+"Hej! To nemůžete, tohle je elfí cesta. Nenecháme vás po ní převézt zlato ani "
 "šperky bez zaplacení mýtného."
 
 #. [message]: speaker=Rugnur
@@ -881,7 +882,8 @@ msgid ""
 "dwarf-made stonecraft. We refuse — now let’s close these gates!"
 msgstr ""
 "Můžete být silnější než my, ale pochybuji, že se dostanete přes trpasličí "
-"kamennou vychytávku. Odmítáme se vzdát – teď pojďme uzavřít ty brány!"
+"kamennou vychytávku. Odmítáme se vzdát.\n"
+"Teď pojďme uzavřít ty brány!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:449
