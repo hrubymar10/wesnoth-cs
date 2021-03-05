@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-03-04 21:26+0100\n"
+"PO-Revision-Date: 2021-03-05 23:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2568,7 +2568,9 @@ msgstr "Kalnar"
 msgid ""
 "Durstorn’s rash action led to many problems. Not the least of which was "
 "being surrounded by elves."
-msgstr "Durstornova unáhlená akce vedla k mnohým problémům."
+msgstr ""
+"Durstornova unáhlená akce vedla k mnohým problémům. Jedním z nich bylo elfí "
+"obklíčení."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:150
@@ -2615,8 +2617,8 @@ msgid ""
 "and gold he needs. Shouldn’t we leave now?"
 msgstr ""
 "Inu, Thursagan dospěl k závěru. Nedokáže dokončit žezlo s materiály, které "
-"má tady, ale má plán k dokončení a všechny drahokamy i zlato, které "
-"potřebuje. Neměli bychom teď odejít?"
+"tu má. Má ale plán k dokončení a všechny drahokamy i zlato, které potřebuje. "
+"Neměli bychom teď odejít?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:268
@@ -3226,7 +3228,7 @@ msgstr "Podívej, v těch jeskyních je drak!"
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:325
 msgid "Ah, fresh meat!"
-msgstr "Ah, čerstvé maso!"
+msgstr "Ha, čerstvé maso!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:329
@@ -3240,9 +3242,9 @@ msgid ""
 "brother, but he was weaker than me, and you will not find me so easy to "
 "defeat. Now get out of my volcano!"
 msgstr ""
-"Já jsem Krakraš, největší drak všech dob! Haldrik zabil Šekkana, mého "
-"bratra, ale ten byl slabší než já. Zjistíte, že mne není tak lehké porazit. "
-"Teď odejděte z mé sopky!"
+"Já jsem Krakraš, největší drak všech dob! Jsem bratr Šekekahana, kterého "
+"zabil Haldrik. Ale Šekekahan byl slabší než já. Zjistíte, že mne není tak "
+"lehké porazit. Teď vypadněte z mé sopky!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:338
@@ -3265,7 +3267,7 @@ msgid ""
 "do."
 msgstr ""
 "To musí být jeden z těch surghanských žoldáků. Vsadím se, že elfové si "
-"najali víc takových. To je pro nás špatná zpráva, protože se budou "
+"takových najali víc. To je pro nás špatná zpráva, protože se budou "
 "v jeskyních pohybovat stejně rychle jako my."
 
 #. [message]: speaker=Krawg
