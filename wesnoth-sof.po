@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-03-05 23:11+0100\n"
+"PO-Revision-Date: 2021-03-09 17:36+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1749,7 +1749,7 @@ msgstr ""
 #. "Me, too!"
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:257
 msgid "M’ ’u!"
-msgstr "Jáá tááák!"
+msgstr "Jáá táááky!"
 
 #. [scenario]: id=4_Gathering_Materials
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:3
@@ -2455,7 +2455,7 @@ msgid ""
 "came for, the tools!"
 msgstr ""
 "Nebuď blázen! Nemůžeme porazit ty elfy a byla chyba zaútočit na ty "
-"trpaslíky, ale když máme bojovat, měli bychom ustoupit, jakmile budeme mít "
+"trpaslíky. Ale když máme bojovat, měli bychom ustoupit, jakmile budeme mít "
 "to, pro co jsme přišli, nástroje!"
 
 #. [message]: speaker=Durstorn
@@ -2479,8 +2479,8 @@ msgid ""
 "You are right... well, we will be able to break out eventually, and while "
 "we’re here, we’ll be able to finally make the sceptre."
 msgstr ""
-"Máš pravdu... jsme schopni se odtud probít a zatímco tu budeme, budeme moci "
-"konečně dokončit žezlo."
+"Máš pravdu... no, nakonec budeme schopni se odsud probít. A když už jsme "
+"tady, budeme moci konečně vytvořit žezlo."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:517
@@ -2496,8 +2496,8 @@ msgstr ""
 msgid ""
 "Indeed. Kill them! And make sure no more enter. Then we can close the gates."
 msgstr ""
-"Vskutku. Zabijte je! A zajistěte, aby se sem nedostali další. Potom uzavřeme "
-"brány."
+"Vskutku. Zabte je! A zajistěte, aby se sem nedostali další. Pak budem moci "
+"uzavřít brány."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:532
@@ -2525,7 +2525,7 @@ msgstr ""
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:553
 msgid "Indeed. Everyone to the caves, and kill those still inside!"
-msgstr "Samozřejmě. Všichni do jeskyní a zabijte všechny uvnitř!"
+msgstr "Samozřejmě. Všichni do jeskyní a zabte všechny uvnitř!"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:606
@@ -2534,7 +2534,9 @@ msgstr "Samozřejmě. Všichni do jeskyní a zabijte všechny uvnitř!"
 msgid ""
 "We have driven all of the dwarves and elves out of these caves! Now, seal "
 "the gates!"
-msgstr "Všichni trpaslíci a elfové jsou venku z jeskyní! Uzavřete brány!"
+msgstr ""
+"Vyhnali jsme z těchto jeskyní všechny nepřátelské trpaslíky i elfy! Teď "
+"uzavřete brány!"
 
 #. [message]: speaker=Durstorn
 #. [message]: speaker=Baglur
