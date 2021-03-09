@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 18:40-0300\n"
-"PO-Revision-Date: 2021-03-08 21:16+0100\n"
+"PO-Revision-Date: 2021-03-09 22:21+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6848,6 +6848,7 @@ msgstr ""
 #: src/gui/core/linked_group_definition.cpp:39
 msgid "Linked group '$id' needs a 'fixed_width' or 'fixed_height' key."
 msgstr ""
+"Spojená skupina „$id“ potřebuje klíč „fixed_width“ nebo „fixed_height“."
 
 #: src/gui/dialogs/addon/install_dependencies.cpp:36
 msgid ""
