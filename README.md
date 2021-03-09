@@ -9,15 +9,15 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-manpages | 306 | 55 % | 135 |
 wesnoth-manual | 433 | 97 % | 9 | Septim
-wesnoth-sof | 625 | 95 % | 31 | Septim
+wesnoth-sof | 625 | 98 % | 10 | Septim
 wesnoth-wc | 436 | 94 % | 25 |
-wesnoth | 1355 | 94 % | 79 | Michal
+wesnoth | 1355 | 95 % | 60 | Michal
 
-Total messages remaining: **279**
+Total messages remaining: **239**
 
 Progress since 2020-08-28: **13** messages per day
 
-ETA: **2021-03-26**
+ETA: **2021-03-27**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
