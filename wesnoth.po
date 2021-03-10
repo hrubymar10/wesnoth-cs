@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-07 00:48-0300\n"
-"PO-Revision-Date: 2021-03-09 22:23+0100\n"
+"PO-Revision-Date: 2021-03-10 05:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6947,7 +6947,7 @@ msgid ""
 "Unknown command '$command', try $help_command for a list of available "
 "commands."
 msgstr ""
-"Neznámý příkaz '$command'; zkus $help_command pro seznam dostupných příkazů."
+"Neznámý příkaz „$command“, zkus $help_command pro seznam dostupných příkazů."
 
 #: src/map_command_handler.hpp:210
 msgid "Error:"
@@ -6958,8 +6958,8 @@ msgid ""
 "Available commands list and command-specific help. Use \"help all\" to "
 "include currently unavailable commands."
 msgstr ""
-"Seznam dostupných příkazů a jejich nápověda. Použijte \"help all\" pro "
-"zahrnutí nedostupných příkazů."
+"Seznam dostupných příkazů a nápověda k nim. Použij „help all“ pro zahrnutí "
+"nyní nedostupných příkazů."
 
 #. TRANSLATORS: These are the arguments accepted by the "help" command,
 #. which are either "all" or the name of another command.
@@ -6970,6 +6970,9 @@ msgid ""
 "“all” = overview of all commands, <command> = name of a specific command "
 "(provides more detail)"
 msgstr ""
+"[all|<příkaz>]\n"
+"„all“ = přehled všech příkazů, <příkaz> = název určitého příkazu (poskytne "
+"více podrobností)"
 
 #: src/map_command_handler.hpp:266
 msgid "Missing argument $arg_id"
