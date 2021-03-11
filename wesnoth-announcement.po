@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-01 17:47-0300\n"
-"PO-Revision-Date: 2021-02-09 22:44+0100\n"
+"PO-Revision-Date: 2021-03-11 20:00+0100\n"
 "Last-Translator: Martin Hrubý <hrubymar10@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -638,56 +638,8 @@ msgstr ""
 msgid "Site design Copyright &#169; 2017&#8211;2018 by Iris Morelle."
 msgstr "Design a návrh stránek &#169; 2017&#8211;2018 Iris Morelle."
 
-#, fuzzy
-#~| msgid "<a href='//www.wesnoth.org'>"
-#~ msgid "<a href=\"//www.wesnoth.org\">"
-#~ msgstr "<a href='//www.wesnoth.org'>"
-
-#, fuzzy
-#~| msgid "Wesnoth logo"
-#~ msgid "Wesnoth Logo"
-#~ msgstr "Logo Wesnothu"
-
-#, fuzzy
-#~| msgid "<a href='#download'>Download</a>"
-#~ msgid "<a id=\"download-button\" href=\"#download\">Download Now!</a>"
-#~ msgstr "<a href='#download'>Stažení</a>"
-
 #~ msgid "Default"
 #~ msgstr "Default"
-
-#, fuzzy
-#~| msgid "Battle for Wesnoth 1.10 Release Notes"
-#~ msgid "Battle for Wesnoth 1.12 Release Notes"
-#~ msgstr "Poznámky k vydání Bitvy o Wesnoth verze 1.10"
-
-#, fuzzy
-#~| msgid ""
-#~| "<em>January 2012</em>. It is once again time for that thrill you’ve all been waiting for: the "
-#~| "beginning of a new stable release series. The development team is proud to release version 1.10 "
-#~| "of <em>The Battle for Wesnoth</em>, a <a href='http://www.gnu.org/philosophy/philosophy."
-#~| "html'>free</a> and <a href='http://www.opensource.org/'>open-source</a> turn-based strategy game "
-#~| "with a fantasy theme and role-playing elements. The game is available for Microsoft Windows, Mac "
-#~| "OS X, and various GNU/Linux distributions."
-#~ msgid ""
-#~ "<i>December 2014</i>. As the year comes to an end, a new stable release series begins. The "
-#~ "development team is proud to present version 1.12 of <cite>The Battle for Wesnoth</cite>, a <a "
-#~ "href='http://www.gnu.org/philosophy/philosophy.html'>free</a> and <a href='http://www.opensource."
-#~ "org/'>open source</a> turn-based tactical strategy game with a high fantasy theme and role-playing "
-#~ "elements. The game is available for Microsoft Windows, Apple OS X, and various GNU/Linux "
-#~ "distributions."
-#~ msgstr ""
-#~ "<em>Leden 2012</em>. Opět nadešel čas pro netrpělivě očekávanou událost, vydání stabilní verze "
-#~ "Wesnothu. Tým vývojářů Bitvy o&nbsp;Wesnoth hrdě oznamuje vydání verze 1.10 hry <em>Bitva o&nbsp;"
-#~ "Wesnoth</em> &#8212; <a href='http://www.gnu.org/philosophy/philosophy.html'>svobodné</a> <a "
-#~ "href='http://www.opensource.org/'>open-source</a> tahové strategie s&nbsp;fantastickým námětem "
-#~ "a&nbsp;prvky RPG. Hru můžete <a href='#download'>stahovat</a> ve verzích pro Windows, Mac&nbsp;"
-#~ "OS&nbsp;X a&nbsp;různé distribuce GNU/Linuxu."
-
-#, fuzzy
-#~| msgid "<a href='#game'>What’s New in Wesnoth 1.10</a>"
-#~ msgid "<a href='#game'>What’s New in Wesnoth 1.12</a>"
-#~ msgstr "<a href='#game'>Co je nového v Bitvě o Wesnoth, verze 1.10</a>"
 
 #~ msgid "<a href='#players'>For Players</a>"
 #~ msgstr "<a href='#players'>Pro hráče</a>"

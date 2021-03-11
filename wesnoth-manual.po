@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "POT-Creation-Date: 2021-02-20 18:40-0300\n"
-"PO-Revision-Date: 2021-03-01 12:35+0100\n"
+"PO-Revision-Date: 2021-03-11 20:10+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4206,16 +4206,6 @@ msgstr ""
 #~ msgid ":"
 #~ msgstr ":"
 
-#, fuzzy
-#~| msgid ""
-#~| "<ulink url=\"http://www.wesnoth.org/wiki/CommandMode\">Command mode</"
-#~| "ulink>"
-#~ msgid ""
-#~ "<ulink url=\"https://wiki.wesnoth.org/CommandMode\">Command mode</ulink>"
-#~ msgstr ""
-#~ "<ulink url=\"https://www.wesnoth.org/wiki/CommandMode\">Command mode</"
-#~ "ulink>"
-
 #~ msgid "F5"
 #~ msgstr "F5"
 
@@ -4307,14 +4297,6 @@ msgstr ""
 
 #~ msgid "Black"
 #~ msgstr "Černý"
-
-#, fuzzy
-#~| msgid ""
-#~| "<imageobject> <imagedata fileref=\"images/orb-blue.jpg\"/> </imageobject>"
-#~ msgid ""
-#~ "<imageobject> <imagedata fileref=\"images/orb-black.jpg\"/> </imageobject>"
-#~ msgstr ""
-#~ "<imageobject> <imagedata fileref=\"images/orb-blue.jpg\"/> </imageobject>"
 
 #~ msgid "Black orb"
 #~ msgstr "Černá koule"
