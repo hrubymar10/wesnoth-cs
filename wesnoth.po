@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-07 00:48-0300\n"
-"PO-Revision-Date: 2021-03-11 17:54+0100\n"
+"PO-Revision-Date: 2021-03-11 18:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7409,15 +7409,15 @@ msgstr "Nelze „droidovat“ síťovou stranu „$side|“."
 
 #: src/menu_events.cpp:1477
 msgid "Side '$side' is already droided."
-msgstr ""
+msgstr "Strana „$side” už je počítačem řízena."
 
 #: src/menu_events.cpp:1487
 msgid "Side '$side' controller is now controlled by: AI."
-msgstr "Strana '$side' je nyní řízena počítačem."
+msgstr "Strana „$side“ je nyní řízena počítačem."
 
 #: src/menu_events.cpp:1489
 msgid "Side '$side' controller is now controlled by: human."
-msgstr "Strana '$side' je nyní řízena člověkem."
+msgstr "Strana „$side“ je nyní řízena člověkem."
 
 #: src/menu_events.cpp:1497
 msgid "Can't droid a local ai side: '$side'."
@@ -7479,6 +7479,11 @@ msgid ""
 "\n"
 "Do not continue unless you really know what you are doing."
 msgstr ""
+"Spouštění Lua kódu tímto způsobem otevírá tvůj počítač možným narušením "
+"bezpečnosti od kterýchkoliv rozšíření či jiných programů, které sis možná "
+"nainstaloval.\n"
+"\n"
+"Nepokračuj, pokud opravdu nevíš, co děláš."
 
 #: src/menu_events.cpp:1810
 msgid "Unsafe mode enabled!"
@@ -7538,7 +7543,7 @@ msgstr "Nezrcadlit spojence"
 
 #: src/mp_ui_alerts.cpp:67
 msgid "A game ($name|, $scenario|) has been created"
-msgstr ""
+msgstr "Byla vytvořena hra ($name|, $scenario|)"
 
 #: src/mp_ui_alerts.cpp:68 src/mp_ui_alerts.cpp:82 src/mp_ui_alerts.cpp:96
 #: src/mp_ui_alerts.cpp:165 src/mp_ui_alerts.cpp:176
