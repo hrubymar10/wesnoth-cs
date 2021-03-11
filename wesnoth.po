@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-07 00:48-0300\n"
-"PO-Revision-Date: 2021-03-11 18:32+0100\n"
+"PO-Revision-Date: 2021-03-11 18:41+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7409,7 +7409,7 @@ msgstr "Nelze „droidovat“ síťovou stranu „$side|“."
 
 #: src/menu_events.cpp:1477
 msgid "Side '$side' is already droided."
-msgstr "Strana „$side” už je počítačem řízena."
+msgstr "Strana „$side“ už je počítačem řízena."
 
 #: src/menu_events.cpp:1487
 msgid "Side '$side' controller is now controlled by: AI."
