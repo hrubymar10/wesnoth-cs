@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 18:40-0300\n"
-"PO-Revision-Date: 2021-03-11 19:58+0100\n"
+"PO-Revision-Date: 2021-03-12 19:08+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7815,7 +7815,7 @@ msgstr "Nalezen terén s cenou pohybu menší než 1."
 #. from another player. This text will be embedded into a sentence.
 #: src/persist_var.cpp:58
 msgid "waiting for^a global variable"
-msgstr ""
+msgstr "globální proměnnou"
 
 #: src/play_controller.cpp:245
 msgid "time left for current turn"
@@ -8278,7 +8278,7 @@ msgstr "Baterie"
 
 #: src/reports.cpp:1739
 msgid "Countdown until your turn automatically ends."
-msgstr ""
+msgstr "Odpočítávání, než tvé kolo automaticky skončí."
 
 #: src/reports.cpp:1739
 msgid "Turn Countdown"
@@ -8564,16 +8564,16 @@ msgstr ""
 #: src/synced_user_choice.cpp:330
 msgid "waiting for $desc from side $sides"
 msgid_plural "waiting for $desc from sides $sides"
-msgstr[0] "čeká se na $desc hrajícího za stranu $sides"
-msgstr[1] "čeká se na $desc hrajícího za strany $sides"
-msgstr[2] "čeká se na $desc hrajícího za strany $sides"
+msgstr[0] "čeká se na $desc od strany $sides"
+msgstr[1] "čeká se na $desc od stran $sides"
+msgstr[2] "čeká se na $desc od stran $sides"
 
 #. TRANSLATORS: In networked games, this text is shown for other clients,
 #. while they wait for an action from another player.
 #. This text will be embedded into a sentence.
 #: src/synced_user_choice.hpp:44
 msgid "waiting for^input"
-msgstr ""
+msgstr "vstup"
 
 #. TRANSLATORS: $color_id is the internal identifier of a side color, for example, 'lightred'.
 #. Translate the quotation marks only; leave "color_id" untranslated, as it's a variable name.
