@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-20 18:40-0300\n"
-"PO-Revision-Date: 2021-03-12 19:08+0100\n"
+"PO-Revision-Date: 2021-03-12 19:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8579,7 +8579,7 @@ msgstr "vstup"
 #. Translate the quotation marks only; leave "color_id" untranslated, as it's a variable name.
 #: src/team.cpp:993
 msgid "“$color_id”"
-msgstr ""
+msgstr "„$color_id“"
 
 #: src/terrain/terrain.cpp:192
 msgid "Allied village"
