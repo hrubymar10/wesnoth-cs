@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 20:18-0300\n"
-"PO-Revision-Date: 2021-03-11 20:07+0100\n"
+"PO-Revision-Date: 2021-03-13 06:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -75,10 +75,8 @@ msgstr "Plot"
 #. [row]
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:193
 #: data/gui/window/mp_faction_select.cfg:176
-#, fuzzy
-#| msgid "Random"
 msgid "gender^Random"
-msgstr "Náhodně"
+msgstr "Náhodné"
 
 #. [terrain_type]: id=deep_water_gray
 #. [terrain_type]: id=deep_water_medium
@@ -6284,16 +6282,12 @@ msgid "The game data cache could not be purged."
 msgstr "Herní cache nemohla být vyčištěna."
 
 #: src/gui/dialogs/game_load.cpp:74
-#, fuzzy
-#| msgid "Saved Games"
 msgid "No Saved Games"
-msgstr "Uložené hry"
+msgstr "Žádné uložené hry"
 
 #: src/gui/dialogs/game_load.cpp:74
-#, fuzzy
-#| msgid "There are no alternative video modes available"
 msgid "There are no saved games to load."
-msgstr "Žádné jiné grafické módy nejsou k dispozici."
+msgstr "Neexistují žádné uložené hry k načtení."
 
 #: src/gui/dialogs/game_load.cpp:143
 msgid "game_version^Current Version"
@@ -7328,10 +7322,8 @@ msgid "Kill Unit (Debug!)"
 msgstr "Zabít jednotku (ladění!)"
 
 #: src/hotkey/hotkey_command.cpp:119
-#, fuzzy
-#| msgid "Scenario Objectives"
 msgid "Objectives"
-msgstr "Úkoly scénáře"
+msgstr "Cíle"
 
 #: src/hotkey/hotkey_command.cpp:122
 msgid "Pause Network Game"
@@ -7342,10 +7334,8 @@ msgid "Continue Network Game"
 msgstr "Pokračovat v síťové hře"
 
 #: src/hotkey/hotkey_command.cpp:125
-#, fuzzy
-#| msgid "Quit to Main Menu"
 msgid "Quit to Menu"
-msgstr "Vrátit se do hlavního menu"
+msgstr "Vrátit se do menu"
 
 #: src/hotkey/hotkey_command.cpp:126
 msgid "Set Team Label"
@@ -7868,10 +7858,8 @@ msgid "Hint: save-loading is unnecessary"
 msgstr "Tip: opakované nahrávání není třeba"
 
 #: src/hotkey/hotkey_command.cpp:276
-#, fuzzy
-#| msgid "Enter User Command"
 msgid "Enter Command"
-msgstr "Vložit uživatelský příkaz"
+msgstr "Vložit příkaz"
 
 #: src/hotkey/hotkey_command.cpp:277
 msgid "Custom Command"
@@ -7882,10 +7870,8 @@ msgid "Run Formula"
 msgstr "Spustit vzorec"
 
 #: src/hotkey/hotkey_command.cpp:279
-#, fuzzy
-#| msgid "Player Chat"
 msgid "Clear Chat"
-msgstr "Zprávy hráčů"
+msgstr "Vymazat rozhovor"
 
 #: src/hotkey/hotkey_command.cpp:281
 msgid "Change Language"
