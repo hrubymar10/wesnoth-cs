@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 23:18 UTC\n"
-"PO-Revision-Date: 2021-03-11 20:17+0100\n"
+"PO-Revision-Date: 2021-03-13 06:10+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7471,10 +7471,8 @@ msgstr "Jezdec"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:200
 #: data/core/units/undead/Corpse_Walking.cfg:222
-#, fuzzy
-#| msgid "wc_variation^Bat"
 msgid "wc_variation^Beast-Rider"
-msgstr "Netopýr"
+msgstr "Jezdec na zvířeti"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:209
