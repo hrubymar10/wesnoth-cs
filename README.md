@@ -24,7 +24,6 @@ There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=lan
 
 ## Former Contributors
 - [SuperTukan](https://github.com/SuperTukan)
-- [tapikuv](https://github.com/tapikuv)
 - Dondor17
 
 ## wesnoth-announcement
