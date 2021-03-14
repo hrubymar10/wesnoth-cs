@@ -25,10 +25,6 @@ Notes:
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
 
-## Former Contributors
-- [SuperTukan](https://github.com/SuperTukan)
-- Dondor17
-
 ## wesnoth-announcement
 `wesnoth-announcement.po` originate from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
 
