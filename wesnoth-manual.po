@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "POT-Creation-Date: 2020-06-12 21:49-0400\n"
-"PO-Revision-Date: 2021-03-13 21:39+0100\n"
+"PO-Revision-Date: 2021-03-14 16:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4481,14 +4481,6 @@ msgstr ""
 
 #~ msgid "Black"
 #~ msgstr "Černý"
-
-#, fuzzy
-#~| msgid ""
-#~| "<imageobject> <imagedata fileref=\"images/orb-blue.jpg\"/> </imageobject>"
-#~ msgid ""
-#~ "<imageobject> <imagedata fileref=\"images/orb-black.jpg\"/> </imageobject>"
-#~ msgstr ""
-#~ "<imageobject> <imagedata fileref=\"images/orb-blue.jpg\"/> </imageobject>"
 
 #~ msgid "Black orb"
 #~ msgstr "Černá koule"

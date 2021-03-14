@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2020-12-09 22:20+0100\n"
+"PO-Revision-Date: 2021-03-14 16:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5375,11 +5375,6 @@ msgstr "Artor"
 
 #~ msgid "Milestone"
 #~ msgstr "Hraniční kámen"
-
-#, fuzzy
-#~| msgid "Defeat all enemy leaders"
-#~ msgid "Defeat all enemey leaders"
-#~ msgstr "Poraz vůdce nepřátel"
 
 #~ msgid "Defeat Zorlan"
 #~ msgstr "Poraz Zorlana"

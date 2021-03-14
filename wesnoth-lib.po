@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 16:35-0300\n"
-"PO-Revision-Date: 2021-02-20 01:03+0100\n"
+"PO-Revision-Date: 2021-03-14 16:14+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7763,30 +7763,6 @@ msgstr ""
 #~ msgid "Refresh"
 #~ msgstr "Obnovit"
 
-#, fuzzy
-#~| msgid ""
-#~| "You may login to the official multiplayer server with your forum "
-#~| "username and password.\n"
-#~| "Note that registration is not required to join the server: you need to "
-#~| "supply a password only if you wish to use a registered username.\n"
-#~| "\n"
-#~| "The Battle for Wesnoth forum can be found at http://forums.wesnoth.org/"
-#~ msgid ""
-#~ "You may login to the official multiplayer server with your forum username "
-#~ "and password.\n"
-#~ "Note that registration is not required to join the server: you need to "
-#~ "supply a password only if you wish to use a registered username.\n"
-#~ "\n"
-#~ "The Battle for Wesnoth forum can be found at https://forums.wesnoth.org/"
-#~ msgstr ""
-#~ "Na oficiální server hry více hráčů se lze přihlásit pomocí přezdívky a "
-#~ "hesla pro oficiální fórum.\n"
-#~ "Pro vstup není registrace vyžadována, heslo je zapotřebí pouze v případě, "
-#~ "že chcete využívat registrovanou přezdívku.\n"
-#~ "\n"
-#~ "Oficiální fórum Bitvy o Wesnoth se nachází na http://www.wesnoth.org/"
-#~ "forum/"
-
 #~ msgid "Available at titlescreen"
 #~ msgstr "Dostupné na úvodní obrazovce"
 
@@ -7813,11 +7789,6 @@ msgstr ""
 
 #~ msgid "Get Add-ons"
 #~ msgstr "Získat rozšíření"
-
-#, fuzzy
-#~| msgid "Connect to Server"
-#~ msgid "Send new version to server"
-#~ msgstr "Připoj se na server"
 
 #~ msgid "Unknown era"
 #~ msgstr "Neznámý věk"
@@ -7858,11 +7829,6 @@ msgstr ""
 #~ msgid "Ban"
 #~ msgstr "Zakázat"
 
-#, fuzzy
-#~| msgid "Choose Player"
-#~ msgid "Connected Players"
-#~ msgstr "Vyber hráče"
-
 # seznam připojení?
 #~ msgid "Sort lobby list"
 #~ msgstr "Seřaď seznam v čekárně"
@@ -7875,26 +7841,6 @@ msgstr ""
 
 #~ msgid "Show icons in front of the player names in the lobby"
 #~ msgstr "Ukazuj ikony před jmény hráčů v čekárně"
-
-#, fuzzy
-#~| msgid "controller^None"
-#~ msgid "controller^Computer"
-#~ msgstr "Nikdo"
-
-#, fuzzy
-#~| msgid "Close Map"
-#~ msgid "User Maps"
-#~ msgstr "Zavřít mapu"
-
-#, fuzzy
-#~| msgid "Campaigns"
-#~ msgid "SP Campaigns"
-#~ msgstr "Tažení"
-
-#, fuzzy
-#~| msgid "No description available."
-#~ msgid "No description available"
-#~ msgstr "Popis není dostupný."
 
 #~ msgid ""
 #~ "Widget definition '$definition' doesn't contain the definition for '$id'."
@@ -7938,11 +7884,6 @@ msgstr ""
 #~ "Úpravy:\n"
 #~ "\n"
 #~ "Žádné nebyly nalezeny."
-
-#, fuzzy
-#~| msgid "Modifications:"
-#~ msgid "Modifiers"
-#~ msgstr "Rozšíření:"
 
 #~ msgid "Experimental Fake Map Edge"
 #~ msgstr "Experimentální falešný okraj mapy"
@@ -8098,36 +8039,6 @@ msgstr ""
 #~ msgid "100/100"
 #~ msgstr "100/100"
 
-#, fuzzy
-#~| msgid "Mouse Scrolling"
-#~ msgid "Map scrolling"
-#~ msgstr "Posouvat pomocí myši"
-
-#, fuzzy
-#~| msgid "Moderation"
-#~ msgid "Mouse emulation"
-#~ msgstr "Moderování"
-
-#, fuzzy
-#~| msgid "Hotkey Settings"
-#~ msgid "Joystick Settings"
-#~ msgstr "Nastavení klávesových zkratek"
-
-#, fuzzy
-#~| msgid "Sound"
-#~ msgid "Play Sound:"
-#~ msgstr "Zvuk"
-
-#, fuzzy
-#~| msgid "Send Private Message"
-#~ msgid "Private message:"
-#~ msgstr "Pošli soukromou zprávu"
-
-#, fuzzy
-#~| msgid "Random start time"
-#~ msgid "Ready to start game:"
-#~ msgstr "Náhodná počáteční doba"
-
 #~ msgid "Attack enemy"
 #~ msgstr "Napadni nepřítele"
 
@@ -8196,11 +8107,6 @@ msgstr ""
 
 #~ msgid "Advanced section^Advanced"
 #~ msgstr "Pokročilé nastavení"
-
-#, fuzzy
-#~| msgid "Refresh Image Cache"
-#~ msgid "Purge Cache"
-#~ msgstr "Obnov obrazovou paměť"
 
 #~ msgid "Hotkey Settings"
 #~ msgstr "Nastavení klávesových zkratek"
@@ -8320,26 +8226,6 @@ msgstr ""
 #~ msgid "Snowy Mixed Forested Hills"
 #~ msgstr "Zasněžené smíšeně zalesněné kopce"
 
-#, fuzzy
-#~| msgid "Tropical Forest"
-#~ msgid "Tropical Forested Hills"
-#~ msgstr "Tropický prales"
-
-#, fuzzy
-#~| msgid "Forested Hills"
-#~ msgid "Palm Forested Hills"
-#~ msgstr "Zalesněné kopce"
-
-#, fuzzy
-#~| msgid "Forested Hills"
-#~ msgid "Dense Palm Forested Hills"
-#~ msgstr "Zalesněné kopce"
-
-#, fuzzy
-#~| msgid "Forested Hills"
-#~ msgid "Savanna Forested Hills"
-#~ msgstr "Zalesněné kopce"
-
 #~ msgid "Show color cursors"
 #~ msgstr "Zobrazuj barevné kurzory"
 
@@ -8360,32 +8246,11 @@ msgstr ""
 #~ msgid "Right Mouse Click"
 #~ msgstr "Kliknutí pravým tlačítkem"
 
-#, fuzzy
-#~| msgid "Switch Map"
-#~ msgid "Switch Area"
-#~ msgstr "Přepnout mapu"
-
 #~ msgid "Map-Screenshot"
 #~ msgstr "Screenshot celé mapy"
 
 #~ msgid " (widescreen)"
 #~ msgstr " (širokoúhlé)"
-
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
-#, fuzzy
-#~| msgid "Multiplayer Options"
-#~ msgid "Filter Options"
-#~ msgstr "Nastavení hry více hráčů"
-
-#, fuzzy
-#~| msgid "Flip Clipboard Horizontally"
-#~ msgid "Scroll Viewport Horizontally"
-#~ msgstr "Převrátit schránku horizontálně"
-
-#, fuzzy
-#~| msgid "Flip Clipboard Vertically"
-#~ msgid "Scroll Viewport Vertically"
-#~ msgstr "Převrátit schránku vertikálně"
 
 #~ msgid "Time of day lighting preset:"
 #~ msgstr "Nastavení osvětlení / denní doby"
@@ -8402,11 +8267,6 @@ msgstr ""
 #~ msgid "Add this username to your ignores list"
 #~ msgstr "Přidej tuto přezdívku do seznamu otrapů"
 
-#, fuzzy
-#~| msgid "Auto-update Terrain Transitions"
-#~ msgid "Auto-update Terrain Transitions: Yes"
-#~ msgstr "Obnovovat přechody terénu automaticky"
-
 #~ msgid "Types"
 #~ msgstr "Typy"
 
@@ -8421,16 +8281,6 @@ msgstr ""
 
 #~ msgid "Use New Lobby Interface"
 #~ msgstr "Používej nové uspořádání čekárny"
-
-#, fuzzy
-#~| msgid "Default"
-#~ msgid "Reset Defaults"
-#~ msgstr "Výchozí"
-
-#, fuzzy
-#~| msgid "Select All"
-#~ msgid "Reset All"
-#~ msgstr "Vyber vše"
 
 #~ msgid "This hotkey is already in use."
 #~ msgstr "Tato zkratka je již použita pro jinou akci."

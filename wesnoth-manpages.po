@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-02-09 23:21+0100\n"
+"PO-Revision-Date: 2021-03-14 16:16+0100\n"
 "Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2565,34 +2565,6 @@ msgstr ""
 msgid "B<wesnoth>(6)"
 msgstr "B<wesnoth>(6)."
 
-# type: TP
-#, fuzzy, no-wrap
-#~| msgid "B<--fps>"
-#~ msgid "B<--proxy>"
-#~ msgstr "B<--fps>"
-
-# type: TP
-#, fuzzy, no-wrap
-#~| msgid "B<-e,\\ --editor>I<\\ file>"
-#~ msgid "B<--proxy-address>I<\\ address>"
-#~ msgstr "B<-e, --editor>I<\\ soubor>"
-
-# type: TP
-#, fuzzy, no-wrap
-#~| msgid "B<-p\\ >I<port>B<,\\ --port>I<\\ port>"
-#~ msgid "B<--proxy-port>I<\\ port>"
-#~ msgstr "B<-p\\ >I<port>B<,\\ --port>I<\\ port>"
-
-#, fuzzy, no-wrap
-#~| msgid "B<--username>I<E<lt>usernameE<gt>>"
-#~ msgid "B<--proxy-user>I<\\ username>"
-#~ msgstr "B<--username>I<E<lt>jménoE<gt>>"
-
-#, fuzzy, no-wrap
-#~| msgid "B<--password>I<E<lt>passwordE<gt>>"
-#~ msgid "B<--proxy-password>I<\\ password>"
-#~ msgstr "B<--password>I<E<lt>hesloE<gt>>"
-
 # type: Plain text
 #~ msgid ""
 #~ "(for user_handler=forum) The name of the table in which wesnothd will "
@@ -2619,18 +2591,6 @@ msgstr "B<wesnoth>(6)."
 #~ msgstr "2013"
 
 # type: TP
-#, fuzzy
-#~| msgid "B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>"
-#~ msgid "B<--log-level=>I<domain1>B<,>I<domain2>B<,>I<...>"
-#~ msgstr "B<--log->I<level>B<=>I<kategorie1>B<,>I<kategorie2>B<,>I<...>"
-
-# type: Plain text
-#, fuzzy
-#~| msgid "runs the game without music."
-#~ msgid "runs the game without the GUI."
-#~ msgstr "runs the game without music."
-
-# type: TP
 #~ msgid "B<--bpp>I<\\ number>"
 #~ msgstr "B<--bpp>I<\\ číslo>"
 
@@ -2638,25 +2598,6 @@ msgstr "B<wesnoth>(6)."
 #~ msgid "sets BitsPerPixel value. Example: B<--bpp 32>"
 #~ msgstr ""
 #~ "nastavuje hodnotu BitsPerPixel - počet bitů na bod. Příklad: B<--bpp 32>"
-
-#, fuzzy
-#~| msgid ""
-#~| "goes directly to the campaign with id E<lt>id_campaignE<gt>. A selection "
-#~| "menu will appear if no id was specified.  B<Note:> When using this "
-#~| "switch please ensure that you specify the data directory path as the "
-#~| "final argument aswell, otherwise the game will take the campaign/"
-#~| "scenario id as the data dir."
-#~ msgid ""
-#~ "goes directly to the campaign with id E<lt>id_campaignE<gt>. A selection "
-#~ "menu will appear if no id was specified.  B<Note:> When using this switch "
-#~ "please ensure that you specify the data directory path as the final "
-#~ "argument as well, otherwise the game will take the campaign/scenario id "
-#~ "as the data dir."
-#~ msgstr ""
-#~ "přímo spouští tažení určené interním E<lt>id_taženíE<gt>. Pokud není id "
-#~ "určeno, ukáže se menu pro výběr tažení.  B<Poznámka:> Při použití tohoto "
-#~ "parametru se prosím ujistěte, že je také jako poslední argument udán "
-#~ "adresář s daty, jinak bude id tažení pochopeno jako tato cesta."
 
 # type: Plain text
 #~ msgid "path the path of the data directory and exits."

@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-07 00:48-0300\n"
-"PO-Revision-Date: 2021-03-12 19:38+0100\n"
+"PO-Revision-Date: 2021-03-14 16:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8681,15 +8681,6 @@ msgstr "Nastavení plánovacího módu"
 #~ msgid "None"
 #~ msgstr "Nic"
 
-#, fuzzy
-#~| msgid "attack per turn"
-#~ msgid "<span color=\"$color\">$number_or_percent movement</span> point"
-#~ msgid_plural ""
-#~ "<span color=\"$color\">$number_or_percent movement</span> points"
-#~ msgstr[0] "útok za kolo"
-#~ msgstr[1] "útok za kolo"
-#~ msgstr[2] "útok za kolo"
-
 #~ msgid "Ping timeout"
 #~ msgstr "Doba vypršení pingu"
 
@@ -8714,13 +8705,6 @@ msgstr "Nastavení plánovacího módu"
 
 #~ msgid "wesnoth"
 #~ msgstr "wesnoth"
-
-#, fuzzy
-#~| msgid "$elem has been deprecated and will be removed in the next version."
-#~ msgid ""
-#~ "$elem has been deprecated and will be removed in the next version "
-#~ "($version)."
-#~ msgstr "$elem byl označen za zastaralý a bude odstraněn v příští verzi."
 
 #~ msgid ""
 #~ "Screenshot creation failed.\n"
@@ -8765,11 +8749,6 @@ msgstr "Nastavení plánovacího módu"
 
 #~ msgid " and "
 #~ msgstr " a "
-
-#, fuzzy
-#~| msgid "% accuracy"
-#~ msgid "$percent|% accuracy"
-#~ msgstr "% přesnosti"
 
 #~ msgid "Not implemented yet."
 #~ msgstr "Ještě nebylo implementováno."
@@ -8823,22 +8802,6 @@ msgstr "Nastavení plánovacího módu"
 
 #~ msgid "Chance of being unscathed"
 #~ msgstr "Šance přečkat bez zranění"
-
-#, fuzzy
-#~| msgid "Experimental multiplayer lobby"
-#~ msgid "Experimental multiplayer UI"
-#~ msgstr "Experimentální multiplayerová čekárna"
-
-#, fuzzy
-#~| msgid ""
-#~| "Replace the classic multiplayer lobby with a newer, experimental "
-#~| "interface"
-#~ msgid ""
-#~ "Replace the classic multiplayer lobby and game setup UI with a newer, "
-#~ "experimental interface"
-#~ msgstr ""
-#~ "Nahradit klasickou čekárnu pro hru více hráčů novým, experimentálním "
-#~ "rozhraním"
 
 #~ msgid "pause at end of turn"
 #~ msgstr "pozastav na konci kola"
@@ -9943,11 +9906,6 @@ msgstr "Nastavení plánovacího módu"
 #~ msgstr ""
 #~ "DejaVu Sans,Andagii,Droid Sans Japanese,Droid Sans Fallback,Junicode"
 
-#, fuzzy
-#~| msgid "Chat message aging"
-#~ msgid "Clear Weather"
-#~ msgstr "Stárnutí zpráv chatu"
-
 #~ msgid "Initializing user interface"
 #~ msgstr "Příprava uživatelského rozhraní"
 
@@ -10008,26 +9966,11 @@ msgstr "Nastavení plánovacího módu"
 #~ msgid " move"
 #~ msgstr " krok"
 
-#, fuzzy
-#~| msgid "vision: "
-#~ msgid " vision"
-#~ msgstr "vidění:"
-
-#, fuzzy
-#~| msgid "Warning: "
-#~ msgid " jamming"
-#~ msgstr "Varování: "
-
 #~ msgid "Show your ignores and friends list."
 #~ msgstr "Zobrazí seznam otrapů a přátel."
 
 #~ msgid "There are no players on your friends or ignore list."
 #~ msgstr "Ve Vašem seznamu přátel nebo otrapů nejsou žádní hráči."
-
-#, fuzzy
-#~| msgid "The Battle for Wesnoth"
-#~ msgid "Battle for Wesnoth"
-#~ msgstr "Bitva o Wesnoth"
 
 #~ msgid "save_compression_short^gzip"
 #~ msgstr "gzip"
@@ -10053,20 +9996,6 @@ msgstr "Nastavení plánovacího módu"
 #~ msgid "Choose whether the sun moves left-to-right or right-to-left"
 #~ msgstr ""
 #~ "Zvol, zda-li se má slunce pohybovat zleva doprava, nebo zprava doleva"
-
-#, fuzzy
-#~| msgid ""
-#~| "This is a multiplayer scenario. Some parts of it may not work properly "
-#~| "in single-player. It is recommended to load this scenario through the "
-#~| "Multiplayer -> Load Game dialog instead."
-#~ msgid ""
-#~ "This is a multiplayer scenario. Some parts of it may not work properly in "
-#~ "single-player. It is recommended to load this scenario through the "
-#~ "<b>Multiplayer</b> → <b>Load Game</b> dialog instead."
-#~ msgstr ""
-#~ "Toto je scénář pro více hráčů. Některé jeho části nemusí správně fungovat "
-#~ "pro jednoho hráče. Doporučujeme nahrávat scénáře přes nabídku Multiplayer "
-#~ "-> Nahrát hru."
 
 #~ msgid ""
 #~ "Use colored mouse cursors, which may be slower or break the game (use at "
@@ -10209,352 +10138,6 @@ msgstr "Nastavení plánovacího módu"
 #~ msgid "(side $temp_i|)"
 #~ msgstr "(strana $temp_i|)"
 
-#, fuzzy
-#~| msgid "Cancel"
-#~ msgid "cancel"
-#~ msgstr "Zrušit"
-
-#, fuzzy
-#~| msgid "Test scenario"
-#~ msgid "Select Hex"
-#~ msgstr "Testovací scénář"
-
-#, fuzzy
-#~| msgid "Attacker"
-#~ msgid "Move/Attack"
-#~ msgstr "Útočník"
-
-#, fuzzy
-#~| msgid "Next Turn"
-#~ msgid "Next Unit"
-#~ msgstr "Další kolo"
-
-#, fuzzy
-#~| msgid "End Turn"
-#~ msgid "End Unit Turn"
-#~ msgstr "Ukonči kolo"
-
-#, fuzzy
-#~| msgid "Description"
-#~ msgid "Terrain Description"
-#~ msgstr "Popis"
-
-#, fuzzy
-#~| msgid "Description"
-#~ msgid "Unit Description"
-#~ msgstr "Popis"
-
-#, fuzzy
-#~| msgid "Delete add-on: "
-#~ msgid "Delete Unit"
-#~ msgstr "Vymaž rozšíření: "
-
-#, fuzzy
-#~| msgid "Share Maps"
-#~ msgid "Save Map"
-#~ msgstr "Sdílej mapy"
-
-#, fuzzy
-#~| msgid "Recruit"
-#~ msgid "Repeat Recruit"
-#~ msgstr "Naverbuj"
-
-#, fuzzy
-#~| msgid "Mouse scrolling"
-#~ msgid "Mouse Scrolling"
-#~ msgstr "Posouvání pomocí myši"
-
-#, fuzzy
-#~| msgid "Status"
-#~ msgid "Status Table"
-#~ msgstr "Stav"
-
-#, fuzzy
-#~| msgid "Create Unit (Debug!)"
-#~ msgid "Change Side (Debug!)"
-#~ msgstr "Vytvořit jednotku (Ladění!)"
-
-#, fuzzy
-#~| msgid "Create Unit (Debug!)"
-#~ msgid "Kill Unit (Debug!)"
-#~ msgstr "Vytvořit jednotku (Ladění!)"
-
-#, fuzzy
-#~| msgid "Scenario Settings"
-#~ msgid "Scenario Objectives"
-#~ msgstr "Nastavení scénáře"
-
-#, fuzzy
-#~| msgid "Network Player"
-#~ msgid "Pause Network Game"
-#~ msgstr "Síťový hráč"
-
-#, fuzzy
-#~| msgid "Confirm"
-#~ msgid "Continue Network Game"
-#~ msgstr "Potvrdit"
-
-#, fuzzy
-#~| msgid "Quit game."
-#~ msgid "Quit Game"
-#~ msgstr "Ukončí hru."
-
-#, fuzzy
-#~| msgid "Save Replay"
-#~ msgid "Play Replay"
-#~ msgstr "Uložení záznamu"
-
-#, fuzzy
-#~| msgid "Save Replay"
-#~ msgid "Reset Replay"
-#~ msgstr "Uložení záznamu"
-
-#, fuzzy
-#~| msgid "Save Replay"
-#~ msgid "Stop Replay"
-#~ msgstr "Uložení záznamu"
-
-#, fuzzy
-#~| msgid "Team"
-#~ msgid "Each Team"
-#~ msgstr "Tým"
-
-#, fuzzy
-#~| msgid "Team"
-#~ msgid "Team 1"
-#~ msgstr "Tým"
-
-#, fuzzy
-#~| msgid "Skip animation"
-#~ msgid "Skip Animation"
-#~ msgstr "Přeskočit animaci"
-
-#, fuzzy
-#~| msgid "Whiteboard Options"
-#~ msgid "whiteboard^Execute Action"
-#~ msgstr "Nastavení plánovacího módu"
-
-#, fuzzy
-#~| msgid "Whiteboard Options"
-#~ msgid "whiteboard^Execute All Actions"
-#~ msgstr "Nastavení plánovacího módu"
-
-#, fuzzy
-#~| msgid "Whiteboard Options"
-#~ msgid "whiteboard^Delete Action"
-#~ msgstr "Nastavení plánovacího módu"
-
-#, fuzzy
-#~| msgid "Whiteboard Options"
-#~ msgid "whiteboard^Move Action Up"
-#~ msgstr "Nastavení plánovacího módu"
-
-#, fuzzy
-#~| msgid "Whiteboard Options"
-#~ msgid "whiteboard^Move Action Down"
-#~ msgstr "Nastavení plánovacího módu"
-
-#, fuzzy
-#~| msgid "Time of day"
-#~ msgid "Switch Time of Day"
-#~ msgstr "Denní doba"
-
-#, fuzzy
-#~| msgid "Share Maps"
-#~ msgid "Switch Map"
-#~ msgstr "Sdílej mapy"
-
-#, fuzzy
-#~| msgid "Time of day"
-#~ msgid "Custom Time of Day Creator"
-#~ msgstr "Denní doba"
-
-#, fuzzy
-#~| msgid "Load Game"
-#~ msgid "Load Map"
-#~ msgstr "Načti hru"
-
-#, fuzzy
-#~| msgid "Test scenario"
-#~ msgid "Save Scenario As"
-#~ msgstr "Testovací scénář"
-
-#, fuzzy
-#~| msgid "Save the Map As"
-#~ msgid "Save All Maps"
-#~ msgstr "Ulož mapu jako"
-
-#, fuzzy
-#~| msgid "Skip animation"
-#~ msgid "Map Information"
-#~ msgstr "Přeskočit animaci"
-
-#, fuzzy
-#~| msgid "Next Side"
-#~ msgid "Add New Side"
-#~ msgstr "Další strana"
-
-#, fuzzy
-#~| msgid "Next Turn"
-#~ msgid "Next Tool"
-#~ msgstr "Další kolo"
-
-#, fuzzy
-#~| msgid "Starting position: "
-#~ msgid "Starting Positions Tool"
-#~ msgstr "Počáteční pozice: "
-
-#, fuzzy
-#~| msgid "Village gold: "
-#~ msgid "Village Tool"
-#~ msgstr "Zlato/Vesnice: "
-
-#, fuzzy
-#~| msgid "Recruit"
-#~ msgid "Can Recruit"
-#~ msgstr "Naverbuj"
-
-#, fuzzy
-#~| msgid "Advance Unit"
-#~ msgid "Change Unit ID"
-#~ msgstr "Povýšení jednotky"
-
-#, fuzzy
-#~| msgid "Next Turn"
-#~ msgid "Next Brush"
-#~ msgstr "Další kolo"
-
-#, fuzzy
-#~| msgid "Select unit:"
-#~ msgid "Select All"
-#~ msgstr "Vyber jednotku:"
-
-#, fuzzy
-#~| msgid "Select an add-on to update:"
-#~ msgid "Select Inverse"
-#~ msgstr "Vyberte rozšíření k aktualizaci:"
-
-#, fuzzy
-#~| msgid "Select unit:"
-#~ msgid "Select None"
-#~ msgstr "Vyber jednotku:"
-
-#, fuzzy
-#~| msgid "Invalid location"
-#~ msgid "Flip Selection"
-#~ msgstr "Neplatná lokace"
-
-#, fuzzy
-#~| msgid "Randomize time of day in begin"
-#~ msgid "Randomize Tiles in Selection"
-#~ msgstr "Nastaví na začátku hry náhodnou denní dobu"
-
-#, fuzzy
-#~| msgid "Share Maps"
-#~ msgid "Rotate Map"
-#~ msgstr "Sdílej mapy"
-
-#, fuzzy
-#~| msgid "Regenerate"
-#~ msgid "Generate Map"
-#~ msgstr "Vygeneruj další"
-
-#, fuzzy
-#~| msgid "Create Game"
-#~ msgid "Create Mask"
-#~ msgstr "Vytvoř hru"
-
-#, fuzzy
-#~| msgid "Refresh gui."
-#~ msgid "Refresh Display"
-#~ msgstr "Obnoví grafické rozhraní."
-
-#, fuzzy
-#~| msgid "Latin Translation"
-#~ msgid "Update Terrain Transitions"
-#~ msgstr "Latinský překlad"
-
-# !!!!
-#, fuzzy
-#~| msgid "End Scenario"
-#~ msgid "Edit Scenario"
-#~ msgstr "Ukončit scénář"
-
-#, fuzzy
-#~| msgid "Next Side"
-#~ msgid "Edit Side"
-#~ msgstr "Další strana"
-
-#, fuzzy
-#~| msgid "Next Side"
-#~ msgid "Remove Side"
-#~ msgstr "Další strana"
-
-#, fuzzy
-#~| msgid "Update all"
-#~ msgid "Speak to Ally"
-#~ msgstr "Aktualizovat vše"
-
-#, fuzzy
-#~| msgid "Update all"
-#~ msgid "Speak to All"
-#~ msgstr "Aktualizovat vše"
-
-#, fuzzy
-#~| msgid "Chat Log"
-#~ msgid "View Chat Log"
-#~ msgstr "Záznam rozhovoru"
-
-#, fuzzy
-#~| msgid "Refresh gui."
-#~ msgid "Refresh WML"
-#~ msgstr "Obnoví grafické rozhraní."
-
-#, fuzzy
-#~| msgid "Time of day"
-#~ msgid "Next Tip of the Day"
-#~ msgstr "Denní doba"
-
-#, fuzzy
-#~| msgid "Tutorial"
-#~ msgid "Start Tutorial"
-#~ msgstr "Výcvik"
-
-#, fuzzy
-#~| msgid "Campaign Design"
-#~ msgid "Start Campaign"
-#~ msgstr "Návrh tažení"
-
-#, fuzzy
-#~| msgid "Multiplayer"
-#~ msgid "Start Multiplayer Game"
-#~ msgstr "Hra více hráčů"
-
-#, fuzzy
-#~| msgid "Update add-ons"
-#~ msgid "Manage Add-ons"
-#~ msgstr "Aktualizace rozšíření"
-
-#, fuzzy
-#~| msgid "Show replay"
-#~ msgid "Show Credits"
-#~ msgstr "Ukaž záznamy"
-
-#, fuzzy
-#~| msgid "Show replay"
-#~ msgid "Show Helptip"
-#~ msgstr "Ukaž záznamy"
-
-#, fuzzy
-#~| msgid "Compressed saves"
-#~ msgid "Compress savegames using bzip2"
-#~ msgstr "Ukládat hry v komprimovaném formátu"
-
-#, fuzzy
-#~| msgid "Settings..."
-#~ msgid "Options..."
-#~ msgstr "Nastavení..."
-
 #~ msgid "?"
 #~ msgstr "?"
 
@@ -10576,161 +10159,8 @@ msgstr "Nastavení plánovacího módu"
 #~ msgid "KB"
 #~ msgstr "KB"
 
-#, fuzzy
-#~| msgid "Multiplayer_AI^RCA AI"
-#~ msgid "Multiplayer_AI^Default AI (RCA)"
-#~ msgstr "RCA AI"
-
-#, fuzzy
-#~| msgid "Multiplayer_AI^RCA AI"
-#~ msgid "Multiplayer_AI^Experimental AI"
-#~ msgstr "RCA AI"
-
-#, fuzzy
-#~| msgid "Enemy unit sighted!"
-#~| msgid_plural "$enemies enemy units sighted!"
-#~ msgid "Enemy unit weight  (default: 100)"
-#~ msgstr "Nepřátelská jednotka na dohled!"
-
-#, fuzzy
-#~| msgid "Move leader here"
-#~ msgid "Move Konrad here"
-#~ msgstr "Přesunout vůdce sem"
-
-#, fuzzy
-#~| msgid "help"
-#~ msgid "Whelps"
-#~ msgstr "nápověda"
-
-# !!!!
-#, fuzzy
-#~| msgid "End Scenario"
-#~ msgid "End scenario"
-#~ msgstr "Ukončit scénář"
-
-#, fuzzy
-#~| msgid "Save the Map As"
-#~ msgid "Take the pass"
-#~ msgstr "Ulož mapu jako"
-
-#, fuzzy
-#~| msgid "Defeat"
-#~ msgid "Defeat Rowck"
-#~ msgstr "Porážka"
-
-# | msgid "Defeat enemy leader(s)"
-#, fuzzy
-#~ msgid "Death of the bat leader"
-#~ msgstr "Znič nepřátelské(ho) vůdce"
-
-#, fuzzy
-#~| msgid "Faction"
-#~ msgid "Station 1"
-#~ msgstr "Frakce"
-
-#, fuzzy
-#~| msgid "Faction"
-#~ msgid "Station 2"
-#~ msgstr "Frakce"
-
-#, fuzzy
-#~| msgid "Defeat enemy leader(s)"
-#~ msgid "Defeat all enemy units"
-#~ msgstr "Znič nepřátelské(ho) vůdce"
-
-#, fuzzy
-#~| msgid "Notes:"
-#~ msgid "Notes"
-#~ msgstr "Poznámky:"
-
-#, fuzzy
-#~| msgid "Clear all orders"
-#~ msgid "Defeat all lurkers"
-#~ msgstr "Zrušit všechny příkazy"
-
-#, fuzzy
-#~| msgid "Message:"
-#~ msgid "Messenger"
-#~ msgstr "Zpráva:"
-
-#, fuzzy
-#~| msgid "Move leader here"
-#~ msgid "AI moves Messenger here"
-#~ msgstr "Přesunout vůdce sem"
-
-#, fuzzy
-#~| msgid "Move leader here"
-#~ msgid "Move Rossauba here"
-#~ msgstr "Přesunout vůdce sem"
-
-#, fuzzy
-#~| msgid "Recruit"
-#~ msgid "Recruiting"
-#~ msgstr "Naverbuj"
-
-#, fuzzy
-#~| msgid "Swarm: "
-#~ msgid "Swarm"
-#~ msgstr "Hejno: "
-
-#, fuzzy
-#~| msgid "Invalid location"
-#~ msgid "AI Location:"
-#~ msgstr "Neplatná lokace"
-
 #~ msgid "Unknown unit type '$type|' while generating traits"
 #~ msgstr "Neznámá jednotka „$type|“ při vytváření vlastností."
-
-#, fuzzy
-#~| msgid "invisible: "
-#~ msgid "invisible"
-#~ msgstr "neviditelný: "
-
-#, fuzzy
-#~| msgid "female^slowed"
-#~ msgid "female^invisible"
-#~ msgstr "zpomalená"
-
-#, fuzzy
-#~| msgid "Fire a game event."
-#~ msgid "I triggered a moveto event."
-#~ msgstr "Spouští herní událost (event)."
-
-#, fuzzy
-#~| msgid "invisible: "
-#~ msgid "It is invisible!"
-#~ msgstr "neviditelný: "
-
-#, fuzzy
-#~| msgid "Choose weapon:"
-#~ msgid "Choose a Map to Open"
-#~ msgstr "Vyber si zbraň:"
-
-#, fuzzy
-#~| msgid "Choose the game to load"
-#~ msgid "Choose a Mask to Apply"
-#~ msgstr "Vyber si hru pro nahrání"
-
-#, fuzzy
-#~| msgid "Choose weapon:"
-#~ msgid "Choose Target Map"
-#~ msgstr "Vyber si zbraň:"
-
-#, fuzzy
-#~| msgid "The map already exists. Do you want to overwrite it?"
-#~ msgid "The file already exists. Do you want to overwrite it?"
-#~ msgstr "Tato mapa již existuje. Chceš ji přepsat?"
-
-# Když nedostane klient v datech která éra je použita.
-#, fuzzy
-#~| msgid "No era information found."
-#~ msgid "No random map generators found."
-#~ msgstr "Nenalezeny žádné informace o věku."
-
-#, fuzzy
-#~| msgid "Installation failed"
-#~ msgid "Map creation failed."
-#~ msgstr "Instalace selhala"
 
 #~ msgid "The server responded with an error: \"$error|\""
 #~ msgstr "Server odpověděl chybou: „$error|“"
@@ -10862,21 +10292,6 @@ msgstr "Nastavení plánovacího módu"
 
 #~ msgid "Difficulty: Hard"
 #~ msgstr "Obtížnost: těžká"
-
-#, fuzzy
-#~| msgid "Campaign: $campaign_name"
-#~ msgid "Main campaign define"
-#~ msgstr "Tažení: $campaign_name"
-
-#, fuzzy
-#~| msgid "Campaign Design"
-#~ msgid "Extra campaign define"
-#~ msgstr "Návrh tažení"
-
-#, fuzzy
-#~| msgid "Multiplayer"
-#~ msgid "Multiplayer define"
-#~ msgstr "Hra více hráčů"
 
 #~ msgid "Download"
 #~ msgstr "Stáhnout"

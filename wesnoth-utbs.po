@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-02-08 18:47+0100\n"
+"PO-Revision-Date: 2021-03-14 16:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -17093,22 +17093,6 @@ msgstr "Hrad duchů"
 msgid "Phantom Keep"
 msgstr "Tvrz duchů"
 
-#, fuzzy
-#~| msgid ""
-#~| "Riding like the wind, Desert Outriders breeze across the sands to strike "
-#~| "at weaker units and exposed flanks. Skilled in the sword, and trained in "
-#~| "the bow, they strike hard before flying off into the sands to evade "
-#~| "response."
-#~ msgid ""
-#~ "Riding like the wind, Outriders breeze across the sands to strike at "
-#~ "weaker units and exposed flanks, before flying off into the sands to "
-#~ "evade response."
-#~ msgstr ""
-#~ "Pouštní kavalérie létá po píscích rychlostí větru; udeří tvrdě na slabší "
-#~ "nepřátelské jednotky nebo vystavená křídla a opět zmizí do dálav, aby se "
-#~ "vyhnula protiútoku. Ať už útočí mečem, nebo lukem, zkušenosti v boji s "
-#~ "těmito nástroji rozhodně nepostrádá."
-
 #~ msgid ""
 #~ "The Quenoth Scouts move swiftly across the sands. Their riding skill are "
 #~ "unmatched, and these they use to harry and incapacitate enemies."
@@ -17640,11 +17624,6 @@ msgstr "Tvrz duchů"
 #~ "další si myslí že jsou nějakým zvrhlým výtvorem ohnivého mága. Ať už ale "
 #~ "jsou cokoliv, všichni se shodnou na tom, že jsou extrémně nebezpeční."
 
-#, fuzzy
-#~| msgid "Desert Horseman"
-#~ msgid "Quenoth Horseman"
-#~ msgstr "Pouštní těžká jízda"
-
 #~ msgid "sword"
 #~ msgstr "meč"
 
@@ -17686,11 +17665,6 @@ msgstr "Tvrz duchů"
 
 #~ msgid "touch"
 #~ msgstr "dotek"
-
-#, fuzzy
-#~| msgid "faerie touch"
-#~ msgid "faerie fire"
-#~ msgstr "dotek víly"
 
 #~ msgid "chill wave"
 #~ msgstr "vlna chladu"

@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-01-02 13:34+0100\n"
+"PO-Revision-Date: 2021-03-14 16:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10379,11 +10379,6 @@ msgstr "Arthian"
 #~ msgid "Clear the mines"
 #~ msgstr "Vyčisti doly"
 
-#, fuzzy
-#~| msgid "Death of Hamel"
-#~ msgid "Speak with Hamel"
-#~ msgstr "Hamel zemře"
-
 #~ msgid "HAHAHA, FOOLS, YOU THINK YOU CAN KILL ME?"
 #~ msgstr "HAHAHA, HLUPÁCI, MYSLÍTE ŽE MĚ MŮŽETE ZABÍT?"
 
@@ -10739,12 +10734,6 @@ msgstr "Arthian"
 
 #~ msgid "Tallin, are you OK?!"
 #~ msgstr "Talline, jsi v pořádku?"
-
-# ten pohyb!
-# Hamel
-#, fuzzy
-#~ msgid "(<i>Wince</i>) You can turn the volume down, pal."
-#~ msgstr " *škub* Nemusíš tak řvát, chlapče."
 
 #~ msgid " *STAB*"
 #~ msgstr " *bodnutí*"
