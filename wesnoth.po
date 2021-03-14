@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 20:18-0300\n"
-"PO-Revision-Date: 2021-03-12 19:42+0100\n"
+"PO-Revision-Date: 2021-03-14 07:25+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4104,6 +4104,10 @@ msgid ""
 "what your units advance to beforehand, either for a specific unit or for all "
 "units of the same type."
 msgstr ""
+"Při hraní hry pro více hráčů neurčuješ, na co jednotka povýší, když povyšuje "
+"v kole jiného hráče. S tímto pozměněním můžeš dopředu nastavit, na co tvé "
+"jednotky povýší, ať už pro jednu určitou, nebo pro všechny jednotky stejného "
+"typu."
 
 #. [checkbox]: id=pickadvance_force_choice
 #: data/modifications.cfg:12
@@ -4118,6 +4122,10 @@ msgid ""
 "\n"
 "Some eras and scenarios may automatically enable this option."
 msgstr ""
+"Kdykoli se objeví jednotka, o které nebylo rozhodnuto, budeš dotázán na "
+"výběr povýšení.\n"
+"\n"
+"Některé věky a scénáře mohou tuto volbu zapnout automaticky."
 
 #. [lua]: pickadvance.show_dialog_unsynchronized
 #: data/modifications/pick_advance/dialog.lua:30
@@ -4129,12 +4137,12 @@ msgstr "Plánovat povýšení"
 #: data/modifications/pick_advance/dialog.lua:67
 msgid ""
 "This advancement is currently the default for all units of the same type"
-msgstr ""
+msgstr "Toto povýšení je nyní výchozí pro všechny jednotky stejného typu"
 
 #. [lua]: pickadvance.show_dialog_unsynchronized
 #: data/modifications/pick_advance/dialog.lua:129
 msgid "Apply to all units of this type"
-msgstr ""
+msgstr "Použít na všechny jednotky tohoto typu"
 
 #. [lua]: pickadvance.show_dialog_unsynchronized
 #: data/modifications/pick_advance/dialog.lua:145
