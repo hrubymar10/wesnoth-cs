@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 20:18-0300\n"
-"PO-Revision-Date: 2021-03-14 07:25+0100\n"
+"PO-Revision-Date: 2021-03-15 20:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4211,18 +4211,20 @@ msgstr "kantorka"
 #: data/scenario-test.cfg:487
 msgid "This unit grants marksman to all ranged attacks of all adjacent allies."
 msgstr ""
+"Tato jednotka poskytuje všem útokům na dálku všech sousedících spojenců "
+"výjimečnost odstřelovače."
 
 #. [heals]: id=aura of death 4
 #. [heals]: id=aura of death 8
 #: data/scenario-test.cfg:1073 data/scenario-test.cfg:1101
 msgid "aura of death ("
-msgstr ""
+msgstr "aura smrti ("
 
 #. [heals]: id=aura of death 4
 #. [heals]: id=aura of death 8
 #: data/scenario-test.cfg:1074 data/scenario-test.cfg:1102
 msgid "female^aura of death ("
-msgstr ""
+msgstr "aura smrti ("
 
 #. [language]
 #: data/scenario-test.cfg:4403
@@ -4240,7 +4242,7 @@ msgstr "elektrický"
 #: data/test/scenarios/swarm_disables_upgrades_with_abilities_adjacent_leadership.cfg:47
 #: data/test/scenarios/swarm_disables_upgrades_with_abilities_adjacent_leadership_fail.cfg:47
 msgid "Alex"
-msgstr ""
+msgstr "Aleš"
 
 #. [unit]: id=ben, type=Orcish Warrior
 #: data/test/scenarios/swarm_disables_upgrades_with_abilities_adjacent.cfg:51
@@ -4248,7 +4250,7 @@ msgstr ""
 #: data/test/scenarios/swarm_disables_upgrades_with_abilities_adjacent_leadership.cfg:54
 #: data/test/scenarios/swarm_disables_upgrades_with_abilities_adjacent_leadership_fail.cfg:54
 msgid "Ben"
-msgstr ""
+msgstr "Ben"
 
 #. [action]: id=button-playreplay, type=image
 #: data/themes/_initial.cfg:428
