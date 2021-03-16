@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 20:18-0300\n"
-"PO-Revision-Date: 2021-03-15 20:31+0100\n"
+"PO-Revision-Date: 2021-03-16 19:06+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5702,23 +5702,23 @@ msgstr ""
 
 #: src/addon/validation.cpp:448
 msgid "Success."
-msgstr ""
+msgstr "Úspěch."
 
 #: src/addon/validation.cpp:452
 msgid "Incorrect add-on passphrase."
-msgstr ""
+msgstr "Nesprávná heslová fráze rozšíření."
 
 #: src/addon/validation.cpp:456
 msgid "Upload denied. Please contact the server administration for assistance."
-msgstr ""
+msgstr "Nahrání zamítnuto. Prosím obrať se na správu serveru pro radu."
 
 #: src/addon/validation.cpp:460
 msgid "Attempted to upload an update pack for a non-existent add-on."
-msgstr ""
+msgstr "Pokus o nahrání aktualizačního balíčku pro neexistující rozšíření."
 
 #: src/addon/validation.cpp:469
 msgid "No add-on data was supplied by the client."
-msgstr ""
+msgstr "Klientem nebyla v rozšíření dodána žádná data."
 
 #: src/addon/validation.cpp:473
 msgid "Invalid upload pack."
@@ -5730,7 +5730,7 @@ msgstr "Neplatný název rozšíření."
 
 #: src/addon/validation.cpp:481
 msgid "Formatting character in add-on name."
-msgstr ""
+msgstr "Formátovací znak ve jménu rozšíření."
 
 #: src/addon/validation.cpp:485
 msgid ""
@@ -5744,6 +5744,15 @@ msgid ""
 "Additionally, names may not be longer than 255 characters, contain '..', or "
 "end with '.'."
 msgstr ""
+"Rozšíření obsahuje soubory nebo adresáře s nedovolenými názvy.\n"
+"\n"
+"Názvy obsahující bílé nebo řídící znaky nebo jakýkoliv z následujících "
+"symbolů nejsou přípustné:\n"
+"\n"
+"    \" * / : < > ? \\ | ~\n"
+"\n"
+"Navíc názvy nemohou být delší než 255 znaků, obsahovat „..“ nebo končit na "
+"„.”."
 
 #: src/addon/validation.cpp:495
 msgid ""
@@ -5759,7 +5768,7 @@ msgstr ""
 
 #: src/addon/validation.cpp:501
 msgid "The add-on name contains an invalid UTF-8 sequence."
-msgstr ""
+msgstr "Název rozšíření obsahuje neplatnou UTF-8 posloupnost."
 
 #: src/addon/validation.cpp:510
 msgid "No add-on title specified."
@@ -5767,11 +5776,11 @@ msgstr "Nebyl stanoven název rozšíření."
 
 #: src/addon/validation.cpp:514
 msgid "No add-on author/maintainer name specified."
-msgstr ""
+msgstr "Nebylo stanoveno jméno autora/správce rozšíření."
 
 #: src/addon/validation.cpp:518
 msgid "No add-on version specified."
-msgstr ""
+msgstr "Nebyla stanovena verze rozšíření."
 
 #: src/addon/validation.cpp:522
 msgid "No add-on description specified."
@@ -5779,15 +5788,15 @@ msgstr "Nebyl stanoven popis rozšíření."
 
 #: src/addon/validation.cpp:526
 msgid "No add-on author/maintainer email specified."
-msgstr ""
+msgstr "Nebyl stanoven email autora/správce rozšíření."
 
 #: src/addon/validation.cpp:530
 msgid "Missing passphrase."
-msgstr ""
+msgstr "Chybějící heslová fráze."
 
 #: src/addon/validation.cpp:534
 msgid "Formatting character in add-on title."
-msgstr ""
+msgstr "Formátovací znak v názvu rozšíření."
 
 #: src/addon/validation.cpp:538
 msgid "Invalid or unspecified add-on type."
@@ -5795,27 +5804,28 @@ msgstr "Neplatný nebo neurčený typ rozšíření."
 
 #: src/addon/validation.cpp:542
 msgid "Version number not greater than the latest uploaded version."
-msgstr ""
+msgstr "Číslo verze není vyšší než poslední nahraná verze."
 
 #: src/addon/validation.cpp:546
 msgid "Feedback topic id is not a number."
-msgstr ""
+msgstr "Identifikátor tématu pro zpětnou vazbu není číslem."
 
 #: src/addon/validation.cpp:550
 msgid "Feedback topic does not exist."
-msgstr ""
+msgstr "Téma pro zpětnou vazbu neexistuje."
 
 #: src/addon/validation.cpp:554
 msgid "The add-on publish information contains an invalid UTF-8 sequence."
 msgstr ""
+"Zveřejňované infomace o rozšíření obsahují neplatnou UTF-8 posloupnost."
 
 #: src/addon/validation.cpp:563
 msgid "Unspecified server error."
-msgstr ""
+msgstr "Blíže neurčená chyba serveru."
 
 #: src/addon/validation.cpp:567
 msgid "Server is in read-only mode."
-msgstr ""
+msgstr "Server je v režimu pouze pro čtení."
 
 #: src/addon/validation.cpp:571
 msgid "Corrupted server add-ons list."
@@ -5823,11 +5833,11 @@ msgstr "Poškozený seznam rozšíření serveru."
 
 #: src/addon/validation.cpp:575
 msgid "Empty add-on version list on the server."
-msgstr ""
+msgstr "Prázdný seznam verzí rozšíření na serveru."
 
 #: src/addon/validation.cpp:585
 msgid "Unspecified validation failure."
-msgstr ""
+msgstr "Blíže neurčené selhání ověření."
 
 #: src/chat_command_handler.cpp:112
 msgid "Added to ignore list: $nick"
