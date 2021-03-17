@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 20:18-0300\n"
-"PO-Revision-Date: 2021-03-16 19:13+0100\n"
+"PO-Revision-Date: 2021-03-17 19:26+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5940,6 +5940,8 @@ msgid ""
 "Send some data to the server. Can be used to verify the network connection "
 "and notice disconnects."
 msgstr ""
+"Pošle na server nějaká data. Lze použít pro ověření síťového připojení "
+"a k pozorování rozpojení."
 
 #: src/chat_command_handler.hpp:93
 msgid ""
@@ -5991,11 +5993,11 @@ msgstr "Smaže jméno ze seznamu otrapů nebo přátel."
 
 #: src/chat_command_handler.hpp:114
 msgid "<N>"
-msgstr ""
+msgstr "<N>"
 
 #: src/chat_command_handler.hpp:114
 msgid "Get a random number between 1 and N visible in the game setup lobby."
-msgstr ""
+msgstr "Získat náhodné číslo mezi 1 a N viditelné v čekárně hry více hráčů."
 
 # Když nedostane klient v datech která éra je použita.
 #: src/chat_command_handler.hpp:116
