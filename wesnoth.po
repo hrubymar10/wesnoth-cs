@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 20:18-0300\n"
-"PO-Revision-Date: 2021-03-18 05:09+0100\n"
+"PO-Revision-Date: 2021-03-18 05:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6433,7 +6433,7 @@ msgstr "Nemohu najít následující věk - $era"
 
 #: src/game_initialization/multiplayer.cpp:236
 msgid "Invalid address specified for multiplayer server"
-msgstr ""
+msgstr "Byla zadána neplatná adresa serveru pro hru více hráčů"
 
 #: src/game_initialization/multiplayer.cpp:271
 msgid ""
@@ -6761,7 +6761,7 @@ msgstr "Nebyly nalezeny žádné viditelné strany."
 
 #: src/gui/dialogs/multiplayer/match_history.cpp:30
 msgid "Match History — $player"
-msgstr ""
+msgstr "Historie zápasů – $player"
 
 #: src/gui/dialogs/multiplayer/player_info.cpp:105
 msgid "In game:"
