@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 20:18-0300\n"
-"PO-Revision-Date: 2021-03-18 05:18+0100\n"
+"PO-Revision-Date: 2021-03-18 05:36+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7252,12 +7252,12 @@ msgstr ""
 
 #: src/menu_events.cpp:1229
 msgid "Change terrain type of current hex"
-msgstr ""
+msgstr "Změnit typ terénu stávajícího políčka"
 
 #. TRANSLATORS: [both|base|overlay] are hardcoded literal arguments and shouldn't be translated.
 #: src/menu_events.cpp:1231
 msgid "<terrain type> [both|base|overlay]"
-msgstr ""
+msgstr "<typ terénu> [both|base|overlay]"
 
 #: src/menu_events.cpp:1232
 msgid "Switch a side to/from idle state."
@@ -7504,6 +7504,8 @@ msgid ""
 "It is not allowed to change a side from AI to human control when it's not "
 "your turn."
 msgstr ""
+"Není dovoleno měnit ovládání strany z počítače na člověka, když nejsi ve "
+"svém kole."
 
 #: src/menu_events.cpp:1507 src/menu_events.cpp:1563
 msgid "Side '$side' controller is now controlled by: AI."
@@ -7519,13 +7521,15 @@ msgstr "Strana „$side“ je nyní řízena člověkem."
 
 #: src/menu_events.cpp:1525
 msgid "Side '$side' is already not droided."
-msgstr ""
+msgstr "Strana „$side“ už počítačem není řízena."
 
 #: src/menu_events.cpp:1529
 msgid ""
 "It is not allowed to change a side from human to AI control when it's not "
 "your turn."
 msgstr ""
+"Není dovoleno měnit ovládání strany z člověka na počítač, když nejsi ve svém "
+"kole."
 
 #: src/menu_events.cpp:1539
 msgid "Side '$side' controller is now fully controlled by: AI."
@@ -7539,6 +7543,8 @@ msgstr "Strana '$side' už je plně ovládaná počítačem."
 msgid ""
 "Invalid action provided for side '$side'. Valid actions are: on, off, full."
 msgstr ""
+"Pro stranu „$side“ byla zadána neplatná akce. Platné akce jsou: on, off, "
+"full."
 
 #: src/menu_events.cpp:1608
 msgid "Can't idle invalid side: '$side'."
