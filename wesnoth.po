@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 20:18-0300\n"
-"PO-Revision-Date: 2021-03-18 05:36+0100\n"
+"PO-Revision-Date: 2021-03-18 05:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8060,7 +8060,7 @@ msgstr[2] "Útoků"
 #. TRANSLATORS: This string is shown in the sidebar beneath the word "Attacks" when a unit can attack multiple times per turn
 #: src/reports.cpp:1127
 msgid "Remaining: $left/$max"
-msgstr ""
+msgstr "Zbývající: $left/$max"
 
 #: src/reports.cpp:1131
 msgid "This unit can attack multiple times per turn."
