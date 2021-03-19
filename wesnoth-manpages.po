@@ -17,8 +17,8 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-14 16:16+0100\n"
-"Last-Translator: Martin Hrubý (hrubymar10) <hrubymar10@gmail.com>\n"
+"PO-Revision-Date: 2021-03-19 23:49+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -1558,10 +1558,8 @@ msgstr "VIZ TAKÉ"
 #.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 #. type: Plain text
 #: doc/man/wesnothd.6:15
-#, fuzzy
-#| msgid "B<wesnothd>(6)."
 msgid "B<wesnothd>(6)"
-msgstr "B<wesnothd>(6)."
+msgstr "B<wesnothd>(6)"
 
 # type: TH
 #. type: TH
@@ -2221,12 +2219,6 @@ msgstr ""
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:223
-#, fuzzy
-#| msgid ""
-#| "B<[user_handler]> Configures the user handler. Available keys vary "
-#| "depending on which user handler is set with the B<user_handler> key. If "
-#| "no B<[user_handler]> section is present in the configuration the server "
-#| "will run without any nick registration service."
 msgid ""
 "B<[user_handler]> Configures the user handler. Available keys vary depending "
 "on which user handler is set with the B<user_handler> key. If no "
@@ -2235,10 +2227,12 @@ msgid ""
 "needed for the B<forum_user_handler> to function can be found in "
 "table_definitions.sql in the Wesnoth source repository."
 msgstr ""
-"B<[user_handler]> Konfiguruje uživatelský handler. Dostupné klíče se liší "
-"podle toho, který handler je použit - nastaveno klíčem B<user_handler>. "
-"Pokud není v konfiguraci nalezena žádná sekce B<[user_handler]>, server "
-"poběží bez služeb správy přezdívek."
+"B<[user_handler]> Konfiguruje obsluhu uživatelů. Dostupné klíče se liší "
+"podle toho, jaká obsluha uživatelů je klíčem B<user_handler> nastavena. "
+"Pokud v konfiguraci oddíl B<[user_handler]> chybí, server poběží bez "
+"jakékoli služby pro registraci přezdívek. Všechny další tabulky, které jsou "
+"třeba, aby pracoval B<forum_user_handler>, lze najít v table_definitions.sql "
+"v repozitáři zdrojových kódů Wesnothu."
 
 # type: TP
 #. type: TP
@@ -2251,7 +2245,7 @@ msgstr "B<db_host>"
 #. type: Plain text
 #: doc/man/wesnothd.6:227
 msgid "(for user_handler=forum) The hostname of the database server"
-msgstr "(pro user_handler=forum) Hostitelský databázový server"
+msgstr "(pro user_handler=forum) Název hostitele databázového serveru"
 
 # type: TP
 #. type: TP
@@ -2264,7 +2258,7 @@ msgstr "B<db_name>"
 #. type: Plain text
 #: doc/man/wesnothd.6:230
 msgid "(for user_handler=forum) The name of the database"
-msgstr "(pro user_handler=forum) Jméno databáze"
+msgstr "(pro user_handler=forum) Název databáze"
 
 # type: TP
 #. type: TP
@@ -2292,7 +2286,7 @@ msgstr "B<db_password>"
 #. type: Plain text
 #: doc/man/wesnothd.6:236
 msgid "(for user_handler=forum) This user's password"
-msgstr "(pro user_handler=forum) Heslo pro databázi"
+msgstr "(pro user_handler=forum) Heslo tohoto uživatele"
 
 # type: TP
 #. type: TP
@@ -2309,9 +2303,9 @@ msgid ""
 "saves its user data. Most likely this will be E<lt>table-prefixE<gt>_users "
 "(e.g. phpbb3_users)."
 msgstr ""
-"(pro user_handler=forum) Název tabulky, v níž ukládá vaše fórum (typu phpbb) "
-"data o uživatelích. Pravděpodobně to je E<lt>prefixE<gt>_users (například "
-"phpbb3_users)."
+"(pro user_handler=forum) Název tabulky, do které tvé phpBB fórum ukládá svá "
+"data o uživatelích. S největší pravděpodobností to bude E<lt>table-"
+"prefixE<gt>_users (např. phpbb3_users)."
 
 # type: TP
 #. type: TP
@@ -2323,119 +2317,97 @@ msgstr "B<db_extra_table>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:242
-#, fuzzy
-#| msgid ""
-#| "(for user_handler=forum) The name of the table in which your phpbb forums "
-#| "saves its user data. Most likely this will be E<lt>table-"
-#| "prefixE<gt>_users (e.g. phpbb3_users)."
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
 "its own data about users. You will have to create this table manually."
 msgstr ""
-"(pro user_handler=forum) Název tabulky, v níž ukládá vaše fórum (typu phpbb) "
-"data o uživatelích. Pravděpodobně to je E<lt>prefixE<gt>_users (například "
-"phpbb3_users)."
+"(pro user_handler=forum) Název tabulky, do které bude wesnothd ukládat svá "
+"vlastní data o uživatelích. Tuto tabulku budeš muset vytvořit ručně."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnothd.6:242
-#, fuzzy, no-wrap
-#| msgid "B<db_users_table>"
+#, no-wrap
 msgid "B<db_game_info_table>"
-msgstr "B<db_users_table>"
+msgstr "B<db_game_info_table>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:245
-#, fuzzy
-#| msgid ""
-#| "(for user_handler=forum) The name of the user under which to log into the "
-#| "database"
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
 "its own data about games."
-msgstr "(pro user_handler=forum) Uživatelské jméno pro přihlášení k databázi"
+msgstr ""
+"(pro user_handler=forum) Název tabulky, do které bude wesnothd ukládat svá "
+"vlastní data o hrách."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnothd.6:245
-#, fuzzy, no-wrap
-#| msgid "B<db_users_table>"
+#, no-wrap
 msgid "B<db_game_player_info_table>"
-msgstr "B<db_users_table>"
+msgstr "B<db_game_player_info_table>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:248
-#, fuzzy
-#| msgid ""
-#| "(for user_handler=forum) The name of the user under which to log into the "
-#| "database"
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
 "its own data about the players in a game."
-msgstr "(pro user_handler=forum) Uživatelské jméno pro přihlášení k databázi"
+msgstr ""
+"(pro user_handler=forum) Název tabulky, do které bude wesnothd ukládat svá "
+"vlastní data o hráčích ve hře."
 
 #. type: TP
 #: doc/man/wesnothd.6:248
 #, no-wrap
 msgid "B<db_game_modification_info_table>"
-msgstr ""
+msgstr "B<db_game_modification_info_table>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:251
-#, fuzzy
-#| msgid ""
-#| "(for user_handler=forum) The name of the user under which to log into the "
-#| "database"
 msgid ""
 "(for user_handler=forum) The name of the table in which wesnothd will save "
 "its own data about the modifications used in a game."
-msgstr "(pro user_handler=forum) Uživatelské jméno pro přihlášení k databázi"
+msgstr ""
+"(pro user_handler=forum) Název tabulky, do které bude wesnothd ukládat svá "
+"vlastní data o modifikacích použitých ve hře."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnothd.6:251
-#, fuzzy, no-wrap
-#| msgid "B<db_users_table>"
+#, no-wrap
 msgid "B<db_user_group_table>"
-msgstr "B<db_users_table>"
+msgstr "B<db_user_group_table>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:254
-#, fuzzy
-#| msgid ""
-#| "(for user_handler=forum) The name of the table in which your phpbb forums "
-#| "saves its user data. Most likely this will be E<lt>table-"
-#| "prefixE<gt>_users (e.g. phpbb3_users)."
 msgid ""
 "(for user_handler=forum) The name of the table in which your phpbb forums "
 "saves its user group data. Most likely this will be E<lt>table-"
 "prefixE<gt>_user_group (e.g. phpbb3_user_group)."
 msgstr ""
-"(pro user_handler=forum) Název tabulky, v níž ukládá vaše fórum (typu phpbb) "
-"data o uživatelích. Pravděpodobně to je E<lt>prefixE<gt>_users (například "
-"phpbb3_users)."
+"(pro user_handler=forum) Název tabulky, do které tvé phpBB fórum ukládá svá "
+"data o skupinách uživatelů. S největší pravděpodobností to bude E<lt>table-"
+"prefixE<gt>_user_group (např. phpbb3_user_group)."
 
 #. type: TP
 #: doc/man/wesnothd.6:254
 #, no-wrap
 msgid "B<mp_mod_group>"
-msgstr ""
+msgstr "B<mp_mod_group>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:257
-#, fuzzy
-#| msgid ""
-#| "(for user_handler=forum) The name of the user under which to log into the "
-#| "database"
 msgid ""
 "(for user_handler=forum) The ID of the forum group to be considered as "
 "having moderation authority."
-msgstr "(pro user_handler=forum) Uživatelské jméno pro přihlášení k databázi"
+msgstr ""
+"(pro user_handler=forum) Identifikátor skupiny fóra, o které se předpokládá, "
+"že má oprávnění k moderování."
 
 # type: TP
 #. type: TP
@@ -2560,10 +2532,8 @@ msgstr ""
 # type: TH
 #. type: Plain text
 #: doc/man/wesnothd.6:302
-#, fuzzy
-#| msgid "B<wesnoth>(6)."
 msgid "B<wesnoth>(6)"
-msgstr "B<wesnoth>(6)."
+msgstr "B<wesnoth>(6)"
 
 # type: Plain text
 #~ msgid ""
