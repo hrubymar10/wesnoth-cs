@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-19 23:49+0100\n"
+"PO-Revision-Date: 2021-03-20 00:02+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2273,7 +2273,7 @@ msgstr "B<db_user>"
 msgid ""
 "(for user_handler=forum) The name of the user under which to log into the "
 "database"
-msgstr "(pro user_handler=forum) Uživatelské jméno pro přihlášení k databázi"
+msgstr "(pro user_handler=forum) Název uživatele pro přihlášení k databázi"
 
 # type: TP
 #. type: TP
@@ -2447,7 +2447,7 @@ msgstr "B<server>"
 #. type: Plain text
 #: doc/man/wesnothd.6:268
 msgid "The hostname of the mail server"
-msgstr "Hostitelský server emailu"
+msgstr "Název hostitele poštovního serveru"
 
 # type: TP
 #. type: TP
@@ -2460,7 +2460,7 @@ msgstr "B<username>"
 #. type: Plain text
 #: doc/man/wesnothd.6:271
 msgid "The user name under which to log into the mail server."
-msgstr "Uživatelské jméno pro emailový server."
+msgstr "Název uživatele pro přihlášení k poštovnímu serveru."
 
 # type: TP
 #. type: TP
@@ -2473,7 +2473,7 @@ msgstr "B<password>"
 #. type: Plain text
 #: doc/man/wesnothd.6:274
 msgid "This user's password."
-msgstr "Heslo pro emailový server."
+msgstr "Heslo tohoto uživatele."
 
 # type: TP
 #. type: TP
@@ -2486,7 +2486,7 @@ msgstr "B<from_address>"
 #. type: Plain text
 #: doc/man/wesnothd.6:277
 msgid "The reply-to address of you mail."
-msgstr "Adresa vložená do hlavičky Reply-To odesílaných mailů."
+msgstr "Adresa pro odpověď na tvůj mail."
 
 # type: TP
 #. type: TP
