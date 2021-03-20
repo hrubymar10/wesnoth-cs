@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-20 00:02+0100\n"
+"PO-Revision-Date: 2021-03-20 07:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -424,7 +424,6 @@ msgstr ""
 "komprimuje soubor s uloženou hrou (soubor_se_hrou) do formátu gzip a uloží "
 "jej jako I<soubor_se_hrou>.gz a odstraní I<soubor_se_hrou>."
 
-# pův.: "zobrazuje nápovědu k parametrům příkazové řádky." -- co?
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:132 doc/man/wesnothd.6:55
@@ -1446,7 +1445,7 @@ msgstr ""
 #: doc/man/wesnoth.6:466 doc/man/wesnothd.6:281
 #, no-wrap
 msgid "EXIT STATUS"
-msgstr "NÁVRATOVÝ STATUS"
+msgstr "NÁVRATOVÝ KÓD"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:471
@@ -1455,10 +1454,9 @@ msgid ""
 "fonts, etc) initialization error. An exit status of 2 indicates an error "
 "with the command line options."
 msgstr ""
-"Status normálního ukončení je 0. Návratový status 1 pak signalizuje chybu "
-"inicializace (ať už jde o knihovnu SDL, video, fonty či jiné knihovny). "
-"Status 2 pak signalizuje chybu při zpracování nějaké volby z příkazového "
-"řádku."
+"Návratová hodnota normálního ukončení je 0. Hodnota 1 značí chybu "
+"inicializace (SDL, videa, písem atd.). Návratová hodnota 2 ukazuje na chybu "
+"ve volbách příkazového řádku."
 
 #. type: Plain text
 #: doc/man/wesnoth.6:481
@@ -1470,6 +1468,12 @@ msgid ""
 "passed, but the replay produced errors. These latter two are only returned "
 "if B<--noreplaycheck> is not passed."
 msgstr ""
+"Když probíhají prověrky jednotek (pomocí B<\\ -u>), je návratový kód "
+"odlišný. Hodnota 0 znamená, že test proběhl v pořádku a hodnota 1, že "
+"selhal. Návratová hodnota 3 značí, že test proběhl v pořádku, ale vytvořil "
+"neplatný soubor se záznamem. Hodnota 4 znamená, že test proběhl v pořádku, "
+"ale záznam vyvolal chyby. Poslední dvě uvedené hodnoty jsou vráceny pouze "
+"tehdy, když není použita volba B<--noreplaycheck>."
 
 # type: SH
 #. type: SH
@@ -2507,9 +2511,8 @@ msgid ""
 "Normal exit status is 0 when the server was properly shutdown. An exit "
 "status of 2 indicates an error with the command line options."
 msgstr ""
-"Status normálního ukončení, tedy když se server korektně vypne, je 0. "
-"Návratový status 2 pak signalizuje chybu při zpracování nějaké volby z "
-"příkazového řádku."
+"Když byl server řádně ukončen, je hodnota návratového kódu 0. Návratová "
+"hodnota 2 ukazuje na chybu ve volbách příkazového řádku."
 
 # type: Plain text
 #. type: Plain text
