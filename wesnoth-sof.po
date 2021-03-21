@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-03-09 17:36+0100\n"
+"PO-Revision-Date: 2021-03-21 18:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1387,7 +1387,7 @@ msgstr "Mluví na nás! Co chceš, gryfone?"
 #. "My name is Krawg. You is looking for a runemaster?"
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:379
 msgid "Myy namm ees Krawgg. Yooo ees oooking forr a uunmasta?"
-msgstr "Jáá Krawgg. Ty hldatt kvááář?"
+msgstr "Jáá Kraváág. Ty hldatt kvááář?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:383
@@ -1577,7 +1577,7 @@ msgstr "Ano, přiměli. A toto je Kravág, který nám pomohl v Severních zemí
 #. "Yeah! Me Krawg!"
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:140
 msgid "Yaa! Mee Krawg!"
-msgstr "Yaa! Jáá Krawg!"
+msgstr "Joo! Jáá Kravág!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:144
@@ -2692,7 +2692,7 @@ msgid ""
 msgstr ""
 "Nade mnou nemáš pravomoc, Durstorne. A já bych jim žezlo nedal, i kdyby ty "
 "ano. Není tvoje, abys ho někomu dával. Je mé a Rugnurovo a Baglurovo. To "
-"i Krawg udělal pro jeho existenci více než ty! A přesto dostaneš zisk z jeho "
+"i Kravág udělal pro jeho existenci více než ty! A přesto dostaneš zisk z jeho "
 "prodeje Haldrikovi."
 
 #. [message]: speaker=Durstorn
@@ -3438,7 +3438,7 @@ msgstr "Tedy dobrá. Budeme pokračovat v průzkumu dokud to nenajdeme."
 #. "Krawg smells orcs in this cave!"
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:316
 msgid "Krawg sme’ o’cz in iz ’ave!"
-msgstr "Krawg sítí ssskřety v jezzkynii!"
+msgstr "Kravág sítí ssskřety v jezzkynii!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:320
