@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-03-14 16:12+0100\n"
+"PO-Revision-Date: 2021-03-21 22:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -773,7 +773,7 @@ msgstr "Ne! Porazili jste mne a můžete opět vstoupit do Wesnothu!"
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:252
 msgid "You have defeated my brother, but I will follow you and kill you!"
-msgstr "Porazili jste mého bratra, ale vězte: budu vás sledovat a zabiji vás!"
+msgstr "Porazili jste mého bratra, ale já vás budu sledovat a zabiji vás!"
 
 #. [scenario]: id=04a_An_Elven_Alliance
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Alliance.cfg:5
