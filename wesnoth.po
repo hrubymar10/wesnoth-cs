@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:02-0300\n"
-"PO-Revision-Date: 2021-03-18 05:43+0100\n"
+"PO-Revision-Date: 2021-03-21 19:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4385,10 +4385,8 @@ msgstr "Výchozí motiv"
 
 #. [menu]: id=menu-autosaves
 #: data/themes/default.cfg:92
-#, fuzzy
-#| msgid "Load Game..."
 msgid "Load Turn..."
-msgstr "Načti hru..."
+msgstr "Načti kolo..."
 
 #. [menu]: id=actions-menu
 #: data/themes/default.cfg:100
@@ -8227,6 +8225,20 @@ msgid ""
 "\n"
 "Do you wish to continue?"
 msgstr ""
+"Tato uložená pozice je z jiné verze hry ($version_number|) a s touto verzí "
+"nemusí pracovat.\n"
+"\n"
+"<b>Varování:</b> hry uložené uprostřed tažení jsou zvláště náchylné "
+"k selhání a ty bys měl(a) buď použít starší verzi, nebo tažení začít znovu. "
+"I když to vypadá, že se uložená hra v pořádku načetla, může být poznamenána "
+"v sotva patrných ohledech, jakými jsou vyvážená hratelnost a posloupnost "
+"příběhu. Obtížnost, výzva, <i>zábava</i>, ty mohou chybět.\n"
+"\n"
+"Například tažení mohlo být znovu vyváženo snížením počtu nepřátel "
+"v počátečních scénářích, ale očekává, že tvůj povolávací seznam v pozdějších "
+"scénářích má odpovídajícím způsobem méně zkušeností.\n"
+"\n"
+"Přeješ si pokračovat?"
 
 #: src/savegame.cpp:274 src/savegame.cpp:320
 msgid "Load Game"
@@ -8704,16 +8716,6 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1137
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Back to..."
-#~ msgstr "Zpět na kolo..."
-
-#~ msgid ""
-#~ "This save is from a different version of the game ($version_number|). Do "
-#~ "you wish to try to load it?"
-#~ msgstr ""
-#~ "Tato uložená pozice je z jiné verze hry ($version_number|). Chceš se ji "
-#~ "opravdu pokusit nahrát?"
 
 # !!!!
 #~ msgid "Scenario"
