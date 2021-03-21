@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:03-0300\n"
-"PO-Revision-Date: 2021-03-20 11:42+0100\n"
+"PO-Revision-Date: 2021-03-21 20:29+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -130,8 +130,8 @@ msgid ""
 "Show all translations in the in-game language selection list, even if they "
 "are deemed insufficiently complete."
 msgstr ""
-"Show all translations in the in-game language selection list, even if they "
-"are deemed insufficiently complete."
+"V seznamu pro výběr jazyka uvnitř hry ukázat všechny překlady, i když jsou "
+"považovány za nedostatečně hotové."
 
 # type: TP
 #. type: TP
@@ -169,10 +169,9 @@ msgstr ""
 
 #. type: TP
 #: doc/man/wesnoth.6:61
-#, fuzzy, no-wrap
-#| msgid "B<-c, --campaign \\ [E<lt>id_campaignE<gt>]>"
+#, no-wrap
 msgid "B<-c[>I<id_campaign>B<],\\ --campaign[>I<=id_campaign>B<]>"
-msgstr "B<-c, --campaign \\ [E<lt>id_taženíE<gt>]>"
+msgstr "B<-c[>I<id_tažení>B<],\\ --campaign[>I<=id_tažení>B<]>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:66
@@ -180,13 +179,14 @@ msgid ""
 "goes directly to the campaign with id I<id_campaign>.  A selection menu will "
 "appear if no id was specified."
 msgstr ""
+"rovnou spustí tažení s identifikátorem I<id_tažení>. Pokud není zadán "
+"identifikátor, objeví se menu s výběrem."
 
 #. type: TP
 #: doc/man/wesnoth.6:66
-#, fuzzy, no-wrap
-#| msgid "B<--campaign-difficulty [E<lt>difficultyE<gt>]>"
+#, no-wrap
 msgid "B<--campaign-difficulty[>I<=difficulty>B<]>"
-msgstr "B<--campaign-difficulty [E<lt>obtížnostE<gt>]>"
+msgstr "B<--campaign-difficulty[>I<=obtížnost>B<]>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:70
@@ -199,10 +199,9 @@ msgstr ""
 
 #. type: TP
 #: doc/man/wesnoth.6:70
-#, fuzzy, no-wrap
-#| msgid "B<--campaign-scenario E<lt>id_scenarioE<gt>>"
+#, no-wrap
 msgid "B<--campaign-scenario>I<\\ id_scenario>"
-msgstr "B<--campaign-scenario E<lt>id_scénářeE<gt>>"
+msgstr "B<--campaign-scenario>I<\\ id_scénáře>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:73
@@ -210,18 +209,21 @@ msgid ""
 "The id of the scenario from the specified campaign. The default is the first "
 "scenario."
 msgstr ""
-"Určuje identifikátor scénáře v daném tažení. Výchozí hodnota je první scénář."
+"Určuje identifikátor scénáře v daném tažení. Výchozí hodnotou je první "
+"scénář."
 
 #. type: TP
 #: doc/man/wesnoth.6:73
 #, no-wrap
 msgid "B<--campaign-skip-story>"
-msgstr ""
+msgstr "B<--campaign-skip-story>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:78
 msgid "Skip [story] screens and dialog through the end of the B<start> event."
 msgstr ""
+"Přeskočí obrazovky s příběhem ([story]) a rozhovor až do konce události "
+"(event) B<start>."
 
 # type: TP
 #. type: TP
@@ -716,10 +718,9 @@ msgstr ""
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:228
-#, fuzzy, no-wrap
-#| msgid "B<--nocache>"
+#, no-wrap
 msgid "B<--nobanner>"
-msgstr "B<--nocache>"
+msgstr "B<--nobanner>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:231
