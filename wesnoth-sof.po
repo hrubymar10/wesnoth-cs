@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 23:18 UTC\n"
-"PO-Revision-Date: 2021-03-08 13:59+0100\n"
+"PO-Revision-Date: 2021-03-21 21:31+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3932,12 +3932,16 @@ msgid ""
 "tomb of hot, flowing rock. The Sceptre of Fire would wait, unharmed by the "
 "lava, until some day far in the future."
 msgstr ""
+"Jakmile bylo magické těsnění zakrývající hrdlo sopky odstraněno, láva a "
+"toxický plyn vybuchly, zabily všechny uvnitř a utěsnily je v hrobce z horké "
+"tekoucí skály. Ohnivé žezlo, nepoškozeno lávou, tu spočine až do jednoho dne "
+"v budoucnosti."
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:906
 msgid ""
 "These chests have been forced open. Whatever they once held has been removed."
-msgstr ""
+msgstr "Tyto truhly byly vypáčeny. Cokoli kdysi obsahovaly, je pryč."
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:932
@@ -3945,6 +3949,8 @@ msgid ""
 "Ah! We aren't wandering the bowels o' the earth, this is crafted stone! It's "
 "very old though..."
 msgstr ""
+"No tohle! Netouláme se v zemských útrobách, tenhle kámen je opracovaný! Je "
+"to však hodně staré dílo..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:944
@@ -3954,6 +3960,10 @@ msgid ""
 "three symbols for these arcs... Well, it must describe the volcano somehow, "
 "but I can't puzzle it out now."
 msgstr ""
+"Tady je nějaký druh záznamu... Text neumím přečíst, ale jsou tu kresby "
+"ukazující tři oblouky, které překlenují to, co musí být sopka. Každý oblouk "
+"má svůj symbol... No, nějak to tu sopku určitě popisuje, ale teď to neumím "
+"rozluštit."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:954
