@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-21 20:40+0100\n"
+"PO-Revision-Date: 2021-03-22 21:49+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -235,59 +235,55 @@ msgstr "B<--clock>"
 #. type: Plain text
 #: doc/man/wesnoth.6:81
 msgid "Adds the option to show a clock for testing the drawing timer."
-msgstr ""
+msgstr "Přidá volbu pro ukázání hodin na testování časovače kreslení."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:81
-#, fuzzy, no-wrap
-#| msgid "B<--userconfig-dir>I<\\ name>"
+#, no-wrap
 msgid "B<--config-dir>I<\\ name>"
-msgstr "B<--userconfig-dir>I<\\ jméno>"
+msgstr "B<--config-dir>I<\\ název>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:85
 msgid "Deprecated, use B<--userdata-dir>."
-msgstr ""
+msgstr "Zastaralé, použij B<--userdata-dir>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:85
-#, fuzzy, no-wrap
-#| msgid "B<--userconfig-path>"
+#, no-wrap
 msgid "B<--config-path>"
-msgstr "B<--userconfig-path>"
+msgstr "B<--config-path>"
 
 # type: TP
 #. type: Plain text
 #: doc/man/wesnoth.6:89
 msgid "Deprecated, use B<--userdata-path>."
-msgstr "Zastaralé, B<--userdata-path>"
+msgstr "Zastaralé, použij B<--userdata-path>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:89
-#, fuzzy, no-wrap
-#| msgid "B<-e,\\ --editor>I<\\ file>"
+#, no-wrap
 msgid "B<--core>I<\\ id_core>"
-msgstr "B<-e, --editor>I<\\ soubor>"
+msgstr "B<--core>I<\\ id_jádra>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:92
 msgid "overrides the loaded core with the one whose id is specified."
-msgstr "nastavuje adresář s daty hry."
+msgstr "nahradí načtené jádro tím, jehož identifikátor je zadán."
 
 #. type: TP
 #: doc/man/wesnoth.6:92
-#, fuzzy, no-wrap
-#| msgid "B<--data-dir E<lt>directoryE<gt>>"
+#, no-wrap
 msgid "B<--data-dir>I<\\ directory>"
-msgstr "B<--data-dir E<lt>adresářE<gt>>"
+msgstr "B<--data-dir>I<\\ adresář>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:95
 msgid "overrides the data directory with the one specified"
-msgstr "nastavuje adresář s daty hry"
+msgstr "nahradí adresář s daty tím, který je zadán."
 
 # type: TP
 #. type: TP
@@ -299,10 +295,8 @@ msgstr "B<--data-path>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:98
-#, fuzzy
-#| msgid "prints the path of the userdata directory and exits."
 msgid "prints the path of the data directory and exits."
-msgstr "pouze zobrazí cestu k adresáři s konfiguračními soubory a skončí."
+msgstr "vypíše cestu k adresáři s daty a skončí."
 
 # type: TP
 #. type: TP
