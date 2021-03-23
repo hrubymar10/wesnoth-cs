@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-22 21:49+0100\n"
+"PO-Revision-Date: 2021-03-23 22:36+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -179,8 +179,8 @@ msgid ""
 "goes directly to the campaign with id I<id_campaign>.  A selection menu will "
 "appear if no id was specified."
 msgstr ""
-"rovnou spustí tažení s identifikátorem I<id_tažení>. Pokud není zadán "
-"identifikátor, objeví se menu s výběrem."
+"rovnou spustí tažení s identifikátorem I<id_tažení>. Pokud není zadán "
+"identifikátor, objeví se menu s výběrem."
 
 #. type: TP
 #: doc/man/wesnoth.6:66
@@ -195,7 +195,7 @@ msgid ""
 "campaign difficulty selection widget will appear."
 msgstr ""
 "Obtížnost určeného tažení (1 až max.). Pokud tento parametr není přítomen, "
-"ukáže se ve hře menu s výběrem obtížnosti."
+"ukáže se ve hře menu s výběrem obtížnosti."
 
 #. type: TP
 #: doc/man/wesnoth.6:70
@@ -283,7 +283,7 @@ msgstr "B<--data-dir>I<\\ adresář>"
 #. type: Plain text
 #: doc/man/wesnoth.6:95
 msgid "overrides the data directory with the one specified"
-msgstr "nahradí adresář s daty tím, který je zadán."
+msgstr "nahradí adresář s daty tím, který je zadán."
 
 # type: TP
 #. type: TP
@@ -296,7 +296,7 @@ msgstr "B<--data-path>"
 #. type: Plain text
 #: doc/man/wesnoth.6:98
 msgid "prints the path of the data directory and exits."
-msgstr "vypíše cestu k adresáři s daty a skončí."
+msgstr "vypíše cestu k adresáři s daty a skončí."
 
 # type: TP
 #. type: TP
@@ -308,31 +308,26 @@ msgstr "B<-d, --debug>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:103
-#, fuzzy
-#| msgid ""
-#| "enables additional command mode options in-game (see the wiki page at "
-#| "http://www.wesnoth.org/wiki/CommandMode for more information about "
-#| "command mode)."
 msgid ""
 "enables additional command mode options in-game (see the wiki page at "
 "https://www.wesnoth.org/wiki/CommandMode for more information about command "
 "mode)."
 msgstr ""
-"umožňuje použít rozšiřující volby příkazového módu (více viz Wiki na  "
-"https://www.wesnoth.org/wiki/CommandMode)."
+"povoluje ve hře další volby příkazového režimu (pro více informací "
+"o příkazovém režimu viz wiki stránku na https://www.wesnoth.org/wiki/"
+"CommandMode)."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:103
-#, fuzzy, no-wrap
-#| msgid "B<-d, --debug>"
+#, no-wrap
 msgid "B<--debug-lua>"
-msgstr "B<-d, --debug>"
+msgstr "B<--debug-lua>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:106
 msgid "enables some Lua debugging mechanisms"
-msgstr ""
+msgstr "zapíná některé mechanismy ladění Lua"
 
 # type: TP
 #. type: TP
