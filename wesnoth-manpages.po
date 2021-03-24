@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-23 22:36+0100\n"
+"PO-Revision-Date: 2021-03-24 21:30+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -327,29 +327,24 @@ msgstr "B<--debug-lua>"
 #. type: Plain text
 #: doc/man/wesnoth.6:106
 msgid "enables some Lua debugging mechanisms"
-msgstr "zapíná některé mechanismy ladění Lua"
+msgstr "zapíná některé mechanismy ladění Lua."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:106
-#, fuzzy, no-wrap
-#| msgid "B<-e,\\ --editor>I<\\ file>"
+#, no-wrap
 msgid "B<-e[>I<file>B<],\\ --editor[>I<=file>B<]>"
-msgstr "B<-e, --editor>I<\\ soubor>"
+msgstr "B<-e[>I<soubor>B<],\\ --editor[>I<=soubor>B<]>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:113
-#, fuzzy
-#| msgid ""
-#| "start the in-game map editor directly. If I<file> is specified, "
-#| "equivalent to B<-l --load>"
 msgid ""
 "start the in-game map editor directly. If I<file> is specified, equivalent "
 "to B<-l> B<--load>."
 msgstr ""
-"spustí přímo vestavěný editor map. Pokud je udán I<soubor>, příkaz je "
-"ekvivalentem B<-l --load>"
+"rovnou spustí vestavěný editor map. Pokud je zadán I<soubor>, je to stejné "
+"jako B<-l --load>."
 
 # type: TP
 #. type: TP
