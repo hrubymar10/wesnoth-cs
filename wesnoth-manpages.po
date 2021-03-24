@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:03-0300\n"
-"PO-Revision-Date: 2021-03-23 22:31+0100\n"
+"PO-Revision-Date: 2021-03-24 21:25+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -327,7 +327,7 @@ msgstr "B<--debug-lua>"
 #. type: Plain text
 #: doc/man/wesnoth.6:106
 msgid "enables some Lua debugging mechanisms"
-msgstr "zapíná některé mechanismy ladění Lua"
+msgstr "zapíná některé mechanismy ladění Lua."
 
 #. type: TP
 #: doc/man/wesnoth.6:106
@@ -338,13 +338,13 @@ msgstr "B<--strict-lua>"
 #. type: Plain text
 #: doc/man/wesnoth.6:109
 msgid "disallow deprecated Lua API calls"
-msgstr "nedovolit zastaralá volání Lua API"
+msgstr "nedovolit zastaralá volání Lua API."
 
 #. type: TP
 #: doc/man/wesnoth.6:109
 #, no-wrap
 msgid "B<-D,--diff>I<\\ left-file>B<\\ >I<right-file>"
-msgstr ""
+msgstr "B<-D, --diff>I<\\ levý-soubor>B<\\ >I<pravý-soubor>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:115
@@ -353,28 +353,26 @@ msgid ""
 "them through B<-p> first). Outputs the diff as DiffWML on standard output or "
 "to the file indicated by I<--output>."
 msgstr ""
+"porovná dva WML soubory. Nedojde k jejich předzpracování (k tomu je třeba "
+"projet je nejdřív volbou B<-p>). Rozdíl je jako DiffWML směrován na "
+"standardní výstup nebo do souboru označeného volbou I<--output>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:115
-#, fuzzy, no-wrap
-#| msgid "B<-e,\\ --editor>I<\\ file>"
+#, no-wrap
 msgid "B<-e[>I<file>B<],\\ --editor[>I<=file>B<]>"
-msgstr "B<-e, --editor>I<\\ soubor>"
+msgstr "B<-e[>I<soubor>B<],\\ --editor[>I<=soubor>B<]>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:122
-#, fuzzy
-#| msgid ""
-#| "start the in-game map editor directly. If I<file> is specified, "
-#| "equivalent to B<-l --load>"
 msgid ""
 "start the in-game map editor directly. If I<file> is specified, equivalent "
 "to B<-l> B<--load>."
 msgstr ""
-"spustí přímo vestavěný editor map. Pokud je udán I<soubor>, příkaz je "
-"ekvivalentem B<-l --load>"
+"rovnou spustí vestavěný editor map. Pokud je zadán I<soubor>, je to stejné "
+"jako B<-l --load>."
 
 # type: TP
 #. type: TP
