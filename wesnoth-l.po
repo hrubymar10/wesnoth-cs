@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-21 01:02 UTC\n"
-"PO-Revision-Date: 2021-03-14 17:38+0100\n"
+"PO-Revision-Date: 2021-03-25 21:03+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -55,7 +55,7 @@ msgstr "Zbojník"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
 msgid "Challenging"
-msgstr "Nelehká"
+msgstr "Náročná"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
@@ -3389,9 +3389,6 @@ msgstr "Je po mně..."
 #: data/campaigns/Liberty/utils/utils.cfg:66
 msgid "How can this be?"
 msgstr "Jak se to mohlo stát?"
-
-#~ msgid "Difficult"
-#~ msgstr "Náročná"
 
 #~ msgid "But we helped you!"
 #~ msgstr "Ale my jsme vám pomohli!"
