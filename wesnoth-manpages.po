@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-24 21:30+0100\n"
+"PO-Revision-Date: 2021-03-27 11:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -434,12 +434,6 @@ msgstr "B<-l,\\ --load>I<\\ soubor>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:146
-#, fuzzy
-#| msgid ""
-#| "loads the savegame I<file> from the standard save game directory.  If the "
-#| "B<-e> or B<--editor> option is used as well, starts the editor with the "
-#| "map from I<file> open. If it is a directory, the editor will start with a "
-#| "load map dialog opened there."
 msgid ""
 "loads the savegame I<file> from the standard save game directory. If the B<-"
 "e> or B<--editor> option is used as well, starts the editor with the map "
@@ -447,17 +441,16 @@ msgid ""
 "map dialog opened there."
 msgstr ""
 "načte uloženou hru I<soubor> ze standardního adresáře pro uložené hry. Pokud "
-"je použit i přepínač B<-e> nebo B<--editor>, otevře editor s načtenou mapou "
-"ze I<soubor>. Pokud je to adresář, editor zobrazí okno pro načtení mapy s "
-"touto složkou jako výchozí."
+"je použit i přepínač B<-e> nebo B<--editor>, spustí editor a otevře "
+"I<soubor> s mapou. Jestliže se jedná o adresář, editor zobrazí okno pro "
+"načtení mapy v tomto umístění."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:146
-#, fuzzy, no-wrap
-#| msgid "B<-l,\\ --load>I<\\ file>"
+#, no-wrap
 msgid "B<-L,\\ --language>I<\\ lang>"
-msgstr "B<-l,\\ --load>I<\\ soubor>"
+msgstr "B<-L,\\ --language>I<\\ jazyk>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:153
@@ -465,6 +458,7 @@ msgid ""
 "uses language I<lang> (symbol) this session.  Example: B<--language "
 "ang_GB@latin>"
 msgstr ""
+"pro toto sezení použije daný I<jazyk> (symbol). Příklad: B<--language pl_PL>."
 
 # type: TP
 #. type: TP
@@ -491,23 +485,21 @@ msgstr ""
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:168
-#, fuzzy, no-wrap
-#| msgid "B<--nogui>"
+#, no-wrap
 msgid "B<--log-precise>"
-msgstr "B<--nogui>"
+msgstr "B<--log-precise>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:171
 msgid "shows the timestamps in log output with more precision."
-msgstr ""
+msgstr "použije v záznamech časové značky s větší přesností."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:171
-#, fuzzy, no-wrap
-#| msgid "B<--nomusic>"
+#, no-wrap
 msgid "B<--log-strict>"
-msgstr "B<--nomusic>"
+msgstr "B<--log-strict>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:177
@@ -516,14 +508,16 @@ msgid ""
 "this level or more severe will cause the unit test to fail regardless of the "
 "victory result. Only relevant when used with B<-u>."
 msgstr ""
+"nastaví úroveň přísnosti pro zaznamenávání. Jakékoli zprávy poslané oblastem "
+"zaznamenávání s touto nebo závažnější úrovní způsobí, že test jednotek selže "
+"bez ohledu na vítězný výsledek. Má smysl pouze při použití s B<-u>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:177
-#, fuzzy, no-wrap
-#| msgid "B<--logdomains\\ [filter]>"
+#, no-wrap
 msgid "B<--logdomains[>I<=filter>B<]>"
-msgstr "B<--logdomains\\ [filtr]>"
+msgstr "B<--logdomains[>I<=filtr>B<]>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:182
@@ -531,30 +525,25 @@ msgid ""
 "lists defined log domains (only the ones containing I<filter> if used) and "
 "exits"
 msgstr ""
-"vypíše definované logovací domény (pouze ty obsahující B<filtr>, pokud je "
-"udán) a skončí"
+"vypíše definované oblasti zaznamenávání (pokud je použit I<filtr>, pak pouze "
+"ty, které jej obsahují) a skončí."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:182
-#, fuzzy, no-wrap
-#| msgid "B<--max-fps>"
+#, no-wrap
 msgid "B<--max-fps>I<\\ fps>"
-msgstr "B<--max-fps>"
+msgstr "B<--max-fps>I<\\ fps>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:189
-#, fuzzy
-#| msgid ""
-#| "the number of frames per second the game can show, the value should be "
-#| "between the 1 and 1000, the default is B<50>."
 msgid ""
 "the number of frames per second the game can show, the value should be "
 "between B<1> and B<1000>, the default is the monitor's refresh rate."
 msgstr ""
-"počet snímků za sekundu které může hra zobrazit, hodnota by měla náležet do "
-"rozsahu 1 až 1000, implicitně B<50>."
+"počet snímků za sekundu, které může hra zobrazit. Hodnota by měla být mezi "
+"B<1> a B<1000>. Výchozí hodnotou je obnovovací frekvence monitoru."
 
 # type: TP
 #. type: TP
@@ -566,39 +555,31 @@ msgstr "B<-m, --multiplayer>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:195
-#, fuzzy
-#| msgid ""
-#| "runs a multiplayer game. There are additional options that can be used "
-#| "together with B<--multiplayer> as explained below. Only these additional "
-#| "options can follow B<--multiplayer>."
 msgid ""
 "runs a multiplayer game. There are additional options that can be used "
 "together with B<--multiplayer> as explained below."
 msgstr ""
-"spouští hru více hráčů. Další volby, které se k této volbě váží, souvisí s "
-"B<--multiplayer> viz popis níže. Za B<--multiplyayer> mohou následovat pouze "
-"tyto další volby."
+"spustí hru více hráčů. Existují další volby, které lze s B<--multiplayer> "
+"použít, jak je vysvětleno níže."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:195
-#, fuzzy, no-wrap
-#| msgid "B<-t, --test>"
+#, no-wrap
 msgid "B<--mp-test>"
-msgstr "B<-t, --test>"
+msgstr "B<--mp-test>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:198
 msgid "load the test mp scenarios."
-msgstr ""
+msgstr "načte testovací scénáře pro hru více hráčů."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:198
-#, fuzzy, no-wrap
-#| msgid "B<--no-delay>"
+#, no-wrap
 msgid "B<--new-widgets>"
-msgstr "B<--no-delay>"
+msgstr "B<--new-widgets>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:201
@@ -607,44 +588,40 @@ msgid ""
 "experimental, don't fill bug reports since most are known. Parts of the "
 "library are deemed stable and will work without this switch."
 msgstr ""
+"existuje nová knihovna grafických ovládacích prvků (WIP widget toolkit) "
+"a tato volba ji zapíná. Tohle je velmi experimentální. Nevyplňuj žádná "
+"chybová hlášení, protože o většině chyb se ví. Část této knihovny je "
+"považována za stabilní a bude pracovat bez tohoto přepínače."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:201
-#, fuzzy, no-wrap
-#| msgid "B<--no-delay>"
+#, no-wrap
 msgid "B<--nodelay>"
-msgstr "B<--no-delay>"
+msgstr "B<--nodelay>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:205
-#, fuzzy
-#| msgid ""
-#| "runs the game without any delays for graphic benchmarking. This is "
-#| "automatically enabled by B<--nogui>."
 msgid ""
 "runs the game without any delays for graphic benchmarking. This is "
 "automatically enabled by B<--nogui>."
 msgstr ""
-"vypustí testování grafiky během startu. Tato volba je automaticky použita "
-"použitím B<--nogui>."
+"spustí hru bez jakýchkoli zpoždění pro otestování grafiky. Tohle je "
+"automaticky zapnuto volbou B<--nogui>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:205
-#, fuzzy, no-wrap
-#| msgid "B<--nosound>"
+#, no-wrap
 msgid "B<--noaddons>"
-msgstr "B<--nosound>"
+msgstr "B<--noaddons>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:208
-#, fuzzy
-#| msgid "disables caching of game data."
 msgid "disables loading of user addons."
-msgstr "vypíná cache pro herní data."
+msgstr "vypne načtení uživatelských rozšíření."
 
 # type: TP
 #. type: TP
@@ -657,7 +634,7 @@ msgstr "B<--nocache>"
 #. type: Plain text
 #: doc/man/wesnoth.6:211
 msgid "disables caching of game data."
-msgstr "vypíná cache pro herní data."
+msgstr "vypne ukládání herních dat do vyrovnávací paměti."
 
 # type: TP
 #. type: TP
@@ -672,6 +649,8 @@ msgid ""
 "runs the game without the GUI. Only available in combination with B<--"
 "multiplayer> or B<--screenshot> or B<--plugin>."
 msgstr ""
+"spustí hru bez grafického uživatelského rozhraní. Dostupné pouze ve spojení "
+"s B<--multiplayer>, B<--screenshot> nebo B<--plugin>."
 
 # type: TP
 #. type: TP
@@ -684,15 +663,14 @@ msgstr "B<--nomusic>"
 #. type: Plain text
 #: doc/man/wesnoth.6:222
 msgid "runs the game without music."
-msgstr "runs the game without music."
+msgstr "spustí hru bez hudby."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:222
-#, fuzzy, no-wrap
-#| msgid "B<--nocache>"
+#, no-wrap
 msgid "B<--noreplaycheck>"
-msgstr "B<--nocache>"
+msgstr "B<--noreplaycheck>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:226
@@ -700,6 +678,7 @@ msgid ""
 "don't try to validate replay of unit test. Only relevant when used with B<-"
 "u>."
 msgstr ""
+"nezkoušet ověřit záznam testu jednotek. Má smysl pouze při použití s B<-u>."
 
 # type: TP
 #. type: TP
@@ -712,7 +691,7 @@ msgstr "B<--nosound>"
 #. type: Plain text
 #: doc/man/wesnoth.6:229
 msgid "runs the game without sounds and music."
-msgstr "spustí hru bez zvuků a hudby."
+msgstr "spustí hru bez zvuků a hudby."
 
 #. type: TP
 #: doc/man/wesnoth.6:229
