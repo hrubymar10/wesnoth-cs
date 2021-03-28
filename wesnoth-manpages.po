@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:03-0300\n"
-"PO-Revision-Date: 2021-03-27 11:32+0100\n"
+"PO-Revision-Date: 2021-03-28 14:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -736,43 +736,36 @@ msgstr "spustí hru bez zvuků a hudby."
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:241
-#, fuzzy, no-wrap
-#| msgid "B<--bzip>I<\\ infile>"
+#, no-wrap
 msgid "B<--output>I<\\ file>"
-msgstr "B<—bzip>I<\\ soubor_se_hrou>"
+msgstr "B<--output>I<\\ soubor>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:244
 msgid "output to the specified file. Applicable to diffing operations."
-msgstr ""
+msgstr "uloží výstup do určeného souboru. Použitelné pro rozdílové operace."
 
 #. type: TP
 #: doc/man/wesnoth.6:244
-#, fuzzy, no-wrap
-#| msgid "B<--password>I<E<lt>passwordE<gt>>"
+#, no-wrap
 msgid "B<--password>I<\\ password>"
-msgstr "B<--password>I<E<lt>hesloE<gt>>"
+msgstr "B<--password>I<\\ heslo>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:249
-#, fuzzy
-#| msgid ""
-#| "uses E<lt>passwordE<gt> when connecting to a server, ignoring other "
-#| "preferences. Unsafe."
 msgid ""
 "uses I<password> when connecting to a server, ignoring other preferences. "
 "Unsafe."
 msgstr ""
-"používáE<lt>passwordE<gt> pro připojení k sereru. Ignoruje ostatní "
-"nastavení. Není bezpečné."
+"při připojování k serveru použije I<heslo> a nevšímá si jiných nastavení. "
+"Riskantní."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:249
-#, fuzzy, no-wrap
-#| msgid "B<--gzip>I<\\ infile>"
+#, no-wrap
 msgid "B<--plugin>I<\\ script>"
-msgstr "B<--gzip>I<\\ soubor_se_hrou>"
+msgstr "B<--plugin>I<\\ skript>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:256
@@ -781,13 +774,15 @@ msgid ""
 "B<--script>, but Lua file should return a function which will be run as a "
 "coroutine and periodically woken up with updates."
 msgstr ""
+"(experimentální) načte I<skript>, který definuje zásuvný modul Wesnothu. "
+"Podobné volbě B<--script>, ale Lua soubor by měl vrátit funkci, která poběží "
+"jako koprogram a bude pravidelně probouzena aktualizacemi."
 
 #. type: TP
 #: doc/man/wesnoth.6:256
-#, fuzzy, no-wrap
-#| msgid "B<-p, --preprocess E<lt>source file/folderE<gt> E<lt>target directoryE<gt>>"
+#, no-wrap
 msgid "B<-P,--patch>I<\\ base-file>B<\\ >I<patch-file>"
-msgstr "B<-p, --preprocess E<lt>source file/folderE<gt> E<lt>target directoryE<gt>>"
+msgstr "B<-P,--patch>I<\\ výchozí-soubor>B<\\ >I<soubor-se-záplatou>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:261
@@ -796,26 +791,18 @@ msgid ""
 "files.  Outputs the patched WML to standard output or to the file indicated "
 "by I<--output>."
 msgstr ""
+"použije na WML soubor DiffWML záplatu. Žádný ze souborů nepředzpracovává. "
+"Záplatovaný WML směruje na standardní výstup nebo do souboru označeného "
+"volbou I<--output>."
 
 #. type: TP
 #: doc/man/wesnoth.6:261
-#, fuzzy, no-wrap
-#| msgid "B<-p, --preprocess E<lt>source file/folderE<gt> E<lt>target directoryE<gt>>"
+#, no-wrap
 msgid "B<-p,\\ --preprocess>I<\\ source-file/folder>B<\\ >I<target-directory>"
-msgstr "B<-p, --preprocess E<lt>source file/folderE<gt> E<lt>target directoryE<gt>>"
+msgstr "B<-p,\\ --preprocess>I<\\ zdrojový-soubor/složka>B<\\ >I<cílový-adresář>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:271
-#, fuzzy
-#| msgid ""
-#| "preprocesses a specified file/folder. For each file(s) a plain .cfg file "
-#| "and a processed .cfg file will be written in specified target directory. "
-#| "If a folder is specified, it will be preprocessed recursively based on "
-#| "the known preprocessor rules. The common macroses from the \"data/core/"
-#| "macros\" directory will be preprocessed before the specified resources.  "
-#| "Example: B<-p ~/wesnoth/data/campaigns/tutorial ~/result.> For details "
-#| "regarding the preprocessor visit: http://wiki.wesnoth.org/"
-#| "PreprocessorRef#Command-line_preprocessor"
 msgid ""
 "preprocesses a specified file/folder. For each file(s) a plain .cfg file and "
 "a processed .cfg file will be written in specified target directory. If a "
@@ -826,71 +813,55 @@ msgid ""
 "preprocessor visit: https://wiki.wesnoth.org/PreprocessorRef#Command-"
 "line_preprocessor."
 msgstr ""
-"předzpracuje určený soubor či adresář. Do určeného cílového adresáře budou "
-"zapsány soubor(y): původní soubor '.cfg' a předzpracovaný soubor '.cfg'. "
-"Pokud je vybrán celý adresář, bude předzpracován rekurzivně podle dostupných "
-"pravidel preprocesoru. Běžná makra z umístění \"data/core/macros\" budou "
-"předzpracována před udanými zdroji. Příklad:  B<-p ~/wesnoth/data/campaigns/"
-"tutorial ~/result.>. Pro podrobnosti týkající se preprocessoru navštivte: "
-"https://wiki.wesnoth.org/PreprocessorRef#Command-line_preprocessor"
+"předzpracuje zadaný soubor či složku. Do určeného cílového adresáře bude pro "
+"každý soubor zapsán .cfg soubor se značkami (plain) a zpracovaný .cfg "
+"soubor. Pokud je zadána složka, bude zpracována rekurzivně podle známých "
+"pravidel preprocesoru. Společná makra z adresáře „data/core/macros“ budou "
+"předzpracována před zadanými zdroji. Příklad: B<-p ~/wesnoth/data/campaigns/"
+"tutorial ~/výsledek>. Pro podrobné údaje týkající se preprocesoru navštiv: "
+"https://wiki.wesnoth.org/PreprocessorRef#Command-line_preprocessor."
 
 #. type: TP
 #: doc/man/wesnoth.6:271
-#, fuzzy, no-wrap
-#| msgid "B<--preprocess-defines=DEFINE1,DEFINE2,etc>"
+#, no-wrap
 msgid "B<--preprocess-defines=>I<DEFINE1>B<,>I<DEFINE2>B<,>I<...>"
-msgstr "B<--preprocess-defines=DEFINE1,DEFINE2,etc>"
+msgstr "B<--preprocess-defines=>I<DEFINICE1>B<,>I<DEFINICE2>B<,>I<...>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:278
-#, fuzzy
-#| msgid ""
-#| "comma separated list of defines to be used by the '--preprocess' command. "
-#| "If B<SKIP_CORE> is in the define list the \"data/core\" directory won't "
-#| "be preprocessed."
 msgid ""
 "comma separated list of defines to be used by the B<--preprocess> command. "
 "If B<SKIP_CORE> is in the define list the \"data/core\" directory won't be "
 "preprocessed."
 msgstr ""
-"seznam oddělený čárkami deinovaný pro použití příkazem '--preprocess'. Pokud "
-"je v listu definic B<SKIP_CORE>, adresář \"data/core\" nebude přdzpracován."
+"seznam definic oddělených čárkami, které budou použity příkazem B<--"
+"preprocess>. Pokud je v seznamu definic B<SKIP_CORE>, nebude předzpracován "
+"adresář „data/core“."
 
 #. type: TP
 #: doc/man/wesnoth.6:278
-#, fuzzy, no-wrap
-#| msgid "B<--preprocess-input-macros E<lt>source fileE<gt>>"
+#, no-wrap
 msgid "B<--preprocess-input-macros>I<\\ source-file>"
-msgstr "B<--preprocess-input-macros E<lt>zdrojový souborE<gt>>"
+msgstr "B<--preprocess-input-macros>I<\\ zdrojový-soubor>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:285
-#, fuzzy
-#| msgid ""
-#| "used only by the '--preprocess' command.  Specifies a file that contains "
-#| "[preproc_define]s to be included before preprocessing."
 msgid ""
 "used only by the B<--preprocess> command. Specifies a file that contains "
 "B<[preproc_define]>s to be included before preprocessing."
 msgstr ""
-"použito pouze příkazem '--preprocess'. Určuje soubor, který obsahuje data "
-"[preproc_define] pro použití před zpracováním."
+"použito pouze příkazem B<--preprocess>. Určuje soubor, který obsahuje značky "
+"B<[preproc_define]>, pro začlenění definic dříve, než se spustí "
+"předzpracování."
 
 #. type: TP
 #: doc/man/wesnoth.6:285
-#, fuzzy, no-wrap
-#| msgid "B<--preprocess-output-macros [E<lt>target fileE<gt>]>"
+#, no-wrap
 msgid "B<--preprocess-output-macros[>I<=target-file>B<]>"
-msgstr "B<--preprocess-output-macros [E<lt>cílový souborE<gt>]>"
+msgstr "B<--preprocess-output-macros[>I<=cílový-soubor>B<]>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:296
-#, fuzzy
-#| msgid ""
-#| "used only by the '--preprocess' command.  Will output all preprocessed "
-#| "macros in the target file. If the file is not specified the output will "
-#| "be file '_MACROS_.cfg' in the target directory of preprocess's command.  "
-#| "This switch should be typed before the --preprocess command."
 msgid ""
 "used only by the B<--preprocess> command. Will output all preprocessed "
 "macros in the target file. If the file is not specified the output will be "
@@ -898,10 +869,11 @@ msgid ""
 "output file can be passed to B<--preprocess-input-macros>.  This switch "
 "should be typed before the B<--preprocess> command."
 msgstr ""
-"používáno pouze příkazem '--preprocess'. Vypíše všechna předzpracovaná makra "
-"do cílového souboru. Pokud není soubor udán, výstup je uložen do souboru "
-"'_MACROS_.cfg' v cílovém adresáři příkazu preprocesoru. Tento parametr by "
-"měl být použit před '--preprocess'."
+"použito pouze příkazem B<--preprocess>. Zapíše všechna předzpracovaná makra "
+"do cílového souboru. Pokud soubor není určen, bude výstupem soubor „_MACROS_."
+"cfg“ v cílovém adresáři příkazu preprocess. Výstupní soubor může být předán "
+"volbě B<--preprocess-input-macros>. Tento přepínač by měl být napsán před "
+"příkazem B<--preprocess>."
 
 # type: TP
 #. type: TP
