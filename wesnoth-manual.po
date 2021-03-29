@@ -15,15 +15,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "POT-Creation-Date: 2021-02-20 18:40-0300\n"
-"PO-Revision-Date: 2021-03-16 17:48+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2021-03-29 20:31+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 # Je to nějaká hovadina.
 #. type: Content of: outside any tag (error?)
@@ -3798,9 +3797,9 @@ msgid ""
 "usually \"breathing room\" scenarios where you can rather easily gain some "
 "gold and experience (advanced units)."
 msgstr ""
-"Po scénářích, sestávajících se ze strašlivé řeže (kde pořádně „dostáváš na "
-"frak“), obvykle následují volnější scénáře určené k opětovnému nashromáždění "
-"zlata a zkušených jednotek."
+"Po scénářích sestávajících ze strašlivé řeže (kde pořádně „dostáváš na "
+"frak“), obvykle následují volnější scénáře určené k opětovnému nashromáždění "
+"zlata a zkušených jednotek."
 
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #: doc/manual/manual.en.xml:2275
