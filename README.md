@@ -8,15 +8,14 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-ai | 379 | 75 % | 93 |
-wesnoth-manpages | 301 | 74 % | 76 | Michal
+wesnoth-manpages | 301 | 86 % | 42 | Michal
 wesnoth-tsg | 666 | 97 % | 18 |
-wesnoth-units | 614 | 98 % | 12 | Septim
 
-Total messages remaining: **199**
+Total messages remaining: **153**
 
 Progress since 2019-05-12: **1** message per day
 
-ETA: **2021-10-09**
+ETA: **2021-08-29**
 
 Notes:
 - 18 remaining messages in TSG belongs to the disabled scenario 06a Tidings Good and Ill, so translating these isn't to player's profit.
