@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:03-0300\n"
-"PO-Revision-Date: 2021-03-28 14:16+0200\n"
+"PO-Revision-Date: 2021-03-29 21:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -537,7 +537,7 @@ msgid ""
 "victory result. Only relevant when used with B<-u>."
 msgstr ""
 "nastaví úroveň přísnosti pro zaznamenávání. Jakékoli zprávy poslané oblastem "
-"zaznamenávání s touto nebo závažnější úrovní způsobí, že test jednotek selže "
+"zaznamenávání s touto nebo závažnější úrovní způsobí, že test součástí selže "
 "bez ohledu na vítězný výsledek. Má smysl pouze při použití s B<-u>."
 
 # type: TP
@@ -718,7 +718,7 @@ msgid ""
 "don't try to validate replay of unit test. Only relevant when used with B<-"
 "u>."
 msgstr ""
-"nezkoušet ověřit záznam testu jednotek. Má smysl pouze při použití s B<-u>."
+"nezkoušet ověřit záznam testu součástí. Má smysl pouze při použití s B<-u>."
 
 # type: TP
 #. type: TP
@@ -1036,15 +1036,16 @@ msgstr ""
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:356
-#, fuzzy, no-wrap
-#| msgid "B<-e,\\ --editor>I<\\ file>"
+#, no-wrap
 msgid "B<-u,\\ --unit>I<\\ scenario-id>"
-msgstr "B<-e, --editor>I<\\ soubor>"
+msgstr "B<-u,\\ --unit>I<\\ id-scénáře>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:360
 msgid "runs the specified test scenario as a unit test. Implies B<--nogui>."
 msgstr ""
+"spustí zadaný testovací scénář jako test součástí (unit test). Zahrnuje B<--"
+"nogui>."
 
 # type: TP
 #. type: TP
@@ -1532,12 +1533,12 @@ msgid ""
 "passed, but the replay produced errors. These latter two are only returned "
 "if B<--noreplaycheck> is not passed."
 msgstr ""
-"Když probíhají prověrky jednotek (pomocí B<\\ -u>), je návratový kód "
-"odlišný. Hodnota 0 znamená, že test proběhl v pořádku a hodnota 1, že "
-"selhal. Návratová hodnota 3 značí, že test proběhl v pořádku, ale vytvořil "
-"neplatný soubor se záznamem. Hodnota 4 znamená, že test proběhl v pořádku, "
-"ale záznam vyvolal chyby. Poslední dvě uvedené hodnoty jsou vráceny pouze "
-"tehdy, když není použita volba B<--noreplaycheck>."
+"Když běží test součástí (pomocí B<\\ -u>), je návratový kód odlišný. Hodnota "
+"0 znamená, že test proběhl v pořádku a hodnota 1, že selhal. Návratová "
+"hodnota 3 značí, že test proběhl v pořádku, ale vytvořil neplatný soubor se "
+"záznamem. Hodnota 4 znamená, že test proběhl v pořádku, ale záznam vyvolal "
+"chyby. Poslední dvě uvedené hodnoty jsou vráceny pouze tehdy, když není "
+"použita volba B<--noreplaycheck>."
 
 # type: SH
 #. type: SH
