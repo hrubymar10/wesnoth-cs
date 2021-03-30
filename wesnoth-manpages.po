@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-29 21:48+0200\n"
+"PO-Revision-Date: 2021-03-30 22:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -816,16 +816,14 @@ msgstr "B<-r\\ >I<X>B<x>I<Y>B<,\\ --resolution\\ >I<X>B<x>I<Y>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:281
-#, fuzzy
-#| msgid "sets the screen resolution. Example: B<-r 800x600>"
 msgid "sets the screen resolution. Example: B<-r> B<800x600>."
-msgstr "nastavuje rozlišení. Příklad: B<-r 800x600>"
+msgstr "nastaví rozlišení obrazovky. Příklad: B<-r> B<800x600>."
 
 #. type: TP
 #: doc/man/wesnoth.6:281
 #, no-wrap
 msgid "B<--render-image>I<\\ image>B<\\ >I<output>"
-msgstr ""
+msgstr "B<--render-image>I<\\ obrázek>B<\\ >I<výstup>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:284
@@ -834,14 +832,16 @@ msgid ""
 "outputs to a .png file. Image path functions are documented at https://wiki."
 "wesnoth.org/ImagePathFunctionWML."
 msgstr ""
+"vezme pro wesnoth platný „řetězec cesty obrázku“, který obsahuje funkce "
+"cesty obrázku, a zapíše výstup do .png souboru. Funkce cesty obrázku jsou "
+"zdokumentovány na https://wiki.wesnoth.org/ImagePathFunctionWML."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:284
-#, fuzzy, no-wrap
-#| msgid "B<port>"
+#, no-wrap
 msgid "B<-R,\\ --report>"
-msgstr "B<port>"
+msgstr "B<-R,\\ --report>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:287
@@ -849,14 +849,15 @@ msgid ""
 "initializes game directories, prints build information suitable for use in "
 "bug reports, and exits."
 msgstr ""
+"inicializuje adresáře hry, vytiskne informace o sestavení vhodné pro použití "
+"v hlášeních o chybách a skončí."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:287
-#, fuzzy, no-wrap
-#| msgid "B<--userconfig-dir>I<\\ name>"
+#, no-wrap
 msgid "B<--rng-seed>I<\\ number>"
-msgstr "B<--userconfig-dir>I<\\ jméno>"
+msgstr "B<--rng-seed>I<\\ číslo>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:294
@@ -864,66 +865,64 @@ msgid ""
 "seeds the random number generator with I<number>.  Example: B<--rng-seed> "
 "B<0>."
 msgstr ""
+"inicializuje generátor náhodných čísel semínkem I<číslo>. Příklad: B<--rng-"
+"seed> B<0>."
 
 #. type: TP
 #: doc/man/wesnoth.6:294
 #, no-wrap
 msgid "B<--screenshot>I<\\ map>B<\\ >I<output>"
-msgstr ""
+msgstr "B<--screenshot>I<\\ mapa>B<\\ >I<výstup>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:301
 msgid ""
 "saves a screenshot of I<map> to I<output> without initializing a screen."
 msgstr ""
+"uloží snímek mapy I<mapa> do souboru I<výstup>, aniž inicializuje obrazovku."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:301
-#, fuzzy, no-wrap
-#| msgid "B<--bzip>I<\\ infile>"
+#, no-wrap
 msgid "B<--script>I<\\ file>"
-msgstr "B<—bzip>I<\\ soubor_se_hrou>"
+msgstr "B<--script>I<\\ soubor>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:306
 msgid "(experimental)  I<file> containing a Lua script to control the client."
-msgstr ""
+msgstr "(experimentální) I<soubor> obsahující Lua skript na ovládání klienta."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:306
-#, fuzzy, no-wrap
-#| msgid "B<-s,\\ --server\\ [host]>"
+#, no-wrap
 msgid "B<-s[>I<host>B<],\\ --server[>I<=host>B<]>"
-msgstr "B<-s,\\ --server\\ [hostitel]>"
+msgstr "B<-s[>I<hostitel>B<],\\ --server[>I<=hostitel>B<]>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:311
-#, fuzzy
-#| msgid ""
-#| "connects to the specified host if any, otherwise connect to the first "
-#| "server in preferences. Example: B<--server server.wesnoth.org>"
 msgid ""
 "connects to the specified host if any, otherwise connect to the first server "
 "in preferences. Example: B<--server> B<server.wesnoth.org>."
 msgstr ""
-"přeskočí menu, připojí se k určenému hostiteli (pokud byl určen) nebo "
-"prvnímu serveru v nastavení. Příklad: B<--server server.wesnoth.org>"
+"připojí se k hostiteli, pokud je nějaký zadán, jinak se připojí k prvnímu "
+"serveru v nastavení. Příklad: B<--server> B<server.wesnoth.org>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:311
-#, fuzzy, no-wrap
-#| msgid "B<--nogui>"
+#, no-wrap
 msgid "B<--showgui>"
-msgstr "B<--nogui>"
+msgstr "B<--showgui>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:315
 msgid "runs the game with the GUI, overriding any implicit B<--nogui>."
 msgstr ""
+"nebere v úvahu žádnou zahrnutou volbu B<--nogui> a spustí hru s grafickým "
+"uživatelským rozhraním."
 
 #. type: TP
 #: doc/man/wesnoth.6:315
