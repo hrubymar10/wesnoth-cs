@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-03-31 23:15+0200\n"
+"PO-Revision-Date: 2021-04-01 21:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -985,10 +985,9 @@ msgstr ""
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:340
-#, fuzzy, no-wrap
-#| msgid "B<--userconfig-path>"
+#, no-wrap
 msgid "B<--unsafe-scripts>"
-msgstr "B<--userconfig-path>"
+msgstr "B<--unsafe-scripts>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:345
@@ -997,6 +996,9 @@ msgid ""
 "arbitrary packages. Do not do this with untrusted scripts! This action gives "
 "lua the same permissions as the wesnoth executable."
 msgstr ""
+"zpřístupní lua skriptům balíček B<package>, takže mohou načítat libovolné "
+"balíčky. Nedělej to s nedůvěryhodnými skripty! Tento krok dá lua skriptům "
+"stejná oprávnění, jaká má spustitelný soubor wesnoth."
 
 # type: TP
 #. type: TP
