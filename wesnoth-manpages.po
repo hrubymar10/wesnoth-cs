@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-04-01 21:49+0200\n"
+"PO-Revision-Date: 2021-04-02 23:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1003,20 +1003,12 @@ msgstr ""
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:345
-#, fuzzy, no-wrap
-#| msgid "B<--userconfig-dir>I<\\ name>"
+#, no-wrap
 msgid "B<--userconfig-dir>I<\\ name>"
-msgstr "B<--userconfig-dir>I<\\ jméno>"
+msgstr "B<--userconfig-dir>I<\\ název>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:356
-#, fuzzy
-#| msgid ""
-#| "sets the user configuration directory to I<name> under $HOME or \"My "
-#| "Documents\\eMy Games\" for windows.  You can also specify an absolute "
-#| "path for the configuration directory outside the $HOME or \"My Documents"
-#| "\\eMy Games\".  Under X11 this defaults to $XDG_CONFIG_HOME or $HOME/."
-#| "config/wesnoth, on other systems to the userdata path."
 msgid ""
 "sets the user configuration directory to I<name> under $HOME or \"My "
 "Documents\\eMy Games\" for windows.  You can also specify an absolute path "
@@ -1026,17 +1018,18 @@ msgid ""
 "\".  Under X11 this defaults to $XDG_CONFIG_HOME or $HOME/.config/wesnoth, "
 "on other systems to the userdata path."
 msgstr ""
-"nastaví adresář s uživatelskými daty na I<jméno> v $HOME nebo \"Dokumenty"
-"\\eMy Games\" pod windows. Můžete však také použít absolutní cestu pro "
-"adresář s nastavením mmio $HOME nebo \"Dokumenty\\eMyGames\". Pod X11 je "
-"výchozí $XDG_CONFIG_HOME nebo $HOME/.config/wesnoth, na ostatních systémech "
-"v uživatelských adresářích."
+"nastaví I<název> adresáře s uživatelským nastavením v $HOME, nebo pro "
+"Windows v „My Documents\\eMy Games“. Pro adresář s nastavením můžeš také "
+"určit absolutní cestu mimo $HOME nebo „My Documents\\eMy Games“. Na Windows "
+"je kromě toho možné zadat adresář relativně k pracovnímu adresáři procesu "
+"užitím cesty, která začíná na „.\\e“ nebo „..\\e“. Pod X11 je výchozím "
+"adresářem $XDG_CONFIG_HOME nebo $HOME/.config/wesnoth, na jiných systémech "
+"je to cesta k uživatelským datům."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:356
-#, fuzzy, no-wrap
-#| msgid "B<--userconfig-path>"
+#, no-wrap
 msgid "B<--userconfig-path>"
 msgstr "B<--userconfig-path>"
 
@@ -1044,22 +1037,17 @@ msgstr "B<--userconfig-path>"
 #. type: Plain text
 #: doc/man/wesnoth.6:359
 msgid "prints the path of the user configuration directory and exits."
-msgstr "pouze zobrazí cestu k adresáři s konfiguračními soubory a skončí."
+msgstr "vytiskne cestu k adresáři s uživatelským nastavením a skončí."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:359
 #, no-wrap
 msgid "B<--userdata-dir>I<\\ name>"
-msgstr "B<--userdata-dir>I<\\ jméno>"
+msgstr "B<--userdata-dir>I<\\ název>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:368
-#, fuzzy
-#| msgid ""
-#| "sets the userdata directory to I<name> under $HOME or \"My Documents\\eMy "
-#| "Games\" for windows.  You can also specify an absolute path for the "
-#| "userdata directory outside the $HOME or \"My Documents\\eMy Games\"."
 msgid ""
 "sets the userdata directory to I<name> under $HOME or \"My Documents\\eMy "
 "Games\" for windows.  You can also specify an absolute path for the userdata "
@@ -1067,9 +1055,11 @@ msgid ""
 "also possible to specify a directory relative to the process working "
 "directory by using path starting with \".\\e\" or \"..\\e\"."
 msgstr ""
-"nastaví adresář s uživatelskými daty na I<jméno> v $HOME nebo \"Dokumenty"
-"\\eMy Games\" pod windows. Můžete však také použít absolutní cestu mimo "
-"$HOME nebo \"Dokumenty\\eMyGames\"."
+"nastaví I<název> adresáře s uživatelskými daty v $HOME, nebo pro Windows "
+"v „My Documents\\eMy Games“. Pro adresář s uživatelskými daty můžeš také "
+"určit absolutní cestu mimo $HOME nebo „My Documents\\eMy Games“. Na Windows "
+"je kromě toho možné zadat adresář relativně k pracovnímu adresáři procesu "
+"užitím cesty, která začíná na „.\\e” nebo „..\\e“."
 
 # type: TP
 #. type: TP
@@ -1082,25 +1072,20 @@ msgstr "B<--userdata-path>"
 #. type: Plain text
 #: doc/man/wesnoth.6:371
 msgid "prints the path of the userdata directory and exits."
-msgstr "pouze zobrazí cestu k adresáři s konfiguračními soubory a skončí."
+msgstr "vytiskne cestu k adresáři s uživatelskými daty a skončí."
 
 #. type: TP
 #: doc/man/wesnoth.6:371
-#, fuzzy, no-wrap
-#| msgid "B<--username>I<E<lt>usernameE<gt>>"
+#, no-wrap
 msgid "B<--username>I<\\ username>"
-msgstr "B<--username>I<E<lt>jménoE<gt>>"
+msgstr "B<--username>I<\\ uživatelské_jméno>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:376
-#, fuzzy
-#| msgid ""
-#| "uses E<lt>usernameE<gt> when connecting to a server, ignoring other "
-#| "preferences."
 msgid ""
 "uses I<username> when connecting to a server, ignoring other preferences."
 msgstr ""
-"používá E<lt>usernameE<gt> pro připojení k serveru. Ignoruje ostatní "
+"při připojování k serveru použije I<uživatelské_jméno> a nevšímá si jiných "
 "nastavení."
 
 # type: TP
