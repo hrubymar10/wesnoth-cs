@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-11-09 11:41+0300\n"
-"PO-Revision-Date: 2021-04-02 23:10+0200\n"
+"PO-Revision-Date: 2021-04-03 08:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -933,7 +933,7 @@ msgstr "B<--strict-validation>"
 #. type: Plain text
 #: doc/man/wesnoth.6:318
 msgid "validation errors are treated as fatal errors."
-msgstr "chyby validace jsou brány jako fatální."
+msgstr "chyby ověření jsou brány jako fatální."
 
 #. type: TP
 #: doc/man/wesnoth.6:318
@@ -1099,7 +1099,7 @@ msgstr "B<--validcache>"
 #. type: Plain text
 #: doc/man/wesnoth.6:379
 msgid "assumes that the cache is valid. (dangerous)"
-msgstr "považuje cache za platnou bez kontroly. (nebezpečné)"
+msgstr "předpokládá, že vyrovnávací paměť je platná. (nebezpečné)"
 
 # type: TP
 #. type: TP
@@ -1112,7 +1112,7 @@ msgstr "B<-v, --version>"
 #. type: Plain text
 #: doc/man/wesnoth.6:382
 msgid "shows the version number and exits."
-msgstr "zobrazí verzi wesnothu a skončí."
+msgstr "ukáže číslo verze a skončí."
 
 # type: TP
 #. type: TP
@@ -1125,7 +1125,7 @@ msgstr "B<-w, --windowed>"
 #. type: Plain text
 #: doc/man/wesnoth.6:385
 msgid "runs the game in windowed mode."
-msgstr "spustí hry v okně."
+msgstr "spustí hru v režimu okna."
 
 # type: TP
 #. type: TP
