@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:03-0300\n"
-"PO-Revision-Date: 2021-04-02 23:02+0200\n"
+"PO-Revision-Date: 2021-04-03 08:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1002,7 +1002,7 @@ msgstr "B<--strict-validation>"
 #. type: Plain text
 #: doc/man/wesnoth.6:338
 msgid "validation errors are treated as fatal errors."
-msgstr "chyby validace jsou brány jako fatální."
+msgstr "chyby ověření jsou brány jako fatální."
 
 #. type: TP
 #: doc/man/wesnoth.6:338
@@ -1172,52 +1172,49 @@ msgstr ""
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:400
-#, fuzzy, no-wrap
-#| msgid "B<--data-path>"
+#, no-wrap
 msgid "B<--validate>I<\\ path>"
-msgstr "B<--data-path>"
+msgstr "B<--validate>I<\\ cesta>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:403
 msgid "validates a file against the WML schema."
-msgstr ""
+msgstr "ověří soubor proti WML schématu."
 
 #. type: TP
 #: doc/man/wesnoth.6:403
 #, no-wrap
 msgid "B<--validate-addon>I<\\ addon_id>"
-msgstr ""
+msgstr "B<--validate-addon>I<\\ id_rozšíření>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:406
 msgid "validates the WML of the given addon as you play."
-msgstr ""
+msgstr "ověřuje WML daného rozšíření, zatímco hraješ."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:406
-#, fuzzy, no-wrap
-#| msgid "B<--validcache>"
+#, no-wrap
 msgid "B<--validate-core>"
-msgstr "B<--validcache>"
+msgstr "B<--validate-core>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:409
 msgid "validates the core WML as you play."
-msgstr ""
+msgstr "ověřuje WML jádra, zatímco hraješ."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:409
-#, fuzzy, no-wrap
-#| msgid "B<--validcache>"
+#, no-wrap
 msgid "B<--validate-schema \\ path>"
-msgstr "B<--validcache>"
+msgstr "B<--validate-schema>I<\\ cesta>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:412
 msgid "validates a file as a WML schema."
-msgstr ""
+msgstr "ověří soubor jako WML schéma."
 
 # type: TP
 #. type: TP
@@ -1230,7 +1227,7 @@ msgstr "B<--validcache>"
 #. type: Plain text
 #: doc/man/wesnoth.6:415
 msgid "assumes that the cache is valid. (dangerous)"
-msgstr "považuje cache za platnou bez kontroly. (nebezpečné)"
+msgstr "předpokládá, že vyrovnávací paměť je platná. (nebezpečné)"
 
 # type: TP
 #. type: TP
@@ -1243,7 +1240,7 @@ msgstr "B<-v, --version>"
 #. type: Plain text
 #: doc/man/wesnoth.6:418
 msgid "shows the version number and exits."
-msgstr "zobrazí verzi wesnothu a skončí."
+msgstr "ukáže číslo verze a skončí."
 
 # type: TP
 #. type: TP
@@ -1256,7 +1253,7 @@ msgstr "B<-w, --windowed>"
 #. type: Plain text
 #: doc/man/wesnoth.6:421
 msgid "runs the game in windowed mode."
-msgstr "spustí hry v okně."
+msgstr "spustí hru v režimu okna."
 
 # type: TP
 #. type: TP
