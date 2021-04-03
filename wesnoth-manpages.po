@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:03-0300\n"
-"PO-Revision-Date: 2021-04-03 08:28+0200\n"
+"PO-Revision-Date: 2021-04-03 11:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1283,32 +1283,31 @@ msgid ""
 "has to be replaced by a side number. It usually is 1 or 2 but depends on the "
 "number of players possible in the chosen scenario."
 msgstr ""
-"Volby s platností pouze pro jednu stranu jsou označeny I<strana>, kde "
-"I<strana> je třeba nahradit za číslo konkrétní strany. Obvykle je to 1 nebo "
-"2, ale záleží to vždy od konkrétního scénáře a od počtu hráčů."
+"Volby hry více hráčů pro určitou stranu jsou označeny výrazem I<číslo>. Toto "
+"I<číslo> musí být nahrazeno číslem strany. To je obvykle 1 nebo 2, ale "
+"záleží na možném počtu hráčů pro zvolený scénář."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:434
-#, fuzzy, no-wrap
-#| msgid "B<--ai_config>I<number>B<=>I<value>"
+#, no-wrap
 msgid "B<--ai-config>I<\\ number>B<:>I<value>"
-msgstr "B<--ai_config>I<strana>B<=>I<hodnota>"
+msgstr "B<--ai-config>I<\\ číslo>B<:>I<hodnota>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:437
 msgid ""
 "selects a configuration file to load for the AI controller for this side."
-msgstr "vybere konfigurační soubor k načtení pro AI dané strany."
+msgstr ""
+"vybere soubor s nastavením, který se načte pro UI ovládající tuto stranu."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:437
-#, fuzzy, no-wrap
-#| msgid "B<--algorithm>I<number>B<=>I<value>"
+#, no-wrap
 msgid "B<--algorithm>I<\\ number>B<:>I<value>"
-msgstr "B<--algorithm>I<strana>B<=>I<hodnota>"
+msgstr "B<--algorithm>I<\\ číslo>B<:>I<hodnota>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:447
@@ -1318,34 +1317,34 @@ msgid ""
 "either in \"data/ai/ais\" or \"data/ai/dev\" or an algorithm defined by an "
 "addon. Available values include: B<idle_ai> and B<experimental_ai>."
 msgstr ""
+"vybere jiný než standardní algoritmus, který použije UI ovládající tuto "
+"stranu. Tento algoritmus je definován značkou B<[ai]> a může to být jeden "
+"z algoritmů jádra v „data/ai/ais“ nebo „data/ai/dev“, nebo algoritmus "
+"definovaný rozšířením. Dostupné hodnoty zahrnují: B<idle_ai> "
+"a B<experimental_ai>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:447
-#, fuzzy, no-wrap
-#| msgid "B<--controller>I<number>B<=>I<value>"
+#, no-wrap
 msgid "B<--controller>I<\\ number>B<:>I<value>"
-msgstr "B<--controller>I<strana>B<=>I<hodnota>"
+msgstr "B<--controller>I<\\ číslo>B<:>I<hodnota>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:454
-#, fuzzy
-#| msgid ""
-#| "selects the controller for this side. Available values: B<human> and "
-#| "B<ai>."
 msgid ""
 "selects the controller for this side. Available values: B<human>, B<ai> and "
 "B<null>."
-msgstr "vybírá druh ovládání strany. Použitelné hodnoty jsou B<human> a B<ai>."
+msgstr ""
+"vybere, kdo ovládá tuto stranu. Dostupné hodnoty: B<human>, B<ai> a B<null>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:454
-#, fuzzy, no-wrap
-#| msgid "B<--era=>I<value>"
+#, no-wrap
 msgid "B<--era>I<\\ value>"
-msgstr "B<--era=>I<hodnota>"
+msgstr "B<--era>I<\\ hodnota>"
 
 # type: Plain text
 #. type: Plain text
@@ -1355,9 +1354,9 @@ msgid ""
 "The era is chosen by an id. Eras are described in the B<data/multiplayer/"
 "eras.cfg> file."
 msgstr ""
-"použij tuto volbu pro hraní ve specifické éře místo éry B<Default>. Éra je "
-"vybrána pomocí svého id. Všechny éry jsou popsány v souboru B<data/"
-"multiplayer.cfg>."
+"použij tuto volbu pro hraní ve vybrané éře namísto éry B<Default>. Éra je "
+"dána identifikátorem. Éry jsou popsány v souboru B<data/multiplayer/eras."
+"cfg>."
 
 # type: TP
 #. type: TP
@@ -1374,9 +1373,9 @@ msgid ""
 "which normally requires the user to click End Scenario.  This is also used "
 "for scriptable benchmarking."
 msgstr ""
-"skončí hru při konci scénáře, tedy bez zobrazení okénka s informací o "
-"vítězství/prohře, které normálně vyžaduje uživatelskou akci - stisk tlačítka "
-"OK. Tato volba se používá při různých měřeních."
+"skončí, jakmile je po scénáři, aniž zobrazí okno o vítězství/prohře, které "
+"obvykle vyžaduje, aby uživatel kliknul na Ukončit scénář. Toto se také "
+"používá pro skriptovatelná srovnávací měření."
 
 #. type: TP
 #: doc/man/wesnoth.6:465
@@ -1387,28 +1386,26 @@ msgstr "B<--ignore-map-settings>"
 #. type: Plain text
 #: doc/man/wesnoth.6:468
 msgid "do not use map settings, use default values instead."
-msgstr "použít výchozí hodnoty nastavení namísto nastavení mapy."
+msgstr "místo mapových nastavení použít výchozí hodnoty."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:468
-#, fuzzy, no-wrap
-#| msgid "B<--era=>I<value>"
+#, no-wrap
 msgid "B<--label>I<\\ label>"
-msgstr "B<--era=>I<hodnota>"
+msgstr "B<--label>I<\\ popisek>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:473
 msgid "sets the I<label> for AIs."
-msgstr ""
+msgstr "nastaví I<popisek> pro umělé inteligence."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:473
-#, fuzzy, no-wrap
-#| msgid "B<--multiplayer-repeat=>I<value>"
+#, no-wrap
 msgid "B<--multiplayer-repeat>I<\\ value>"
-msgstr "B<--multiplayer-repeat=>I<hodnota>"
+msgstr "B<--multiplayer-repeat>I<\\ hodnota>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:480
@@ -1416,16 +1413,15 @@ msgid ""
 "repeats a multiplayer game I<value> times. Best to use with B<--nogui> for "
 "scriptable benchmarking."
 msgstr ""
-"opakuje hru pro více hráčů I<value>krát. Nejlépe použít ji s B<--nogui> pro "
-"skriptovatelné testování."
+"opakuje hru více hráčů tolikrát, jaká je I<hodnota>. Nejlépe použít s volbou "
+"B<--nogui> pro skriptovatelná srovnávací měření."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:480
-#, fuzzy, no-wrap
-#| msgid "B<--parm>I<number>B<=>I<name>B<:>I<value>"
+#, no-wrap
 msgid "B<--parm>I<\\ number>B<:>I<name>B<:>I<value>"
-msgstr "B<--parm>I<strana>B<=>I<jméno>B<:>I<hodnota>"
+msgstr "B<--parm>I<\\ číslo>B<:>I<název>B<:>I<hodnota>"
 
 # type: Plain text
 #. type: Plain text
@@ -1435,17 +1431,16 @@ msgid ""
 "options used with B<--controller> and B<--algorithm>.  It should only be "
 "useful for people designing their own AI. (not yet documented completely)"
 msgstr ""
-"nastavuje další parametry pro tuto stranu. Jméno a hodnota parametru závisí "
-"na hodnotách voleb B<--controller> a B<--algorithm.> Mělo by být použito "
-"pouze lidmi vyvíjejícími si vlastní umělou inteligenci (není zdokumentováno)."
+"pro tuto stranu nastaví další parametry. Název a hodnota závisí na hodnotách "
+"voleb B<--controller> a B<--algorithm>. To by mělo být užitečné pouze pro "
+"lidi, kteří navrhují svou vlastní UI. (ještě není úplně zdokumentováno)"
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:489
-#, fuzzy, no-wrap
-#| msgid "B<--scenario=>I<value>"
+#, no-wrap
 msgid "B<--scenario>I<\\ value>"
-msgstr "B<--scenario=>I<hodnota>"
+msgstr "B<--scenario>I<\\ hodnota>"
 
 # type: Plain text
 #. type: Plain text
@@ -1454,16 +1449,15 @@ msgid ""
 "selects a multiplayer scenario by id. The default scenario id is "
 "B<multiplayer_The_Freelands>."
 msgstr ""
-"vybírá scénář pro hru více hráčů podle id. Výchozím scénářem je "
-"B<multiplayer_The_Freelands>."
+"vybere scénář pro hru více hráčů pomocí jeho identifikátoru. Identifikátorem "
+"výchozího scénáře je B<multiplayer_The_Freelands>."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:493
-#, fuzzy, no-wrap
-#| msgid "B<--side>I<number>B<=>I<value>"
+#, no-wrap
 msgid "B<--side>I<\\ number>B<:>I<value>"
-msgstr "B<--side>I<strana>B<=>I<hodnota>"
+msgstr "B<--side>I<\\ číslo>B<:>I<hodnota>"
 
 # type: Plain text
 #. type: Plain text
@@ -1472,16 +1466,15 @@ msgid ""
 "selects a faction of the current era for this side. The faction is chosen by "
 "an id. Factions are described in the data/multiplayer.cfg file."
 msgstr ""
-"vybírá frakci současné éry pro vybranou stranu. Frakce je vybrána na základě "
-"ID. Frakce jsou popsány v souboru data/multiplayer.cfg ."
+"pro tuto stranu vybere frakci z hrané éry. Frakce je zvolena pomocí "
+"identifikátoru. Frakce jsou popsány v souboru data/multiplayer.cfg."
 
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:498
-#, fuzzy, no-wrap
-#| msgid "B<--turns=>I<value>"
+#, no-wrap
 msgid "B<--turns>I<\\ value>"
-msgstr "B<--turns=>I<hodnota>"
+msgstr "B<--turns>I<\\ hodnota>"
 
 # type: Plain text
 #. type: Plain text
@@ -1490,8 +1483,8 @@ msgid ""
 "sets the number of turns for the chosen scenario. By default no turn limit "
 "is set."
 msgstr ""
-"nastavuje počet kol pro vybraný scénář. Výchozím nastavením je neomezený "
-"počet kol."
+"nastaví počet kol pro vybraný scénář. Výchozím nastavením je neomezený počet "
+"kol."
 
 #. type: SH
 #: doc/man/wesnoth.6:502 doc/man/wesnothd.6:259
