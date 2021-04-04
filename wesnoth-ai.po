@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-04 11:33+0200\n"
+"PO-Revision-Date: 2021-04-04 20:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -135,19 +135,6 @@ msgstr "Je jich tu opravdu mnoho. Příliš mnoho pro boj. Musíme prchnout!"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/The_Elves_Besieged.cfg:224
-#, fuzzy
-#| msgid ""
-#| "In this scenario, the AI playing the humans in the east (Langzhar) is "
-#| "instructed to protect the wizard Rossauba, while moving him safely to the "
-#| "signpost. On the other side, Koorzhar's units (in the west) will "
-#| "primarily attack Rossauba, even if a better target is available. Do you "
-#| "want to play either of the sides or let the AIs battle it out among "
-#| "themselves?\n"
-#| "\n"
-#| "Note: The Protect Unit AI is coded as a Micro AI. A Micro AI can be added "
-#| "and adapted to the need of a scenario easily using only WML and the "
-#| "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-#| "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgid ""
 "This is a reenactment of scenario The Elves Besieged of the mainline "
 "campaign Heir to the Throne, just that the AI is playing Konrad's side here. "
@@ -160,17 +147,15 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"V tomto tažení má UI lidi na východě (Langzhar) za úkol chránit čaroděje "
-"Rossaubu a bezpečně ho přesunout k rozcestníku. Koorzharovy jednotky (na "
-"západě) útočí přednostně na Rossaubu a to i v případě, že mohou napadnout "
-"lepší cíl. Chcete se chopit některé ze stran nebo necháte UI bojovat mezi "
-"sebou?\n"
+"Toto je rekonstrukce scénáře „Elfové v obležení“ z hlavního tažení „Dědic "
+"trůnu“, jen zde za Konrádovu stranu hraje UI. Cílem je přesunout Konráda "
+"k rozcestníku na severozápadě a během toho udržet naživu jak Konráda, tak "
+"Delfadora. Je použita stejná UI jako ve scénáři „Chraň jednotku“.\n"
 "\n"
-"Také si všimněte, že UI Ochrana jednotky jsou naprogramovaná jako Mikro UI. "
-"Mikro UI může být jednoduše přidáno a adaptováno podle potřeb tažení za "
-"použití WML a tagu [micro_ai]. Pro další informace se podívejte na <span "
-"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
-"Micro_AIs."
+"Poznámka: UI Chraň jednotku je naprogramována jako Mikro UI. Mikro UI může "
+"být jednoduše přidána a upravena pro potřeby scénáře pouze použitím WML "
+"a značky [micro_ai]. Pro více informací navštiv <span color='#00A000'>wiki "
+"stránku Mikro UI</span> na https://wiki.wesnoth.org/Micro_AIs."
 
 #. [event]
 #: data/ai/micro_ais/scenarios/The_Elves_Besieged.cfg:231
@@ -188,8 +173,8 @@ msgid ""
 "In HttT, we would travel north now, and try to make it to the Isle of "
 "Alduin. But for this demo campaign, we'll call it good here."
 msgstr ""
-"V DT bychom se nyní vydali na sever a pokusili se dosáhnout ostrova Alduin. "
-"Ale pro účely tohoto demotažení prohlásíme tento stav za vyhovující."
+"V DT bychom se nyní vydali na sever a pokusili se dosáhnout ostrova Alduin. "
+"Ale pro účely tohoto ukázkového tažení prohlásíme tento stav za vyhovující."
 
 #. [message]: speaker=unit
 #: data/ai/micro_ais/scenarios/The_Elves_Besieged.cfg:277
@@ -2271,7 +2256,7 @@ msgstr "Průsmyk"
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:81
 msgid "Healers"
-msgstr "L"
+msgstr "Léčitelé"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:87
@@ -2410,7 +2395,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:215
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:226
 msgid "HttT: The Elves Besieged Micro AI demo"
-msgstr "DT: Elfové v obležení ukázka Mikro UI"
+msgstr "Ukázka Mikro UI – DT: Elfové v obležení"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:227
@@ -2419,9 +2404,9 @@ msgid ""
 "campaign \"Heir to the Throne\", just that the AI is playing Konrad's side "
 "here. The same algorithm as for scenario \"Protect Unit\" is used."
 msgstr ""
-"Toto je upravená verze tažení „Elfové v Obležení“, jedné z hlavních kampaní "
-"„Dědic trůnu“, ale Konrádovu stranu ovládá UI. Je použit stejný algoritmus "
-"jako v případě tažení „Chraň jednotku“."
+"Toto je rekonstrukce scénáře „Elfové v obležení“ z hlavního tažení „Dědic "
+"trůnu“, jen zde za Konrádovu stranu hraje UI. Je použit stejný algoritmus "
+"jako pro scénář „Chraň jednotku“."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m07_messenger
