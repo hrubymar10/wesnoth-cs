@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-02-09 18:31+0100\n"
+"PO-Revision-Date: 2021-04-04 11:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -768,6 +768,13 @@ msgid ""
 "There is nothing to do here, just watch or use this scenario as a template "
 "or for your own tests."
 msgstr ""
+"Tento scénář představuje situaci s tolika jednotkami na mapě, že je před "
+"každým tahem výchozí UI patrné zpoždění (třeba pár vteřin). Rychlá Mikro UI "
+"má oproti tomu mnohem menší zpoždění. Pro názorné předvedení rozdílu je "
+"strana 1 hrána Rychlou Mikro UI a strana 2 výchozí (RCA) UI.\n"
+"\n"
+"Není tu co dělat, jen se dívej, nebo tento scénář použij jako předlohu či "
+"pro své vlastní testy."
 
 #. [test]: id=goto
 #. [event]
@@ -2227,7 +2234,7 @@ msgstr ""
 #. [test]: id=micro_ai_test
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:5
 msgid "Micro AI Tests"
-msgstr "Pokusy s Mikro UI"
+msgstr "Zkoušky Mikro UI"
 
 #. [side]: id=Grnk, type=Goblin Spearman
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:19
@@ -2595,6 +2602,8 @@ msgid ""
 "A simple demonstration of the calculation time advantage of the Fast Micro "
 "AI over the default AI in scenarios with many units."
 msgstr ""
+"Jednoduchá ukázka výhody Rychlé Mikro UI nad výchozí UI s ohledem na čas "
+"výpočtu ve scénářích s mnoha jednotkami."
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:430
@@ -2604,21 +2613,21 @@ msgid ""
 "Information about each demonstration can be accessed by right-clicking on "
 "the respective signpost."
 msgstr ""
-"Přesuňte mě k některé ze značek pro spuštění demonstrace Mikro UI.\n"
+"Přesuň mě k libovolnému rozcestníku, aby se spustila ukázka Mikro UI.\n"
 "\n"
-"Informace o ukázkách jsou přístupné po kliknutí pravým myšítkem na vybranou "
-"značku."
+"K informacím o každé ukázce se lze dostat kliknutím pravým tlačítkem myši na "
+"příslušný rozcestník."
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:437
 msgid "Move Grnk to one of the signposts"
-msgstr "Přesuňte Grnka k jedné ze značek"
+msgstr "Přesuň Grnka k jednomu z ukazatelů"
 
 #. [note]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:441
 msgid "Right-click on a signpost to get information about the scenario"
 msgstr ""
-"Pro získání více informací o tažení klikněte pravým tlačítkem myši na značku"
+"Klikni pravým tlačítkem myši na ukazatel, abys získal informace o scénáři"
 
 #. [side]: id=Grospur, type=General
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:18
