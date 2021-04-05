@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-04 20:41+0200\n"
+"PO-Revision-Date: 2021-04-05 11:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -153,7 +153,7 @@ msgstr ""
 "Delfadora. Je použita stejná UI jako ve scénáři „Chraň jednotku“.\n"
 "\n"
 "Poznámka: UI Chraň jednotku je naprogramována jako Mikro UI. Mikro UI může "
-"být jednoduše přidána a upravena pro potřeby scénáře pouze použitím WML "
+"být jednoduše přidána a upravena pro potřeby scénáře pouhým použitím WML "
 "a značky [micro_ai]. Pro více informací navštiv <span color='#00A000'>wiki "
 "stránku Mikro UI</span> na https://wiki.wesnoth.org/Micro_AIs."
 
@@ -630,7 +630,7 @@ msgstr "Drak"
 #. [side]
 #: data/ai/micro_ais/scenarios/dragon.cfg:21
 msgid "team_name^Rowck"
-msgstr "Rowck"
+msgstr "Rauk"
 
 #. [side]: type=Dread Bat, id=Dreadful Bat
 #: data/ai/micro_ais/scenarios/dragon.cfg:33
@@ -640,12 +640,12 @@ msgstr "Strašlivý netopýr"
 #. [event]
 #: data/ai/micro_ais/scenarios/dragon.cfg:51
 msgid "Rowck's Home"
-msgstr "Rowckův domov"
+msgstr "Raukův domov"
 
 #. [unit]: id=Rowck, type=Fire Dragon
 #: data/ai/micro_ais/scenarios/dragon.cfg:55
 msgid "Rowck"
-msgstr "Rowck"
+msgstr "Rauk"
 
 #. [message]: speaker=Dreadful Bat
 #: data/ai/micro_ais/scenarios/dragon.cfg:85
@@ -654,26 +654,6 @@ msgstr "Buď opatrný a vyhýbej se drakovi. Je velmi naštvaný."
 
 #. [message]: speaker=Rowck
 #: data/ai/micro_ais/scenarios/dragon.cfg:91
-#, fuzzy
-#| msgid ""
-#| "Hi there. I am Rowck and here is what I do:\n"
-#| "When hungry, I move around part of the map in a random wander until I get "
-#| "into range of an enemy. If enemies are within range, I attack and devour "
-#| "the weakest of them. After that, I retreat to my rest location, where I "
-#| "stay for a certain number of turns or until fully healed.\n"
-#| "A few details (features, not bugs, but can be changed if desired):\n"
-#| "- If my way home is blocked on the return, the normal RCA AI takes over "
-#| "my behavior.\n"
-#| "- I will, however, attack any enemy occupying my rest hex, if I can get "
-#| "there.\n"
-#| "- A kill only makes me go home when I am the attacker, not as defender.\n"
-#| "- Occasionally I will not move at all while wandering (a dragon has to "
-#| "rest sometimes!)\n"
-#| "\n"
-#| "Note: The Hunter AI is coded as a Micro AI. A Micro AI can be added and "
-#| "adapted to the need of a scenario easily using only WML and the "
-#| "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-#| "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgid ""
 "Hi there. I am Rowck and here is what I do:\n"
 "When hungry, I move around part of the map in a random wander until I get "
@@ -694,32 +674,35 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
 "https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"Ahoj, jmenuji se Rowck a umím toto:\n"
-"Když mám hlad, náhodně se toulám po mapě do doby, než na někoho narazím. "
-"Když jsou nepřátelé v dosahu, Zaútočím a nejslabšího pozřu. Potom se vracím "
-"do pelíšku, kde nějakou dobu odpočívám, dokud se zcela neuzdravím.\n"
-"Několik detailů (vlastností, nikoliv chyb, ale je možné je změnit, pokud by "
-"někdo chtěl):\n"
-"- Pokud mi na cestě do pelíšku někdo stojí v cestě, kontrolu nade mnou "
-"převezme RCA UI.\n"
-"- Pokud mi při návratu někdo zabírá pelíšek, zaútočím na něj.\n"
-"- Po zabití se vracím do pelíšku jen pokud jsem já byl útočník.\n"
-"- Občas se během kola nikam nepohnu (drak musí taky někdy odpočívat)\n"
+"Zdravím tě, jmenuji se Rauk a umím toto:\n"
+"Když mám hlad, náhodně se toulám po části mapy do doby, než mám nepřítele na "
+"dohled. Pokud jsou v dohledu nepřátelé, zaútočím na nejslabšího z nich "
+"a pozřu jej. Potom se vracím do doupěte, kde zůstávám určitý počet kol nebo "
+"dokud se úplně neuzdravím.\n"
+"Několik drobností (vlastností, nikoliv chyb, ale je možné je změnit, pokud "
+"by někdo chtěl):\n"
+"– Jestliže mi při návratu domů něco brání v cestě, převezme nad mým chováním "
+"kontrolu normální RCA UI.\n"
+"– Nicméně na nepřítele, který zabral mé doupě, zaútočím, pokud se tam mohu "
+"dostat.\n"
+"– Po zabití se vracím do doupěte, jen když jsem byl útočník, ne jako "
+"obránce.\n"
+"– Občas se během toulání vůbec nepohnu (drak musí někdy odpočívat!).\n"
 "\n"
-"Poznámka: UI Lovec je naprogramovaná jako Mikro UI. Mikro UI se může přidat "
-"a přizpůsobit pro potřeby scénáře jen s použitím WML a tagu [micro_ai]. Pro "
-"více informací navštivte wiki stránku <span color='#00A000'>Mikro UI</span> "
-"na adrese https://wiki.wesnoth.org/Micro_UIs."
+"Poznámka: UI Lovec je naprogramována jako Mikro UI. Mikro UI může být "
+"jednoduše přidána a upravena pro potřeby scénáře pouhým použitím WML "
+"a značky [micro_ai]. Pro více informací navštiv <span color='#00A000'>wiki "
+"stránku Mikro UI</span> na https://wiki.wesnoth.org/Micro_AIs."
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/dragon.cfg:104
 msgid "Move the bats around to explore how Rowck reacts"
-msgstr "Přesunuj netopýry po okolí a pozoruj Rowckovy reakce"
+msgstr "Přesouvej netopýry po okolí, abys poznal, jak Rauk reaguje"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/dragon.cfg:106
 msgid "Defeat Rowck"
-msgstr "Poraz Rowcka"
+msgstr "Poraz Rauka"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/dragon.cfg:110
@@ -2479,15 +2462,15 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:310
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:321
 msgid "Dragon Micro AI demo"
-msgstr "Ukázka Dragon Mikro UI"
+msgstr "Ukázka Mikro UI – Drak"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:322
 msgid ""
 "This scenario features a fire dragon displaying a hunt-and-rest behavior."
 msgstr ""
-"V tomto tažení budeme pozorovat ohnivého draka, který se chová stylem lov-a-"
-"odpočívej."
+"Tento scénář představuje ohnivého draka, který předvádí chování lov–"
+"odpočinek."
 
 #. [set_menu_item]: id=m12_healer_support
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:329
