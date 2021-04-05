@@ -5,16 +5,15 @@ This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth
 Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
 ## To Do
 
-Domain | Messages | Translated | Remaining | Translator
------- | -------- | ---------- | --------- | ----------
-wesnoth-sof | 628 | 98 % | 9 | Septim
-wesnoth-wc | 459 | 89 % | 48 |
+Domain | Messages | Translated | Remaining
+------ | -------- | ---------- | ---------
+wesnoth-wc | 459 | 89 % | 48
 
-Total messages remaining: **57**
+Total messages remaining: **48**
 
 Progress since 2020-08-28: **12** messages per day
 
-ETA: **2021-04-07**
+ETA: **2021-04-09**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
