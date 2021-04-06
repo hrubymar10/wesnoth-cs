@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-12 23:18 UTC\n"
-"PO-Revision-Date: 2021-04-05 19:18+0200\n"
+"PO-Revision-Date: 2021-04-06 19:03+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -27,7 +27,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:11
@@ -2767,10 +2766,9 @@ msgid ""
 "stride, and seemed to understand what the pats and strokes of the dwarf's "
 "hands meant."
 msgstr ""
-"Jeden statečný statečný trpaslík se rozběhl, chytnul přátelského gryfona za "
-"robustní peří na krku a vyskočil mu na záda. Velké zvíře to všechno vzalo s "
-"rozvahou. A zdálo se, že chápe, co znamenají poklepání a tahy trpasličích "
-"rukou."
+"Jeden statečný trpaslík se rozběhl, chytnul přátelského gryfona za robustní "
+"peří na krku a vyskočil mu na záda. Velké zvíře to všechno vzalo s rozvahou. "
+"A zdálo se, že chápe, co znamenají poklepání a tahy trpasličích rukou."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:449
