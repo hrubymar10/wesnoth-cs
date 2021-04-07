@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-06 20:18+0200\n"
+"PO-Revision-Date: 2021-04-07 21:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -864,6 +864,7 @@ msgstr "Most je pryč. Co budeme dělat?"
 #: data/ai/micro_ais/scenarios/goto.cfg:454
 msgid "Looks like we need to take the long way around to get to General Minry."
 msgstr ""
+"Vypadá to, že musíme jít oklikou, abychom se dostali ke generálu Minrymu."
 
 #. [message]: speaker=leader3
 #: data/ai/micro_ais/scenarios/goto.cfg:463
@@ -875,6 +876,13 @@ msgid ""
 "guardian units, although one of the dedicated Guardian Micro AIs will often "
 "be better suited for that purpose."
 msgstr ""
+"Chlapi, nikoho si nevšímejte kromě toho podrazníka Vaddana a jeho mužů. "
+"Zůstaňte na místě, dokud se k vám nějaká z jeho jednotek nepřiblíží alespoň "
+"na 8 políček.\n"
+"\n"
+"Poznámka: Toto je ukázka, jak může být Mikro UI Přesun použita "
+"k naprogramování strážných jednotek, ačkoli pro tento účel bude často lépe "
+"vyhovovat jedna ze specializovaných Strážných Mikro UI."
 
 #. [message]: type=Vampire Bat
 #: data/ai/micro_ais/scenarios/goto.cfg:474
@@ -884,11 +892,15 @@ msgid ""
 "behavior is set up with a single [micro_ai] tag, one with "
 "'unique_goals=yes', the other without."
 msgstr ""
+"My čtyři netopýři střídáme útěk do rohů mapy (jeden každý do jiného rohu) "
+"s návratem zpátky do skupiny právě na tomto místě. Obě chování jsou "
+"nastavena pomocí jediné značky [micro_ai], jedno s klíčem "
+"„unique_goals=yes“, druhé bez něj."
 
 #. [message]: speaker=ghost1
 #: data/ai/micro_ais/scenarios/goto.cfg:484
 msgid "Aaiiieeeeeee !!!"
-msgstr "Aaiiieeeeeee !!!"
+msgstr "Ájííéééé !!!"
 
 #. [message]: speaker=messenger2
 #: data/ai/micro_ais/scenarios/goto.cfg:488
@@ -905,6 +917,12 @@ msgid ""
 "which they seem to get along just fine for some reason.  So as long as we "
 "don't corner them, they'll leave us alone."
 msgstr ""
+"Neboj se, tihle duchové jsou opravdu plaší. Nikdo neví proč, ale vždy "
+"v tuhle roční dobu se objevují na severu a putují na jih. Také se zdá, což "
+"je pro duchy zvlášť neobvyké, že je každý vystraší a že se za každou cenu "
+"vyhýbají jiným jednotkám vyjma netopýrů a ještěráků, se kterými, jak to "
+"vypadá, z nějakého důvodu v pohodě vycházejí. Takže dokud je nezaženeme do "
+"úzkých, nechají nás na pokoji."
 
 #. [message]: speaker=messenger2
 #: data/ai/micro_ais/scenarios/goto.cfg:551
