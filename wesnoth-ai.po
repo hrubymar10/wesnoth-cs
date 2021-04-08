@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-07 21:34+0200\n"
+"PO-Revision-Date: 2021-04-08 22:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -930,6 +930,8 @@ msgid ""
 "I'll take the route straight through the mountains. It's much shorter than "
 "following the trail all the way around in the south."
 msgstr ""
+"Dám se cestou přímo přes hory. Je to o moc kratší, než obcházet okolo po "
+"stezce až k jihu."
 
 #. [message]: speaker=messenger1
 #: data/ai/micro_ais/scenarios/goto.cfg:555
@@ -940,6 +942,11 @@ msgid ""
 "Note: The messengers are controlled by Goto Micro AI definitions that differ "
 "by a single line, 'use_straight_line=yes/no'."
 msgstr ""
+"Jsi blázen. Rovnou za nosem to může být kratší, ale bude ti to trvat věčnost "
+"dostat se přes ty hory.\n"
+"\n"
+"Poznámka: Poslové jsou ovládani definicemi Mikro UI Přesun, které se liší "
+"v jediném řádku, „use_straight_line=yes/no“."
 
 #. [message]: speaker=unit
 #: data/ai/micro_ais/scenarios/goto.cfg:591
@@ -953,6 +960,9 @@ msgid ""
 "I want each and every one of you to report to him before going east to fight "
 "those saurians."
 msgstr ""
+"Muži, zamiřte dolů k Říční pevnosti a vyzvedněte si rozkazy od seržanta "
+"Aethubryho. Chci, aby se mu každý z vás hlásil před tím, než půjde na východ "
+"bojovat s těmi ještěráky."
 
 #. [message]: speaker=leader6
 #: data/ai/micro_ais/scenarios/goto.cfg:610
@@ -962,6 +972,10 @@ msgid ""
 "Sergeant Aethubry. Once that has happened, the rest of you can head into "
 "battle directly."
 msgstr ""
+"Ha, tady máte toho byrokrata Gadoka! Muži, chci, abyste se také přesunuli "
+"směrem k Říční pevnosti, ale bohatě stačí, když se ohlásí seržantu "
+"Aethubrymu jeden z vás. Až se tak stane, může zbytek z vás zamířit přímo do "
+"boje."
 
 #. [message]: speaker=unit
 #: data/ai/micro_ais/scenarios/goto.cfg:628
@@ -969,11 +983,13 @@ msgid ""
 "$unit.language_name $unit.name from Lieutenant Gadoc's squadron reporting "
 "for duty, sir."
 msgstr ""
+"$unit.language_name $unit.name z eskadry poručíka Gadoka se hlásí do služby, "
+"pane."
 
 #. [message]: speaker=fort_commander
 #: data/ai/micro_ais/scenarios/goto.cfg:644
 msgid "Ready to fight those saurians, soldier?"
-msgstr ""
+msgstr "Jsi připraven bojovat s těmi ještěráky, vojáku?"
 
 #. [message]: speaker=unit
 #: data/ai/micro_ais/scenarios/goto.cfg:648
@@ -986,16 +1002,18 @@ msgid ""
 "Very good, $unit.language_name. Now go help your comrade get rid of that "
 "saurian infestation in the swamps."
 msgstr ""
+"$unit.language_name, velmi dobře. Teď jdi pomoct svému kamarádovi zbavit se "
+"toho ještěráčího zamoření v močálech."
 
 #. [message]: speaker=fort_commander
 #: data/ai/micro_ais/scenarios/goto.cfg:664
 msgid "Maybe if I ignore them, they'll just go away?"
-msgstr ""
+msgstr "Možná, že když si jich nebudu všímat, tak snad odejdou?"
 
 #. [message]: speaker=unit
 #: data/ai/micro_ais/scenarios/goto.cfg:683
 msgid "Lieutenant Senvan's men reporting for duty, sir."
-msgstr ""
+msgstr "Muži poručíka Senvana se hlásí do služby, pane."
 
 #. [message]: speaker=fort_commander
 #: data/ai/micro_ais/scenarios/goto.cfg:687
@@ -1003,6 +1021,7 @@ msgid ""
 "Ah, Lieutenant Senvan... Is every single one of you going to bother me "
 "individually as well?"
 msgstr ""
+"Á, poručík Senvan... Chystá se mne každý jeden z vás také otravovat osobně?"
 
 #. [message]: speaker=unit
 #: data/ai/micro_ais/scenarios/goto.cfg:691
@@ -1010,6 +1029,8 @@ msgid ""
 "No, sir. Lieutenant Senvan ordered us to head into battle as soon as I have "
 "reported to you."
 msgstr ""
+"Ne, pane. Poručík Senvan nám přikázal zamířit do boje hned, jak se vám "
+"ohlásím."
 
 #. [message]: speaker=fort_commander
 #: data/ai/micro_ais/scenarios/goto.cfg:695
@@ -1018,23 +1039,26 @@ msgid ""
 "off you go then.\n"
 "\n"
 msgstr ""
+"Tak to je úleva. Někdo ví, jak používat svou... Chci říct, výborně, "
+"vyražte.\n"
+"\n"
 
 #. [message]: speaker=fort_commander
 #: data/ai/micro_ais/scenarios/goto.cfg:697
 msgid ""
 "I wouldn't say anything negative about one of my superior officers now, "
 "would I?"
-msgstr ""
+msgstr "Teď bych o jednom ze svých nadřízených neříkal nic negativního, že?"
 
 #. [message]: type=Vampire Bat
 #: data/ai/micro_ais/scenarios/goto.cfg:735
 msgid "We've all made it to the corners, let's get back together again."
-msgstr ""
+msgstr "Všichni jsme se dostali do rohů, vraťme se znovu k sobě."
 
 #. [message]: type=Vampire Bat
 #: data/ai/micro_ais/scenarios/goto.cfg:776
 msgid "We're back together, let's head out to the corners again."
-msgstr ""
+msgstr "Jsme zpátky spolu, zamiřme zase do rohů."
 
 #. [test]: id=guardians
 #. [event]
