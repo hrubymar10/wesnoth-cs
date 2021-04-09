@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-08 22:54+0200\n"
+"PO-Revision-Date: 2021-04-09 22:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -394,7 +394,7 @@ msgstr "Štěňata"
 #: data/ai/micro_ais/scenarios/swarm.cfg:66
 #: data/ai/micro_ais/scenarios/wolves.cfg:95
 msgid "End Scenario"
-msgstr "Ukončit scénář"
+msgstr "ukončit scénář"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/animals.cfg:224
@@ -546,7 +546,7 @@ msgstr "Dobře chlapi. Tyhle skřety musíme zastavit."
 #: data/ai/micro_ais/scenarios/guardians.cfg:573
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:140
 msgid "They there!  We them get!"
-msgstr "Oni tam! My je dostat!"
+msgstr "Oni tam! My dostat je!"
 
 #. [message]: speaker=LuaAI
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:99
@@ -1071,7 +1071,7 @@ msgstr "Strážci"
 #: data/ai/micro_ais/scenarios/guardians.cfg:31
 #: data/ai/micro_ais/scenarios/swarm.cfg:19
 msgid "Kraa"
-msgstr "Kraa"
+msgstr "Krák"
 
 #. [side]: id=Kraa, type=Gryphon
 #: data/ai/micro_ais/scenarios/guardians.cfg:37
@@ -1082,7 +1082,7 @@ msgstr "Gryfoni"
 #. [side]: type=Orcish Leader, id=Another Bad Orc
 #: data/ai/micro_ais/scenarios/guardians.cfg:50
 msgid "Another Bad Orc"
-msgstr "Další zly skřet"
+msgstr "Další zlý skřet"
 
 #. [unit]: type=Dwarvish Guardsman, id=guardian1
 #: data/ai/micro_ais/scenarios/guardians.cfg:97
@@ -1117,37 +1117,37 @@ msgstr "Zbabělec 4"
 #. [event]
 #: data/ai/micro_ais/scenarios/guardians.cfg:220
 msgid "Move gryphons here to see different coward reactions"
-msgstr ""
+msgstr "Přesuň gryfony sem, abys viděl různé reakce zbabělců"
 
 #. [unit]: type=Troll, id=return1
 #: data/ai/micro_ais/scenarios/guardians.cfg:229
 msgid "Return Guardian 1"
-msgstr ""
+msgstr "Navracející se strážce 1"
 
 #. [unit]: type=Troll Whelp, id=return2
 #: data/ai/micro_ais/scenarios/guardians.cfg:250
 msgid "Return Guardian 2"
-msgstr ""
+msgstr "Navracející se strážce 2"
 
 #. [unit]: type=Troll Whelp, id=home1
 #: data/ai/micro_ais/scenarios/guardians.cfg:272
 msgid "Home Guard 1"
-msgstr ""
+msgstr "Domácí stráž 1"
 
 #. [unit]: type=Troll, id=home 2
 #: data/ai/micro_ais/scenarios/guardians.cfg:284
 msgid "Home Guard 2"
-msgstr ""
+msgstr "Domácí stráž 2"
 
 #. [unit]: type=Skeleton Archer, id=stationed1
 #: data/ai/micro_ais/scenarios/guardians.cfg:297
 msgid "Stationed Guardian 1"
-msgstr ""
+msgstr "Umístěný strážce 1"
 
 #. [unit]: type=Skeleton, id=stationed2
 #: data/ai/micro_ais/scenarios/guardians.cfg:321
 msgid "Stationed Guardian 2"
-msgstr ""
+msgstr "Umístěný strážce 2"
 
 #. [unit]: type=Troll, id=zone1
 #: data/ai/micro_ais/scenarios/guardians.cfg:346
@@ -1162,29 +1162,29 @@ msgstr "Domovník"
 #. [unit]: type=Naga Fighter, id=zone3
 #: data/ai/micro_ais/scenarios/guardians.cfg:404
 msgid "Water Guardian"
-msgstr ""
+msgstr "Vodní strážce"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/guardians.cfg:425
 msgid "Guarded Location"
-msgstr ""
+msgstr "střežené místo"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/guardians.cfg:426
 msgid "Station 1"
-msgstr ""
+msgstr "základna 1"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/guardians.cfg:427
 msgid "Station 2"
-msgstr ""
+msgstr "základna 2"
 
 #. [message]: speaker=narrator
 #. [set_menu_item]: id=m01_guardian
 #: data/ai/micro_ais/scenarios/guardians.cfg:448
 #: data/ai/micro_ais/scenarios/guardians.cfg:457
 msgid "Standard WML Guardian"
-msgstr ""
+msgstr "Standardní WML strážce"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/guardians.cfg:458
@@ -1199,7 +1199,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/guardians.cfg:464
 #: data/ai/micro_ais/scenarios/guardians.cfg:473
 msgid "Return Guardian"
-msgstr ""
+msgstr "Navracející se strážce"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/guardians.cfg:474
@@ -1221,7 +1221,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/guardians.cfg:485
 #: data/ai/micro_ais/scenarios/guardians.cfg:494
 msgid "Home Guard"
-msgstr ""
+msgstr "Domácí stráž"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/guardians.cfg:495
@@ -1246,7 +1246,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/guardians.cfg:502
 #: data/ai/micro_ais/scenarios/guardians.cfg:511
 msgid "Stationed Guardian"
-msgstr ""
+msgstr "Umístěný strážce"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/guardians.cfg:512
@@ -1298,7 +1298,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/guardians.cfg:544
 #: data/ai/micro_ais/scenarios/guardians.cfg:553
 msgid "Zone Guardian"
-msgstr ""
+msgstr "Strážce oblasti"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/guardians.cfg:554
@@ -1316,7 +1316,7 @@ msgstr ""
 #. [message]: speaker=Kraa
 #: data/ai/micro_ais/scenarios/guardians.cfg:569
 msgid "Kraahhh!!!!"
-msgstr "Krááhhh!!!!"
+msgstr "Krách!!!!"
 
 #. [message]: speaker=Kraa
 #: data/ai/micro_ais/scenarios/guardians.cfg:579
@@ -1333,33 +1333,48 @@ msgid ""
 "the [micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"Gryfoni z Horských plání, podívejte se na všechny tyto nepřátele. Nechovají "
+"se normálně. Většina z nich se vůbec nehýbe, pokud se nedostaneme blíž. "
+"Podívejme se, jak na nás budou reagovat.\n"
+"\n"
+"Poznámka pro hráče: kontextové menu pod pravým tlačítkem myši poskytuje "
+"informace o chování každé jednotky.\n"
+"\n"
+"Další poznámka: většina Strážných UI je naprogramována jako Mikro UI. Mikro "
+"UI může být jednoduše přidána a upravena pro potřeby scénáře pouhým použitím "
+"WML a značky [micro_ai]. Pro více informací navštiv <span "
+"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
+"Micro_AIs."
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/guardians.cfg:589
 msgid "Move the Gryphons around to explore how the guardians react"
 msgstr ""
+"Přesouvej gryfony z místa na místo, abys prozkoumal, jak strážci reagují"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/guardians.cfg:591
 #: data/ai/micro_ais/scenarios/patrols.cfg:256
 msgid "Defeat all enemy units"
-msgstr ""
+msgstr "Poraz všechny nepřátelské jednotky"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/guardians.cfg:595
 msgid "Move Kraa to the signpost"
-msgstr "Přesuň Kraa na ukazatel"
+msgstr "Přesuň Kráka k ukazateli"
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/guardians.cfg:599
 msgid "Death of Kraa"
-msgstr "Smrt Kraa"
+msgstr "Krák zemře"
 
 #. [note]
 #: data/ai/micro_ais/scenarios/guardians.cfg:603
 msgid ""
 "Check out the right-click menu options for information on each guardian type"
 msgstr ""
+"Prozkoumej informace o každém typu strážce ve volbách menu pod pravým "
+"tlačítkem myši"
 
 #. [message]: speaker=Kraa
 #: data/ai/micro_ais/scenarios/guardians.cfg:660
@@ -2336,7 +2351,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:138
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:149
 msgid "Guardian Micro AI demo"
-msgstr "Ukázka Mikro UI Ochránci"
+msgstr "Ukázka Mikro UI  – Strážce"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:150
@@ -2345,9 +2360,9 @@ msgid ""
 "shown, including a \"coward\" unit that runs away from any approaching unit "
 "(an \"inverse guardian\", in a way)."
 msgstr ""
-"V „Ochráncích“ se setkáte s několika variantami známých Wesnothských "
-"Obránců, včerně „zbabělce“ - jednotky, která utíká pryč od jakékoliv blížící "
-"se jednotky (jakýsi „opak ochránce“)"
+"Ve „Strážcích“ je ukázáno několik obměn standardního wesnothského strážce "
+"včetně „zbabělé“ jednotky, která utíká před každou blížící se jednotkou "
+"(jakýsi „strážce naruby“)."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m04_patrol
