@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-11 12:13+0200\n"
+"PO-Revision-Date: 2021-04-11 13:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1502,7 +1502,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/hang_out.cfg:127
 msgid ""
 "Get into the outlaw's way before he can make it to the south-eastern keep"
-msgstr "Zastup cestu zbojníkovi předtím, než se dostane do jihovýchodní tvrze."
+msgstr "Zastup cestu zbojníkovi předtím, než se dostane do jihovýchodní tvrze"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/hang_out.cfg:129
