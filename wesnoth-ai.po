@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-10 10:14+0200\n"
+"PO-Revision-Date: 2021-04-11 12:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1453,40 +1453,25 @@ msgstr ""
 #. [test]: id=hang_out
 #: data/ai/micro_ais/scenarios/hang_out.cfg:5
 msgid "Hang Out"
-msgstr ""
+msgstr "Flinkání se"
 
 #. [side]: id=Bad Outlaw, type=Outlaw
 #: data/ai/micro_ais/scenarios/hang_out.cfg:23
 msgid "team_name^Bad Outlaw"
-msgstr ""
+msgstr "Zlý zbojník"
 
 #. [side]: id=Good Bandit, type=Bandit
 #: data/ai/micro_ais/scenarios/hang_out.cfg:39
 msgid "team_name^Good Bandit"
-msgstr ""
+msgstr "Hodný bandita"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/hang_out.cfg:61
 msgid "Outlaw moves here"
-msgstr ""
+msgstr "sem se zbojník stěhuje"
 
 #. [message]: speaker=Good Bandit
 #: data/ai/micro_ais/scenarios/hang_out.cfg:120
-#, fuzzy
-#| msgid ""
-#| "If you have not changed anything in the scenario code, Side 1 uses the "
-#| "Random Recruitment Micro AI, with swordsmen and peasants having been "
-#| "given higher probability than the other units. This is not meant as a "
-#| "good recruitment pattern, it simply serves as a demonstration how to use "
-#| "the AI.\n"
-#| "\n"
-#| "Side 2 uses the Rush Recruitment Micro AI (which is also used in the "
-#| "Experimental AI).\n"
-#| "\n"
-#| "A Micro AI can be added and adapted to the need of a scenario easily "
-#| "using only WML and the [micro_ai] tag. Check out the <span "
-#| "color='#00A000'>Micro AI wiki page</span> at http://wiki.wesnoth.org/"
-#| "Micro_AIs for more information."
 msgid ""
 "That outlaw over there is going to run for the keep in the southeast.  He's "
 "only going to recruit for three rounds before he'll start moving and he and "
@@ -1501,44 +1486,43 @@ msgid ""
 "the <span color='#00A000'>Micro AI wiki page</span> at https://wiki.wesnoth."
 "org/Micro_AIs for more information."
 msgstr ""
-"Pokud jste ve zdrojovém kódu tohoto tažení nic nezměnili, tak strana 1 "
-"používá Mikro UI Náhodné verbování, přičemž šermíři a sedláci mají nastavenu "
-"vyšší pravděpodobnost než ostatní jednotky. Toto se nepovažuje za dobrý "
-"způsob verbování, slouží to zkrátka jako ukátka použití UI.\n"
+"Tamten zbojník se chystá obsadit tvrz na jihovýchodě. Bude verbovat jen tři "
+"kola, než se začne přesouvat, a on i jeho lapkové jsou mnohem rychlejší než "
+"my. Pospěšme si, nebo ho nikdy nechytíme.\n"
 "\n"
-"Strana 2 používá Mikro UI Spěšné verbování (které je také použito v "
-"Experimentální UI).\n"
-"\n"
-"Mikro UI můžete velmi jednoduše přidat a upravit podle potřeb tažení pomocí "
-"WML a tagu [micro_ai]. Pro další informace se podívejte na <span "
-"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
-"Micro_UIs."
+"Poznámka: Tento scénář používá spojení dvou Mikro UI. První je Flinkání se, "
+"která způsobuje, že jednotky strany 2 zůstávají po dvě kola v okolí tvrze "
+"(zatímco odcházejí z políček hradu, aby umožnily verbování) a druhá je "
+"Doprovázení posla, jež poté přebírá ovládání. Mikro UI může být jednoduše "
+"přidána a upravena pro potřeby scénáře pouhým použitím WML a značky "
+"[micro_ai]. Pro více informací navštiv <span color='#00A000'>wiki stránku "
+"Mikro UI</span> na https://wiki.wesnoth.org/Micro_AIs."
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/hang_out.cfg:127
 msgid ""
 "Get into the outlaw's way before he can make it to the south-eastern keep"
-msgstr ""
+msgstr "Zastup cestu zbojníkovi předtím, než se dostane do jihovýchodní tvrze."
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/hang_out.cfg:129
 msgid "Death of Bad Outlaw"
-msgstr ""
+msgstr "Zlý zbojník zemře"
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/hang_out.cfg:133
 msgid "Death of Good Bandit"
-msgstr ""
+msgstr "Hodný bandita zemře"
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/hang_out.cfg:137
 msgid "Bad Outlaw makes it to the signpost"
-msgstr ""
+msgstr "Zlý zbojník se dostane k ukazateli"
 
 #. [message]: speaker=Good Bandit
 #: data/ai/micro_ais/scenarios/hang_out.cfg:151
 msgid "We got him! Now whatever it is we are fighting for is safe."
-msgstr ""
+msgstr "Máme ho! Teď je v bezpečí to, za co bojujeme, ať už je to cokoli."
 
 #. [message]: speaker=Bad Outlaw
 #: data/ai/micro_ais/scenarios/hang_out.cfg:178
@@ -1546,6 +1530,7 @@ msgid ""
 "I made it! Now we can keep fighting for whatever it is that we are fighting "
 "for."
 msgstr ""
+"Dokázal jsem to! Teď můžeme dál bojovat, za co bojujeme, ať už je to cokoli."
 
 #. [test]: id=healer_support
 #: data/ai/micro_ais/scenarios/healer_support.cfg:5
@@ -2358,7 +2343,7 @@ msgstr "Léčitelé"
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:87
 msgid "Hang Out and Messenger"
-msgstr "Procházka a Posel"
+msgstr "Flinkání se a Posel"
 
 #. [event]
 #. [test]: id=simple_attack
@@ -2631,12 +2616,12 @@ msgstr ""
 #. [set_menu_item]: id=m14_hangout
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:367
 msgid "Hang Out Micro AI demo"
-msgstr "Ukázka Mikro UI Procházka"
+msgstr "Ukázka Mikro UI – Flinkání se"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:378
 msgid "Combined Hang Out and Messenger Escort Micro AI demo"
-msgstr "Ukázka spojení Mikro UI Procházka a Doprovázení posla"
+msgstr "Společná ukázka Mikro UI – Flinkání se a Doprovázení posla"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:379
@@ -2647,11 +2632,11 @@ msgid ""
 "also shows how to combine two Micro AIs on the same side by having the "
 "Messenger Escort Micro AI take over at that point."
 msgstr ""
-"Toto tažení je ukázkou Mikro UI Procházka, která udržuje jednotky v určité "
-"(nastavitelné) oblasti, dokud nedojde k (nastavitelné) události. Poté je "
-"řízení jednotek předáno klasické UI. Toto tažení také ukazuje, že je možné "
-"kombinovat dvě Mikro UI v rámci jedné strany, kdy kontrolu převezme Mikro UI "
-"Doprovázení posla."
+"Tento scénář je ukázkou Mikro UI Flinkání se, která udržuje jednotky v okolí "
+"(nastavitelného) místa, dokud není splněna (nastavitelná) podmínka. Poté "
+"jsou jednotky propuštěny, aby se řídily chováním jiné UI. Scénář také "
+"ukazuje, jak spojit na stejné straně dvě UI tím, že v tuto chvíli převezme "
+"ovládání Mikro UI Doprovázení posla."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m15_simple_attack
