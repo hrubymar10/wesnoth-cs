@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-11 13:40+0200\n"
+"PO-Revision-Date: 2021-04-12 23:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1575,7 +1575,7 @@ msgstr ""
 #. [test]: id=lurkers
 #: data/ai/micro_ais/scenarios/lurkers.cfg:184
 msgid "Lurkers of the Swamp"
-msgstr ""
+msgstr "Číhavci z močálu"
 
 #. [side]: id=Pekzs, type=Saurian Soothsayer
 #: data/ai/micro_ais/scenarios/lurkers.cfg:198
@@ -1590,52 +1590,52 @@ msgstr "Pekzs"
 #. [side]: type=Saurian Oracle
 #: data/ai/micro_ais/scenarios/lurkers.cfg:220
 msgid "Micro AI Lurkers (saurians, stationary)"
-msgstr ""
+msgstr "Mikro UI číhavci (ještěráci, nehybní)"
 
 #. [side]: type=Saurian Oracle
 #: data/ai/micro_ais/scenarios/lurkers.cfg:236
 msgid "Micro AI Lurkers (saurians, wanderers)"
-msgstr ""
+msgstr "Mikro UI číhavci (ještěráci, toulaví)"
 
 #. [side]: type=Naga Warrior
 #: data/ai/micro_ais/scenarios/lurkers.cfg:252
 msgid "Micro AI Lurkers (nagas)"
-msgstr ""
+msgstr "Mikro UI číhavci (nágy)"
 
 #. [side]: type=Saurian Oracle
 #: data/ai/micro_ais/scenarios/lurkers.cfg:268
 msgid "WML Lurkers (saurians)"
-msgstr ""
+msgstr "WML číhavci (ještěráci)"
 
 #. [side]: type=Saurian Oracle
 #: data/ai/micro_ais/scenarios/lurkers.cfg:284
 msgid "Formula AI Lurkers (saurians)"
-msgstr ""
+msgstr "Číhavci UI Formula (ještěráci)"
 
 #. [set_menu_item]: id=m01_menu_lurker2
 #: data/ai/micro_ais/scenarios/lurkers.cfg:387
 msgid "Place a Side 2 lurker"
-msgstr ""
+msgstr "Umístit číhavce strany 2"
 
 #. [set_menu_item]: id=m01_menu_lurker3
 #: data/ai/micro_ais/scenarios/lurkers.cfg:399
 msgid "Place a Side 3 lurker"
-msgstr ""
+msgstr "Umístit číhavce strany 3"
 
 #. [set_menu_item]: id=m01_menu_lurker4
 #: data/ai/micro_ais/scenarios/lurkers.cfg:411
 msgid "Place a Side 4 lurker"
-msgstr ""
+msgstr "Umístit číhavce strany 4"
 
 #. [set_menu_item]: id=m01_menu_lurker5
 #: data/ai/micro_ais/scenarios/lurkers.cfg:423
 msgid "Place a Side 5 lurker"
-msgstr ""
+msgstr "Umístit číhavce strany 5"
 
 #. [set_menu_item]: id=m01_menu_lurker6
 #: data/ai/micro_ais/scenarios/lurkers.cfg:435
 msgid "Place a Side 6 lurker"
-msgstr ""
+msgstr "Umístit číhavce strany 6"
 
 #. [message]: speaker=Pekzs
 #: data/ai/micro_ais/scenarios/lurkers.cfg:452
@@ -1649,6 +1649,14 @@ msgid ""
 "enemy within their reach. If no enemy is in reach, the lurker does a random "
 "move instead - or it just sits and waits (lurks)."
 msgstr ""
+"V tomto scénáři ukazujeme Číhavčí Mikro UI. Číhavec je jednotka, která je "
+"schopna se pohybovat přes většinu terénů, ale zastavuje a útočí pouze "
+"z určitého terénu. Také může mít schopnost se v tomto terénu ukrýt (což je "
+"důvodem, proč se tato UI nazývá Číhavčí).\n"
+"\n"
+"Číhavci se pohybují jednotlivě bez jakékoli strategie a vždy útočí na "
+"nejslabšího nepřítele ve svém dosahu. Pokud v dosahu žádný nepřítel není, "
+"číhavec se místo útočení náhodně pohybuje – nebo jen sedí a čeká (číhá)."
 
 #. [message]: speaker=Pekzs
 #: data/ai/micro_ais/scenarios/lurkers.cfg:460
@@ -1668,6 +1676,20 @@ msgid ""
 "We also added two other sides, which demonstrate lurker behavior coded in "
 "WML (Side 5, gray) and Formula AI (Side 6, brown)."
 msgstr ""
+"Použitím značky [micro_ai] jsou zde nastavena tři odlišná číhavčí chování "
+"pomocí rozdílných parametrů:\n"
+"\n"
+"Strana 2 (modrá): ještěráci útočící pouze z močálu. Pokud není v dosahu "
+"nepřítel, nehýbou se.\n"
+"\n"
+"Strana 3 (zelená): ještěráci útočící pouze z močálu. Pokud není v dosahu "
+"nepřítel, náhodně se toulají (jen v močálu).\n"
+"\n"
+"Strana 4 (nachová): nágy toulající se jen vodním terénem, ale útočící z vody "
+"i močálu.\n"
+"\n"
+"Přidali jsme také dvě další strany, které ukazují chování číhavce "
+"naprogramované ve WML (strana 5, šedá) a UI Formula (strana 6, hnědá)."
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/lurkers.cfg:474
@@ -1679,17 +1701,6 @@ msgstr "Poznámky"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/lurkers.cfg:475
-#, fuzzy
-#| msgid ""
-#| "We need to hold that pass for as long as we can. Let's put our strongest "
-#| "fighters on the front line and bring injured units to the back for "
-#| "healing. If we're careful enough, we might even win this battle. I'll "
-#| "join you as soon as I'm done recruiting and do my share of the fighting.\n"
-#| "\n"
-#| "Note: The Bottleneck Defense AI is coded as a Micro AI. A Micro AI can be "
-#| "added and adapted to the need of a scenario easily using only WML and the "
-#| "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-#| "span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgid ""
 "You can use the right-click context menu to add additional lurkers.\n"
 "\n"
@@ -1701,40 +1712,43 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
 "https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"Musíme udržet průchod co nejdéle to půjde. Postavme naše nejsilnější "
-"bojovníky do přední linie a zraněné jednotky stáhněte dozadu, aby se mohly "
-"uzdravit. Když budeme opatrní, můžeme tuto bitvu vyhrát. Připojím se k vám "
-"jakmile naverbuji a taky se zapojím do boje.\n"
+"Můžeš použít kontextové menu pod pravým tlačítkem myši, abys přidal další "
+"číhavce.\n"
 "\n"
-"Poznámka: Obrana úzkého hrdla UI je naprogramovaná jako Mikro UI. Mikro UI "
-"se může přidat a přizpůsobit pro potřeby scénáře jen s použitím WML a tagu "
-"[micro_ai]. Pro více informací navštivte wiki stránku <span "
-"color='#00A000'>Mikro UI</span> na adrese https://wiki.wesnoth.org/Micro_UIs."
+"Každá jednotka, která není u močálu (a u vody pro nágy), je před číhavci "
+"v bezpečí, tudíž je snadné zabránit útoku na Pekzse.\n"
+"\n"
+"Číhavčí Lua UI je naprogramována jako Mikro AI. Mikro UI může být jednoduše "
+"přidána a upravena pro potřeby scénáře pouhým použitím WML a značky "
+"[micro_ai]. Pro více informací navštiv <span color='#00A000'>wiki stránku "
+"Mikro UI</span> na https://wiki.wesnoth.org/Micro_AIs."
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/lurkers.cfg:485
 msgid "Watch the lurkers move around and fight them if you want"
-msgstr ""
+msgstr "Sleduj, jak se číhavci přesouvají a bojuj s nimi, jestli chceš"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/lurkers.cfg:487
 msgid "Defeat all lurkers"
-msgstr ""
+msgstr "Poraz všechny číhavce"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/lurkers.cfg:491
 msgid "Move Pekzs to the signpost"
-msgstr "Přesuň Pekzse na ukazatel"
+msgstr "Přesuň Pekzse k ukazateli"
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/lurkers.cfg:495
 msgid "Death of Pekzs"
-msgstr "Smrt Pekzse"
+msgstr "Pekzs zemře"
 
 #. [note]
 #: data/ai/micro_ais/scenarios/lurkers.cfg:499
 msgid "Right-click on unoccupied swamp hexes to add more lurkers"
 msgstr ""
+"Klikni pravým tlačítkem myši na neobsazená políčka močálu, abys přidal další "
+"číhavce"
 
 #. [message]: speaker=Pekzs
 #: data/ai/micro_ais/scenarios/lurkers.cfg:546
@@ -1742,6 +1756,8 @@ msgid ""
 "Zzanksss for helping me wizz zzossse lurkerss. Hope to sssee you again "
 "ssometime."
 msgstr ""
+"Díky, žžesss mi pomohl sss těmi ččíhavcci. Sssnad ssse zzasss někdy zznovu "
+"ssshledáme."
 
 #. [test]: id=messenger_escort
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:5
@@ -2323,7 +2339,7 @@ msgstr "Hejno"
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:60
 msgid "Lurkers"
-msgstr "Lovci"
+msgstr "Číhavci"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:66
@@ -2384,7 +2400,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:119
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:130
 msgid "Swamp Lurker Micro AI demo"
-msgstr "Ukázka Mikro UI Lovci v močálech"
+msgstr "Ukázka Mikro UI – Číhavci z močálů"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:131
@@ -2394,10 +2410,11 @@ msgid ""
 "and always attack the weakest enemy within their reach. If no enemy is in "
 "reach, the lurker does a random move instead."
 msgstr ""
-"Lovci v močálech jsou hloupá, ipmulzivní stvoření, která se mohou pohybovat "
-"většinou terénu, ale zastavuje jen v močálech. Pohybují se odděleně bez "
-"nějakého hlubšího záměru a vždy útočí na nejslabší cíl v dosahu. Pokud není "
-"v dosahu žádný nepřítel, pohybují se náhodně."
+"Číhavci z močálů jsou hloupá, impulzivní stvoření, která se mohou pohybovat "
+"přes většinu terénů, ale zastavují jen v močálech. Pohybují se jednotlivě "
+"bez jakékoli strategie a vždy útočí na nejslabšího nepřítele ve svém dosahu. "
+"Pokud v dosahu žádný nepřítel není, číhavec se místo útočení náhodně "
+"pohybuje."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m03_guardians
