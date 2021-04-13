@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-12 23:47+0200\n"
+"PO-Revision-Date: 2021-04-13 19:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1762,7 +1762,7 @@ msgstr ""
 #. [test]: id=messenger_escort
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:5
 msgid "Messenger Escort"
-msgstr "Poslova eskorta"
+msgstr "Poslův doprovod"
 
 #. [side]: id=Vanak, type=Orcish Ruler
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:18
@@ -1781,22 +1781,22 @@ msgstr "Posel"
 #. [event]
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:123
 msgid "Messenger Waypoint 1"
-msgstr "Poslova zastávka 1"
+msgstr "1. poslova zastávka"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:125
 msgid "Messenger Waypoint 2"
-msgstr "Poslova zastávka 2"
+msgstr "2. poslova zastávka"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:127
 msgid "Messenger Waypoint 3"
-msgstr "Poslova zastávka 3"
+msgstr "3. poslova zastávka"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:130
 msgid "AI moves Messenger here"
-msgstr ""
+msgstr "sem UI přesouvá posla"
 
 #. [message]: speaker=messenger
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:145
@@ -1804,22 +1804,11 @@ msgid ""
 "Men, I need to get to that signpost in the north, to get the message to our "
 "leader. Let's head up there as quickly as we can."
 msgstr ""
+"Muži, potřebuji se dostat k tomu rozcestníku na severu, abych předal zprávu "
+"našemu vůdci. Vyražme tam tak rychle, jak jen dokážeme."
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:152
-#, fuzzy
-#| msgid ""
-#| "In this scenario, the AI playing the humans in the east (Langzhar) is "
-#| "instructed to protect the wizard Rossauba, while moving him safely to the "
-#| "signpost. On the other side, Koorzhar's units (in the west) will "
-#| "primarily attack Rossauba, even if a better target is available. Do you "
-#| "want to play either of the sides or let the AIs battle it out among "
-#| "themselves?\n"
-#| "\n"
-#| "Note: The Protect Unit AI is coded as a Micro AI. A Micro AI can be added "
-#| "and adapted to the need of a scenario easily using only WML and the "
-#| "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-#| "span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgid ""
 "The Messenger Escort AI will try to move the dragoon messenger to the "
 "signpost in the north, while protecting him as well as possible with the "
@@ -1838,17 +1827,22 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
 "https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"V tomto tažení má UI lidi na východě (Langzhar) za úkol chránit čaroděje "
-"Rossaubu a bezpečně ho přesunout k rozcestníku. Koorzharovy jednotky (na "
-"západě) útočí přednostně na Rossaubu a to i v případě, že mohou napadnout "
-"lepší cíl. Chcete se chopit některé ze stran nebo necháte UI bojovat mezi "
-"sebou?\n"
+"UI Poslův doprovod se pokusí přesunout posla–dragouna k rozcestníku na "
+"severu, zatímco jej bude také chránit pomocí dalších jednotek. Vanakovi "
+"skřeti ho potřebují zastavit.\n"
 "\n"
-"Také si všimněte, že UI Ochrana jednotky jsou naprogramovaná jako Mikro UI. "
-"Mikro UI může být jednoduše přidáno a adaptováno podle potřeb tažení za "
-"použití WML a tagu [micro_ai]. Pro další informace se podívejte na <span "
-"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
-"Micro_AIs."
+"Všimni si, že poslova trasa je zde vytyčena pomocí řady zastávek jen proto, "
+"aby se názorně ukázalo, jak používat zastávky (waypoints). Na této mapě by "
+"použití jediné zastávky na konci trasy pracovalo zrovna tak dobře (nebo "
+"pravděpodobně i lépe).\n"
+"\n"
+"Také si povšimni, že posel se nemusí dostat přesně ke každému rozcestníku "
+"(vyjma posledního). Dost dobře stačí se přiblížit.\n"
+"\n"
+"UI Poslův doprovod je naprogramována jako Mikro UI. Mikro UI může být "
+"jednoduše přidána a upravena pro potřeby scénáře pouhým použitím WML "
+"a značky [micro_ai]. Pro více informací navštiv <span color='#00A000'>wiki "
+"stránku Mikro UI</span> na https://wiki.wesnoth.org/Micro_AIs."
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/messenger_escort.cfg:165
@@ -2512,7 +2506,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:234
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:245
 msgid "Messenger Escort Micro AI demo"
-msgstr "Ukázka Mikro UI Doprovázení posla"
+msgstr "Ukázka Mikro UI – Poslův doprovod"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:246
@@ -2521,8 +2515,9 @@ msgid ""
 "his way to the edge of the map. The escort will also try to open the path "
 "for the messenger if there are enemies in the way."
 msgstr ""
-"„Doprovázení posla“ je UI navržená pro ochranu poslíčka při cestě na kraj "
-"mapy. Pokud jsou v cestě nepřátelé, eskorta se mu pokusí udělat cestu."
+"„Poslův doprovod“ má UI nastavenu tak, aby chránil posla, zatímco ten míří "
+"k okraji mapy. Doprovod se také pokusí uvolnit poslovi cestu, pokud jsou "
+"v ní nepřátelé."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m08_animals
