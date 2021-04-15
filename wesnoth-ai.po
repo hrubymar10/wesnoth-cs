@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-14 20:46+0200\n"
+"PO-Revision-Date: 2021-04-15 21:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2346,7 +2346,7 @@ msgstr "Flinkání se a Posel"
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:90
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:5
 msgid "Simple Attack"
-msgstr "Prostě útočit"
+msgstr "Jednoduchý útok"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:93
@@ -2641,7 +2641,7 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:386
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:397
 msgid "Simple Attack Micro AI demo"
-msgstr "Ukázka Mikro UI Prostě útočit"
+msgstr "Ukázka Mikro UI – Jednoduchý útok"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:398
@@ -2650,8 +2650,8 @@ msgid ""
 "priority than the standard Wesnoth attacks and how the AI can be forced to "
 "do attacks that it would otherwise avoid."
 msgstr ""
-"Toto tažení ukazuje, jak mohou být určité útoky vykonány s vyšší prioritou "
-"než běžné útoky Wesnoth UI a jak je možné donutit UI k útokům, kterým by se "
+"Tento scénář ukazuje, jak mohou být určité útoky vykonány s vyšší prioritou "
+"než běžné útoky UI Wesnothu a jak je možné donutit UI k útokům, kterým by se "
 "jinak vyhýbala."
 
 #. [message]: speaker=Grnk
@@ -2723,14 +2723,15 @@ msgid ""
 "Attack Micro AI in this scenario. General Grospur might be in for a surprise."
 "</i>"
 msgstr ""
-"Nebuďte takový zbrabělec, Seržante! Umístil jsem po okolí velmi zkušené "
-"jednotky. Nemrtví se neodváží na ně zaútočit. A těch několik plíživých "
-"čmuchalů... ty můžeme lehce zdolat jakmile se dostanou dovnitř.\n"
+"Nebuďte takový srab, seržante! Umístil jsem po obvodu velmi zkušené "
+"jednotky. Nemrtví se neodváží na ně zaútočit. A těch několik plíživých "
+"čmuchalů... můžeme lehce zdolat, jakmile se dostanou dovnitř.\n"
 "\n"
-"<i>Jinak řečeno, Wesnoth UI zpravidla neútočí na jednotky, kterým zbývá do "
-"postupu jediný zkušenostní bod, pokud není naděje, že se ji podaří zabít "
-"jediným útokem. Nicméně některé útoky nemrtvých jsou v tomto tažení řízeny "
-"pomocí Simple Attack Mikro UI. Generála Grospura čeká nemilé překvapení.</i>"
+"<i>Jinak řečeno, UI Wesnothu zpravidla neútočí na jednotky, kterým zbývá do "
+"postupu jediný zkušenostní bod, pokud není naděje, že se je podaří zabít "
+"jediným útokem. Nicméně některé útoky nemrtvých jsou v tomto scénáři řízeny "
+"pomocí Mikro UI Jednoduchý útok. Generála Grospura čeká nemilé překvapení.</"
+"i>"
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:135
@@ -2740,17 +2741,17 @@ msgstr "Sleduj, jak se o to nemrtví postarají"
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:137
 msgid "Don't even try. You can't reach the Lich."
-msgstr "Ani na to nemysli. Nemůžeš se dostat k Lichovi."
+msgstr "Ani to nezkoušej. Nemůžeš se dostat k lichovi."
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:141
 msgid "Death of the last of Grospur's units"
-msgstr "Smrt poslední z Gospurových jednotek"
+msgstr "Poslední z Grospurových jednotek zemře"
 
 #. [note]
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:145
 msgid "When your leader dies, side leadership passes on to another unit"
-msgstr "Když váš velitel zemře, vedení strany se předá jiné jednotce"
+msgstr "Když tvůj vůdce zemře, vedení strany se předá jiné jednotce"
 
 #. [message]: speaker=$second_unit.id
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:172
@@ -2758,25 +2759,10 @@ msgid ""
 "What the ... ?!?  They are not supposed to attack me. That just doesn't "
 "happen in Wesnoth!"
 msgstr ""
-"Co to ... je?!? Nemají útočit na mě. Takhle to prostě ve Wesnothu nefunguje!"
+"Co to ... je?!? Nemají útočit na mě. Tohle se prostě ve Wesnothu nestává!"
 
 #. [message]: speaker=Uralt
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:176
-#, fuzzy
-#| msgid ""
-#| "Hahahahaha !! I have given special instruction to my Soulless to attack "
-#| "all you almost-advanced units first. Also watch how those same Soulless "
-#| "will throw themselves mercilessly at your pitiful soldiers after that, "
-#| "saving my more valuable skeleton minions for later.  I have taken the "
-#| "term 'disposable units' to a whole new level. Watch in awe !!\n"
-#| "\n"
-#| "<i>Translation: The undead side includes two instances of the Simple "
-#| "Attack Micro AI.  The first makes the Soulless attack all units 1 XP from "
-#| "leveling up, such that they can be eliminated afterward.  The second "
-#| "executes all remaining attacks possible by Soulless (and Walking "
-#| "Corpses), without regard for their own safety.  Only after that does the "
-#| "default Wesnoth attack mechanism kick in to attack with the remaining "
-#| "units (skeletons).</i>"
 msgid ""
 "Hahahahaha!! I have given special instruction to my Soulless to attack all "
 "your almost-advanced units first. Also watch how those same Soulless will "
@@ -2791,18 +2777,18 @@ msgid ""
 "for their own safety.  Only after that does the default Wesnoth attack "
 "mechanism kick in to attack with the remaining units (skeletons).</i>"
 msgstr ""
-"Hahahahaha !! Dal jsem všem svým Tělům bez duše příkaz útočit přednostně na "
-"tvoje jednotky těsně před postupem na další úroveň. Sleduj, jak se Těla bez "
-"duše nemilosrdně vrhají na tvoje bídné vojáky chráníce přitom moje drahé "
-"kostlivce na později. Posunul jsem tak výraz „postradatelná jednotka“ na "
-"úplně novou úroveň. Boj se!\n"
+"Hahahahaha!! Dal jsem všem svým tělům bez duše příkaz útočit přednostně na "
+"všechny tvoje jednotky, které jsou těsně před postupem na další úroveň. "
+"Sleduj, jak se těla bez duše nemilosrdně vrhají na tvoje bídné vojáky "
+"šetříce přitom moje drahé kostlivce na později. Posunul jsem tak výraz "
+"„postradatelná jednotka“ na úplně novou úroveň. Boj se!!\n"
 "\n"
-"<i>Překlad: Nemrtví zahrnují dvě strany Simple Attack Mikro UI. První z nich "
-"se stará, aby Těla bez duše útočily na jednotky, které mají 1 zkušenostní "
-"bod do dalšího levelu, takže mohou takto být zneškodněni. Druhá spouští "
-"všechny ostatní útoky Těl bez duše (a Chodících mrtvol) bez ohledu na jejich "
-"bezpečí. Až potom se spustí běžný útok, který zahrnuje všechny zbývající "
-"jednotky (kostlivce).</i>"
+"<i>Překlad: Strana nemrtvých zahrnuje dva případy Mikro UI Jednoduchý útok. "
+"První z nich se stará, aby těla bez duše útočila na jednotky, které mají "
+"1 zkušenostní bod do další úrovně, takže mohou být poté zlikvidovány. Druhá "
+"spouští všechny ostatní útoky těl bez duše (a chodících mrtvol) bez ohledu "
+"na jejich vlastní bezpečí. Až potom se spustí výchozí wesnothský útočný "
+"mechanismus, aby útočil pomocí zbývajících jednotek (kostlivců).</i>"
 
 #. [message]: speaker=Uralt
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:195
