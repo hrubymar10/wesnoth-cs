@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-15 21:39+0200\n"
+"PO-Revision-Date: 2021-04-16 23:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2546,13 +2546,13 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:291
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:302
 msgid "Swarm Micro AI demo"
-msgstr "Ukázka Mikro UI Hejno"
+msgstr "Ukázka Mikro UI – Hejno"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:303
 msgid "This scenario features bats moving around semi-randomly in a swarm."
 msgstr ""
-"Toto tažení se zaměřuje na netopýry, kteří se pseudonáhodně pohybují v hejnu."
+"Tento scénář představuje netopýry, kteří napůl náhodně poletují v hejnu."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m11_dragon
@@ -2817,27 +2817,6 @@ msgstr "Přidat netopýra straně 2"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/swarm.cfg:144
-#, fuzzy
-#| msgid ""
-#| "This scenario features bats moving around in a swarm. Without adjacent "
-#| "enemies, they simply try to stay together and at a certain distance from "
-#| "enemies. However, if an enemy unit is close to any bat, the swarm "
-#| "scatters. This is particular fun to watch when one places an enemy unit "
-#| "in the middle of the swarm. After being scattered, the swarm members "
-#| "slowly rejoin, but not in a very organized way. Sub-swarms or individual "
-#| "bats might roam around for quite some time before they find their way "
-#| "back. It is also possible that individual bats (or small groups) split "
-#| "off from the larger swarm at times.\n"
-#| "\n"
-#| "The player controls a side of gryphons, each of which is given 99 moves "
-#| "so that the reaction of the swarm to enemies can be tested easily. There "
-#| "are also several right-click options, for example for adding bats or "
-#| "gryphons or for taking units off the map.\n"
-#| "\n"
-#| "Note: The Swarm AI is coded as a Micro AI. A Micro AI can be added and "
-#| "adapted to the need of a scenario easily using only WML and the "
-#| "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
-#| "span> at http://wiki.wesnoth.org/Micro_AIs for more information."
 msgid ""
 "This scenario features bats moving around in a swarm. Without adjacent "
 "enemies, they simply try to stay together and at a certain distance from "
@@ -2859,31 +2838,30 @@ msgid ""
 "tag. Check out the <span color='#00A000'>Micro AI wiki page</span> at "
 "https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"Toto tažení se točí okolo netopýrů, kteří se v hejnu pohybují po mapě. Pokud "
-"není na dohled žádný nepřítel, snaží se pouze udržet pohromadě a udržet si "
-"odstup od všech nepřátel. Pokud se ale k některému z nich přiblíží nepřítel, "
-"hejno se rozprchne. Obzvlášť zábavné je sledovat je v případě, kdy umístíte "
-"nepřátelskou jednotku doprostřed hejna. Po tom, co se rozprchnou, se "
-"jednotliví členové hejna pomalu připojují, ovšem nijak organizovaně. Dílčí "
-"hejna nebo osamělí netopýři se občas docela toulají krouží kolem, než najdou "
-"cestu zpátky. Je taky možné, že se několik osamělých netopýrů (nebo malých "
-"skupin) od hlavní skupiny oddělí.\n"
+"Tento scénář představuje netopýry poletující v hejnu. Když nejsou nepřátelé "
+"nablízku, snaží se jen zůstat pohromadě a v určité vzdálenosti od nepřátel. "
+"Avšak když je blízko kterémukoli netopýru nepřátelská jednotka, hejno se "
+"rozletí. Je zvlášť zábavné sledovat, když někdo umístí nepřátelskou jednotku "
+"doprostřed hejna. Poté, co se rozletí, se členové hejna pomalu znovu "
+"připojují, avšak ne moc organizovaně. Menší hejna nebo jednotliví netopýří "
+"se mohou celkem dlouho potulovat kolem, než si najdou cestu zpátky. Čas od "
+"času je také možné, že se jednotliví netopýři (nebo malé skupinky) odtrhnou "
+"od většího hejna.\n"
 "\n"
-"Hráč ovládá gryfony, z nichž se každý může pohnout o 99 polí, takže může "
-"lehce vyzkoušet reakce netopýrů. Rovněž má k dispozici několik voleb z menu "
-"pravého myšítka, například přidání netopýrů nebo gryfonů nebo odebírání "
-"jednotek z mapy.\n"
+"Hráč ovládá stranu gryfonů, z nichž má každý 99 kroků, takže lze jednoduše "
+"zkoušet reakce hejna na nepřátele. Je zde také několik voleb pod pravým "
+"tlačítkem myši, například pro přidání netopýrů nebo gryfonů, nebo pro "
+"odebrání jednotek z mapy.\n"
 "\n"
-"Také si všimněte, že zvířecí UI jsou naprogramovaná jako Mikro UI. Mikro UI "
-"může být jednoduše přidáno a adaptováno podle potřeb tažení za použití WML a "
-"tagu [micro_ai]. Pro další informace se podívejte na <span "
-"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
-"Micro_AIs."
+"Poznámka: UI Hejno je naprogramována jako Mikro UI. Mikro UI může být "
+"jednoduše přidána a upravena pro potřeby scénáře pouhým použitím WML "
+"a značky [micro_ai]. Pro více informací navštiv <span color='#00A000'>wiki "
+"stránku Mikro UI</span> na https://wiki.wesnoth.org/Micro_AIs."
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/swarm.cfg:154
 msgid "Watch the bats move around and fight them if you want"
-msgstr "Sledujte netopýry při pohybu po mapě a bojujte proti nim pokud chete"
+msgstr "Sleduj netopýry, jak poletují a bojuj s nimi, pokud chceš"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/swarm.cfg:156
@@ -2893,7 +2871,7 @@ msgstr "Poraz všechny netopýry"
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/swarm.cfg:164
 msgid "Death of all gryphons"
-msgstr "Smrt všech gryfonů"
+msgstr "Všichni gryfoni zemřou"
 
 #. [side]
 #: data/ai/micro_ais/scenarios/wolves.cfg:42
