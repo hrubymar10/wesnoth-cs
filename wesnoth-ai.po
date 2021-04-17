@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-16 23:54+0200\n"
+"PO-Revision-Date: 2021-04-17 23:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2759,7 +2759,7 @@ msgid ""
 "What the ... ?!?  They are not supposed to attack me. That just doesn't "
 "happen in Wesnoth!"
 msgstr ""
-"Co to ... je?!? Nemají útočit na mě. Tohle se prostě ve Wesnothu nestává!"
+"Co to ... je?!? Na mě nemají útočit. Tohle se prostě ve Wesnothu nestává!"
 
 #. [message]: speaker=Uralt
 #: data/ai/micro_ais/scenarios/simple_attack.cfg:176
@@ -3043,7 +3043,7 @@ msgstr ""
 #. [test]: id=ai_arena_small
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:6
 msgid "AI Arena - small"
-msgstr "UI aréna - malá"
+msgstr "Aréna UI – malá"
 
 #. [test]: id=ai_arena_small
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:7
@@ -3108,7 +3108,7 @@ msgstr "Jsem spokojený se současnou UI týmu dva, [$test_path_to_ai]"
 #. [option]
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:178
 msgid "My AI is the RCA AI (the current default)."
-msgstr ""
+msgstr "Má UI je UI RCA (nynější výchozí)."
 
 #. [option]
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:187
@@ -3129,10 +3129,8 @@ msgstr "Vytvořil jsem vlastní UI a jsem připravený ji otestovat"
 
 #. [message]: speaker=narrator
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:210
-#, fuzzy
-#| msgid "and where is it located (path follows the usual WML convention)"
 msgid "And where is it located (path follows the usual WML convention)"
-msgstr "a kde je umístěna (cesta odpovídá obvyklým konvencím WML)"
+msgstr "A kde je umístěna (cesta odpovídá obvyklým konvencím WML)"
 
 #. [text_input]
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:212
@@ -3141,11 +3139,8 @@ msgstr "Umístění UI:"
 
 #. [message]: speaker=narrator
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:313
-#, fuzzy
-#| msgid ""
-#| "and so, the AI for team 2 was redeployed from file '$test_path_to_ai'"
 msgid "And so, the AI for team 2 was redeployed from file '$test_path_to_ai'"
-msgstr "a tak UI týmu 2 byla znovu spuštěna ze souboru '$test_path_to_ai'"
+msgstr "A tak byla UI týmu 2 znovu zavedena ze souboru „$test_path_to_ai“"
 
 #. [test]: id=lua_ai
 #: data/ai/scenarios/scenario-lua_ai.cfg:4
