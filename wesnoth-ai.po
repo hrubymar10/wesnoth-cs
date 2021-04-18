@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-18 15:46+0200\n"
+"PO-Revision-Date: 2021-04-18 17:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -527,7 +527,7 @@ msgstr ""
 #. [test]: id=bottleneck_defense
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:5
 msgid "Bottleneck Defense"
-msgstr "Obrana průsmyku"
+msgstr "Obrana úzkého místa"
 
 #. [side]: type=Orcish Leader, id=Big Bad Orc
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:38
@@ -561,15 +561,16 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"Musíme udržet průchod co nejdéle to půjde. Postavme naše nejsilnější "
-"bojovníky do přední linie a zraněné jednotky stáhněte dozadu, aby se mohly "
-"uzdravit. Když budeme opatrní, můžeme tuto bitvu vyhrát. Připojím se k vám "
-"jakmile naverbuji a taky se zapojím do boje.\n"
+"Musíme udržet průsmyk, co nejdéle to půjde. Postavme naše nejsilnější "
+"bojovníky do přední linie a zraněné jednotky stáhněte dozadu, aby se mohly "
+"uzdravit. Když budeme opatrní, můžeme tuto bitvu vyhrát. Připojím se k vám, "
+"jakmile naverbuji, a také se zapojím do boje.\n"
 "\n"
-"Poznámka: Obrana úzkého hrdla UI je naprogramovaná jako Mikro UI. Mikro UI "
-"se může přidat a přizpůsobit pro potřeby scénáře jen s použitím WML a tagu "
-"[micro_ai]. Pro více informací navštivte wiki stránku <span "
-"color='#00A000'>Mikro UI</span> na adrese https://wiki.wesnoth.org/Micro_UIs."
+"Poznámka: UI Obrana úzkého místa je naprogramována jako Mikro UI. Mikro UI "
+"může být jednoduše přidána a upravena pro potřeby scénáře pouhým použitím "
+"WML a značky [micro_ai]. Pro více informací navštiv <span "
+"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
+"Micro_AIs."
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:110
@@ -579,9 +580,9 @@ msgid ""
 "possible. Do you want to play the orc side or let the default (RCA) AI do "
 "that?"
 msgstr ""
-"V tomto tažení se UI hrající za lidi na východě snaží vytvořit obrannou "
-"linii v úžině a bránit ji před skřety tak dlouho, jak jen to půjde. Chceš "
-"hrát za skřety nebo necháš kontrolu nad skřety výchozí (RCA) UI?"
+"V tomto scénáři má UI hrající za lidi na východě za úkol vytvořit obrannou "
+"linii v průsmyku a odolat skřetům, jak nejdéle to půjde. Chceš hrát za "
+"stranu skřetů, nebo to necháš na výchozí UI (RCA)?"
 
 #. [option]
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:112
@@ -591,27 +592,27 @@ msgstr "<span font='16'>Budu se dívat, jak si to ty dvě UI vyřídí.</span>"
 #. [option]
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:115
 msgid "<span font='16'>I'll play the orcs.</span>"
-msgstr "<span font='16'>Chci ovládat skřety.</span>"
+msgstr "<span font='16'>Budu hrát za skřety.</span>"
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:126
 msgid "Take the pass"
-msgstr "Zabrat průsmyk"
+msgstr "Zaber průsmyk"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:128
 msgid "Defeat all humans"
-msgstr "Porazit všechny lidi"
+msgstr "Poraz všechny lidi"
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:132
 msgid "Death of Big Bad Orc"
-msgstr "Poraz Velkého zlého skřeta"
+msgstr "Velký zlý skřet zemře"
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:136
 msgid "Only one orc remains"
-msgstr "Zbývá jen jeden skřet"
+msgstr "Zbyde jen jeden skřet"
 
 #. [message]: speaker=LuaAI
 #: data/ai/micro_ais/scenarios/bottleneck_defense.cfg:163
@@ -2344,7 +2345,7 @@ msgstr "DT: Elfové v obležení"
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:69
 msgid "Bottleneck"
-msgstr "Průsmyk"
+msgstr "Úzké místo"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:81
@@ -2371,12 +2372,12 @@ msgstr "Rychlá UI"
 #. [set_menu_item]: id=m01_menu_bottleneck_defense
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:100
 msgid "Bottleneck Defense Micro AI demo"
-msgstr "Ukázka Mikro UI – Obrana průsmyku"
+msgstr "Ukázka Mikro UI – Obrana úzkého místa"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:111
 msgid "Bottleneck Defense Micro AI Demo"
-msgstr "Ukázka Mikro UI – Obrana průsmyku"
+msgstr "Ukázka Mikro UI – Obrana úzkého místa"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:112
@@ -2386,9 +2387,10 @@ msgid ""
 "watch them fight it out against the standard RCA AI or take over the orc "
 "side."
 msgstr ""
-"V tažení Mikro UI Obrana průsmyku je malé jednotce vydán rozkaz ubránit "
-"průsmyk proti velké přesile skřetů. Buďto je můžete pozorovat proti běžné "
-"RCA UI nebo se ujmout kontroly skřetů."
+"Ve scénáři Mikro UI Obrana úzkého místa je malé skupině lidských vojáků "
+"nařízeno, aby drželi průsmyk proti velké hordě skřetů. Můžeš je buď "
+"sledovat, jak bojují proti standardní UI RCA, nebo převzít vedení strany "
+"skřetů."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m02_swamp_lurkers
