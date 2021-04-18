@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-17 23:47+0200\n"
+"PO-Revision-Date: 2021-04-18 07:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3002,27 +3002,27 @@ msgstr "Tato situace by měla vyzkoušet schopnost UI účinně léčit..."
 #: data/ai/scenarios/ai_arena_small/0002-poisoning.cfg:17
 msgid "This situation should test the ability of AI to spread poison around..."
 msgstr ""
-"Tato situace by měla vyzkoušet schopnost UI rozšířit otravu mezi cíle..."
+"Tato situace by měla vyzkoušet schopnost UI rozšířit otravu mezi všechny..."
 
 #. [label]
 #: data/ai/scenarios/ai_arena_small/0002-poisoning.cfg:112
 msgid "Undead target test"
-msgstr "Zkouška výběru nemrtvého cíle"
+msgstr "zkouška nemrtvého cíle"
 
 #. [label]
 #: data/ai/scenarios/ai_arena_small/0002-poisoning.cfg:119
 msgid "Target choose test"
-msgstr "Zkouška výběru cíle"
+msgstr "zkouška výběru cíle"
 
 #. [label]
 #: data/ai/scenarios/ai_arena_small/0002-poisoning.cfg:126
 msgid "Regeneration attack test"
-msgstr "Zkouška regeneračního útoku"
+msgstr "zkouška regeneračního útoku"
 
 #. [label]
 #: data/ai/scenarios/ai_arena_small/0002-poisoning.cfg:133
 msgid "Weapon test with low hp target"
-msgstr "Zkouška zbraní pro cíl s málo životy"
+msgstr "zkouška zbraní pro cíl s málo životy"
 
 #. [message]: speaker=narrator
 #: data/ai/scenarios/ai_arena_small/0003-simple_combat.cfg:17
@@ -3037,7 +3037,7 @@ msgid ""
 "not to be attacked."
 msgstr ""
 "Tato situace by měla vyzkoušet schopnost UI řídit se při útočení filtry pro "
-"svoje i soupeřovy jednotky. Útočit by měli jenom trpaslíci. Temní učni "
+"svoje i soupeřovy jednotky. Útočit by měli jenom trpaslíci. Temní učni "
 "nemají být napadeni."
 
 #. [test]: id=ai_arena_small
@@ -3048,22 +3048,22 @@ msgstr "Aréna UI – malá"
 #. [test]: id=ai_arena_small
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:7
 msgid "Small ai arena"
-msgstr "Malá ai aréna"
+msgstr "Malá aréna UI"
 
 #. [set_menu_item]: id=repeat_test
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:61
 msgid "Repeat last test"
-msgstr "Opakuj poslední test"
+msgstr "Opakovat poslední test"
 
 #. [set_menu_item]: id=select_another_ai
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:77
 msgid "Select another ai"
-msgstr "Vyber jinou UI"
+msgstr "Vybrat jinou UI"
 
 #. [set_menu_item]: id=select_test
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:87
 msgid "Select another test"
-msgstr "Vyber jiný test"
+msgstr "Vybrat jiný test"
 
 #. [side]: type=Nightgaunt
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:100
@@ -3078,7 +3078,7 @@ msgstr "Vývojář UI"
 #. [side]: id=chall-ai, type=White Mage
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:117
 msgid "Challenger AI"
-msgstr "Challenger UI"
+msgstr "UI vyzyvatele"
 
 #. [side]: id=chall-ai, type=White Mage
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:122
@@ -3088,7 +3088,7 @@ msgstr "Sever"
 #. [side]: id=champ-ai, type=Dark Adept
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:129
 msgid "Champion AI"
-msgstr "Champion UI"
+msgstr "UI šampióna"
 
 #. [side]: id=champ-ai, type=Dark Adept
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:134
@@ -3103,7 +3103,7 @@ msgstr "Kterou UI si přeješ použít, ó mocný vývojáři UI?"
 #. [option]
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:175
 msgid "I am happy with the current AI of team 2, [$test_path_to_ai]"
-msgstr "Jsem spokojený se současnou UI týmu dva, [$test_path_to_ai]"
+msgstr "Jsem spokojený se současnou UI týmu dva, [$test_path_to_ai]."
 
 #. [option]
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:178
@@ -3115,22 +3115,22 @@ msgstr "Má UI je UI RCA (nynější výchozí)."
 msgid ""
 "I am the king of FORMULA AI, and I will use its vast powers for world "
 "domination."
-msgstr "Jsem králem FORMULA UI a využiji její nesmírné síly k ovládnutí světa!"
+msgstr "Jsem králem UI FORMULA a využiji její nesmírné síly k ovládnutí světa."
 
 #. [option]
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:196
 msgid "I want to test formulaAI-based poisoning improvements"
-msgstr "Chci vyzkoušet UI používající otravu založené na formulaUI"
+msgstr "Chci vyzkoušet vylepšení používání jedu založená na UI Formula."
 
 #. [option]
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:205
 msgid "I've come with my own AI, and I am ready to test its strength"
-msgstr "Vytvořil jsem vlastní UI a jsem připravený ji otestovat"
+msgstr "Přišel jsem se svou vlastní UI a jsem připraven vyzkoušet její sílu."
 
 #. [message]: speaker=narrator
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:210
 msgid "And where is it located (path follows the usual WML convention)"
-msgstr "A kde je umístěna (cesta odpovídá obvyklým konvencím WML)"
+msgstr "A kde je umístěna (cesta odpovídá obvyklým konvencím WML)?"
 
 #. [text_input]
 #: data/ai/scenarios/scenario-AI_Arena_small.cfg:212
