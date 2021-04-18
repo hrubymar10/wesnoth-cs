@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-18 07:58+0200\n"
+"PO-Revision-Date: 2021-04-18 14:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1535,7 +1535,7 @@ msgstr ""
 #. [test]: id=healer_support
 #: data/ai/micro_ais/scenarios/healer_support.cfg:5
 msgid "Healer Support"
-msgstr ""
+msgstr "Podpora od léčitelů"
 
 #. [side]: id=Rebels1, type=Elvish Ranger
 #: data/ai/micro_ais/scenarios/healer_support.cfg:21
@@ -1566,11 +1566,26 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
+"V tomto scénáři ukazujeme použití Mikro UI Podpora od léčitelů. Tato UI "
+"nastavuje léčitele jedné strany, aby zůstali za bojovými liniemi a léčili "
+"zraněné nebo ohrožené jednotky, spíše než aby se za všech okolností "
+"účastnili útoků. To zahrnuje několik nastavitelných voleb (ty jsou pro dvě "
+"strany v tomto scénáři nastaveny různě), které určují, jak jsou léčitelé "
+"smělí či opatrní, zda také útočí, jak moc jsou ochotní riskovat atd.\n"
+"\n"
+"Pro přehlednost každý léčitel ohlašuje svůj nadcházející podpůrný tah. Pokud "
+"to nechceš pokaždé vidět, jednoduše stiskni „Esc“, až se to poprvé stane.\n"
+"\n"
+"Poznámka: UI Podpora od léčitelů je naprogramována jako Mikro UI. Mikro UI "
+"může být jednoduše přidána a upravena pro potřeby scénáře pouhým použitím "
+"WML a značky [micro_ai]. Pro více informací navštiv <span "
+"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
+"Micro_AIs."
 
 #. [message]: speaker=$unit.id
 #: data/ai/micro_ais/scenarios/healer_support.cfg:100
 msgid "Argh!  They got us..."
-msgstr ""
+msgstr "Argh! Dostali nás..."
 
 #. [test]: id=lurkers
 #: data/ai/micro_ais/scenarios/lurkers.cfg:184
@@ -2572,12 +2587,12 @@ msgstr ""
 #. [set_menu_item]: id=m12_healer_support
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:329
 msgid "Healer support Micro AI demo"
-msgstr "Ukázka Mikro UI Podpora léčitelů"
+msgstr "Ukázka Mikro UI – Podpora od léčitelů"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:340
 msgid "Healer Support Micro AI demo"
-msgstr "Ukázka Mikro UI Podpora léčitelů"
+msgstr "Ukázka Mikro UI – Podpora od léčitelů"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:341
@@ -2587,9 +2602,10 @@ msgid ""
 "threatened units rather than having them participate in combat under all "
 "circumstances."
 msgstr ""
-"Toto tažení obsahuje jednoduchou ukázku nastavení Healer Support Mikro UI, "
-"která používá léčitele k záchraně ztraněných či ohrožených jednotek místo "
-"toho, aby za každých podmínek útočili."
+"Tento scénář obsahuje jednoduchou ukázku nastavení Mikro UI Podpora od "
+"léčitelů, která používá léčitele jedné strany k podpoře zraněných či "
+"ohrožených jednotek, spíš než aby je nechala účastnit se za všech okolností "
+"boje."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m13_goto
