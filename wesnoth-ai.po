@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-18 14:45+0200\n"
+"PO-Revision-Date: 2021-04-18 15:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -799,7 +799,7 @@ msgstr "seržant Aethubry"
 #. [set_menu_item]: id=m01_new_footpad
 #: data/ai/micro_ais/scenarios/goto.cfg:339
 msgid "Place Side 1 Footpad"
-msgstr "Umístit lapku strany 1"
+msgstr "Přidat lapku straně 1"
 
 #. [set_menu_item]: id=m05_kill_unit
 #. [set_menu_item]: id=m02_kill_unit
@@ -1630,27 +1630,27 @@ msgstr "Číhavci UI Formula (ještěráci)"
 #. [set_menu_item]: id=m01_menu_lurker2
 #: data/ai/micro_ais/scenarios/lurkers.cfg:387
 msgid "Place a Side 2 lurker"
-msgstr "Umístit číhavce strany 2"
+msgstr "Přidat číhavce straně 2"
 
 #. [set_menu_item]: id=m01_menu_lurker3
 #: data/ai/micro_ais/scenarios/lurkers.cfg:399
 msgid "Place a Side 3 lurker"
-msgstr "Umístit číhavce strany 3"
+msgstr "Přidat číhavce straně 3"
 
 #. [set_menu_item]: id=m01_menu_lurker4
 #: data/ai/micro_ais/scenarios/lurkers.cfg:411
 msgid "Place a Side 4 lurker"
-msgstr "Umístit číhavce strany 4"
+msgstr "Přidat číhavce straně 4"
 
 #. [set_menu_item]: id=m01_menu_lurker5
 #: data/ai/micro_ais/scenarios/lurkers.cfg:423
 msgid "Place a Side 5 lurker"
-msgstr "Umístit číhavce strany 5"
+msgstr "Přidat číhavce straně 5"
 
 #. [set_menu_item]: id=m01_menu_lurker6
 #: data/ai/micro_ais/scenarios/lurkers.cfg:435
 msgid "Place a Side 6 lurker"
-msgstr "Umístit číhavce strany 6"
+msgstr "Přidat číhavce straně 6"
 
 #. [message]: speaker=Pekzs
 #: data/ai/micro_ais/scenarios/lurkers.cfg:452
@@ -2055,7 +2055,7 @@ msgstr ""
 "Pokud tedy jejich destinaci okupuje jednotka, na kterou nemají rozkaz "
 "útočit, mohou se tohoto cíle vzdát a prostě se přesunout na další.\n"
 "\n"
-"UI Patroly ovládá všechny jednotky patřící straně 2 a je vytvořená formou "
+"UI Patroly ovládá všechny jednotky patřící straně 2 a je vytvořená formou "
 "Mikro UI. Mikro UI může být jednoduše přidáno a adaptováno podle potřeb "
 "tažení za použití WML a tagu [micro_ai]. Pro další informace se podívejte na "
 "<span color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth."
@@ -2824,12 +2824,12 @@ msgstr "Netopýři"
 #. [set_menu_item]: id=m02_new_gryphon
 #: data/ai/micro_ais/scenarios/swarm.cfg:95
 msgid "Place Side 1 Gryphon"
-msgstr "Přidat gryfona straně 1"
+msgstr "Přidat gryfona straně 1"
 
 #. [set_menu_item]: id=m03_new_bat
 #: data/ai/micro_ais/scenarios/swarm.cfg:106
 msgid "Place Side 2 Bat"
-msgstr "Přidat netopýra straně 2"
+msgstr "Přidat netopýra straně 2"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/swarm.cfg:144
@@ -2902,17 +2902,17 @@ msgstr "Víc vlků"
 #. [set_menu_item]: id=m02_new_peasant
 #: data/ai/micro_ais/scenarios/wolves.cfg:124
 msgid "Place Side 1 Peasant"
-msgstr "Přidat sedláka straně 1"
+msgstr "Přidat sedláka straně 1"
 
 #. [set_menu_item]: id=m03_new_wolf2
 #: data/ai/micro_ais/scenarios/wolves.cfg:135
 msgid "Place Side 2 Wolf"
-msgstr "Přidat vlka straně 2"
+msgstr "Přidat vlka straně 2"
 
 #. [set_menu_item]: id=m04_new_wolf3
 #: data/ai/micro_ais/scenarios/wolves.cfg:146
 msgid "Place Side 3 Wolf"
-msgstr "Přidat vlka straně 3"
+msgstr "Přidat vlka straně 3"
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/wolves.cfg:195
