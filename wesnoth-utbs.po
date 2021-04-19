@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-21 01:02 UTC\n"
-"PO-Revision-Date: 2021-03-21 21:14+0100\n"
+"PO-Revision-Date: 2021-04-19 15:54+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4948,7 +4948,7 @@ msgid ""
 "the unit leaves this pool, it will suffer the standard $heat_damage damage "
 "each turn from the heat."
 msgstr ""
-"Na začátku každého kola se jakákoliv jednotka v tomto jezírku uzdraví o 10 "
+"Na začátku každého kola si jakákoliv jednotka v tomto jezírku vyléčí 10 "
 "životů a nebude zraněna horkem v jeskyni. Pochopitelně, jakmile vyjde "
 "jednotka z jezírka, bude opět každý tah zraňována horkem o $temp_damage "
 "životů za kolo."
@@ -10042,7 +10042,7 @@ msgid ""
 "humans are terrible indeed."
 msgstr ""
 "Děkuji vám za záchranu. Kéž vám Bůh moří štědře požehná a chrání vás. Pokud "
-"máte raněné, pomohu je uzdravit. Čepele těch hnusných lidí jsou vpravdě "
+"máte raněné, pomohu je vyléčit. Čepele těch hnusných lidí jsou vpravdě "
 "strašlivé."
 
 #. [message]: speaker=unit
@@ -13555,7 +13555,7 @@ msgid ""
 "our attacks are doing no damage at all. We got to try another tactic, and "
 "fast!"
 msgstr ""
-"Ten centrální korpus se uzdravuje rychleji, než ho dokážeme zraňovat. Je to "
+"Ten centrální korpus se regeneruje rychleji, než ho dokážeme zraňovat. Je to "
 "skoro jako bychom nezpůsobovali žádné poškození. Musíme přijít na jinou "
 "taktiku, a to rychle!"
 
@@ -14673,8 +14673,8 @@ msgstr "prachová rekuperace"
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:78
 msgid "The unit will heal itself 6 HP per turn on sand or dirt terrain."
 msgstr ""
-"Jednotka se uzdraví každé kolo o 6 životů, pokud stojí na písečném nebo "
-"prašném terénu."
+"Pokud jednotka stojí na písečném nebo prašném terénu, regeneruje si každé "
+"kolo 6 životů."
 
 #. [advancement]: id=Dust1
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:84
@@ -14689,7 +14689,7 @@ msgstr "vyšší Prachový ďábel"
 #. [advancement]: id=Dust3
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:117
 msgid "a fully-healed Dust Devil"
-msgstr "uzdravený Prachový ďábel"
+msgstr "vyléčený Prachový ďábel"
 
 #. [unit_type]: id=Flesh Golem, race=monster
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Flesh_Golem.cfg:4
