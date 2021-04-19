@@ -18,14 +18,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-17 22:21-0400\n"
-"PO-Revision-Date: 2021-03-21 19:53+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2021-04-19 15:41+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [multiplayer_side]: id=Custom
 #: data/_main.cfg:22
@@ -215,7 +216,6 @@ msgstr ""
 "zprávy budou nadále zobrazeny v logu a to i v případě, že je toto nastavení "
 "zakázáno. Kromě toho doména logu určuje, kolik zpráv bude vypsáno."
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
 #. [lua]: set_status
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:365
@@ -230,7 +230,6 @@ msgstr "otrávený"
 msgid "Gold carryover:"
 msgstr "Přenesené zlato:"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [note]
 #. [lua]: generate_objectives
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:248
@@ -1566,7 +1565,7 @@ msgstr "Nic si nepřeji."
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:207
 msgid "Potion of Healing"
-msgstr "Lektvar uzdravení"
+msgstr "Léčivý lektvar"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:210
@@ -1636,7 +1635,7 @@ msgstr "Chudák jednotka, vypila něco opravdu zlého."
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:398
 msgid "Ring of Regeneration"
-msgstr "Prsten uzdravení"
+msgstr "Prsten regenerace"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:401
@@ -3563,7 +3562,6 @@ msgstr "Jeskyně"
 msgid "Fungus"
 msgstr "Houby"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=village
 #: data/core/team-colors.cfg:195 src/terrain/terrain.cpp:187
 msgid "Village"
@@ -3594,13 +3592,11 @@ msgstr "Neschůdný"
 msgid "Impassable"
 msgstr "Neschůdný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
 #: data/core/team-colors.cfg:231 src/game_initialization/lobby_data.cpp:450
 msgid "Fog"
 msgstr "Mlha"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=shroud
 #: data/core/team-colors.cfg:237 src/game_initialization/lobby_data.cpp:453
 #: src/game_initialization/lobby_data.cpp:456
@@ -3973,7 +3969,6 @@ msgstr "Ano"
 msgid "No"
 msgstr "Ne"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
 #: data/gui/window/screenshot_notification.cfg:95
 #: src/hotkey/command_executor.cpp:632
@@ -4014,7 +4009,6 @@ msgstr ""
 msgid "(Note: You should use $replacement instead in new code)"
 msgstr "(Poznámka: Měl bys místo toho použít $replacement)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.deprecate_api
 #: data/lua/core/_initial.lua:28 src/deprecation.cpp:68
 msgid "Invalid deprecation level $level (should be 1-4)"
@@ -4025,31 +4019,26 @@ msgstr "Neplatná úroveň zastarání $level (měla by být 1-4)"
 msgid "Invalid deprecation level (should be 1-4)"
 msgstr "Neplatná úroveň zastarání (měla by být 1-4)"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:126 src/actions/attack.cpp:1078
 msgid "female^poisoned"
 msgstr "otrávená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1085
 msgid "female^slowed"
 msgstr "zpomalená"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:128 src/actions/attack.cpp:1085
 msgid "slowed"
 msgstr "zpomalený"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1091
 msgid "female^petrified"
 msgstr "zkamenělá"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:129 src/actions/attack.cpp:1091
 msgid "petrified"
@@ -4065,14 +4054,12 @@ msgstr "neléčitelná"
 msgid "unhealable"
 msgstr "neléčitelný"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
 #: data/lua/wml/message.lua:433 src/scripting/game_lua_kernel.cpp:2721
 #: src/scripting/game_lua_kernel.cpp:2756
 msgid "input"
 msgstr "vstup"
 
-#. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:36 src/game_initialization/mp_game_utils.cpp:74
 msgid "Victory:"
@@ -4741,8 +4728,8 @@ msgid ""
 "Units stationed in villages will either heal eight hitpoints at the "
 "beginning of their turn, or will recover from poisoning."
 msgstr ""
-"Jednotky umístěné ve vesnicích se uzdravují o 8 životů na začátku svého kola "
-"nebo jsou vyléčeny z otravy."
+"Jednotky umístěné ve vesnicích se na začátku svého kola vyléčí o 8 životů "
+"nebo se uzdraví z otravy."
 
 #. [tip]
 #: data/tips.cfg:96
@@ -5103,8 +5090,8 @@ msgstr ""
 "dalších efektů. Nepřátelští nemrtví získají <i>vysátím</i> pouze polovinu "
 "výhody, bonus za útok <i>zezadu</i> nebo s <i>výpadem</i> je zrušen, boje "
 "<i>na život a na smrt</i> jsou také slabší. Rychlí nepřátelé již neuniknou, "
-"pomalí se téměř nehnou a tvé jednotky jsou méně zraněny při nepřátelské "
-"obraně, takže je není třeba tolik uzdravovat."
+"pomalí se téměř nehnou a tvé jednotky jsou během nepřátelských protiútoků "
+"méně zraněny, takže je není třeba tolik léčit."
 
 #. [tip]
 #: data/tips.cfg:221
@@ -5149,9 +5136,9 @@ msgid ""
 "turns’ movement away from the fighting. Then it can recover in peace (at 10 "
 "hitpoints per turn) without tying up front-line villages."
 msgstr ""
-"Když je těžce zraněna velmi odolná jednotka, pošli ji uzdravit se do "
-"vesnice, která je od bojů vzdálena několik kol na přesun. Pak se může "
-"nerušeně zotavovat (o 10 životů za kolo), aniž zabírá vesnice poblíž fronty."
+"Když je těžce zraněna velmi odolná jednotka, pošli ji léčit se do vesnice, "
+"která je od bojů vzdálena několik kol na přesun. Pak se může nerušeně "
+"zotavovat (o 10 životů za kolo), aniž zabírá vesnice poblíž fronty."
 
 #. [tip]
 #: data/tips.cfg:234 data/tips.cfg:246
@@ -5249,8 +5236,7 @@ msgstr "<i>― sir Gerrick z Westinu, 607 w. l.</i>"
 msgid ""
 "Some types of terrain give unique bonuses, such as healing or illumination."
 msgstr ""
-"Některé typy terénu poskytují jedinečné bonusy jako uzdravování nebo "
-"osvětlení."
+"Některé typy terénu poskytují jedinečné bonusy jako léčení nebo osvětlení."
 
 #. [tip]
 #. Translate the word "Flight" as a collective noun for drakes
@@ -5294,8 +5280,8 @@ msgid ""
 "the village, although they will still be healed."
 msgstr ""
 "<i>Divé</i> jednotky jako netopýři a divoká zvěř se straní vesnic. I když se "
-"postaví na políčko s vesnicí, nezískají z ní žádné obranné bonusy, i když "
-"budou léčeny."
+"postaví na políčko s vesnicí, nezískají z ní žádné obranné bonusy, přestože "
+"stále budou léčeny."
 
 # text místo klikacího seznamu povýšení v nápovědě
 #. TRANSLATORS: In networked games, when one player has the choice
