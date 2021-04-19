@@ -18,14 +18,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-18 02:22 UTC\n"
-"PO-Revision-Date: 2021-03-25 21:02+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2021-04-19 11:27+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [campaign]: id=Descent_into_Darkness
 #. [scenario]: id=09_Descent_into_Darkness
@@ -3028,7 +3029,7 @@ msgid ""
 "Oh? The temple healers are trying to heal a man who is already dead. Perhaps "
 "you could... give them a little demonstration as to how it is actually done."
 msgstr ""
-"Ale? Chrámoví léčitelé se snaží uzdravit muže, který je již mrtvý. Možná bys "
+"Ale? Chrámoví léčitelé se snaží vyléčit muže, který je již mrtvý. Možná bys "
 "jim mohl... předvést malou ukázku toho, jak se to vlastně dělá."
 
 #. [unit]: type=Soulless, id=Jaime
@@ -4347,8 +4348,8 @@ msgid ""
 "This unit will heal 40 HP every turn. If it is poisoned, it will remove the "
 "poison instead of healing."
 msgstr ""
-"Tato jednotka se každé kolo uzdraví o 40 životů. Jestliže je otrávena, je "
-"místo uzdravování odstraněn jed."
+"Tato jednotka se každé kolo vyléčí až o 40 životů. Jestliže je otrávena, je "
+"místo léčení odstraněn jed."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1539
@@ -6113,7 +6114,7 @@ msgstr "+2 k útoku na dálku, ale -10 % k odolnosti vůči nezemským útokům"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:241
 msgid "Malin’s melee attack heals him every hit"
-msgstr "Malinův útok na blízko ho uzdravuje, kdykoli zasáhne"
+msgstr "Malinův útok na blízko ho vyléčí, kdykoli zasáhne"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:258
 msgid "Chill tempest gains the impetuity special"
@@ -6231,14 +6232,14 @@ msgstr "požírání duší"
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:11
 msgid "This unit heals 4 HP whenever it kills an enemy unit."
 msgstr ""
-"Kdykoli tato jednotka zabije nepřátelskou jednotku, uzdraví si až 4 životy."
+"Kdykoli tato jednotka zabije nepřátelskou jednotku, vyléčí si až 4 životy."
 
 #. [dummy]: id=did_soul_eater2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:39
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:40
 msgid "This unit heals 8 HP whenever it kills an enemy unit."
 msgstr ""
-"Kdykoli tato jednotka zabije nepřátelskou jednotku, uzdraví si až 8 životů."
+"Kdykoli tato jednotka zabije nepřátelskou jednotku, vyléčí si až 8 životů."
 
 #. [damage]: id=did_soul_eater3
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:68
@@ -6247,8 +6248,8 @@ msgid ""
 "This unit gains 15% damage on offense and heals 12 HP whenever it kills an "
 "enemy unit."
 msgstr ""
-"Kdykoli tato jednotka zabije nepřátelskou jednotku, uzdraví si až 12 životů "
-"a také získá 15 % k výši zranění, které způsobí při ofenzivním použití útoku."
+"Kdykoli tato jednotka zabije nepřátelskou jednotku, vyléčí si až 12 životů a "
+"také získá 15 % k výši zranění, které způsobí při ofenzivním použití útoku."
 
 #. [leadership]: id=did_malice1
 #. [leadership]: id=did_malice2
@@ -6471,16 +6472,12 @@ msgstr "mrtvolné mistrovství"
 
 #. [heals]: id=did_corpse_master
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:735
-#, fuzzy
-#| msgid ""
-#| "Adjacent allied corpses heal 6 HP per turn and gain 20% resistance to "
-#| "blade, impact, and pierce."
 msgid ""
 "Adjacent allied corpses heal 8 HP per turn and gain 30% resistance to blade, "
 "impact, and pierce."
 msgstr ""
-"Sousedící spojenecké chodící mrtvoly se každé kolo mohou vyléčit až o 6 "
-"životů a získávají 20 % k odolnosti vůči útokům čepelí, úderem a bodnutím."
+"Sousedící spojenecké chodící mrtvoly se každé kolo mohou vyléčit až o 8 "
+"životů a získávají 30 % k odolnosti vůči útokům čepelí, úderem a bodnutím."
 
 #. [leadership]: id=did_zombie_frenzy
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:769
