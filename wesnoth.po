@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:07-0300\n"
-"PO-Revision-Date: 2021-03-14 16:19+0100\n"
+"PO-Revision-Date: 2021-04-20 22:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1610,7 +1610,7 @@ msgstr "Nic si nepřeji."
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:204
 msgid "Potion of Healing"
-msgstr "Lektvar uzdravení"
+msgstr "Léčivý lektvar"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:207
@@ -1680,7 +1680,7 @@ msgstr "Chudák jednotka, vypila něco opravdu zlého."
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:390
 msgid "Ring of Regeneration"
-msgstr "Prsten uzdravení"
+msgstr "Prsten regenerace"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:393
@@ -4678,8 +4678,8 @@ msgid ""
 "Units stationed in villages will either heal eight hitpoints at the "
 "beginning of their turn, or will recover from poisoning."
 msgstr ""
-"Jednotky umístěné ve vesnicích se uzdravují o 8 životů na začátku svého kola "
-"nebo jsou vyléčeny z otravy."
+"Jednotky umístěné ve vesnicích se na začátku svého kola vyléčí o 8 životů, "
+"nebo se uzdraví z otravy."
 
 #. [tip]
 #: data/tips.cfg:96
@@ -5040,8 +5040,8 @@ msgstr ""
 "dalších efektů. Nepřátelští nemrtví získají <i>vysátím</i> pouze polovinu "
 "výhody, bonus za útok <i>zezadu</i> nebo s <i>výpadem</i> je zrušen, boje "
 "<i>na život a na smrt</i> jsou také slabší. Rychlí nepřátelé již neuniknou, "
-"pomalí se téměř nehnou a tvé jednotky jsou méně zraněny při nepřátelské "
-"obraně, takže je není třeba tolik uzdravovat."
+"pomalí se téměř nehnou a tvé jednotky jsou během nepřátelských protiútoků "
+"méně zraněny, takže je není třeba tolik léčit."
 
 #. [tip]
 #: data/tips.cfg:221
@@ -5086,9 +5086,9 @@ msgid ""
 "turns’ movement away from the fighting. Then it can recover in peace (at 10 "
 "hitpoints per turn) without tying up front-line villages."
 msgstr ""
-"Když je těžce zraněna velmi odolná jednotka, pošli ji uzdravit se do "
-"vesnice, která je od bojů vzdálena několik kol na přesun. Pak se může "
-"nerušeně zotavovat (o 10 životů za kolo), aniž zabírá vesnice poblíž fronty."
+"Když je těžce zraněna velmi odolná jednotka, pošli ji léčit se do vesnice, "
+"která je od bojů vzdálena několik kol na přesun. Pak se může nerušeně "
+"zotavovat (o 10 životů za kolo), aniž zabírá vesnice poblíž fronty."
 
 #. [tip]
 #: data/tips.cfg:234 data/tips.cfg:246
@@ -5206,8 +5206,8 @@ msgid ""
 "the village, although they will still be healed."
 msgstr ""
 "<i>Divé</i> jednotky jako netopýři a divoká zvěř se straní vesnic. I když se "
-"postaví na políčko s vesnicí, nezískají z ní žádné obranné bonusy, i když "
-"budou léčeny."
+"postaví na políčko s vesnicí, nezískají z ní žádné obranné bonusy, přestože "
+"stále budou léčeny."
 
 # text místo klikacího seznamu povýšení v nápovědě
 #. TRANSLATORS: In networked games, when one player has the choice
