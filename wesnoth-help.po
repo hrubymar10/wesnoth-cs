@@ -18,14 +18,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:02-0300\n"
-"PO-Revision-Date: 2021-03-25 21:06+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2021-04-21 09:33+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -40,13 +41,13 @@ msgstr "Podzemí"
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:68
 #: data/core/macros/abilities.cfg:10
 msgid "heals +4"
-msgstr "ošetření"
+msgstr "léčí +4"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:17
 #: data/core/macros/abilities.cfg:11
 msgid "female^heals +4"
-msgstr "ošetření"
+msgstr "léčí +4"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:18
@@ -58,13 +59,13 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the "
 "care of a village or a unit that can cure."
 msgstr ""
-"Umožňuje jednotce na začátku jejího kola ošetřit sousední spojenecké "
+"Umožňuje jednotce na začátku jejího kola léčit sousedící spojenecké "
 "jednotky.\n"
 "\n"
-"Jednotka, která je v péči tohoto ošetřovatele, se může vyléčit až o 4 životy "
-"za kolo, nebo v tomto kole zastavit působení jedu.\n"
-"Ošetřovatel nedokáže uzdravit otrávenou jednotku; taková jednotka musí "
-"vyhledat pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat."
+"Jednotka, která je v péči tohoto léčitele, se může vyléčit až o 4 životy za "
+"kolo, nebo v tomto kole zastavit působení jedu.\n"
+"Léčitel nedokáže uzdravit otrávenou jednotku. Taková jednotka musí vyhledat "
+"pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat."
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:39
@@ -72,13 +73,13 @@ msgstr ""
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:71
 #: data/core/macros/abilities.cfg:28
 msgid "heals +8"
-msgstr "léčení"
+msgstr "léčí +8"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:40
 #: data/core/macros/abilities.cfg:29
 msgid "female^heals +8"
-msgstr "léčení"
+msgstr "léčí +8"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:41
@@ -94,12 +95,10 @@ msgstr ""
 "Tato jednotka kombinuje účinky léčivých rostlin s magií, aby vyléčila "
 "jednotky rychleji než je běžně možné na bitevním poli.\n"
 "\n"
-"Tato jednotka se na začátku tahu postará o všechny spřátelené zraněné "
-"jednotky stojící na sousedních polích.\n"
-"Zraněná jednotka se může za jeden tah vyléčit až o 8 životů nebo zastavit na "
-"jeden tah průběh otravy.\n"
-"Léčitel nedokáže uzdravit otrávenou jednotku; taková jednotka musí vyhledat "
-"pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat."
+"Jednotka, která je v péči tohoto léčitele, se může vyléčit až o 8 životů za "
+"kolo, nebo v tomto kole zastavit působení jedu.\n"
+"Léčitel nedokáže uzdravit otrávenou jednotku. Taková jednotka musí vyhledat "
+"pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat."
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:62
@@ -122,19 +121,19 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the "
 "care of a village or a unit that can cure."
 msgstr ""
-"Tato jednotka kombinuje účinky léčivých rostlin s magií, aby vyléčila "
-"jednotky rychleji, než je na bojišti obvykle možné.\n"
+"Tato jednotka kombinuje účinky léčivých rostlin s magií, aby vyléčila "
+"jednotky rychleji než je běžně možné na bitevním poli.\n"
 "\n"
-"Jednotka se v péči tohoto léčitele může za jedno kolo vyléčit až o 12 bodů "
-"života, nebo po toto kolo zastavit účinky jedu.\n"
-"Otrávená jednotka nemůže být léčitelem uzdravena a musí vyhledat pomoc ve "
-"vesnici nebo u jednotky, která uzdravovat dokáže."
+"Jednotka, která je v péči tohoto léčitele, se může vyléčit až o 12 životů za "
+"kolo, nebo v tomto kole zastavit působení jedu.\n"
+"Léčitel nedokáže uzdravit otrávenou jednotku. Taková jednotka musí vyhledat "
+"pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat."
 
 #. [trait]: id=healthy
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:11
 #: data/core/macros/traits.cfg:229
 msgid "Always rest heals"
-msgstr "Vždy odpočívá a uzdravuje se"
+msgstr "Vždy odpočívá a léčí se"
 
 #. [hides]: id=ambush
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:14
@@ -174,7 +173,7 @@ msgstr "skrývání"
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:137
 #: data/core/macros/abilities.cfg:47
 msgid "cures"
-msgstr "uzdravování"
+msgstr "uzdravuje"
 
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:35
 #: src/help/help_topic_generators.cpp:701
@@ -244,7 +243,7 @@ msgstr "Kopce"
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:80
 #: data/core/macros/abilities.cfg:205
 msgid "illuminates"
-msgstr "osvětlení"
+msgstr "osvětluje"
 
 #. [leadership]: id=leadership
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:83
@@ -292,7 +291,7 @@ msgstr "otrava"
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:104
 #: data/core/macros/abilities.cfg:70
 msgid "regenerates"
-msgstr "regenerace"
+msgstr "regeneruje"
 
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:107
 #: src/help/help_topic_generators.cpp:662
@@ -2000,7 +1999,6 @@ msgstr "Úvod"
 msgid "Gameplay"
 msgstr "Pravidla hry"
 
-#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:29 data/core/help.cfg:529
@@ -2617,10 +2615,11 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Jednotky mají určitý počet zkušeností nutný pro povýšení (ten je o 20% nižší "
-"pro jednotky s vlastností chytrost). Jakmile jednou dosáhnou této hranice, "
-"tak se dostanou do další úrovně, zároveň se také během tohoto procesu plně "
-"uzdraví. V některý případech se objeví možnost volby dalšího vývoje."
+"Jednotky mají určitý počet zkušeností nutný pro povýšení (ten je o 20 % "
+"nižší pro jednotky s vlastností chytrost). Jakmile jednou dosáhnou této "
+"hranice, tak povýší na další úroveň. Zároveň se také během tohoto procesu "
+"plně uzdraví a vyléčí. V některých případech si můžeš zvolit jak má jednotka "
+"povýšit."
 
 #. [topic]: id=advancement
 #: data/core/help.cfg:252
@@ -2661,10 +2660,10 @@ msgstr ""
 "vlastnosti jednotky pokaždé, kdy jednotka dosáhne počtu zkušenostních bodů "
 "nutných pro získání další úrovně, ale jednotka zůstane na stejné úrovni. "
 "Obvykle AMLA ovlivní jednotku tak, že zvýší maximální počet životů o 3 a "
-"uzdraví ji. První AMLA je obvykle dosažena po 150 získaných zkušenostních "
-"bodech (120 pro chytré jednotky). Množství zkušenostních bodů pro dosažení "
-"AMLA se však postupně zvyšuje, proto je často vhodnější pokusit se povýšit "
-"jednotky nižší úrovně."
+"plně ji uzdraví a vyléčí. První AMLA je obvykle dosažena po 150 získaných "
+"zkušenostních bodech (120 pro chytré jednotky). Množství zkušenostních bodů "
+"pro dosažení AMLA se však postupně zvyšuje, proto je často vhodnější pokusit "
+"se povýšit jednotky nižší úrovně."
 
 #. [topic]: id=movement
 #: data/core/help.cfg:263
@@ -3720,7 +3719,7 @@ msgstr ""
 #. [topic]: id=healing
 #: data/core/help.cfg:496
 msgid "Healing"
-msgstr "Uzdravování"
+msgstr "Léčení"
 
 #. [topic]: id=healing
 #: data/core/help.cfg:497
@@ -3733,7 +3732,7 @@ msgstr ""
 "\n"
 "\n"
 "• <bold>text='Odpočinek'</bold>: Jednotka, která se nepřesune, nezaútočí ani "
-"není napadena, se v příštím kole vyléčí o 2 HP."
+"není napadena, se v příštím kole vyléčí o 2 životy."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:497
@@ -3742,10 +3741,9 @@ msgid ""
 "heal your units. However, with the exception of resting, these do not stack; "
 "only one can occur per turn."
 msgstr ""
-"V souboji utrpí vaše jednotky nevyhnutelně nějaké zranění. Je několik "
-"možností, jak vaše jednotky uzdravit. Mějte na paměti, že s výjimkou "
-"odpočinku se tyto způsoby uzdravování nesčítají – vždy může proběhnout jen "
-"jeden."
+"V souboji utrpí tvé jednotky nevyhnutelně nějaké zranění. Je několik "
+"možností, jak své jednotky vyléčit. Měj na paměti, že s výjimkou odpočinku "
+"se tyto možnosti nesčítají – vždy může proběhnout jen jedna."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:499
@@ -3757,8 +3755,8 @@ msgid ""
 msgstr ""
 "\n"
 "• <bold>text='Vesnice'</bold>: Jednotka, která začne svůj tah ve vesnici "
-"nebo v <ref>dst='terrain_oasis' text='oáze'</ref>, bude uzdravena o 8 HP. "
-"Pokud je jednotka otrávená, tak se místo uzdravení vyléčí z otravy."
+"nebo v <ref>dst='terrain_oasis' text='oáze'</ref>, bude vyléčena o 8 životů. "
+"Pokud je jednotka otrávená, tak se místo léčení uzdraví z otravy."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:500
@@ -3770,8 +3768,8 @@ msgid ""
 msgstr ""
 "\n"
 "• <ref>dst='ability_regeneratesregenerates' text='Regenerace'</ref>: Některé "
-"jednotky (např. trollové) se každý tah automaticky uzdraví o 8HP. Pokud je "
-"jednotka otrávená, tak se místo uzdravení vyléčí z otravy."
+"jednotky (např. trollové) si každé kolo automaticky vyléčí 8 životů. Pokud "
+"je jednotka otrávená, tak se místo léčení uzdraví z otravy."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:501
@@ -3785,12 +3783,11 @@ msgid ""
 msgstr ""
 "\n"
 "• <bold>text='Léčitelé'</bold>: Jednotky se schopností "
-"<ref>dst='ability_healingheals +4' text='léčení'</ref> mohou léčit či "
-"chránit před jedy způsobujícími poškození. Budou vyléčeny pouze ty jednotky, "
-"které se nacházejí v těsné blízkosti a jsou na stejné straně jako léčitel "
-"a to pouze o <ref>dst='ability_healingheals +4' text='4'</ref> nebo "
-"<ref>dst='ability_healingheals +8' text='8'</ref> HP na jednotku, podle "
-"schopností léčitele."
+"<ref>dst='ability_healingheals +4' text='léčení'</ref> léčí všechny "
+"sousedící spojenecké jednotky či je chrání před působením jedu. Obvykle léčí "
+"každé jednotce <ref>dst='ability_healingheals +4' text='4'</ref> nebo "
+"<ref>dst='ability_healingheals +8' text='8'</ref> životů, podle svých "
+"schopností."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:502
@@ -3803,9 +3800,9 @@ msgid ""
 msgstr ""
 "\n"
 "• <bold>text='Uzdravovatelé'</bold>: Jednotky se schopností "
-"<ref>dst='ability_curingcures' text='uzdravování'</ref> uzdraví všechny "
-"spřátelené jednotky z otravy (uzdravování má u spřátelené jednotky přednost "
-"před léčením či ošetřováním, má-li uzdravovatel i tuto schopnost)."
+"<ref>dst='ability_curingcures' text='uzdravování'</ref> uzdravují všechny "
+"sousedící spřátelené jednotky z otrav (pokud má uzdravovatel i schopnost "
+"léčení, má uzdravování přednost před léčením)."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:503
@@ -3817,8 +3814,9 @@ msgid ""
 msgstr ""
 "\n"
 "• <bold>text='Povýšení'</bold>: Když jednotka <ref>dst='advancement' "
-"text='povýší'</ref>, zcela se uzdraví. Toto nastane vždy, když jednotka "
-"získá dostatek zkušeností. Je jedno, jestli jste na tahu nebo ne."
+"text='povýší'</ref>, zcela se uzdraví a vyléčí. Toto nastane vždy, když "
+"jednotka získá dostatek zkušeností. Je jedno, jestli jsi zrovna na tahu nebo "
+"ne."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:504
@@ -3831,9 +3829,10 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Odpočinek můžete kombinovat s dalšími formami léčení, ale vesnice, "
-"regeneraci, léčení a uzdravování nelze kombinovat navzájem: nejlepší volba "
-"bude zvolena. Konečně, jednotky se plně uzdraví mezi jednotlivými scénáři."
+"Odpočinek lze kombinovat s dalšími formami léčení. Ale efekt vesnice, "
+"regeneraci, léčení a uzdravování nelze kombinovat navzájem, vždy bude "
+"zvolena nejlepší volba. Konečně, jednotky se plně uzdraví a vyléčí mezi "
+"jednotlivými scénáři."
 
 #. [topic]: id=healing
 #: data/core/help.cfg:506
@@ -3859,12 +3858,11 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Narozdíl od ostatních způsobů uzdravování, tato schopnosti se uplatní během "
-"tahu léčeného, nikoliv během tahu léčilete. To znamená, že jednotka "
-"obklopená několik léčiteli patřícími ke stejné straně je vyléčena pouze "
-"jedním léčitelem za kolo, zato jednotka obklopená léčiteli různých "
-"spřátelených stran bude uzdravena během tahu každé ze stran, ke které patří "
-"léčitel."
+"Narozdíl od ostatních způsobů léčení, se tato schopnost uplatní během tahu "
+"léčitele, nikoliv během tahu léčeného. To znamená, že jednotka obklopená "
+"několika léčiteli patřícími ke stejné straně bude léčena pouze jedním "
+"léčitelem za kolo, zatímco jednotka obklopená léčiteli různých spřátelených "
+"stran může být léčena během tahů každé ze stran."
 
 #. [topic]: id=wrap_up
 #: data/core/help.cfg:516
@@ -4941,11 +4939,11 @@ msgid ""
 "This ability will not cure an affected unit of poison, however, only delay "
 "its effect."
 msgstr ""
-"Umožňuje jednotce na začátku jejího kola ošetřit sousední spojenecké "
+"Umožňuje jednotce na začátku jejího kola léčit sousedící spojenecké "
 "jednotky.\n"
 "\n"
-"Jednotka, která je v péči tohoto ošetřovatele, se může vyléčit až o 4 životy "
-"za kolo, nebo v tomto kole zastavit působení jedu.\n"
+"Jednotka, která je v péči tohoto léčitele, se může vyléčit až o 4 životy za "
+"kolo, nebo v tomto kole zastavit působení jedu.\n"
 "Tato schopnost nicméně otrávenou jednotku neuzdraví, pouze pozdrží účinky "
 "jedu."
 
@@ -4963,17 +4961,15 @@ msgstr ""
 "Tato jednotka kombinuje účinky léčivých rostlin s magií, aby vyléčila "
 "jednotky rychleji než je běžně možné na bitevním poli.\n"
 "\n"
-"Tato jednotka se na začátku tahu postará o všechny spřátelené zraněné "
-"jednotky stojící na sousedních polích.\n"
-"Zraněná jednotka se může za jeden tah vyléčit až o 8 životů nebo zastavit na "
-"jeden tah průběh otravy.\n"
-"Léčitel nedokáže uzdravit otrávenou jednotku; taková jednotka musí vyhledat "
-"pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat."
+"Jednotka, která je v péči tohoto léčitele, se může vyléčit až o 8 životů za "
+"kolo, nebo v tomto kole zastavit působení jedu.\n"
+"Tato schopnost nicméně otrávenou jednotku neuzdraví, pouze pozdrží účinky "
+"jedu."
 
 #. [heals]: id=curing
 #: data/core/macros/abilities.cfg:48
 msgid "female^cures"
-msgstr "uzdravování"
+msgstr "uzdravuje"
 
 #. [heals]: id=curing
 #: data/core/macros/abilities.cfg:49
@@ -4982,12 +4978,12 @@ msgid ""
 "additional healing on the turn it is cured of the poison."
 msgstr ""
 "Uzdravovatel dokáže uzdravit otrávenou jednotku, ale tato jednotka už v "
-"daném tahu nebude dále léčena."
+"daném kole nebude dále léčena."
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:71
 msgid "female^regenerates"
-msgstr "regenerace"
+msgstr "regeneruje"
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:72
@@ -4995,18 +4991,18 @@ msgid ""
 "The unit will heal itself 8 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
-"Jednotka se uzdraví o 8 životů za tah. V případě otravy se místo uzdravení "
-"odstraní jed."
+"Jednotka si sama vyléčí 8 životů za kolo. Pokud je otrávena, tak si místo "
+"léčení odstraní jed."
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:83
 msgid "regenerates +4"
-msgstr "obnovuje +4"
+msgstr "regeneruje +4"
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:84
 msgid "female^regenerates +4"
-msgstr "obnovuje +4"
+msgstr "regeneruje +4"
 
 #. [regenerate]: id=regenerates
 #: data/core/macros/abilities.cfg:85
@@ -5014,8 +5010,8 @@ msgid ""
 "The unit will heal itself 4 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
 msgstr ""
-"Tato jednotka se sama vyléčí o 4 body života za kolo. Pokud je otrávena, tak "
-"místo léčení odstraní jed."
+"Jednotka si sama vyléčí 4 životy za kolo. Pokud je otrávena, tak si místo "
+"léčení odstraní jed."
 
 #. [resistance]: id=steadfast
 #. [resistance]: id=melee_steadfast
@@ -5091,7 +5087,7 @@ msgstr ""
 #. [illuminates]: id=illumination
 #: data/core/macros/abilities.cfg:206
 msgid "female^illuminates"
-msgstr "osvětlení"
+msgstr "osvětluje"
 
 #. [illuminates]: id=illumination
 #: data/core/macros/abilities.cfg:207
@@ -5595,7 +5591,7 @@ msgstr ""
 
 #: data/core/macros/special-notes.cfg:23
 msgid "This unit is capable of basic healing."
-msgstr "Tato jednotka dokáže poskytnout základní ošetření."
+msgstr "Tato jednotka dokáže poskytnout základní léčení."
 
 #: data/core/macros/special-notes.cfg:26
 msgid "This unit is capable of rapid healing."
@@ -5605,7 +5601,7 @@ msgstr "Tato jednotka dokáže poskytnout rychlé léčení."
 msgid ""
 "This unit is capable of healing those around it, and curing them of poison."
 msgstr ""
-"Tato jednotka je schopna jednak léčit, ale také uzdravit okolní jednotky "
+"Tato jednotka je schopna jednak léčit, ale také uzdravovat okolní jednotky "
 "z otravy."
 
 #: data/core/macros/special-notes.cfg:32
@@ -5619,8 +5615,8 @@ msgid ""
 "This unit regenerates, which allows it to heal as though always stationed in "
 "a village."
 msgstr ""
-"Schopnost regenerace znamená, že je tato jednotka léčena stejně, jako kdyby "
-"byla neustále ve vesnici."
+"Tato jednotka regeneruje, takže je léčena stejně, jako kdyby byla neustále "
+"ve vesnici."
 
 #: data/core/macros/special-notes.cfg:38
 msgid ""
@@ -5710,8 +5706,8 @@ msgid ""
 "attacking it, this unit may backstab, inflicting double damage by creeping "
 "around behind that enemy."
 msgstr ""
-"Pokud právě nějaký spojenec zaměstnává nepřátelskou jednotku, tato jednotka "
-"se může připlížit a napadnout ji nečekaně zezadu (z opačné strany), což "
+"Pokud právě nějaký spojenec zaměstnává nepřátelskou jednotku, může se tato "
+"jednotka připlížit a napadnout ji nečekaně zezadu (z opačné strany), což "
 "napadené jednotce způsobí dvojnásobná zranění. Platí to však pouze pro útok."
 
 # pův.: "procitnou "
@@ -5805,8 +5801,8 @@ msgid ""
 "This unit heals itself each turn, though not as much as if stationed in a "
 "village."
 msgstr ""
-"Schopnost regenerace znamená, že je tato jednotka léčena stejně, jako kdyby "
-"byla neustále ve vesnici."
+"Tato jednotka regeneruje, takže je léčena stejně, jako kdyby byla neustále "
+"ve vesnici."
 
 #. [special_note]
 #: data/core/macros/special-notes.cfg:304
@@ -5815,9 +5811,9 @@ msgid ""
 "attacking it, this unit diverts the target's attention and reduces its "
 "chance to hit."
 msgstr ""
-"Pokud právě nějaký spojenec zaměstnává nepřátelskou jednotku, tato jednotka "
-"se může připlížit a napadnout ji nečekaně zezadu (z opačné strany), což "
-"napadené jednotce způsobí dvojnásobná zranění. Platí to však pouze pro útok."
+"Pokud právě nějaký spojenec zaměstnává nepřátelskou jednotku, může tato "
+"jednotka odvést pozornost cíle a snížit jeho šanci na zásah. Platí to však "
+"pouze pro útok."
 
 #. [trait]: id=loyal
 #: data/core/macros/traits.cfg:12
@@ -6176,7 +6172,7 @@ msgstr ""
 "\n"
 "\n"
 "<italic>text='Zdravé'</italic> jednotky mají 1 život navíc a za každé "
-"povýšení získají další. Každé kolo se také uzdraví o 2 životy, nezávisle na "
+"povýšení získají další. Každé kolo si také vyléčí 2 životy, nezávisle na "
 "tom, zda minulý tah bojovali nebo ne."
 
 #. [trait]: id=healthy
