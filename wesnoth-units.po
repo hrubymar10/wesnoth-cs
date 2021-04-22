@@ -19,14 +19,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-18 02:22 UTC\n"
-"PO-Revision-Date: 2021-03-29 20:27+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2021-04-19 17:36+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. [attack]: type=impact
 #. [attack]: type=arcane
@@ -1554,18 +1555,6 @@ msgstr "Pouštní alchymista"
 
 #. [unit_type]: id=Dune Alchemist, race=dunefolk
 #: data/core/units/dunefolk/Alchemist.cfg:25
-#, fuzzy
-#| msgid ""
-#| "To the Dunefolk, alchemy is less a form of philosophy or science, and "
-#| "more an extension of the phytology that is practiced by herbalists. "
-#| "However, in contrast to their brethrens’ focus on herbs for medicine and "
-#| "healing, many alchemists utilize various plants and naturally occurring "
-#| "venoms to concoct lethal poisons. While useful for weakening tough "
-#| "enemies, this art is viewed warily by other Dunefolk as a potent means "
-#| "for espionage and assassination. At the same time, such a tool presents a "
-#| "tremendous political advantage, so much so that almost every caravan will "
-#| "hire or train a few alchemists to maintain a reasonable level of threat "
-#| "at all times."
 msgid ""
 "To the Dunefolk, alchemy is less a form of philosophy or science, and more "
 "an extension of the phytology that is practiced by herbalists. However, in "
@@ -3937,19 +3926,19 @@ msgid ""
 msgstr ""
 "Paladinové jsou nejoddanější z rytířů, kteří nezasvětili své zbraně službě "
 "králi a koruně, nýbrž samotným ideálům – rytířskosti a službě všemu, co je "
-"dobré. Neslouží ve světských armádách; spíše se organizují podle vlastní "
-"vůle, obvykle do tajných mnišských řádů, které se nacházejí na pomezí "
-"politických a kulturních hranic. Vládce to částečně zneklidňuje – věrnost "
-"paladinů závisí na jejich ctnosti, což nemusí být tak snadno dosažitelná "
-"hodnota. Vladaři, jejichž mysl se ubírá temnějšími cestičkami, se nezřídka "
-"pokoušejí jejich řady ponížit a rozmělnit, ve zřídkavějších případech pak "
-"vymýšlejí různé lsti, aby si uchovali jejich pevnou oddanost.\n"
+"dobré. Mohou sloužit ve světských armádách, ale spíše jsou oddáni svým "
+"vlastním organizacím, obvykle tajným mnišským řádům, které se nacházejí na "
+"pomezí politických a kulturních hranic. Vládce to částečně zneklidňuje, "
+"neboť věrnost paladinů závisí na vlastní ctnosti toho, kdo vládne. Vladaři, "
+"jejichž mysl se ubírá temnějšími cestičkami, se tedy pokoušejí jejich řady "
+"ponížit a rozmělnit, ve zřídkavějších případech pak vymýšlejí různé lsti, "
+"aby si uchovali jejich pevnou oddanost.\n"
 "\n"
-"Paladinové nejsou tak strašlivými válečníky jako velcí rytíři, elitní "
-"jednotky mnoha armád, stále však náleží mezi prvotřídní bojovníky. Jejich "
-"moudrost a ctnost jim také propůjčuje určité podivuhodné schopnosti: "
-"paladinové mají velkou moc v boji proti magickým a nepřirozeným tvorům "
-"a většina také ovládá léčení."
+"Paladinové nejsou tak strašlivými válečníky jako velcí rytíři, šampióni "
+"většiny armád, stále však náleží mezi prvotřídní bojovníky. Jejich moudrost "
+"a ctnost jim také propůjčuje určité podivuhodné schopnosti. Paladinové "
+"disponují velkou mocí v boji proti magickým či nepřirozeným tvorům a většina "
+"také ovládá nějakou formu léčení."
 
 #. [unit_type]: id=Horseman, race=human
 #: data/core/units/humans/Horseman.cfg:4
@@ -5714,21 +5703,16 @@ msgstr ""
 #. [unit_type]: id=Woodland Boar, race=monster
 #: data/core/units/monsters/Boar.cfg:4
 msgid "Woodland Boar"
-msgstr ""
+msgstr "Divočák"
 
 #. [unit_type]: id=Woodland Boar, race=monster
 #: data/core/units/monsters/Boar.cfg:35
-#, fuzzy
-#| msgid ""
-#| "As Tuskers age, their already formidable teeth grow longer and more "
-#| "numerous. A mature boar gorer is a valuable asset to any farmer. And an "
-#| "angry boar gorer is a challenge even to the best hunters."
 msgid ""
 "As boars age, their already formidable teeth grow longer and more numerous. "
 "A mature, tamed boar is a valuable asset to any farmer, but an angry wild "
 "boar is a challenge even to the best hunters."
 msgstr ""
-"Jak lončáci rostou, přirůstají jim do jejich už tak impozantního chrupu "
+"Jak divočáci rostou, přirůstají jim do jejich už tak impozantního chrupu "
 "další zuby a stávající se prodlužují. Dospělý kanec je cenným přínosem pro "
 "každého farmáře. A rozzlobený kanec je výzvou i pro ty nejlepší lovce."
 
@@ -5746,7 +5730,7 @@ msgstr "výpad kly"
 #. [unit_type]: id=Piglet, race=monster
 #: data/core/units/monsters/Boar_Piglet.cfg:4
 msgid "Piglet"
-msgstr ""
+msgstr "Sele"
 
 #. [unit_type]: id=Piglet, race=monster
 #: data/core/units/monsters/Boar_Piglet.cfg:33
@@ -5755,6 +5739,9 @@ msgid ""
 "little less of a challenge in combat.  But seldom is a piglet found that "
 "does not have a protective adult boar watching over them."
 msgstr ""
+"Mladá selata jsou zvědavá, ale stejně špatně naladěná jako dospělí tohoto "
+"druhu. Představují však pro protivníka menší výzvu. Jen málokdy se ale najde "
+"sele, co není pod ochranou nějakého dospělého divočáka, který na něj dohlíží."
 
 # Nechávám Bažinný, protože Močálový mi nezní dobře.
 #. [unit_type]: id=Swamp Lizard, race=monster
@@ -5875,7 +5862,7 @@ msgstr ""
 #. [unit_type]: id=Fire Ant, race=monster
 #: data/core/units/monsters/Fire_Ant.cfg:11
 msgid "Fire Ant"
-msgstr "Ohnivý obří mravenec"
+msgstr "Ohnivý mravenec"
 
 #. [unit_type]: id=Fire Ant, race=monster
 #: data/core/units/monsters/Fire_Ant.cfg:46
@@ -5885,6 +5872,10 @@ msgid ""
 "as scavengers, a burrow of fire ants can become aggressive when provoked and "
 "have even been known to attack small groups of threatening troops."
 msgstr ""
+"Tito malí, ale ve velkém počtu smrtelní mravenci disponují ostrými tesáky a "
+"neobvyklou schopností generovat oheň. Ačkoli jsou tito tvorové obvykle "
+"mrchožrouti, kolonie mravenců může být po vyprovokování agresivní. Je o nich "
+"dokonce známo, že mohou zaútočit na malé skupiny jednotek, co je ohrožují."
 
 #. [attack]: type=fire
 #: data/core/units/monsters/Fire_Ant.cfg:73
@@ -6059,10 +6050,8 @@ msgstr "klepeta"
 
 #. [variation]
 #: data/core/units/monsters/Giant_Scorpion.cfg:112
-#, fuzzy
-#| msgid "Sand Scuttler"
 msgid "scuttler"
-msgstr "Písečný krab"
+msgstr "krab"
 
 #. [variation]
 #: data/core/units/monsters/Giant_Scorpion.cfg:113
@@ -6071,17 +6060,12 @@ msgstr "Písečný krab"
 
 #. [variation]
 #: data/core/units/monsters/Giant_Scorpion.cfg:118
-#, fuzzy
-#| msgid ""
-#| "Blending in nearly seamlessly into sandy dunes, these critters are an odd "
-#| "mix of mundane creature and elemental beast. Though usually timid, Sand "
-#| "Scuttlers sometimes attack unwary travelers, especially when startled."
 msgid ""
 "Making their homes in sandy dunes, these critters are an odd mix of mundane "
 "creature and elemental beast. Though usually timid, Sand Scuttlers sometimes "
 "attack unwary travelers, especially when startled."
 msgstr ""
-"Tito tvorové, kteří téměř splývají s písečnými dunami, jsou zvláštní směsicí "
+"Tito tvorové, kteří pobývají v písečných dunách, jsou zvláštní směsicí "
 "pozemského tvora a elementálního stvoření. Ačkoli jsou píseční krabi obvykle "
 "plaší, někdy zaútočí na neopatrné cestovatele, zvláště pokud se cítí "
 "ohroženi."
@@ -6230,13 +6214,22 @@ msgid ""
 "aid to a traveler in need, usually in exchange for a small trinket or shiny "
 "bauble."
 msgstr ""
+"Daleko od lidských měst ve velkých pouštních horách lze někdy najít velké "
+"dravé ptáky, kteří jsou známí jako ptáci Nohové, jak během svých lovů svižně "
+"pátrají v dunách. Navzdory své značné velikosti mají Nohové tendence žít "
+"samotářsky. S jinými inteligentními rasami se setkávají jen zřídka. Jejich "
+"nepolapitelná povaha z nich udělala takřka mýtické bytosti, zejména mezi "
+"nomády pouští.\n"
+"\n"
+"Na rozdíl od jiných ptáků, jako jsou sokoli nebo jestřábi, jsou "
+"individualističtí a inteligentní Nohové téměř nezkrotní. Pták Noh může "
+"příležitostně nabídnout pomoc cestujícímu v nouzi, obvykle výměnou za "
+"nějakou malou tretku nebo lesklou cetku."
 
 #. [unit_type]: id=Rock Scorpion, race=monster
 #: data/core/units/monsters/Rock_Scorpion.cfg:4
-#, fuzzy
-#| msgid "Giant Scorpion"
 msgid "Rock Scorpion"
-msgstr "Obří škorpion"
+msgstr "Obří škorpion skalní"
 
 #. [unit_type]: id=Rock Scorpion, race=monster
 #: data/core/units/monsters/Rock_Scorpion.cfg:45
@@ -6247,13 +6240,16 @@ msgid ""
 "Unlike most scorpions, they do not deliver their poison with a piercing "
 "stinger, but instead spray their enemies with a noxious, volatile stream."
 msgstr ""
+"Skalní škorpióni jsou známí z příběhů loupežníků a opilců, o jejich skutečné "
+"existenci je však jen málo důkazů. Jsou popisováni jako nenápadné příšery "
+"pokryté kousky skály a s ostrými drápy z krystalů. Na rozdíl od většiny "
+"škorpiónů nevpichují svůj jed pronikavým bodcem, místo toho jej na své "
+"nepřátele stříkají v proudu jedovaté těkavé kapaliny."
 
 #. [attack]: type=impact
 #: data/core/units/monsters/Rock_Scorpion.cfg:60
-#, fuzzy
-#| msgid "water spray"
 msgid "spray"
-msgstr "vodní tříšť"
+msgstr "sprška"
 
 #. [unit_type]: id=Horned Scarab, race=monster
 #: data/core/units/monsters/Scarab.cfg:4
@@ -7491,16 +7487,6 @@ msgstr "Požírač mrtvol"
 
 #. [unit_type]: id=Necrophage, race=undead
 #: data/core/units/undead/Corpse_Necrophage.cfg:18
-#, fuzzy
-#| msgid ""
-#| "The necrophage, or ‘devourer of the dead’, is a monstrous, corpulent "
-#| "thing, which bears only a crude resemblance to a man. They appear to be "
-#| "quite rotten in spite of their ability to move; they are rife with "
-#| "disease and poisons of the blood, and have a stench to match. But the "
-#| "most revolting fact about these fratures, apparent only to those who can "
-#| "perceive the traces of foul magic on them, is that they were somehow made "
-#| "from living men — a process about which almost nothing is known, but "
-#| "which can be nothing but nightmarish."
 msgid ""
 "The necrophage, or ‘devourer of the dead’, is a monstrous, corpulent thing, "
 "which bears only a crude resemblance to a man. They appear to be quite "
@@ -7512,11 +7498,11 @@ msgid ""
 "but nightmarish."
 msgstr ""
 "Požírač mrtvol je obří, bachratá věc, připomínající lidské rysy pouze "
-"vzdáleně. Navzdory schopnosti pohybu jsou skrznaskrz shnilí, plní odporných "
-"věcí. Není snad třeba dodávat, že roznášejí nemoci a odporně páchnou na "
-"míle. Tím nejúžasnějším (a nejděsivějším) faktem však je, že jsou nějakým "
-"způsobem stvořeni z lidských bytostí. O tomto procesu není nic známo, avšak "
-"je jisté, že nemůže nebýt hrůzostrašný."
+"vzdáleně. Navzdory schopnosti pohybu jsou skrznaskrz shnilí, plní nemocí a "
+"otravy krve a příšerně páchnou. Tím nejodpornějším faktem, který je zjevný "
+"pouze těm, kdo v nich dokážou vnímat stopy odporné magie, však je, že jsou "
+"nějakým způsobem stvořeni z živých lidských bytostí. O tomto procesu není "
+"nic známo, je však jisté, že nemůže nebýt hrůzostrašný."
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:118
@@ -7575,10 +7561,8 @@ msgstr "Ještěrák"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:259
 #: data/core/units/undead/Corpse_Walking.cfg:258
-#, fuzzy
-#| msgid "wc_variation^Saurian"
 msgid "wc_variation^Scorpion"
-msgstr "Ještěrák"
+msgstr "Škorpión"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:268
@@ -7607,10 +7591,8 @@ msgstr "Troll"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:323
 #: data/core/units/undead/Corpse_Walking.cfg:322
-#, fuzzy
-#| msgid "wc_variation^Bat"
 msgid "wc_variation^Boar"
-msgstr "Netopýr"
+msgstr "Divočák"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:331
