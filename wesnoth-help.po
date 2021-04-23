@@ -3785,7 +3785,7 @@ msgstr ""
 "• <bold>text='Léčitelé'</bold>: Jednotky se schopností "
 "<ref>dst='ability_healingheals +4' text='léčení'</ref> léčí všechny "
 "sousedící spojenecké jednotky, či je chrání před působením jedu. Obvykle léčí "
-"každé jednotce <ref>dst='ability_healingheals +4' text='4'</ref> nebo "
+"každé jednotce <ref>dst='ability_healingheals +4' text='4'</ref>, nebo "
 "<ref>dst='ability_healingheals +8' text='8'</ref> životů, podle svých "
 "schopností."
 
