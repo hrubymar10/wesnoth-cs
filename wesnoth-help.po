@@ -2618,8 +2618,8 @@ msgstr ""
 "Jednotky mají určitý počet zkušeností nutný pro povýšení (ten je o 20 % "
 "nižší pro jednotky s vlastností chytrost). Jakmile jednou dosáhnou této "
 "hranice, tak povýší na další úroveň. Zároveň se také během tohoto procesu "
-"plně uzdraví a vyléčí. V některých případech si můžeš zvolit, jak má jednotka "
-"povýšit."
+"plně uzdraví a vyléčí. V některých případech si můžeš zvolit, jak má "
+"jednotka povýšit."
 
 #. [topic]: id=advancement
 #: data/core/help.cfg:252
@@ -3784,8 +3784,8 @@ msgstr ""
 "\n"
 "• <bold>text='Léčitelé'</bold>: Jednotky se schopností "
 "<ref>dst='ability_healingheals +4' text='léčení'</ref> léčí všechny "
-"sousedící spojenecké jednotky, či je chrání před působením jedu. Obvykle léčí "
-"každé jednotce <ref>dst='ability_healingheals +4' text='4'</ref>, nebo "
+"sousedící spojenecké jednotky, či je chrání před působením jedu. Obvykle "
+"léčí každé jednotce <ref>dst='ability_healingheals +4' text='4'</ref>, nebo "
 "<ref>dst='ability_healingheals +8' text='8'</ref> životů, podle svých "
 "schopností."
 
