@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-03-14 16:21+0100\n"
+"PO-Revision-Date: 2021-04-26 22:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -86,7 +86,7 @@ msgstr ""
 "Naučíš se základy:\n"
 "• <small>pohybu</small>\n"
 "• <small>útočení</small>\n"
-"• <small>uzdravování</small>\n"
+"• <small>léčení</small>\n"
 "• <small>verbování</small>"
 
 #. [objective]: condition=win
@@ -114,8 +114,8 @@ msgid ""
 "Part 1 will teach you the basics about movement, attacking, healing, and "
 "recruiting. Firstly, you’ll choose a hero (both heroes play the same)."
 msgstr ""
-"Jedná se o dvoudílný tutoriál určený pro lidi, kteří jsou ve hře noví. "
-"Část 1 tě naučí základy pohybu, útočení, uzdravení a verbování. Nejprve si "
+"Jedná se o dvoudílný tutoriál určený pro hráče, kteří jsou ve hře noví. "
+"Část 1 tě naučí základy pohybu, útočení, léčení a verbování. Nejprve si "
 "vybereš hrdinu (oba hrdinové hrají stejně)."
 
 #. [message]: speaker=narrator
@@ -427,7 +427,7 @@ msgid ""
 "and ending your turn on one will heal you. To a village!"
 msgstr ""
 "Máš na dosah dvě vesnice. Navštěvovat vesnice je dobrý nápad, a pokud "
-"ukončíš své kolo ve vesnici, na začátku příštího se uzdravíš. Tedy vzhůru do "
+"ukončíš své kolo ve vesnici, na začátku příštího se vyléčíš. Tedy vzhůru do "
 "vesnice!"
 
 #. [label]
@@ -568,8 +568,7 @@ msgstr ""
 msgid ""
 "Hey, the quintain just healed 2 hitpoints! I’d better attack it at once!"
 msgstr ""
-"Heeej, ten panák se právě uzdravil o dva životy! Asi by bylo lepší zase "
-"zaútočit!"
+"Heeej, ten panák si právě vyléčil 2 životy! Asi by bylo lepší zase zaútočit!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:827
@@ -577,13 +576,12 @@ msgid ""
 "female^Hey, the quintain just healed 2 hitpoints! I’d better attack it at "
 "once!"
 msgstr ""
-"Heeej, ten panák se právě uzdravil o dva životy! Asi by bylo lepší zase "
-"zaútočit!"
+"Heeej, ten panák si právě vyléčil 2 životy! Asi by bylo lepší zase zaútočit!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:832
 msgid "Yes, if a unit doesn’t do anything for a turn, it will slowly heal."
-msgstr "Ano, pokud jednotka v tahu nic nedělá, bude se pomalu uzdravovat."
+msgstr "Ano, pokud jednotka v tahu nic nedělá, bude se pomalu léčit."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:837
@@ -885,7 +883,7 @@ msgstr "Jeden dobrý útok skřetího pěšáka a je po mně!"
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:126
 msgid "I could make use of some healing in a village."
-msgstr "Docela rád bych se uzdravil v nějaké vesnici."
+msgstr "Docela rád bych se vyléčil v nějaké vesnici."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:127
@@ -906,7 +904,7 @@ msgstr "Jeden dobrý útok skřetího pěšáka a je po mně!"
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:130
 msgid "female^I could make use of some healing in a village."
-msgstr "Docela ráda bych se uzdravila v nějaké vesnici."
+msgstr "Docela ráda bych se vyléčila v nějaké vesnici."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:131
@@ -1047,8 +1045,7 @@ msgid ""
 "fight so well."
 msgstr ""
 "Pravděpodobnější je tedy útok po mostě. Ostrov uprostřed je klíčový: má "
-"vesnici pro uzdravování raněných jednotek a les, ve kterém tak dobře "
-"bojujeme."
+"vesnici pro léčení raněných jednotek a les, ve kterém tak dobře bojujeme."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:235
@@ -1174,15 +1171,15 @@ msgid ""
 "they do for one turn. However, she’s physically weaker than fighters and "
 "archers, so be careful when sending her into battle."
 msgstr ""
-"Šamanka má schopnost <i>ošetřovat</i> spřátelené jednotky okolo sebe. Má "
-"také speciální útok, který <i>zpomaluje</i> nepřátele, přičemž na jedno kolo "
+"Šamanka má schopnost <i>léčit</i> spřátelené jednotky okolo sebe. Má také "
+"speciální útok, který <i>zpomaluje</i> nepřátele, přičemž na jedno kolo "
 "sníží o polovinu zranění jimi způsobená. Nicméně je tělesně slabší než "
 "bojovníci a lučištníci, takže si dej pozor, když ji posíláš do bitvy."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:322
 msgid "The <i>Heal</i> Ability"
-msgstr "Schopnost <i>ošetření</i>"
+msgstr "Schopnost <i>léčení</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:324
@@ -1196,11 +1193,10 @@ msgid ""
 "A detailed explanation of healing may be found in the <i>Gameplay</i> "
 "section of the help (default hotkey: <b>F1</b>)."
 msgstr ""
-"Spojenecké jednotky sousedící se šamankou se na začátku každého kola uzdraví "
-"o 4 body života, což je jen půlka toho, co by poskytla vesnice. Za ošetření "
-"nezíská šamanka žádné zkušenosti, to pouze za souboj, ale vyplatí se dělat "
-"s ní pokroky – po povýšení na elfí druidku poskytuje stejné léčení jako "
-"vesnice.\n"
+"Spojenecké jednotky sousedící se šamankou si na začátku každého kola vyléčí "
+"4 životy, což je jen půlka toho, co by poskytla vesnice. Za léčení nezíská "
+"šamanka žádné zkušenosti, jen za souboj, ale vyplatí se dělat s ní pokroky. "
+"Po povýšení na elfí druidku poskytuje stejně účinné léčení jako vesnice.\n"
 "\n"
 "Podrobné vysvětlení léčení lze nalézt v nápovědě, v oddílu <i>Pravidla hry</"
 "i> (výchozí klávesová zkratka: <b>F1</b>)."
@@ -1252,13 +1248,13 @@ msgid ""
 "adjacent units by 8 hitpoints per turn. A unit next to multiple healers is "
 "healed by the most advanced one."
 msgstr ""
-"Teď máš dva léčitele. Avšak každá jednotka může být ošetřena pouze jedním "
-"z nich – stále bude léčena pouze o 4 body zdraví za kolo, i když bude "
-"sousedit s oběma šamankami.\n"
+"Teď máš dvě léčitelky. Avšak každá jednotka může být léčena pouze jednou "
+"z nich. I když bude sousedit s oběma šamankami, bude stále léčena pouze "
+"o 4 životy za kolo.\n"
 "\n"
 "Když kterákoli šamanka povýší na druidku, bude pak umět léčit sousední "
-"jednotky o 8 bodů života za kolo. Jednotka, která se nachází vedle více "
-"léčitelů, je léčena tím nejpokročilejším."
+"jednotky o 8 životů za kolo. Jednotka, která se nachází vedle více léčitelů, "
+"je léčena tím nejpokročilejším."
 
 #. [message]: speaker=narrator
 #. one healer is a level one shaman, but the other healer is a druid or (very unlikely) a shyde
@@ -1269,9 +1265,9 @@ msgid ""
 "healing from one healer — a unit next to multiple healers is healed by the "
 "most advanced one."
 msgstr ""
-"Teď máš dva léčitele. Tvoje druidka umí léčit sousední jednotky o 8 bodů "
-"života za kolo v porovnání se šamankou, která léčí o 4. Avšak každá jednotka "
-"může být léčena pouze jednou z nich – jednotka, která se nachází vedle více "
+"Teď máš dvě léčitelky. Tvoje druidka umí léčit sousední jednotky o 8 životů "
+"za kolo v porovnání se šamankou, která léčí o 4. Avšak každá jednotka může "
+"být léčena pouze jednou z nich. Jednotka, která se nachází vedle více "
 "léčitelů, je léčena tím nejpokročilejším."
 
 #. [message]: speaker=narrator
@@ -1285,7 +1281,7 @@ msgid ""
 "A unit in a village will receive healing from the village instead of from "
 "adjacent healers."
 msgstr ""
-"Jednotka ve vesnici přijme léčení z vesnice místo od sousedních léčitelů."
+"Jednotka ve vesnici přijme léčení z vesnice místo od sousedících léčitelů."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:388
@@ -1325,8 +1321,8 @@ msgid ""
 "You certainly have a fondness for shamans, I see. They will provide a lot of "
 "healing, but not much offensive potential."
 msgstr ""
-"Aha, ty máš určitě slabost pro šamanky. Poskytnou ti mnoho ošetření, ale už "
-"ne tolik útočných možností."
+"Aha, ty máš určitě slabost pro šamanky. Poskytnou ti mnoho léčení, ale už ne "
+"tolik útočných možností."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:442
@@ -1674,7 +1670,7 @@ msgid ""
 "at the beginning of the next turn."
 msgstr ""
 "Jestliže zrovna za tebou stojí jedna ze tvých šamanek, na začátku příštího "
-"kola tě vyléčí o 4 body zdraví."
+"kola tě vyléčí o 4 životy."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:789
@@ -1693,8 +1689,8 @@ msgid ""
 "If one of your Shamans stands just behind your wounded units, she will heal "
 "them each 4 hitpoints at the beginning of the next turn."
 msgstr ""
-"Jestliže právě za tvými zraněnými jednotkami stojí jedna ze tvých šamanek, "
-"na začátku příštího kola každou z nich vyléčí o 4 body zdraví."
+"Jestliže právě za tvými zraněnými jednotkami stojí jedna z tvých šamanek, na "
+"začátku příštího kola každou z nich vyléčí o 4 životy."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:830
@@ -1828,17 +1824,16 @@ msgid ""
 "turn."
 msgstr ""
 "Nezapomeň stahovat raněné jednotky do vesnic. Šamanky mohou léčit jen "
-"o 4 body života za kolo, zatímco vesnice je mohou léčit rychleji – o 8 za "
-"kolo.\n"
+"o 4 životy za kolo, zatímco vesnice je mohou léčit rychleji – o 8 za kolo.\n"
 "\n"
 "Různé zdroje léčení nejsou obvykle slučovány. Jestliže jednotka začíná své "
 "kolo vedle více léčitelů nebo ve vesnici a vedle léčitele, stejně bude "
 "léčena pouze jednou.\n"
 "\n"
-"Výjimkou z pravidla je léčení při odpočinku – pokud jednotka v kole nic "
-"neudělá, vyléčí se o 2 body života navíc k jakémukoli léčení, které může "
-"přijmout z vesnic nebo od léčitelů, což se spojí až do celkového počtu 10 "
-"bodů života za kolo."
+"Výjimkou z pravidla je léčení při odpočinku. Pokud jednotka v kole nic "
+"neudělá, vyléčí se o 2 životy navíc k jakémukoli léčení, které může přijmout "
+"z vesnic nebo od léčitelů, což se spojí až do celkového počtu 10 životů za "
+"kolo."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:999
@@ -1930,7 +1925,7 @@ msgid ""
 "The village heals him each turn and provides good defense."
 msgstr ""
 "Jejich vůdce se přesunul do vesnice! Není tak hloupý, jak jsem si myslel. "
-"Uzdravuje se každé kolo a má dobrou obranu."
+"Každé kolo se léčí a má dobrou obranu."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1174
@@ -1938,8 +1933,8 @@ msgid ""
 "That unit has captured our village! You’d better get him out; it heals him "
 "each turn and provides good defense."
 msgstr ""
-"Ta jednotka obsadila naši vesnici! Raději ji rychle zneškodni; vesnice ji "
-"každé kolo uzdraví a poskytne jí poměrně dobrou obranu."
+"Ta jednotka obsadila naši vesnici! Raději ji rychle zneškodni. Ve vesnici se "
+"každé kolo léčí a má dobrou obranu."
 
 #. [message]: speaker=unit
 #. The speaker is female
@@ -2049,9 +2044,9 @@ msgid ""
 "always has a 70% chance to hit, but it is not as powerful as the similar "
 "attack wielded by the Elvish Sorceress."
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Každé kolo můžu léčit jednotky o 8 bodů "
-"zdraví místo pouhých 4, a pokud se nedostanou do vesnice, mohu u nich také "
-"odstranit jed! Krom toho jsem získala další <i>magický</i> útok, což "
+"Postup o úroveň mě zcela uzdravil a vyléčil! Každé kolo můžu léčit jednotky "
+"o 8 životů místo pouhých 4 a mohu u nich také uzdravovat otravu, když se "
+"nedostanou do vesnice! Krom toho jsem získala další <i>magický</i> útok, což "
 "znamená, že má vždy 70% šanci na zásah, avšak není tak silný jako obdobný "
 "útok používaný elfími vědmami."
 
@@ -2064,10 +2059,10 @@ msgid ""
 "damage each for 4 strikes. It also has the <i>magical</i> weapon special, "
 "meaning it always has a 70% chance to hit."
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Už nemůžu léčit sousední jednotky, ale "
-"náhradou za to mám nový silný útok kouzelný oheň, který zraňuje o 7 při "
-"každém ze 4 úderů. Také je to speciální <i>magický</i> útok, což znamená, že "
-"má vždy 70% šanci na zásah."
+"Postup o úroveň mě zcela uzdravil a vyléčil! Už nemůžu léčit sousedící "
+"jednotky, ale náhradou za to mám nový silný útok kouzelným ohněm, který "
+"zraňuje o 7 při každém ze 4 úderů. Také je to speciální <i>magický</i> útok, "
+"což znamená, že má vždy 70% šanci na zásah."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1363
@@ -2077,10 +2072,10 @@ msgid ""
 "ability, and I deal 9 damage each for 4 attacks. Use me to dislodge hard-to-"
 "hit units."
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Díky mým schopnostem <i>odstřelovače</i> "
-"mám při útoku svým dlouhým lukem vždy nejméně 60% šanci zásahu a udílím "
-"zranění 9 při každém ze 4 útoků. Použij mě proti jednotkám, které je obtížné "
-"zasáhnout."
+"Postup o úroveň mě zcela uzdravil a vyléčil! Díky mým schopnostem "
+"<i>odstřelovače</i> mám při útoku svým dlouhým lukem vždy nejméně 60% šanci "
+"zásahu a udílím zranění 9 při každém ze 4 útoků. Použij mě proti jednotkám, "
+"které je obtížné zasáhnout."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1364
@@ -2090,10 +2085,10 @@ msgid ""
 "i> ability, and I deal 9 damage each for 4 attacks. Use me to dislodge hard-"
 "to-hit units."
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Díky mým schopnostem <i>odstřelovačky</i> "
-"mám při útoku svým dlouhým lukem vždy nejméně 60% šanci zásahu a udílím "
-"zranění 9 při každém ze 4 útoků. Použij mě proti jednotkám, které je obtížné "
-"zasáhnout."
+"Postup o úroveň mě zcela uzdravil a vyléčil! Díky mým schopnostem "
+"<i>odstřelovačky</i> mám při útoku svým dlouhým lukem vždy nejméně 60% šanci "
+"zásahu a udílím zranění 9 při každém ze 4 útoků. Použij mě proti jednotkám, "
+"které je obtížné zasáhnout."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1377
@@ -2102,9 +2097,10 @@ msgid ""
 "and I have a special ability: <i>Ambush</i>. I can hide in forests where "
 "enemies can only see me if they are right next to me."
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Umím dobře zacházet s mečem i lukem, ale "
-"mám také speciální schopnost: <i>přepadení</i>. Mohu se skrýt v lese "
-"a nepřátelé mě uvidí, pouze pokud se náhodou postaví na políčko vedle mne."
+"Postup o úroveň mě zcela uzdravil a vyléčil! Umím dobře zacházet s mečem "
+"i lukem, ale mám také speciální schopnost: <i>přepadení</i>. Mohu se skrýt "
+"v lese a nepřátelé mě uvidí, pouze pokud se náhodou postaví na políčko vedle "
+"mne."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1378
@@ -2113,9 +2109,9 @@ msgid ""
 "sword, and I have a special ability: <i>Ambush</i>. I can hide in forests "
 "where enemies can only see me if they are right next to me."
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Jsem dobrá v boji s lukem i mečem a mám "
-"speciální schopnost: <i>přepadení</i>. Mohu se skrýt v lese, kde mě "
-"nepřátelé uvidí, jen když budou přímo vedle mne."
+"Postup o úroveň mě zcela uzdravil a vyléčil! Jsem dobrá v boji s lukem "
+"i mečem a mám speciální schopnost: <i>přepadení</i>. Mohu se skrýt v lese, "
+"kde mě nepřátelé uvidí, jen když budou přímo vedle mne."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1392
@@ -2125,11 +2121,11 @@ msgid ""
 "than the Elvish Hero, but my ability allows my allies to fight better. First "
 "level units around me do 25% more damage, so position me carefully!"
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Jsem dobrý v boji lukem i mečem a mám "
-"speciální schopnost: <i>velení</i>. Způsobuji menší zranění než elfí hrdina, "
-"ale má schopnost umožňuje mým spojencům lépe bojovat. Jednotky první úrovně, "
-"které stojí v boji vedle mne, způsobují o 25% více zranění, takže mě pečlivě "
-"umísťuj!"
+"Postup o úroveň mě zcela uzdravil a vyléčil! Jsem dobrý v boji lukem i mečem "
+"a mám speciální schopnost: <i>velení</i>. Způsobuji menší zranění než elfí "
+"hrdina, ale má schopnost umožňuje mým spojencům lépe bojovat. Jednotky první "
+"úrovně, které stojí v boji vedle mne, způsobují o 25 % více zranění, takže "
+"mě pečlivě umísťuj!"
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1405
@@ -2139,10 +2135,10 @@ msgid ""
 "abilities of the Elvish Captain, my superior fighting skills allow my "
 "attacks to do more damage!"
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Jsem mimořádně dobrý v boji s mečem. "
-"Způsobuji 8 zranění při 4 útocích. Nemám sice schopnost velení jako elfí "
-"kapitán, ale moje lepší bojové schopnosti dovolují mým útokům způsobit větší "
-"zranění!"
+"Postup o úroveň mě zcela uzdravil a vyléčil! Jsem mimořádně dobrý v boji "
+"s mečem. Způsobuji 8 zranění při 4 útocích. Nemám sice schopnost velení jako "
+"elfí kapitán, ale moje lepší bojové schopnosti dovolují mým útokům způsobit "
+"větší zranění!"
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1418
@@ -2152,10 +2148,10 @@ msgid ""
 "abilities, my fighting skills will allow me to beat the orcs by dealing more "
 "damage!"
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Stal jsem se lepším v používání meče, "
-"kterým způsobuji zranění 9 při 4 útocích. Přestože nemám žádné zvláštní "
-"schopnosti, moje bojové dovednosti mi dovolí porazit skřety tím, že způsobím "
-"větší zranění!"
+"Postup o úroveň mě zcela uzdravil a vyléčil! Stal jsem se lepším v používání "
+"meče, kterým způsobuji zranění 9 při 4 útocích. Přestože nemám žádné "
+"zvláštní schopnosti, moje bojové dovednosti mi dovolí porazit skřety tím, že "
+"způsobím větší zranění!"
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1419
@@ -2165,10 +2161,10 @@ msgid ""
 "abilities, my fighting skills will allow me to beat the orcs by dealing more "
 "damage!"
 msgstr ""
-"Postup o úroveň mě zcela uzdravil! Stala jsem se lepší v používání meče, "
-"kterým způsobuji zranění 9 při 4 útocích. Přestože nemám žádné zvláštní "
-"schopnosti, moje bojové dovednosti mi dovolí porazit skřety tím, že způsobím "
-"větší zranění!"
+"Postup o úroveň mě zcela uzdravil a vyléčil! Stala jsem se lepší v používání "
+"meče, kterým způsobuji zranění 9 při 4 útocích. Přestože nemám žádné "
+"zvláštní schopnosti, moje bojové dovednosti mi dovolí porazit skřety tím, že "
+"způsobím větší zranění!"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1428
