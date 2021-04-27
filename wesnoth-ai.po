@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-18 17:51+0200\n"
+"PO-Revision-Date: 2021-04-27 22:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -55,7 +55,7 @@ msgstr "Vývojová UI: Výchozí + používání jedu (Formula AI)"
 
 #: data/ai/lua/patrol.lua:4
 msgid "Use the Patrols Micro AI instead of patrol.lua."
-msgstr "Použít Hlídkovou UI místo patrol.lua."
+msgstr "Místo patrol.lua použij Mikro UI Hlídka."
 
 #. [test]: id=The_Elves_Besieged
 #: data/ai/micro_ais/scenarios/The_Elves_Besieged.cfg:5
@@ -1890,7 +1890,7 @@ msgstr "Neee ! Vše je ztraceno. Teď už skřety nikdy nezastavíme!"
 #: data/ai/micro_ais/scenarios/patrols.cfg:5
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:75
 msgid "Patrols"
-msgstr "Patroly"
+msgstr "Hlídky"
 
 #. [side]: id=Gertburt, type=Outlaw
 #: data/ai/micro_ais/scenarios/patrols.cfg:19
@@ -1935,22 +1935,22 @@ msgstr "Konrádův cíl"
 #. [event]
 #: data/ai/micro_ais/scenarios/patrols.cfg:195
 msgid "Patrol Waypoint 1"
-msgstr "Zastávka patroly 1"
+msgstr "zastávka hlídky 1"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/patrols.cfg:197
 msgid "Patrol Waypoint 2"
-msgstr "Zastávka patroly 2"
+msgstr "zastávka hlídky 2"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/patrols.cfg:199
 msgid "Patrol Waypoint 3"
-msgstr "Zastávka patroly 3"
+msgstr "zastávka hlídky 3"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/patrols.cfg:201
 msgid "Patrol Waypoint 4"
-msgstr "Zastávka patroly 4"
+msgstr "zastávka hlídky 4"
 
 #. [event]
 #: data/ai/micro_ais/scenarios/patrols.cfg:204
@@ -1971,16 +1971,15 @@ msgid ""
 "\n"
 "All of this is implemented by use of the Patrol [micro_ai] tag."
 msgstr ""
-"Ahoj! Já jsem podvodník, který se vydává za Konráda. V tomto scénáři se "
-"chystáme se ti předvést UI Patroly.\n"
+"Ahoj! Já jsem podvodník, který se vydává za Konráda. V tomto scénáři se "
+"chystáme ti předvést UI Hlídka.\n"
 "\n"
-"Mířím k pevnosti východně od středohoří se dvěma zastávkami na jihu. Jakmile "
-"se tam dostanu, zůstanu tam. Naproti tomu, ti dva v prostředku stále krouží "
-"okolo hory, jeden ve stále stejném směru, druhý z nich mění směr po každém "
+"Mířím k pevnosti východně od středohoří se dvěma zastávkami na jihu. Jakmile "
+"se tam dostanu, zůstanu tam. Naproti tomu, ti dva v prostředku stále krouží "
+"okolo hory, jeden ve stále stejném směru, druhý z nich mění směr po každém "
 "kole.\n"
 "\n"
-"Všechny prvky tohoto scénáře jsou implementovány pomocí tagu Patrol "
-"[micro_ai]."
+"To vše je uskutečněno pomocí značky [micro_ai] typu Hlídka."
 
 #. [message]: speaker=guard1
 #: data/ai/micro_ais/scenarios/patrols.cfg:225
@@ -1992,9 +1991,9 @@ msgid ""
 "separate test scenario specializing on those."
 msgstr ""
 "Já jsem naopak strážce na obchůzce, hlídám nejjižnější část mapy. Tato UI je "
-"implementovaná přes tag Obránce [micro_ai]. Je tu spíš proto, aby bylo "
-"vidět, jak nastavit různé UI pro stejnou stranu. Pro více informací o "
-"různých typech UI Obránce se podívejte na tažení, které se na tuto UI "
+"implementovaná přes značku [micro_ai] typu Strážce. Je tu spíš proto, aby "
+"bylo vidět, jak nastavit různé UI pro stejnou stranu. Pro více informací "
+"o různých typech UI Strážce se podívej na scénář, který se na tuto UI "
 "zaměřuje."
 
 #. [message]: speaker=Urudin
@@ -2006,11 +2005,11 @@ msgid ""
 "\n"
 "This is an AI separate from the Patrols of Side 2."
 msgstr ""
-"A já jsem Urudin. Budu na nepřátele několik tahů dotírat, ale pokud ztratím "
-"během prvních pěti tahů víc než polovinu životů, stáhnu se k pravé straně "
-"mapy.\n"
+"A já jsem Urudin. Budu útočit několik kol na své nepřátele, ale stáhnu se "
+"směrem k pravému okraji mapy, pokud ztratím víc než polovinu životů nebo "
+"v pátém kole podle toho, co nastane dřív.\n"
 "\n"
-"Tato UI je oddělená od UI Patroly, která řídí stranu 2."
+"Tato UI je oddělená od hlídek strany 2."
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/patrols.cfg:239
@@ -2039,33 +2038,35 @@ msgid ""
 "and the [micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki "
 "page</span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"Vy, jakožto hráč máte v tomto tažení na slovo Gertburtovy bandity. Můžete "
-"přesouvat patroly nebo nechat jednotky, ať se pohybují samy.Tři patroly mají "
-"rozkaz chovat se jinak, pokud se setkají s nepřítelem:\n"
+"Ty, jakožto hráč, máš v tomto scénáři na povel Gertburtovy bandity. Můžeš "
+"buď jednoduše sledovat, jak se hlídky přesouvají, nebo jim do cesty posílat "
+"jednotky. Tyto tři hlídkující jednotky mají nařízeno, aby se při setkání "
+"s nepřátelskou jednotkou chovaly odlišně:\n"
 "\n"
-"Konrád útočí pouze na Gertburta nebo na jakoukoliv jednotku, která mu brání "
-"v postupu k jeho konečnému cíli.\n"
+"Konrád útočí pouze na Gertburta, nebo na jakoukoliv nepřátelskou jednotku, "
+"která mu brání v postupu k jeho konečnému cíli.\n"
 "\n"
-"Šermíři nikdy neútočí.\n"
+"Bojovník s mečem vůbec nikdy neútočí.\n"
 "\n"
-"Lučištníci s dlouhými luky útočí na libovolného nepřítele, vedle něhož na "
-"konci svého tahu stojí.\n"
+"Střelec s dlouhým lukem útočí na kteroukoli nepřáteskou jednotku, vedle níž "
+"po svém tahu skončí.\n"
 "\n"
 "Všechy jednotky mají ovšem společné, že přesun je pro ně důležitější než "
 "útok. Budou tedy upřednostňovat obcházení nepřátel před přímou konfrontací. "
 "Pokud tedy jejich destinaci okupuje jednotka, na kterou nemají rozkaz "
-"útočit, mohou se tohoto cíle vzdát a prostě se přesunout na další.\n"
+"útočit, (nakonec) tuto zastávku minou, jakmile se dostanou dost blízko, "
+"a pokračují na další.\n"
 "\n"
-"UI Patroly ovládá všechny jednotky patřící straně 2 a je vytvořená formou "
-"Mikro UI. Mikro UI může být jednoduše přidáno a adaptováno podle potřeb "
-"tažení za použití WML a tagu [micro_ai]. Pro další informace se podívejte na "
-"<span color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth."
-"org/Micro_AIs."
+"UI Hlídka, která ovládá všechny jednotky strany 2, je naprogramována jako "
+"Mikro UI. Mikro UI může být jednoduše přidána a upravena pro potřeby scénáře "
+"pouhým použitím WML a značky [micro_ai]. Pro více informací navštiv <span "
+"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
+"Micro_AIs."
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/patrols.cfg:254
 msgid "Watch the patrols, attack them etc."
-msgstr "Sledujte patroly, útočte na ně atd."
+msgstr "Sleduj hlídky, útoč na ně atd."
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/patrols.cfg:260
@@ -2075,7 +2076,7 @@ msgstr "Přesuň Gertburta k rozcestníku"
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/patrols.cfg:264
 msgid "Death of Gertburt"
-msgstr "Smrt Gertburta"
+msgstr "Gertburt zemře"
 
 #. [message]: speaker=Konrad
 #: data/ai/micro_ais/scenarios/patrols.cfg:281
@@ -2436,14 +2437,13 @@ msgstr ""
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:157
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:168
 msgid "Patrol Micro AI demo"
-msgstr "Ukázka Mikro UI – Patroly"
+msgstr "Ukázka Mikro UI – Hlídka"
 
 #. [message]: speaker=Grnk
 #: data/ai/micro_ais/scenarios/scenario_micro_ai.cfg:169
 msgid "'Patrols' contains AI modifications for units following patrol routes."
 msgstr ""
-"„Patroly“ obsahují úpravy UI, které upravují chování jednotek na základě "
-"vzorců hlídek."
+"„Hlídka“ obsahuje úpravy UI pro jednotky, které sledují obchůzkové trasy."
 
 #. [message]: speaker=Grnk
 #. [set_menu_item]: id=m05_recruiting
