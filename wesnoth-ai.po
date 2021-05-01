@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-05-01 08:40+0200\n"
+"PO-Revision-Date: 2021-05-01 08:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3175,77 +3175,3 @@ msgstr "Testovací scénář pro Lua UI (starý syntax)"
 #: data/ai/scenarios/scenario-lua_ai_old_syntax.cfg:87
 msgid "Kiressh"
 msgstr "Kiressh"
-
-#~ msgid "Multiplayer_AI^Strong AI (RCA)"
-#~ msgstr "Silná AI (RCA)"
-
-#, fuzzy
-#~| msgid "Multiplayer_AI^Dev AI: Default + Poisoning (Formula AI)"
-#~ msgid "Multiplayer_AI^Dev AI: Strategy formulation with RCA "
-#~ msgstr "Vývojová AI: Výchozí + Používání otravy (Formula AI)"
-
-#~ msgid ""
-#~ "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (C++ Akihara)"
-#~ msgstr "Vývojová AI: Výchozí + Pokusné verbování (C++ Akihira)"
-
-#~ msgid "Multiplayer_AI^Dev AI: Default + Experimental Recruitment (C++)"
-#~ msgstr "Vývojová AI: Výchozí + Pokusné verbování (C++)"
-
-#~ msgid "This situation should test the recruitment phase"
-#~ msgstr "Tato situace by měla vyzkoušet fázi verbování"
-
-#~ msgid "Akihara's ai will be awesome, won't it?"
-#~ msgstr "Akiharova ai bude skvělá, nemyslíš?"
-
-#~ msgid "My AI is TESTING AI DEFAULT, implemented as ai_composite."
-#~ msgstr "Moje AI je VÝCHOZÍ TESTOVACÍ AI, implementovaná jako ai_composite"
-
-#~ msgid "Test scenario for Lua AI"
-#~ msgstr "Pokusné tažemé pro Lua AI"
-
-#~ msgid "Patrol waypoint 1"
-#~ msgstr "První zastávka patroly"
-
-#~ msgid "Patrol waypoint 2"
-#~ msgstr "Druhá zastávka patroly"
-
-#~ msgid "Formula priorities test"
-#~ msgstr "Zkouška priorit Formula"
-
-#~ msgid "first"
-#~ msgstr "první"
-
-#~ msgid "second"
-#~ msgstr "druhý"
-
-#~ msgid "third"
-#~ msgstr "třetí"
-
-#~ msgid "Location guarded (range = 3)"
-#~ msgstr "Oblast chráněná (vzdálenost = 3)"
-
-#~ msgid "Bilbo"
-#~ msgstr "Bilbo"
-
-#~ msgid "Sirené"
-#~ msgstr "Sirené"
-
-#~ msgid "Rark"
-#~ msgstr "Rark"
-
-#~ msgid "Move to targets"
-#~ msgstr "Přesuň se k cílům"
-
-#~ msgid "AI under test"
-#~ msgstr "Pokusná AI"
-
-#~ msgid "Idle AI"
-#~ msgstr "Klidná AI"
-
-#~ msgid ""
-#~ "This is a reenactment of scenario \"The Elves Besieged\" of the mainline "
-#~ "campaign \"Heir to the Throne\", just that the AI is playing Konrad's "
-#~ "side here. The goal is to move Konrad to the signpost in the northwest, "
-#~ "while keeping both Konrad and Delfador alive. The same AI as in scenario "
-#~ "\"Protect Unit"
-#~ msgstr "Toto je upravený scénář"
