@@ -5,20 +5,17 @@ This branch reflects [upstream 1.14 branch](https://github.com/wesnoth/wesnoth/t
 Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
 ## To Do
 
-Domain | Messages | Translated | Remaining | Translator
------- | -------- | ---------- | --------- | ----------
-wesnoth-ai | 379 | 96 % | 12 | Michal
-wesnoth-tsg | 666 | 97 % | 18 |
+Domain | Messages | Translated | Remaining
+------ | -------- | ---------- | ---------
+wesnoth-tsg | 666 | 97 % | 18
 
-Total messages remaining: **30**
+Total messages remaining: **18**
 
 Progress since 2019-05-12: **1** message per day
 
-ETA: **2021-05-12**
+ETA: **2021-05-19**
 
-Notes:
-- 18 remaining messages in TSG belongs to the disabled scenario 06a Tidings Good and Ill, so translating these isn't to player's profit.
-- [Most of messages in AI are from demos/test scenarios](https://github.com/wesnoth/wesnoth/issues/4669), so above applies to it as well.
+Note: 18 remaining messages in TSG belongs to the disabled scenario 06a Tidings Good and Ill, so translating these isn't to player's profit.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
 
