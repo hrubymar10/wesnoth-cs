@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-04-29 21:16+0200\n"
+"PO-Revision-Date: 2021-05-01 06:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2127,7 +2127,7 @@ msgstr "Koorzhar"
 #. [event]
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:119
 msgid "Move Rossauba here"
-msgstr "Přesuň Rossaubu sem"
+msgstr "přesuň Rossaubu sem"
 
 #. [message]: speaker=Koorzhar
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:129
@@ -2140,8 +2140,8 @@ msgid ""
 "Men, you know the deal. We must protect Rossauba under all circumstances. "
 "Even my survival is not as important."
 msgstr ""
-"Chlapi, všichni víte, proč jste tady. Musíme ochránit Rossaubu ať to stojí "
-"co to stojí. Ani moje přežití není tak důležité, jako jeho."
+"Chlapi, všichni víte, proč jste tady. Musíme ochránit Rossaubu, ať to stojí, "
+"co to stojí. Ani moje přežití není tak důležité jako jeho."
 
 #. [message]: speaker=Rossauba
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:138
@@ -2155,8 +2155,9 @@ msgid ""
 "is no risk to your life, is that understood?  And get to that signpost in "
 "the northwest if it is safe."
 msgstr ""
-"Žádné ale! Zůstanete stát v řadě a do boje se nezapojíte, dokud vám nepůjde "
-"o krk, jasné? A pokud to půjde, dostaň se k rozcestníku na severozápadě."
+"Žádné ale! Zůstanete stát v řadě a do boje se nezapojíte, dokud vám nepůjde "
+"o krk, je vám to jasné? A pokud to bude bezpečné, dostaňte se k rozcestníku "
+"na severozápadě."
 
 #. [message]: speaker=narrator
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:150
@@ -2172,17 +2173,16 @@ msgid ""
 "[micro_ai] tag. Check out the <span color='#00A000'>Micro AI wiki page</"
 "span> at https://wiki.wesnoth.org/Micro_AIs for more information."
 msgstr ""
-"V tomto tažení má UI lidi na východě (Langzhar) za úkol chránit čaroděje "
-"Rossaubu a bezpečně ho přesunout k rozcestníku. Koorzharovy jednotky (na "
-"západě) útočí přednostně na Rossaubu a to i v případě, že mohou napadnout "
-"lepší cíl. Chcete se chopit některé ze stran nebo necháte UI bojovat mezi "
-"sebou?\n"
+"V tomto scénáři má UI hrající za lidi na východě (Langzhar) za úkol chránit "
+"čaroděje Rossaubu a bezpečně ho přesunout k rozcestníku. Koorzharovy "
+"jednotky (na západě) útočí přednostně na Rossaubu, a to i v případě, že "
+"mohou napadnout lepší cíl. Chceš se chopit některé ze stran, nebo necháš UI "
+"bojovat mezi sebou?\n"
 "\n"
-"Také si všimněte, že UI Ochrana jednotky jsou naprogramovaná jako Mikro UI. "
-"Mikro UI může být jednoduše přidáno a adaptováno podle potřeb tažení za "
-"použití WML a tagu [micro_ai]. Pro další informace se podívejte na <span "
-"color='#00A000'>wiki stránku Mikro UI</span> na https://wiki.wesnoth.org/"
-"Micro_AIs."
+"Poznámka: UI Chraň jednotku je naprogramována jako Mikro UI. Mikro UI může "
+"být jednoduše přidána a upravena pro potřeby scénáře pouhým použitím WML "
+"a značky [micro_ai]. Pro více informací navštiv <span color='#00A000'>wiki "
+"stránku Mikro UI</span> na https://wiki.wesnoth.org/Micro_AIs."
 
 #. [option]
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:155
@@ -2195,8 +2195,8 @@ msgid ""
 "<span font='16'>I'll play Langzhar's side (to see how Koorzhar's units "
 "target Rossauba)</span>"
 msgstr ""
-"<span font='16'>Budu hrát za Langzharovu stranu (chci se podívat, jak se "
-"Koorzharovy jednotky soustředí na Rossaubu)</span>"
+"<span font='16'>Budu hrát za Langzharovu stranu (abych viděl, jak se "
+"Koorzharovy jednotky zaměří na Rossaubu)</span>"
 
 #. [option]
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:167
@@ -2205,12 +2205,12 @@ msgid ""
 "protect Rossauba)</span>"
 msgstr ""
 "<span font='16'>Chopím se ovládání Koorzharovy strany (abych viděl, jak "
-"jednotky ochrání Rossauba)</span>"
+"Langzharovy jednotky chrání Rossaubu)</span>"
 
 #. [objectives]
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:179
 msgid "Protect Rossauba while moving him to the signpost"
-msgstr "Ochraňu Rossauba během jeho přesunu k rozcestníku"
+msgstr "Ochraňuj Rossaubu během jeho přesunu k rozcestníku"
 
 #. [objective]: condition=win
 #. [objective]: condition=lose
@@ -2222,7 +2222,7 @@ msgstr "Rossauba se dostane k rozcestníku"
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:185
 msgid "Death of Rossauba"
-msgstr "Smrt Rossauba"
+msgstr "Rossauba zemře"
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:189
@@ -2232,17 +2232,17 @@ msgstr "Smrt Langzhara"
 #. [objectives]
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:195
 msgid "Get rid of that traitor wizard Rossauba"
-msgstr "Zbavte se zrádného čaroděje Rossauba"
+msgstr "Zbav se zrádného čaroděje Rossauby"
 
 #. [objective]: condition=win
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:197
 msgid "Defeat Rossauba"
-msgstr "Poražte Rossaubu"
+msgstr "Poraz Rossaubu"
 
 #. [objective]: condition=lose
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:205
 msgid "Death of Koorzhar"
-msgstr "Smrt Koorzhara"
+msgstr "Koorzhar zemře"
 
 #. [message]: speaker=Rossauba
 #: data/ai/micro_ais/scenarios/protect_unit.cfg:230
@@ -2481,10 +2481,10 @@ msgid ""
 "is available. You can watch the two AIs fight it out, or take control of "
 "either side to explore how the opposing AI behaves."
 msgstr ""
-"Toto tažení ukazuje současný přesun a ochranu čaroděje. Nepřátelská strana "
-"je upravená tak, aby přednostně útočila na čaroděje, a to i v případě, že má "
-"na výběr lepší cíl (podle měřítek běžné UI). Můžete sledovat obě zápolící "
-"strany nebo se chopit ovládání kterékoliv z nich a vyzkoušet si, jak se bude "
+"Tento scénář ukazuje současný přesun a ochranu čaroděje. Nepřátelská strana "
+"je upravená tak, aby přednostně útočila na čaroděje, a to i v případě, že má "
+"na výběr lepší cíl (podle měřítek běžné UI). Můžeš sledovat obě zápolící "
+"strany nebo se chopit ovládání kterékoliv z nich a vyzkoušet si, jak se bude "
 "nepřátelská UI chovat."
 
 #. [message]: speaker=Grnk
