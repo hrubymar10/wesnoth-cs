@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-02-14 19:35 UTC\n"
-"PO-Revision-Date: 2021-03-14 16:20+0100\n"
+"PO-Revision-Date: 2021-05-02 11:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2758,38 +2758,27 @@ msgstr "Eliomir"
 
 #. [message]: speaker=Eliomir
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:218
-#, fuzzy
-#| msgid ""
-#| "Sir Gerrick, you must make it back to Kerlath Province and warn your "
-#| "people of the danger from the south. We will lead you through the forest "
-#| "and clear any foes from your path. You may choose some of your veterans "
-#| "to go with you as well, and any ones you leave behind will still have "
-#| "time to join Ethiliel and Deoran."
 msgid ""
 "Sir Gerrick, you must return to Westin and warn your people of the danger "
 "from the south. We will lead you through the forest and clear the foes from "
 "your path. You may choose some of your veterans to accompany your journey. "
 "Any troops you leave behind will still have time to join Ethiliel and Deoran."
 msgstr ""
-"Sire Gerricku, musíš se vrátit do Kerlathu a varovat své lidi před "
-"nebezpečím z jihu. Provedeme tě lesem a vyčistíme cestu od nepřátel. Můžeš "
-"si s sebou vzít některé veterány, a ti kteří zůstanou pozadu půjdou s "
-"Ethiliel a Deoranem."
+"Sire Gerricku, musíš se vrátit do Westinu a varovat své lidi před nebezpečím "
+"z jihu. Provedeme tě lesem a vyčistíme cestu od nepřátel. Můžeš si vybrat "
+"několik svých veteránů jako doprovod na cestu. Každý z oddílů, které tu "
+"necháš, bude mít pořád čas připojit se k Ethiliel a Deoranovi."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:231
-#, fuzzy
-#| msgid ""
-#| "With the bandits and undead vanquished behind us, what foes can there be "
-#| "ahead? Let us hope this is a speedy journey, for the specter of winter "
-#| "looms."
 msgid ""
 "With many of the bandits and undead vanquished already, few foes should "
 "remain before us. Let us hope this is a speedy journey, for the specter of "
 "winter looms closer."
 msgstr ""
-"Jací nepřátelé mohou být před námi, když jsme zničili bandity i nemrtvé? "
-"Doufejme, že to bude rychlá cesta, zima se blíží."
+"Už jsme přemohli mnoho banditů a nemrtvých, takže před námi by mělo zbývat "
+"málo nepřátel. Doufejme, že to bude rychlá cesta, protože hrozba zimy se "
+"přiblížila."
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:237
@@ -2798,8 +2787,6 @@ msgstr "Přesuň Sira Gerricka na severní okraj lesa"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:241
-#, fuzzy
-#| msgid "Defeat the Queen Xeila"
 msgid "Defeat Queen Xeila"
 msgstr "Poraz královnu Xeilu"
 
@@ -2811,41 +2798,29 @@ msgstr "Přivolané jednotky nebude mít Deoran k dispozici."
 #. [message]: speaker=Queen Xeila
 #. Hss is a hissing sound made by the naga
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:289
-#, fuzzy
-#| msgid ""
-#| "Hss... Here are the humans who have made a pact with the cursed mermen! "
-#| "Hss..."
 msgid ""
 "Hss... Here come the humans who have made a pact with the cursed mermen!"
 msgstr ""
-"Sss.. Jsou tu ti lidi, kteří se spolčili s prokletým vodním lidem! Sss..."
+"Sss.. Přichází ti lidé, kteří se spolčili s prokletým vodním národem! Sss..."
 
 #. [message]: speaker=Eliomir
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:293
-#, fuzzy
-#| msgid "We have stumbled into a den of nagas!"
 msgid "We have stumbled upon a den of naga!"
 msgstr "Narazili jsme na doupě nág!"
 
 #. [message]: speaker=Queen Xeila
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:297
-#, fuzzy
-#| msgid "Hss... We will kill them all, my brood. Hss..."
 msgid "Hss... Elves too! We will kill them all, my brood. Hss..."
-msgstr "Sss... Zabijeme je všechny, mé dítka. Sss..."
+msgstr "Sss... I elfové! Zabijeme je všechny, má dítka. Sss..."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:301
-#, fuzzy
-#| msgid ""
-#| "She won’t listen. If we leave these nagas here, they will ambush Deoran "
-#| "and Ethiliel! We must destroy them!"
 msgid ""
 "If we leave these naga here, they will ambush Deoran and Ethiliel! We must "
 "destroy them!"
 msgstr ""
-"Nebude nás poslouchat. Pokud se s těmi nágami nevypořádáme, přepadnou "
-"Deorana a Ethiliel! Musíme je vyhladit!"
+"Pokud se s těmi nágami nevypořádáme, přepadnou Deorana a Ethiliel! Musíme je "
+"zničit!"
 
 #. [message]: speaker=Queen Xeila
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:307
@@ -2860,69 +2835,48 @@ msgstr ""
 
 #. [message]: speaker=Queen Xeila
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:315
-#, fuzzy
-#| msgid ""
-#| "Hss... And humans! Humans drained our swamps and made them fields for "
-#| "farms, and now they have found my winter nest. The Land-Walkers must die! "
-#| "Hss..."
 msgid ""
 "Hss... And humans! Humans drained our swamps and destroyed our homes! Now "
 "they have found my winter nest and seek to destroy me. The Land-Walkers must "
 "die! Hss..."
 msgstr ""
-"Sss.. A lidé! Lidé vysušili naše bažiny, aby měli pole pro farmy, a teď "
-"objevili mé zimní hnízdo. Suchozemci musí zemřít! Sss..."
+"Sss.. A lidé! Lidé vysušili naše bažiny a zničili naše domovy! Teď objevili "
+"mé zimní hnízdo a usilují zničit mě. Suchozemci musí zemřít! Sss..."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:319
-#, fuzzy
-#| msgid ""
-#| "She won’t listen. If we leave these nagas here, they will ambush Deoran "
-#| "and Ethiliel! We must destroy them!"
 msgid ""
 "She refuses to listen! If we leave these naga here, they will ambush Deoran "
 "and Ethiliel! We must destroy them!"
 msgstr ""
-"Nebude nás poslouchat. Pokud se s těmi nágami nevypořádáme, přepadnou "
-"Deorana a Ethiliel! Musíme je vyhladit!"
+"Ona nechce slyšet! Pokud se s těmi nágami nevypořádáme, přepadnou Deorana "
+"a Ethiliel! Musíme je zničit!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:348
-#, fuzzy
-#| msgid ""
-#| "There are a group of naga occupying this area... they don’t look very "
-#| "friendly."
 msgid ""
 "There are a group of naga occupying this area. They don’t look very friendly."
-msgstr "Tuto oblast obývá skupinka nág... nevypadají moc přátelsky."
+msgstr "Tuto oblast obývá skupina nág. Nevypadají moc přátelsky."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:353
-#, fuzzy
-#| msgid ""
-#| "If they are hostile to us, they could endanger Deoran and Ethiliel as "
-#| "well. Perhaps their leader can be reasoned with."
 msgid ""
 "If they are hostile to us, they could endanger Deoran and Ethiliel as well, "
 "but perhaps we can reason with their leader."
 msgstr ""
-"Pokud se k nám budou chovat nepřátelsky, nepřivítají Deorana a Ethiliel o "
-"nic lépe. Snad se budeme moci domluvit s jejich královnou."
+"Pokud se k nám budou chovat nepřátelsky, nepřivítají Deorana a Ethiliel "
+"o nic lépe, ale snad se budeme moci domluvit s jejich královnou."
 
 #. [message]: speaker=Queen Xeila
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:368
-#, fuzzy
-#| msgid "Hss... Who will watch over my brood now? Hss..."
 msgid "Who will watch over my brood now? Hss..."
-msgstr "Sss... Kdo teď bude pečovat o mé mladé? Sss..."
+msgstr "Kdo teď bude pečovat o mé mladé? Sss..."
 
 #. [message]: speaker=Kramak
 #. The ogre purposely has very bad grammar, because he is very stupid.
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:382
-#, fuzzy
-#| msgid "Ho! Me see elves. Elves tasty? Me take elves to eat."
 msgid "Oh! Me see elves. Elves tasty food?"
-msgstr "Ha! Já vidím elfy. Chutní elfové? Já jíst elfy."
+msgstr "Jé! Já vidět elfy. Elfové ňamka?"
 
 #. [message]: speaker=second_unit
 #. [message]: speaker=Deoran
@@ -2950,38 +2904,30 @@ msgstr "Špatné jídlo! Ublížit mně. Já nemít rád. Mě bolí..."
 
 #. [message]: speaker=Abdur
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:422
-#, fuzzy
-#| msgid ""
-#| "Travelers in this desolate land! I seek that dark Sage who is rumored to "
-#| "dwell in these lands. Surely you have come from him?"
 msgid ""
 "Hail, travelers! I seek the dark sage who is rumored to dwell in these "
 "lands. Surely you have come from him?"
 msgstr ""
-"Poutníci v této zpustošené zemi! Hledám temného mudrce, o kterém se "
-"proslýchá, že přebývá v těchto krajích. Zajisté jste přišli od něj?"
+"Buďte zdrávi, poutníci! Hledám temného mudrce, o kterém se proslýchá, že "
+"přebývá v těchto krajích. Zajisté jste přišli od něj?"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:426
-#, fuzzy
-#| msgid ""
-#| "Indeed! I just left my comrades, who were preparing to kill the vile "
-#| "Necromancer."
 msgid ""
 "Indeed! I just left my comrades, who were preparing to kill the vile "
 "necromancer."
 msgstr ""
 "Jistě! Právě jsem opustil své druhy, kteří se chystali zabít toho ohavného "
-"nekromancera."
+"nekromanta."
 
 #. [message]: speaker=Abdur
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:430
-#, fuzzy
-#| msgid "Unworthy fools! I’ll kill you for this sacrilege!"
 msgid ""
 "Unworthy fools! How dare you attack the hallowed one?! You must be slain for "
 "this sacrilege!"
-msgstr "Bezcenní hlupáci! Všechny vás zabiji pro tuto svatokrádež!"
+msgstr ""
+"Bezcenní hlupáci! Jak se opovažujete útočit na toho nedotknutelného?! Za "
+"toto zneuctění musíte být zabiti!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:451
@@ -2993,27 +2939,22 @@ msgstr ""
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:464
-#, fuzzy
-#| msgid ""
-#| "I will hasten back to Kerlath Province now and seek the advice of the "
-#| "Council of Westin..."
 msgid ""
 "I must hasten back to Kerlath Province and seek the advice of the Council of "
 "Westin. I pray that Deoran and Ethiliel find the strength to defeat the "
 "undead on their own."
 msgstr ""
-"Pospíším si zpět do Kerlathské provincie a vyhledám pomoc westinské rady..."
+"Musím spěchat zpět do kerlathské provincie a vyhledat pomoc westinské rady. "
+"Modlím se, aby Deoran a Ethiliel našli sílu sami porazit nemrtvé."
 
 #. [message]: speaker=Eliomir
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:468
-#, fuzzy
-#| msgid ""
-#| "We too will return to our councils. We have much to tell them... Much "
-#| "indeed."
 msgid ""
 "We will return to our council as well. There is much we have to tell them... "
 "much indeed."
-msgstr "My se také vrátíme k našim radám. Máme jim co říci... Vpravdě mnoho."
+msgstr ""
+"Také my se obrátíme na naši radu. Je toho hodně, co jim musíme říct..., "
+"opravdu mnoho."
 
 #. [scenario]: id=06b_The_Long_March
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:5
