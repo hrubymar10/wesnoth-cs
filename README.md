@@ -3,6 +3,7 @@
 This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth/tree/master).
 
 Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
+
 ## To Do
 
 Domain | Messages | Translated | Remaining
@@ -15,7 +16,7 @@ Total messages remaining: **44**
 
 Progress since 2020-08-28: **11** messages per day
 
-ETA: **2021-04-27**
+ETA: **2021-05-06**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
