@@ -10,9 +10,8 @@ Domain | Messages | Translated | Remaining
 ------ | -------- | ---------- | ---------
 wesnoth-lib | 1436 | 99 % | 3
 wesnoth-wc | 459 | 91 % | 40
-wesnoth | 1328 | 99 % | 1
 
-Total messages remaining: **44**
+Total messages remaining: **43**
 
 Progress since 2020-08-28: **11** messages per day
 
