@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-17 22:21-0400\n"
-"PO-Revision-Date: 2021-03-13 06:24+0100\n"
+"PO-Revision-Date: 2021-05-04 22:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2267,12 +2267,12 @@ msgstr "Profil"
 #. [window]: id=addon_auth
 #: data/gui/window/addon_auth.cfg:8
 msgid "Add-on upload authentication dialog"
-msgstr ""
+msgstr "Okno pro ověření nahrávaného rozšíření"
 
 #. [label]
 #: data/gui/window/addon_auth.cfg:41
 msgid "Authenticate"
-msgstr ""
+msgstr "Prokaž se"
 
 #. [label]
 #: data/gui/window/addon_auth.cfg:71 data/gui/window/mp_create_game.cfg:990
@@ -3572,12 +3572,12 @@ msgstr "Rozšíření:"
 #. [grid]
 #: data/gui/window/game_version.cfg:137
 msgid "Cache:"
-msgstr "Cache:"
+msgstr "Vyrovnávací paměť:"
 
 #. [grid]
 #: data/gui/window/game_version.cfg:139
 msgid "Logs:"
-msgstr ""
+msgstr "Protokoly:"
 
 #. [button]: id=open_stderr
 #: data/gui/window/game_version.cfg:164
