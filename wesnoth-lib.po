@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-02 21:07+0300\n"
-"PO-Revision-Date: 2021-03-14 16:14+0100\n"
+"PO-Revision-Date: 2021-05-05 23:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3740,8 +3740,8 @@ msgid ""
 "multiplayer lobby; either by playing sound alerts or (if the game window is "
 "inactive or minimized) displaying desktop notifications."
 msgstr ""
-"Vyber si, jak chceš být upozorněn(a) na události při hrách více hráčů nebo "
-"při čekání na ně. Buď přehráním zvukových výstrah nebo (pokud je okno hry "
+"Vyber si, jak chceš být upozorněn na události při hrách více hráčů nebo při "
+"čekání na ně. Buď přehráním zvukových výstrah nebo (pokud je okno hry "
 "neaktivní či minimalizované) zobrazením oznámení na ploše."
 
 #. [label]
@@ -6595,7 +6595,7 @@ msgstr "soukr. zpr. pro $receiver"
 
 #: src/gui/widgets/chatbox.cpp:386
 msgid "Room <i>“$name”</i> joined"
-msgstr "<i>Vstoupil(a) jsi do místnosti $name</i>"
+msgstr "<i>Vstoupil/a jsi do místnosti $name</i>"
 
 #: src/gui/widgets/chatbox.cpp:392
 msgid ""
@@ -6607,11 +6607,11 @@ msgstr ""
 
 #: src/gui/widgets/chatbox.cpp:631
 msgid "$player has entered the room"
-msgstr "$player vstoupil(a) do místnosti"
+msgstr "$player vstoupil/a do místnosti"
 
 #: src/gui/widgets/chatbox.cpp:673
 msgid "$player has left the room"
-msgstr "$player opustil(a) místnost"
+msgstr "$player opustil/a místnost"
 
 #: src/gui/widgets/helper.cpp:96
 msgid "Mandatory widget '$id' hasn't been defined."

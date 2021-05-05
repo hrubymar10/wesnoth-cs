@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-02 18:08 UTC\n"
-"PO-Revision-Date: 2021-04-26 22:16+0200\n"
+"PO-Revision-Date: 2021-05-06 00:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -458,7 +458,7 @@ msgid ""
 "many villages you currently control). Villages provide the gold needed to "
 "recruit units. Each turn, you gain 2 gold, plus 1 for every village you own."
 msgstr ""
-"Zabral(a) jsi vesnici! Teď tam vlají tvé barvy a byla přidána k celkovému "
+"Zabral/a jsi vesnici! Teď tam vlají tvé barvy a byla přidána k celkovému "
 "počtu tvých vesnic (obrázek domečku na vrchu obrazovky ukazuje, kolik vesnic "
 "nyní ovládáš). Vesnice poskytují zlato potřebné pro verbování jednotek. "
 "Každé kolo získáš 2 zlaté a k tomu 1 zlatý za každou vesnici, kterou "
@@ -472,10 +472,10 @@ msgid ""
 "whichever is less. In your case, you regained $student_hp_heal_amount "
 "hitpoints."
 msgstr ""
-"Jelikož jsi začal(a) své kolo ve vesnici, znovu jsi získal(a) nějaké zdraví! "
+"Jelikož jsi začal/a své kolo ve vesnici, znovu jsi získal/a nějaké zdraví! "
 "Vesnice každé kolo vyléčí jednotky o 8 bodů života nebo o to, co jim zbývá "
 "do úplného uzdravení, cokoli z toho je menší. V tvém případě jsi znovu "
-"získal(a) $student_hp_heal_amount bodů života."
+"získal/a $student_hp_heal_amount bodů života."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:701
@@ -500,8 +500,8 @@ msgid ""
 "have plenty of gold for that."
 msgstr ""
 "Skvělý nápad! Asi bude nejlepší nepokoušet se v tomto kole panáka napadnout. "
-"Místo toho by ses měl(a) vrátit do tvrze a naverbovat dvě jednotky; máš na "
-"to spoustu zlata."
+"Místo toho by ses měl/a vrátit do tvrze a naverbovat dvě jednotky; máš na to "
+"spoustu zlata."
 
 #. [label]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:717
@@ -589,7 +589,7 @@ msgid ""
 "Before you send your fighters against the quintain, you should know they "
 "have two kinds of attack..."
 msgstr ""
-"Předtím, než vyšleš své bojovníky proti panákovi, bys měl(a) vědět, že mají "
+"Předtím, než vyšleš své bojovníky proti panákovi, bys měl/a vědět, že mají "
 "dva druhy útoku..."
 
 #. [message]: speaker=student
@@ -1086,10 +1086,9 @@ msgid ""
 "carefully, though; if a unit has too little experience, it might be better "
 "to recruit a new one."
 msgstr ""
-"Vidím, že máš ze svého tréninku zkušené oddíly! Měl(a) bys je <i>povolat</"
-"i>, abys začal(a) bitvu se zkušenějšími jednotkami. Ačkoli, důkladně to "
-"rozmysli; jestliže má jednotka příliš málo zkušeností, může být lepší "
-"naverbovat novou."
+"Vidím, že máš ze svého tréninku zkušené oddíly! Měl/a bys je <i>povolat</i>, "
+"abys začal/a bitvu se zkušenějšími jednotkami. Ačkoli, důkladně to rozmysli; "
+"jestliže má jednotka příliš málo zkušeností, může být lepší naverbovat novou."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:270
@@ -1098,7 +1097,7 @@ msgid ""
 "formidable, so you should recall them as well."
 msgstr ""
 "Některé tvé jednotky také dokázaly povýšit o úroveň. Ty vzbuzují ještě větší "
-"respekt, takže bys je měl(a) také povolat."
+"respekt, takže bys je měl/a také povolat."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:285
@@ -1133,8 +1132,8 @@ msgstr ""
 "své ostřílené veterány z předchozích scénářů za cenu 20 zlatých za každého. "
 "To ti v průběhu mnoha scénářů umožní vybudovat hrozivé vojsko povoláváním "
 "oddílů na nejvyšších úrovních nebo těch s dobrými kombinacemi vlastností "
-"a schopností. Abys povolal(a) jednotku, klikni pravým tlačítkem, zatímco "
-"tvůj velitel stojí v tvrzi, a vyber možnost <i>Přivolat</i>. Nezapomeň krom "
+"a schopností. Abys povolal/a jednotku, klikni pravým tlačítkem, zatímco tvůj "
+"velitel stojí v tvrzi, a vyber možnost <i>Přivolat</i>. Nezapomeň krom "
 "povolávání bývalých oddílů také naverbovat nové."
 
 #. [message]: speaker=Galdrad
@@ -1352,7 +1351,7 @@ msgstr "Ještě musíš obsadit vesnici!"
 msgid ""
 "You forgot to recruit troops! You can press <b>u</b> to undo your last move."
 msgstr ""
-"Zapomněl(a) jsi naverbovat oddíly! Můžeš stisknout <b>u</b>, abys vrátil(a) "
+"Zapomněl/a jsi naverbovat oddíly! Můžeš stisknout <b>u</b>, abys vrátil/a "
 "svůj poslední tah."
 
 #. [disallow_end_turn]
@@ -1413,8 +1412,8 @@ msgid ""
 "You forgot to capture a village! You can press <b>u</b> to undo your last "
 "move."
 msgstr ""
-"Zapomněl(a) jsi obsadit vesnici! Můžeš stisknout <b>u</b>, abys vrátil(a) "
-"svůj poslední tah."
+"Zapomněl/a jsi obsadit vesnici! Můžeš stisknout <b>u</b>, abys vrátil/a svůj "
+"poslední tah."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:587
@@ -1506,8 +1505,8 @@ msgstr ""
 "lučištníci by jej mohli zaměstnat, aniž by moc riskovali. Smůla je, že se "
 "tvoji lučištníci v tomto kole k němu nemůžou dostat, ale ty bys je neměl "
 "nechat hnít! Přesuň je na takové místo, aby mohli zaútočit příští kolo. Na "
-"této straně řeky jsou také další vesnice. Měl(a) bys je zajistit kvůli "
-"příjmu a léčení."
+"této straně řeky jsou také další vesnice. Měl/a bys je zajistit kvůli příjmu "
+"a léčení."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:622
@@ -1660,7 +1659,7 @@ msgid ""
 "move everyone closer for next turn."
 msgstr ""
 "Doufám, že přežiju protiútok, když mé jednotky nebudou moci v tomto kole "
-"sejmout toho pěšáka. Pokud mohou zabrat další vesnice, měl(a) bych jim to "
+"sejmout toho pěšáka. Pokud mohou zabrat další vesnice, měl/a bych jim to "
 "nařídit a před dalším kolem přesunout všechny blíž."
 
 #. [message]: speaker=Galdrad
@@ -1680,7 +1679,7 @@ msgid ""
 "closer for next turn."
 msgstr ""
 "Doufám, že moje jednotky přežijí protiútok, když v tomhle kole nebudu moct "
-"sejmout toho pěšáka. Pokud to jde, raději bych měl(a) obsadit víc vesnic "
+"sejmout toho pěšáka. Pokud to jde, raději bych měl/a obsadit víc vesnic "
 "a před dalším kolem přesunout všechny blíž."
 
 #. [message]: speaker=Galdrad
@@ -1728,7 +1727,7 @@ msgid ""
 "without wading through the water, and you will be securely on a terrain with "
 "good defense."
 msgstr ""
-"Bravo! Vesnice na ostrově je naše. Můžeš použít stromy, abys vytvořil(a) "
+"Bravo! Vesnice na ostrově je naše. Můžeš použít stromy, abys vytvořil/a "
 "blokádu proti skřetům; bez brodění vodou mohou pouze přicházet přes most "
 "jeden za druhým a ty budeš bezpečně v terénu s dobrou obranou."
 
@@ -1803,7 +1802,7 @@ msgstr ""
 "Jak míjejí kola, tak se během scénáře mění denní doba. Jednotka může mít "
 "jednu ze čtyř <i>příslušností</i>: zákonnou, neutrální, chaotickou nebo "
 "šerou. Každá příslušnost má v závislosti na denní době různou odměnu nebo "
-"postih. Abys viděl(a), jaká je denní doba a kdo má výhodu, přejeď myší přes "
+"postih. Abys viděl/a, jaká je denní doba a kdo má výhodu, přejeď myší přes "
 "obrázek oblohy napravo pod minimapou."
 
 #. [then]
@@ -1849,10 +1848,10 @@ msgid ""
 "accident later on. When <b>n</b> no longer selects a new unit, it’s safe to "
 "end your turn."
 msgstr ""
-"Můžeš se ujistit, že jsi v tomto tahu využil(a) všechny své jednotky: "
-"zmáčkni <b>n</b> pro přepnutí na další jednotku, <b>mezerník</b> pokud chceš "
-"ukončit tah této jednotky, což zabraňuje nežádoucímu pohybu do konce kola. "
-"Když už <b>n</b> nevybírá další jednotku, můžeš své kolo bez obav ukončit."
+"Můžeš se ujistit, že jsi v tomto tahu využil/a všechny své jednotky: zmáčkni "
+"<b>n</b> pro přepnutí na další jednotku, <b>mezerník</b> pokud chceš ukončit "
+"tah této jednotky, což zabraňuje nežádoucímu pohybu do konce kola. Když už "
+"<b>n</b> nevybírá další jednotku, můžeš své kolo bez obav ukončit."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1010
@@ -2275,7 +2274,7 @@ msgid ""
 "Don’t forget, you can press <b>u</b> to undo most things if you make a "
 "mistake."
 msgstr ""
-"Pamatuj, pokud jsi udělal(a) chybu, můžeš pro vrácení většiny akcí stisknout "
+"Pamatuj, pokud jsi udělal/a chybu, můžeš pro vrácení většiny akcí stisknout "
 "<b>u</b>."
 
 #: data/campaigns/tutorial/utils/utils.cfg:126

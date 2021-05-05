@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-02 21:08+0300\n"
-"PO-Revision-Date: 2021-04-20 22:50+0200\n"
+"PO-Revision-Date: 2021-05-05 23:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4439,7 +4439,7 @@ msgid ""
 msgstr ""
 "Jednotky s vlastností <i>inteligentní</i> potřebují k povýšení méně "
 "zkušeností. Na začátku tažení se pokus přenechat jim dobíjení nepřátel, abys "
-"získal(a) co nejdříve jednotky vyšších úrovní."
+"získal co nejdříve jednotky vyšších úrovní."
 
 #. [tip]
 #: data/tips.cfg:25
@@ -5611,7 +5611,7 @@ msgstr ""
 
 #: src/chat_command_handler.cpp:111
 msgid "Added to ignore list: $nick"
-msgstr "Přidán(a) do seznamu otrapů: $nick"
+msgstr "Přidán/a do seznamu otrapů: $nick"
 
 #: src/chat_command_handler.cpp:111
 msgid "ignores list"
@@ -7574,7 +7574,7 @@ msgstr "Hra začala!"
 
 #: src/mp_ui_alerts.cpp:186
 msgid "$name has taken control"
-msgstr "$name převzal(a) kontrolu"
+msgstr "$name převzal/a kontrolu"
 
 # když se změní vlastník strany nebo tak něco
 #: src/mp_ui_alerts.cpp:186
@@ -7718,7 +7718,7 @@ msgid ""
 "$player who controlled side $side_drop has left the game. What do you want "
 "to do?"
 msgstr ""
-"$player, který kontroloval stranu $side_drop opustil(a) hru. Co s tím chceš "
+"$player, který kontroloval stranu $side_drop, opustil hru. Co s tím chceš "
 "dělat?"
 
 #: src/quit_confirmation.cpp:59
