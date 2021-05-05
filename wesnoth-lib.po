@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-17 22:21-0400\n"
-"PO-Revision-Date: 2021-05-04 22:53+0200\n"
+"PO-Revision-Date: 2021-05-05 23:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4003,8 +4003,8 @@ msgid ""
 "multiplayer lobby; either by playing sound alerts or (if the game window is "
 "inactive or minimized) displaying desktop notifications."
 msgstr ""
-"Vyber si, jak chceš být upozorněn(a) na události při hrách více hráčů nebo "
-"při čekání na ně. Buď přehráním zvukových výstrah nebo (pokud je okno hry "
+"Vyber si, jak chceš být upozorněn na události při hrách více hráčů nebo při "
+"čekání na ně. Buď přehráním zvukových výstrah nebo (pokud je okno hry "
 "neaktivní či minimalizované) zobrazením oznámení na ploše."
 
 #. [widget]: id=label
@@ -5153,7 +5153,7 @@ msgstr "Odstraň toto uživatelské jméno z tvého seznamu"
 #. [label]: id=no_friends_notice
 #: data/gui/window/preferences/05_multiplayer.cfg:311
 msgid "You have not befriended or blocked any other players."
-msgstr "Nespřátelil(a) ses s dalšími hráči ani jsi žádné nezablokoval(a)."
+msgstr "Nespřátelil ses s dalšími hráči ani jsi žádné nezablokoval."
 
 #. [button]: id=open
 #: data/gui/window/screenshot_notification.cfg:49
@@ -6945,11 +6945,11 @@ msgstr ""
 
 #: src/gui/widgets/chatbox.cpp:633
 msgid "$player has entered the room"
-msgstr "$player vstoupil(a) do místnosti"
+msgstr "$player vstoupil/a do místnosti"
 
 #: src/gui/widgets/chatbox.cpp:675
 msgid "$player has left the room"
-msgstr "$player opustil(a) místnost"
+msgstr "$player opustil/a místnost"
 
 #: src/gui/widgets/helper.cpp:96
 msgid "Mandatory widget '$id' hasn't been defined."

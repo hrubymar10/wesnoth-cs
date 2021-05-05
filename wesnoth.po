@@ -18,15 +18,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-17 22:21-0400\n"
-"PO-Revision-Date: 2021-05-03 15:57+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2021-05-05 23:46+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.3\n"
 
 #. [multiplayer_side]: id=Custom
 #: data/_main.cfg:22
@@ -4489,7 +4488,7 @@ msgid ""
 msgstr ""
 "Jednotky s vlastností <i>inteligentní</i> potřebují k povýšení méně "
 "zkušeností. Na začátku tažení se pokus přenechat jim dobíjení nepřátel, abys "
-"získal(a) co nejdříve jednotky vyšších úrovní."
+"získal co nejdříve jednotky vyšších úrovní."
 
 #. [tip]
 #: data/tips.cfg:25
@@ -5832,7 +5831,7 @@ msgstr "Blíže neurčené selhání ověření."
 
 #: src/chat_command_handler.cpp:112
 msgid "Added to ignore list: $nick"
-msgstr "Přidán(a) do seznamu otrapů: $nick"
+msgstr "Přidán/a do seznamu otrapů: $nick"
 
 #: src/chat_command_handler.cpp:112
 msgid "ignores list"
@@ -7682,7 +7681,7 @@ msgstr "Hra začala!"
 
 #: src/mp_ui_alerts.cpp:186
 msgid "$name has taken control"
-msgstr "$name převzal(a) kontrolu"
+msgstr "$name převzal/a kontrolu"
 
 # když se změní vlastník strany nebo tak něco
 #: src/mp_ui_alerts.cpp:186
@@ -7826,7 +7825,7 @@ msgid ""
 "$player who controlled side $side_drop has left the game. What do you want "
 "to do?"
 msgstr ""
-"$player, který kontroloval stranu $side_drop opustil(a) hru. Co s tím chceš "
+"$player, který kontroloval stranu $side_drop, opustil hru. Co s tím chceš "
 "dělat?"
 
 #: src/quit_confirmation.cpp:55
@@ -8220,7 +8219,7 @@ msgstr ""
 "nemusí pracovat.\n"
 "\n"
 "<b>Varování:</b> hry uložené uprostřed tažení jsou zvláště náchylné "
-"k selhání a ty bys měl(a) buď použít starší verzi, nebo tažení začít znovu. "
+"k selhání a ty bys měl buď použít starší verzi, nebo tažení začít znovu. "
 "I když to vypadá, že se uložená hra v pořádku načetla, může být poznamenána "
 "v sotva patrných ohledech, jakými jsou vyvážená hratelnost a posloupnost "
 "příběhu. Obtížnost, výzva, <i>zábava</i>, ty mohou chybět.\n"
