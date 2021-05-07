@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-03-20 22:03-0300\n"
-"PO-Revision-Date: 2021-04-03 11:48+0200\n"
+"PO-Revision-Date: 2021-05-07 21:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -662,7 +662,7 @@ msgstr "B<--nocache>"
 #. type: Plain text
 #: doc/man/wesnoth.6:220
 msgid "disables caching of game data."
-msgstr "vypne ukládání herních dat do vyrovnávací paměti."
+msgstr "vypne ukládání herních dat do mezipaměti."
 
 # type: TP
 #. type: TP
@@ -1227,7 +1227,7 @@ msgstr "B<--validcache>"
 #. type: Plain text
 #: doc/man/wesnoth.6:415
 msgid "assumes that the cache is valid. (dangerous)"
-msgstr "předpokládá, že vyrovnávací paměť je platná. (nebezpečné)"
+msgstr "předpokládá, že mezipaměť je platná. (nebezpečné)"
 
 # type: TP
 #. type: TP
