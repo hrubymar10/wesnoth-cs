@@ -15,7 +15,4 @@ If you stumble upon any such bug, please report it as an [issue](https://github.
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
 
 ## wesnoth-announcement
-`wesnoth-announcement.po` originate from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
-
-## wesnoth-steam
-`wesnoth-steam.po` originate from https://github.com/wesnoth/steam-meta/blob/master/po/cs.po
+`wesnoth-announcement.po` originates from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
