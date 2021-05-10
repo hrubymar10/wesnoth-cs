@@ -6,15 +6,15 @@
 #
 # Czech Wesnoth translation team
 #
-# Martin Hrubý <hrubymar10@gmail.com>, 2019.
+# Martin Hrubý <hrubymar10@gmail.com>, 2018 - 2019.
 # Michal Žejdl <lachim@emer.cz>, 2020 - 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-04-21 15:43-0300\n"
-"PO-Revision-Date: 2020-11-15 16:51+0100\n"
+"POT-Creation-Date: 2019-03-12 13:58-0300\n"
+"PO-Revision-Date: 2021-05-10 23:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -134,14 +134,14 @@ msgstr "Windows 10\n"
 #. type: Plain text
 #: app_metadata.txt:47
 #, no-wrap
-msgid "Ubuntu 18.04 or compatible\n"
-msgstr "Ubuntu 18.04 nebo kompatibilní\n"
+msgid "macOS 10.10 or later\n"
+msgstr "macOS 10.10 nebo novější\n"
 
 #. type: Plain text
 #: app_metadata.txt:49
 #, no-wrap
-msgid "macOS 10.10 or later\n"
-msgstr "macOS 10.10 nebo novější\n"
+msgid "Ubuntu 18.04 or compatible\n"
+msgstr "Ubuntu 18.04 nebo kompatibilní\n"
 
 #. type: Plain text
 #: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57
