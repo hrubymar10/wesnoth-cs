@@ -18,8 +18,5 @@ ETA: **2021-05-13**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
-## wesnoth-announcement
-`wesnoth-announcement.po` originates from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
-
 ## wesnoth-steam
 `wesnoth-steam.po` originates from https://github.com/wesnoth/steam-meta/blob/master/po/cs.po
