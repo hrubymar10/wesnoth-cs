@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-01 17:47-0300\n"
-"PO-Revision-Date: 2021-05-13 23:16+0200\n"
+"PO-Revision-Date: 2021-05-15 08:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -54,6 +54,8 @@ msgid ""
 "<i>May 2018.</i> The development team is proud to present version 1.14 of "
 "<cite><a href=\"/\">The&nbsp;Battle&nbsp;for&nbsp;Wesnoth</a></cite>!"
 msgstr ""
+"<i>Květen 2018.</i> Vývojový tým s hrdostí uvádí verzi 1.14 hry <cite><a "
+"href=\"/\">Bitva&nbsp;o&nbsp;Wesnoth</a></cite>!"
 
 #. type: Content of: <html><body><div><div><div><p>
 #: template.html:34
@@ -65,6 +67,12 @@ msgid ""
 "animations, and much more. Try out the new features for yourself, or <a href="
 "\"#game\">read on</a> for more details..."
 msgstr ""
+"Spolu s dlouho očekávaným uvedením na Steam přináší vydání této řady ohromný "
+"počet přídavků a změn ve všech oblastech: nové tažení pro jednoho hráče, "
+"vizuální a praktická oživení čekárny pro hru více hráčů a správce rozšíření, "
+"renovovaný zobrazovací engine, novou grafiku a animace jednotek a mnoho "
+"dalšího. Vyzkoušejte si nové prvky sami nebo <a href=\"#game\">si přečtěte</"
+"a> další podrobnosti..."
 
 #. type: Content of: <html><body><div><div><div>
 #: template.html:38
@@ -77,11 +85,18 @@ msgid ""
 "hidden=\"true\"></span> <span class=\"download-big\">Get on Steam!</span> </"
 "span> </a>"
 msgstr ""
+"<a class=\"download-button\" role=\"button\" href=\"#download\"> <span class="
+"\"download-arrow\" aria-hidden=\"true\"></span> <span class=\"download-text"
+"\"> <span class=\"download-big\">Hned stáhnout!</span> </span> </a> <a class="
+"\"steam-button\" role=\"button\" href=\"https://store.steampowered.com/"
+"app/599390\"> <span class=\"download-text\"> <span class=\"steam-icon\" aria-"
+"hidden=\"true\"></span> <span class=\"download-big\">Mít na Steamu!</span> </"
+"span> </a>"
 
 #. type: Content of: <html><body><div><div><h2>
 #: template.html:58
 msgid "What’s New in This Update"
-msgstr "Co je nového v této aktualizaci"
+msgstr "Co je v této aktualizaci nového"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:60
