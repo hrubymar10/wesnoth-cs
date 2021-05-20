@@ -11,17 +11,16 @@ Domain | Messages | Translated | Remaining
 wesnoth-help | 657 | 99 % | 4
 wesnoth-httt | 1220 | 99 % | 4
 wesnoth-l | 426 | 99 % | 1
-wesnoth-lib | 1446 | 98 % | 15
 wesnoth-multiplayer | 283 | 97 % | 6
 wesnoth-units | 727 | 97 % | 19
 wesnoth-utbs | 1927 | 99 % | 1
 wesnoth-wc | 459 | 91 % | 40
 
-Total messages remaining: **90**
+Total messages remaining: **75**
 
 Progress since 2020-08-28: **10** messages per day
 
-ETA: **2021-05-26**
+ETA: **2021-05-27**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
