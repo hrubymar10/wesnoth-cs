@@ -8053,18 +8053,3 @@ msgid ""
 msgstr ""
 "Klíč '$deprecated_key' byl přejmenován na '$key' a ve verzi $removal_version "
 "bude odstraněna podpora původního tvaru."
-
-#~ msgid "Line doesn't fit on canvas."
-#~ msgstr "Čára se nevejde na plátno."
-
-#~ msgid "Rectangle doesn't fit on canvas."
-#~ msgstr "Obdélník se nevejde na plátno."
-
-#~ msgid "Rounded Rectangle doesn't fit on canvas."
-#~ msgstr "Zaoblený obdélník se nevejde na plátno."
-
-#~ msgid "Circle doesn't fit on canvas."
-#~ msgstr "Kruh se nevejde na plátno."
-
-#~ msgid "Text doesn't start on canvas."
-#~ msgstr "Text nezačíná na plátně."
