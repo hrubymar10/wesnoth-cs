@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-16 02:01 UTC\n"
-"PO-Revision-Date: 2021-03-14 16:17+0100\n"
+"PO-Revision-Date: 2021-05-23 06:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -47,7 +47,7 @@ msgstr "Základní"
 msgid ""
 "The standard era for Wesnoth multiplayer. Consists of six factions and is "
 "generally balanced."
-msgstr "Běžný věk pro hru více hráčů. Obsahuje šest ras a je velmi vyrovnaný."
+msgstr "Běžný věk pro hru více hráčů. Obsahuje šest ras a je celkem vyvážený."
 
 #. [era]: id=era_heroes
 #: data/multiplayer/eras.cfg:75
@@ -62,8 +62,8 @@ msgid ""
 "balanced."
 msgstr ""
 "Věk obsahující jednotky na vyšších úrovních: velitele na třetí úrovni "
-"schopné verbovat jednotky na první i druhé úrovni. Sestává ze šesti frakcí. "
-"Nepokládá se za vyrovnaný."
+"schopné verbovat jednotky na první i druhé úrovni. Sestává ze šesti frakcí. "
+"Nepokládá se za vyvážený."
 
 #. [era]: id=era_dunefolk
 #: data/multiplayer/eras.cfg:83
@@ -80,12 +80,12 @@ msgid ""
 "This era is still under development, so please be sure to report any "
 "problems that arise."
 msgstr ""
-"Věk, který kromě šesti základních ras, obsahuje některé navíc. Jednotky "
-"pouštního lidu spoléhají na precizní využití povrchu a koordinované údery za "
+"Věk, který kromě šesti ras základního věku obsahuje jednu navíc. Jednotky "
+"pouštního lidu spoléhají na precizní využití terénu a koordinované údery za "
 "svítání nebo soumraku.\n"
 "\n"
-"Tento věk je stále ve vývoji, takže buďte prosím tolerantní a všechny "
-"nalezené problémy hlašte."
+"Tento věk je stále ve vývoji, takže prosím určitě nahlaste jakékoli "
+"problémy, které nastanou."
 
 #. [era]: id=era_dunefolk_heroes
 #: data/multiplayer/eras.cfg:94
@@ -102,12 +102,12 @@ msgid ""
 "This era is still under development, so please be sure to report any "
 "problems that arise."
 msgstr ""
-"Věk, který kromě šesti základních ras, obsahuje navíc některé rasy z Věku "
-"hrdinů. Jednotky pouštního lidu spoléhají na precizní využití povrchu "
-"a koordinované údery za svítání nebo soumraku.\n"
+"Věk, který kromě šesti ras věku hrdinů obsahuje jednu navíc. Jednotky "
+"pouštního lidu spoléhají na precizní využití terénu a koordinované údery za "
+"svítání nebo soumraku.\n"
 "\n"
-"Tento věk je stále ve vývoji, takže buďte prosím tolerantní a všechny "
-"nalezené problémy hlašte."
+"Tento věk je stále ve vývoji, takže prosím určitě nahlaste jakékoli "
+"problémy, které nastanou."
 
 #. [lua]: f
 #: data/multiplayer/eras.lua:62
