@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-16 02:01 UTC\n"
-"PO-Revision-Date: 2021-05-23 06:55+0200\n"
+"PO-Revision-Date: 2021-05-23 09:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -131,12 +131,12 @@ msgstr "Celkový součet: <b>%d</b>"
 #. [lua]: f
 #: data/multiplayer/eras.lua:93
 msgid "Sides %s and %d are tied."
-msgstr "Strany %s a %d jsou vyrovnané."
+msgstr "Strany %s a %d skončily nerozhodně."
 
 #. [lua]: f
 #: data/multiplayer/eras.lua:95
 msgid "<span foreground='%s'>Side %d</span> has the advantage."
-msgstr "<span foreground='%s'>Strana %d</span> má výhodu."
+msgstr "<span foreground='%s'>Strana %d</span> vyhrála."
 
 #. [multiplayer_side]: id=Drakes, type=random
 #: data/multiplayer/factions/drakes-aoh.cfg:4
