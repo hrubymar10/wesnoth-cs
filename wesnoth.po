@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-15 22:06-0400\n"
-"PO-Revision-Date: 2021-05-08 07:27+0200\n"
+"PO-Revision-Date: 2021-05-25 21:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6964,7 +6964,7 @@ msgstr "Plánovací mód byl ukončen!"
 
 #: src/language.cpp:104
 msgid "System default language"
-msgstr "Implicitní jazyk"
+msgstr "Výchozí jazyk systému"
 
 #: src/map/location.cpp:165
 msgid "North"
