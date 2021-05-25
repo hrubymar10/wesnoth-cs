@@ -9,11 +9,10 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 Domain | Messages | Translated | Remaining
 ------ | -------- | ---------- | ---------
 wesnoth-manpages | 301 | 99 % | 2
-wesnoth-manual | 557 | 99 % | 1
 
-Total messages remaining: **3**
+Total messages remaining: **2**
 
-I see no progress.
+The speed is lower than one message per day.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
 
