@@ -15,7 +15,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "POT-Creation-Date: 2021-02-20 18:40-0300\n"
-"PO-Revision-Date: 2021-05-05 23:34+0200\n"
+"PO-Revision-Date: 2021-05-25 20:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -410,9 +410,10 @@ msgid ""
 "defaults to English or your system locale if that can be determined, but "
 "once you change it, it will start in that language."
 msgstr ""
-"Po kliknutí na toto tlačítko můžete změnit jazyk hry vybráním ze seznamu a "
-"potvrzením tlačítkem Ok. Při prvním spuštění se Wesnoth pokusí určit "
-"nastavený jazyk Vašeho počítače; pokud neuspěje, zvolí angličtinu."
+"Klikni na toto tlačítko, vyber si svůj jazyk a klikni OK pro použití nebo "
+"Zrušit, abys pokračoval se současným jazykem. Při prvním spuštění je výchozí "
+"angličtina nebo národní prostředí tvého systému, pokud může být zjištěno, "
+"ale jakmile to změníš, bude Wesnoth startovat s tímto jazykem."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:201
@@ -427,7 +428,7 @@ msgstr "Po kliknutí sem můžeš změnit nastavení hry."
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:211
 msgid "Credits"
-msgstr "Kdo se na hře podílel"
+msgstr "Poděkování"
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><listitem><simpara>
 #: doc/manual/manual.en.xml:215
