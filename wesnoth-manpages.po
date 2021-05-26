@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-22 22:18-0400\n"
-"PO-Revision-Date: 2021-05-15 07:50+0200\n"
+"PO-Revision-Date: 2021-05-26 21:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -36,7 +36,7 @@ msgstr "WESNOTH"
 #: doc/man/wesnoth.6:16 doc/man/wesnothd.6:16
 #, no-wrap
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 #. type: TH
 #: doc/man/wesnoth.6:16
@@ -1441,12 +1441,9 @@ msgstr "COPYRIGHT"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:495 doc/man/wesnothd.6:296
-#, fuzzy
-#| msgid ""
-#| "Copyright \\(co 2003-2018 David White E<lt>davidnwhite@verizon.netE<gt>"
 msgid "Copyright \\(co 2003-2021 David White E<lt>davidnwhite@verizon.netE<gt>"
 msgstr ""
-"Copyright \\(co 2003-2018 David White E<lt>davidnwhite@verizon.netE<gt>"
+"Copyright \\(co 2003-2021 David White E<lt>davidnwhite@verizon.netE<gt>"
 
 # type: Plain text
 #. type: Plain text
