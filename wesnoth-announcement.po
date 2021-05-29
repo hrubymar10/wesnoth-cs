@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-01 17:47-0300\n"
-"PO-Revision-Date: 2021-05-28 22:54+0200\n"
+"PO-Revision-Date: 2021-05-29 08:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -259,7 +259,7 @@ msgstr "<a href=\"images/start-3.jpg\">"
 #. type: Attribute 'alt' of: <html><body><div><div><div><a><img>
 #: template.html:82
 msgid "Campaigns menu screenshot"
-msgstr ""
+msgstr "Snímek obrazovky výběru tažení"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:84
@@ -270,6 +270,10 @@ msgid ""
 "secrets of the ancient lich-lords of the Green Isle in her search for "
 "immortality."
 msgstr ""
+"Sestava hlavních tažení mezi sebou vítá přírůstek v podobě <cite>Tajemství "
+"předků</cite>, tažení vytvořené hráčem, které vám přináší autor <cite>Moře "
+"mrtvých</cite>! Následujte Ardonnu z Tarrynthu, jak při svém hledání "
+"nesmrtelnosti odhaluje tajemství prastarých lordů lichů ze Zeleného ostrova."
 
 #. type: Content of: <html><body><div><div><div><div><a>
 #: template.html:87
@@ -286,6 +290,13 @@ msgid ""
 "revamped unit advancement trees with unique stats to further set them apart "
 "from the standard forest elves featured throughout the rest of the game."
 msgstr ""
+"Po letech technických zádrhelů přichází konečně <cite>Pod žhnoucími slunci</"
+"cite> s frakcí pouštních elfů, která je zcela renovovaná pomocí zbrusu "
+"nových obrázků, senzačních nových portrétů od dlouhá léta přispívajícího "
+"výtvarníka <a href=\"https://www.theartysquid.com/\">Emiliena Rotivala</a> "
+"(LordBob) a předělaných stromů postupu jednotek s jedinečnými vlastnostmi, "
+"aby tak byli ještě více odlišeni od běžných lesních elfů, kteří vystupují "
+"v celém zbytku hry."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:92
@@ -296,6 +307,10 @@ msgid ""
 "<cite>Descent into Darkness</cite> received similar treatment with visual "
 "improvements of its own."
 msgstr ""
+"Prvních devět scénářů <cite>Přerodu Severu</cite> má nyní nové a vylepšené "
+"mapy, využívající nové terény a jednodušší, uspořádanější vzhled. Samotné "
+"scénáře byly také vyladěny pro efektivnější hraní. <cite>Pádu do temnoty</"
+"cite> se dostalo obdobné péče jeho vizuálním vylepšením."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:94
@@ -307,6 +322,11 @@ msgid ""
 "position in the timeline of Irdya’s history, as well as the option to sort "
 "them alphabetically should one so desire."
 msgstr ""
+"Díky velkému počtu tažení pro jednoho hráče obsažených ve <cite>Wesnothu</"
+"cite> se stalo obtížnějším vyznat se v časové posloupnosti příběhů tohoto "
+"světa, které tažení vyprávějí. Aby se to vyřešilo, poskytuje teď menu tažení "
+"možnost seřadit je podle jejich umístění na časové ose historie Irdye, jakož "
+"i možnost seřadit je abecedně, pokud si to někdo přeje."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:96
@@ -317,6 +337,11 @@ msgid ""
 "favorable outcomes overcome players, the new Deterministic Mode option will "
 "keep them in check."
 msgstr ""
+"Pro ty, kteří si přejí obohatit svůj herní zážitek pomocí udělátek nebo "
+"výzev vytvořených hráči, je nyní ve hře pro jednoho hráče možné používat "
+"úpravy, stejně jako ve hře více hráčů. A pokud by hráče přemáhalo pokušení "
+"opakovaně nahrávat uložené hry ve snaze dosáhnout příznivějších výsledků, "
+"nová možnost pevně daného režimu je udrží na uzdě."
 
 #. type: Content of: <html><body><div><div><h4>
 #: template.html:98
