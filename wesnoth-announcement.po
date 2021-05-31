@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-01 17:47-0300\n"
-"PO-Revision-Date: 2021-05-30 08:57+0200\n"
+"PO-Revision-Date: 2021-05-31 19:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -431,6 +431,10 @@ msgid ""
 "different color perception to identify each unit’s status. An option "
 "(disabled by default) is also provided to display a color orb on enemy units."
 msgstr ""
+"Nyní je možné přizpůsobit si barvy koulí pro pohyb/útok, které jsou na mapě "
+"zobrazeny vedle jednotek, aby se tak hráčům s různým vnímáním barev "
+"usnadnilo rozpoznání stavu každé jednotky. Je také dána možnost zobrazit "
+"kouli u nepřátelských jednotek (ve výchozím nastavení vypnuto)."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:118
@@ -439,6 +443,9 @@ msgid ""
 "pauses the music by default. If you’d prefer it to keep playing, there is an "
 "option for that."
 msgstr ""
+"Přepnutí z běžícího <cite>Wesnothu</cite> do jiné aplikace teď ve výchozím "
+"nastavení pozastaví hudbu. Pokud dáváte přednost tomu, aby dál hrála, je na "
+"to volba."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:120
@@ -451,6 +458,13 @@ msgid ""
 "libraries the game is built against, and a list of optional features enabled "
 "by the packager."
 msgstr ""
+"Kvůli tomu, aby mohli hráči snadněji uvést podrobnosti o svých systémech, "
+"když hlásí problémy se hrou, bylo přidáno zbrusu nové okno s informacemi "
+"o verzích, které je přístupné z levého dolního rohu hlavního menu. Mezi "
+"informacemi, jež poskytuje, je verze operačního systému, cesty k různým "
+"souborům, které <cite>Wesnoth</cite> používá, čísla verzí programových "
+"knihoven, vůči kterým byla hra sestavena a seznam volitelných prvků, jež "
+"byly povoleny tvůrcem balíčku."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:122
@@ -464,6 +478,15 @@ msgid ""
 "may still be achieved through the use of certain command-line options for "
 "those who prefer to install <cite>Wesnoth</cite> on an external drive."
 msgstr ""
+"Konečně pro hráče ve Windows jsou soubory hry pro nastavení, ukládání "
+"a doplňky vždy umístěné v jejich složce Dokumenty. Tato změna byla udělána "
+"proto, aby se vyhnulo různým problémům spojeným s původním přístupem, kdy se "
+"zapisovalo do systémové složky Program Files, což není v novějších verzích "
+"Windows ani doporučováno, ani dostatečně podporováno. Všimněte si, že "
+"zatímco původní volba o uložení těchto souborů do instalační cesty hry "
+"zmizela, může být pro ty, kteří dávají přednost instalaci <cite>Wesnothu</"
+"cite> na externí úložiště, tohoto chování dosaženo použitím určitých voleb "
+"příkazového řádku."
 
 #. type: Content of: <html><body><div><div><h3>
 #: template.html:124
