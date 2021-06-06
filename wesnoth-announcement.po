@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-01 17:47-0300\n"
-"PO-Revision-Date: 2021-06-05 19:17+0200\n"
+"PO-Revision-Date: 2021-06-06 19:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -243,7 +243,7 @@ msgid ""
 "Finally, the in-game sounds for many units and user interface elements have "
 "been replaced."
 msgstr ""
-"A na závěr, ve hře byly nahrazeny zvuky pro mnoho jednotek a prvků "
+"A na konec, ve hře byly nahrazeny zvuky pro mnoho jednotek a prvků "
 "uživatelského rozhraní."
 
 #. type: Content of: <html><body><div><div><h4>
@@ -608,6 +608,11 @@ msgid ""
 "underlying syntax more lightweight compared to the old <code>{FOREACH}</"
 "code> macro and hand-written alternatives."
 msgstr ""
+"Konstrukce cyklu WML jsou nyní přirozenější a přizpůsobitelnější díky "
+"přidání značek <a href=\"https://wiki.wesnoth.org/"
+"ConditionalActionsWML#.5Bfor.5D\"><code>[for]</code> a <code>[foreach]</"
+"code></a>, což v porovnání se starým makrem <code>{FOREACH}</code> a ručně "
+"psanými alternativami odlehčuje základní syntaxi."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:140
@@ -622,6 +627,16 @@ msgid ""
 "href=\"https://wiki.wesnoth.org/Micro_AIs\">MicroAI presets</a> were added. "
 "The sneaky assassin preset is perfect for picking off pesky enemies!"
 msgstr ""
+"Po několika vývojových cyklech, které do engine UI přidaly nové a nebo "
+"pokusné prvky, bylo provedeno dlouho odkládané čištění se snahou o nové "
+"uspořádání. Spolu s tím bylo opraveno mnoho významných chyb, jako třeba "
+"nesrovnalosti při zacházení se skrytými jednotkami, mlhou a zahalením tmou "
+"a problém s verbováním, když měla UI také k dispozici povolávací seznam. "
+"Celkově teď mají autoři rozšíření nad UI větší kontrolu než kdy jindy. "
+"Nejrůznější nastavení a parametry mohou být uzpůsobeny mnohem snadněji "
+"a bylo přidáno několik dalších <a href=\"https://wiki.wesnoth.org/Micro_AIs"
+"\">předvoleb Mikro UI</a>. Pro odstraňování otravných nepřátel je ideální "
+"předvolba záludného vraha!"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:142
@@ -632,6 +647,11 @@ msgid ""
 "code> tag to implement hidden modifications that can be explicitly requested "
 "by add-ons instead of manually selected by players."
 msgstr ""
+"Jak už bylo zmíněno, <a href=\"https://wiki.wesnoth.org/ModificationWML"
+"\">úpravy hry</a> teď mohou být použity v kampaních pro jednoho i více "
+"hráčů. Jejich syntaxe také dostala značku <code>[resource]</code>, aby šlo "
+"zavést skryté úpravy, které mohou být požadovány přímo rozšířeními, namísto "
+"toho, aby je hráči vybírali ručně."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:144
@@ -640,6 +660,10 @@ msgid ""
 "well, enabling easier access to the game’s files and installed add-ons, as "
 "well as any other location via quick-access bookmarks."
 msgstr ""
+"Také byla úplně předělána dialogová okna editoru map Načíst mapu "
+"a Uložit ... jako, která teď díky záložkám rychlého přístupu umožňují snáze "
+"se dostat k souborům hry a instalovaným rozšířením, stejně jako k jakýmkoli "
+"jiným umístěním."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:146
@@ -655,6 +679,17 @@ msgid ""
 "convenient reference. Finally, access to the current session’s log is "
 "possible from the aforementioned version information dialog."
 msgstr ""
+"A na závěr, tvůrcům obsahu, kteří spouští hru na Windows, může přijít "
+"užitečný zástupce <i>\"Battle for Wesnoth (with console)\"</i>. Včetně nové "
+"volby příkazového řádku <code>--wconsole</code>, která zapíná zobrazování "
+"zpráv protokolu ve standardní konzoli Windows namísto toho, aby byly "
+"zapisovány do souboru. Pokud je upřednostňováno obvyklé uchovávání trvalých "
+"záznamů, zlepšili jsme také způsob, jakým jsou uloženy na zařízení. Soubory "
+"se záznamy jsou nyní ukládány do složky <code>logs</code> v cestě souborů "
+"hráče a záznamy z až osmi posledních sezení jsou pro praktické nahlížení "
+"uchovávány v samostatných souborech s časovými razítky. Konečně, přístup "
+"k záznamům stávajícího sezení je možný z výše zmíněného okna s informacemi "
+"o verzích."
 
 #. type: Content of: <html><body><div><div><h2>
 #: template.html:148
