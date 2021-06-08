@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-05-01 17:47-0300\n"
-"PO-Revision-Date: 2021-06-08 01:18+0200\n"
+"PO-Revision-Date: 2021-06-08 02:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -716,10 +716,10 @@ msgstr ""
 "href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licencí Creative "
 "Commons Uveďte původ – Zachovejte licenci</a> (CC BY-SA) verze 4.0. Zdrojový "
 "kód je k dispozici jako <a href=\"https://github.com/wesnoth/wesnoth"
-"\">GitHub</a> repozitář a v naší wiki můžete najít pokyny pro <a href="
+"\">GitHub</a> repozitář a v naší wiki můžete najít pokyny pro <a href="
 "\"https://wiki.wesnoth.org/CompilingWesnoth\">sestavení ze zdrojových kódů</"
 "a> na řadě různých operačních systémů. Balíčky připravené k instalaci jsou "
-"dostupné pro Microsoft Windows, Apple macOS, and GNU/Linux."
+"k dispozici pro Microsoft Windows, Apple macOS, and GNU/Linux."
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:153
@@ -791,7 +791,7 @@ msgid ""
 msgstr ""
 "Můžete se podívat na <a href=\"https://wiki.wesnoth.org/Download\">stránku "
 "stahování</a>, kde jsou nejnovější balíčky a pokyny včetně těch pro jiné "
-"platformy, když budou dostupné."
+"platformy, když budou k mání."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:162
@@ -807,7 +807,7 @@ msgstr ""
 #. type: Content of: <html><body><div><div><h2>
 #: template.html:164
 msgid "Contribute"
-msgstr "Přispět"
+msgstr "Přispějte"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:166
@@ -821,6 +821,14 @@ msgid ""
 "scenario or adding a feature to your custom maps, <cite>Wesnoth</cite> "
 "boasts a massive community of players and creators always willing to help."
 msgstr ""
+"<cite>Bitva o Wesnoth</cite> je neustále vylepšována a rozšiřována velkým "
+"množstvím dobrovolníků z celého světa pocházejících z různých prostředí. Od "
+"jejího uvedení v červenci 2003 přispěly stovky lidí do všech oblastí hry od "
+"hlavního obsahu, který je dodáván jako součást oficiálních vydání, až po "
+"stovky projektů vytvořených hráči, jež jsou dostupné ke stažení na našem "
+"serveru s rozšířeními. Ať už potřebujete pomoci pokořit určitý scénář, nebo "
+"přidat nějaký prvek do vaší vlastní mapy, <cite>Wesnoth</cite> se může "
+"pochlubit silnou komunitou hráčů a tvůrců vždy ochotných podat pomocnou ruku."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:168
@@ -828,11 +836,13 @@ msgid ""
 "Besides creating your own add-on content, there are many other ways you can "
 "help <cite>Wesnoth</cite>:"
 msgstr ""
+"Kromě vytváření obsahu vašich vlastních rozšíření je mnoho dalších způsobů, "
+"kterými můžete vypomoci <cite>Wesnothu</cite>:"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:171
 msgid "<a href=\"https://wiki.wesnoth.org/Project\">Contribute</a> code"
-msgstr "<a href=\"https://wiki.wesnoth.org/Project\">Přispět</a> do kódu"
+msgstr "<a href=\"https://wiki.wesnoth.org/Project\">Přispívat</a> do kódu"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:172
@@ -841,6 +851,9 @@ msgid ""
 "the main game or for user-made <a href=\"https://forums.wesnoth.org/"
 "viewforum.php?f=23\">add-ons</a>"
 msgstr ""
+"<a href=\"https://forums.wesnoth.org/viewforum.php?f=9\">Vytvářet</a> "
+"grafiku pro hlavní hru nebo <a href=\"https://forums.wesnoth.org/viewforum."
+"php?f=23\">rozšíření</a> udělaná hráči"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:173
@@ -848,6 +861,8 @@ msgid ""
 "<a href=\"https://wiki.wesnoth.org/WesnothTranslations\">Translate</a> the "
 "game into your language"
 msgstr ""
+"<a href=\"https://wiki.wesnoth.org/WesnothTranslations\">Překládat</a> hru "
+"do svého jazyka"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:174
@@ -855,16 +870,18 @@ msgid ""
 "<a href=\"https://forums.wesnoth.org/viewforum.php?f=14\">Produce</a> new "
 "music tracks and sound effects"
 msgstr ""
+"<a href=\"https://forums.wesnoth.org/viewforum.php?f=14\">Skládat</a> nové "
+"hudební nahrávky a zvukové efekty"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:175
 msgid "Spread the word about <cite>Wesnoth</cite> on social media!"
-msgstr ""
+msgstr "Šířit zvěst o <cite>Wesnothu</cite> na sociálních médiích!"
 
 #. type: Content of: <html><body><div><div><h2>
 #: template.html:178
 msgid "More Info"
-msgstr "Více informací"
+msgstr "Další informace"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:181
@@ -872,8 +889,8 @@ msgid ""
 "<a href=\"https://changelog.wesnoth.org/1.14/\">Full Changelog</a> (English "
 "only)"
 msgstr ""
-"<a href=\"https://changelog.wesnoth.org/1.14/\">Kompletní výpis změn</a> "
-"(Pouze Anglicky)"
+"<a href=\"https://changelog.wesnoth.org/1.14/\">Úplný seznam změn</a> (pouze "
+"anglicky)"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:182
@@ -881,52 +898,51 @@ msgid ""
 "<a href=\"https://www.wesnoth.org/manual/1.14/manual.en.html\">User’s "
 "Manual</a>"
 msgstr ""
-"<a href=\"https://www.wesnoth.org/manual/1.14/manual.en.html\">Uživatelský "
+"<a href=\"https://www.wesnoth.org/manual/1.14/manual.cs.html\">Uživatelský "
 "manuál</a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:183
 msgid "<a href=\"https://www.wesnoth.org\">Official Website</a> (English only)"
 msgstr ""
-"<a href=\"https://www.wesnoth.org\">Oficiální stránky Wesnothu</a> (Pouze "
-"Anglicky)"
+"<a href=\"https://www.wesnoth.org\">Oficiální stránky</a> (pouze anglicky)"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:185
 msgid ""
 "<a href=\"https://www.wesnoth.org/start/1.12\">Wesnoth 1.12 Release Notes</a>"
 msgstr ""
-"<a href=\"https://www.wesnoth.org/start/1.12\">Poznámky k vydání Bitvy o "
-"Wesnoth verze 1.12</a>"
+"<a href=\"https://www.wesnoth.org/start/1.12\">Poznámky k vydání Wesnoth "
+"1.12</a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:186
 msgid ""
 "<a href=\"https://www.wesnoth.org/start/1.10\">Wesnoth 1.10 Release Notes</a>"
 msgstr ""
-"<a href=\"https://www.wesnoth.org/start/1.10\">Poznámky k vydání Bitvy o "
-"Wesnoth verze 1.10</a>"
+"<a href=\"https://www.wesnoth.org/start/1.10\">Poznámky k vydání Wesnoth "
+"1.10</a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:187
 msgid ""
 "<a href=\"https://www.wesnoth.org/start/1.8\">Wesnoth 1.8 Release Notes</a>"
 msgstr ""
-"<a href=\"https://www.wesnoth.org/start/1.8\">Poznámky k vydání Bitvy o "
-"Wesnoth verze 1.8</a>"
+"<a href=\"https://www.wesnoth.org/start/1.8\">Poznámky k vydání Wesnoth 1.8</"
+"a>"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:188
 msgid ""
 "<a href=\"https://www.wesnoth.org/start/1.6\">Wesnoth 1.6 Release Notes</a>"
 msgstr ""
-"<a href=\"https://www.wesnoth.org/start/1.6\">Poznámky k vydání Bitvy o "
-"Wesnoth verze 1.6</a>"
+"<a href=\"https://www.wesnoth.org/start/1.6\">Poznámky k vydání Wesnoth 1.6</"
+"a>"
 
 #. type: Content of: <html><body><div><div><div><div>
 #: template.html:199
 msgid "This page is also available in the following languages:"
-msgstr "Tato stránka je také k&nbsp;dispozici v&nbsp;následujících jazycích:"
+msgstr "Tato stránka je k dispozici také v následujících jazycích:"
 
 #. type: Content of: <html><body><div><div><div>
 #: template.html:205
@@ -934,6 +950,8 @@ msgid ""
 "<a href=\"https://wiki.wesnoth.org/StartingPoints\">Site Map</a> &#8226; <a "
 "href=\"https://status.wesnoth.org/\">Site Status</a>"
 msgstr ""
+"<a href=\"https://wiki.wesnoth.org/StartingPoints\">Mapa stránek</a> &#8226; "
+"<a href=\"https://status.wesnoth.org/\">Stav služeb</a>"
 
 #. type: Content of: <html><body><div><div><div>
 #: template.html:206
@@ -941,224 +959,10 @@ msgid ""
 "Copyright &#169; 2003&#8211;2021 by <a rel=\"author\" href=\"https://wiki."
 "wesnoth.org/Project\">The Battle for Wesnoth Project</a>."
 msgstr ""
+"&#169; <a rel=\"author\" href=\"https://wiki.wesnoth.org/Project\">Projekt "
+"The Battle for Wesnoth</a>, 2003&#8211;2021."
 
 #. type: Content of: <html><body><div><div><div>
 #: template.html:207
-#, fuzzy
-#| msgid "Site design Copyright &#169; 2017&#8211;2018 by Iris Morelle."
 msgid "Site design Copyright &#169; 2017&#8211;2021 by Iris Morelle."
-msgstr "Design a návrh stránek &#169; 2017&#8211;2018 Iris Morelle."
-
-#~ msgid "Default"
-#~ msgstr "Default"
-
-#~ msgid "<a href='#players'>For Players</a>"
-#~ msgstr "<a href='#players'>Pro hráče</a>"
-
-#~ msgid "<a href='#campaigns'>Campaigns</a>"
-#~ msgstr "<a href='#campaigns'>Tažení</a>"
-
-#~ msgid "<a href='#multiplayer'>Multiplayer</a>"
-#~ msgstr "<a href='#multiplayer'>Hra více hráčů</a>"
-
-#~ msgid "<a href='#general'>General</a>"
-#~ msgstr "<a href='#general'>Obecné</a>"
-
-#~ msgid "<a href='#campdev'>For Content Developers</a>"
-#~ msgstr "<a href='#campdev'>Pro autory rozšíření</a>"
-
-#~ msgid "<a href='#more'>More Info</a>"
-#~ msgstr "<a href='#more'>Další informace</a>"
-
-#~ msgid ""
-#~ "Thanks to the Google Summer of Code projects from 2010 and 2011, there is "
-#~ "a new Whiteboard system, which helps you make plans by visualizing "
-#~ "recruitment, movement, attacks, and so on. It even lets you visualize "
-#~ "plans to share with your allies in multiplayer games."
-#~ msgstr ""
-#~ "Díky projektům <span lang='en'>Google Summer of Code</span> z&nbsp;let "
-#~ "2010 a&nbsp;2011 je k&nbsp;dispozici plánovací mód, který umožňuje "
-#~ "naplánovat najímání, pohyb, útoky a&nbsp;další běžné herní akce. "
-#~ "Vizualizaci plánů lze také sdílet se spoluhráči."
-
-#~ msgid ""
-#~ "Since several terrain types were added, and many more completely redrawn "
-#~ "or updated, including volcanoes, animated water, new embellishments, and "
-#~ "completely redrawn grasslands, the Wesnothian battlefield is now a much "
-#~ "more beautiful thing to see."
-#~ msgstr ""
-#~ "Přidání mnohých nových typů terénu a&nbsp;překreslení stávajících, "
-#~ "například sopek, animované vody, nových zkrášlení a&nbsp;zcela nové "
-#~ "trávy, činí bitevní pole Wesnothu opět mnohem krásnějším."
-
-#~ msgid ""
-#~ "Many units, such as the saurians, have received new standing and other "
-#~ "animations. These, along with the new, animated water, help breathe life "
-#~ "into the previously nigh-on motionless battlefield."
-#~ msgstr ""
-#~ "Mnohé jednotky, jako například ještěráci, dostaly nové animace pro stání "
-#~ "na místě i&nbsp;další činosti. Spolu s&nbsp;nově animovanou vodou tak "
-#~ "přispívají k&nbsp;oživení dříve převážně nehybného bojiště."
-
-#~ msgid ""
-#~ "The 1.10 series features a completely remade version of the old "
-#~ "<em>Northerners</em> theme as well as two new tracks: <em>Battle Epic</"
-#~ "em> and <em>Silvan Sanctuary</em>."
-#~ msgstr ""
-#~ "Verze 1.10 obsahuje zcela přepracované téma seveřanů (<em "
-#~ "lang='en'>Northerners</em>) a&nbsp;dvě zcela nové skladby, <em "
-#~ "lang='en'>Battle Epic</em> a&nbsp;<em lang='en'>Silvan Sanctuary</em>."
-
-#~ msgid ""
-#~ "A new campaign, <em>Dead Water</em>, has been introduced; in it, you play "
-#~ "as a young merman who is the heir to his kingdom’s throne; your task is "
-#~ "to repel an undead invasion and to save your people.  <em>Dead Water</em> "
-#~ "spent some time being polished in the <a href=\"http://wesnoth-umc-dev."
-#~ "sourceforge.net\">Wesnoth-UMC-Dev project</a> to prepare for mainline "
-#~ "inclusion, just like <em>Delfador’s Memoirs</em>."
-#~ msgstr ""
-#~ "V&nbsp;novém tažení <em>Moře mrtvých</em> můžete prožít příběh mladého "
-#~ "mořského muže, který čelí těžkostem při nástupu na trůn. Cílem je "
-#~ "odražení invaze nemrtvých a&nbsp;záchrana mořského lidu. <em>Moře "
-#~ "mrtvých</em> bylo vyvíjeno po delší dobu jako <a href=\"http://wesnoth-"
-#~ "umc-dev.sourceforge.net\">projekt Wesnoth-UMC-Dev</a>, připravovaný na "
-#~ "začlenění do oficiální distribuce, stejně jako <em>Delfadorovy paměti</"
-#~ "em>."
-
-#~ msgid ""
-#~ "Most of the existing campaigns have received both major and minor updates "
-#~ "and improvements. For example, <em>A Tale of Two Brothers</em>’s "
-#~ "storyline was rewritten, and several scenarios from <em>Legend of "
-#~ "Wesmere</em> were reworked to include more dynamic gameplay and better "
-#~ "mechanics."
-#~ msgstr ""
-#~ "Většina původních tažení prošla malými i&nbsp;většími úpravami a&nbsp;"
-#~ "vylepšeními. Například byl přepracován děj <em>Příběhu dvou bratrů</em>. "
-#~ "Mnohé scénáře <em>Wesmerské legendy</em> nově umožňují dynamičtější hru "
-#~ "a&nbsp;využívají lepší mechaniku."
-
-#~ msgid ""
-#~ "Several new multiplayer maps have been introduced: <em>Aethermaw</em>, "
-#~ "<em>Arcanclave Citadel</em>, <em>Thousand Stings Garrison</em>, and "
-#~ "<em>Volcano</em>. Numerous updates and balancing tweaks were made to the "
-#~ "other maps &mdash; including making full use of the new terrain types."
-#~ msgstr ""
-#~ "Za zmínku stojí mnohé nové mapy pro více hráčů: <em>Tlama éteru</em>, "
-#~ "<em>Citadela Arcanclave</em>, <em>Pevnost tisíce žihadel</em> a "
-#~ "<em>Vulkán</em>. Ostatní mapy se dočkaly nejen obvyklých četných změn pro "
-#~ "lepší vyvážení hry, ale také přidání nových terénů."
-
-#~ msgid ""
-#~ "In addition to new portrait sets for <em>An Orcish Incursion</em>, "
-#~ "<em>Descent into Darkness</em>, <em>Sceptre of Fire</em>, <em>The Rise of "
-#~ "Wesnoth</em>, and <em>The South Guard</em>, generic portraits were added "
-#~ "(for example, most of the Drakes and the skeletal undead), thus getting "
-#~ "us closer to meeting our goal of having high-quality art throughout the "
-#~ "whole game."
-#~ msgstr ""
-#~ "Kromě nových sad portrétů hrdinů pro <em>Skřetí nájezd</em>, <em>Pád do "
-#~ "temnoty</em>, <em>Ohnivé žezlo</em>, <em>Vznik Wesnothu</em> a&nbsp;"
-#~ "<em>Jižní hlídku</em> se také nových portrétů dočkaly další jednotky "
-#~ "(zejména drakonidé a&nbsp;z&nbsp;nemrtvých kostlivci). Náš cíl &mdash; "
-#~ "vysoce kvalitní grafika v&nbsp;celé hře &mdash; je tedy opět o&nbsp;něco "
-#~ "blíže."
-
-#~ msgid ""
-#~ "The lighting system can now illuminate specific areas differently to "
-#~ "better show local time of day effects and, for example, keep caves dark "
-#~ "during the day."
-#~ msgstr ""
-#~ "Nový osvětlovací systém dokáže různě osvětlit konkrétní oblasti, takže "
-#~ "lze lépe poznat lokální denní dobu. To má nezastupitelnou roli např. "
-#~ "v&nbsp;jeskyních na mapách ve dne."
-
-#~ msgid ""
-#~ "To help you quickly identify slowed units, they are now tinted light blue."
-#~ msgstr ""
-#~ "Pro jednodušší rozeznání zpomalených jednotek jsou tyto nyní lehce "
-#~ "zbarveny do modra."
-
-#~ msgid ""
-#~ "Various changes were made to the UI. For example, you can now remove "
-#~ "multiple add-ons at once using checkboxes. Substantial improvements have "
-#~ "also been made in regards to typography and consistency throughout the "
-#~ "game. Also, the sidebar was modified to make it more appealing and easier "
-#~ "to read."
-#~ msgstr ""
-#~ "Uživatelské rozhraní se také dočkalo změn. Například lze mazat více "
-#~ "rozšíření zaráz. Velké zlepšení nastalo v&nbsp;oblastech typografie "
-#~ "a&nbsp;konzistence. Úpravy postranního panelu jej činí příjemnějším na "
-#~ "pohled a&nbsp;usnadňují orientaci v&nbsp;něm."
-
-#~ msgid "Two new translations were started: Irish and Old English."
-#~ msgstr ""
-#~ "Byly založeny dva nové překlady &mdash; irština a&nbsp;stará angličtina."
-
-#~ msgid ""
-#~ "The 1.10 series brings many new features for content developers, such as "
-#~ "<a href=\"https://wiki.wesnoth.org/PersistenceWML\">persistent variables</"
-#~ "a>, which allow add-on authors to save data to players’ user data "
-#~ "directories for use by other content developers or in future playthroughs."
-#~ msgstr ""
-#~ "Pro autory rozšíření přináší verze 1.10 mnoho nového, jako například <a "
-#~ "href='https://wiki.wesnoth.org/PersistenceWML' hreflang='en'>trvalé "
-#~ "proměnné (<span lang='en'>persistent variables</span>)</a>, které "
-#~ "umožňují ukládat informace viditelné při dalším spuštění nebo dalšími "
-#~ "rozšířeními."
-
-#~ msgid ""
-#~ "The game’s Lua capabilities have been strengthened considerably, which "
-#~ "allows content developers to do much more than they could with it on the "
-#~ "1.8 series. In fact, one of our Google Summer of Code projects was "
-#~ "focused on improving the AI-related Lua capabilities."
-#~ msgstr ""
-#~ "Herní možnosti jazyka Lua byly citelně posíleny, umožňuje tedy vývojářům "
-#~ "mnohem více, než v&nbsp;předchozích verzích série 1.8. Na oblast umělé "
-#~ "inteligence a&nbsp;jejích možností v&nbsp;Lua byl zaměřen i&nbsp;jeden "
-#~ "z&nbsp;našich projektů <span lang='en'>Google Summer of Code</span>."
-
-#~ msgid ""
-#~ "The terrain palette has been vastly expanded with the addition of new "
-#~ "basic terrains as well as new structures and embellishments, thus "
-#~ "allowing map makers to create more vibrant maps."
-#~ msgstr ""
-#~ "Paleta terénů obsahuje nové základní terény, stejně jako další struktury "
-#~ "jak funkční, tak i&nbsp;pouze zkrášlující. Tvůrci map tedy mohou "
-#~ "dosáhnout větší různorodosti a&nbsp;živosti bitevního pole."
-
-#~ msgid ""
-#~ "Thanks to a Google Summer of Code project that took place during 2010 and "
-#~ "2011, we now have a <a href=\"http://eclipse.wesnoth.org\">Wesnoth "
-#~ "Eclipse plugin</a>, which provides a full-blown IDE for WML in Eclipse "
-#~ "thus providing features such as syntax highlighting, tag folding, "
-#~ "autocompletion, and more. It even has front-ends for maintenance tools "
-#~ "such as <em>wmllint</em> and <em>wmlindent</em> as well as the ability to "
-#~ "start the game or map editor and have it go right to the desired scenario "
-#~ "or map."
-#~ msgstr ""
-#~ "Díky dalšímu projektu <span lang='en'>Google Summer of Code</span>, "
-#~ "probíhajícímu v&nbsp;letech 2010 a&nbsp;2011, máme k&nbsp;dispozici <a "
-#~ "href=\"http://eclipse.wesnoth.org\">plugin pro Eclipse</a>, který dodává "
-#~ "tomuto IDE veškeré možnosti pro práci s&nbsp;WML &mdash; zvýraznění "
-#~ "syntaxe, sbalování bloků kódu, automatické dokončování atd. Má dokonce "
-#~ "ovládání pro nástroje jako <em>wmllint</em> a&nbsp;<em>wmlindent</em> "
-#~ "a&nbsp;editor map."
-
-#~ msgid ""
-#~ "A new batch of item icons&mdash;drawn in the same style as the attack "
-#~ "icons&mdash;have been made for the benefit of content creators; "
-#~ "depictions of items such as potions, robes, armor, and jewelry are "
-#~ "included."
-#~ msgstr ""
-#~ "Pro autory rozšíření byla do hry přidána sada ikon pro předměty, kreslená "
-#~ "ve stejném stylu jako ikony pro útoky. Obsahuje věci jako lahvičky s&nbsp;"
-#~ "lektvary, oděvy, brnění, šperky atd."
-
-#~ msgid ""
-#~ "Thanks to revisions in the code that handles <a href=\"http://wiki."
-#~ "wesnoth.org/LanguageWML\">[language]</a>, custom range and attack type "
-#~ "strings can now be translated."
-#~ msgstr ""
-#~ "Díky změnám v kódu zpracovávajícím <a href='http://wiki.wesnoth.org/"
-#~ "LanguageWML' hreflang='en'>[language]</a> lze přeložit i&nbsp;vlastní "
-#~ "názvy druhů a&nbsp;dosahů útoků."
+msgstr "Návrh stránek &#169; Iris Morelle, 2017&#8211;2021."
