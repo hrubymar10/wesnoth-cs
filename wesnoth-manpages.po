@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-22 22:21-0400\n"
-"PO-Revision-Date: 2021-05-15 07:36+0200\n"
+"PO-Revision-Date: 2021-06-09 21:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -36,7 +36,7 @@ msgstr "WESNOTH"
 #: doc/man/wesnoth.6:16 doc/man/wesnothd.6:16
 #, no-wrap
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 #. type: TH
 #: doc/man/wesnoth.6:16
@@ -384,17 +384,13 @@ msgstr "B<--fps>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:127
-#, fuzzy
-#| msgid ""
-#| "displays the number of frames per second the game is currently running "
-#| "at, in a corner of the screen."
 msgid ""
 "displays the number of frames per second the game is currently running at in "
 "a corner of the screen as well as writes these values to a file in the "
 "userdata directory."
 msgstr ""
-"zobrazuje počet fps, tedy počet zobrazení za sekundu, během hry v rohu "
-"obrazovky."
+"zobrazuje v rohu obrazovky, na kolika snímcích za vteřinu hra právě běží, "
+"a také tyto hodnoty zapisuje do souboru v adresáři s uživatelskými daty."
 
 # type: TP
 #. type: TP
@@ -1574,12 +1570,9 @@ msgstr "COPYRIGHT"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnoth.6:532 doc/man/wesnothd.6:274
-#, fuzzy
-#| msgid ""
-#| "Copyright \\(co 2003-2018 David White E<lt>davidnwhite@verizon.netE<gt>"
 msgid "Copyright \\(co 2003-2021 David White E<lt>davidnwhite@verizon.netE<gt>"
 msgstr ""
-"Copyright \\(co 2003-2018 David White E<lt>davidnwhite@verizon.netE<gt>"
+"Copyright \\(co 2003-2021 David White E<lt>davidnwhite@verizon.netE<gt>"
 
 # type: Plain text
 #. type: Plain text
