@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-05-16 02:06 UTC\n"
+"POT-Creation-Date: 2021-06-23 15:42 UTC\n"
 "PO-Revision-Date: 2021-05-20 22:44+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -3086,7 +3086,7 @@ msgstr ""
 
 # hmmm... :-/
 #. [attack]: type=impact
-#: data/campaigns/Liberty/units/Bone_Knight.cfg:44
+#: data/campaigns/Liberty/units/Bone_Knight.cfg:42
 msgid "trample"
 msgstr "dupot"
 
@@ -3131,7 +3131,7 @@ msgstr ""
 "dovednostech boje s krátkým mečem."
 
 #. [attack]: type=cold
-#: data/campaigns/Liberty/units/Rogue_Mage.cfg:34
+#: data/campaigns/Liberty/units/Rogue_Mage.cfg:33
 msgid "ice blast"
 msgstr "ledová střela"
 
@@ -3155,18 +3155,18 @@ msgstr ""
 "strach jak svým nepřátelům, tak i těm, kterým vládnou."
 
 #. [attack]: type=blade
-#: data/campaigns/Liberty/units/Shadow_Lord.cfg:35
+#: data/campaigns/Liberty/units/Shadow_Lord.cfg:33
 msgid "astral blade"
 msgstr "astrální čepel"
 
 #. [attack]: type=cold
-#: data/campaigns/Liberty/units/Shadow_Lord.cfg:46
-#: data/campaigns/Liberty/units/Shadow_Mage.cfg:47
+#: data/campaigns/Liberty/units/Shadow_Lord.cfg:44
+#: data/campaigns/Liberty/units/Shadow_Mage.cfg:45
 msgid "shadow bolt"
 msgstr "stínový blesk"
 
 #. [attack]: type=impact
-#: data/campaigns/Liberty/units/Shadow_Lord.cfg:58
+#: data/campaigns/Liberty/units/Shadow_Lord.cfg:56
 msgid "shadow blast"
 msgstr "stínová střela"
 
