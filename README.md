@@ -4,15 +4,11 @@ This branch reflects [upstream 1.14 branch](https://github.com/wesnoth/wesnoth/t
 
 Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
 
-## To Do
+## Status
 
 As of 2021-05-27 the translation is complete.
 
-There are still bugs in Czech translation.
-
-If you stumble upon any such bug, please report it as an [issue](https://github.com/hrubymar10/wesnoth-cs/issues).
-
-There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
+The work on the translation of the 1.14 ended, because "... there are no further planned releases for 1.14 barring a critical bug of some sort being discovered.  So at this point any additional translation updates done for 1.14 will most likely not make it into a release." (Pentarctagon, 2021-06-21).
 
 ## wesnoth-announcement
 `wesnoth-announcement.po` originates from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
