@@ -8,7 +8,7 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 As of 2021-05-27 the translation is complete.
 
-The work on the translation of the 1.14 ended, because "... there are no further planned releases for 1.14 barring a critical bug of some sort being discovered.  So at this point any additional translation updates done for 1.14 will most likely not make it into a release." (Pentarctagon, 2021-06-21).
+The work on the translation of the 1.14 ended, because [there are no further planned releases for 1.14](https://mailman.wesnoth.org/pipermail/i18n/2021-June/000057.html).
 
 ## wesnoth-announcement
 `wesnoth-announcement.po` originates from https://github.com/wesnoth/website/blob/master/start/1.14/po/cs.po
