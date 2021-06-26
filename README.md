@@ -1,6 +1,6 @@
 # Czech Translation of The Battle for Wesnoth
 
-This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth/tree/master).
+This branch reflects [upstream 1.16 branch](https://github.com/wesnoth/wesnoth/tree/1.16).
 
 Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
 
@@ -26,4 +26,4 @@ Total messages remaining: **142**
 
 I see no progress.
 
-There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
+There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
