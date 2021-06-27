@@ -10,19 +10,20 @@ Domain | Messages | Translated | Remaining
 ------ | -------- | ---------- | ---------
 wesnoth-dw | 476 | 99 % | 1
 wesnoth-help | 665 | 98 % | 8
-wesnoth-httt | 1221 | 99 % | 1
 wesnoth-lib | 1450 | 99 % | 8
 wesnoth-multiplayer | 299 | 94 % | 16
-wesnoth-sof | 649 | 95 % | 27
+wesnoth-sof | 649 | 96 % | 24
 wesnoth-tb | 224 | 97 % | 5
 wesnoth-tutorial | 279 | 99 % | 2
-wesnoth-units | 739 | 96 % | 24
+wesnoth-units | 739 | 97 % | 22
 wesnoth-utbs | 1925 | 99 % | 1
 wesnoth-wc | 459 | 91 % | 40
 wesnoth | 1317 | 99 % | 8
 
-Total messages remaining: **141**
+Total messages remaining: **135**
 
-The translation speed is lower than one message per day.
+Progress since 2021-06-25: **2** messages per day
+
+ETA: **2021-09-02**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
