@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:42-0400\n"
-"PO-Revision-Date: 2021-06-09 20:37+0200\n"
+"PO-Revision-Date: 2021-06-30 22:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5148,6 +5148,9 @@ msgid ""
 "quicker. The <i>acceleration factor</i> can be set, and turned on by "
 "default, in the <i>Preferences</i> menu’s <i>General</i> tab."
 msgstr ""
+"Podržení klávesy <b>shift</b> zrychlí animace pro pohyb a boj. <i>Faktor "
+"akcelerace</i> lze nastavit a zapnout jako výchozí v záložce <i>Obecné</i> "
+"menu <i>Nastavení</i>."
 
 #. [tip]
 #. Translate "Change difficulty" and "Load Game" as in wesnoth-lib textdomain
@@ -7764,10 +7767,8 @@ msgid "Type: "
 msgstr "Typ: "
 
 #: src/reports.cpp:196
-#, fuzzy
-#| msgid "Specials: "
 msgid "Special Notes:"
-msgstr "Zvláštnosti: "
+msgstr "Zvláštní poznámky:"
 
 #: src/reports.cpp:219
 msgid "Race: "
