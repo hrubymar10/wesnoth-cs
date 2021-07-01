@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:36-0400\n"
-"PO-Revision-Date: 2021-06-30 22:03+0200\n"
+"PO-Revision-Date: 2021-07-01 21:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6350,7 +6350,7 @@ msgstr "Varování"
 #: src/game_initialization/multiplayer.cpp:407
 msgid ""
 "The remote server requested a password while using an insecure connection."
-msgstr ""
+msgstr "Vzdálený server si vyžádal heslo, ale používá nezabezpečené spojení."
 
 #: src/game_initialization/multiplayer.cpp:409
 msgid "You must login first."
@@ -6438,7 +6438,7 @@ msgstr "Bylo provedeno příliš mnoho pokusů o přihášení."
 
 #: src/game_initialization/multiplayer.cpp:452
 msgid "Password hashing failed."
-msgstr ""
+msgstr "Hašování hesla se nepodařilo."
 
 #: src/game_initialization/playcampaign.cpp:75
 msgid "Scenario Report"
