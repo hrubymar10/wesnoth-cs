@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:42-0400\n"
-"PO-Revision-Date: 2021-07-03 11:05+0200\n"
+"PO-Revision-Date: 2021-07-03 11:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5831,8 +5831,8 @@ msgid ""
 "Report abuse, rule violations, etc. to the server moderators. Make sure to "
 "mention relevant nicknames, etc."
 msgstr ""
-"Porušení pravidel, nevhodné chování atd. hlašte moderátorům serveru. "
-"Nezapomeňte zmínit konkrétní přezdívky a role v konfliktu."
+"Porušení pravidel, nevhodné chování atd. nahlas moderátorům serveru. "
+"Nezapomeň zmínit konkrétní přezdívky a role v konfliktu."
 
 #: src/chat_command_handler.hpp:97
 msgid "<message>"
@@ -6105,11 +6105,11 @@ msgid "Please report this to the author or maintainer of this add-on."
 msgid_plural ""
 "Please report this to the respective authors or maintainers of these add-ons."
 msgstr[0] ""
-"Prosíme ohlašte tento problém autorům nebo správcům těchto rozšíření."
+"Prosíme ohlaste tento problém autorům nebo správcům těchto rozšíření."
 msgstr[1] ""
-"Prosíme ohlašte tyto problémy autorům nebo správcům těchto rozšíření."
+"Prosíme ohlaste tyto problémy autorům nebo správcům těchto rozšíření."
 msgstr[2] ""
-"Prosíme ohlašte tyto problémy autorům nebo správcům těchto rozšíření."
+"Prosíme ohlaste tyto problémy autorům nebo správcům těchto rozšíření."
 
 #: src/game_events/pump.cpp:476 src/game_launcher.cpp:924
 msgid "Error: "
@@ -7008,7 +7008,7 @@ msgstr "Žádná jednotka nebyla naverbována."
 
 #: src/menu_events.cpp:309
 msgid "Internal error. Please report this as a bug! Details:\n"
-msgstr "Vnitřní chyba. Prosím nahlaš to jako chybu programu! Podrobnosti:\n"
+msgstr "Vnitřní chyba. Prosím nahlas to jako chybu programu! Podrobnosti:\n"
 
 #: src/menu_events.cpp:315
 msgid "You cannot recruit a $unit_type_name at this time."
