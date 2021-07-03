@@ -16,9 +16,8 @@ wesnoth-tb | 224 | 97 % | 5
 wesnoth-units | 739 | 97 % | 22
 wesnoth-utbs | 1925 | 99 % | 1
 wesnoth-wc | 459 | 91 % | 40
-wesnoth | 1317 | 99 % | 8
 
-Total messages remaining: **132**
+Total messages remaining: **124**
 
 Progress since 2021-06-25: **2** messages per day
 
