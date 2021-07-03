@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:36-0400\n"
-"PO-Revision-Date: 2021-07-01 21:21+0200\n"
+"PO-Revision-Date: 2021-07-03 11:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7611,7 +7611,7 @@ msgstr "Podrobnosti chyby:"
 
 #: src/play_controller.cpp:1258
 msgid "Warning: broken campaign branches"
-msgstr ""
+msgstr "Varování: rozbité větve tažení"
 
 #. TRANSLATORS: This is an error that will hopefully only be seen by UMC authors and by players who have already
 #. said "okay" to a "loading saves from an old version might not work" dialog.
@@ -7621,9 +7621,13 @@ msgid ""
 msgid_plural ""
 "Some of the possible next scenarios are missing, you might not be able to "
 "finish this campaign."
-msgstr[0] ""
+msgstr[0] "Následující scénář chybí, toto tažení nebudeš moci dokončit."
 msgstr[1] ""
+"Některé z dalších možných scénářů chybí, asi nebudeš moci dokončit toto "
+"tažení."
 msgstr[2] ""
+"Některé z dalších možných scénářů chybí, asi nebudeš moci dokončit toto "
+"tažení."
 
 #: src/play_controller.cpp:1271
 msgid ""
@@ -7633,12 +7637,18 @@ msgid_plural ""
 "Please report the following missing scenarios to the campaign’s author:\n"
 "$unknown_list|"
 msgstr[0] ""
+"Prosím nahlas autorovi tažení tento chybějící scénář:\n"
+"$unknown_list|"
 msgstr[1] ""
+"Prosím nahlas autorovi tažení tyto chybějící scénáře:\n"
+"$unknown_list|"
 msgstr[2] ""
+"Prosím nahlas autorovi tažení tyto chybějící scénáře:\n"
+"$unknown_list|"
 
 #: src/play_controller.cpp:1275
 msgid "Once this is fixed, you will need to restart this scenario."
-msgstr ""
+msgstr "Jakmile to bude opraveno, budeš muset tento scénář restartovat."
 
 #: src/play_controller.cpp:1455
 msgid "No objectives available"
