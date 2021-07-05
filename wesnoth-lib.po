@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:36-0400\n"
-"PO-Revision-Date: 2021-06-09 17:46+0200\n"
+"PO-Revision-Date: 2021-07-05 09:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -262,10 +262,8 @@ msgstr "Zarostlé kočičí hlavy"
 
 #. [terrain_type]: id=road_icy
 #: data/core/terrain.cfg:271
-#, fuzzy
-#| msgid "Clean Gray Cobbles"
 msgid "Icy Cobbles"
-msgstr "Čisté šedé kočičí hlavy"
+msgstr "Namrzlé kočičí hlavy"
 
 #. [terrain_type]: id=ice
 #: data/core/terrain.cfg:284
@@ -458,10 +456,8 @@ msgstr "Velký strom"
 
 #. [terrain_type]: id=great_tree_snowy
 #: data/core/terrain.cfg:574
-#, fuzzy
-#| msgid "Great Tree"
 msgid "Snowy Great Tree"
-msgstr "Velký strom"
+msgstr "Zasněžený velký strom"
 
 #. [terrain_type]: id=great_tree_dead
 #: data/core/terrain.cfg:586
@@ -470,10 +466,8 @@ msgstr "Mrtvý velký strom"
 
 #. [terrain_type]: id=great_tree_dead_oak
 #: data/core/terrain.cfg:598
-#, fuzzy
-#| msgid "Dead Great Tree"
 msgid "Dead Great Oak Tree"
-msgstr "Mrtvý velký strom"
+msgstr "Mrtvý velký dub"
 
 #. [terrain_type]: id=tropical_forest
 #. [terrain_type]: id=rainforest
@@ -2410,11 +2404,11 @@ msgstr "Souhlasím"
 
 #: data/gui/window/addon_manager.cfg:9
 msgid "Traffic between the game and server is not secure"
-msgstr ""
+msgstr "Provoz mezi hrou a serverem není zabezpečený"
 
 #: data/gui/window/addon_manager.cfg:13
 msgid "Traffic between the game and server is encrypted"
-msgstr ""
+msgstr "Provoz mezi hrou a serverem je zašifrovaný"
 
 #. [label]: id=byline
 #: data/gui/window/addon_manager.cfg:154
@@ -2531,8 +2525,6 @@ msgstr "Správce rozšíření"
 #. [button]: id=details_toggle
 #: data/gui/window/addon_manager.cfg:1003 src/gui/dialogs/addon/manager.cpp:510
 #: src/gui/dialogs/addon/manager.cpp:745
-#, fuzzy
-#| msgid "Addon Details"
 msgid "Add-on Details"
 msgstr "Podrobnosti o rozšíření"
 
@@ -3678,7 +3670,7 @@ msgstr "Zkopíruj kompletní hlášení do schránky"
 #. [label]
 #: data/gui/window/gamestate_inspector.cfg:16
 msgid "inspector tree item^•"
-msgstr ""
+msgstr "•"
 
 #. [label]
 #: data/gui/window/gamestate_inspector.cfg:94
@@ -3870,7 +3862,7 @@ msgstr "Nastavení"
 #. [button]: id=view_match_history
 #: data/gui/window/lobby_main.cfg:516
 msgid "Match History"
-msgstr ""
+msgstr "Historie zápasů"
 
 #. [button]: id=quit
 #: data/gui/window/lobby_main.cfg:533 data/gui/window/lobby_main.cfg:627
