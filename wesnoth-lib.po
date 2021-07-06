@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:42-0400\n"
-"PO-Revision-Date: 2021-07-05 09:05+0200\n"
+"PO-Revision-Date: 2021-07-06 07:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2761,7 +2761,7 @@ msgstr "Kopírovat"
 #. [button]: id=copy
 #: data/gui/window/chat_log.cfg:188 data/gui/window/lua_interpreter.cfg:106
 msgid "Copy this log to clipboard"
-msgstr "Zkopíruj log do schránky"
+msgstr "Zkopírovat tento protokol do schránky"
 
 #. [label]
 #: data/gui/window/core_dialog.cfg:44
@@ -2782,7 +2782,7 @@ msgstr "Kopírovat"
 #: data/gui/window/game_version.cfg:48
 #: data/gui/window/screenshot_notification.cfg:34
 msgid "Copy this path to clipboard"
-msgstr "Zkopíruj cestu do schránky"
+msgstr "Zkopírovat tuto cestu do schránky"
 
 #. [button]: id=browse
 #. [button]: id=browse_
@@ -3665,7 +3665,7 @@ msgstr "Kopírovat"
 #. [button]: id=copy_all
 #: data/gui/window/game_version.cfg:638
 msgid "Copy the full report to clipboard"
-msgstr "Zkopíruj kompletní hlášení do schránky"
+msgstr "Zkopírovat celé hlášení do schránky"
 
 #. [label]
 #: data/gui/window/gamestate_inspector.cfg:16
@@ -3681,7 +3681,7 @@ msgstr "Prohlížeč stavu hry"
 #: data/gui/window/gamestate_inspector.cfg:336
 #: data/gui/window/wml_error.cfg:125
 msgid "Copy this report to clipboard"
-msgstr "Zkopíruj toto hlášení do schránky"
+msgstr "Zkopírovat toto hlášení do schránky"
 
 #. [label]
 #. [button]: id=lua
