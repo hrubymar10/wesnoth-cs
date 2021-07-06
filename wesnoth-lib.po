@@ -8076,12 +8076,3 @@ msgid ""
 msgstr ""
 "Klíč '$deprecated_key' byl přejmenován na '$key' a ve verzi $removal_version "
 "bude odstraněna podpora původního tvaru."
-
-#~ msgid "Add-on upload authentication dialog"
-#~ msgstr "Okno pro ověření nahrávaného rozšíření"
-
-#~ msgid "Multiplayer server login dialog"
-#~ msgstr "Přihlášení na server hry více hráčů"
-
-#~ msgid "Current Room"
-#~ msgstr "Současná místnost"
