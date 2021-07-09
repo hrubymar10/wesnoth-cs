@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:36-0400\n"
-"PO-Revision-Date: 2021-07-08 22:47+0200\n"
+"PO-Revision-Date: 2021-07-09 23:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5330,7 +5330,7 @@ msgstr "Tento útok má vždy alespoň 60% šanci zásahu, je-li užit ofensivn�
 #. [chance_to_hit]: id=deflect
 #: data/core/macros/abilities.cfg:489
 msgid "deflect"
-msgstr ""
+msgstr "odražení"
 
 #. [chance_to_hit]: id=deflect
 #: data/core/macros/abilities.cfg:490
@@ -5347,6 +5347,7 @@ msgid ""
 "This unit’s defensive techniques reduce the chance of a successful enemy "
 "attack."
 msgstr ""
+"Obranné techniky této jednotky snižují šanci na úspěšný útok nepřítele."
 
 #. [chance_to_hit]: id=magical
 #: data/core/macros/abilities.cfg:505
@@ -5387,7 +5388,7 @@ msgstr ""
 #. [damage]: id=absorb
 #: data/core/macros/abilities.cfg:542
 msgid "absorb"
-msgstr ""
+msgstr "zmírnění"
 
 #. [damage]: id=absorb
 #: data/core/macros/abilities.cfg:543
@@ -5395,12 +5396,16 @@ msgid ""
 "This attack puts the unit in good defensive position, and it absorbs some of "
 "the damage dealt by an enemy strike."
 msgstr ""
+"Tento útok staví jednotku do dobrého obranného postavení a tlumí část "
+"poškození utrženého při úderu nepřítele."
 
 #. [damage]: id=absorb
 #: data/core/macros/abilities.cfg:544
 msgid ""
 "This unit can block enemy strikes, so that it takes reduced damage when hit."
 msgstr ""
+"Tato jednotka může blokovat údery nepřátel, takže při zásahu utrpí menší "
+"poškození."
 
 #. [drains]: id=drains
 #: data/core/macros/abilities.cfg:556
