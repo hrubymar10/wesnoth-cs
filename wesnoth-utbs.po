@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-18 09:00 UTC\n"
-"PO-Revision-Date: 2021-07-20 22:58+0200\n"
+"PO-Revision-Date: 2021-07-20 23:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3927,7 +3927,7 @@ msgstr "Nevadí, kdo jste?"
 msgid ""
 "I am Kaleh, and we are the Quenoth elves. What in Eloh’s name is going on "
 "here?"
-msgstr "Jsem Kaleh, vůdce Quenothských elfů. Co u Eloh se tu děje?"
+msgstr "Jsem Kaleh a jsme quenothští elfové. Co u Eloh se tu děje?"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1038
@@ -16104,9 +16104,9 @@ msgid ""
 "descendants may know of our travels, remember the sacrifices we made, and "
 "profit from the hard lessons we learned."
 msgstr ""
-"Toto je kronika cesty Quenothských elfů z jejich domova ve velké jižní "
-"poušti. Píši tento příběh, aby naši potomci věděli o našich cestách, "
-"pamatovali na oběti, jež jsme přinesli, a aby neopakovali naše chyby."
+"Toto je kronika cesty quenothských elfů z jejich domova ve velké jižní "
+"poušti. Píši tento příběh, aby naši potomci věděli o našich cestách, "
+"pamatovali na oběti, jež jsme přinesli, a aby neopakovali naše chyby."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:12
