@@ -10,13 +10,12 @@ Domain | Messages | Translated | Remaining
 ------ | -------- | ---------- | ---------
 wesnoth-sof | 649 | 96 % | 24
 wesnoth-units | 739 | 97 % | 20
-wesnoth-utbs | 1925 | 99 % | 1
 wesnoth-wc | 460 | 90 % | 42
 
-Total messages remaining: **87**
+Total messages remaining: **86**
 
 Progress since 2021-06-25: **2** messages per day
 
-ETA: **2021-08-31**
+ETA: **2021-09-01**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
