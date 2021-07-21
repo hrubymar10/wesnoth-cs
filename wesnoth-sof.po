@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-06-27 11:06+0200\n"
+"PO-Revision-Date: 2021-07-22 00:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3761,16 +3761,12 @@ msgstr ""
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:613
-#, fuzzy
-#| msgid ""
-#| "Good. Now, let’s get out of this cave, before the elves, dwarves or bats "
-#| "kill us!"
 msgid ""
 "Good! Now, let’s get out of this cave, before the elves, dwarves or lizards "
 "kill us all!"
 msgstr ""
-"Dobrá. Teď vypadněme z téhle jeskyně dřív, než nás elfové, trpaslíci či "
-"netopýři zabijí!"
+"Dobře! A teď vypadněme z téhle jeskyně, dříve než nás elfové, trpaslíci nebo "
+"ještěři všechny zabijí!"
 
 #. [scenario]: id=9_Caverns_of_Flame
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:3
@@ -3799,10 +3795,8 @@ msgstr "Túmak"
 
 #. [side]
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:255
-#, fuzzy
-#| msgid "Khrakrahs"
 msgid "Wyrms of Khrakrahs"
-msgstr "Krakraš"
+msgstr "Krakrašovi wyrmové"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:342
@@ -4439,12 +4433,6 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:230
-#, fuzzy
-#| msgid ""
-#| "Your advice seems good to me. I will take it. As for you, and the "
-#| "gryphon, you are free to go. Alanin, you’ve served in the army long "
-#| "enough to retire, and even if you hadn’t, you’ve seen enough combat. So, "
-#| "go back to your village with your well-earned pension."
 msgid ""
 "Your advice is grating to my ears, not what I wish to hear... And yet, I see "
 "the wisdom in it, and I agree. Alanin, you’ve served in the army long enough "
@@ -4452,10 +4440,11 @@ msgid ""
 "your village, and I shall see that you and your family live well and enjoy "
 "great success."
 msgstr ""
-"Tvá rada se mi zdá správná. Učiním tak. A ty i gryfon jste volní. Alanine, "
-"sloužil jsi v mé armádě dost dlouho na to, aby ses mohl cítit unaven, "
-"a i kdyby ne, viděl jsi už dost bojů. Takže se vrať do své vesnice na "
-"zasloužený odpočinek."
+"Tvá rada mi skřípe v uších, není taková, jakou si přeji slyšet... A přesto "
+"vím, že je moudrá, a souhlasím. Alanine, sloužil jsi v armádě dost dlouho na "
+"to, abys odešel na odpočinek, a i kdyby ne, bojů jsi viděl dost. Vrať se do "
+"své vesnice a já dohlédnu na to, aby se tobě a tvé rodině žilo dobře a ve "
+"všem vás provázel zdar."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:234
