@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-07-22 00:09+0200\n"
+"PO-Revision-Date: 2021-07-23 01:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3625,7 +3625,7 @@ msgstr "Podívej, v těch jeskyních je drak!"
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:389
 msgid "You dare trespass into <i>my</i> lair?"
-msgstr ""
+msgstr "Vy se opovažujete vstoupit do <i>mého</i> doupěte?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:393
@@ -3654,7 +3654,7 @@ msgstr ""
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:420
 msgid "Stop that! You leave my pets alone!"
-msgstr ""
+msgstr "Přestaňte! Nechte moje mazlíčky na pokoji!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:442
@@ -3664,17 +3664,17 @@ msgstr "Kró!"
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:446
 msgid "That's great, we could really use some resources about now."
-msgstr ""
+msgstr "To je skvělé. Nějaké prostředky by se nám teď opravdu hodily."
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:450
 msgid "Thieves!  I won't forget this..."
-msgstr ""
+msgstr "Zloději! Tohle vám nezapomenu..."
 
 #. [message]
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:454
 msgid "Haha, you're making friends all over, you cowards!"
-msgstr ""
+msgstr "Haha, všude si děláte přátele, vy zbabělci!"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:458
@@ -3682,6 +3682,8 @@ msgid ""
 "I don't care about your petty squabbles, I curse all of you!  I curse all "
 "who invade my lair!"
 msgstr ""
+"Vaše malicherné hádky mě nezajímají, všechny vás proklínám! Proklínám "
+"všechny, kdo vnikají do mého doupěte!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:480
