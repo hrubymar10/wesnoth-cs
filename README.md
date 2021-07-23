@@ -6,13 +6,13 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 ## To Do
 
-Domain | Messages | Translated | Remaining | Translator
------- | -------- | ---------- | --------- | ----------
-wesnoth-sof | 649 | 96 % | 21 | Michal
-wesnoth-units | 739 | 97 % | 20 |
-wesnoth-wc | 459 | 91 % | 40 |
+Domain | Messages | Translated | Remaining
+------ | -------- | ---------- | ---------
+wesnoth-sof | 649 | 98 % | 10
+wesnoth-units | 739 | 97 % | 20
+wesnoth-wc | 459 | 91 % | 40
 
-Total messages remaining: **81**
+Total messages remaining: **70**
 
 Progress since 2020-08-28: **8** messages per day
 
