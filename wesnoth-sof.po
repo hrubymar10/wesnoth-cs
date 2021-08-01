@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-18 09:00 UTC\n"
-"PO-Revision-Date: 2021-07-24 00:07+0200\n"
+"PO-Revision-Date: 2021-08-01 20:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4529,7 +4529,7 @@ msgstr ""
 #. [unit_type]: id=Cave Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:5
 msgid "Cave Wyrm"
-msgstr ""
+msgstr "Wyrm jeskynní"
 
 #. [unit_type]: id=Cave Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:20
@@ -4539,6 +4539,10 @@ msgid ""
 "eccentric wizard or dragon.  Mature Wyrms have excellent control of their "
 "fire breath attack, as if they are themselves miniature dragons."
 msgstr ""
+"Wyrmové jeskynní jsou podivná zvířata. Jsou to v podstatě statní hadi s "
+"křídly, ale bez nohou. Jsou poměrně vzácní a jejich výskyt se připisuje "
+"nějakému výstřednímu čaroději či drakovi. Dospělí wyrmové výborně ovládají "
+"svůj útok ohnivým dechem, jako by sami byli miniaturními draky."
 
 #. [attack]: type=blade
 #: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:78
@@ -4546,7 +4550,7 @@ msgstr ""
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:82
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:81
 msgid "fangs"
-msgstr ""
+msgstr "tesáky"
 
 #. [attack]: type=fire
 #: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:87
@@ -4554,12 +4558,12 @@ msgstr ""
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:91
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:90
 msgid "breath"
-msgstr ""
+msgstr "dech"
 
 #. [unit_type]: id=Cave Wyrmlet, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrmlet.cfg:4
 msgid "Cave Wyrmlet"
-msgstr ""
+msgstr "Wyrmě jeskynní"
 
 #. [unit_type]: id=Cave Wyrmlet, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrmlet.cfg:18
@@ -4568,6 +4572,10 @@ msgid ""
 "legs.  They are relatively rare, and their presence is attributed to some "
 "eccentric wizard or dragon.  The young are small, but hungry and aggressive."
 msgstr ""
+"Wyrmové jeskynní jsou podivná zvířata. Jsou to v podstatě statní hadi s "
+"křídly, ale bez nohou. Jsou poměrně vzácní a jejich výskyt se připisuje "
+"nějakému výstřednímu čaroději či drakovi. Wyrmí mláďata jsou malá, ale "
+"hladová a agresivní."
 
 #. [unit_type]: id=Dwarvish Miner, race=dwarf
 #: data/campaigns/Sceptre_of_Fire/units/Dwarvish_Miner.cfg:4
@@ -4603,7 +4611,7 @@ msgstr "Král Wesnothu."
 #. [unit_type]: id=Red Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:8
 msgid "Red Wyrm"
-msgstr ""
+msgstr "Wyrm rudý"
 
 #. [unit_type]: id=Red Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:23
@@ -4615,11 +4623,17 @@ msgid ""
 "Wyrms have excellent control of their fire breath attack, as if they are "
 "themselves miniature dragons."
 msgstr ""
+"Wyrmové rudí jsou podivná zvířata. Jsou to v podstatě statní hadi s křídly, "
+"ale bez nohou. Jejich kůže je rudá a podobná kameni, odolná vůči ohni, ale "
+"křehčí než běžné šupiny nebo jiná brnění ještěrů. Jsou poměrně vzácní a "
+"jejich výskyt se připisuje nějakému výstřednímu čaroději či drakovi. Dospělí "
+"wyrmové výborně ovládají svůj útok ohnivým dechem, jako by sami byli "
+"miniaturními draky."
 
 #. [unit_type]: id=Red Wyrmlet, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:8
 msgid "Red Wyrmlet"
-msgstr ""
+msgstr "Wyrmě rudé"
 
 #. [unit_type]: id=Red Wyrmlet, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:22
@@ -4630,6 +4644,11 @@ msgid ""
 "their presence is attributed to some eccentric wizard or dragon.  The young "
 "are small, but hungry and aggressive."
 msgstr ""
+"Wyrmové rudí jsou podivná zvířata. Jsou to v podstatě statní hadi s křídly, "
+"ale bez nohou a jejich kůže je podobná narudlému kameni. Kamenná kůže je "
+"zřejmě chrání před ohněm, ale je docela křehká. Jsou poměrně vzácní a jejich "
+"výskyt se připisuje nějakému výstřednímu čaroději či drakovi. Wyrmí mláďata "
+"jsou malá, ale hladová a agresivní."
 
 #. [set_menu_item]: id=sof_minecart_boarding_{VAR}
 #: data/campaigns/Sceptre_of_Fire/utils/cart-utils.cfg:221
