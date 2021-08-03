@@ -6,15 +6,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-16 02:06 UTC\n"
-"PO-Revision-Date: 2021-04-19 16:04+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2021-08-03 23:32+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. [advancement]: id=amla_default
 #: data/campaigns/World_Conquest/era/campaign/heroes.cfg:142
@@ -2022,11 +2021,11 @@ msgstr "Hlavu vzhůru, chlapci. Dnes je dobrý den na smrt!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:191
 msgid "Brave words. Welcome to The Fight Club..."
-msgstr ""
+msgstr "Odvážná slova. Vítej v Klubu rváčů..."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:194
 msgid "Brave words. Welcome little big man."
-msgstr ""
+msgstr "Odvážná slova. Vítej, malý velký muži."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:198
 msgid "Need a hand? Me an’ me bird can get just about anywheres you need."
