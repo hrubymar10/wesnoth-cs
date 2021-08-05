@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-18 09:00 UTC\n"
-"PO-Revision-Date: 2021-08-03 23:38+0200\n"
+"PO-Revision-Date: 2021-08-05 22:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -18,7 +18,7 @@ msgstr ""
 #. [advancement]: id=amla_default
 #: data/campaigns/World_Conquest/era/campaign/heroes.cfg:142
 msgid "Max HP bonus +6%"
-msgstr ""
+msgstr "Max. přídavek k životům +6 %"
 
 #: data/campaigns/World_Conquest/era/campaign/strings.cfg:4
 msgid "heroic"
@@ -1895,13 +1895,12 @@ msgstr ""
 "které bych vám mohl nabídnout. Ale rád vám podám pomocnou ruku."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:90
-#, fuzzy
 msgid ""
 "You have come a long way over the ocean, yet I see that you know little of "
 "her ways. Let me show you."
 msgstr ""
-"Plul jsi dlouho přes oceán, přesto vidím, že znáš jen málo z jejích způsobů. "
-"Dovol mi ukázat ti jak na to."
+"Plul jsi dlouho přes oceán, přesto vidím, že o jeho možnostech toho moc "
+"nevíš. Dovol mi ti je předvést."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:99
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:137
