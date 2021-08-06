@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-16 02:06 UTC\n"
-"PO-Revision-Date: 2021-08-05 22:23+0200\n"
+"PO-Revision-Date: 2021-08-06 22:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -47,6 +47,8 @@ msgstr "epická"
 #: data/campaigns/World_Conquest/era/campaign/strings.cfg:22
 msgid "Always AMLA with 60 XP and raises maximum health by 6 HP."
 msgstr ""
+"Vždy AMLA při 60 zkušenostních bodech a zvyšuje maximum zdraví "
+"o 6 zásahových bodů."
 
 #: data/campaigns/World_Conquest/era/campaign/strings.cfg:25
 msgid "legendary"
@@ -140,12 +142,12 @@ msgstr "Nastavení"
 #. [label]
 #: data/campaigns/World_Conquest/gui/help_dialog.cfg:670
 msgid "Difficulty"
-msgstr ""
+msgstr "Obtížnost"
 
 #. [label]: id=title
 #: data/campaigns/World_Conquest/gui/invest_dialog.cfg:34
 msgid "Choose a bonus for your team"
-msgstr ""
+msgstr "Vyber si odměnu pro svůj tým"
 
 #. [label]: id=title
 #: data/campaigns/World_Conquest/gui/invest_tellunit.cfg:24
@@ -165,12 +167,12 @@ msgstr "Vzít si to?"
 #. [button]: id=res_yes
 #: data/campaigns/World_Conquest/gui/pickup_confirmation.cfg:62
 msgid "Yes"
-msgstr ""
+msgstr "Ano"
 
 #. [button]: id=res_no
 #: data/campaigns/World_Conquest/gui/pickup_confirmation.cfg:72
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #. [label]: id=title
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:29
