@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-16 02:06 UTC\n"
-"PO-Revision-Date: 2021-08-06 22:04+0200\n"
+"PO-Revision-Date: 2021-08-07 08:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -195,7 +195,7 @@ msgstr "Vyber obtížnost:"
 
 #: data/campaigns/World_Conquest/lua/campaign/enemy_themed.lua:5
 msgid "$name|'s pet"
-msgstr ""
+msgstr "$name|ův mazánek"
 
 #: data/campaigns/World_Conquest/lua/campaign/objectives.lua:5
 msgid "Defeat all enemy leaders and commanders"
@@ -245,12 +245,12 @@ msgstr "Připomeň mi, jak tato věc funguje"
 #. [lua]: wesnoth.wml_actions.wc2_place_bonus
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:24
 msgid "place"
-msgstr ""
+msgstr "místo"
 
 #. [lua]: span_font_family
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:34
 msgid "$name's $type"
-msgstr ""
+msgstr "$type – $name"
 
 #. [lua]: bonus.found_artifact
 #: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:149
@@ -1115,7 +1115,7 @@ msgstr "věž"
 #. [lua]: wc2_invest.invest
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest.lua:142
 msgid "WC2 Invest"
-msgstr ""
+msgstr "DS2 investice"
 
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:55
@@ -1873,7 +1873,7 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:67
 msgid "Yeah, flower power!"
-msgstr ""
+msgstr "Jo, síla květin!"
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:71
 msgid ""
