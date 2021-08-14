@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-03-03 21:28+0100\n"
+"PO-Revision-Date: 2021-08-14 22:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -873,7 +873,7 @@ msgstr ""
 "stůl a jeho oči se na něj upřely.\n"
 "\n"
 "Následně jsem položila na stůl prsten, který jsem vzala zbojnici jménem "
-"„Mossa”, jeho milované zločinné partnerce. Jeho pohled se přesunul ze zlata "
+"„Mossa“, jeho milované zločinné partnerce. Jeho pohled se přesunul ze zlata "
 "na prsten a pak rychle do mých očí. Kdyby nebyl připoután k židli, zaútočil "
 "by na mě.\n"
 "\n"
@@ -4279,7 +4279,7 @@ msgstr "Mrtvoly všech typů"
 #. [unit_type]: id=SotA Walking Corpse_Dummy, race=undead
 #: data/campaigns/Secrets_of_the_Ancients/units/SotA_Corpses.cfg:104
 msgid "Choose this “unit” to get a list of available corpses."
-msgstr "Výběrem této „jednotky” se ti rozbalí seznam dostupných mrtvol."
+msgstr "Výběrem této „jednotky“ se ti rozbalí seznam dostupných mrtvol."
 
 #. [unit_type]: id=SotA Flying Corpse_Gryphon
 #. [unit_type]: id=SotA Flying Corpse_Bat

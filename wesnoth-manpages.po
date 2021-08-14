@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-22 22:21-0400\n"
-"PO-Revision-Date: 2021-06-09 21:43+0200\n"
+"PO-Revision-Date: 2021-08-14 22:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1133,7 +1133,7 @@ msgstr ""
 "v „My Documents\\eMy Games“. Pro adresář s uživatelskými daty můžeš také "
 "určit absolutní cestu mimo $HOME nebo „My Documents\\eMy Games“. Na Windows "
 "je kromě toho možné zadat adresář relativně k pracovnímu adresáři procesu "
-"užitím cesty, která začíná na „.\\e” nebo „..\\e“."
+"užitím cesty, která začíná na „.\\e“ nebo „..\\e“."
 
 # type: TP
 #. type: TP
