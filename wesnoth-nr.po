@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-03-11 20:13+0100\n"
+"PO-Revision-Date: 2021-08-14 22:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4364,13 +4364,13 @@ msgid ""
 "Tallin, before I was captured by Malifor, I used to be in contact with a "
 "powerful magician called Ro’Arthian and his brother Ro’Sothian."
 msgstr ""
-"Než mne zajal Malifor, byl jsem ve spojení s mocným mágem Ro'Arthianem a "
-"jeho bratrem, Ro'Sothianem."
+"Než mne zajal Malifor, byl jsem ve spojení s mocným mágem Ro’Arthianem a "
+"jeho bratrem, Ro’Sothianem."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:73
 msgid "Ro’Arthian, bah! Don’t utter that cursed name!"
-msgstr "Pche, Ro'Arthian! To proklaté jméno už tady nevyslovuj!"
+msgstr "Pche, Ro’Arthian! To proklaté jméno už tady nevyslovuj!"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:75
@@ -4536,7 +4536,7 @@ msgstr "Lichové"
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:247
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:382
 msgid "Ro’Arthian"
-msgstr "Ro Arthian"
+msgstr "Ro’Arthian"
 
 #. [unit]: type=Lich, id=Ro'Sothian
 #. [modify_side]
@@ -4544,17 +4544,17 @@ msgstr "Ro Arthian"
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:273
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:463
 msgid "Ro’Sothian"
-msgstr "Ro Sothian"
+msgstr "Ro’Sothian"
 
 #. [objective]: condition=win
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:317
 msgid "Save Stalrag from Ro’Sothian"
-msgstr "Zachraň Stalraga před Ro Sothianem"
+msgstr "Zachraň Stalraga před Ro’Sothianem"
 
 #. [objective]: condition=win
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:326
 msgid "Capture Ro’Arthian"
-msgstr "Zajmi Ro Arthiana"
+msgstr "Zajmi Ro’Arthiana"
 
 #. [objective]: condition=lose
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:337
@@ -4616,7 +4616,7 @@ msgstr "Zadržte! Co se tu děje?"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:387
 msgid "Ro’Sothian, is that you?"
-msgstr "Ro Sothiane, jsi to ty?"
+msgstr "Ro’Sothiane, jsi to ty?"
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:392
@@ -4628,7 +4628,7 @@ msgstr "Teď nemám čas, otče. Jsem poněkud zaneprázdněn."
 msgid ""
 "Ro’Sothian! How are you doing, my old friend! Boy, you sure look... erm... "
 "different!"
-msgstr "Ro Sothiane! Jak se ti daří, příteli? Tedy, vypadáš... změnil jsi se!"
+msgstr "Ro’Sothiane! Jak se ti daří, příteli? Tedy, vypadáš... změnil jsi se!"
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:408
@@ -4647,7 +4647,7 @@ msgstr "(<i>šeptá</i>) Kamerine, ty ho znáš?"
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:418
 msgid "whisper^Duh! His brother Ro’Arthian is the one who taught me magic!"
-msgstr "(<i>šeptá</i>) Jo! Jeho bratr Ro Arthian mě naučil magii!"
+msgstr "(<i>šeptá</i>) Jo! Jeho bratr Ro’Arthian mě naučil magii!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:423
@@ -4657,7 +4657,7 @@ msgstr "(<i>šeptá</i>) Oh...!"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:430
 msgid "Hang on a sec, Ro’Sothian, you don’t want to kill him."
-msgstr "Počkej, Ro Sothiane, přece ho nezabiješ."
+msgstr "Počkej, Ro’Sothiane, přece ho nezabiješ."
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:435
@@ -4780,7 +4780,7 @@ msgid ""
 "Ro’Arthian, listen to me. We don’t want to fight with you, we have come here "
 "to seek your assistance."
 msgstr ""
-"Ro Arthiane, vyslechni mne. Nechceme s tebou bojovat, přišli jsme tě prosit "
+"Ro’Arthiane, vyslechni mne. Nechceme s tebou bojovat, přišli jsme tě prosit "
 "o pomoc."
 
 #. [message]: speaker=narrator
@@ -4816,7 +4816,7 @@ msgstr "(<i>Povzdech</i>) No, asi máš pravdu."
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:606
 msgid "Put Ro’Sothian into that jail over there until we capture his brother."
 msgstr ""
-"Dejte Ro Sothiana do tamtoho vězení a zůstane tam, dokud nezajmeme jeho "
+"Dejte Ro’Sothiana do tamtoho vězení a zůstane tam, dokud nezajmeme jeho "
 "bratra."
 
 #. [message]: speaker=Tallin
@@ -4843,7 +4843,7 @@ msgstr "Ahhhh! Snad ne znova!"
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:678
 msgid ""
 "Come on, Ro’Sothian, we really don’t have to be doing this. Come, join us!"
-msgstr "Ro Arthiane, nemusíme se přece takhle přetahovat. Přidej se k nám!"
+msgstr "Ro’Sothiane, nemusíme se přece takhle přetahovat. Přidej se k nám!"
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:683
@@ -4863,7 +4863,7 @@ msgstr "Hybaj zpátky do lochu."
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:740
 msgid "Ro’Arthian, are you ready to talk yet?"
-msgstr "Ro Arthiane, nechceš si už promluvit?"
+msgstr "Ro’Arthiane, nechceš si už promluvit?"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:745
@@ -4945,7 +4945,7 @@ msgid ""
 "be resolved. You have been haunting these mountains for far too long. It is "
 "high time for you and your brother to rest in peace."
 msgstr ""
-"Zamysli se nad tím, Ro'Arthiane. Je to výhodný návrh. Pokud nebudeš "
+"Zamysli se nad tím, Ro’Arthiane. Je to výhodný návrh. Pokud nebudeš "
 "souhlasit s Tallinovým návrhem, vaše nekonečná válka s trpaslíky nikdy "
 "nedojde konce. Strašíte s bratrem v těchto horách již příliš dlouho. Je "
 "nejvyšší čas aby to přestalo a měli jste pokoj."
@@ -4990,7 +4990,7 @@ msgid ""
 "Ro’Arthian, I am not of royal blood, but I am a man of my word. I will "
 "uphold the oath I have given even at the cost of my life."
 msgstr ""
-"Ro Arthiane, nejsem urozený šlechtic, ale slovu dostojím. Dodržím ten slib, "
+"Ro’Arthiane, nejsem urozený šlechtic, ale slovu dostojím. Dodržím ten slib, "
 "i kdyby mě to mělo stát život."
 
 #. [message]: speaker=Ro'Arthian
@@ -5077,7 +5077,7 @@ msgid ""
 "confusion. Your gryphons will be of use, but I think you should retain "
 "command of your trolls and ogres, until they are needed."
 msgstr ""
-"Ro'Arthiane, Stalragu, děkuji vám. Velím ale dostatečným silám a mám za to, "
+"Ro’Arthiane, Stalragu, děkuji vám. Velím ale dostatečným silám a mám za to, "
 "že spojení s dalšími by vedlo jen ke zmatku. Tví gryfoni budou velmi "
 "užiteční, ale myslím že by sis měl raději ponechat kontrolu nad trolly a "
 "obry, dokud nebudou zapotřebí."
@@ -5352,7 +5352,7 @@ msgid ""
 "that would turn on us at the first reverse. If we rescue their princess, the "
 "elves may yet choose not to help us, but that is a risk we’ll have to take."
 msgstr ""
-"Ro'Arthiane, pamatuj, že potřebujeme spíš dobrovolné spojence než pomocníky "
+"Ro’Arthiane, pamatuj, že potřebujeme spíš dobrovolné spojence než pomocníky "
 "z donucení, kteří se při první příležitosti obrátí proti nám. I pokud "
 "dokážeme zachránit princeznu, elfové se stále nemusí rozhodnout nám pomoci, "
 "ale musíme to riziko přijmout."
@@ -5422,7 +5422,7 @@ msgstr "Přežij tak dlouho, jak to půjde"
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:422
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:554
 msgid "Death of Ro’Arthian"
-msgstr "Ro Arthian zemře"
+msgstr "Ro’Arthian zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:308
@@ -5433,7 +5433,7 @@ msgstr "Ro Arthian zemře"
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:426
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:558
 msgid "Death of Ro’Sothian"
-msgstr "Ro Sothian zemře"
+msgstr "Ro’Sothian zemře"
 
 #. [note]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:318
@@ -5791,7 +5791,7 @@ msgid ""
 "attempting to restore peace and freedom to Knalga."
 msgstr ""
 "Samozřejmě. Jsem Tallin z lidského města Trpasličí dveře. Spolu s lordem "
-"Hamelem, trpaslíkem, a mágy Ro'Arthianem a jeho bratrem se pokoušíme obnovit "
+"Hamelem, trpaslíkem, a mágy Ro’Arthianem a jeho bratrem se pokoušíme obnovit "
 "pořádek v Knalze..."
 
 #. [message]: speaker=Eryssa
@@ -5930,7 +5930,7 @@ msgstr "Vidíš, já to říkal!"
 msgid ""
 "I know, you were right. I am sorry, Ro’Arthian. I should have listened to "
 "you."
-msgstr "Měl jsi pravdu, Ro Arthiane. Omlouvám se, měl jsem dát na tvá slova."
+msgstr "Měl jsi pravdu, Ro’Arthiane. Omlouvám se, měl jsem dát na tvá slova."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:452
@@ -7029,7 +7029,7 @@ msgstr "Tak! Skřety jsme vyřídili!"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:464
 msgid "Ro’Arthian, send a message to Hamel. Tell him it’s time."
-msgstr "Ro'Arthiane, pošli zprávu Hamelovi. Vyřiď, že už je čas."
+msgstr "Ro’Arthiane, pošli zprávu Hamelovi. Vyřiď, že už je čas."
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:488
@@ -7605,7 +7605,7 @@ msgid ""
 "The group that went to the north was led by Ro’Arthian and was composed of "
 "trolls, ogres and some selected mages."
 msgstr ""
-"Severní skupinu vedl Ro Arthian a skládala se ze trollů, obrů a některých "
+"Severní skupinu vedl Ro’Arthian a skládala se ze trollů, obrů a některých "
 "mágů."
 
 #. [message]: speaker=narrator
@@ -7632,7 +7632,7 @@ msgid ""
 "Ro’Arthian’s brother, Ro’Sothian, went south with another crew of trolls, "
 "ogres and mages. Tallin himself led the western group."
 msgstr ""
-"Ro Arthianův bratr Ro Sothian se vydal na jih s trolly, obry a mágy. Tallin "
+"Ro’Arthianův bratr Ro’Sothian se vydal na jih s trolly, obry a mágy. Tallin "
 "sám se ujal velení západní skupiny."
 
 #. [message]: speaker=narrator
@@ -8309,7 +8309,7 @@ msgid ""
 "guards are posted at both ends barring any who seek to enter without your "
 "leave, on pain of death."
 msgstr ""
-"Ro'Arthiane a Ro'Sothiane — i vy jste mi byli věrnými spojenci. Podle naší "
+"Ro’Arthiane a Ro’Sothiane — i vy jste mi byli věrnými spojenci. Podle naší "
 "úmluvy se nyní můžete vrátit do Potočního průsmyku. Postarám se, aby byly na "
 "obou koncích umístěny stráže, které zadrží každého, kdo by chtěl rušit váš "
 "klid, i kdyby měl propadnout hrdlem."
@@ -8340,7 +8340,7 @@ msgstr ""
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:366
 msgid "May your rest be peaceful and undisturbed, Ro’Arthian."
-msgstr "Přeji ti klidný a nerušený odpočinek, Ro'Arthiane."
+msgstr "Přeji ti klidný a nerušený odpočinek, Ro’Arthiane."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:377
