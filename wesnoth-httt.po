@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-08-12 22:18+0200\n"
+"PO-Revision-Date: 2021-08-16 22:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5575,15 +5575,15 @@ msgid ""
 "visiting their home as an envoy from us North Elves and was called upon to "
 "vanquish some beast or other."
 msgstr ""
-"Tuším, že patřil Ila’alionovi, velkému maršálovi Lesa. Byl začarován jako "
-"dík vašimi elfími přáteli z jihu. Navštívil jejich domov jako vyslanec od "
-"nás, severních elfů, a požádali ho, aby zahubil nějakou příšeru nebo něco "
-"podobného."
+"Tuším, že patřil Ila’alionovi, velkému maršálovi Lesa. Aby měl nějakou "
+"výhodu, vaši elfí přátelé z jihu mu ho očarovali. Navštívil jejich domov "
+"jako vyslanec od nás, severních elfů, a oni jej požádali, aby zahubil "
+"nějakou příšeru nebo něco podobného."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:129
 msgid "Some boon! All for a beast?"
-msgstr "To tedy je výraz díků! Jen za příšeru?"
+msgstr "Nějakou výhodu! A to všechno kvůli jedné příšeře?"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:133
