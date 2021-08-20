@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-08-16 22:37+0200\n"
+"PO-Revision-Date: 2021-08-20 07:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2423,8 +2423,8 @@ msgid ""
 "NE — Dan’Tonk\n"
 "SE — Fort Tahn"
 msgstr ""
-"SV - Dan’Tonk\n"
-"JV - Pevnost Tahn"
+"SV – Dan’Tonk\n"
+"JV – Pevnost Tahn"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Crossroads.cfg:503
@@ -2624,7 +2624,7 @@ msgstr ""
 #. [scenario]: id=09_The_Valley_of_Death
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:4
 msgid "The Valley of Death — The Princess’s Revenge"
-msgstr "Údolí smrti - princeznina pomsta"
+msgstr "Údolí smrti – princeznina pomsta"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:21
@@ -3029,7 +3029,7 @@ msgid ""
 "It is a shame we could not get those gryphon eggs — they would surely have "
 "given us an advantage sometime. Still, we must continue."
 msgstr ""
-"Je škoda, že jsme nezískali ty gryfoní vejce - určitě by nám jednou přinesly "
+"Je škoda, že jsme nezískali ty gryfoní vejce – určitě by nám jednou přinesly "
 "výhodu. Teď ale musíme pokračovat."
 
 #. [message]: speaker=Delfador
@@ -3508,7 +3508,7 @@ msgid ""
 "compelling. And so after many days of rest, the party set out once again for "
 "the dwarven kingdom..."
 msgstr ""
-"Konrád se nakonec rozhodl, že nebude čekat na to, až gryfoni dorostou - "
+"Konrád se nakonec rozhodl, že nebude čekat na to, až gryfoni dorostou – "
 "Delfadorovo naléhání, že žezlo musí být znovu nalezeno, stůj co stůj, jej "
 "přimělo k činu. A tak se po mnoha dnech odpočinku vydala společnost ještě "
 "dál do království trpaslíků..."
@@ -3533,7 +3533,7 @@ msgstr ""
 "Delfadorovo neúnavné naléhání, že žezlo musí být znovu nalezeno stůj co stůj "
 "nakonec převážilo nad ostatními argumenty, i když to znamenalo zbořit tábor "
 "ještě před příchodem jara. A tak se po mnoha dnech odpočinku vydala výprava "
-"opět na cestu - do království trpaslíků..."
+"opět na cestu – do království trpaslíků..."
 
 #. [scenario]: id=13_The_Dwarven_Doors
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:4
@@ -3616,7 +3616,7 @@ msgid ""
 "their way."
 msgstr ""
 "Konráde, vyslyš slova Delfadorova. Jednou se vrátíme, abychom vyrvali tuto "
-"zem střetům z pazourů. Podívej - skřeti se již shromažďují a další už určitě "
+"zem střetům z pazourů. Podívej – skřeti se již shromažďují a další už určitě "
 "přicházejí."
 
 #. [message]: speaker=Konrad
@@ -5709,7 +5709,7 @@ msgid ""
 "end by my blade!"
 msgstr ""
 "Dost! Už to nemohu poslouchat. Lisar, ty můžeš chtít ukončit vládu své "
-"matky, ale já ukončím její život - tak, jako ona ukončila život mého otce a "
+"matky, ale já ukončím její život – tak, jako ona ukončila život mého otce a "
 "mých bratrů. Ašvířino mistrovské dílo podvodu skončí, a to mým mečem!"
 
 #. [scenario]: id=19b_Swamp_Of_Dread
@@ -5964,7 +5964,7 @@ msgid ""
 "shattered among the river islands. Konrad sent some of the merfolk to "
 "investigate."
 msgstr ""
-"Jednoho dne se jim naskytl strašlivý pohled - flotila lodí a vorů, "
+"Jednoho dne se jim naskytl strašlivý pohled – flotila lodí a vorů, "
 "potopených nebo rozbitých na ostrůvcích. Konrád vyslal pár mořských lidí, "
 "aby to prozkoumali blíže."
 
@@ -5981,7 +5981,7 @@ msgstr ""
 "postavené. Většina jejich dřeva je ještě zelená. Vypadá to, že ty lodě "
 "nepotopila bouře; jsou tu četné známky boje. Ty nerozbité byly spáleny. "
 "Bitva se musela odehrát nedávno, jen o několik týdnů dříve. Nenašli jsme "
-"nikoho, kdo by přežil. Ale hlavně - všechny lodě nesou královskou vlajku "
+"nikoho, kdo by přežil. Ale hlavně – všechny lodě nesou královskou vlajku "
 "Wesnothu."
 
 #. [message]: speaker=Delfador
@@ -6133,7 +6133,7 @@ msgid ""
 "Eh... well of course, sir drake. Let me introduce myself — I am Prince "
 "Konrad, leader of the group and heir to the throne of Wesnoth."
 msgstr ""
-"Ah... omlouvám se, dračí pane. Dovolte mi představit se - jsem princ Konrád, "
+"Ah... omlouvám se, dračí pane. Dovolte mi představit se – jsem princ Konrád, "
 "vůdce této skupiny a dědic trůnu Wesnothu."
 
 #. [message]: speaker=Li'sar
@@ -6191,7 +6191,7 @@ msgstr "Jenže my se nemůžeme jen tak vrátit. Jsme na důležité výpravě."
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:380
 msgid "If you defy my warning — prepare for battle."
-msgstr "Varoval jsem vás - očekávejte boj."
+msgstr "Varoval jsem vás – očekávejte boj."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:384
@@ -6299,8 +6299,8 @@ msgid ""
 "Perhaps he was sent after you, but not after me. I am sure that he is still "
 "loyal to his princess — the heiress to the throne of Wesnoth!"
 msgstr ""
-"Možná jej poslali na vás, ale ne na mne. Určitě je stále věrný své princezně "
-"- dědičce trůnu Wesnothu!"
+"Možná jej poslali na vás, ale ne na mne. Určitě je stále věrný své "
+"princezně – dědičce trůnu Wesnothu!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:771
@@ -6373,7 +6373,7 @@ msgid ""
 "We are friends. Don’t worry about it and don’t try to fight us — you are in "
 "no condition to fight."
 msgstr ""
-"Jsme přátelé. Nestarej se a nepokoušej se s námi bojovat - jsi slabý jako "
+"Jsme přátelé. Nestarej se a nepokoušej se s námi bojovat – jsi slabý jako "
 "moucha."
 
 #. [message]: speaker=Li'sar
@@ -6388,7 +6388,7 @@ msgstr ""
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:851
 msgid "Princess Li’sar — here? Your Highness, I am yours to command!"
-msgstr "Princezna Lisar - tady? Výsosti, jsem Vám k službám!"
+msgstr "Princezna Lisar – tady? Výsosti, jsem Vám k službám!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:855
@@ -6408,7 +6408,7 @@ msgid ""
 msgstr ""
 "Před námi je vodopád! Podle hromového zvuku padající vody a množství a "
 "velikosti pěny musí padat ze strašlivé výše, aspoň několik set stop. Musíme "
-"na břeh dříve, než nás do něj zanesou proudy - pokud nás pohltí, nemáme "
+"na břeh dříve, než nás do něj zanesou proudy – pokud nás pohltí, nemáme "
 "šanci přežít!"
 
 #. [message]: role=merman-advisor
@@ -6735,7 +6735,7 @@ msgid ""
 "marching full speed for the orcs’ camp, and vice-versa. These armies are out "
 "for blood."
 msgstr ""
-"Zastav se na chvíli, Lisar. Podívej - stěží je tam v dálce uvidíš, ale "
+"Zastav se na chvíli, Lisar. Podívej – stěží je tam v dálce uvidíš, ale "
 "průzkumníci se už navzájem našli. Královniny síly pochodují co nejrychleji "
 "ke skřetímu táboru a naopak. Ty armády baží po krvi."
 
@@ -7829,7 +7829,7 @@ msgstr ""
 "Konráda přemohl neklid. Naléhavě jej cosi znepokojilo, když si navlékal "
 "novou tuniku a utahoval nově naolejované kožené pásky."
 
-# pův.: "Prošel halami elfí citadely a navštívil a povzbudil své vojáky. Mnoho z nich bylo elfů, kteří za sebou zanechávali klid a mír hlavního města, aby bojovali s velkou lidskou armádou - aby bojovali za něj. Tíha té myšlenky na něm stále ležela."
+# pův.: "Prošel halami elfí citadely a navštívil a povzbudil své vojáky. Mnoho z nich bylo elfů, kteří za sebou zanechávali klid a mír hlavního města, aby bojovali s velkou lidskou armádou – aby bojovali za něj. Tíha té myšlenky na něm stále ležela."
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Return_to_Wesnoth.cfg:137
 msgid ""
@@ -7840,7 +7840,7 @@ msgid ""
 msgstr ""
 "Procházel halami elfí citadely navštěvujíc a povzbuzujíc své vojáky. Mnozí z "
 "nich byli elfové, kteří za sebou zanechávali klid a mír hlavního města, aby "
-"bojovali proti velké lidské armádě - aby bojovali za něj. Tíha té myšlenky "
+"bojovali proti velké lidské armádě – aby bojovali za něj. Tíha té myšlenky "
 "na něm stále ležela."
 
 #. [part]
@@ -9020,8 +9020,8 @@ msgid ""
 "A beautiful chest plate crafted from shimmering black steel, the Void Armor "
 "is virtually impenetrable to physical weapons!"
 msgstr ""
-"Tento překrásný náprsní plát vytvořený z lesklé tmavé oceli - Pancíř nicoty "
-"- je téměř neprorazitelný fyzickou zbraní!"
+"Tento překrásný náprsní plát vytvořený z lesklé tmavé oceli – Pancíř "
+"nicoty – je téměř neprorazitelný fyzickou zbraní!"
 
 #. [object]: id={ID}
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:210
