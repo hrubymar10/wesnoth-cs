@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-07-18 12:00+0300\n"
-"PO-Revision-Date: 2021-07-19 21:59+0200\n"
+"PO-Revision-Date: 2021-08-21 21:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5280,7 +5280,7 @@ msgstr "(stiskni $hotkey k pokračování)"
 
 #: src/addon/client.cpp:76
 msgid "Connecting to $server_address|..."
-msgstr "Připojuji se k $server_adress|..."
+msgstr "Připojuji se k $server_address|..."
 
 #: src/addon/client.cpp:123
 msgid "Downloading list of add-ons..."
