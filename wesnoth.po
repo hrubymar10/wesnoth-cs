@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-21 23:31-0400\n"
-"PO-Revision-Date: 2021-08-21 21:29+0200\n"
+"PO-Revision-Date: 2021-08-23 22:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6314,10 +6314,8 @@ msgid "Defeat enemy leader(s)"
 msgstr "Znič nepřátelské(ho) vůdce"
 
 #: src/game_initialization/mp_game_utils.cpp:103
-#, fuzzy
-#| msgid "Cannot find era $era"
 msgid "Cannot find era '$era'"
-msgstr "Nemohu najít následující věk - $era"
+msgstr "Nelze najít éru „$era“"
 
 #: src/game_initialization/multiplayer.cpp:236
 msgid "Invalid address specified for multiplayer server"
