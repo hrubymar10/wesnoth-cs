@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-21 23:31-0400\n"
-"PO-Revision-Date: 2021-08-23 22:08+0200\n"
+"PO-Revision-Date: 2021-08-23 22:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7417,11 +7417,11 @@ msgstr ""
 
 #: src/menu_events.cpp:1540
 msgid "Side '$side' controller is now fully controlled by: AI."
-msgstr "Strana '$side' je nyní plně ovládaná počítačem."
+msgstr "Strana „$side“ je nyní plně ovládaná počítačem."
 
 #: src/menu_events.cpp:1542
 msgid "Side '$side' is already fully AI controlled."
-msgstr "Strana '$side' už je plně ovládaná počítačem."
+msgstr "Strana „$side“ už je plně ovládaná počítačem."
 
 #: src/menu_events.cpp:1567
 msgid ""
@@ -7432,7 +7432,7 @@ msgstr ""
 
 #: src/menu_events.cpp:1609
 msgid "Can't idle invalid side: '$side'."
-msgstr "Strau „$side“ nelze označit jako nečinnou."
+msgstr "Stranu „$side“ nelze označit jako nečinnou."
 
 #: src/menu_events.cpp:1614
 msgid "Can't idle networked side: '$side'."
