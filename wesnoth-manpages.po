@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-22 22:21-0400\n"
-"PO-Revision-Date: 2021-08-14 23:00+0200\n"
+"PO-Revision-Date: 2021-08-25 21:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -54,7 +54,7 @@ msgstr "NÁZEV"
 #. type: Plain text
 #: doc/man/wesnoth.6:20
 msgid "wesnoth - Battle for Wesnoth, a turn-based fantasy strategy game"
-msgstr "wesnoth - Bitva o Wesnoth, tahová fantasy strategická hra"
+msgstr "wesnoth – Bitva o Wesnoth, tahová fantasy strategická hra"
 
 # type: SH
 #. type: SH
@@ -1621,13 +1621,13 @@ msgstr "wesnothd"
 #: doc/man/wesnothd.6:16
 #, no-wrap
 msgid "Battle for Wesnoth multiplayer network daemon"
-msgstr "Bitva o Wesnoth - síťový server pro hru více hráčů"
+msgstr "Bitva o Wesnoth – síťový server pro hru více hráčů"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:23
 msgid "wesnothd - Battle for B<Wesnoth> multiplayer network daemon"
-msgstr "wesnothd - Bitva o B<Wesnoth> - síťový server pro hru více hráčů"
+msgstr "wesnothd – Bitva o B<Wesnoth> – síťový server pro hru více hráčů"
 
 # type: Plain text
 #. type: Plain text
