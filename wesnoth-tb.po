@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-07-18 21:39+0200\n"
+"PO-Revision-Date: 2021-08-27 22:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -963,7 +963,7 @@ msgstr ""
 "Doufal, že mága dodá Tairachovi výměnou za naše životy. Nevím, co s tím "
 "mužem vojevůdce chce učinit, ale odpovídá jeho popisu. Mordakův plán by asi "
 "byl vyšel, nebýt příchodu jezdců. A teď přicházejí sem, vedeni někým, kdo je "
-"prý bratr tohoto mága. Pokud je to pravda, nezastaví jej nic — jako by "
+"prý bratr tohoto mága. Pokud je to pravda, nezastaví jej nic – jako by "
 "nezastavilo nic mne, kdyby zajali Mordaka."
 
 #. [part]
@@ -1103,7 +1103,7 @@ msgstr ""
 #. [message]: speaker=Guard_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:421
 msgid "Halt! Friend or foe? Give the password."
-msgstr "Stát, kdo je tam - přítel či nepřítel? Heslo!"
+msgstr "Stát, kdo je tam – přítel či nepřítel? Heslo!"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:426
@@ -1671,7 +1671,7 @@ msgstr ""
 #. [scenario]: id=05_Epilogue
 #: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:5
 msgid "A Tale of Two Brothers — Epilogue"
-msgstr "Příběh dvou bratrů — Epilog"
+msgstr "Příběh dvou bratrů – Epilog"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:18
