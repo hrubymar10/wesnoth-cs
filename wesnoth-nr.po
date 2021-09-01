@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-08-14 22:55+0200\n"
+"PO-Revision-Date: 2021-09-01 22:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -229,7 +229,7 @@ msgstr ""
 "Byl to jarní den jako každý jiný – lidé úpící pod skřetími biči sklíčeně "
 "osazovali ranou setbu. Náhle se rozezněly všechny skřetí válečné bubny. "
 "Skřeti běželi za drsného válečného pokřiku pobrat zbraně a obsadit obranné "
-"pozice. Sedláci se v šoku rozhlíželi kolem, a tehdy jej spatřili."
+"pozice. Sedláci se v šoku rozhlíželi kolem a tehdy jej spatřili."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:60
@@ -676,8 +676,8 @@ msgid ""
 "their rugged fighting style."
 msgstr ""
 "Tak se tedy věci měly. Sedláci se přeli a přebíhali od jednoho plánu ke "
-"druhému — výsledkem bylo, že k ničemu nedospěli. Mezitím se objevila "
-"nečekaná pomoc, skupinka lesáků — uprchlíků před skřety, kteří v lesích "
+"druhému – výsledkem bylo, že k ničemu nedospěli. Mezitím se objevila "
+"nečekaná pomoc, skupinka lesáků – uprchlíků před skřety, kteří v lesích "
 "nabyli mnohých znalostí a dovedností a udržovali kontakty s většími bandami "
 "pytláků a psanců bloudících po nocích krajinou. Byli vysláni vyjednavači a "
 "uzavřeny dohody. Do Trpasličích dveří přišlo několik ostřílených, zjizvených "
@@ -1139,7 +1139,7 @@ msgid ""
 "havena’ forgotten the old bonds. Be welcome to our keep. Aye, and have "
 "speech with our chieftain, the Lord Hamel."
 msgstr ""
-"Ach, trpaslíci z Knalgy mají sami namále — ale nezapomněli jsme na staré "
+"Ach, trpaslíci z Knalgy mají sami namále – ale nezapomněli jsme na staré "
 "svazky. Vítejte v naší tvrzi. Promluvte si s naším náčelníkem, lordem "
 "Hamelem."
 
@@ -1470,7 +1470,7 @@ msgstr ""
 "roků, co jsme tu uvízli. Nejdřív po jednom, ale nakonec jich byly celé "
 "hordy. Dost nás při prvním setkání vyděsili. Netrvalo ale dlouho a zjistili "
 "jsme, že je naše kladiva likvidují tak snadno jako sekery skřety. Nebojím se "
-"ani tak toho, že existují — prošli jsme již daleko strašnějšími zkouškami — "
+"ani tak toho, že existují – prošli jsme již daleko strašnějšími zkouškami – "
 "ale spíš jejich stoupajícího množství..."
 
 #. [message]: speaker=Tallin
@@ -1496,7 +1496,7 @@ msgstr ""
 "No a to je ten problém, chlapče. Jsme tu v těchto tunelech uvězněni roky, "
 "téměř bez zdrojů potravy a kovů nebo nástrojů. Nepodařilo se nám víc než jen "
 "přežít. Teď když už zase můžeme na povrch, budeme mít víc jídla a spoustu "
-"nářadí — je skryté ve skladištích, ale drželi je skřeti a nemohli jsme se "
+"nářadí – je skryté ve skladištích, ale drželi je skřeti a nemohli jsme se "
 "tam dostat. Ale kovy budou ještě nějakou tu chvíli mimo dosah. Nejdřív "
 "bychom potřebovali rudu k tavení."
 
@@ -1868,7 +1868,7 @@ msgid ""
 msgstr ""
 "Rozhlédni se kolem sebe, Talline, pohleď na všechnu tu moc, bohatství, "
 "slávu, potěšení, které může říše smrti nabídnout. Pomysli jen na skvělou "
-"říši Knalgy — může být tvoje! Podělím se o ni s tebou!"
+"říši Knalgy – může být tvoje! Podělím se o ni s tebou!"
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:344
@@ -2048,7 +2048,7 @@ msgid ""
 "Tallin. He’s lucky, he is — or he makes his own luck."
 msgstr ""
 "Se vší úctou, lorde Hamele, někteří z nás by rádi dál následovali Tallina. "
-"Má štěstí — buď tak, nebo si ho sám přivolává."
+"Má štěstí – buď tak, nebo si ho sám přivolává."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:530
@@ -2822,7 +2822,7 @@ msgid ""
 "Interesting. I wonder who — or what — could have created such a powerful "
 "artifact. There must be one heck of a story behind this thing."
 msgstr ""
-"Zajímavé. Kdo — nebo možná co — mohl vyrobit tak mocný předmět? Příběh téhle "
+"Zajímavé. Kdo – nebo možná co – mohl vyrobit tak mocný předmět? Příběh téhle "
 "věci musí být pořádná sága."
 
 #. [object]: id=justice_rod
@@ -3917,7 +3917,7 @@ msgid ""
 "conquest of Knalga."
 msgstr ""
 "Jsem vládce Rakšas a vedu skřetí národ mocí meče. Přicházím dokončit "
-"prácičku, kterou Khazg Černý tesák kdysi nedodělal — dobytí Knalgy."
+"prácičku, kterou Khazg Černý tesák kdysi nedodělal – dobytí Knalgy."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:232
@@ -4226,7 +4226,7 @@ msgid ""
 "And I am grateful — but what should we do from here? The number of humans "
 "and dwarves is limited, unlike the orcs whose numbers seem unlimited."
 msgstr ""
-"A jsem za ně vděčný — ale co teď? Počet lidí a trpaslíků je omezený, zatímco "
+"A jsem za ně vděčný – ale co teď? Počet lidí a trpaslíků je omezený, zatímco "
 "skřetů je zřejmě nekonečno."
 
 #. [story]
@@ -4245,8 +4245,8 @@ msgid ""
 "accept — it would just be broken as soon as the next warlord arose among "
 "them."
 msgstr ""
-"Skřeti jsou zrádní. Pokud s nimi uzavřeme smlouvu — tedy za předpokladu, že "
-"ji vůbec přijmou — stejně ji poruší tak rychle, jak se změní jejich vedení."
+"Skřeti jsou zrádní. Pokud s nimi uzavřeme smlouvu – tedy za předpokladu, že "
+"ji vůbec přijmou – stejně ji poruší tak rychle, jak se změní jejich vedení."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:45
@@ -4384,8 +4384,8 @@ msgid ""
 "anyway, haven’t heard from him in years — the chief o’ the villages that lay "
 "along Highbrook Pass."
 msgstr ""
-"Slyšel jsem o něm od svého přítele Stalraga. Je — nebo tedy spíš byl, "
-"neslyšel jsem o něm už pěkných pár let — náčelníkem vesnic v Potočním "
+"Slyšel jsem o něm od svého přítele Stalraga. Je – nebo tedy spíš byl, "
+"neslyšel jsem o něm už pěkných pár let – náčelníkem vesnic v Potočním "
 "průsmyku."
 
 #. [story]
@@ -5174,7 +5174,7 @@ msgid ""
 msgstr ""
 "Ještě té noci byli vysláni gryfoni s vybranými lesníky a za necelé dva dny "
 "se jim podařilo překvapit skřetího posla na cestě z Hořkobrodu. Posel nesl "
-"elfům požadavek na výkupné — vědma totiž byla ve skutečnosti urozená "
+"elfům požadavek na výkupné – vědma totiž byla ve skutečnosti urozená "
 "princezna."
 
 #. [part]
@@ -5483,7 +5483,7 @@ msgid ""
 "Just our luck to be here when they’re mustering a field force — probably to "
 "attack the caves. Avoid them if you can, kill them if you can’t."
 msgstr ""
-"Máme to tedy štěstí, shromažďují vojsko zrovna když jsme tu — asi k útoku na "
+"Máme to tedy štěstí, shromažďují vojsko zrovna když jsme tu – asi k útoku na "
 "jeskyně. Pokud to půjde, vyhněte se jim, pokud ne, zlikvidujte je."
 
 #. [message]: speaker=Atul
@@ -7131,7 +7131,7 @@ msgid ""
 "they found him."
 msgstr ""
 "Zastavili se na chvíli, aby ošetřili několik málo přeživších elfů a "
-"zanechali u nich hlídku. Pak rychle pokračovali v naději, že najdou Hidela — "
+"zanechali u nich hlídku. Pak rychle pokračovali v naději, že najdou Hidela – "
 "a také jej našli."
 
 #. [part]
@@ -7146,7 +7146,7 @@ msgstr ""
 "Kolem něj leželi tři mrtví skřetí vojevůdci a množství pěšáků, válečníků a "
 "kušařů. Jeho zbraně a zbroj byly obité a polámané. Bylo zřejmé, že svůj "
 "život neprodal lacino a proběhnuvší boj by se řadil po bok bájných epických "
-"vyprávění všech ras o statečnosti a slávě — pokud by o něm kdo žijící mohl "
+"vyprávění všech ras o statečnosti a slávě – pokud by o něm kdo žijící mohl "
 "podat zprávu."
 
 #. [part]
@@ -7499,7 +7499,7 @@ msgid ""
 "alive!"
 msgstr ""
 "Nemyslím! To zlato patří nám, skřetí zmetci. Kromě toho máme ještě nějaké "
-"nevyřízené účty. Na ně, muži — nenechte žádného naživu!"
+"nevyřízené účty. Na ně, muži – nenechte žádného naživu!"
 
 # Tallin
 #. [message]: id=Tallin
@@ -7985,7 +7985,7 @@ msgid ""
 msgstr ""
 "Navrhuji vytvořit neutrální radu dohlížitelů, složenou z lidí, trpaslíků, "
 "elfů, drakonidů, trollů nebo kohokoliv dalšího, kdo se bude chtít přidat. "
-"Bez ohledu na to kdo to je — třeba i skřeti."
+"Bez ohledu na to kdo to je – třeba i skřeti."
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:134
@@ -8309,7 +8309,7 @@ msgid ""
 "guards are posted at both ends barring any who seek to enter without your "
 "leave, on pain of death."
 msgstr ""
-"Ro’Arthiane a Ro’Sothiane — i vy jste mi byli věrnými spojenci. Podle naší "
+"Ro’Arthiane a Ro’Sothiane – i vy jste mi byli věrnými spojenci. Podle naší "
 "úmluvy se nyní můžete vrátit do Potočního průsmyku. Postarám se, aby byly na "
 "obou koncích umístěny stráže, které zadrží každého, kdo by chtěl rušit váš "
 "klid, i kdyby měl propadnout hrdlem."
@@ -8637,7 +8637,7 @@ msgstr "Vaše pokusy zničit nás jsou odsouzeny k neúspěchu, špindírové."
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:268
 msgid "Oh no, Morvin! We have failed in our mission to help Tallin!"
-msgstr "Ach ne, Morvine! Selhali jsme — Tallin přichází o naši pomoc!"
+msgstr "Ach ne, Morvine! Selhali jsme – Tallin přichází o naši pomoc!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:273
