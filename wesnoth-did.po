@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-22 03:31 UTC\n"
-"PO-Revision-Date: 2021-08-19 23:48+0200\n"
+"PO-Revision-Date: 2021-09-03 23:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6101,7 +6101,7 @@ msgstr "Malinův útok mečem získává speciální vlastnost nákaza"
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:180
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:278
 msgid "+2 ranged damage, but -10% arcane resistance"
-msgstr "+2 k útoku na dálku, ale -10 % k odolnosti vůči nezemským útokům"
+msgstr "+2 k útoku na dálku, ale −10 % k odolnosti vůči nezemským útokům"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:199
 msgid "Malin’s melee attack heals him every hit"
@@ -6149,7 +6149,7 @@ msgstr "Získává schopnost mrtvolného mistrovství"
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:378
 msgid "+1 ranged strikes, but -20% arcane resistance and -12 hp"
 msgstr ""
-"+1 k útokům na dálku, ale -20 % k odolnosti vůči nezemským útokům a -12 "
+"+1 k útokům na dálku, ale −20 % k odolnosti vůči nezemským útokům a −12 "
 "životů"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:401
