@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-22 03:31 UTC\n"
-"PO-Revision-Date: 2021-08-31 20:39+0200\n"
+"PO-Revision-Date: 2021-09-06 23:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6512,7 +6512,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:41
 msgid "Turns run out before reaching the forest"
-msgstr "Počet kol vyprší aniž by jsi se dostal k lesu"
+msgstr "Počet kol vyprší, aniž se dostaneš k lesu"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:52
