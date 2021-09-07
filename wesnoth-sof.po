@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-22 03:31 UTC\n"
-"PO-Revision-Date: 2021-08-01 20:28+0200\n"
+"PO-Revision-Date: 2021-09-07 20:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -971,8 +971,8 @@ msgid ""
 "If that is what ye choose to do, fine, but be prepared to wait for many "
 "years."
 msgstr ""
-"Jestli tohle je to, co jsi se rozhodl udělat, dobrá. Ale připrav se, že "
-"budeš čekat mnoho let."
+"Jestli tohle je to, co ses rozhodl udělat, dobrá. Ale připrav se, že budeš "
+"čekat mnoho let."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:645
@@ -1335,7 +1335,7 @@ msgstr ""
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:169
 msgid "Speak properly to your elders, boy! Why are you late?"
-msgstr "Mluv uctivě ke starším, chlapče! Proč jsi se zpozdil?"
+msgstr "Mluv uctivě ke starším, chlapče! Proč ses zpozdil?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:173
