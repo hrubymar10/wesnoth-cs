@@ -11,15 +11,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 15:42 UTC\n"
-"PO-Revision-Date: 2021-07-27 18:03+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2021-09-07 20:03+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.0\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:11
@@ -972,8 +971,8 @@ msgid ""
 "If that is what ye choose to do, fine, but be prepared to wait for many "
 "years."
 msgstr ""
-"Jestli tohle je to, co jsi se rozhodl udělat, dobrá. Ale připrav se, že "
-"budeš čekat mnoho let."
+"Jestli tohle je to, co ses rozhodl udělat, dobrá. Ale připrav se, že budeš "
+"čekat mnoho let."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:645
@@ -1336,7 +1335,7 @@ msgstr ""
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:169
 msgid "Speak properly to your elders, boy! Why are you late?"
-msgstr "Mluv uctivě ke starším, chlapče! Proč jsi se zpozdil?"
+msgstr "Mluv uctivě ke starším, chlapče! Proč ses zpozdil?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:173
