@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-04-18 02:22 UTC\n"
-"PO-Revision-Date: 2021-09-05 20:40+0200\n"
+"PO-Revision-Date: 2021-09-09 20:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -524,7 +524,7 @@ msgid ""
 "Then we must storm one of the orcs’ outposts to break the encirclement "
 "before more enemies arrive!"
 msgstr ""
-"Pak musíme zničit jedno ze skřetích ležení abysme prolomili obklíčení dřív, "
+"Pak musíme zničit jedno ze skřetích ležení abychom prolomili obklíčení dřív, "
 "než dorazí další nepřátelé!"
 
 #. [message]: id=Anduilas
@@ -2163,8 +2163,8 @@ msgid ""
 "Perhaps you were wiser than I, Landar. Had we divided our forces, we would "
 "not be bound to inaction now."
 msgstr ""
-"Možná jsi byl moudřejší než já Landare. Kdybysme rozdělili svá vojska, "
-"nemuseli bysme teď být vázáni nečinností."
+"Možná jsi byl moudřejší než já Landare. Kdybychom rozdělili svá vojska, "
+"nemuseli bychom teď být vázáni nečinností."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:81
@@ -2453,7 +2453,7 @@ msgstr "Konečně!"
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:419
 msgid "We’ll need to settle things with these saurians once and for all!"
-msgstr "Opravdu bysme si to měli s těmi ještěráky vyřídit jednou a provždy!"
+msgstr "Opravdu bychom si to měli s těmi ještěráky vyřídit jednou a provždy!"
 
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:423
@@ -2625,8 +2625,8 @@ msgstr ""
 msgid ""
 "Do as Cleodil says. We have enemies sufficient without provoking new ones."
 msgstr ""
-"Uděláme jak Kleodil říká. Máme už dost nepřátel na to, abysme si provokovali "
-"další."
+"Uděláme, jak Kleodil říká. Máme už dost nepřátel na to, abychom si "
+"provokovali další."
 
 #. [unit]: type=Yeti, id=Tralg
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/10_Cliffs_of_Thoria.cfg:358
