@@ -2076,7 +2076,7 @@ msgstr "Jsou zde nějaké velké kosti. Vidím i pařáty a křídla."
 #. [message]: speaker=$other_human
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:186
 msgid "How odd. I wonder what are they from. A gryphon perhaps?"
-msgstr "Zvláštní. Zajímalo by mě, koho jsou. Možná gryfonů?"
+msgstr "Zvláštní. Zajímalo by mě, koho jsou. Možná gryfů?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:190
@@ -2983,7 +2983,7 @@ msgstr ""
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:46
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:57
 msgid "Gryphons"
-msgstr "Gryfoni"
+msgstr "Gryfové"
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:73
@@ -3043,7 +3043,7 @@ msgstr "Jaké nebezpečí se může schovávat v této mlze?"
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:354
 msgid "Gryphons... live at this height. We should be cautious."
-msgstr "Gryfoni... žijí v této výšce. Musíme být opatrní."
+msgstr "Gryfové... žijí v této výšce. Musíme být opatrní."
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:363
@@ -3967,7 +3967,7 @@ msgid ""
 "This is the place Crelanu’s gryphon told us to come, and yon party has an "
 "ill-favored look."
 msgstr ""
-"Toto je to místo, kam nás poslal Krelanův gryfon. Už pohled na tu skupinu je "
+"Toto je to místo, kam nás poslal Krelanův gryf. Už pohled na tu skupinu je "
 "strašný."
 
 #. [message]: speaker=Gwendir
@@ -4767,12 +4767,12 @@ msgstr "Nyní můžeš vyvolávat mrtvoly goblinů!"
 #. [value]: type=SotA Flying Corpse_Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:87
 msgid "recruit^Flying Corpse (Gryphon)"
-msgstr "Létající mrtvola (gryfon)"
+msgstr "Létající mrtvola (gryf)"
 
 #. [value]: type=SotA Flying Corpse_Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:88
 msgid "You can now raise gryphon corpses!"
-msgstr "Nyní můžeš vyvolávat mrtvoly gryfonů!"
+msgstr "Nyní můžeš vyvolávat mrtvoly gryfů!"
 
 #. [value]: type=SotA Walking Corpse_Spider
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:93

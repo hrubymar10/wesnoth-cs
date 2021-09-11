@@ -1705,7 +1705,7 @@ msgstr ""
 "u Abezu.\n"
 "\n"
 "<header>text='Významné krajinné prvky:'</header>\n"
-"    • Hora gryfonů: Domov legendárních gryfonů.\n"
+"    • Hora gryfů: Domov legendárních gryfů.\n"
 "    • brod u Abezu: Mělká část Velké řeky, obvykle kontrolovaná wesnothskou "
 "armádou.\n"
 "    • řeka Weldyn: Rameno Velké řeky, které se stáčí na jih.\n"
@@ -1714,8 +1714,8 @@ msgstr ""
 "obyvatel.\n"
 "    • Dulatuské pahorky: Na této zvlněné ploše hraničící s Velkou centrální "
 "nížinou je soustředěna velká část zemědělství Wesnothu.\n"
-"    • Hnědé pahorky: Pustina obklopující Horu gryfonů. Není moc osídlená "
-"a tu a tam je i dost nebezpečná.\n"
+"    • Hnědé pahorky: Pustina obklopující Horu gryfů. Není moc osídlená a tu "
+"a tam je i dost nebezpečná.\n"
 "    • Nížina koní: Zvlněná nížina vyvstávající jižně od Velké řeky, "
 "ohraničená Glynovým lesem na západě a řekou Weldyn na východě. Jižní část "
 "splývá s Centrální nížinou. Domov mocných klanů. Jsou tu chováni nejlepší "
@@ -6901,17 +6901,17 @@ msgstr ""
 #. [race]: id=gryphon
 #: data/core/units.cfg:170
 msgid "race^Gryphon"
-msgstr "Gryfon"
+msgstr "Gryf"
 
 #. [race]: id=gryphon
 #: data/core/units.cfg:171
 msgid "race+female^Gryphon"
-msgstr "Gryfonice"
+msgstr "Gryfka"
 
 #. [race]: id=gryphon
 #: data/core/units.cfg:172
 msgid "race^Gryphons"
-msgstr "Gryfoni"
+msgstr "Gryfové"
 
 #. [race]: id=gryphon
 #: data/core/units.cfg:173
@@ -6925,12 +6925,12 @@ msgid ""
 "been a source of debate for centuries, but it remains as mysterious as their "
 "origins."
 msgstr ""
-"Gryfoni jsou mohutná, silná stvoření oplývající vlastnostmi, které zdědili "
+"Gryfové jsou mohutná, silná stvoření oplývající vlastnostmi, které zdědili "
 "jak od svých pozemských předků, tak od dravých ptáků. I když se je sem tam "
-"podaří zkrotit a osedlat, gryfoni jsou velmi teritoriální a agresivní, "
+"podaří zkrotit a osedlat, gryfové jsou velmi teritoriální a agresivní, "
 "obzvlášť, pokud jde o jejich hnízda.\n"
 "\n"
-"Jak dokážou gryfoni létat navzdory své velikosti a hmotnosti je už po "
+"Jak dokážou gryfové létat navzdory své velikosti a hmotnosti je už po "
 "staletí předmětem dohadů, ale ve skutečnosti je to stejná záhada, jako "
 "jejich původ."
 

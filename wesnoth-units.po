@@ -3770,7 +3770,7 @@ msgstr ""
 #. [unit_type]: id=Gryphon, race=gryphon
 #: data/core/units/gryphons/Gryphon.cfg:4
 msgid "Gryphon"
-msgstr "Gryfon"
+msgstr "Gryf"
 
 #. [unit_type]: id=Gryphon, race=gryphon
 #: data/core/units/gryphons/Gryphon.cfg:18
@@ -3786,7 +3786,7 @@ msgstr ""
 #. [unit_type]: id=Gryphon Master, race=gryphon
 #: data/core/units/gryphons/Gryphon_Master.cfg:4
 msgid "Gryphon Master"
-msgstr "Pán gryfonů"
+msgstr "Pán gryfů"
 
 #. [unit_type]: id=Gryphon Master, race=gryphon
 #: data/core/units/gryphons/Gryphon_Master.cfg:18
@@ -3795,14 +3795,14 @@ msgid ""
 "an extension of themselves. This special relationship makes the heart of the "
 "earth-bound tremble, for these mighty birds of prey may strike from anywhere."
 msgstr ""
-"Páni gryfonů strávili na hřbetech gryfonů tak dlouhý čas, že se tito stali "
+"Páni gryfů strávili na hřbetech gryfů tak dlouhý čas, že se tito stali "
 "součástí jich samých. Jejich zvláštní vztah přiměje srdce pozemských tvorů "
 "třást se strachem, protože tito mocní letci mohou udeřit odkudkoli."
 
 #. [unit_type]: id=Gryphon Rider, race=gryphon
 #: data/core/units/gryphons/Gryphon_Rider.cfg:4
 msgid "Gryphon Rider"
-msgstr "Jezdec na gryfonovi"
+msgstr "Jezdec na gryfovi"
 
 #. [unit_type]: id=Gryphon Rider, race=gryphon
 #: data/core/units/gryphons/Gryphon_Rider.cfg:17
@@ -3811,8 +3811,8 @@ msgid ""
 "become Gryphon Riders, and discover the world of the skies upon the backs of "
 "these flying beasts."
 msgstr ""
-"Jen málokdo se může spojit s mocnými gryfony. Ti, kteří to dokáží, se mohou "
-"stát jezdci na gryfonech a poznat vzdušný svět na zádech těchto létajících "
+"Jen málokdo se může spojit s mocnými gryfy. Ti, kteří to dokáží, se mohou "
+"stát jezdci na gryfech a poznat vzdušný svět na zádech těchto létajících "
 "zvířat."
 
 #. [unit_type]: id=Grand Knight, race=human
@@ -7801,7 +7801,7 @@ msgstr "Jezdec na zvířeti"
 #: data/core/units/undead/Corpse_Soulless.cfg:216
 #: data/core/units/undead/Corpse_Walking.cfg:188
 msgid "wc_variation^Gryphon"
-msgstr "Gryfon"
+msgstr "Gryf"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:239
