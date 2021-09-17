@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-22 03:31 UTC\n"
-"PO-Revision-Date: 2021-09-14 20:38+0200\n"
+"PO-Revision-Date: 2021-09-17 23:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -828,7 +828,7 @@ msgstr ""
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:484
 msgid "It is my pleasure and honor to serve, my liege."
-msgstr "Je mi ctí a radostí Vám sloužit, můj pane."
+msgstr "Je mi ctí a radostí vám sloužit, můj pane."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:502
@@ -6386,7 +6386,7 @@ msgstr ""
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:851
 msgid "Princess Li’sar — here? Your Highness, I am yours to command!"
-msgstr "Princezna Lisar – tady? Výsosti, jsem Vám k službám!"
+msgstr "Princezna Lisar – tady? Výsosti, jsem vám k službám!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:855
