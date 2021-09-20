@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:42-0400\n"
-"PO-Revision-Date: 2021-09-18 14:23+0200\n"
+"PO-Revision-Date: 2021-09-20 20:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4174,7 +4174,7 @@ msgstr "Přezdívka"
 #. [label]
 #: data/gui/window/mp_change_control.cfg:140
 msgid "Change Control"
-msgstr "Změň"
+msgstr "Změnit ovládání"
 
 #. [label]
 #: data/gui/window/mp_connect.cfg:71
