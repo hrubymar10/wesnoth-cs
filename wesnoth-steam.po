@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-12 13:58-0300\n"
-"PO-Revision-Date: 2021-05-11 22:08+0200\n"
+"POT-Creation-Date: 2021-10-25 22:03+0200\n"
+"PO-Revision-Date: 2021-10-25 22:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -58,7 +58,7 @@ msgid "######## SUPPORTED PLATFORMS - MINIMUM REQUIREMENTS ########\n"
 msgstr "######## PODPOROVANÉ PLATFORMY - MINIMÁLNÍ POŽADAVKY ########\n"
 
 #. type: Plain text
-#: app_metadata.txt:18 app_metadata.txt:43
+#: app_metadata.txt:18 app_metadata.txt:44
 #, no-wrap
 msgid "#### OS VERSION ####\n"
 msgstr "#### VERZE OPERAČNÍHO SYSTÉMU ####\n"
@@ -72,8 +72,8 @@ msgstr "Windows 7 SP1 nebo novější\n"
 #. type: Plain text
 #: app_metadata.txt:22
 #, no-wrap
-msgid "OS X 10.8 or later\n"
-msgstr "OS X 10.8 nebo novější\n"
+msgid "OS X 10.11 or later\n"
+msgstr "OS X 10.11 nebo novější\n"
 
 #. type: Plain text
 #: app_metadata.txt:24
@@ -82,7 +82,7 @@ msgid "Ubuntu 16.04 or compatible\n"
 msgstr "Ubuntu 16.04 nebo kompatibilní\n"
 
 #. type: Plain text
-#: app_metadata.txt:26 app_metadata.txt:51
+#: app_metadata.txt:26 app_metadata.txt:52
 #, no-wrap
 msgid "#### PROCESSOR ####\n"
 msgstr "#### PROCESOR ####\n"
@@ -94,55 +94,61 @@ msgid "Dual-core 2.0 GHz or better\n"
 msgstr "Dual-core 2.0 GHz nebo lepší\n"
 
 #. type: Plain text
-#: app_metadata.txt:34 app_metadata.txt:59
+#: app_metadata.txt:34 app_metadata.txt:60
 #, no-wrap
 msgid "#### GRAPHICS ####\n"
 msgstr "#### GRAFIKA ####\n"
 
 #. type: Plain text
-#: app_metadata.txt:36 app_metadata.txt:61
+#: app_metadata.txt:36 app_metadata.txt:62
 #, no-wrap
 msgid "#### SOUND CARD ####\n"
 msgstr "#### ZVUKOVÁ KARTA####\n"
 
 #. type: Plain text
-#: app_metadata.txt:38 app_metadata.txt:63
+#: app_metadata.txt:38 app_metadata.txt:64
 #, no-wrap
 msgid "#### ADDITIONAL NOTES ####\n"
 msgstr "#### DALŠÍ POZNÁMKY ####\n"
 
 #. type: Plain text
-#: app_metadata.txt:41
+#: app_metadata.txt:40 app_metadata.txt:66
+#, no-wrap
+msgid "64-bit only\n"
+msgstr "Pouze 64bitová verze\n"
+
+#. type: Plain text
+#: app_metadata.txt:42
 #, no-wrap
 msgid "######## SUPPORTED PLATFORMS - RECOMMENDED REQUIREMENTS ########\n"
 msgstr "######## PODPOROVANÉ PLATFORMY - DOPORUČENÉ POŽADAVKY ########\n"
 
 #. type: Plain text
-#: app_metadata.txt:45
+#: app_metadata.txt:46
 #, no-wrap
 msgid "Windows 10\n"
 msgstr "Windows 10\n"
 
 #. type: Plain text
-#: app_metadata.txt:47
+#: app_metadata.txt:48
 #, no-wrap
-msgid "macOS 10.10 or later\n"
-msgstr "macOS 10.10 nebo novější\n"
+msgid "macOS 10.15 or later\n"
+msgstr "macOS 10.15 nebo novější\n"
 
 #. type: Plain text
-#: app_metadata.txt:49
+#: app_metadata.txt:50
 #, no-wrap
-msgid "Ubuntu 18.04 or compatible\n"
-msgstr "Ubuntu 18.04 nebo kompatibilní\n"
+msgid "Ubuntu 20.04 or compatible\n"
+msgstr "Ubuntu 20.04 nebo kompatibilní\n"
 
 #. type: Plain text
-#: app_metadata.txt:53 app_metadata.txt:55 app_metadata.txt:57
+#: app_metadata.txt:54 app_metadata.txt:56 app_metadata.txt:58
 #, no-wrap
 msgid "Dual-core 3.2 GHz or better\n"
 msgstr "Dual-core 3.2 GHz nebo lepší\n"
 
 #. type: Plain text
-#: app_metadata.txt:65
+#: app_metadata.txt:67
 #, no-wrap
 msgid "######## LEGAL INFORMATION ########\n"
 msgstr "######## PRÁVNÍ INFORMACE ########\n"
