@@ -27,12 +27,13 @@ wesnoth-thot | 354 | 95 % | 17 | Septim
 wesnoth-trow | 1006 | 95 % | 43 |
 wesnoth-tsg | 629 | 98 % | 10 |
 wesnoth-tutorial | 279 | 93 % | 17 |
-wesnoth-units | 740 | 99 % | 4 | Septim
 wesnoth-utbs | 1934 | 97 % | 47 |
 wesnoth | 1309 | 99 % | 3 | Michal
 
-Total messages remaining: **608**
+Total messages remaining: **604**
 
-The translation speed is lower than one message per day.
+Progress since 2022-01-03: **1** message per day
+
+ETA: **2023-09-02**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
