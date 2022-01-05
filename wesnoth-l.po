@@ -23,6 +23,32 @@ msgstr ""
 msgid "Liberty"
 msgstr "Svoboda"
 
+# Alexander Slávik <slavik.alexander@seznam.cz>, 2007.
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
+# Honza <Honza-mistic@seznam.cz>, 2014.
+# Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2022-01-02 18:01 UTC\n"
+"PO-Revision-Date: 2022-01-05 20:22+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
+"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. [campaign]: id=Liberty
+#: data/campaigns/Liberty/_main.cfg:10 data/campaigns/Liberty/_main.cfg:11
+msgid "Liberty"
+msgstr "Svoboda"
+
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:19
 msgid "Easy"
@@ -663,8 +689,6 @@ msgstr "Střežte bránu."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:225
-#, fuzzy
-#| msgid "<i>Uncle, since when did we have a Queen?</i>"
 msgid "<i>Uncle, since when did we have a queen?</i>"
 msgstr "<i>Strejdo, od kdy máme královnu?</i>"
 
@@ -1995,13 +2019,6 @@ msgstr "A čím se zabejváš?"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:265
-#, fuzzy
-#| msgid ""
-#| "The former King’s magic ministry kept a tight control on the training and "
-#| "employment of mages in Wesnoth. Those of us who dared to... depart from "
-#| "the curriculum were dealt with harshly. Many of us were forced to escape "
-#| "here to continue our study of our brand of magic. Our security and "
-#| "secrecy are not cheap."
 msgid ""
 "The former king’s magic ministry kept a tight control on the training and "
 "employment of mages in Wesnoth. Those of us who dared to... depart from the "
@@ -2038,11 +2055,6 @@ msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:281
-#, fuzzy
-#| msgid ""
-#| "Understand this. Any weakening of the Throne of Wesnoth, whether it be "
-#| "occupied by King or Queen, aids us. To accomplish that, we must "
-#| "destabilize their forces in this region. The key is Halstead."
 msgid ""
 "Understand this. Any weakening of the Throne of Wesnoth, whether it be "
 "occupied by king or queen, aids us. To accomplish that, we must destabilize "
