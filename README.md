@@ -8,20 +8,20 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-did | 887 | 99 % | 7 |
+wesnoth-did | 887 | 99 % | 7 | Septim
 wesnoth-dm | 730 | 84 % | 113 |
 wesnoth-help | 666 | 99 % | 4 | Michal
 wesnoth-httt | 1225 | 96 % | 43 |
 wesnoth-lib | 1441 | 99 % | 14 | Michal
 wesnoth-low | 718 | 93 % | 46 | Septim
 wesnoth-manpages | 310 | 98 % | 4 | Michal
-wesnoth-nr | 1203 | 97 % | 31 |
-wesnoth-sota | 647 | 92 % | 46 |
+wesnoth-nr | 1203 | 97 % | 31 | Septim
+wesnoth-sota | 647 | 92 % | 46 | Septim
 wesnoth-sotbe | 640 | 97 % | 13 |
 wesnoth-trow | 1006 | 95 % | 43 |
 wesnoth-tsg | 629 | 98 % | 10 |
 wesnoth-tutorial | 279 | 93 % | 17 |
-wesnoth-utbs | 1934 | 97 % | 47 |
+wesnoth-utbs | 1934 | 97 % | 47 | Septim
 wesnoth | 1309 | 99 % | 3 | Michal
 
 Total messages remaining: **441**
