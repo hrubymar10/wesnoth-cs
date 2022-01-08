@@ -10,15 +10,15 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-did | 887 | 99 % | 7 |
 wesnoth-dm | 730 | 84 % | 113 |
-wesnoth-dw | 476 | 96 % | 19 |
-wesnoth-ei | 572 | 95 % | 25 |
+wesnoth-dw | 476 | 96 % | 19 | Septim
+wesnoth-ei | 572 | 95 % | 25 | Septim
 wesnoth-help | 666 | 99 % | 4 | Michal
 wesnoth-httt | 1225 | 96 % | 43 |
 wesnoth-lib | 1441 | 99 % | 14 | Michal
-wesnoth-low | 718 | 93 % | 46 |
+wesnoth-low | 718 | 93 % | 46 | Septim
 wesnoth-manpages | 310 | 98 % | 4 | Michal
 wesnoth-nr | 1203 | 97 % | 31 |
-wesnoth-sof | 657 | 85 % | 97 |
+wesnoth-sof | 657 | 85 % | 97 | Septim
 wesnoth-sota | 647 | 92 % | 46 |
 wesnoth-sotbe | 640 | 97 % | 13 |
 wesnoth-thot | 354 | 95 % | 17 | Septim
