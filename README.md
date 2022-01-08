@@ -13,7 +13,6 @@ wesnoth-help | 666 | 99 % | 4 | Michal
 wesnoth-httt | 1225 | 96 % | 43 |
 wesnoth-lib | 1441 | 99 % | 14 | Michal
 wesnoth-manpages | 310 | 98 % | 4 | Michal
-wesnoth-nr | 1203 | 97 % | 31 | Septim
 wesnoth-sota | 647 | 92 % | 46 | Septim
 wesnoth-sotbe | 640 | 97 % | 13 |
 wesnoth-trow | 1006 | 95 % | 43 |
@@ -22,10 +21,10 @@ wesnoth-tutorial | 279 | 93 % | 17 |
 wesnoth-utbs | 1934 | 97 % | 47 | Septim
 wesnoth | 1309 | 99 % | 3 | Michal
 
-Total messages remaining: **388**
+Total messages remaining: **357**
 
-Progress since 2022-01-03: **37** messages per day
+Progress since 2022-01-03: **42** messages per day
 
-ETA: **2022-01-18**
+ETA: **2022-01-16**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
