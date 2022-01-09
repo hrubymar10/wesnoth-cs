@@ -9,7 +9,6 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-dm | 730 | 84 % | 113 |
-wesnoth-help | 666 | 99 % | 4 | Michal
 wesnoth-httt | 1225 | 96 % | 43 |
 wesnoth-lib | 1441 | 99 % | 14 | Michal
 wesnoth-manpages | 310 | 98 % | 4 | Michal
@@ -18,9 +17,9 @@ wesnoth-trow | 1006 | 95 % | 43 | Septim
 wesnoth-tsg | 629 | 98 % | 10 | Septim
 wesnoth-tutorial | 279 | 93 % | 17 |
 
-Total messages remaining: **261**
+Total messages remaining: **257**
 
-Progress since 2022-01-03: **52** messages per day
+Progress since 2022-01-03: **51** messages per day
 
 ETA: **2022-01-14**
 
