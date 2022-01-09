@@ -3,14 +3,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 21:01+0300\n"
-"PO-Revision-Date: 2021-09-20 20:28+0200\n"
+"PO-Revision-Date: 2022-01-09 20:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5321,7 +5321,7 @@ msgid ""
 "number of hitpoints inflicted/taken."
 msgstr ""
 "Rozdíl mezi očekávaným a skutečným výsledkem v procentech.\n"
-"První číslo v závorce je očekávaná velikost uštědřenéno nebo utrženéno "
+"První číslo v závorce je očekávaná velikost uštědřeného nebo utrženého "
 "zranění.\n"
 "Součet (nebo rozdíl) dvou čísel v závorce je zranění skutečně uštědřené nebo "
 "utržené."
