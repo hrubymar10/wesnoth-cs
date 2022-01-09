@@ -15,8 +15,8 @@ wesnoth-lib | 1441 | 99 % | 14 | Michal
 wesnoth-manpages | 310 | 98 % | 4 | Michal
 wesnoth-sota | 647 | 92 % | 46 | Septim
 wesnoth-sotbe | 640 | 97 % | 13 |
-wesnoth-trow | 1006 | 95 % | 43 |
-wesnoth-tsg | 629 | 98 % | 10 |
+wesnoth-trow | 1006 | 95 % | 43 | Septim
+wesnoth-tsg | 629 | 98 % | 10 | Septim
 wesnoth-tutorial | 279 | 93 % | 17 |
 wesnoth-utbs | 1934 | 97 % | 47 | Septim
 wesnoth | 1309 | 99 % | 3 | Michal
