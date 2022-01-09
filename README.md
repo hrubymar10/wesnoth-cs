@@ -17,12 +17,11 @@ wesnoth-sotbe | 640 | 97 % | 13 |
 wesnoth-trow | 1006 | 95 % | 43 | Septim
 wesnoth-tsg | 629 | 98 % | 10 | Septim
 wesnoth-tutorial | 279 | 93 % | 17 |
-wesnoth | 1309 | 99 % | 3 | Michal
 
-Total messages remaining: **264**
+Total messages remaining: **261**
 
-Progress since 2022-01-03: **53** messages per day
+Progress since 2022-01-03: **52** messages per day
 
-ETA: **2022-01-13**
+ETA: **2022-01-14**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
