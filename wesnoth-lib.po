@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 21:01+0300\n"
-"PO-Revision-Date: 2022-01-09 20:19+0100\n"
+"PO-Revision-Date: 2022-01-10 20:10+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4502,10 +4502,8 @@ msgstr "Naverbováno"
 
 #. [label]
 #: data/gui/window/mp_faction_select.cfg:297
-#, fuzzy
-#| msgid "Choose Your Faction"
 msgid "Choose Your Leader"
-msgstr "Vyber si svou frakci"
+msgstr "Zvol si svého vůdce"
 
 #. [label]
 #. [widget]: id=name
@@ -4863,7 +4861,7 @@ msgstr "Klávesa"
 #: data/gui/window/preferences/02_hotkeys.cfg:118
 #: src/gui/dialogs/preferences_dialog.cpp:776
 msgid "game_hotkeys^G"
-msgstr "G"
+msgstr "H"
 
 #. [toggle_button]: id=sort_2
 #: data/gui/window/preferences/02_hotkeys.cfg:119
@@ -4888,15 +4886,13 @@ msgstr "Dostupné v editoru"
 #. Translate M as the initial letter for Main Menu
 #: data/gui/window/preferences/02_hotkeys.cfg:144
 #: src/gui/dialogs/preferences_dialog.cpp:778
-#, fuzzy
-#| msgid "game_hotkeys^G"
 msgid "mainmenu_hotkeys^M"
-msgstr "G"
+msgstr "M"
 
 #. [toggle_button]: id=sort_4
 #: data/gui/window/preferences/02_hotkeys.cfg:145
 msgid "Available at main menu"
-msgstr "Dostupné v hlavní nabídce"
+msgstr "Dostupné v hlavním menu"
 
 #. [button]: id=btn_add_hotkey
 #: data/gui/window/preferences/02_hotkeys.cfg:257
@@ -5812,67 +5808,53 @@ msgstr "vypršel"
 #. translate "timespan^$num years" as "$num ans", thus allowing the game UI to
 #. generate output such as "39 ans" after variable interpolation.
 #: src/formula/string_utils.cpp:309
-#, fuzzy
-#| msgid "timespan^$num year"
 msgid "timespan^$num year"
 msgid_plural "timespan^$num years"
 msgstr[0] "$num rok"
-msgstr[1] "$num rok"
-msgstr[2] "$num rok"
+msgstr[1] "$num roky"
+msgstr[2] "$num let"
 
 #: src/formula/string_utils.cpp:310
-#, fuzzy
-#| msgid "timespan^$num month"
 msgid "timespan^$num month"
 msgid_plural "timespan^$num months"
 msgstr[0] "$num měsíc"
-msgstr[1] "$num měsíc"
-msgstr[2] "$num měsíc"
+msgstr[1] "$num měsíce"
+msgstr[2] "$num měsíců"
 
 #: src/formula/string_utils.cpp:311
-#, fuzzy
-#| msgid "timespan^$num week"
 msgid "timespan^$num week"
 msgid_plural "timespan^$num weeks"
 msgstr[0] "$num týden"
-msgstr[1] "$num týden"
-msgstr[2] "$num týden"
+msgstr[1] "$num týdny"
+msgstr[2] "$num týdnů"
 
 #: src/formula/string_utils.cpp:312
-#, fuzzy
-#| msgid "timespan^$num day"
 msgid "timespan^$num day"
 msgid_plural "timespan^$num days"
 msgstr[0] "$num den"
-msgstr[1] "$num den"
-msgstr[2] "$num den"
+msgstr[1] "$num dny"
+msgstr[2] "$num dnů"
 
 #: src/formula/string_utils.cpp:313
-#, fuzzy
-#| msgid "timespan^$num hour"
 msgid "timespan^$num hour"
 msgid_plural "timespan^$num hours"
 msgstr[0] "$num hodina"
-msgstr[1] "$num hodina"
-msgstr[2] "$num hodina"
+msgstr[1] "$num hodiny"
+msgstr[2] "$num hodin"
 
 #: src/formula/string_utils.cpp:314
-#, fuzzy
-#| msgid "timespan^$num minute"
 msgid "timespan^$num minute"
 msgid_plural "timespan^$num minutes"
 msgstr[0] "$num minuta"
-msgstr[1] "$num minuta"
-msgstr[2] "$num minuta"
+msgstr[1] "$num minuty"
+msgstr[2] "$num minut"
 
 #: src/formula/string_utils.cpp:315
-#, fuzzy
-#| msgid "timespan^$num second"
 msgid "timespan^$num second"
 msgid_plural "timespan^$num seconds"
 msgstr[0] "$num vteřina"
-msgstr[1] "$num vteřina"
-msgstr[2] "$num vteřina"
+msgstr[1] "$num vteřiny"
+msgstr[2] "$num vteřin"
 
 #: src/gui/core/canvas.cpp:511
 msgid "Image doesn't fit on canvas."
@@ -6230,12 +6212,12 @@ msgstr "Chceš odinstalovat '$addon|'?"
 #. TRANSLATORS: Four-digit year + numeric month + day of month + 12-hour time, eg '2021-11-02 1:59 PM'. Format for your locale.
 #: src/gui/dialogs/addon/manager.cpp:960
 msgid "%Y-%m-%d %I:%M %p"
-msgstr ""
+msgstr "%Y-%m-%d %I:%M"
 
 #. TRANSLATORS: Four-digit year + numeric month + day of month + 24-hour time, eg '2021-11-02 13:59'. Format for your locale.
 #: src/gui/dialogs/addon/manager.cpp:962
 msgid "%Y-%m-%d %H:%M"
-msgstr ""
+msgstr "%Y-%m-%d %H:%M"
 
 #: src/gui/dialogs/addon/manager.cpp:1025
 msgid "url^None"
@@ -6719,7 +6701,7 @@ msgstr "čekárna"
 #: src/gui/dialogs/multiplayer/lobby.cpp:985
 msgid ""
 "This game doesn't allow observers. Observe using moderator rights anyway?"
-msgstr ""
+msgstr "Tato hra nepovoluje pozorovatele. Sledovat pomocí práv moderátora?"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:998
 msgid ""
@@ -6732,7 +6714,7 @@ msgstr ""
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:1019
 msgid "This game is password protected. Join using moderator rights anyway?"
-msgstr ""
+msgstr "Tato hra je chráněna heslem. Připojit se pomocí práv moderátora?"
 
 #: src/gui/dialogs/multiplayer/mp_alerts_options.cpp:105
 msgid ""
