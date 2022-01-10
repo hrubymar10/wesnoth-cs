@@ -10,15 +10,15 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-dm | 730 | 84 % | 113 |
 wesnoth-httt | 1225 | 96 % | 43 |
-wesnoth-lib | 1441 | 99 % | 14 | Michal
+wesnoth-lib | 1441 | 99 % | 1 | Michal
 wesnoth-sotbe | 640 | 97 % | 13 |
 wesnoth-trow | 1006 | 95 % | 43 | Septim
 wesnoth-tsg | 629 | 98 % | 10 | Septim
 wesnoth-tutorial | 279 | 93 % | 17 |
 
-Total messages remaining: **253**
+Total messages remaining: **240**
 
-Progress since 2022-01-03: **45** messages per day
+Progress since 2022-01-03: **47** messages per day
 
 ETA: **2022-01-15**
 
