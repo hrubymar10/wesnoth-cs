@@ -10,14 +10,13 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-dm | 730 | 84 % | 113 |
 wesnoth-httt | 1225 | 96 % | 43 | Septim
-wesnoth-sotbe | 640 | 97 % | 13 |
-wesnoth-trow | 1006 | 95 % | 43 | Septim
+wesnoth-sotbe | 640 | 97 % | 13 | Michal
 wesnoth-tutorial | 279 | 93 % | 17 |
 
-Total messages remaining: **229**
+Total messages remaining: **186**
 
-Progress since 2022-01-03: **42** messages per day
+Progress since 2022-01-03: **47** messages per day
 
-ETA: **2022-01-16**
+ETA: **2022-01-14**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
