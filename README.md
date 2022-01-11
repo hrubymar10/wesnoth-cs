@@ -9,7 +9,7 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-dm | 730 | 84 % | 113 |
-wesnoth-httt | 1225 | 96 % | 43 |
+wesnoth-httt | 1225 | 96 % | 43 | Septim
 wesnoth-lib | 1441 | 99 % | 1 | Michal
 wesnoth-sotbe | 640 | 97 % | 13 |
 wesnoth-trow | 1006 | 95 % | 43 | Septim
