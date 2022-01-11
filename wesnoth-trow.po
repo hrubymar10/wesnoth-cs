@@ -3,22 +3,21 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:02 UTC\n"
-"PO-Revision-Date: 2022-01-10 20:09+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2022-01-11 22:22+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #. [scenario]: id=22_The_Rise_of_Wesnoth
@@ -5433,8 +5432,9 @@ msgid ""
 "the dwarves."
 msgstr ""
 "Možná jsme rozhodli špatně. Pokud ti lidé skřety vytlačí, měli bychom držet "
-"svůj slib. Budou-li je sem následovat další potíže, měli bychom je nechat si "
-"je vyřešit, a pak „jednat“ s přeživšími a uzavřít smír s trpaslíky."
+"svůj slib. Jestli sem za nimi přitáhnou další potíže, měli bychom je nechat, "
+"ať si to vybojují sami, pak se „vypořádat“ s přeživšími a dohodnout "
+"s trpaslíky."
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:132
@@ -5453,8 +5453,9 @@ msgid ""
 msgstr ""
 "My jsme lid lesa. Víš, že všechna slova pronesená k tomu ne-lidu mají "
 "druhotný význam a jsou až za našimi vlastními potřebami. Jak řekl pán Aryad: "
-"<i>„Budou-li je sem následovat další potíže, měli bychom je nechat si je "
-"vyřešit, a pak ‚jednat‘ s přeživšími a uzavřít smír s trpaslíky.“</i>"
+"<i>„Jestli sem za nimi přitáhnou další potíže, měli bychom je nechat, ať si "
+"to vybojují sami, pak se ‚vypořádat‘ s přeživšími a dohodnout s trpaslíky.“</"
+"i>"
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:145
