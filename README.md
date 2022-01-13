@@ -6,15 +6,14 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 ## To Do
 
-Domain | Messages | Translated | Remaining | Translator
------- | -------- | ---------- | --------- | ----------
-wesnoth-dm | 730 | 84 % | 113 |
-wesnoth-tutorial | 279 | 93 % | 17 | Michal
+Domain | Messages | Translated | Remaining
+------ | -------- | ---------- | ---------
+wesnoth-dm | 730 | 84 % | 113
 
-Total messages remaining: **130**
+Total messages remaining: **113**
 
-Progress since 2022-01-03: **48** messages per day
+Progress since 2022-01-03: **45** messages per day
 
-ETA: **2022-01-14**
+ETA: **2022-01-15**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
