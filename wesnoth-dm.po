@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2022-01-15 01:39+0100\n"
+"PO-Revision-Date: 2022-01-15 01:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4370,7 +4370,7 @@ msgid ""
 "vulnerable."
 msgstr ""
 "Teď ho nemůžeme porazit. Po uzavření portálu musíme nechat uplynout nějaký "
-"čas. Do té doby jeho síla zeslábne a stane se zranitelným."
+"čas. Během té doby jeho síla zeslábne a stane se zranitelným."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:354
@@ -5404,7 +5404,7 @@ msgstr "Po zabití Ulreka nemůžeme počítat s pomocí trpaslíků! Vše je zt
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/utils/items.cfg:17
 msgid "Ahh... I can slake my thirst at this well. Glug, glug, glug..."
-msgstr "Ách... Tady konečně mohu uhasit svou žízeň... glo, glo, glo..."
+msgstr "Ách... U této studny mohu uhasit svou žízeň. Glo, glo, glo..."
 
 #. [object]: id=staff_lightning
 #: data/campaigns/Delfadors_Memoirs/utils/items.cfg:42
