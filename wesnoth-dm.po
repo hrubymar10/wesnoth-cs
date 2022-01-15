@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2022-01-15 01:21+0100\n"
+"PO-Revision-Date: 2022-01-15 01:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1696,7 +1696,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:96
 msgid "Explore the Land of the Dead"
-msgstr "Prozkoumej Zemi mrtvých"
+msgstr "Prozkoumej říši mrtvých"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:103
@@ -2947,7 +2947,7 @@ msgid ""
 msgstr ""
 "Máme mnohem méně času, než jsem čekal. Iliah-Malalův útok započal. Musím "
 "jeho bránu zavřít dříve, než bude příliš pozdě, ale vůbec nevím, jak na to. "
-"A musíme taky porazit ty, kteří už utekli ze Země mrtvých."
+"A musíme taky porazit ty, kteří už utekli z říše mrtvých."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1089
@@ -3199,7 +3199,7 @@ msgid ""
 "There is more ill news. Evil has been unleashed. A portal has been opened "
 "from the Land of the Dead. An army of undead is being raised as we speak."
 msgstr ""
-"Zlých zpráv je mnohem více. Zlo bylo vypuštěno. Byl otevřen portál do Země "
+"Zlých zpráv je mnohem více. Zlo bylo vypuštěno. Byl otevřen portál do říše "
 "mrtvých. Zatímco tady mluvíme, povstávají hordy nemrtvých."
 
 #. [message]: speaker=Kalenz
@@ -3265,7 +3265,7 @@ msgid ""
 "Parthyn Ford. I have come north partly because I am thinking to fetch the "
 "Book of Crelanu so I can take it to him."
 msgstr ""
-"Delfador, mág, kterému dal král svou důvěru. Nejenže průchod Zemí mrtvých "
+"Delfador, mág, kterému dal král svou důvěru. Nejenže průchod říší mrtvých "
 "přežil, také z ní vyšel nezkažen. Pomohl nám porazit skřety plenící "
 "Lintanir. Bojovali jsme spolu u Parthynského brodu s nemrtvými. Přišla jsem "
 "na sever částečně také kvůli tomu, protože uvažuji, že vezmu Krelanovu knihu "
@@ -3663,7 +3663,7 @@ msgid ""
 msgstr ""
 "Vaše Veličenstvo, máme ještě naléhavější záležitosti. Leollyn mi dal za úkol "
 "zjistit, proč jsou mrtví tak neklidní. Odporný nekromant otevřel portál do "
-"země mrtvých. Za každou cenu musí být uzavřen a obávám se, že mé dovednosti "
+"říše mrtvých. Za každou cenu musí být uzavřen a obávám se, že mé dovednosti "
 "mohou být pro tento úkol nedostatečné."
 
 #. [message]: speaker=Kalenz
@@ -3869,7 +3869,7 @@ msgid ""
 "against them."
 msgstr ""
 "Vaše Veličenstvo, nejedná se o žádné zbloudilé nemrtvé. To jeden šílenec, "
-"Iliah-Malal, otevřel portál do Země mrtvých. Pokud brzy nezavřeme tento "
+"Iliah-Malal, otevřel portál do říše mrtvých. Pokud brzy nezavřeme tento "
 "portál, relativně malý počet nepřátelských vojsk, který teď plní jeho "
 "příkazy, se bude zvyšovat v nekonečný proud nemrtvých. A naše armáda, "
 "vyzbrojená a vycvičená především k boji proti nájezdům skřetů, není "
@@ -4017,7 +4017,7 @@ msgstr ""
 "bojovat s nemrtvými v otevřené válce, ale mohou je obtěžovat tím, že udeří "
 "z lesů, kam se je nemrtví neodváží následovat. A nakonec to hlavní, studoval "
 "jsem Krelanovu knihu a myslím, že už vím, jak uzavřít Iliah-Malalův portál "
-"do Země mrtvých. Budu potřebovat malý doprovod, ale musí to být provedeno "
+"do říše mrtvých. Budu potřebovat malý doprovod, ale musí to být provedeno "
 "okamžitě."
 
 #. [part]
@@ -4178,7 +4178,7 @@ msgid ""
 "nearly under the eaves of Lintanir Forest. I must close it, or else we are "
 "all doomed."
 msgstr ""
-"Jsem Delfador. Přátelé, bylo vypuštěno velké zlo. Portál do Země mrtvých byl "
+"Jsem Delfador. Přátelé, bylo vypuštěno velké zlo. Portál do říše mrtvých byl "
 "otevřen, a to na severní výspě těchto hor, blízko kraje lintanirského lesa. "
 "Musím jej uzavřít, nebo vše, co známe, upadne do záhuby."
 
@@ -4359,7 +4359,7 @@ msgid ""
 "Fool! You could not kill me in the Land of the Dead, nor can you in the land "
 "of the living! I transcend both death and life, and I will destroy you!"
 msgstr ""
-"Hlupáku! Nezabils mě ani v Zemi mrtvých, nezabiješ mě ani v zemi živých! "
+"Hlupáku! Nezabils mě ani v říši mrtvých, nezabiješ mě ani v zemi živých! "
 "Podrobil jsem si život i smrt a zničím tě!"
 
 #. [message]: speaker=Delfador
@@ -4574,7 +4574,7 @@ msgid ""
 "Dead. The killing blow against Iliah-Malal can only be struck by one of them "
 "or by Delfador."
 msgstr ""
-"Jen v tomto scénáři můžeš povolat zkušené jednotky ze Země mrtvých. Pouze "
+"Jen v tomto scénáři můžeš povolat zkušené jednotky z říše mrtvých. Pouze "
 "jedna z nich nebo sám Delfador může zasadit Iliah-Malalovi smrtící úder."
 
 #. [message]: speaker=Lionel
@@ -4590,7 +4590,7 @@ msgid ""
 "they fight for the living."
 msgstr ""
 "Nikoli. Já je nepovolal ze smrti; já jsem jenom požádal ty, kteří již "
-"bojovali po mém boku v Zemi mrtvých, aby vyšli na pevnou zem a pomohli nám, "
+"bojovali po mém boku v říši mrtvých, aby vyšli na pevnou zem a pomohli nám, "
 "bude-li to jejich svobodná vůle. Dnes bojují za živé."
 
 #. [message]: speaker=Delfador
@@ -4737,7 +4737,7 @@ msgid ""
 "You who fought beside me in the Land of the Dead and chose the side of the "
 "living on this day, return now to your peace and rest."
 msgstr ""
-"Vy, kdož jste po mém boku stanuli v bitvě v Zemi mrtvých a kdož jste se dnes "
+"Vy, kdož jste po mém boku stanuli v bitvě v říši mrtvých a kdož jste se dnes "
 "rozhodli přidat na stranu živých, vraťte se v pokoji do míst, kde konečně "
 "naleznete klid a mír a věčný odpočinek."
 
@@ -5438,7 +5438,7 @@ msgstr "Tajná stezka... Zajímalo by mne, kam vede."
 #. [time]: id=land_of_the_dead
 #: data/campaigns/Delfadors_Memoirs/utils/schedules.cfg:5
 msgid "Land of the Dead"
-msgstr "Země mrtvých"
+msgstr "Říše mrtvých"
 
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:261
 msgid "Clogrin"

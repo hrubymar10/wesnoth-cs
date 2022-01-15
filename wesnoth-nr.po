@@ -2,22 +2,21 @@
 # Petr Šlejhar <Septim>, 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2022-01-08 19:58+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2022-01-15 01:44+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:9
@@ -3190,9 +3189,9 @@ msgid ""
 "into this realm by a terrible power."
 msgstr ""
 "Jsem lord Abhai, vládce... bývalý... jednoho velkého království daleko na "
-"západ. Časem, stejně jako všichni muži, jsem zestárl a přešel do Země "
+"západ. Časem, stejně jako všichni muži, jsem zestárl a přešel do říše "
 "mrtvých. Nevím, jak dlouho jsem tam pobýval, ale pak mne strašlivá síla "
-"vytrhla z mého klidu a vsadila do této říše."
+"vytrhla z mého klidu a vsadila do tohoto království."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2110
@@ -8280,7 +8279,7 @@ msgid ""
 "nature for it to be otherwise. There is just one problem; Malifor forced me "
 "into this body and I don’t know how to get out of it."
 msgstr ""
-"Ano. Mrtví by měli zůstat v zemi mrtvých. Protiví se přirozeným zákonům, "
+"Ano. Mrtví by měli zůstat v říši mrtvých. Protiví se přirozeným zákonům, "
 "když se tak nestane. Je zde však jistá obtíž: Malifor mi vnutil toto tělo a "
 "já nevím, jak se jej zbavit."
 
