@@ -10,12 +10,12 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-dm | 731 | 99 % | 2 |
 wesnoth-help | 666 | 99 % | 1 |
-wesnoth-l | 426 | 99 % | 1 |
+wesnoth-l | 426 | 99 % | 1 | Septim
 wesnoth-lib | 1441 | 99 % | 1 | Michal
-wesnoth-sof | 657 | 99 % | 4 |
-wesnoth-sota | 647 | 99 % | 3 |
+wesnoth-sof | 657 | 99 % | 4 | Septim
+wesnoth-sota | 647 | 99 % | 3 | Septim
 wesnoth-trow | 1007 | 99 % | 1 |
-wesnoth-units | 740 | 99 % | 2 |
+wesnoth-units | 740 | 99 % | 2 | Septim
 wesnoth-utbs | 1934 | 99 % | 2 |
 
 Total messages remaining: **17**
