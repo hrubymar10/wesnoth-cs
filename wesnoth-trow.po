@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-17 20:52 UTC\n"
-"PO-Revision-Date: 2022-01-11 22:22+0100\n"
+"PO-Revision-Date: 2022-01-20 21:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6590,13 +6590,10 @@ msgstr "Zobík"
 msgid "Our advance is thwarted, that monster has destroyed the bridge!"
 msgstr "Ta obluda zničila most! Nemůžeme postupovat kupředu!"
 
-# pův.: "Naše výhoda je pryč, ta obluda zničila most!"
 #. [message]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1312
-#, fuzzy
-#| msgid "Our advance is thwarted, that monster has destroyed the bridge!"
 msgid "Our retreat is thwarted, that monster has destroyed the bridge!"
-msgstr "Ta obluda zničila most! Nemůžeme postupovat kupředu!"
+msgstr "Na ústup můžeme zapomenout, ta obluda zničila most!"
 
 #. [message]: speaker=Abraxas
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1341
