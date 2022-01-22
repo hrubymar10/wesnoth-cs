@@ -10,9 +10,8 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-sof | 657 | 99 % | 4 | Septim
 wesnoth-sota | 647 | 99 % | 3 | Septim
-wesnoth-utbs | 1934 | 99 % | 2 | Michal
 
-Total messages remaining: **9**
+Total messages remaining: **7**
 
 Progress since 2022-01-18: **2** messages per day
 
