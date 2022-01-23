@@ -4,22 +4,21 @@
 # Karel Doleček <KDolecek@seznam.cz>, 2008.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2021.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-17 20:52 UTC\n"
-"PO-Revision-Date: 2022-01-23 13:53+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2022-01-23 19:37+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:11
@@ -478,7 +477,6 @@ msgstr ""
 "Uvidím co mohu dělat. Ale budu potřebovat pět tisíc stříbrných prutů jako "
 "zálohu na zaplacení materiálu."
 
-# zlato místo stříbro (volba překladatele)
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:422
 msgid ""
@@ -1426,7 +1424,6 @@ msgstr ""
 "Zaplatil pět tisíc stříbrných prutů jako zálohu a dá nám dalších pět tisíc "
 "při doručení dokončeného žezla, pokud se tak stane před jeho smrtí."
 
-# zlato místo stříbro (volba překladatele)
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:214
 msgid ""
@@ -2708,7 +2705,7 @@ msgid ""
 "Twenty-three hundred is my lowest offer. I can tell I don’t need the money "
 "as much as you need the jewel cut!"
 msgstr ""
-"Dva tisíce dvě stě zlatých je má nejnižší nabídka. Řekl bych, že nepotřebuji "
+"Dva tisíce tři sta zlatých je má nejnižší nabídka. Řekl bych, že nepotřebuji "
 "peníze tolik jako vy naše nástroje!"
 
 #. [message]: speaker=Durstorn
