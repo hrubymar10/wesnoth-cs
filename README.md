@@ -9,9 +9,8 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-sof | 657 | 99 % | 4 | Septim
-wesnoth-sota | 647 | 99 % | 3 | Septim
 
-Total messages remaining: **7**
+Total messages remaining: **4**
 
 Progress since 2022-01-18: **2** messages per day
 
