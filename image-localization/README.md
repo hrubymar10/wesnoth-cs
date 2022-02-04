@@ -27,7 +27,6 @@ This directory contains resources for image overlay localization.
 | `images/misc/l10n/cs/logo.png`                                                   |      OK       |
 
 ## Useful links
-* [current image-localization status](https://github.com/wesnoth/wesnoth/blob/master/l10n-track)
 * [wesnoth resources](https://github.com/wesnoth/resources)
 * [ImageLocalization Wiki](https://wiki.wesnoth.org/ImageLocalization)
 * [Gimp For Translators tutorial](https://wiki.wesnoth.org/ImageLocalization#Gimp_For_Translators)
