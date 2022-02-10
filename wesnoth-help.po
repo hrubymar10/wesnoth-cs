@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-06-23 11:42-0400\n"
-"PO-Revision-Date: 2022-02-10 22:36+0100\n"
+"PO-Revision-Date: 2022-02-10 22:38+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2442,7 +2442,7 @@ msgstr ""
 "\n"
 "Jednotky stojí peníze nejen při verbování či povolání, ale také požadují "
 "žold. Pro více informací se podívej na <ref>dst='income_and_upkeep' "
-"text='Příjmy a Výdaje'</ref>."
+"text='Příjmy a výdaje'</ref>."
 
 #. [topic]: id=income_and_upkeep
 #: data/core/help.cfg:215
