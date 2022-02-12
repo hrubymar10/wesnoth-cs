@@ -1,7 +1,7 @@
 # image-localization
-This directory contains resources for image overlay localization.
+This directory contains localized images from version 1.14.
 
-## Translations Stats
+## Translation Stats
 | Image Path                                                                       | Status        |
 | -------------------------------------------------------------------------------- |:-------------:|
 | `data/campaigns/An_Orcish_Incursion/images/maps/l10n/cs/aoi--overlay.png`        | doesn't exist |
@@ -25,11 +25,3 @@ This directory contains resources for image overlay localization.
 | `data/core/images/maps/l10n/cs/titlescreen--overlay.png`                         | doesn't exist |
 | `data/core/images/maps/l10n/cs/wesnoth--overlay.png`                             | doesn't exist |
 | `images/misc/l10n/cs/logo.png`                                                   |      OK       |
-
-## Useful links
-* [wesnoth resources](https://github.com/wesnoth/resources)
-* [ImageLocalization Wiki](https://wiki.wesnoth.org/ImageLocalization)
-* [Gimp For Translators tutorial](https://wiki.wesnoth.org/ImageLocalization#Gimp_For_Translators)
-
----
-Synced with commit: [9433a8b](https://github.com/wesnoth/resources/tree/9433a8b8fb8ea30f5bf5c12b8db36182676c1477)
