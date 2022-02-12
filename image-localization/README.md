@@ -4,7 +4,6 @@ This directory contains resources for image overlay localization.
 ## Translations Stats
 | Image Path                                                                       | Status        |
 | -------------------------------------------------------------------------------- |:-------------:|
-| `data/campaigns/An_Orcish_Incursion/images/maps/l10n/cs/aoi--overlay.png`        | doesn't exist |
 | `data/campaigns/Dead_Water/images/maps/l10n/cs/dw--overlay.png`                  | doesn't exist |
 | `data/campaigns/Descent_Into_Darkness/images/maps/l10n/cs/did--overlay.png`      | doesn't exist |
 | `data/campaigns/Eastern_Invasion/images/maps/l10n/cs/ei--overlay.png`            | doesn't exist |
