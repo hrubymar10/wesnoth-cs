@@ -15,7 +15,7 @@ This directory contains resources for image overlay localization.
 | `data/campaigns/Son_Of_The_Black_Eye/images/maps/l10n/cs/sotbe--overlay.png`     | doesn't exist |
 | `data/campaigns/The_Hammer_of_Thursagan/images/maps/l10n/cs/thot--overlay.png`   | doesn't exist |
 | `data/campaigns/The_Rise_Of_Wesnoth/images/maps/l10n/cs/green_isle--overlay.png` | doesn't exist |
-| `data/campaigns/The_Rise_Of_Wesnoth/images/story/l10n/cs/trow-logo.png`          | doesn't exist |
+| `data/campaigns/The_Rise_Of_Wesnoth/images/story/l10n/cs/trow-logo.png`          |      OK       |
 | `data/campaigns/The_South_Guard/images/maps/l10n/cs/tsg--overlay.png`            | doesn't exist |
 | `data/campaigns/Two_Brothers/images/maps/l10n/cs/tb--overlay.png`                | doesn't exist |
 | `data/core/images/help/l10n/cs/hpxp.png`                                         |    outdated   |
