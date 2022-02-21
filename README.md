@@ -6,11 +6,35 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 ## To Do
 
-As of 2021-08-09 the translation is complete.
+Domain | Messages | Translated | Remaining | Translator
+------ | -------- | ---------- | --------- | ----------
+wesnoth-did | 887 | 99 % | 7 | Michal
+wesnoth-dm | 731 | 84 % | 114 | Michal
+wesnoth-dw | 476 | 96 % | 19 | Michal
+wesnoth-ei | 572 | 95 % | 25 | Michal
+wesnoth-help | 679 | 97 % | 18 | Michal
+wesnoth-httt | 1225 | 96 % | 43 | Michal
+wesnoth-l | 426 | 99 % | 4 | Michal
+wesnoth-lib | 1440 | 98 % | 19 | Michal
+wesnoth-low | 718 | 93 % | 46 | Michal
+wesnoth-manpages | 318 | 96 % | 12 | Michal
+wesnoth-nr | 1203 | 97 % | 31 | Michal
+wesnoth-sof | 660 | 74 % | 171 | Michal
+wesnoth-sota | 647 | 92 % | 48 | Michal
+wesnoth-sotbe | 640 | 90 % | 63 | Michal
+wesnoth-tb | 224 | 99 % | 2 | Michal
+wesnoth-thot | 354 | 95 % | 17 | Michal
+wesnoth-trow | 1007 | 95 % | 44 | Michal
+wesnoth-tsg | 629 | 98 % | 10 | Michal
+wesnoth-tutorial | 279 | 93 % | 17 | Michal
+wesnoth-units | 740 | 99 % | 4 | Michal
+wesnoth-utbs | 1885 | 95 % | 78 | Michal
+wesnoth-wc | 463 | 97 % | 12 | Michal
+wesnoth | 1312 | 99 % | 11 | Michal
 
-There are still bugs in Czech translation.
+Total messages remaining: **815**
 
-If you stumble upon any such bug, please report it as an [issue](https://github.com/hrubymar10/wesnoth-cs/issues).
+I see no progress.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
