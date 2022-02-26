@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:48+0300\n"
-"PO-Revision-Date: 2022-01-09 14:06+0100\n"
+"PO-Revision-Date: 2022-02-26 22:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5591,12 +5591,11 @@ msgid "An error occurred while downloading the add-ons list from the server."
 msgstr "Při stahování seznamu rozšíření ze serveru došlo k chybě."
 
 #: src/addon/manager_ui.cpp:318
-#, fuzzy
-#| msgid "Could not find an add-on matching id $addon_id on the add-on server."
 msgid ""
 "Could not find add-ons matching the ids $addon_ids on the add-on server."
 msgstr ""
-"Na tomto serveru nejsou dostupné žádné aktualizace rozšíření $addon_id."
+"Na serveru s rozšířeními se nepodařilo najít rozšíření odpovídající "
+"identifikátorům $addon_ids."
 
 #: src/addon/validation.cpp:388
 msgid "Success."
@@ -6305,10 +6304,8 @@ msgid "Defeat enemy leader(s)"
 msgstr "Znič nepřátelské(ho) vůdce"
 
 #: src/game_initialization/mp_game_utils.cpp:103
-#, fuzzy
-#| msgid "Cannot find era $era"
 msgid "Cannot find era '$era'"
-msgstr "Nelze najít éru $era"
+msgstr "Nelze najít éru „$era“"
 
 #: src/game_initialization/multiplayer.cpp:254
 msgid "Invalid address specified for multiplayer server"
@@ -7202,6 +7199,8 @@ msgid ""
 "Similar to the 'fps' command, but also forces everything to redraw instead "
 "of only things that have changed."
 msgstr ""
+"Podobný příkazu „fps“, ale navíc vynutí překreslení všeho, ne jen věcí, "
+"které se změnily."
 
 #: src/menu_events.cpp:1249
 msgid "Save game."
@@ -8121,15 +8120,11 @@ msgstr "Čas na kolo"
 
 #. TRANSLATORS: Day of week + month + day of month + year + 12-hour time, eg 'Tue Nov 02 2021, 1:59 PM'. Format for your locale.
 #: src/save_index.cpp:257
-#, fuzzy
-#| msgid "%a %b %d %I:%M %p %Y"
 msgid "%a %b %d %Y, %I:%M %p"
 msgstr "%a %d %b %Y, %I:%M"
 
 #. TRANSLATORS: Day of week + month + day of month + year + 24-hour time, eg 'Tue Nov 02 2021, 13:59'. Format for your locale.
 #: src/save_index.cpp:259
-#, fuzzy
-#| msgid "%a %b %d %H:%M %Y"
 msgid "%a %b %d %Y, %H:%M"
 msgstr "%a %d %b %Y, %H:%M"
 
@@ -8685,6 +8680,9 @@ msgstr "Nastavení plánovacího módu"
 #~ msgid "<i>― Galun, Flight Leader, 5YW</i>"
 #~ msgstr "<i>― Galun, velitel letky, 5 w. l.</i>"
 
+#~ msgid "Use [modify_unit_type]\n"
+#~ msgstr "Použij [modify_unit_type]\n"
+
 #~ msgid "<room>"
 #~ msgstr "<místnost>"
 
@@ -8711,6 +8709,3 @@ msgstr "Nastavení plánovacího módu"
 
 #~ msgid "Room query."
 #~ msgstr "Odešle místnosti dotaz."
-
-#~ msgid "Use [modify_unit_type]\n"
-#~ msgstr "Použij [modify_unit_type]\n"
