@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:43+0300\n"
-"PO-Revision-Date: 2022-02-23 22:00+0100\n"
+"PO-Revision-Date: 2022-03-03 00:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4994,7 +4994,7 @@ msgstr "Frekvence náhodných animací jednotek"
 #. [toggle_button]: id=vsync
 #: data/gui/window/preferences/03_display.cfg:274
 msgid "VSync"
-msgstr ""
+msgstr "VSync"
 
 #. [toggle_button]: id=vsync
 #: data/gui/window/preferences/03_display.cfg:275
@@ -5002,6 +5002,8 @@ msgid ""
 "Reduces tearing by synchronizing rendering with the screen refresh rate "
 "(requires restart to take effect)"
 msgstr ""
+"Snižuje trhání tím, že synchronizuje vykreslování s obnovovací frekvencí "
+"obrazovky (je potřeba restart, aby to začalo účinkovat)"
 
 #. [toggle_button]: id=fps_limiter
 #: data/gui/window/preferences/03_display.cfg:288
@@ -6208,12 +6210,12 @@ msgstr "Chceš odinstalovat '$addon|'?"
 #. TRANSLATORS: Month + day of month + year + 12-hour time, eg 'November 02 2021, 1:59 PM'. Format for your locale.
 #: src/gui/dialogs/addon/manager.cpp:961
 msgid "%B %d %Y, %I:%M %p"
-msgstr ""
+msgstr "%-d. %B %Y, %I:%M"
 
 #. TRANSLATORS: Month + day of month + year + 24-hour time, eg 'November 02 2021, 13:59'. Format for your locale.
 #: src/gui/dialogs/addon/manager.cpp:963
 msgid "%B %d %Y, %H:%M"
-msgstr ""
+msgstr "%-d. %B %Y, %H:%M"
 
 #: src/gui/dialogs/addon/manager.cpp:1024
 msgid "url^None"
@@ -6458,10 +6460,8 @@ msgid "controller^Idle"
 msgstr "Nečinný"
 
 #: src/gui/dialogs/game_stats.cpp:70
-#, fuzzy
-#| msgid "controller^None"
 msgid "controller^Reserved"
-msgstr "Nikdo"
+msgstr "Vyhrazený"
 
 #: src/gui/dialogs/game_stats.cpp:109 src/gui/dialogs/label_settings.cpp:77
 msgid "Unknown"
