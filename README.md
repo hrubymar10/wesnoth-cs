@@ -10,7 +10,7 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-help | 679 | 97 % | 14 | Michal
 wesnoth-manpages | 318 | 97 % | 8 | Michal
-wesnoth-sof | 660 | 87 % | 83 |
+wesnoth-sof | 660 | 87 % | 83 | Septim
 wesnoth-sotbe | 640 | 92 % | 51 |
 wesnoth-utbs | 1885 | 98 % | 33 |
 wesnoth-wc | 463 | 98 % | 9 |
