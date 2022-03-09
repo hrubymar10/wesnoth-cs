@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:48+0300\n"
-"PO-Revision-Date: 2022-02-26 22:59+0100\n"
+"PO-Revision-Date: 2022-03-09 22:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6634,22 +6634,16 @@ msgid "No visible sides found."
 msgstr "Nebyly nalezeny žádné viditelné strany."
 
 #: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:165
-#, fuzzy
-#| msgid "Save Game"
 msgid "Selected Game"
-msgstr "Uložit hru"
+msgstr "Vybraná hra"
 
 #: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:166
-#, fuzzy
-#| msgid "In lobby"
 msgid "Lobby"
-msgstr "V čekárně"
+msgstr "Čekárna"
 
 #: src/gui/dialogs/multiplayer/lobby_player_list_helper.cpp:167
-#, fuzzy
-#| msgid "Save Game"
 msgid "Other Games"
-msgstr "Uložit hru"
+msgstr "Další hry"
 
 #: src/gui/dialogs/multiplayer/match_history.cpp:31
 msgid "Match History — $player"
