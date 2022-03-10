@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:48+0300\n"
-"PO-Revision-Date: 2022-03-09 22:17+0100\n"
+"PO-Revision-Date: 2022-03-10 22:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5121,13 +5121,13 @@ msgid ""
 "the underworld hinders the flightless, while offering illumination in "
 "darkness to those that may fly above it."
 msgstr ""
+"Očistné vody oázy uzdraví zraněné. Ohnivá krev podsvětí zastaví nelétavé, "
+"ale těm, kteří ji mohou přeletět, nabídne osvětlení v temnotách."
 
 #. [tip]
 #: data/tips.cfg:258
-#, fuzzy
-#| msgid "<i>― King Konrad, 536YW</i>"
 msgid "<i>― Dominant Gorlack, 3YW</i>"
-msgstr "<i>― král Konrád, 536 w. l.</i>"
+msgstr "<i>― vládce Gorlak, 3 w. l.</i>"
 
 #. [tip]
 #: data/tips.cfg:261
@@ -6081,6 +6081,9 @@ msgid ""
 "to advance to ‘$higher_level’; please ask the add-on author to use "
 "[modify_unit_type] instead."
 msgstr ""
+"Chyba: [advancefrom] už nefunguje. Jednotky „$lower_level“ nebudou moci "
+"povýšit na „$higher_level“. Požádej prosím autora rozšíření, aby místo toho "
+"použil [modify_unit_type]."
 
 #: src/game_config_manager.cpp:563
 msgid "instead, use the macro with the same name in the [campaign] tag"
@@ -8664,42 +8667,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1138
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid ""
-#~ "Some types of terrain give unique bonuses, such as healing or "
-#~ "illumination."
-#~ msgstr ""
-#~ "Některé typy terénu poskytují jedinečné bonusy jako léčení nebo osvětlení."
-
-#~ msgid "<i>― Galun, Flight Leader, 5YW</i>"
-#~ msgstr "<i>― Galun, velitel letky, 5 w. l.</i>"
-
-#~ msgid "Use [modify_unit_type]\n"
-#~ msgstr "Použij [modify_unit_type]\n"
-
-#~ msgid "<room>"
-#~ msgstr "<místnost>"
-
-#~ msgid "Join a room."
-#~ msgstr "Vstup do místnosti."
-
-#~ msgid "Part a room."
-#~ msgstr "Rozdělí místnost."
-
-#~ msgid "List room members."
-#~ msgstr "Vypíše hráče v místnosti."
-
-#~ msgid "List available rooms."
-#~ msgstr "Vypíše dostupné místnosti."
-
-#~ msgid "<room> <msg>"
-#~ msgstr "<místnost> <zpráva>"
-
-#~ msgid "Room message."
-#~ msgstr "Pošle zprávu pro celou místnost."
-
-#~ msgid "<room> <type> [value]"
-#~ msgstr "<místnost> <zpráva> [hodnota]"
-
-#~ msgid "Room query."
-#~ msgstr "Odešle místnosti dotaz."
