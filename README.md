@@ -10,7 +10,7 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-help | 679 | 97 % | 14 | Michal
 wesnoth-sotbe | 640 | 92 % | 51 |
-wesnoth-utbs | 1885 | 98 % | 33 |
+wesnoth-utbs | 1885 | 98 % | 33 | Septim
 wesnoth-wc | 463 | 98 % | 9 |
 
 Total messages remaining: **107**
