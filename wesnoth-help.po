@@ -10,14 +10,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:48+0300\n"
-"PO-Revision-Date: 2022-02-22 19:01+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2022-03-11 23:36+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -2103,7 +2104,6 @@ msgstr "Úvod"
 msgid "Gameplay"
 msgstr "Pravidla hry"
 
-#. #-#-#-#-#  wesnoth-help.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [section]: id=traits_section
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:29 data/core/help.cfg:531
@@ -5147,8 +5147,8 @@ msgid ""
 "This unit’s resistances are doubled, up to a maximum of 50%, when defending. "
 "Vulnerabilities are not affected."
 msgstr ""
-"Odolnost této jednotky je při obraně zdvojena, až na maximum 50 %. Vlastní "
-"zranitelnost se ale nemění."
+"Odolnosti této jednotky jsou při obraně zdvojnásobeny, až na maximum 50 %. "
+"Odolnosti se zápornými hodnotami (zranitelnosti) nejsou ovlivněny."
 
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:145
