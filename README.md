@@ -10,11 +10,10 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-help | 679 | 97 % | 14 | Michal
 wesnoth-sotbe | 640 | 92 % | 51 |
-wesnoth-wc | 463 | 98 % | 9 | Septim
 
-Total messages remaining: **74**
+Total messages remaining: **65**
 
-Progress since 2022-02-21: **36** messages per day
+Progress since 2022-02-21: **34** messages per day
 
 ETA: **2022-03-15**
 
