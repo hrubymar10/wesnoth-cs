@@ -10,15 +10,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:48+0300\n"
-"PO-Revision-Date: 2022-03-11 23:36+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2022-03-15 19:01+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. [time]: id=underground
 #. [editor_times]: id=underground
@@ -8146,6 +8145,8 @@ msgstr "Nejhorší z/ze"
 msgid ""
 "Villages allow any unit stationed therein to heal, or to be cured of poison."
 msgstr ""
+"Vesnice umožňují jakékoli jednotce, která je ve vesnici umístěna, léčit se, "
+"nebo být uzdravena z otravy."
 
 #. TRANSLATORS: special note for terrains such as the oasis; the only terrain in core with this property heals 8 hp just like a village.
 #. For the single-hitpoint variant, the wording is different because I assume the player will be more interested in the curing-poison part than the minimal healing.
@@ -8165,6 +8166,7 @@ msgid ""
 "This terrain is a castle — units can be recruited onto it from a connected "
 "keep."
 msgstr ""
+"Tento terén je hrad – lze do něj z připojené tvrze naverbovat jednotky."
 
 #. TRANSLATORS: The "this terrain is a castle" note will also be shown directly above this one.
 #: src/help/help_topic_generators.cpp:178
@@ -8172,6 +8174,7 @@ msgid ""
 "This terrain is a keep — a leader can recruit from this hex onto connected "
 "castle hexes."
 msgstr ""
+"Tento terén je tvrz – vůdce z ní může verbovat na připojená políčka hradu."
 
 #. TRANSLATORS: Special note for a terrain, but none of the terrains in mainline do this.
 #: src/help/help_topic_generators.cpp:181
@@ -8179,6 +8182,8 @@ msgid ""
 "This unusual keep allows a leader to recruit while standing on it, but does "
 "not allow a leader on a connected keep to recruit onto this hex."
 msgstr ""
+"Tato neobvyklá tvrz umožňuje vůdci verbovat, když v ní stojí, ale nedovoluje "
+"do ní samotné verbovat vůdci, který je v tvrzi připojené."
 
 #: src/help/help_topic_generators.cpp:194
 msgid "Base Terrain: "
