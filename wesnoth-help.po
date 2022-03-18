@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:48+0300\n"
-"PO-Revision-Date: 2022-03-17 20:59+0100\n"
+"PO-Revision-Date: 2022-03-18 23:28+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -721,10 +721,8 @@ msgstr ""
 
 #. [topic]: id=editor_deprecated_overlay
 #: data/core/editor/help.cfg:170
-#, fuzzy
-#| msgid "Base Terrain: "
 msgid "Deprecated Terrain"
-msgstr "Základní terén: "
+msgstr "Zastaralý terén"
 
 #. [topic]: id=editor_deprecated_overlay
 #. The main reason for choosing “D” is that the hole in the middle of the letter makes it easier to see which terrain is underneath it. This uses a hardcoded image and doesn’t expect the image to be translated.
@@ -743,6 +741,16 @@ msgid ""
 "The help pages for these terrains may have additional text that’s only shown "
 "in the editor, describing the deprecation and the recommended replacements."
 msgstr ""
+"<img>src='terrain/grass/green.png~BLIT(terrain/deprecated-editor.png)' "
+"align=left box=yes</img> Nachové „D“ (jako „Deprecated“).\n"
+"\n"
+"Tohle se v editoru zobrazuje nad zastaralými kódy terénu. Příklady:\n"
+"• <ref>dst='terrain_fungus_grove_old' text='houbový terén „^Uf“'</ref>,\n"
+"• osvětlená kamenná zeď „Xol“, která je zastaralá, protože několik terénů se "
+"zdmi teď podporuje výzdobu svícny „^Efs“.\n"
+"\n"
+"Stránky nápovědy pro tyto terény mohou obsahovat další text, který se "
+"zobrazuje pouze v editoru a který popisuje zastarání a doporučené náhrady."
 
 #. [topic]: id=editor_tool_label
 #: data/core/editor/help.cfg:186
