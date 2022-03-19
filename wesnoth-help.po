@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:48+0300\n"
-"PO-Revision-Date: 2022-03-18 23:28+0100\n"
+"PO-Revision-Date: 2022-03-19 12:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -643,7 +643,7 @@ msgstr ""
 #. [topic]: id=editor_terrain_overlays
 #: data/core/editor/help.cfg:127
 msgid "Editor Terrain-Overlay Graphics"
-msgstr ""
+msgstr "Překryvné obrázky pro terén v editoru"
 
 #. [topic]: id=editor_terrain_overlays
 #: data/core/editor/help.cfg:128
@@ -653,6 +653,9 @@ msgid ""
 "editor; all the overlays described here are found in the terrain palette’s "
 "“special” group."
 msgstr ""
+"Mapy obvykle vypadají v editoru podobně jako ve hře. Je několik výjimek, "
+"u kterých jsou v editoru použity jiné obrázky. Všechny zde popsané překryvy "
+"se nacházejí v paletě terénů ve skupině „zvláštnosti“."
 
 #. [topic]: id=editor_terrain_overlays
 #. The images here have text, while they could be translated I assume editor-only images won’t be.
@@ -671,6 +674,17 @@ msgid ""
 "mixed terrain with the movement costs set to “impassable” or “unwalkable” "
 "respectively."
 msgstr ""
+"<bold>text='Překryvy pro pohyb'</bold>\n"
+"\n"
+"<img>src='terrain/grass/green.png~BLIT(terrain/impassable-editor."
+"png~O(0.5))' align=here box=yes</img> <img>src='terrain/grass/green."
+"png~BLIT(terrain/unwalkable-editor.png~O(0.5))' align=here box=yes</img> "
+"neprostupný a neprůchodný\n"
+"\n"
+"Zatímco jsou v editoru snadno k povšimnutí, ve hře jsou neviditelné, takže "
+"smíšené terény, které jsou pomocí nich vytvořené, vypadají jako základní "
+"terén. Tvoří smíšený terén s cenou pohybu nastavenou buď na „neprostupný“, "
+"nebo na „neprůchodný“."
 
 #. [topic]: id=editor_terrain_overlays
 #. The images here have text, while they could be translated I assume editor-only images won’t be.
@@ -693,6 +707,21 @@ msgid ""
 "this requires the connecting hexes to be occupied or blocked to prevent "
 "units being recruited onto them."
 msgstr ""
+"<bold>text='Překryvy pro hrad'</bold>\n"
+"\n"
+"<img>src='terrain/grass/green.png~BLIT(terrain/castle/castle-overlay-editor."
+"png~O(0.5))' align=here box=yes</img> <img>src='terrain/grass/green."
+"png~BLIT(terrain/castle/keep-overlay-editor.png~O(0.5))' align=here box=yes</"
+"img>\n"
+"\n"
+"Přidání některého z těchto překryvů na prostupné políčko umožňuje na takové "
+"políčko verbovat jednotky. Tvrz navíc dovoluje vůdci, aby odtud verboval.\n"
+"\n"
+"Mohou být přidány na neprostupné políčko, aby se propojil hrad s tvrzí "
+"viditelně oddělenou pomocí neprostupné zdi. Je také možné vytvořit hrad, "
+"který vypadá, jako by měl mezi tvrzí a věžemi travnatou plochu, ale k tomu "
+"je třeba, aby byla spojovací políčka obsazena nebo zahrazena, čímž se "
+"zabrání tomu, aby na ně byly verbovány jednotky."
 
 #. [topic]: id=editor_terrain_overlays
 #. The image here has text, while it could be translated I assume editor-only images won’t be.
@@ -706,6 +735,13 @@ msgid ""
 "\n"
 "This turns any base terrain into a village, providing income and healing."
 msgstr ""
+"<bold>text='Překryv pro vesnici'</bold>\n"
+"\n"
+"<img>src='terrain/grass/green.png~BLIT(terrain/village/village-overlay-"
+"editor.png~O(0.5))' align=here box=yes</img>\n"
+"\n"
+"Tímhle se jakýkoli základní terén změní na vesnici, která poskytuje příjem "
+"a léčení."
 
 #. [topic]: id=editor_terrain_overlays
 #. The image is an “S” on a solid black background.
@@ -718,6 +754,13 @@ msgid ""
 "Fake Shroud looks like an unexplored area, even in scenarios that have "
 "shroud disabled and even when the player’s units can see the hex."
 msgstr ""
+"<bold>text='Falešné zahalení tmou'</bold>\n"
+"\n"
+"<img>src=terrain/void/shroud-editor.png align=left box=yes</img>\n"
+"\n"
+"Falešné zahalení tmou vypadá jako neprozkoumané území, a to i ve scénářích, "
+"které mají zahalení tmou vypnuté, a dokonce i tehdy, když jednotky hráče na "
+"takové políčko vidí."
 
 #. [topic]: id=editor_deprecated_overlay
 #: data/core/editor/help.cfg:170
