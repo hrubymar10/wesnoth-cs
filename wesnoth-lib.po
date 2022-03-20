@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-17 23:52+0300\n"
-"PO-Revision-Date: 2022-01-19 20:04+0100\n"
+"PO-Revision-Date: 2022-03-20 12:28+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2960,12 +2960,12 @@ msgstr "Neměnný"
 #. [toggle_button]: id=visible_fog_toggle
 #: data/gui/window/editor_edit_label.cfg:216
 msgid "Visible in fog"
-msgstr "Viditelnost v mlze"
+msgstr "Viditelný v mlze"
 
 #. [toggle_button]: id=visible_shroud_toggle
 #: data/gui/window/editor_edit_label.cfg:251
 msgid "Visible in shroud"
-msgstr "Viditelnost v rubáši"
+msgstr "Viditelný ve tmě"
 
 #. [label]: id=title
 #: data/gui/window/editor_edit_scenario.cfg:42
