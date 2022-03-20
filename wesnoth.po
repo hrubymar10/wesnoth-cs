@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 13:48+0300\n"
-"PO-Revision-Date: 2022-03-20 14:02+0100\n"
+"PO-Revision-Date: 2022-03-20 14:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3581,12 +3581,12 @@ msgstr "Zábradlí"
 #. [color_range]: id=unwalkable
 #: data/core/team-colors.cfg:219
 msgid "Unwalkable"
-msgstr "Neschůdný"
+msgstr "Neprůchodný"
 
 #. [color_range]: id=impassable
 #: data/core/team-colors.cfg:225
 msgid "Impassable"
-msgstr "Neschůdný"
+msgstr "Neprostupný"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [color_range]: id=fog
