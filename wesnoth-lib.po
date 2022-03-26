@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-20 06:46+0300\n"
-"PO-Revision-Date: 2022-03-20 14:49+0100\n"
+"PO-Revision-Date: 2022-03-26 10:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6762,15 +6762,15 @@ msgstr "Žádný věk nenalezen"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:256
 msgid "Independent"
-msgstr ""
+msgstr "Nezávislé"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:256
 msgid "No Ally Mirror"
-msgstr ""
+msgstr "Nezrcadlit spojence"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:256
 msgid "No Mirror"
-msgstr ""
+msgstr "Nezrcadlit"
 
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:258
 msgid "Independent: Random factions assigned independently"
