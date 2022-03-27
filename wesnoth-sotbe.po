@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-20 03:46 UTC\n"
-"PO-Revision-Date: 2022-03-26 10:19+0100\n"
+"PO-Revision-Date: 2022-03-27 19:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -263,12 +263,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:119
-#, fuzzy
-#| msgid ""
-#| "Retaliating, the orcs systematically slaughtered human colonies and "
-#| "villages on their lands. Then, Earl Lanbec’h — the most powerful human "
-#| "warlord of the North — determined to abolish the orcish menace raised an "
-#| "army and conferred leadership of it to his son-in-law Baron Alber."
 msgid ""
 "Retaliating, the orcs systematically slaughtered human colonies and villages "
 "on their lands. Then, Earl Lanbec’h — the most powerful human warlord of the "
@@ -760,10 +754,6 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:199
-#, fuzzy
-#| msgid ""
-#| "We could, but then again, if we crush them then we can loot their "
-#| "treasury and their dwellings. The gold will be useful."
 msgid ""
 "We could, but then again, if we crush them, then we can loot their treasury "
 "and their dwellings. The gold will be useful."
@@ -887,12 +877,6 @@ msgstr "Uh. Umírám."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:371
-#, fuzzy
-#| msgid ""
-#| "You were warned, dwarf. Riders, spread out of the area and collect what "
-#| "you can from each of these houses. If anyone refuses to pay, tie them up "
-#| "and take it anyway. Let them know that they live only on my good graces. "
-#| "I’ll take the army to Barag Gór. Catch up when you’re done."
 msgid ""
 "You were warned, dwarf. Riders, spread out over the area and collect what "
 "you can from each of these houses. If anyone refuses to pay, tie them up and "
@@ -921,19 +905,13 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:426
-#, fuzzy
-#| msgid ""
-#| "Blemaker, many thanks for your help in this fight. Would you like to join "
-#| "us in our journey with your son? You are a powerful warrior, and you "
-#| "would be of great help."
 msgid ""
 "Blemaker, many thanks for your help in this fight. Would you and your son "
 "like to join us in our journey? You are a powerful warrior, and you would be "
 "of great help."
 msgstr ""
-"Blemakere, mnohokrát díky za tvoji pomoc v tomto boji. Nepřidáš se k nám na "
-"naší pouti i se svým synem? Jsi mocný válečník a velmi bychom ocenili tvoji "
-"pomoc."
+"Blemakere, mnohokrát díky za tvoji pomoc v tomto boji. Nepřidáš se k nám "
+"i se svým synem na naší pouti? Jsi mocný válečník a velmi bys nám pomohl."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:431
@@ -1196,17 +1174,12 @@ msgstr "Elfové byli podplaceni lidmi, aby jim zajali a doručili naše šamany.
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:429
-#, fuzzy
-#| msgid ""
-#| "Over my dead body! The shamans of the Great Council are the only people "
-#| "who can call up the Great Horde. If they are captured then all the orcs "
-#| "on this continent would surely be doomed."
 msgid ""
 "Over my dead body! The shamans of the Great Council are the only people who "
 "can call up the Great Horde. If they are captured, then all the orcs on this "
 "continent would surely be doomed."
 msgstr ""
-"Jen přes mou mrtvolu. Šamané Velké rady jsou jediní, kteří mohou svolat "
+"Jen přes mou mrtvolu! Šamané Velké rady jsou jediní, kteří mohou svolat "
 "Velkou hordu. Jestli je zajmou, tak budou určitě všichni skřeti na tomhle "
 "kontinentě zničeni."
 
@@ -1389,12 +1362,6 @@ msgstr "Ma-Rana"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:126
-#, fuzzy
-#| msgid ""
-#| "Kapou’e and the shamans rested and discussed the matter for three days. "
-#| "It was finally decided that it might be necessary to call up the Great "
-#| "Horde to deal with this massive human incursion. However, in order to do "
-#| "that the entire Great Council would have to gather."
 msgid ""
 "Kapou’e and the shamans rested and discussed the matter for three days. It "
 "was finally decided that it might be necessary to call up the Great Horde to "
@@ -1475,11 +1442,6 @@ msgstr "Ani nápad. Grüü chce rozdrtit nějaké nemrtvé."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:240
-#, fuzzy
-#| msgid ""
-#| "Grüü is right. It is not wise to let these undead remain here cutting off "
-#| "our supply lines and path of retreat. In these days of turmoil, we don’t "
-#| "know what lies ahead, so it is best not to leave any threats in our rear."
 msgid ""
 "Grüü is right. It is not wise to let these undead remain here, cutting off "
 "our supply lines and path of retreat. In these days of turmoil, we don’t "
@@ -1864,19 +1826,14 @@ msgstr ""
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:178
-#, fuzzy
-#| msgid ""
-#| "I wouldn’t worry about the scorpions right now, I would worry about "
-#| "getting out of this sandstorm! These things can last for weeks, and if we "
-#| "aren’t buried alive by all the sand we will die of hunger and thirst."
 msgid ""
 "I wouldn’t worry about the scorpions right now, I would worry about getting "
 "out of this sandstorm! These things can last for weeks, and if we aren’t "
 "buried alive by all the sand, we will die of hunger and thirst."
 msgstr ""
-"Nestaral bych se o škorpiony právě teď; staral bych se spíš o to, jak se "
-"dostat z téhle písečné bouře. Může trvat týdny a jestli nás všechen ten "
-"písek nepohřbí zaživa, zemřeme hladem a žízní."
+"Zrovna teď bych si nedělal starosti se škorpiony, ale s tím, jak se dostat "
+"z téhle písečné bouře! Může trvat týdny a jestli nás všechen ten písek "
+"nepohřbí zaživa, zemřeme hladem a žízní."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:182
@@ -1890,8 +1847,6 @@ msgstr "Cože? Skrz všechen ten chaos?!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:192
-#, fuzzy
-#| msgid "We don’t have any other choice. If we remain here we’ll die."
 msgid "We don’t have any other choice. If we remain here, we’ll die."
 msgstr "Nemáme jinou volbu. Když zůstaneme, kde jsme, zemřeme."
 
@@ -2446,19 +2401,14 @@ msgstr "Ale moji lidé..."
 
 #. [message]: speaker=Echarp
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:183
-#, fuzzy
-#| msgid ""
-#| "You don’t understand. Orcs have been divided for ages. The only one who "
-#| "gave us some unity was your father, Black-Eye Karun. Hearing rumors of "
-#| "your exploits, we understood you are a worthy son of your father."
 msgid ""
 "You don’t understand. Orcs have been divided for ages. The only one who gave "
 "us some unity was your father, Black-Eye Karun. When we heard rumors of your "
 "exploits, we understood that you are a worthy son of your father."
 msgstr ""
 "Nechápeš to. Skřeti byli po dlouhá léta rozděleni. Jediný, kdo nás určitým "
-"způsobem sjednotil, byl tvůj otec Karun Černé oko. Donesly se k nám zvěsti "
-"o tvých činech a my pochopili, že jsi pravý syn svého otce."
+"způsobem sjednotil, byl tvůj otec Karun Černé oko. Když se k nám donesly "
+"zvěsti o tvých činech, pochopili jsme, že jsi pravý syn svého otce."
 
 #. [message]: speaker=Vraurk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:187
