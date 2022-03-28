@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-20 03:46 UTC\n"
-"PO-Revision-Date: 2022-03-27 19:32+0200\n"
+"PO-Revision-Date: 2022-03-28 20:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2443,24 +2443,17 @@ msgstr ""
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:203
-#, fuzzy
-#| msgid ""
-#| "Go defend Prestim, Kapou'e. In the meantime, now that the council is "
-#| "complete again, we will decide. We may have to form the Great Horde "
-#| "again, and give you the leadership of it."
 msgid ""
 "Go defend Prestim, Kapou’e. In the meantime, now that the Council is "
 "complete again, we will decide. We may have to form the Great Horde again "
 "and make you its leader."
 msgstr ""
 "Jdi bránit Prestim, Kapou’e. Mezitím, když je teď Rada opět úplná, "
-"rozhodneme. Možná budeme muset znovu vytvořit Velkou hordu a dát ti nad ní "
-"velení."
+"rozhodneme. Možná budeme muset znovu vytvořit Velkou hordu a tebe ustanovit "
+"jejím vůdcem."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:248
-#, fuzzy
-#| msgid "Nooo! Don’t kill me, I surrender to you little earthworm."
 msgid "Nooo! Don’t kill me, I surrender to you, little earthworm."
 msgstr "Neee! Nezabíjejte mě. Vzdávám se ti, ty malý červe."
 
@@ -2516,12 +2509,6 @@ msgstr "Plonk"
 
 #. [message]: speaker=Plonk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:192
-#, fuzzy
-#| msgid ""
-#| "Reinforcements, at last! Whoever you are, you are welcome in Prestim! The "
-#| "fortified bridge over the River Bork was taken this morning by a small "
-#| "commando of elves, we have already tried to assault it twice without "
-#| "success."
 msgid ""
 "Reinforcements, at last! Whoever you are, you are welcome in Prestim! The "
 "fortified bridge over the River Bork was taken this morning by a small "
@@ -2558,10 +2545,6 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:208
-#, fuzzy
-#| msgid ""
-#| "If Inarix falls prey to those humans then we won’t be able to count on "
-#| "their help in this struggle. We must do something!"
 msgid ""
 "If Inarix falls prey to those humans, then we won’t be able to count on "
 "their help in this struggle. We must do something!"
@@ -2581,22 +2564,16 @@ msgstr "To nebude tak jednoduché! Naši nepřátelé jsou dobře připraveni."
 
 #. [message]: speaker=Plonk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:221
-#, fuzzy
-#| msgid ""
-#| "We can sabotage the southern bridge to slow them down. When the bulk of "
-#| "the saurians have crossed, someone needs to go and light the barrel of "
-#| "oil we have set up beside the bridge to destroy it. Any warriors trapped "
-#| "on the bridge or on the other side of the river will perish!"
 msgid ""
 "We can capture the southern bridge and keep it open for the saurians. When "
 "the bulk of them have crossed, someone needs to go and light the barrel of "
 "oil we have set up beside the bridge to destroy it. Any warriors trapped on "
 "the bridge or on the other side of the river will perish!"
 msgstr ""
-"Můžeme odpálit jižní most, a tak je zpomalit. Jakmile ho většina ještěráků "
-"překročí, někdo musí jít a zapálit sud výbušniny, který jsme umístili pod "
-"most, aby ho zničil. Všichni bojovníci, kteří zůstanou na mostě nebo na "
-"opačné straně řeky, zemřou!"
+"Můžeme dobýt jižní most a držet jej průchodný pro ještěráky. Jakmile ho "
+"většina z nich překročí, někdo musí jít a zapálit sud výbušniny, který jsme "
+"umístili pod most, aby ho zničil. Všichni bojovníci, kteří zůstanou na mostě "
+"nebo na opačné straně řeky, zemřou!"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:228
@@ -2665,8 +2642,6 @@ msgstr "Hej, nepodpaluj to, nejsem ještě v bezpečí!"
 #. [message]: speaker=Grüü
 #. To "blow up" means "to make something explode".
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:451
-#, fuzzy
-#| msgid "Chief, we can’t be blowing the bridge before Inarix is here, can we?"
 msgid "Chief, we can’t be blowing up the bridge before Inarix is here, can we?"
 msgstr ""
 "Náčelníku, dokud tu není Inarix, nemůžem vyhodit most do povětří, že ne?"
@@ -2827,13 +2802,6 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:265
-#, fuzzy
-#| msgid ""
-#| "I’m not that sure. Every fortress has its own weakness. Prestim’s walls "
-#| "are strong but long and it is difficult to defend them from many "
-#| "directions at once. This Earl Lanbec’h must know they can’t break through "
-#| "by only fording the river where the bridge previously stood so he must "
-#| "have a better plan than that."
 msgid ""
 "I’m not that sure. Every fortress has its own weakness. Prestim’s walls are "
 "strong but long, and it is difficult to defend them from many directions at "
@@ -2865,38 +2833,27 @@ msgstr "Za čtyři dny. Obávám se, že to bude příliš pozdě."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:285
-#, fuzzy
-#| msgid ""
-#| "Fool! We can hold that long. But we have to have Prestim firmly in "
-#| "control when the shamans arrive with the Great Horde. We can’t let the "
-#| "humans establish a foothold on this side of the river."
 msgid ""
 "Fool! We can hold that long. But we have to have Prestim firmly in control "
 "when the shamans arrive with the Great Horde. We can’t let the humans "
 "establish a foothold on this side of the river..."
 msgstr ""
-"Hlupáku! Tak dlouho se můžeme udržet. Ale až dorazí šamanové s Velkou "
-"hordou, musíme mít Prestim pevně v rukách. Nemůžeme dovolit, aby se lidé na "
-"této straně řeky opevnili."
+"Hlupáku! Tak dlouho se můžeme udržet. Ale až dorazí šamani s Velkou hordou, "
+"musíme mít Prestim pevně v rukách. Nemůžeme dovolit, aby se lidé na této "
+"straně řeky opevnili..."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:295
-#, fuzzy
-#| msgid ""
-#| "Because if we cannot decisively beat these humans, the other tribes won’t "
-#| "think us strong enough to lead them. Each chieftain will try to claim the "
-#| "leadership of the horde for themselves and the humans will be able to "
-#| "break through our defenses."
 msgid ""
 "... because if we cannot decisively beat these humans, the other tribes "
 "won’t think us strong enough to lead them. Each chieftain will try to claim "
 "leadership of the horde for themselves, and the humans will be able to break "
 "through our defenses."
 msgstr ""
-"Protože pokud nedokážeme přesvědčivě porazit tyhle lidi, ostatní kmeny nás "
-"nebudou považovat za dostatečně silné, abychom je vedli. Každý náčelník se "
-"bude snažit získat vůdcovství hordy pro sebe a lidé budou schopni prorazit "
-"naší obranou."
+"... protože pokud nedokážeme přesvědčivě porazit tyhle lidi, ostatní kmeny "
+"nás nebudou považovat za dostatečně silné, abychom je vedli. Každý náčelník "
+"se bude snažit získat vůdcovství hordy pro sebe a lidé budou schopni "
+"prorazit naší obranou."
 
 #. [message]: role=cannonfodder
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:300
@@ -2975,10 +2932,8 @@ msgstr ""
 
 #. [message]: speaker=Gork
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:1206
-#, fuzzy
-#| msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
 msgid "Here we are! Hold on Prestim, we will help you push them to the river!"
-msgstr "Tak jsme zde! Braňte Prestim! My je zatlačíme do řeky!"
+msgstr "Tak jsme zde! Braňte Prestim, my vám pomůžeme zatlačit je do řeky!"
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:1211
