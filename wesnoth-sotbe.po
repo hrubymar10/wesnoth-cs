@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-20 03:46 UTC\n"
-"PO-Revision-Date: 2022-03-28 20:12+0200\n"
+"PO-Revision-Date: 2022-03-29 22:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3009,12 +3009,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:126
-#, fuzzy
-#| msgid ""
-#| "After a fair amount of squabbling — for some of the older warlords were "
-#| "reluctant to let this young upstart lead them — and a few consequent "
-#| "executions, the leadership of the horde was formally bestowed upon "
-#| "Kapou’e."
 msgid ""
 "After a fair amount of squabbling — for some of the older warlords were "
 "reluctant to let this young upstart lead them — and a few consequent "
@@ -3026,27 +3020,15 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:132
-#, fuzzy
-#| msgid ""
-#| "Riders were dispatched in all directions to gather intelligence and to "
-#| "pinpoint the exact location of the hostile forces."
 msgid ""
 "Riders were dispatched in all directions to gather intelligence and to "
 "pinpoint the exact locations of hostile forces."
 msgstr ""
 "Do všech směrů byli vysláni jezdci, aby shromáždili informace a určili "
-"přesnou pozici nepřátelských jednotek."
+"přesné pozice nepřátelských jednotek."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:138
-#, fuzzy
-#| msgid ""
-#| "The horde was then split into two forces. On the advice of the shamans, "
-#| "Kapou’e placed one force under the leadership of Shan Taum the Smug, who "
-#| "— despite his obnoxious nature — was a fierce and capable leader. He was "
-#| "sent to Bitok, the most southwestern orcish city, to cut off the humans "
-#| "already invading the harbor of Tirigaz, and to stop any further human "
-#| "incursion into orcish territory."
 msgid ""
 "The horde was then split into two forces. On the advice of the shamans, "
 "Kapou’e placed one force under the leadership of Shan Taum the Smug, who — "
@@ -3057,25 +3039,20 @@ msgid ""
 msgstr ""
 "Horda byla rozdělena na dvě části. Na radu šamanů dal Kapou’e vedení nad "
 "druhou skupinou Šan Taumovi Samolibému, který – navzdory jeho nepříjemné "
-"povaze – byl nelítostným a schopným vůdcem. Byl poslán do Bitoku, "
-"nejseverněji položeného skřetího města, aby odřízl lidi útočící na přístav "
-"Tirigaz a zastavil jakoukoliv budoucí lidskou invazi na skřetí území."
+"povaze – byl nelítostným a schopným vůdcem. Byl poslán do Bitoku, "
+"nejseverněji položeného skřetího města, aby odřízl lidi útočící na přístavní "
+"město Tirigaz a zastavil jakoukoliv budoucí lidskou invazi na skřetí území."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:145
-#, fuzzy
-#| msgid ""
-#| "He sent the shamans, Pirk, Gork and Vraurk back to Borstep — a city just "
-#| "north of the Mourned Hills — to organize any remaining orcish forces as "
-#| "well as create an arms and supply depot."
 msgid ""
 "Kapou’e sent the shamans, Pirk, Gork and Vraurk back to Borstep — a city "
 "just north of the Mourned Hills — to organize any remaining orcish forces as "
 "well as create an arms and supply depot."
 msgstr ""
-"Šamané Pirk, Gork a Vraurk byli posláni zpět do Borstepu – města severně od "
-"Truchlivých vrchů – k zorganizování zbylých skřetích sil, výrobě zbraní a "
-"vytvoření zásobovacího skladu."
+"Šamany Pirka, Gorka a Vraurka poslal Kapou’e zpět do Borstepu – města "
+"severně od Truchlivých vrchů – k zorganizování zbylých skřetích sil, výrobě "
+"zbraní a vytvoření zásobovacího skladu."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:151
@@ -3107,10 +3084,6 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:237
-#, fuzzy
-#| msgid ""
-#| "Foolish human. Attack, men, I want that city to be orcish territory "
-#| "within the week. Smite, stab, and slay!"
 msgid ""
 "Foolish human. Attack, men! I want that city to be orcish territory within "
 "the week. Smite, stab, and slay!"
@@ -3144,11 +3117,6 @@ msgstr "Sagmar"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:103
-#, fuzzy
-#| msgid ""
-#| "After conquering and occupying Dorest, Kapou’e and his men set themselves "
-#| "to stabilizing the area and bringing it firmly under the iron-hard orcish "
-#| "rule."
 msgid ""
 "After conquering and occupying Dorest, Kapou’e and his men set themselves to "
 "stabilizing the area and bringing it firmly under iron-hard orcish rule."
@@ -3158,13 +3126,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:109
-#, fuzzy
-#| msgid ""
-#| "After a few weeks of putting down minor rebellions and clearing out the "
-#| "last human strongholds, the first snows of the long northern winter began "
-#| "to fall. A few days after the first snowfall a goblin rider — half dead "
-#| "from exhaustion — raced into Dorest with the news that Borstep was under "
-#| "siege by a large force of dwarves, outlaws and elves."
 msgid ""
 "After a few weeks of putting down minor rebellions and clearing out the last "
 "human strongholds, the first snows of the long northern winter began to "
@@ -3205,13 +3166,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:127
-#, fuzzy
-#| msgid ""
-#| "Rushing to reach Borstep before the river froze up for the winter, the "
-#| "orcs sailed up the River Bork. Paddling day and night the horde barely "
-#| "managed to get through the Silent Forest before the river froze solid. "
-#| "Beaching their crafts, they marched the last leg of their journey through "
-#| "the deepening snow of the Mourned Hills."
 msgid ""
 "Rushing to reach Borstep before the river froze up for the winter, the orcs "
 "sailed up the River Bork. Paddling day and night, the horde barely managed "
@@ -3238,13 +3192,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:139
-#, fuzzy
-#| msgid ""
-#| "With eyes burning with apprehension and rage, Kapou’e sent his riders out "
-#| "to scour the land in all directions for the culprits while he made camp "
-#| "with the rest of the horde. A few hours later a rider reported back that "
-#| "he had picked up a trail of a large body of dwarves, elves and humans "
-#| "heading east through the mountains."
 msgid ""
 "With eyes burning with apprehension and rage, Kapou’e sent his riders out to "
 "scour the land in all directions for the culprits while he made camp with "
@@ -3534,15 +3481,11 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:584
-#, fuzzy
-#| msgid ""
-#| "Better late than never. Now it’s time to kill! Let nobody escape and "
-#| "everyone keep an eye out for the shamans."
 msgid ""
 "Better late than never. Now it’s time to kill! Let nobody escape! Everyone, "
 "keep an eye out for the shamans."
 msgstr ""
-"Lépe pozdě než nikdy. Teď je čas zabíjet! Nenechte nikoho uniknout a všichni "
+"Lépe pozdě než nikdy. Teď je čas zabíjet! Nenechte nikoho uniknout! Všichni "
 "se porozhlédněte po šamanech."
 
 #. [message]: speaker=Flar'Tar
