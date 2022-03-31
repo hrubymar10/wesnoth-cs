@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-20 03:46 UTC\n"
-"PO-Revision-Date: 2022-03-30 19:28+0200\n"
+"PO-Revision-Date: 2022-03-31 17:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4110,12 +4110,6 @@ msgstr ""
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:236
-#, fuzzy
-#| msgid ""
-#| "This is it, men! It is time to make these orcs pay for all that they have "
-#| "done to us. Attack without compromise, we have several detachments of "
-#| "reinforcements on their way. Spare no orc and let us take back this land "
-#| "which is rightfully ours!"
 msgid ""
 "This is it, men! It is time to make these orcs pay for all that they have "
 "done to us. Attack without compromise, we have several detachments of "
@@ -4149,8 +4143,6 @@ msgstr "Přijeli jsme, můj pane."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:370
-#, fuzzy
-#| msgid "Ahhh, perfect, more reinforcements."
 msgid "Ahhh, perfect. More reinforcements."
 msgstr "Ahhh, skvělé. Další posily."
 
@@ -4219,19 +4211,14 @@ msgstr ""
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:468
-#, fuzzy
-#| msgid ""
-#| "Cease your lies, Lanbec’h. We all know that you were the one who started "
-#| "this war. But enough, it is time for all this to end. I call for both "
-#| "sides to parley and we shall discuss this matter."
 msgid ""
 "Cease your lies, Lanbec’h. We all know that you were the one who started "
 "this war. But enough. It is time for all this to end. I call for both sides "
 "to parley and we shall discuss this matter."
 msgstr ""
-"Nech těch lží, Lanbec’hu. Víme, že jsi to byl ty, kdo začal tuhle válku. Ale "
-"teď je čas ji ukončit. Vyzývám obě strany k vyjednávání a budeme o této "
-"záležitosti rokovat."
+"Nech těch lží, Lanbec’hu. Všichni víme, že jsi to byl ty, kdo začal tuhle "
+"válku. Ale dost. Je čas, aby to všechno skončilo. Vyzývám obě strany "
+"k vyjednávání a budeme o této záležitosti rokovat."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:473
@@ -4249,10 +4236,6 @@ msgstr "O čem to mluvíš?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:484
-#, fuzzy
-#| msgid ""
-#| "I am Kapou’e, son of the Black-Eye Karun. Seventeen years ago you people "
-#| "assassinated my father after inviting him to join the Northern Alliance."
 msgid ""
 "I am Kapou’e, son of the Black-Eye Karun. Seventeen years ago, you people "
 "assassinated my father after inviting him to join the Northern Alliance."
@@ -4365,15 +4348,11 @@ msgstr ""
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:475
-#, fuzzy
-#| msgid ""
-#| "Now now now, what do we have here. Collaborating with the enemy again "
-#| "just like your disgusting father, are you?"
 msgid ""
 "Now now now, what do we have here? Collaborating with the enemy again just "
 "like your disgusting father, are you?"
 msgstr ""
-"Ale, ale, ale, copak to tu máme. Znovu spolupracuješ s nepřítelem, stejně "
+"Ale, ale, ale, copak to tu máme? Znovu spolupracuješ s nepřítelem, stejně "
 "jako tvůj nechutný otec, že ano?"
 
 #. [message]: speaker=Kapou'e
@@ -4400,28 +4379,15 @@ msgstr "Co jsem ti říkal, Kapou’e?"
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:502
-#, fuzzy
-#| msgid ""
-#| "Ha ha! Good work Shan Taum. That will teach them. Attack, boys, I want "
-#| "Dorest recaptured by sunset."
 msgid ""
 "Ha ha! Good work Shan Taum. That will teach them. Attack, boys! I want "
 "Dorest recaptured by sunset."
 msgstr ""
-"Ha ha! Dobrá práce, Šan Taume! To je naučí. Útok, chlapci, chci Dorest znovu "
-"dobýt do západu slunce."
+"Ha ha! Dobrá práce, Šan Taume! To je naučí. Zaútočte, chlapci! Chci Dorest "
+"znovu dobýt do západu slunce."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:507
-#, fuzzy
-#| msgid ""
-#| "Hold, Earl Lanbec’h. I have reached an agreement with these orcs. Since "
-#| "your army has been the aggressor, you must immediately disperse your army "
-#| "and withdraw from orcish territory. Once that is done then Kapou’e will "
-#| "give you back Dorest and call off the horde. I have had dealings with "
-#| "Kapou’e’s father before and I believe his blood will be trustworthy. And "
-#| "if that isn’t enough, then we are here to protect you in case he violates "
-#| "the pact."
 msgid ""
 "Hold, Earl Lanbec’h. I have reached an agreement with these orcs. Since your "
 "army has been the aggressor, you must immediately disperse it and withdraw "
@@ -4431,23 +4397,19 @@ msgid ""
 "enough, then we are here to protect you in case he violates the pact."
 msgstr ""
 "Zadrž, hrabě Lanbec’hu. S těmito skřety jsem dosáhl dohody. Protože "
-"agresorem byla tvoje armáda, musíš neprodleně rozpustit své jednotky "
-"a stáhnout se ze skřetího území. Jakmile se tak stane, Kapou’e ti vrátí "
-"Dorest a odvolá hordu. Dříve jsem jednával s Kapou’eho otcem a věřím, že "
-"tento rod je důvěryhodný. A jestli to není dost, pak jsme tu my, abychom ti "
-"pomohli v případě, že poruší úmluvu."
+"agresorem byla tvoje armáda, musíš ji neprodleně rozpustit a stáhnout ze "
+"skřetího území. Jakmile se tak stane, Kapou’e ti vrátí Dorest a odvolá "
+"hordu. Dříve jsem jednával s Kapou’eho otcem a věřím, že tento rod je "
+"důvěryhodný. A jestli to není dost, pak jsme tu my, abychom ti pomohli "
+"v případě, že poruší úmluvu."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:513
-#, fuzzy
-#| msgid ""
-#| "You and your damned compromises can go to hell. Your beloved Kapou’e will "
-#| "be joining you shortly."
 msgid ""
 "You and your damned compromises can go to hell! Your beloved Kapou’e will be "
 "joining you shortly."
 msgstr ""
-"Ty a tvé zatracené kompromisy můžete táhnout do pekla. Tvůj milovaný Kapou’e "
+"Ty a tvé zatracené kompromisy můžete táhnout do pekla! Tvůj milovaný Kapou’e "
 "se k tobě brzy připojí."
 
 #. [message]: speaker=Howgarth III
@@ -4558,13 +4520,6 @@ msgstr "Epilog"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/19_Epilogue.cfg:25
-#, fuzzy
-#| msgid ""
-#| "True to his word, once Lanbec’h had been slain, Howgarth III dispersed "
-#| "the Earl’s forces and withdrew them from orcish territory. For his part "
-#| "Kapou’e withdrew from Dorest and dispersed the Great Horde. However, "
-#| "before the horde was dispersed he appointed three more shamans — with the "
-#| "consent of all — to make the Great Council complete again."
 msgid ""
 "True to his word, once Lanbec’h had been slain, Howgarth III dispersed the "
 "Earl’s forces and withdrew them from orcish territory. For his part, Kapou’e "
@@ -4580,12 +4535,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/19_Epilogue.cfg:32
-#, fuzzy
-#| msgid ""
-#| "As Rahul had done to Kapou’e’s father, Howgarth III issued an invitation "
-#| "to Kapou’e to join the Northern Alliance. Kapou’e declined. Instead he "
-#| "went back to Barag Gór and, making that his capital, established himself "
-#| "as sovereign over all the northern tribes."
 msgid ""
 "As Rahul had done to Kapou’e’s father, Howgarth III issued an invitation to "
 "Kapou’e to join the Northern Alliance. Kapou’e declined. Instead, he went "
