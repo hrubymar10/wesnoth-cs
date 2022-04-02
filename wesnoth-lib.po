@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-20 06:46+0300\n"
-"PO-Revision-Date: 2022-03-26 10:12+0100\n"
+"PO-Revision-Date: 2022-04-02 16:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5910,7 +5910,7 @@ msgstr "Všechna rozšíření"
 
 #: src/gui/dialogs/addon/manager.cpp:163
 msgid "addons_view^Installed"
-msgstr "Nainstalované"
+msgstr "Nainstalovaná"
 
 #: src/gui/dialogs/addon/manager.cpp:164
 msgid "addons_view^Upgradable"
@@ -5918,11 +5918,11 @@ msgstr "Dostupná nová verze"
 
 #: src/gui/dialogs/addon/manager.cpp:165
 msgid "addons_view^Publishable"
-msgstr "Publikovatelné"
+msgstr "Publikovatelná"
 
 #: src/gui/dialogs/addon/manager.cpp:166
 msgid "addons_view^Not Installed"
-msgstr "Nenainstalované"
+msgstr "Nenainstalovaná"
 
 #: src/gui/dialogs/addon/manager.cpp:170
 msgid "addons_of_type^Campaigns"
