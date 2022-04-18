@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-16 21:00+0300\n"
-"PO-Revision-Date: 2022-04-14 20:38+0200\n"
+"PO-Revision-Date: 2022-04-18 12:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -160,7 +160,7 @@ msgstr "Zobrazit barevné kurzory"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:130
 msgid "Use colored mouse cursors"
-msgstr "Použít barevné kurzory"
+msgstr "Použít barevné kurzory myši"
 
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:137
