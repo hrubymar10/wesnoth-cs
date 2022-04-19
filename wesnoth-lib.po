@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-04-17 03:24+0300\n"
-"PO-Revision-Date: 2022-04-16 22:19+0200\n"
+"PO-Revision-Date: 2022-04-19 22:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -422,14 +422,12 @@ msgstr "Železný plot"
 #. [terrain_type]: id=fence_palisade
 #: data/core/terrain.cfg:511
 msgid "Palisade"
-msgstr ""
+msgstr "Palisáda"
 
 #. [terrain_type]: id=fence_palisade
 #: data/core/terrain.cfg:512
-#, fuzzy
-#| msgid "Wooden Bridge"
 msgid "Wooden Palisade"
-msgstr "Dřevěný most"
+msgstr "Dřevěná palisáda"
 
 #. [terrain_type]: id=sand_drifts
 #: data/core/terrain.cfg:521
