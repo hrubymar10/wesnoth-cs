@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-04-17 03:24+0300\n"
-"PO-Revision-Date: 2022-04-19 22:54+0200\n"
+"PO-Revision-Date: 2022-04-21 22:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6405,7 +6405,7 @@ msgstr "Wesnoth $version"
 #. TRANSLATORS: "reserve" refers to units on the recall list
 #: src/gui/dialogs/game_load.cpp:234
 msgid "$active active, $reserve reserve"
-msgstr ""
+msgstr "činné: $active, záloha: $reserve"
 
 #: src/gui/dialogs/game_load.cpp:283
 msgid "The selected file is corrupt: "
