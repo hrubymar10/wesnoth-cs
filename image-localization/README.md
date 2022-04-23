@@ -18,9 +18,9 @@ This directory contains resources for image overlay localization.
 | `data/campaigns/The_Rise_Of_Wesnoth/images/story/l10n/cs/trow-logo.png`          |      OK       |
 | `data/campaigns/The_South_Guard/images/maps/l10n/cs/tsg--overlay.png`            | doesn't exist |
 | `data/campaigns/Two_Brothers/images/maps/l10n/cs/tb--overlay.png`                | doesn't exist |
-| `data/core/images/help/l10n/cs/hpxp.png`                                         |    outdated   |
-| `data/core/images/help/l10n/cs/recruit.png`                                      |    outdated   |
-| `data/core/images/help/l10n/cs/tooltip.png`                                      |    outdated   |
+| `data/core/images/help/l10n/cs/hpxp.png`                                         |      OK       |
+| `data/core/images/help/l10n/cs/recruit.png`                                      |      OK       |
+| `data/core/images/help/l10n/cs/tooltip.png`                                      |      OK       |
 | `data/core/images/maps/l10n/cs/titlescreen--overlay.png`                         | doesn't exist |
 | `data/core/images/maps/l10n/cs/wesnoth--overlay.png`                             | doesn't exist |
 | `images/misc/l10n/cs/logo.png`                                                   |      OK       |
