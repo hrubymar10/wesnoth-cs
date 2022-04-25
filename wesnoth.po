@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-04-17 03:24+0300\n"
-"PO-Revision-Date: 2022-04-18 12:50+0200\n"
+"PO-Revision-Date: 2022-04-25 22:43+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5348,6 +5348,8 @@ msgid ""
 "The connection to the remote server is not secure. The add-on <i>"
 "$addon_title</i> cannot be uploaded."
 msgstr ""
+"Spojení na vzdálený server není zabezpečené. Nelze nahrát rozšíření <i>"
+"$addon_title</i>."
 
 #: src/addon/client.cpp:223
 msgid "Requesting file index..."
@@ -5616,6 +5618,8 @@ msgid ""
 "Forum authentication was requested for a user that is not registered on the "
 "forums."
 msgstr ""
+"Bylo požadováno ověření pomocí fóra pro uživatele, který není na fórech "
+"registrován."
 
 #: src/addon/validation.cpp:400
 msgid "Upload denied. Please contact the server administration for assistance."
@@ -5733,6 +5737,7 @@ msgid ""
 "The add-on's forum_auth attribute does not match what was previously "
 "uploaded."
 msgstr ""
+"Atribut forum_auth v rozšíření nesouhlasí s tím, co bylo nahráno dříve."
 
 #: src/addon/validation.cpp:511
 msgid "Unspecified server error."
@@ -5753,7 +5758,7 @@ msgstr "Prázdný seznam verzí rozšíření na serveru."
 #: src/addon/validation.cpp:527
 msgid ""
 "This server does not support using the forum_auth attribute in your pbl."
-msgstr ""
+msgstr "Tento server nepodporuje použití atributu forum_auth ve tvém pbl."
 
 #: src/addon/validation.cpp:537
 msgid "Unspecified validation failure."
