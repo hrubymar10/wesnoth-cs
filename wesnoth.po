@@ -8683,12 +8683,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1138
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Independent"
-#~ msgstr "Nezávislé"
-
-#~ msgid "No Mirror"
-#~ msgstr "Nezrcadlit"
-
-#~ msgid "No Ally Mirror"
-#~ msgstr "Nezrcadlit spojence"
