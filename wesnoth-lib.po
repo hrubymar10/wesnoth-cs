@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-04-29 14:42-0500\n"
-"PO-Revision-Date: 2022-04-21 22:33+0200\n"
+"PO-Revision-Date: 2022-05-03 20:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -259,10 +259,8 @@ msgstr "Čisté šedé kočičí hlavy"
 
 #. [terrain_type]: id=road_desert
 #: data/core/terrain.cfg:261
-#, fuzzy
-#| msgid "Desert Castle"
 msgid "Desert Cobbles"
-msgstr "Pouštní hrad"
+msgstr "Pouštní kočičí hlavy"
 
 #. [terrain_type]: id=stone_path
 #: data/core/terrain.cfg:271
@@ -1726,17 +1724,15 @@ msgstr "Dřevěný hnijící most"
 #: data/core/terrain.cfg:2739 data/core/terrain.cfg:2751
 #: data/core/terrain.cfg:2764
 msgid "Basic Stone Bridge"
-msgstr "Kamenný základní most"
+msgstr "Základní kamenný most"
 
 #. [terrain_type]: id=snow_stone_bridge
 #. [terrain_type]: id=snow_stone_bridgediag1
 #. [terrain_type]: id=snow_stone_bridgediag2
 #: data/core/terrain.cfg:2779 data/core/terrain.cfg:2791
 #: data/core/terrain.cfg:2804
-#, fuzzy
-#| msgid "Basic Stone Bridge"
 msgid "Snowy Stone Bridge"
-msgstr "Kamenný základní most"
+msgstr "Zasněžený kamenný most"
 
 #. [terrain_type]: id=bridgechasm
 #. [terrain_type]: id=bridgechasmdiag1
