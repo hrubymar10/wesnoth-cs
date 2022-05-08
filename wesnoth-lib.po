@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-17 23:52+0300\n"
-"PO-Revision-Date: 2022-04-16 22:21+0200\n"
+"PO-Revision-Date: 2022-05-08 21:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2556,7 +2556,7 @@ msgstr "Vyber rozšíření k odstranění."
 #: data/gui/window/addon_uninstall_list.cfg:161
 #: data/gui/window/preferences/05_multiplayer.cfg:289
 msgid "Remove"
-msgstr "Odstraň"
+msgstr "Odstranit"
 
 #. [grid]
 #: data/gui/window/attack_predictions.cfg:82
