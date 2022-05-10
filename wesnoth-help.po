@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-08 04:42+0300\n"
-"PO-Revision-Date: 2022-04-15 10:30+0200\n"
+"PO-Revision-Date: 2022-05-10 20:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -643,7 +643,7 @@ msgstr ""
 #. [topic]: id=editor_terrain_overlays
 #: data/core/editor/help.cfg:127
 msgid "Editor Terrain-Overlay Graphics"
-msgstr ""
+msgstr "Překryvné obrázky pro terén v editoru"
 
 #. [topic]: id=editor_terrain_overlays
 #: data/core/editor/help.cfg:128
@@ -653,6 +653,9 @@ msgid ""
 "editor; all the overlays described here are found in the terrain palette’s "
 "“special” group."
 msgstr ""
+"Mapy obvykle vypadají v editoru podobně jako ve hře. Je několik výjimek, "
+"u kterých jsou v editoru použity jiné obrázky. Všechny zde popsané překryvy "
+"se nacházejí v paletě terénů ve skupině „zvláštnosti“."
 
 #. [topic]: id=editor_terrain_overlays
 #. The images here have text, while they could be translated I assume editor-only images won’t be.
@@ -671,6 +674,17 @@ msgid ""
 "mixed terrain with the movement costs set to “impassable” or “unwalkable” "
 "respectively."
 msgstr ""
+"<bold>text='Překryvy pro pohyb'</bold>\n"
+"\n"
+"<img>src='terrain/grass/green.png~BLIT(terrain/impassable-editor."
+"png~O(0.5))' align=here box=yes</img> <img>src='terrain/grass/green."
+"png~BLIT(terrain/unwalkable-editor.png~O(0.5))' align=here box=yes</img> "
+"neprostupný a neprůchodný\n"
+"\n"
+"Zatímco jsou v editoru snadno k povšimnutí, ve hře jsou neviditelné, takže "
+"smíšené terény, které jsou pomocí nich vytvořené, vypadají jako základní "
+"terén. Tvoří smíšený terén s cenou pohybu nastavenou buď na „neprostupný“, "
+"nebo na „neprůchodný“."
 
 #. [topic]: id=editor_terrain_overlays
 #. The images here have text, while they could be translated I assume editor-only images won’t be.
@@ -693,6 +707,21 @@ msgid ""
 "this requires the connecting hexes to be occupied or blocked to prevent "
 "units being recruited onto them."
 msgstr ""
+"<bold>text='Překryvy pro hrad'</bold>\n"
+"\n"
+"<img>src='terrain/grass/green.png~BLIT(terrain/castle/castle-overlay-editor."
+"png~O(0.5))' align=here box=yes</img> <img>src='terrain/grass/green."
+"png~BLIT(terrain/castle/keep-overlay-editor.png~O(0.5))' align=here box=yes</"
+"img>\n"
+"\n"
+"Přidání některého z těchto překryvů na prostupné políčko umožňuje na takové "
+"políčko verbovat jednotky. Tvrz navíc dovoluje vůdci, aby odtud verboval.\n"
+"\n"
+"Mohou být přidány na neprostupné políčko, aby se propojil hrad s tvrzí "
+"viditelně oddělenou pomocí neprostupné zdi. Je také možné vytvořit hrad, "
+"který vypadá, jako by měl mezi tvrzí a věžemi travnatou plochu, ale k tomu "
+"je třeba, aby byla spojovací políčka obsazena nebo zahrazena, čímž se "
+"zabrání tomu, aby na ně byly verbovány jednotky."
 
 #. [topic]: id=editor_terrain_overlays
 #. The image here has text, while it could be translated I assume editor-only images won’t be.
@@ -706,6 +735,13 @@ msgid ""
 "\n"
 "This turns any base terrain into a village, providing income and healing."
 msgstr ""
+"<bold>text='Překryv pro vesnici'</bold>\n"
+"\n"
+"<img>src='terrain/grass/green.png~BLIT(terrain/village/village-overlay-"
+"editor.png~O(0.5))' align=here box=yes</img>\n"
+"\n"
+"Tímhle se jakýkoli základní terén změní na vesnici, která poskytuje příjem "
+"a léčení."
 
 #. [topic]: id=editor_terrain_overlays
 #. The image is an “S” on a solid black background.
@@ -718,13 +754,18 @@ msgid ""
 "Fake Shroud looks like an unexplored area, even in scenarios that have "
 "shroud disabled and even when the player’s units can see the hex."
 msgstr ""
+"<bold>text='Falešné zahalení tmou'</bold>\n"
+"\n"
+"<img>src=terrain/void/shroud-editor.png align=left box=yes</img>\n"
+"\n"
+"Falešné zahalení tmou vypadá jako neprozkoumané území, a to i ve scénářích, "
+"které mají zahalení tmou vypnuté, a dokonce i tehdy, když jednotky hráče na "
+"takové políčko vidí."
 
 #. [topic]: id=editor_deprecated_overlay
 #: data/core/editor/help.cfg:170
-#, fuzzy
-#| msgid "Base Terrain: "
 msgid "Deprecated Terrain"
-msgstr "Základní terén: "
+msgstr "Zastaralý terén"
 
 #. [topic]: id=editor_deprecated_overlay
 #. The main reason for choosing “D” is that the hole in the middle of the letter makes it easier to see which terrain is underneath it. This uses a hardcoded image and doesn’t expect the image to be translated.
@@ -743,6 +784,16 @@ msgid ""
 "The help pages for these terrains may have additional text that’s only shown "
 "in the editor, describing the deprecation and the recommended replacements."
 msgstr ""
+"<img>src='terrain/grass/green.png~BLIT(terrain/deprecated-editor.png)' "
+"align=left box=yes</img> Nachové „D“ (jako „Deprecated“).\n"
+"\n"
+"Tohle se v editoru zobrazuje nad zastaralými kódy terénu. Příklady:\n"
+"• <ref>dst='terrain_fungus_grove_old' text='houbový terén „^Uf“'</ref>,\n"
+"• osvětlená kamenná zeď „Xol“, která je zastaralá, protože několik terénů se "
+"zdmi teď podporuje výzdobu svícny „^Efs“.\n"
+"\n"
+"Stránky nápovědy pro tyto terény mohou obsahovat další text, který se "
+"zobrazuje pouze v editoru a který popisuje zastarání a doporučené náhrady."
 
 #. [topic]: id=editor_tool_label
 #: data/core/editor/help.cfg:186
@@ -8164,6 +8215,8 @@ msgstr "Nejhorší z/ze"
 msgid ""
 "Villages allow any unit stationed therein to heal, or to be cured of poison."
 msgstr ""
+"Vesnice umožňují jakékoli jednotce, která je ve vesnici umístěna, léčit se, "
+"nebo být uzdravena z otravy."
 
 #. TRANSLATORS: special note for terrains such as the oasis; the only terrain in core with this property heals 8 hp just like a village.
 #. For the single-hitpoint variant, the wording is different because I assume the player will be more interested in the curing-poison part than the minimal healing.
@@ -8175,14 +8228,21 @@ msgid_plural ""
 "This terrain allows units to heal $amount hitpoints, or to be cured of "
 "poison, as if stationed in a village."
 msgstr[0] ""
+"Tento terén umožňuje jednotkám uzdravit se z otravy, nebo se vyléčit o jeden "
+"bod života."
 msgstr[1] ""
+"Tento terén umožňuje jednotkám vyléčit $amount body života, nebo se uzdravit "
+"z otravy, jako by byly umístěny ve vesnici."
 msgstr[2] ""
+"Tento terén umožňuje jednotkám vyléčit $amount bodů života, nebo se uzdravit "
+"z otravy, jako by byly umístěny ve vesnici."
 
 #: src/help/help_topic_generators.cpp:174
 msgid ""
 "This terrain is a castle — units can be recruited onto it from a connected "
 "keep."
 msgstr ""
+"Tento terén je hrad – lze do něj z připojené tvrze naverbovat jednotky."
 
 #. TRANSLATORS: The "this terrain is a castle" note will also be shown directly above this one.
 #: src/help/help_topic_generators.cpp:178
@@ -8190,6 +8250,7 @@ msgid ""
 "This terrain is a keep — a leader can recruit from this hex onto connected "
 "castle hexes."
 msgstr ""
+"Tento terén je tvrz – vůdce z ní může verbovat na připojená políčka hradu."
 
 #. TRANSLATORS: Special note for a terrain, but none of the terrains in mainline do this.
 #: src/help/help_topic_generators.cpp:181
@@ -8197,6 +8258,8 @@ msgid ""
 "This unusual keep allows a leader to recruit while standing on it, but does "
 "not allow a leader on a connected keep to recruit onto this hex."
 msgstr ""
+"Tato neobvyklá tvrz umožňuje vůdci verbovat, když v ní stojí, ale nedovoluje "
+"do ní samotné verbovat vůdci, který je v tvrzi připojené."
 
 #: src/help/help_topic_generators.cpp:194
 msgid "Base Terrain: "
