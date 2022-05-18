@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-15 17:27+0300\n"
-"PO-Revision-Date: 2022-04-25 22:43+0200\n"
+"PO-Revision-Date: 2022-05-18 20:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6924,15 +6924,12 @@ msgid "This command is currently unavailable."
 msgstr "Tento příkaz nelze momentálně použít."
 
 #: src/map_command_handler.hpp:219
-#, fuzzy
-#| msgid ""
-#| "Unknown command '$command', try $help_command for a list of available "
-#| "commands."
 msgid ""
 "Unknown command '$command', did you mean '$command_proposal'? try "
 "$help_command for a list of available commands."
 msgstr ""
-"Neznámý příkaz „$command“, zkus $help_command pro seznam dostupných příkazů."
+"Neznámý příkaz „$command“, myslel jsi „$command_proposal“? Zkus "
+"$help_command pro seznam dostupných příkazů."
 
 #: src/map_command_handler.hpp:223
 msgid ""
