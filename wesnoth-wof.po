@@ -1,12 +1,13 @@
 # Martin Hrubý <hrubymar10@gmail.com>, 2019 - 2020.
 # Michal Žejdl <lachim@emer.cz>, 2019, 2022.
+# Petr Šlejhar (Septim) <septim@centrum.cz>, 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-04-29 19:43 UTC\n"
-"PO-Revision-Date: 2022-05-22 21:35+0200\n"
+"PO-Revision-Date: 2022-05-27 21:47+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -274,7 +275,7 @@ msgstr ""
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:180
 msgid "For healing, seek the cleansing waters of the Oases."
-msgstr ""
+msgstr "Pro léčení vyhledej očistné vody oáz."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:212
@@ -567,7 +568,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:135
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:206
 msgid "Vladnir"
-msgstr ""
+msgstr "Vladnir"
 
 #. [part]
 #. [side]
@@ -748,7 +749,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:282
 msgid "Death of Viragar"
-msgstr ""
+msgstr "Viragar zemře"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:298
@@ -762,6 +763,8 @@ msgid ""
 "It seems our swift approach evaded our foe’s notice.\n"
 "They have yet to muster a defense."
 msgstr ""
+"Zdá se, že náš rychlý postup unikl pozornosti našeho nepřítele.\n"
+"Ještě musí shromáždit obranu."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:312
@@ -934,7 +937,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:541
 msgid "I remind you it is by Vladnir’s order this creature remain whole."
-msgstr ""
+msgstr "Připomínám ti, že Vladnir rozkázal, aby toto stvoření zůstalo celé."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:547
@@ -1024,7 +1027,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:734
 msgid "Announce yourselves!"
-msgstr ""
+msgstr "Představ se!"
 
 #. [message]: speaker=Koli
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:738
@@ -1047,7 +1050,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:758
 msgid "State your purpose here!"
-msgstr ""
+msgstr "Oznam své úmysly!"
 
 #. [message]: speaker=Koli
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:762
@@ -1677,12 +1680,12 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:73
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:111
 msgid "Merfolk"
-msgstr ""
+msgstr "Mořský lid"
 
 #. [leader]: id=Nemas, type=Merman Warrior
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:76
 msgid "Nemas"
-msgstr ""
+msgstr "Nemas"
 
 #. [leader]: id=Shussek, type=Naga Warrior
 #. [event]
@@ -2174,7 +2177,7 @@ msgstr ""
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:215
 msgid "Hatchlings"
-msgstr ""
+msgstr "Mláďata"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:234
@@ -2860,7 +2863,7 @@ msgstr "Vorlyan"
 #. [unit]: id=Iryn, type=Cavalier
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:72
 msgid "Iryn"
-msgstr ""
+msgstr "Iryn"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:83
@@ -3031,7 +3034,7 @@ msgstr "Ano"
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:406
 msgid "I see we shall eat well this day!"
-msgstr ""
+msgstr "Vidím, že dnes budeme hodovat!"
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:417
@@ -4424,18 +4427,18 @@ msgstr ""
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:458
 msgid "bite"
-msgstr ""
+msgstr "kousnutí"
 
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:467
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:38
 msgid "tail"
-msgstr ""
+msgstr "ocas"
 
 #. [attack]: type=fire
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:476
 msgid "fire breath"
-msgstr ""
+msgstr "ohnivý dech"
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:523
@@ -5791,11 +5794,11 @@ msgstr "čepelové peří"
 
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:84
 msgid "Arinexis"
-msgstr ""
+msgstr "Arinexis"
 
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:97
 msgid "Zedrix"
-msgstr ""
+msgstr "Zedrix"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/utils/deaths.cfg:12
@@ -5820,7 +5823,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/Winds_of_Fate/utils/wov-macros.cfg:92
 msgid "Sapphire of Ice"
-msgstr ""
+msgstr "Ledový safír"
 
 #. [object]
 #: data/campaigns/Winds_of_Fate/utils/wov-macros.cfg:94
@@ -5830,7 +5833,7 @@ msgstr "Tento safír umožnuje svému nositeli útočit na dálku chladem!"
 #. [effect]: type=cold
 #: data/campaigns/Winds_of_Fate/utils/wov-macros.cfg:98
 msgid "sapphire of ice"
-msgstr ""
+msgstr "ledový safír"
 
 #. [objective]: description=<small>, condition=win
 #: data/campaigns/Winds_of_Fate/utils/wov-macros.cfg:138
