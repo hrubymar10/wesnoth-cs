@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-08 01:42 UTC\n"
-"PO-Revision-Date: 2022-06-19 16:42+0200\n"
+"PO-Revision-Date: 2022-06-20 21:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -480,7 +480,7 @@ msgid ""
 msgstr ""
 "Jen bezzubě žvaníš. Vyměkl jsi během svého pohodlného života otrokáře. Teď "
 "tvá síla i myšlení odpovídá tak goblinovi. Tato země nyní patří mému pánovi. "
-"Vzdej se hned a možná tě nechá být <i>jeho</i> otrokem."
+"Vzdej se hned a možná tě nechá být (<i>svým</i>) otrokem."
 
 #. [message]: speaker=Al'Tar
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:292
