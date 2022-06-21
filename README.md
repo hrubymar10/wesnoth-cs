@@ -12,15 +12,15 @@ wesnoth-ei | 572 | 99% | 2 | Michal
 wesnoth-lib | 1452 | 99% | 4 | Michal
 wesnoth-nr | 1207 | 99% | 5 | Michal
 wesnoth-tutorial | 280 | 99% | 1 | Michal
-wesnoth-units | 744 | 99% | 4 |
+wesnoth-units | 744 | 99% | 2 |
 wesnoth-wof | 792 | 12% | 693 | Septim
 wesnoth | 1348 | 97% | 35 | Michal
 
-Total messages remaining: **744**
+Total messages remaining: **742**
 
 Progress since 2022-04-30: **1** message per day
 
-ETA: **2024-07-03**
+ETA: **2024-07-02**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
