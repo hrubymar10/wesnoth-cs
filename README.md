@@ -11,12 +11,11 @@ Domain | Messages | Translated | Remaining | Translator
 wesnoth-ei | 572 | 99% | 2 | Michal
 wesnoth-lib | 1452 | 99% | 4 | Michal
 wesnoth-nr | 1207 | 99% | 5 | Michal
-wesnoth-tutorial | 280 | 99% | 1 | Michal
-wesnoth-units | 744 | 99% | 2 |
+wesnoth-units | 744 | 99% | 2 | Michal
 wesnoth-wof | 792 | 12% | 693 | Septim
 wesnoth | 1348 | 97% | 35 | Michal
 
-Total messages remaining: **742**
+Total messages remaining: **741**
 
 Progress since 2022-04-30: **1** message per day
 
