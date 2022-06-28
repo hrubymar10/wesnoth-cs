@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 09:02-0500\n"
-"PO-Revision-Date: 2022-06-27 18:30+0200\n"
+"PO-Revision-Date: 2022-06-28 21:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -693,7 +693,7 @@ msgstr "Kovadlina"
 #. [item]: id=archery-target
 #: data/core/editor/items.cfg:42
 msgid "Archery Target"
-msgstr "Terč pro Lukostřelbu"
+msgstr "Terč pro lukostřelbu"
 
 #. [item]: id=armor-golden
 #: data/core/editor/items.cfg:48
@@ -840,12 +840,12 @@ msgstr "Otevřená truhla"
 #. [item]: id=chest-plain-closed
 #: data/core/editor/items.cfg:260
 msgid "Closed Plain Chest"
-msgstr "Zavřená truhla"
+msgstr "Zavřená obyčejná truhla"
 
 #. [item]: id=chest-plain-open
 #: data/core/editor/items.cfg:266
 msgid "Open Plain Chest"
-msgstr "Otevřená truhla"
+msgstr "Otevřená obyčejná truhla"
 
 #. [item]: id=cloak-green
 #: data/core/editor/items.cfg:272
