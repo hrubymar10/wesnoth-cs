@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-29 13:14+0300\n"
-"PO-Revision-Date: 2022-06-28 21:25+0200\n"
+"PO-Revision-Date: 2022-06-29 17:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -778,7 +778,7 @@ msgstr "Krabice"
 #. [item]: id=brazier
 #: data/core/editor/items.cfg:156
 msgid "Brazier"
-msgstr "Rošt"
+msgstr "Ohniště"
 
 #. [item]: id=buckler
 #: data/core/editor/items.cfg:162
