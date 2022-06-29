@@ -8,7 +8,7 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-wof | 792 | 12% | 693 | Septim
+wesnoth-wof | 792 | 12% | 693 | 
 
 Total messages remaining: **693**
 
