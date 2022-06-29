@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 14:03 UTC\n"
-"PO-Revision-Date: 2022-06-25 11:04+0200\n"
+"PO-Revision-Date: 2022-06-29 17:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5017,7 +5017,7 @@ msgstr ""
 #: data/core/units/orcs/Assassin.cfg:35 data/core/units/orcs/Nightblade.cfg:43
 #: data/core/units/orcs/Slayer.cfg:44
 msgid "throwing knives"
-msgstr "házecí nože"
+msgstr "vrhací nože"
 
 #. [female]
 #: data/core/units/humans/Outlaw_Assassin.cfg:101
