@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 14:03 UTC\n"
-"PO-Revision-Date: 2022-06-26 13:10+0200\n"
+"PO-Revision-Date: 2022-06-29 22:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1099,7 +1099,7 @@ msgstr ""
 "Jsme vskutku ve velmi svízelné situaci. Ale podívejte, trollové a kostlivci "
 "se pobíjejí i navzájem. Musíme zůstat pohromadě v jedné skupině, abychom se "
 "mohli vzájemně krýt. Pokud nás bude dost pohromadě, snad se našeho množství "
-"příšery zaleknou a raději vyhledají jinou snadnější kořist."
+"příšery zaleknou a raději vyhledají jinou, snadnější kořist."
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:733
@@ -1123,7 +1123,7 @@ msgid ""
 msgstr ""
 "Proto si musíme pospíšit a najít trpaslíky. Jsou to odolní tvorové, navíc "
 "znají své jeskyně nazpaměť. Dozajista museli někteří přežít! To je naše "
-"jediná naděje, jinak je s námi ámen, ať už na povrchu nebo tady dole!"
+"jediná naděje, jinak je s námi ámen, ať už na povrchu, nebo tady dole!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:879
