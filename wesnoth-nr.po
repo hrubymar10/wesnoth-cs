@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-05 14:17 UTC\n"
-"PO-Revision-Date: 2022-06-29 22:30+0200\n"
+"PO-Revision-Date: 2022-07-10 09:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -206,12 +206,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:49
-#, fuzzy
-#| msgid ""
-#| "Dark years passed; human generations grew up in slavery, and came near to "
-#| "forgetting that their ancestors had been free — and might have completely "
-#| "forgotten were it not for a fateful day in 518YW. That day that changed "
-#| "the lives of the people of Dwarven Doors — forever."
 msgid ""
 "Dark years passed; human generations grew up in slavery, and came near to "
 "forgetting that their ancestors had been free — and might have completely "
@@ -220,7 +214,7 @@ msgid ""
 msgstr ""
 "Temná léta plynula. Generace lidí vyrůstaly v otroctví a téměř zapomněly, že "
 "jejich předkové byli volní. A snad by zapomněly i úplně, nebýt jednoho "
-"osudového dne roku 518 w. l. Ten den změnil životy obyvatel Trpasličích "
+"osudového dne roku 518 w. l. Dne, který změnil životy obyvatel Trpasličích "
 "dveří jednou provždy."
 
 #. [part]
@@ -569,17 +563,13 @@ msgstr "(<i>Pích</i>)"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:451
-#, fuzzy
-#| msgid "What the...? (<i>Gurgle</i>) Killed... by... slaves?"
 msgid "What the...? (<i>Gurgle</i>) Defeated... by... a grunt?"
-msgstr "Co to... (<i>Chropt</i>) Zabit... otroky?"
+msgstr "Co to... (<i>Chropt</i>) Zabit... pěšákem?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:462
-#, fuzzy
-#| msgid "(<i>Stab</i>)"
 msgid "(<i>Smack</i>)"
-msgstr "(<i>Pích</i>)"
+msgstr "(<i>Plesk</i>)"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:469
@@ -595,12 +585,12 @@ msgstr "Že by teda byl nějak extra bystrý..."
 #. "him" is referring to Al'Tar
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:499
 msgid "We got him, chief!"
-msgstr ""
+msgstr "Dostali jsme ho, šéfe!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:505
 msgid "We avenged our leader..."
-msgstr ""
+msgstr "Pomstili jsme našeho vůdce..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:522

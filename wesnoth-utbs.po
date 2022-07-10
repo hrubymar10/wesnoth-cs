@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-05 14:17 UTC\n"
-"PO-Revision-Date: 2022-06-29 17:39+0200\n"
+"PO-Revision-Date: 2022-07-10 09:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7902,10 +7902,8 @@ msgstr "Utíkáš, ale smrti neunikneš!"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2466
-#, fuzzy
-#| msgid "In Eloh’s name, not you again. Must I fight you another time?"
 msgid "In Eloh’s name, not you again. Must I fight you a third time?"
-msgstr "Ve jménu Eloh, snad ne zas ty. Musím s tebou znovu bojovat?"
+msgstr "Ve jménu Eloh, snad ne zas ty. Musím s tebou bojovat potřetí?"
 
 #. [message]: speaker=Cloaked Figure
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2472
