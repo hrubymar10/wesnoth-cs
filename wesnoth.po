@@ -8857,9 +8857,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1138
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Chest"
-#~ msgstr "Truhla"
-
-#~ msgid "Use [modify_unit_type]\n"
-#~ msgstr "Použij [modify_unit_type]\n"
