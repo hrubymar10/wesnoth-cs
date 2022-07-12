@@ -7696,7 +7696,9 @@ msgstr "Proměnná nenalezena"
 
 #: src/menu_events.cpp:1990
 msgid "Debug command 'unit: $unit' failed: no unit selected or hovered over."
-msgstr "Ladicí příkaz „unit: $unit“ selhal: žádná jednotka nebyla vybrána ani ukázána myší."
+msgstr ""
+"Ladicí příkaz „unit: $unit“ selhal: žádná jednotka nebyla vybrána ani "
+"ukázána myší."
 
 #: src/menu_events.cpp:2008
 msgid ""
