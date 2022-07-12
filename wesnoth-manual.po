@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-05-22 22:21-0400\n"
+"POT-Creation-Date: 2022-07-10 10:23-0500\n"
 "PO-Revision-Date: 2022-05-01 09:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -16,12 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-
-# Je to nějaká hovadina.
-#. type: Content of: outside any tag (error?)
-#: doc/manual/manual.en.xml:3
-msgid "<?asciidoc-toc?> <?asciidoc-numbered?>"
-msgstr "<?asciidoc-toc?> <?asciidoc-numbered?>"
 
 #. type: Attribute 'lang' of: <book>
 #: doc/manual/manual.en.xml:6
@@ -3802,3 +3796,7 @@ msgid ""
 msgstr ""
 "Povýšené jednotky vyžadují vyšší žold než na základní úrovni (1 zlatý na "
 "úroveň), výjimkou jsou věrné jednotky."
+
+# Je to nějaká hovadina.
+#~ msgid "<?asciidoc-toc?> <?asciidoc-numbered?>"
+#~ msgstr "<?asciidoc-toc?> <?asciidoc-numbered?>"
