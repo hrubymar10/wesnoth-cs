@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 09:02-0500\n"
-"PO-Revision-Date: 2022-06-29 17:46+0200\n"
+"PO-Revision-Date: 2022-07-16 09:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -683,7 +683,7 @@ msgstr "Oltář"
 #. [item]: id=ankh-necklace2
 #: data/core/editor/items.cfg:24 data/core/editor/items.cfg:30
 msgid "Ankh Necklace"
-msgstr "Náhrdelník s křížkem"
+msgstr "Náhrdelník života"
 
 #. [item]: id=anvil
 #: data/core/editor/items.cfg:36
@@ -1163,7 +1163,7 @@ msgstr "Přízračný meč"
 #. [item]: id=talisman-ankh
 #: data/core/editor/items.cfg:687
 msgid "Ankh Talisman"
-msgstr "Talisman anch"
+msgstr "Talisman života"
 
 #. [item]: id=talisman-bone
 #: data/core/editor/items.cfg:693
