@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 14:03 UTC\n"
-"PO-Revision-Date: 2022-07-15 22:33+0200\n"
+"PO-Revision-Date: 2022-07-17 12:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -892,7 +892,7 @@ msgstr "Nech toho! Nejsem skřet, ale člověk!"
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:362
 msgid "A human! Amazing, I haven’t seen a human ever since the orcs attacked."
-msgstr "Člověk! Pozoruhodné, od doby co skřeti zaútočili jsem lidi neviděl."
+msgstr "Člověk! Pozoruhodné, od doby, co skřeti zaútočili, jsem lidi neviděl."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:367
@@ -908,7 +908,7 @@ msgid ""
 "more fun anyway than sitting on your backside studying all day..."
 msgstr ""
 "Usmažil jsem všechny skřety, trolly a kostlivce, kteří měli tu čest se se "
-"mnou setkat. Pche! Ty nestvůry znesvětily mé celoživotní dílo, a teď "
+"mnou setkat. Pche! Ty nestvůry znesvětily mé celoživotní dílo a teď "
 "nespočinu, dokud i posledního z nich nepošlu do horoucích pekel! A jen tak "
 "mezi námi, je to docela dobrá zábava. Rozhodně lepší, než celé dny sedět a "
 "bádat..."
@@ -938,7 +938,7 @@ msgstr ""
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:392
 msgid "Hordes of trolls and skeletons! Where?! Let’s go burn ’em all!"
-msgstr "Hordy trollů a kostlivců! Kde? Poďme je spálit!"
+msgstr "Hordy trollů a kostlivců! Kde? Pojďme je spálit!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:398
@@ -963,7 +963,7 @@ msgstr "Áááá! Oheň!"
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:438
 msgid "<i>Yeah! Die, scum, die!</i>"
-msgstr "<i>Joó! Umři smrade, umři!</i>"
+msgstr "<i>Joó! Umři, smrade, umři!</i>"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:455
@@ -1022,8 +1022,8 @@ msgid ""
 "Hey look, it’s an ancient door. It seems the trolls were too stupid to find "
 "how to open it."
 msgstr ""
-"Podívejte, starobylé dveře. Zdá se že trollové byli příliš pitomí na to aby "
-"je dokázali otevřít."
+"Podívejte, starobylé dveře. Zdá se, že trollové byli příliš pitomí na to, "
+"aby je dokázali otevřít."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:543
@@ -1032,7 +1032,7 @@ msgid ""
 "Hey look, it’s an ancient door. It seems the skeletons were too stupid to "
 "find how to open it."
 msgstr ""
-"Podívejte, starobylé dveře. Zdá se že kosťáci byli příliš pitomí na to aby "
+"Podívejte, starobylé dveře. Zdá se, že kosťáci byli příliš pitomí na to, aby "
 "je dokázali otevřít."
 
 #. [message]: speaker=Tallin
@@ -1046,7 +1046,7 @@ msgstr "Nu, podíváme se co je za nimi."
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:685
 msgid ""
 "All right. (<i>Grunt... strain...</i>) It’s not moving. It seems to be stuck."
-msgstr "Fajn. (<i>Vrz... uf...</i>). Nehýbou se. Asi se zasekly."
+msgstr "Fajn. (<i>Vrz... uf...</i>) Nehýbou se. Asi se zasekly."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:562
@@ -1162,8 +1162,8 @@ msgid ""
 "havena’ forgotten the old bonds. Be welcome to our keep. Aye, and have "
 "speech with our chieftain, the Lord Hamel."
 msgstr ""
-"Ach, trpaslíci z Knalgy mají sami namále – ale nezapomněli jsme na staré "
-"svazky. Vítejte v naší tvrzi. Promluvte si s naším náčelníkem, lordem "
+"Ach, trpaslíci z Knalgy mají sami namále – ale nezapomněli jsme na staré "
+"svazky. Vítejte v naší tvrzi. Promluvte si s naším náčelníkem, lordem "
 "Hamelem."
 
 #. [message]: speaker=Tallin
