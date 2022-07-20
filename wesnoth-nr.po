@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 14:03 UTC\n"
-"PO-Revision-Date: 2022-07-18 22:58+0200\n"
+"PO-Revision-Date: 2022-07-20 23:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1632,7 +1632,7 @@ msgstr "Heleďte, naše maso! Poďte, kluci, oběd!"
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg:119
 msgid "I don’t think so, buddy."
-msgstr "Nemyslím, chlapče."
+msgstr "To si nemyslím, kámo."
 
 # goblin
 #. [message]: speaker=Pruol
@@ -1748,10 +1748,10 @@ msgid ""
 "the south-east? If we could capture those, we would gain o’ great tactical "
 "advantage."
 msgstr ""
-"Pohleďte na ten kanál. Trpaslíci jej vybudovali kvůli přepravě vytěžených "
-"kovů hlouběji do Knalgy. A vidíte tamty dvě místnosti, jednu na severozápadě "
-"a druhou na jihovýchodě? Kdybychom je obsadili, dosáhli bychom významné "
-"taktické výhody."
+"Podívejte se na ten kanál. Trpaslíci jej vybudovali kvůli přepravě "
+"vytěžených kovů hlouběji do Knalgy. A vidíte tamty dvě místnosti, jednu na "
+"severozápadě a druhou na jihovýchodě? Kdybychom je obsadili, dosáhli bychom "
+"významné taktické výhody."
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:232
@@ -1777,7 +1777,7 @@ msgid ""
 "Fortunately, this entrance seems to be in disrepair. It doesn’t look like "
 "they have noticed us yet."
 msgstr ""
-"Naštěstí tenhle vchod vypadá rozpadlý. Nezdá se, že by si nás zatím všimli."
+"Naštěstí tenhle vchod vypadá zchátrale. Nezdá se, že by si nás zatím všimli."
 
 # kosťák velitel
 #. [message]: speaker=Thorin
@@ -1793,7 +1793,7 @@ msgstr "(<i>Škub</i>)."
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:257
 msgid "Oops, I spoke too soon."
-msgstr "Jejda, tak asi ne."
+msgstr "Jejda, to jsem zakřikl."
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:262
@@ -1810,11 +1810,10 @@ msgstr "NEODPOVÍDÁŠ. UPOZORNĚTE PÁNA!"
 msgid "Who goes there? Ahhh, more slaves, I see."
 msgstr "Kdo je tam? Á, už vidím, další služebníci."
 
-# vámi x tebou?
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:289
 msgid "Others have made that mistake before. Who are you?"
-msgstr "Před tebou už tu chybu udělali mnozí. Kdo jsi?"
+msgstr "Takhle už se spletli jiní. Kdo jsi?"
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:294
@@ -1890,9 +1889,9 @@ msgid ""
 "glory, the pleasure that the realm of death has to offer. Think of the great "
 "empire of Knalga; it can be yours. Come, share it with me!"
 msgstr ""
-"Rozhlédni se kolem sebe, Talline, pohleď na všechnu tu moc, bohatství, "
-"slávu, potěšení, které může říše smrti nabídnout. Pomysli jen na skvělou "
-"říši Knalgy – může být tvoje! Podělím se o ni s tebou!"
+"Rozhlédni se kolem sebe, Talline, pohleď na všechnu tu moc, bohatství, slávu "
+"a potěšení, které může říše smrti nabídnout. Pomysli jen na skvělou říši "
+"Knalgy – může být tvoje! Podělím se o ni s tebou!"
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:344
@@ -1908,7 +1907,7 @@ msgid ""
 msgstr ""
 "Je to tak snadné, Talline, vidíš tu malou člověčí havěť vedle sebe? Vytáhni "
 "svůj nůž... podřízni ho... zakus ten pocit, nech jeho horkou krev téci po "
-"tvých rukách... obětuj jej smrti!"
+"svých rukách... obětuj jej smrti!"
 
 # green?
 #. [message]: speaker=Tallin
@@ -1934,7 +1933,7 @@ msgstr "Ty hlupáku! Zaplatíš za svou hloupost životem!"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:369
 msgid "Yeah, right, buddy."
-msgstr "Jasně, jasně."
+msgstr "Jo, jasně, kámo."
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:379
