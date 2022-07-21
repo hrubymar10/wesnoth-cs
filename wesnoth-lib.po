@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-19 19:21-0500\n"
-"PO-Revision-Date: 2022-06-29 17:46+0200\n"
+"PO-Revision-Date: 2022-07-21 20:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7025,10 +7025,8 @@ msgid "Screenshot"
 msgstr "Snímek obrazovky"
 
 #: src/gui/dialogs/title_screen.cpp:432 src/hotkey/hotkey_command.cpp:297
-#, fuzzy
-#| msgid "Choose Starting Scenario"
 msgid "Choose Test Scenario"
-msgstr "Vybrat počáteční scénář"
+msgstr "Vybrat testovací scénář"
 
 #: src/gui/dialogs/unit_create.cpp:197
 msgid "unit_variation^Default Variation"
