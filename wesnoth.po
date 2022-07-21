@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-19 19:21-0500\n"
-"PO-Revision-Date: 2022-07-16 09:01+0200\n"
+"PO-Revision-Date: 2022-07-21 20:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7743,6 +7743,8 @@ msgstr "Proměnná nenalezena"
 #: src/menu_events.cpp:1988
 msgid "Debug command 'unit: $unit' failed: no unit selected or hovered over."
 msgstr ""
+"Ladicí příkaz „unit: $unit“ selhal: žádná jednotka nebyla vybrána ani "
+"ukázána myší."
 
 #: src/menu_events.cpp:2006
 msgid ""
