@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-19 19:21-0500\n"
-"PO-Revision-Date: 2022-07-21 20:32+0200\n"
+"PO-Revision-Date: 2022-07-23 11:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -205,7 +205,7 @@ msgstr ""
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:165
 msgid "Font size scale (experimental)"
-msgstr ""
+msgstr "Stupnice velikosti písma (pokusné)"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:166
@@ -213,6 +213,9 @@ msgid ""
 "Scales all text up or down from the standard size for your resolution. "
 "Warning: Scaling text up may cause issues in the in-game sidebar."
 msgstr ""
+"Zvětší nebo zmenší všechen text z obvyklé velikosti pro tvé rozlišení. "
+"Upozornění: Zvětšování textu může způsobit problémy v postranním panelu ve "
+"hře."
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
