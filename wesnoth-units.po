@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-20 00:21 UTC\n"
-"PO-Revision-Date: 2022-07-20 23:14+0200\n"
+"PO-Revision-Date: 2022-07-23 11:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8204,10 +8204,8 @@ msgstr ""
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/core/units/undead/Skele_Bone_Knight.cfg:5
-#, fuzzy
-#| msgid "Goblin Knight"
 msgid "Bone Knight"
-msgstr "Gobliní rytíř"
+msgstr "Kostlivý rytíř"
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/core/units/undead/Skele_Bone_Knight.cfg:27
@@ -8216,11 +8214,14 @@ msgid ""
 "skeletal horses were raised from the ground by unholy magic to spread fear "
 "and destruction."
 msgstr ""
+"Tito kostlivci, kdysi velcí válečníci a postrach plání, opět osedlali kostry "
+"koní, jež povstaly nečistými silami ze země spolu s nimi a vydali se šířit "
+"strach a zkázu."
 
 #. [attack]: type=impact
 #: data/core/units/undead/Skele_Bone_Knight.cfg:41
 msgid "trample"
-msgstr ""
+msgstr "dupot"
 
 #. [unit_type]: id=Bone Shooter, race=undead
 #: data/core/units/undead/Skele_Bone_Shooter.cfg:4
@@ -8396,10 +8397,8 @@ msgstr ""
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/core/units/undead/Skeleton_Rider.cfg:5
-#, fuzzy
-#| msgid "Skeleton Archer"
 msgid "Skeleton Rider"
-msgstr "Kostlivec lučištník"
+msgstr "Kostlivý jezdec"
 
 #. [unit_type]: id=Skeleton Rider, race=undead
 #: data/core/units/undead/Skeleton_Rider.cfg:33
@@ -8408,6 +8407,8 @@ msgid ""
 "their skeletal horses were raised from the grave by unholy magic to spread "
 "fear and destruction."
 msgstr ""
+"Kdysi to byli skvělí válečníci jezdící pláněmi. Teď sedlají své kostlivé "
+"koně, zrozené ze země bezbožnou magií, k šíření strachu a ničení."
 
 #. [unit_type]: id=Ghost, race=undead
 #: data/core/units/undead/Spirit_Ghost.cfg:4
