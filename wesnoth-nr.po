@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 14:03 UTC\n"
-"PO-Revision-Date: 2022-07-21 19:45+0200\n"
+"PO-Revision-Date: 2022-07-23 09:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1941,8 +1941,8 @@ msgid ""
 "These little vermin are making progress! This is unacceptable. Rise, my "
 "minions — gorge on the flesh of these scurrying little rats!"
 msgstr ""
-"Ti malí mizerové postupují! To nelze připustit. Povstaňte, mí služebníci a "
-"nasyťte se na mase těch odporných malých krys!"
+"Ti malí mizerové postupují! To nelze připustit. Povstaňte, mí služebníci, "
+"a nasyťte se na mase těch odporných malých krys!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:393
@@ -1950,8 +1950,8 @@ msgid ""
 "Look out everyone, something is coming out of the canals! Already the water "
 "is churning and clogging with their filth. Get back and brace yourselves."
 msgstr ""
-"Pozor, něco vylézá z kanálů! Voda vře a kalí se nějakou špínou. Ustupte a "
-"připravte se!"
+"Pozor, něco vylézá z kanálů! Voda vře a kalí se nějakou špínou. Ustupte "
+"a připravte se!"
 
 #. [message]: type=Necrophage
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:422
@@ -1973,7 +1973,7 @@ msgid ""
 msgstr ""
 "Musím říci, že ze všech možných výtvorů nekromanta jsou tyto snad "
 "nejděsivější a nejkrutější. Sžírá je ohromný hlad, který lze nasytit jen "
-"masem. Bezdušše se ženou za ním a nevadí jim ani nejstrašlivější zranění, co "
+"masem. Bezduše se ženou za ním a nevadí jim ani nejstrašlivější zranění, co "
 "utrží. Ani moje ohnivé střely na ně nemají velký účinek."
 
 #. [message]: speaker=Camerin
@@ -1993,7 +1993,7 @@ msgid ""
 "before they can leave the canal."
 msgstr ""
 "Pche! Podle mě jsou to jen pitomé tlusté žoky. Pojďte, chlapci, rozsekáme je "
-"na kusy ještě než se jim podaří vylézt z kanálu."
+"na kusy, ještě než se jim podaří vylézt z kanálu."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:453
@@ -2002,9 +2002,9 @@ msgid ""
 "their claws will weaken you with sickness and disease. Nasty things; let’s "
 "chop them to pieces before they can leave the canal."
 msgstr ""
-"Požírači mrtvých! Mají nenasytný hlad po mase a dokonce i jeden škrábanec z "
-"jejich drápů vás oslabí nákazou. Ošklivé věci. Rozsekejme je na kousky, než "
-"opustí kanály."
+"Požírači mrtvých! Mají nenasytný hlad po mase a dokonce i jeden škrábanec "
+"z jejich drápů vás oslabí nákazou. Ošklivé věci. Rozsekejme je na kousky, "
+"než opustí kanály."
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:468
