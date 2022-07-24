@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-20 00:21 UTC\n"
-"PO-Revision-Date: 2022-07-24 08:15+0200\n"
+"PO-Revision-Date: 2022-07-24 08:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4328,15 +4328,11 @@ msgstr ""
 
 #. [special_note]
 #: data/core/units/humans/Loyalist_Javelineer.cfg:20
-#, fuzzy
-#| msgid ""
-#| "Compared to other loyalists, Halberdiers have a higher resistance to "
-#| "‘pierce’ attacks."
 msgid ""
 "Compared to other loyalists, Javelineers have a higher resistance to "
 "‘pierce’ attacks."
 msgstr ""
-"Oproti ostatním věrným mají halapartníci vyšší odolnost vůči útokům "
+"Oproti ostatním věrným mají oštěpaři vyšší odolnost vůči útokům "
 "„bodnutím“."
 
 #. [unit_type]: id=Lieutenant, race=human
