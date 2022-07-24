@@ -8,11 +8,10 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-units | 752 | 99% | 7 | Michal
 wesnoth-wc | 500 | 89% | 55 |
 wesnoth-wof | 792 | 12% | 693 |
 
-Total messages remaining: **755**
+Total messages remaining: **748**
 
 The translation speed is lower than one message per day.
 
