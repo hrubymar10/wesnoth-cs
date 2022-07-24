@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-20 00:21 UTC\n"
-"PO-Revision-Date: 2022-07-23 11:30+0200\n"
+"PO-Revision-Date: 2022-07-24 08:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8283,7 +8283,7 @@ msgstr ""
 #. [unit_type]: id=Death Squire, race=undead
 #: data/core/units/undead/Skele_Death_Squire.cfg:5
 msgid "Death Squire"
-msgstr ""
+msgstr "Mrtvý šlechtic"
 
 #. [unit_type]: id=Death Squire, race=undead
 #: data/core/units/undead/Skele_Death_Squire.cfg:27
@@ -8294,6 +8294,10 @@ msgid ""
 "pick up a good deal of the Knight’s power, including the ability to command "
 "underlings."
 msgstr ""
+"Někdy ti nejmocnější válečníci a generálové, prokletí nenávistí a úzkostí, "
+"přicházejí zpět na tento svět jako rytíři Smrti. Mrtví šlechtici jim slouží, "
+"zatímco sbírají dost bezbožné síly, aby se sami stali rytíři Smrti. Při "
+"procesu přeměny dosáhnou rytířské moci, zahrnující i velení podřízeným."
 
 #. [unit_type]: id=Deathblade, race=undead
 #: data/core/units/undead/Skele_Deathblade.cfg:4
