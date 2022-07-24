@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-20 00:21 UTC\n"
-"PO-Revision-Date: 2022-07-24 08:24+0200\n"
+"PO-Revision-Date: 2022-07-24 08:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4332,8 +4332,7 @@ msgid ""
 "Compared to other loyalists, Javelineers have a higher resistance to "
 "‘pierce’ attacks."
 msgstr ""
-"Oproti ostatním věrným mají oštěpaři vyšší odolnost vůči útokům "
-"„bodnutím“."
+"Oproti ostatním věrným mají oštěpaři vyšší odolnost vůči útokům „bodnutím“."
 
 #. [unit_type]: id=Lieutenant, race=human
 #: data/core/units/humans/Loyalist_Lieutenant.cfg:4
@@ -5802,16 +5801,6 @@ msgstr "Piraňa"
 
 #. [unit_type]: id=Caribe, race=monster
 #: data/core/units/monsters/Caribe.cfg:28
-#, fuzzy
-#| msgid ""
-#| "The giant caribe are seldom encountered in the inland rivers near Weldyn, "
-#| "but tales of their ferocious attacks have spread far and wide.  Their "
-#| "angry red eyes are embedded in an armored face.  While it is their teeth "
-#| "that are a dangerous weapon, they do posses small, bony arms and claws, "
-#| "which they can use to extricate themselves from situations dire to most "
-#| "other fish.  The giant caribe can climb over land and untie fishing nets, "
-#| "some have said they even commune with the saurian augers.  Whatever the "
-#| "truth, these fish are unusually clever and should not be understimated."
 msgid ""
 "The giant caribe are seldom encountered in the inland rivers near Weldyn, "
 "but tales of their ferocious attacks have spread far and wide. Their angry "
@@ -5824,17 +5813,13 @@ msgstr ""
 "zřídka, ale zkazky o jejich zuřivých útocích se šíří široko daleko. Jejich "
 "zlobné rudé oči jsou zasazeny v obrněné hlavě. Přestože jejich nebezpečnou "
 "zbraní jsou zuby, mají i malé kostnaté pařáty, které mohou použít k tomu, "
-"aby se dostaly ze situací hrozivých pro většinu ostatních ryb. Piraňa "
-"obrovská se dokáže pohybovat po souši a ničit rybářské sítě. Někteří tvrdí, "
-"že jsou dokonce v kontaktu s ještěráckými šamany. Ať už je pravda jakákoliv, "
-"tyto ryby jsou neobyčejně chytré a neměly by být podceňovány."
+"aby se dostaly ze situací hrozivých pro většinu ostatních ryb. Tyto ryby "
+"jsou neobyčejně chytré a neměly by být podceňovány."
 
 #. [unit_type]: id=Hunter Caribe, race=monster
 #: data/core/units/monsters/Caribe_Hunter.cfg:8
-#, fuzzy
-#| msgid "Caribe"
 msgid "Hunter Caribe"
-msgstr "Piraňa"
+msgstr "Piraňa lovec"
 
 #. [unit_type]: id=Hunter Caribe, race=monster
 #: data/core/units/monsters/Caribe_Hunter.cfg:29
@@ -5842,6 +5827,8 @@ msgid ""
 "As they age, the giant caribe become bigger and more dangerous. They also "
 "learn to use seaweed to ensnare prey or enemies."
 msgstr ""
+"Jak piraně obrovské stárnou, rostou a stávají se nebezpečnějšími. Také se "
+"naučí používat mořské řasy na to, aby polapily kořist nebo nepřátele."
 
 #. [unit_type]: id=Nibbler, race=monster
 #: data/core/units/monsters/Caribe_Nibbler.cfg:8
@@ -5850,11 +5837,6 @@ msgstr "Ždiboun"
 
 #. [unit_type]: id=Nibbler, race=monster
 #: data/core/units/monsters/Caribe_Nibbler.cfg:41
-#, fuzzy
-#| msgid ""
-#| "Nibblers are juvenile predator fish, often more curious than dangerous.  "
-#| "A single individual may not be a threat, but these fish seldom travel "
-#| "alone."
 msgid ""
 "Nibblers are juvenile predator fish, often more curious than dangerous. A "
 "single individual may not be a threat, but these fish seldom travel alone."
