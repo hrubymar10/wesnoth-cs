@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 14:03 UTC\n"
-"PO-Revision-Date: 2022-08-16 16:34+0200\n"
+"PO-Revision-Date: 2022-08-20 09:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8717,7 +8717,7 @@ msgstr "Thero, až to bude za námi, měla bys zkusit hrát divadlo."
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:338
 msgid "Hey, don’t you always say that life is nothing but a drama?"
-msgstr "Hele, copak zrovna ty neříkáš pořád že život je drama?"
+msgstr "Hele, copak zrovna ty pořád neříkáš, že život je jen drama?"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:343
