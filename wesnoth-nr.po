@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-06-19 14:03 UTC\n"
-"PO-Revision-Date: 2022-08-20 09:24+0200\n"
+"PO-Revision-Date: 2022-08-21 07:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3117,7 +3117,7 @@ msgid ""
 "for dinner."
 msgstr ""
 "Aha, tyhle věci. Pozor na to, jsou to chapadla nějaké vodní potvory. Nejdřív "
-"vás utlučou, potom odvlečou někam do hlubin kde to má tlamu. A nakonec... "
+"vás utlučou, potom odvlečou někam do hlubin, kde to má tlamu. A nakonec... "
 "večeře."
 
 #. [message]: speaker=Tallin
@@ -3158,7 +3158,7 @@ msgstr "Ach! Duch!"
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2097
 msgid "Who are you that dares to venture down these tunnels?"
-msgstr "Kdo jste, že jste se opovážili do těchto tunelů?"
+msgstr "Kdo jsi, že sis troufl sestoupit do těchto tunelů?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2102
