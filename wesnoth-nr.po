@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-05 14:17 UTC\n"
-"PO-Revision-Date: 2022-08-21 07:24+0200\n"
+"PO-Revision-Date: 2022-08-21 13:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3562,8 +3562,8 @@ msgid ""
 "MAY THE EARTH OPEN UP AND SWALLOW YOU! MAY ALL YOUR TEETH FALL OUT! MAY YOU "
 "BECOME A WEAK SKINNY OLD MAN! MAY—"
 msgstr ""
-"VZÝVÁM ZEM, ABY SE OTEVŘELA A POHLTILA VÁS! AŤ VÁM VYPADAJÍ VŠECHNY ZUBY! AŤ "
-"SE Z VÁS STANOU SLABÍ VYCHRTLÍ STARCI! AŤ..."
+"VZÝVÁM ZEM, ABY SE OTEVŘELA A POHLTILA VÁS! AŤ VÁM VYPADAJÍ VŠECHNY ZUBY! AŤ "
+"SE Z VÁS STANOU SLABÍ, VYCHRTLÍ STARCI! AŤ..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2853
@@ -3586,7 +3586,8 @@ msgid ""
 "Now, let’s get back to the dwarves and see what progress they have made in "
 "forging us weapons."
 msgstr ""
-"Teď se vrátíme k trpaslíkům a zjistíme jak pokročili ve výrobě našich zbraní."
+"Teď se vrátíme k trpaslíkům a zjistíme, jak pokročili ve výrobě našich "
+"zbraní."
 
 #. [scenario]: id=05a_02_Dealings
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:5
@@ -3617,10 +3618,10 @@ msgid ""
 msgstr ""
 "Když se přiblížili, uvítal je potěšující pohled. Nové opevnění, "
 "připomínající starobylé legendární nepřekonatelné trpasličí valy, vyrostlo "
-"všude kolem jakoby z ničeho. Na něm postávali dobře vyzbrojení trpaslíci, "
-"kteří jim nadšeně mávali. Z dolů v pozadí vystupovala oblaka kouře, dávající "
-"tušit množství usilovně pracujících kováren. Mnoho nových zbraní a brnění "
-"pro lidi i trpaslíky již bylo naskladněno a ohlušující rachot kladiv "
+"všude kolem jakoby z ničeho. Na něm postávali dobře vyzbrojení trpaslíci, "
+"kteří jim nadšeně mávali. Z dolů v pozadí vystupovala oblaka kouře, dávající "
+"tušit množství usilovně pracujících kováren. Mnoho nových zbraní a brnění "
+"pro lidi i trpaslíky již bylo naskladněno a ohlušující rachot kladiv "
 "sliboval další přísun."
 
 #. [part]
@@ -3630,8 +3631,8 @@ msgid ""
 "warmly and arrangements were quickly made for all their food and "
 "accommodations, as well as care for the sick and wounded."
 msgstr ""
-"Hamela našli v kovárně nad novou sekerou. Vřele je přivítal a rychle byly "
-"dohodnuty podrobnosti jejich ubytování a péče o nemocné a raněné."
+"Hamela našli v kovárně nad novou sekerou. Vřele je přivítal a rychle byly "
+"dohodnuty podrobnosti jejich ubytování a péče o nemocné a raněné."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:28
@@ -3785,8 +3786,8 @@ msgid ""
 "many years now. As a young dwarf I was trained in the arts of leadership and "
 "war. There are things you will need to know..."
 msgstr ""
-"A ještě něco, Talline. Vedu trpaslíky už po mnoho let. Jako mladý jsem "
-"prodělal vojenský výcvik, takže vím dost o válčení a velení. je tu několik "
+"A ještě něco, Talline. Vedu trpaslíky už po mnoho let. Jako mladý jsem "
+"prodělal vojenský výcvik, takže vím dost o válčení a velení. Je tu několik "
 "věcí, které bys měl vědět..."
 
 #. [message]: speaker=Hamel
@@ -3981,9 +3982,9 @@ msgid ""
 "Dwarven Doors, and those wolves on the way to the mines; they were both "
 "saying something about ‘The Master’."
 msgstr ""
-"Nevím Talline, jestli je to tak jednoduché. Vzpomeň si na ty skřety v "
-"Trpasličích dveřích a vlčí jezdce na cestě k dolům. Všichni mluvili o "
-"„Pánovi“."
+"Nevím, Talline, jestli je to tak jednoduché. Vzpomeň si na ty skřety "
+"v Trpasličích dveřích a vlčí jezdce na cestě k dolům. Všichni mluvili "
+"o „Pánovi“."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:253
@@ -8649,7 +8650,7 @@ msgstr "Vy monstra! Myslíte si, že jste tvrďáci? Tak se dívejte!"
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:499
 msgid "You incompetent fools, you think you can kill us? Good luck!"
 msgstr ""
-"Neschopní hlupáci, myslíte si že nás můžete jen tak zabít? Hodně štěstí!"
+"Neschopní hlupáci, myslíte si, že nás můžete jen tak zabít? Hodně štěstí!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:251
@@ -8757,7 +8758,7 @@ msgstr "Děkuj bohům Světla, ne mně!"
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:385
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:585
 msgid "Ouch! That hurts. Let’s try not to do that again, shall we?"
-msgstr "Au! To docela bolelo. Raději bych to už neopakovala."
+msgstr "Au! To bolí. Zkusme to už znovu nedělat, ano?"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:392
