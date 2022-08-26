@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-08-20 19:46-0500\n"
-"PO-Revision-Date: 2022-08-25 21:57+0200\n"
+"PO-Revision-Date: 2022-08-26 22:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2214,7 +2214,7 @@ msgstr "Příklad: B<versions_accepted=\"*\"> přijímá jakýkoli řetězec ver
 #: doc/man/wesnothd.6:185
 #, no-wrap
 msgid "B<id>"
-msgstr ""
+msgstr "B<id>"
 
 #. type: Plain text
 #: doc/man/wesnothd.6:188
@@ -2223,6 +2223,9 @@ msgid ""
 "information. Generally is the major.minor version of accepted clients, such "
 "as 1.16 or 1.17."
 msgstr ""
+"Identifikátor serveru při použití databázových funkcí pro uložení informací "
+"o hře. Obvykle je to major.minor verze přípustných klientů, jako třeba 1.16 "
+"nebo 1.17."
 
 # type: SS
 #. type: SS
