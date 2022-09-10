@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-08-20 19:47-0500\n"
-"PO-Revision-Date: 2022-08-23 17:12+0200\n"
+"PO-Revision-Date: 2022-09-10 08:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7703,7 +7703,8 @@ msgstr "Nelze se dotázat na vlastníka neplatné strany „$side“."
 
 #: src/menu_events.cpp:1713
 msgid "Can't query control of out-of-bounds side: '$side'."
-msgstr "Nelze změnit vlastníka strany „$side“ – mimo rozsah platných stran."
+msgstr ""
+"Nelze se dotázat na vlastníka strany „$side“ – mimo rozsah platných stran."
 
 #: src/menu_events.cpp:1834
 msgid "Choose Scenario (Debug!)"
