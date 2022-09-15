@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-08-21 00:47 UTC\n"
-"PO-Revision-Date: 2022-09-04 10:21+0200\n"
+"PO-Revision-Date: 2022-09-15 17:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4158,7 +4158,7 @@ msgid ""
 "and Rakshas is very well guarded. The only possible outcome to all this is "
 "more slaughter."
 msgstr ""
-"Zdá se nesmyslné pokračovat v tom. Skřetí počty neklesají a Rakšas je dobře "
+"Zdá se nesmyslné v tom pokračovat. Skřetí počty neklesají a Rakšas je dobře "
 "střežen. Jediný možný výsledek je úplný masakr."
 
 #. [message]: id=Sister Thera
@@ -4229,8 +4229,8 @@ msgid ""
 "end in sight. Every time we killed an orc, it seemed that two more would "
 "take his place. We most assuredly cannot win fighting like this."
 msgstr ""
-"Bylo to zuřivé a krvavé. Bojovali jsme s nimi po tři dni a tři noci, a stále "
-"konec v nedohlednu. Pokaždé když padl skřet, další dva se tlačili na jeho "
+"Bylo to zuřivé a krvavé. Bojovali jsme s nimi po tři dni a tři noci a konec "
+"stále v nedohlednu. Pokaždé když padl skřet, další dva se tlačili na jeho "
 "místo. Takhle prostě nemůžeme zvítězit."
 
 #. [story]
@@ -4241,8 +4241,8 @@ msgid ""
 "the open field. I see that my training of you hasna’ been for naught."
 msgstr ""
 "Takže ses vrátil. Správně, chlapče. Naše obrana udrží skřety mnohem déle, "
-"než by se tobě povedlo v otevřeném terénu, nemluvě o ztrátách. Vidím, že sis "
-"vzal mé rady k srdci."
+"než by se tobě povedlo v otevřeném terénu, nemluvě o ztrátách. Vidím, že sis "
+"vzal mé rady k srdci."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:39
@@ -4259,7 +4259,7 @@ msgid ""
 "Aye. But we must utterly crush this orcish host if we are to ha’ anything "
 "other than a brief respite."
 msgstr ""
-"Jojo. Ale musíme rozdrtit tuhle skřetí armádu, jestli nechceme jen odklad "
+"Jojo. Ale tuhle skřetí armádu musíme rozdrtit, jestli nechceme jen odklad "
 "našich problémů."
 
 #. [story]
@@ -4292,8 +4292,8 @@ msgid ""
 "coil."
 msgstr ""
 "To není tak jednoduché. Posledně se nám to podařilo, ale tentokrát už se "
-"budou mít na pozoru před takovou možností. Stejně by to vyřešilo náš problém "
-"jen dočasně. Za nějakou dobu se zase objeví silný vůdce a vše by se "
+"budou mít před takovou možností na pozoru. Stejně by to vyřešilo náš problém "
+"jen dočasně. Za nějakou dobu se zase objeví silný vůdce a vše by se "
 "opakovalo."
 
 #. [story]
@@ -4354,8 +4354,8 @@ msgid ""
 "And then that Princess Li’sar was in hot pursuit of Konrad as well. I wonder "
 "what became of them."
 msgstr ""
-"A pak ještě, že princezna Lisar Konráda svižně pronásledovala. Zajímalo by "
-"mě, co se s nimi stalo."
+"A pak ještě, že Konráda svižně pronásledovala princezna Lisar. Zajímalo by "
+"mě, co se s nimi stalo."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:65
@@ -4409,8 +4409,8 @@ msgid ""
 "anyway, haven’t heard from him in years — the chief o’ the villages that lay "
 "along Highbrook Pass."
 msgstr ""
-"Slyšel jsem o něm od svého přítele Stalraga. Je – nebo tedy spíš byl, "
-"neslyšel jsem o něm už pěkných pár let – náčelníkem vesnic v Potočním "
+"Slyšel jsem o něm od svého přítele Stalraga. Je – nebo tedy spíš byl, "
+"neslyšel jsem o něm už pěkných pár let – náčelníkem vesnic v Potočním "
 "průsmyku."
 
 #. [story]
@@ -4426,9 +4426,9 @@ msgid ""
 "decided to come in and level Knalga so they can grow another big forest on "
 "top?"
 msgstr ""
-"Hamele, pamatuj, že každá mince má rub i líc. Třeba ti mágové vnímají "
+"Hamele, pamatuj, že každá mince má rub i líc. Třeba ti mágové vnímají "
 "trpaslíky jako vetřelce. Jak by ses cítil, kdyby se třeba... elfové rozhodli "
-"přijít a zničit Knalgu aby mohli nahoře vysadit další velký les?"
+"přijít a zničit Knalgu, aby mohli nahoře vysadit další velký les?"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:83
@@ -4475,9 +4475,9 @@ msgid ""
 "to help us. What’s more, if Stalrag is still around we could use his help "
 "too."
 msgstr ""
-"Navrhuji vydat se do Potočního průsmyku a zjistit jak se věci mají. Pokud ti "
-"mágové stále žijí, mohli bychom je získat na naši stranu. No a jestli je k "
-"sehnání i Stalrag, jeho pomoc by se také hodila."
+"Navrhuji vydat se do Potočního průsmyku a zjistit, jak se věci mají. Pokud "
+"ti mágové stále žijí, mohli bychom je získat na naši stranu. No a jestli je "
+"k sehnání i Stalrag, jeho pomoc by se také hodila."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:97
@@ -4491,13 +4491,13 @@ msgid ""
 "of the wild such as ogres, gryphons, and sometimes even trolls! It would be "
 "no bad thing to have those on your side for once."
 msgstr ""
-"Nejsou to jen dva mágové. Ovládají mnoho divokých tvorů jako obři, "
-"gryfové... někdy dokonce i trollové! Nebylo by špatné mít je na naší straně."
+"Nejsou to jen dva mágové. Ovládají mnoho divokých tvorů jako třeba obry, "
+"gryfy... někdy dokonce i trolly! Nebylo by špatné mít je na naší straně."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:101
 msgid "That sounds really good. What do you think, Hamel?"
-msgstr "To nezní špatně. Co ty na to, Hamele?"
+msgstr "To zní opravdu dobře. Co ty na to, Hamele?"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:104
@@ -4505,7 +4505,7 @@ msgid ""
 "Hrmph. These are desperate times. If those lunatics of mages will agree to "
 "help, I guess we’ll nae have any other choice but to accept."
 msgstr ""
-"Hmpf. No, jsou to zoufalé časy. Pokud se ti šílenci rozhodnou pomoct nám, "
+"Hmpf. No, jsou to zoufalé časy. Pokud se ti šílenci rozhodnou nám pomoct, "
 "nebudeme asi mít jinou možnost než přijmout."
 
 #. [story]
