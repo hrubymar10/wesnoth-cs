@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-05 14:17 UTC\n"
-"PO-Revision-Date: 2022-09-15 17:30+0200\n"
+"PO-Revision-Date: 2022-09-16 20:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4212,7 +4212,7 @@ msgstr ""
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:27
 msgid ""
 "Wave after wave of orcs crashed onto the dwarven defenses and shattered."
-msgstr "O trpasličí opevnění se rozbíjely skřetí útoky, vlna za vlnou."
+msgstr "Skřetí útoky se rozbíjely o trpasličí opevnění vlna za vlnou."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:30
@@ -4412,8 +4412,8 @@ msgid ""
 "anyway, haven’t heard from him in years — the chief o’ the villages that lay "
 "along Highbrook Pass."
 msgstr ""
-"Slyšel jsem o něm od svého přítele Stalraga. Je – nebo tedy spíš byl, "
-"neslyšel jsem o něm už pěkných pár let – náčelníkem vesnic v Potočním "
+"Slyšel jsem o něm všechno od svého dobrého přítele Stalraga. Je – nebo "
+"vlastně byl, už pěkných pár let se mi neozval – náčelníkem vesnic v Potočním "
 "průsmyku."
 
 #. [story]
@@ -4517,8 +4517,8 @@ msgid ""
 "Hey, we have had experiences with crazy mages ourselves. Believe me, they "
 "are dangerous! You will feel a lot better with some of them on your side."
 msgstr ""
-"Mám s šílenými mágy dobré zkušenosti. Jsou opravdu nebezpeční! Pocit bezpečí "
-"zajistí nejlépe, když budou na naší straně."
+"Hej, sami máme s potrhlými mágy zkušenosti. Věř mi, jsou nebezpeční! Budete "
+"se cítit o moc líp, když budou někteří z nich na vaší straně."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:108
@@ -4529,8 +4529,8 @@ msgid ""
 "away from the attacking orcs in case they break through."
 msgstr ""
 "Budete muset cestovat nalehko, abyste dosáhli Potočního průsmyku dříve, než "
-"skřeti provedou další velký útok. Asi by bylo lepší nebrat s sebou moc "
-"zlata, jen tolik kolik bude zapotřebí. Zbytek uskladníme v tunelech daleko "
+"skřeti provedou další velký útok. Asi by bylo lepší nebrat s sebou moc "
+"zlata, jen tolik, kolik bude zapotřebí. Zbytek uskladníme v tunelech daleko "
 "od skřetů pro případ, že by se jim podařilo probít dovnitř."
 
 #. [story]
@@ -4594,12 +4594,14 @@ msgstr "Stalrag zemře"
 msgid ""
 "Upon arriving at the mountain pass it appeared to Tallin and his men that "
 "they were just a bit too late."
-msgstr "Při příchodu do horského průsmyku se zdálo, že již je pozdě."
+msgstr ""
+"Po příchodu do horského průsmyku se Tallinovi a jeho mužům zdálo, že se "
+"přece jen o trochu opozdili."
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:362
 msgid "HAH! I finally have you, you wretched dwarf!"
-msgstr "CHA! Konečně mi neunikneš, ty mizerný trpaslíku!"
+msgstr "CHA! Konečně tě mám, ty mizerný trpaslíku!"
 
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:367
@@ -4656,7 +4658,8 @@ msgstr "Teď nemám čas, otče. Jsem poněkud zaneprázdněn."
 msgid ""
 "Ro’Sothian! How are you doing, my old friend! Boy, you sure look... erm... "
 "different!"
-msgstr "Ro’Sothiane! Jak se ti daří, příteli? Tedy, vypadáš... změnil jsi se!"
+msgstr ""
+"Ro’Sothiane! Jak se ti daří, starý příteli? Páni, vypadáš... ehm... jinak!"
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:408
@@ -4765,18 +4768,18 @@ msgid ""
 "I tire of this; prepare to die, wretched dwarf! And the rest of you, get "
 "lost and don’t come back, unless you’re tired of life!"
 msgstr ""
-"Už mě to unavuje. Připrav se na smrt, trpasličí neřáde! A vy ostatní se "
-"ztraťte dřív než si to rozmyslím, pokud vás ovšem život neunavuje!"
+"Už mě to unavuje. Připrav se na smrt, trpasličí neřáde! A vy ostatní se "
+"ztraťte dřív, než si to rozmyslím, pokud vás ovšem život neunavuje!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:482
 msgid "Uh oh, he is gathering energy for a cold blast."
-msgstr "Jejda, zdá se že to myslí úplně vážně."
+msgstr "Jejda, sbírá sílu na útok chladem."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:487
 msgid "Quick, honey, we’ve got to stop him. Let’s go!"
-msgstr "Rychle, Theto, musíme ho zastavit!"
+msgstr "Rychle, zlato, musíme ho zastavit. Pojďme!"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:497
@@ -4843,9 +4846,7 @@ msgstr "(<i>Povzdech</i>) No, asi máš pravdu."
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:606
 msgid "Put Ro’Sothian into that jail over there until we capture his brother."
-msgstr ""
-"Dejte Ro’Sothiana do tamtoho vězení a zůstane tam, dokud nezajmeme jeho "
-"bratra."
+msgstr "Dejte Ro’Sothiana do tamtoho vězení, dokud nezajmeme jeho bratra."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:616
