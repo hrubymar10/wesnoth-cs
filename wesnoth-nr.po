@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-05 14:17 UTC\n"
-"PO-Revision-Date: 2022-09-16 20:13+0200\n"
+"PO-Revision-Date: 2022-09-24 12:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4902,7 +4902,7 @@ msgstr "Dobrá, narušitelé. Co chcete?"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:750
 msgid "Well... First, why don’t you tell us what <i>you</i> want?"
-msgstr "No... a proč nám nejdřív neřekneš co vlastně chceš <i>ty</i>?"
+msgstr "No... a proč nám nejdřív neřekneš, co vlastně chceš <i>ty</i>?"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:755
@@ -4911,14 +4911,14 @@ msgid ""
 "carcasses of you, all your henchmen and those dwarvish vermin off my land! "
 "And <i>stay</i> off!"
 msgstr ""
-"Co <i>já</i> chci? Hned ti to povím! Chci aby vaše smradlavé mrtvoly, všech "
-"vašich poskoků a hlavně těch trpasličích krys zmizely pryč z mé země! A aby "
+"Co <i>já</i> chci? Hned ti to povím! Chci, aby vaše smradlavé mrtvoly, všech "
+"vašich poskoků a hlavně těch trpasličích krys zmizely pryč z mé země! A aby "
 "to tak <i>zůstalo</i>!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:760
 msgid "So basically, you want to be left alone in peace. Right?"
-msgstr "Takže, chceš jednoduše aby tě všichni nechali na pokoji."
+msgstr "Takže, chceš jednoduše, aby tě všichni nechali na pokoji."
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:765
@@ -4932,8 +4932,8 @@ msgid ""
 "request. We are simply a band of peasants fighting for the freedom of our "
 "homeland."
 msgstr ""
-"Dobrá! Takže poslouchej. V tuto chvíli není v naší moci zajistit splnění "
-"tvých požadavků. Jsme jenom banda sedláků bojujících za svobodu naší země."
+"Dobrá! Takže poslouchej. V tuto chvíli není v naší moci zajistit splnění "
+"tvých požadavků. Jsme jenom banda sedláků bojujících za svobodu své země."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:775
@@ -4954,8 +4954,8 @@ msgid ""
 "Hamel in this as well."
 msgstr ""
 "Přísahám, že až ten čas nadejde, nevstoupí do tvých zemí ani člověk, ani "
-"trpaslík bez tvého povolení. Pokud tento zákaz někdo z mých lidí poruší, "
-"propadle hrdlem, a myslím že v tomto ohledu mohu mluvit i za Hamela."
+"trpaslík bez tvého povolení. Pokud tento zákaz někdo z mých lidí poruší, "
+"propadle hrdlem a myslím, že v tomto ohledu mohu mluvit i za Hamela."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:785
@@ -4974,10 +4974,10 @@ msgid ""
 "be resolved. You have been haunting these mountains for far too long. It is "
 "high time for you and your brother to rest in peace."
 msgstr ""
-"Zamysli se nad tím, Ro’Arthiane. Je to výhodný návrh. Pokud nebudeš "
-"souhlasit s Tallinovým návrhem, vaše nekonečná válka s trpaslíky nikdy "
-"nedojde konce. Strašíte s bratrem v těchto horách již příliš dlouho. Je "
-"nejvyšší čas aby to přestalo a měli jste pokoj."
+"Zamysli se nad tím, Ro’Arthiane. Je to výhodná nabídka. Pokud nebudeš "
+"souhlasit s Tallinovým návrhem, vaše nekončící válka s trpaslíky konce nikdy "
+"nedojde. Strašíte s bratrem v těchto horách již příliš dlouho. Je nejvyšší "
+"čas, aby to přestalo a měli jste pokoj."
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:795
@@ -5106,10 +5106,10 @@ msgid ""
 "confusion. Your gryphons will be of use, but I think you should retain "
 "command of your trolls and ogres, until they are needed."
 msgstr ""
-"Ro’Arthiane, Stalragu, děkuji vám. Velím ale dostatečným silám a mám za to, "
-"že spojení s dalšími by vedlo jen ke zmatku. Tví gryfové budou velmi "
-"užiteční, ale myslím že by sis měl raději ponechat kontrolu nad trolly a "
-"obry, dokud nebudou zapotřebí."
+"Ro’Arthiane, Stalragu, děkuji vám. Velím ale dostatečným silám a mám za to, "
+"že spojení s dalšími by vedlo jen ke zmatku. Tví gryfové budou velmi "
+"užiteční, ale myslím, že by sis měl raději ponechat kontrolu nad trolly "
+"a obry, dokud nebudou zapotřebí."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:908
@@ -5171,7 +5171,7 @@ msgid ""
 "none of any dwarf’s or human’s business, and that all would be well-advised "
 "to stay in their holes when the elves passed near."
 msgstr ""
-"Jednoho dne se do jeskyní přihnal gryf, pištící překvapivé noviny: z východu "
+"Jednoho dne se do jeskyní přihnal gryf pištící překvapivé noviny: z východu "
 "se přibližovala velká skupina elfů. Byly odeslány zprávy, dotazující se na "
 "jejich úmysly. Povýšená a odmítavá odpověď prohlašovala, že to nemusí "
 "zajímat ani lidi, ani trpaslíky, a že by měli raději zůstat zalezlí ve svých "
@@ -5187,11 +5187,11 @@ msgid ""
 "rebuilt and manned by a unit known to include some of the hardiest and "
 "toughest of veteran orcs."
 msgstr ""
-"Než mohli lidé a trpaslíci odpovědět na tuto zprávu, další gryf přiletěl se "
-"zprávami o tom, že skřeti vězní v hradě Hořkobrodu, vzdáleném ani ne jeden "
-"denní pochod na severozápad, elfí vědmu. Hrad připoutal jejich pozornost, "
-"protože byl před nedávnem přestavěn a obsazen jednotkou ostřílených skřetích "
-"veteránů."
+"Než mohli lidé a trpaslíci odpovědět na tuto zprávu, další gryf přiletěl "
+"s novinkami o tom, že skřeti vězní v hradě Hořkobrodu, vzdáleném ani ne "
+"jeden denní pochod na severozápad, elfí vědmu. Hrad připoutal jejich "
+"pozornost, protože byl před nedávnem přestavěn a obsazen jednotkou "
+"ostřílených skřetích veteránů."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:36
@@ -5201,15 +5201,15 @@ msgid ""
 "road out of Bitterhold. The messenger was carrying a ransom demand to the "
 "elves — for the sorceress was, in fact, a princess of the highest rank."
 msgstr ""
-"Ještě té noci byli vysláni gryfové s vybranými lesníky a za necelé dva dny "
-"se jim podařilo překvapit skřetího posla na cestě z Hořkobrodu. Posel nesl "
+"Ještě té noci byli vysláni gryfové s vybranými lesníky a za necelé dva dny "
+"se jim podařilo překvapit skřetího posla na cestě z Hořkobrodu. Posel nesl "
 "elfům požadavek na výkupné – vědma totiž byla ve skutečnosti urozená "
 "princezna."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:39
 msgid "The leaders met in council, considering what to do..."
-msgstr "Vůdci se sešli na poradě aby rozhodli, co učinit..."
+msgstr "Vůdci se sešli na poradě, aby rozhodli, co učinit..."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:42
@@ -5321,8 +5321,8 @@ msgid ""
 "Kenning the way of orcs, belike they’d kill the Princess, especially if it "
 "seems the rescue ha’ any chance of succeeding."
 msgstr ""
-"Jak znám skřety, asi zabijí princeznu. Hlavně když to bude vypadat, že se ji "
-"doopravdy může podařit zachránit."
+"Jak znám skřety, tak by asi princeznu zabili, zvlášť když to bude vypadat, "
+"že je šance ji vysvobodit."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:68
@@ -5330,8 +5330,8 @@ msgid ""
 "Exactly. On the other hand, if we raided the fortress while the orcs were "
 "talking ransom with the elves, the orcs might hesitate just long enough."
 msgstr ""
-"Přesně tak. Na druhou stranu, kdybychom ztekli pevnost dokud skřeti "
-"vyjednávají s elfy ohledně výkupného, mohli by otálet snad dost dlouho."
+"Přesně tak. Na druhou stranu, kdybychom ztekli pevnost, dokud budou skřeti "
+"vyjednávat s elfy ohledně výkupného, mohli by otálet snad dost dlouho."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:70
@@ -5341,7 +5341,7 @@ msgid ""
 "touched without his direct word on the matter."
 msgstr ""
 "Hmmmm... dobře promyšleno, chlapče. Většina skřetů je tupá jako poleno, "
-"vsadil bych se že Rakšas vydal rozkazy přísně zakazující se jí jen dotknout "
+"vsadil bych se, že Rakšas vydal rozkazy přísně zakazující se jí jen dotknout "
 "bez jeho rozhodnutí."
 
 #. [story]
@@ -5351,8 +5351,8 @@ msgid ""
 "we do go ahead with this raid, we are going to have to be in and out like "
 "lightning."
 msgstr ""
-"Ale bylo by hloupé spoléhat se, že skřeti zůstanou tak hloupí navždy. Jestli "
-"provedeme ten nájezd, musíme být rychlejší než blesk, tam a zpátky."
+"Ale nebylo by moudré spoléhat se, že skřeti zůstanou tak hloupí navždy. "
+"Jestli provedeme ten nájezd, musíme být rychlejší než blesk, tam i zpátky."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:74
@@ -5362,8 +5362,8 @@ msgid ""
 "opponent lies dead. No fortress can stand long against them."
 msgstr ""
 "Mí lamželezové budou pro takovou práci přímo ideální. Jsou tak divocí, že "
-"nikdy neustupují a nepřestanu útočit, dokud buď oni, nebo nepřítel nepadnou "
-"mrtvi k zemi. Žádná pevnost proti nim dlouho neobstojí."
+"nikdy neustupují a nepřestanou útočit, dokud buď oni, nebo nepřítel nepadnou "
+"mrtvi k zemi. Žádná pevnost proti nim dlouho neobstojí."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:76
@@ -5504,7 +5504,7 @@ msgid ""
 "Are we here to sight-see or to rescue this blasted sorceress? And if you "
 "really want to sight-see, then check out that orcish encampment south of us."
 msgstr ""
-"Přišli jsme prohlížet pamětihodnosti nebo osvobodit tu zatracenou vědmu? "
+"Přišli jsme prohlížet pamětihodnosti, nebo osvobodit tu zatracenou vědmu? "
 "Jestli už si chcete něco prohlížet, tak ten skřetí tábor na jihu."
 
 #. [message]: speaker=Tallin
@@ -5513,8 +5513,8 @@ msgid ""
 "Just our luck to be here when they’re mustering a field force — probably to "
 "attack the caves. Avoid them if you can, kill them if you can’t."
 msgstr ""
-"Máme to tedy štěstí, shromažďují vojsko zrovna když jsme tu – asi k útoku na "
-"jeskyně. Pokud to půjde, vyhněte se jim, pokud ne, zlikvidujte je."
+"Máme to tedy štěstí, shromažďují vojsko, zrovna když jsme tu – asi k útoku "
+"na jeskyně. Pokud to půjde, vyhněte se jim, pokud ne, zlikvidujte je."
 
 #. [message]: speaker=Atul
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:357
