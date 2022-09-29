@@ -11,9 +11,8 @@ Domain | Messages | Translated | Remaining | Translator
 wesnoth-lib | 1463 | 99% | 12 | Michal
 wesnoth-utbs | 1937 | 99% | 2 | Michal
 wesnoth-wof | 827 | 52% | 393 | Septim
-wesnoth | 1352 | 99% | 1 | Michal
 
-Total messages remaining: **408**
+Total messages remaining: **407**
 
 Progress since 2022-04-30: **2** messages per day
 
