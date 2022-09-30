@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-08-21 00:47 UTC\n"
-"PO-Revision-Date: 2022-09-24 12:25+0200\n"
+"PO-Revision-Date: 2022-09-30 10:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5604,7 +5604,7 @@ msgstr ""
 msgid ""
 "Now that we are well shot of that dungeon, do you mind telling me who you "
 "are?"
-msgstr "Teď, když už jsme venku z těch kobek, co takhle říct mi kdo jsi?"
+msgstr "Teď, když už jsme venku z toho žaláře, co takhle říct mi, kdo jsi?"
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:199
@@ -5641,10 +5641,10 @@ msgid ""
 "by myself with all these orcs about, and in consideration of the debt I owe "
 "to them, I have been with them ever since."
 msgstr ""
-"Přesně tak. Držel mne ve svém žaláři po dlouhé roky, dokud mne tito stateční "
-"lidé neosvobodili. Protože se nedá bezpečně dostat zpět do lesů když tu "
-"kolem řádí skřetí hordy, a protože jim za záchranu něco dlužím, cestovala "
-"jsem s nimi od té doby."
+"Přesně tak. Dlouhé roky jsem byla jeho vězněm, dokud mne tito stateční lidé "
+"neosvobodili. Protože se nedá bezpečně dostat zpět do lesů, když tu kolem "
+"řádí skřetí hordy, a protože jim za záchranu něco dlužím, cestuji od té doby "
+"s nimi."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:224
@@ -5792,7 +5792,7 @@ msgid ""
 msgstr ""
 "Ehm, Erysso... tímto směrem se už pohybuje velká skupina elfů. Nebudou dále "
 "než dva dny cesty odtud. Zdá se, že je sem poslal tvůj otec, aby tě "
-"osvobodili buď silou nebo zaplacením výkupného."
+"osvobodili buď silou, nebo zaplacením výkupného."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:320
@@ -5807,7 +5807,7 @@ msgstr ""
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:325
 msgid "Sounds good— I mean, let it be so."
-msgstr "To zní dobře... dobře, uděláme to tak."
+msgstr "To zní dobře... Chci říct, uděláme to tak."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:333
