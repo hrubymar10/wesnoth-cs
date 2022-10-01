@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-09-18 23:11-0500\n"
-"PO-Revision-Date: 2022-09-17 10:07+0200\n"
+"PO-Revision-Date: 2022-10-01 10:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4737,10 +4737,8 @@ msgstr ""
 
 #. [label]
 #: data/gui/window/mp_report.cfg:146
-#, fuzzy
-#| msgid "Map Information"
 msgid "Additional information:"
-msgstr "Informace o mapě"
+msgstr "Další informace:"
 
 #. [label]
 #: data/gui/window/mp_report.cfg:191
@@ -6954,16 +6952,12 @@ msgid "this game"
 msgstr "tato hra"
 
 #: src/gui/dialogs/multiplayer/mp_report.cpp:48
-#, fuzzy
-#| msgid "lobby"
 msgid "Lobby"
-msgstr "čekárna"
+msgstr "Čekárna"
 
 #: src/gui/dialogs/multiplayer/mp_report.cpp:50
-#, fuzzy
-#| msgid "Games"
 msgid "Game"
-msgstr "Hry"
+msgstr "Hra"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:505
 msgid "Waiting for players to choose factions..."
