@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-05 14:17 UTC\n"
-"PO-Revision-Date: 2022-09-30 10:50+0200\n"
+"PO-Revision-Date: 2022-10-01 09:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5983,7 +5983,7 @@ msgstr ""
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:496
 msgid "I can see the dwarvish defenses just ahead. Let’s go!"
-msgstr "Vidím trpasličí opevnění kousek vpředu. Pojďme!"
+msgstr "Kousek vpředu vidím trpasličí opevnění. Pojďme!"
 
 #. [scenario]: id=10a_Stolen_Gold
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:10
@@ -6078,13 +6078,13 @@ msgstr ""
 msgid ""
 "We beat them back, but not before they made off with your entire stock of "
 "gold."
-msgstr "Odrazili jsme je, ale stihli pobrat všechno co tam bylo."
+msgstr "Odrazili jsme je, ale stihli pobrat všechno, co tam bylo."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:59
 msgid ""
 "I am sorry, Tallin, we did all that we could. I would we could ha’ done more."
-msgstr "Je mi to líto, Talline, ale dělali jsme co se dalo. Víc nešlo."
+msgstr "Je mi to líto, Talline, ale dělali jsme, co se dalo. Víc nešlo."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:61
@@ -6156,7 +6156,7 @@ msgstr "No ale zpátky k tomu ukradenému zlatu. Pronásledovali jste trolly?"
 #. [then]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:93
 msgid "Were you able to pursue them?"
-msgstr "Podařilo se vám aspoň pronásledovat je?"
+msgstr "Podařilo se vám aspoň je pronásledovat?"
 
 #. [else]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:98
@@ -6222,8 +6222,8 @@ msgid ""
 "Then we shall pursue them. Even if we don’t catch them then we might be able "
 "to hit Rakshas before he has had a chance to put all that gold to good use."
 msgstr ""
-"Vydáme se za nimi. I když je nedostihneme, mohli bychom se střetnout s "
-"Rakšasem dříve, než se mu povede to zlato doopravdy využít."
+"Vydáme se za nimi. I kdybychom je nedostihli, můžeme se střetnout s Rakšasem "
+"dříve, než se mu povede to zlato doopravdy využít."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:119
@@ -6291,7 +6291,7 @@ msgstr "Dobře, tak jdeme, lidičky!"
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:147
 msgid "Thus the party set off to the northern tunnels to pursue the trolls."
-msgstr "Lidé se tedy vydali do severních tunelů v honbě za trolly."
+msgstr "A tak se družina vydala do severních tunelů pronásledovat trolly."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:150
@@ -6307,8 +6307,8 @@ msgid ""
 "Soon, the trail began to lead east, and then south. A few hours later the "
 "party emerged from the tunnels into dawn’s early light."
 msgstr ""
-"Stopa vedla nejdříve na východ, poté jižně. Za několik hodin opustili tunely "
-"s prvními jitřními slunečními paprsky."
+"Stopa vedla nejdříve na východ, poté jižně. O několik hodin později se "
+"výprava vynořila z tunelů do prvních jitřních paprsků."
 
 #. [side]: type=Troll Warrior, id=Tor
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:208
@@ -6348,7 +6348,7 @@ msgstr "Vyprší počet kol"
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:432
 msgid "Upon emerging from the tunnels, the party found themselves surrounded."
-msgstr "Po výstupu z jeskyní se náhle skupina ocitla v obklíčení."
+msgstr "Po opuštění tunelů se družina náhle ocitla v obklíčení."
 
 #. [message]: speaker=Tor
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:437
@@ -6444,7 +6444,7 @@ msgstr "Bak’man"
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:625
 msgid "Hey! Look who’s back!"
-msgstr "Hej! Podívejte kdo se vrátil!"
+msgstr "Hej! Podívejte, kdo se vrátil!"
 
 # Theta?
 #. [message]: role=Supporter
@@ -6471,7 +6471,7 @@ msgstr "Rychle, přátelé, rozbijme tábor!"
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:650
 msgid "Yeah, man! I knew we could count on you!"
-msgstr "Joooo! Já věděl že se na tebe můžem spolehnout!"
+msgstr "Joooo! Já věděl, že se na tebe můžem spolehnout!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:655
@@ -6704,9 +6704,9 @@ msgid ""
 "Northern Elves are extremely few, but let it be known that you are one of "
 "them."
 msgstr ""
-"Slyšel jsem samou chválu na tvou inteligenci a odvahu. Počet lidí, kteří si "
-"získali respekt a důvěru Severních elfů, je i po mnohých letech velmi malý, "
-"ale věz, že mezi ně nyní patříš i ty."
+"Mnoho jsme slyšeli o tvé inteligenci a odvaze. Počet lidí, kteří si získali "
+"respekt a obdiv Severních elfů, je i po mnohých letech velmi malý, ale věz, "
+"že mezi ně nyní patříš i ty."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1045
@@ -6715,14 +6715,15 @@ msgid ""
 "I am honored, sir, and I hope that I will live up to the trust that the "
 "Northern Elves have bestowed upon me."
 msgstr ""
-"Jsem poctěn, pane, a doufám, že nezklamu naděje Severních elfů, kterými mne "
-"poctili."
+"Jsem poctěn, pane, a doufám, že dostojím důvěře, kterou ve mne Severní "
+"elfové vložili."
 
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1050
 msgid "I am sure you will, Tallin. The trust of the elves is seldom misplaced."
 msgstr ""
-"Jistě že ano, Talline. My elfové se v těchto věcech pleteme jen málokdy."
+"Jsem si jistý, že ano, Talline. My elfové se v těchto věcech pleteme jen "
+"málokdy."
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1055
@@ -6901,8 +6902,8 @@ msgid ""
 "could reduce it, their defense would be near to collapse."
 msgstr ""
 "Během mého zajetí jsem se neoddávala nečinnosti; naslouchala jsem, "
-"pozorovala a zkoumala. Drobnosti, které jsem vytušila z chvástání mých "
-"stráží a jejich planých řečí, naši průzkumníci potvrdili. Angthurim je "
+"pozorovala a zkoumala. Drobnosti, které jsem vytušila z chvástání mých "
+"stráží a jejich planých řečí, naši průzkumníci potvrdili. Angthurim je "
 "klíčový pro celé jejich východní křídlo. Pokud jej zničíme, jejich obrana "
 "nebude daleko kolapsu."
 
@@ -6919,7 +6920,7 @@ msgstr ""
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:303
 msgid "Hey, look who is here!"
-msgstr "Hele, podívejte kdo tu je!"
+msgstr "Hele, podívejte, kdo tu je!"
 
 #. [message]: speaker=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:308
@@ -6944,7 +6945,7 @@ msgid ""
 "evaded my clutches?"
 msgstr ""
 "Á, velmi dobře, můj věrný služebníku. Za to budeš štědře odměněn! Pověz mi, "
-"Jaké zprávy máš o tom lidském mizerovi který mi tak tvrdošíjně unikal ze "
+"jaké zprávy máš o tom lidském mizerovi, který mi tak tvrdošíjně unikal ze "
 "spárů?"
 
 #. [message]: speaker=Gore
@@ -6980,8 +6981,8 @@ msgid ""
 "Foul one, the only one who will be dying here is you and anyone who comes "
 "between us. Stand and fight!"
 msgstr ""
-"Ty špíno, jediný kdo tu zemře budeš ty a každý kdo se postaví mezi mne a "
-"tebe. Stůj a bojuj!"
+"Ty špíno, jediný, kdo tu zemře, budeš ty a každý, kdo se postaví mezi mne "
+"a tebe. Stůj a bojuj!"
 
 # ...na stříbrném podnose
 #. [message]: speaker=Rakshas
@@ -6990,7 +6991,7 @@ msgid ""
 "Bah! I have better things to do than stamp out your insignificant life. "
 "Generals, kill him and bring me his head!"
 msgstr ""
-"Pche! Já mám na práci lepší věci než se zabývat tvým bezvýznamným životem. "
+"Pche! Já mám na práci lepší věci, než se zabývat tvým bezvýznamným životem. "
 "Generálové, přineste mi jeho hlavu!"
 
 #. [message]: speaker=Tallin
@@ -7015,8 +7016,8 @@ msgid ""
 "Easily, Your Highness. We shall move unseen through the trees, overtake him, "
 "and put an end to his flight."
 msgstr ""
-"To nebude těžké, Vaše Výsosti. Půjdeme ve skrytu stromů, předběhneme ho a "
-"přistřihneme mu křidýlka."
+"To nebude těžké, Vaše Výsosti. Půjdeme ve skrytu stromů, předběhneme ho "
+"a přistřihneme mu křidýlka."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:405
@@ -7070,7 +7071,7 @@ msgstr "A je to."
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:493
 msgid "Very well. Forward! Victory or death!"
-msgstr "Dobrá. Kupředu! Vítězství nebo smrt!"
+msgstr "Dobrá. Kupředu! Vítězství, nebo smrt!"
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:498
@@ -8931,7 +8932,7 @@ msgid ""
 "Dang it! They’re gone, and the creatures they control are leaving too. "
 "Without them, this is hopeless."
 msgstr ""
-"Do háje! Odešli a s nimi se rozprchnou i tvorové které ovládali. Bez nich "
+"Do háje! Odešli a s nimi se rozprchnou i tvorové, které ovládali. Bez nich "
 "nemáme šanci."
 
 #. [message]: speaker=Stalrag
