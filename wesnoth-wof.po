@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-09-19 04:11 UTC\n"
-"PO-Revision-Date: 2022-09-27 22:24+0200\n"
+"PO-Revision-Date: 2022-10-01 21:53+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3569,6 +3569,9 @@ msgid ""
 "return to live here again. Sssaurian Empire will lassst thirteen millennia "
 "more!"
 msgstr ""
+"Elenssiánsská pevnost hoří, je po ní veta! Má líheň je ossvobozzena a můj "
+"druh ssse ssem můžže vrátit, aby tu žžil. Ješšteráccká říšše bude trvat "
+"dalšších třřináct tissíc let!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:430
@@ -3576,6 +3579,8 @@ msgid ""
 "Learn from this victory, Reshan.\n"
 "See now the futility of your doubt."
 msgstr ""
+"Pouč se z tohoto vítězství, Rešane.\n"
+"Nahlédni nyní na marnost svých pochybností."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:437
@@ -3877,7 +3882,7 @@ msgstr ""
 #. [scenario]: id=07_Harvest
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:5
 msgid "Harvest"
-msgstr ""
+msgstr "Žně"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:17
@@ -3916,7 +3921,7 @@ msgstr "Zdálo by se, že jsou dokonalou kořistí."
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:73
 msgid "Ministry of Fellowship"
-msgstr ""
+msgstr "Vyslankyně Společenství"
 
 #. [leader]: id=Salennea, type=Elvish Lady
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:77
@@ -3926,7 +3931,7 @@ msgstr "Salenea"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:106
 msgid "Tree Fellows"
-msgstr ""
+msgstr "Stromový spřízněnci"
 
 #. [leader]: id=Gulladrumm, type=Ancient Wose
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:110
@@ -3936,7 +3941,7 @@ msgstr "Gulladrumm"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:144
 msgid "Sea Fellows"
-msgstr ""
+msgstr "Mořští spřízněnci"
 
 #. [leader]: id=Pelgara, type=Mermaid Enchantress
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:148
@@ -3946,17 +3951,17 @@ msgstr "Pelgara"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:172
 msgid "Ornery Pets"
-msgstr ""
+msgstr "Divocí mazlíčci"
 
 #. [leader]: id=Princess Mew, type=Leopard
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:176
 msgid "Princess Mew"
-msgstr ""
+msgstr "Princeznina kočička"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:194
 msgid "Wesmere March Guard"
-msgstr ""
+msgstr "Wesmerská hraniční stráž"
 
 #. [leader]: id=Vonel, type=Elvish Marshal
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:198
@@ -3966,7 +3971,7 @@ msgstr "Vonel"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:204
 msgid "Nomeon"
-msgstr ""
+msgstr "Nomeon"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:234
@@ -4021,7 +4026,7 @@ msgstr ""
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:294
 msgid "Princess, I beg of you, walk not again into jeopardy!"
-msgstr ""
+msgstr "Princezno, prosím tě, nevystavuj se znovu v nebezpečí!"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:300
@@ -4029,11 +4034,13 @@ msgid ""
 "Be silent, Vonel. For I am no mere “princess” awaiting your salvation; I am "
 "a Lady of Wesmere!"
 msgstr ""
+"Buď zticha, Voneli. Nejsem nejsem pouhá „princezna“ očekající tvou záchranu. "
+"Jsem wesmerská dáma!"
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:304
 msgid "<small><i>you will always be a princess to me...</i></small>"
-msgstr ""
+msgstr "<small><i>vždycky pro mě budeš princezna...</i></small>"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:310
@@ -4042,17 +4049,22 @@ msgid ""
 "my witful tongue and virtuous conscience are more than protection enough in "
 "any case I may find myself."
 msgstr ""
+"Tvoje drsné šlachy a ocelové nástroje smrti mě neimponují, Voneli, protože "
+"můj důvtipný jazyk a ctnostné svědomí jsou víc než dostatečnou ochranou, pod "
+"kterou se mohu uchýlit."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:314
 msgid ""
 "<i>... Shek’kahan, thisss is elves’ sssoft underbelly I ssspoke of... </i>"
 msgstr ""
+"<i>... Ó Ššekekahane, toto je ten elfí měkký podbřiššek, o kterém jsssem "
+"mluvil...</i>"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:318
 msgid "These creatures of yours ramble incomprehensibly."
-msgstr ""
+msgstr "Tato vaše stvoření se zaplétají do svých představ."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:322
@@ -4060,6 +4072,7 @@ msgid ""
 "<i>That is jussst what they do. Now I will further pacify them with praise—</"
 "i>"
 msgstr ""
+"<i>To je právě to, cco dělají. Nyní je dále zzklidním pochlebováním...</i>"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:326
@@ -4067,6 +4080,8 @@ msgid ""
 "Wise Salennea! We wish entry to your land to ssseek your counsssel. Grant "
 "usss thisssss, Salennea the Jussst!"
 msgstr ""
+"Moudrá Ssaleneo! Chtěli bychom vsstoupit na vaššši půdu, abychom ssse "
+"ssetkali ss vašší Radou. Umožžni nám to, Ssaleneo Sspravedlivá!"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:332
@@ -4077,6 +4092,11 @@ msgid ""
 "“Wise Lady Salennea, the Just, Wielder of the Sapphire of Ice, the Embracer "
 "of Woses, the Merciful to Orcs, Keeper of Ca—"
 msgstr ""
+"Ach, „Salenea Spravedlivá“. Přidám to do dlouhého výčtu mých stávajících "
+"titulů...\n"
+"\n"
+"„Moudrá lady Salenea, Spravedlivá, Držitelka Ledového safíru, Opečovávatelka "
+"stromových lidí, Milosrdná vůči skřetům, Strážkyně Ca..."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:338
@@ -4085,16 +4105,19 @@ msgid ""
 "\n"
 "<b>So Hungry.</b>"
 msgstr ""
+"Saleneo!... jsem unaveni cestováním... a máme hlad!\n"
+"\n"
+"<b>Velký hlad.</b>"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:344
 msgid "Salennea, pray allow usss entry."
-msgstr ""
+msgstr "Ssaleneo, prossím, dovolte nám vsstoupit."
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:350
 msgid "Nay! This is a March of Wesmere, we shall not..."
-msgstr ""
+msgstr "Ne! Tohle je hranice Wesmérie, nemůžeme..."
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:356
@@ -4103,6 +4126,9 @@ msgid ""
 "\n"
 "Let all be welcome to Wesmere!"
 msgstr ""
+"Hranice nás jen rozdělují, Voneli.\n"
+"\n"
+"Nechť jsou ve Wesmérii všichni vítáni!"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:369
@@ -4115,6 +4141,13 @@ msgid ""
 "desire. Mayhap Bread of the Locust Fruit softened with Milk of the Hazel and "
 "sweetened with Sap of the Birch?"
 msgstr ""
+"Toto je můj hrad Saetranie – hrad sdílení.\n"
+"\n"
+"Můžete spočinout v hradě Glinoler – hradě péče.\n"
+"\n"
+"Moji ošetřovatelé vám poskytnou jakoukoli formu květinové výživy, která vám "
+"bude nejvíc po chuti. Možná rohovníkový chléb zjemněný lískovým mlékem a "
+"slazený březovou mízou?"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:379
@@ -4132,6 +4165,18 @@ msgid ""
 "\n"
 "Also, regarding your weaponry—"
 msgstr ""
+"Také je tu pár maličkostí, o které vás musím požádat...\n"
+"\n"
+"Protože si uvědomuji, že vaše drsná a šupinatá kůže je z velké části mimo "
+"vaši kontrolu, žádám vás pouze o to, abyste se oblékli a zakryli natolik, "
+"kolik je vám příjemné. Přeji si, abyste se neurazili, když vás žádám o tuto "
+"laskavost!\n"
+"\n"
+"Navíc mi vaše pachy připadají poněkud odpudivé, jakkoli vám to nevyčítám! "
+"Přesto, pokud byste své mytí na začátku a na konci každého dne prováděli "
+"třikrát déle a během dne dvakrát déle, mohlo by to dělat zázraky!\n"
+"\n"
+"Také, pokud se jedná o vaše zbraně..."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:389
@@ -4139,11 +4184,13 @@ msgid ""
 "We are ssssso weary... let usss dissscusss sssuch sssmall details in good "
 "time."
 msgstr ""
+"Jssme tak unaveni... nechme disskuzzi o těchto malých detailech na "
+"vhodnějšší časss."
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:395
 msgid "But of course."
-msgstr ""
+msgstr "Ale samozřejmě."
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:408
@@ -4151,23 +4198,26 @@ msgid ""
 "Vonel, have you seen my personal diary anywhere? It was in the safe keeping "
 "of a handmaiden of mine, but she has gone missing."
 msgstr ""
+"Voneli, neviděl jsi někde můj osobní deník? Byl v péči mé služebné, ale ta "
+"se ztratila."
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:413
 msgid ""
 "<i>Another</i> of your handmaidens is missing? Since when has she gone "
 "missing?"
-msgstr ""
+msgstr "<i>Další</i> z vašich služebných se postrádá? A od kdy je nezvěstná?"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:419
 msgid "Since I sent her to feed my precious aethenwood tygers."
 msgstr ""
+"Od té doby, co jsem ji poslala nakrmit mé vzácné tygry z Aethenského lesa."
 
 #. [message]: speaker=Nomeon
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:423
 msgid "<i>Oh my...</i>"
-msgstr ""
+msgstr "<i>Ach tak...</i>"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:429
@@ -4176,16 +4226,20 @@ msgid ""
 "\n"
 "My diary is very personal, Vonel!"
 msgstr ""
+"Až se najde můj deník, postarejte se, aby se na jeho stránky nikdo "
+"nedíval...\n"
+"\n"
+"Můj deník je velmi osobní, Voneli!"
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:435
 msgid "Of course, m’Lady."
-msgstr ""
+msgstr "Samozřejmě, má paní."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:449
 msgid "“The Diary of Lady Salennea”"
-msgstr ""
+msgstr "„Deník lady Salenei“"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:454
@@ -4361,6 +4415,9 @@ msgid ""
 "\n"
 "Naaaaaaaay!"
 msgstr ""
+"Kdybych tě tak poslouchal, má paní... <small><i>má princezno</i></small>...\n"
+"\n"
+"Neeeeee!"
 
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:629
@@ -4395,6 +4452,10 @@ msgid ""
 "\n"
 "Then regather upon the Sunreach Peaks."
 msgstr ""
+"Letko, rozprostřete se.\n"
+"Chopte se všeho, co nám tato džungle nabízí.\n"
+"\n"
+"Pak se znovu shromážděte na Slunných vrcholcích."
 
 #. [scenario]: id=08_Overlook
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:5
@@ -4550,7 +4611,7 @@ msgstr ""
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:341
 msgid "They are coming..."
-msgstr ""
+msgstr "Přicházejí..."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:345
@@ -4772,7 +4833,7 @@ msgstr ""
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:666
 msgid "Thank you, Gorlack and Reshan."
-msgstr ""
+msgstr "Děkuji vám, Gorlaku a Rešane."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:670
@@ -4928,7 +4989,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:194
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:574
 msgid "It is winter, nighttime is longer"
-msgstr ""
+msgstr "Je zima, noční doba je delší"
 
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:248
@@ -5200,6 +5261,9 @@ msgid ""
 "works until it resembled an eyrie. Using the ample provisions, the season "
 "might be outlasted."
 msgstr ""
+"Na Slunné vrcholky se snesla ledová bouře. Ve Velké zemi nastalo období "
+"chladu, zadržující letku. Tábor byl opevněn velkými kamennými dílcy, až "
+"připomínal ohradu. Při dostatečném množství zásob bylo možné sezónu přečkat."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:27
