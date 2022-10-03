@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-09-18 23:11-0500\n"
-"PO-Revision-Date: 2022-10-01 10:13+0200\n"
+"PO-Revision-Date: 2022-10-03 04:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4723,17 +4723,17 @@ msgstr "Místní hra"
 #. [label]
 #: data/gui/window/mp_report.cfg:50
 msgid "* Player being reported:"
-msgstr ""
+msgstr "* Hlášený hráč:"
 
 #. [label]
 #: data/gui/window/mp_report.cfg:82
 msgid "* Reason for report:"
-msgstr ""
+msgstr "* Důvod nahlášení:"
 
 #. [label]
 #: data/gui/window/mp_report.cfg:114
 msgid "Location of occurrence:"
-msgstr ""
+msgstr "Místo výskytu:"
 
 #. [label]
 #: data/gui/window/mp_report.cfg:146
@@ -4743,7 +4743,7 @@ msgstr "Další informace:"
 #. [label]
 #: data/gui/window/mp_report.cfg:191
 msgid "* required fields"
-msgstr ""
+msgstr "* povinná pole"
 
 #. [menu_button]: id=controller
 #: data/gui/window/mp_staging.cfg:245
