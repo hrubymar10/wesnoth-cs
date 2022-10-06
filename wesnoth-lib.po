@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-09-18 23:11-0500\n"
-"PO-Revision-Date: 2022-10-03 04:35+0200\n"
+"PO-Revision-Date: 2022-10-06 21:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -872,7 +872,7 @@ msgstr "Důlní železnice"
 #. [terrain_type]: id=high_border
 #: data/core/terrain.cfg:1204
 msgid "Bluff"
-msgstr ""
+msgstr "Sráz"
 
 #. [terrain_type]: id=high_canyon
 #: data/core/terrain.cfg:1214
@@ -1795,22 +1795,22 @@ msgstr "Prkenný most"
 #. [terrain_type]: id=mark_high
 #: data/core/terrain.cfg:3056
 msgid "Marker High"
-msgstr ""
+msgstr "Značka zvýšení"
 
 #. [terrain_type]: id=mark_high2
 #: data/core/terrain.cfg:3065
 msgid "Marker High 2"
-msgstr ""
+msgstr "Značka zvýšení 2"
 
 #. [terrain_type]: id=mark_low
 #: data/core/terrain.cfg:3074
 msgid "Marker Low"
-msgstr ""
+msgstr "Značka snížení"
 
 #. [terrain_type]: id=mark_low2
 #: data/core/terrain.cfg:3083
 msgid "Marker Low 2"
-msgstr ""
+msgstr "Značka snížení 2"
 
 #. [terrain_type]: id=off_map
 #: data/core/terrain.cfg:3094
