@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-10-16 02:06 UTC\n"
-"PO-Revision-Date: 2022-10-08 09:09+0200\n"
+"PO-Revision-Date: 2022-10-21 21:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2335,38 +2335,27 @@ msgstr "V zajetí"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:18
-#, fuzzy
-#| msgid ""
-#| "After reaching what they believed was safety, Gweddry and his men had "
-#| "been captured by northern orcs."
 msgid ""
 "After reaching what they believed was safety, Gweddry and his men had been "
 "captured by trolls from the northern orcish tribes."
 msgstr ""
 "Když si Gweddry a jeho muži mysleli, že už jsou v bezpečí, tak je zajali "
-"severní skřeti."
+"trollové ze severních skřetích kmenů."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Gweddry, Dacyn and Owaec were promptly taken before the orcish king, Dra-"
-#| "Nak, while the rest were thrown into the orcish prisons to await their "
-#| "turn..."
 msgid ""
 "Gweddry, Dacyn and Owaec were promptly taken before the orcish chieftain, "
 "Dra-Nak, while the rest were thrown into the orcish prisons to await their "
 "turn..."
 msgstr ""
-"Gweddry, Dacyn a Owaec byli okamžitě předvedeni před skřetího krále, Dra-"
+"Gweddry, Dacyn a Owaec byli okamžitě předvedeni před skřetího náčelníka, Dra-"
 "Naka, zatímco ostatní zavřeli do žaláře, dokud na ně nepřijde řada..."
 
 #. [side]: type=Orcish Warlord, id=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:42
-#, fuzzy
-#| msgid "King Dra-Nak"
 msgid "Chief Dra-Nak"
-msgstr "Král Dra-Nak"
+msgstr "Náčelník Dra-Nak"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:80
