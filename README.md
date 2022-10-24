@@ -10,9 +10,8 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-units | 753 | 99% | 1 | Michal
 wesnoth-wof | 827 | 62% | 313 | Septim
-wesnoth | 1354 | 99% | 2 | Michal
 
-Total messages remaining: **316**
+Total messages remaining: **314**
 
 Progress since 2022-04-30: **2** messages per day
 
