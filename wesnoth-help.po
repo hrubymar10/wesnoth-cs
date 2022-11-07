@@ -3,14 +3,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2022
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-08 04:42+0300\n"
-"PO-Revision-Date: 2022-10-16 10:04+0200\n"
+"PO-Revision-Date: 2022-11-07 09:37+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8204,15 +8204,15 @@ msgstr "Povyšuje na: "
 
 #: src/help/help_topic_generators.cpp:390
 msgid "Base unit: "
-msgstr "Základní jednotka:"
+msgstr "Základní jednotka: "
 
 #: src/help/help_topic_generators.cpp:395
 msgid "Base units: "
-msgstr "Základní jednotky:"
+msgstr "Základní jednotky: "
 
 #: src/help/help_topic_generators.cpp:413
 msgid "Variations: "
-msgstr "Variace:"
+msgstr "Variace: "
 
 #: src/help/help_topic_generators.cpp:437
 msgid "race^Miscellaneous"
