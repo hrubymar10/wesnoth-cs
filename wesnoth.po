@@ -3,14 +3,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2022
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-10-15 21:07-0500\n"
-"PO-Revision-Date: 2022-11-06 09:22+0100\n"
+"PO-Revision-Date: 2022-11-08 16:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4525,7 +4525,7 @@ msgid ""
 "Use the map editor’s <i>Areas</i> menu to define regions later addressed by "
 "event or AI coding."
 msgstr ""
-"Použijte <i>Oblasti</i> v editoru map pro nastavení oblastí, které později "
+"Použij <i>Oblasti</i> v editoru map pro nastavení oblastí, které později "
 "použije nějaká událost nebo umělá inteligence."
 
 #. [tip]
@@ -4539,8 +4539,8 @@ msgid ""
 "In the map editor, select <i>New Scenario</i> in the <i>File</i> menu to "
 "make use of advanced features."
 msgstr ""
-"Abyste mohli v editoru map použít pokročilé prvky, vyberte v menu <i>Soubor</"
-"i> možnost <i>Nový scénář</i>."
+"Abys mohl v editoru map použít pokročilé prvky, vyber v menu <i>Soubor</i> "
+"možnost <i>Nový scénář</i>."
 
 #. [tip]
 #: data/tips.cfg:12
@@ -4548,7 +4548,7 @@ msgid ""
 "Scenarios saved from the editor in their default folder can be selected in "
 "the <i>Custom Scenarios</i> section of the Multiplayer “Create Game” screen."
 msgstr ""
-"Scénáře uložené v editoru do výchozího umístění můžete vybrat v sekci "
+"Scénáře uložené v editoru do výchozího umístění můžeš vybrat v sekci "
 "<i>Vlastní scénáře</i> při vytváření nové hry pro více hráčů."
 
 #. [tip]
@@ -4864,8 +4864,8 @@ msgid ""
 "are not caught out by a surprise attack."
 msgstr ""
 "Na mapách, kde je použito <i>zahalení tmou</i> či <i>mlha</i>, je pohled "
-"jednotek omezen možnostmi jejich pohybu. Pokud máte cenné, ale pomalé "
-"jednotky, zůstaňte poblíž nich s další, rychlejší jednotkou, aby nebyla "
+"jednotek omezen možnostmi jejich pohybu. Pokud máš cenné, ale pomalé "
+"jednotky, zůstaň poblíž nich s další, rychlejší jednotkou, aby nebyla "
 "zaskočena překvapivým útokem z neviděné části mapy."
 
 #. [tip]
@@ -5129,7 +5129,7 @@ msgid ""
 "veteran to damage a joint target heavily enough for the junior partner to "
 "get in the killing blow."
 msgstr ""
-"Aby se vaše jednotky nízké úrovně rychleji povýšily, spárujte je se silnější "
+"Aby se tvé jednotky nízké úrovně rychleji povýšily, spáruj je se silnější "
 "jednotkou, která nejprve dostatečně poškodí společný cíl; „učedník“ pak dílo "
 "dokoná a získá zkušenosti."
 
