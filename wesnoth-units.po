@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-10-16 02:06 UTC\n"
-"PO-Revision-Date: 2022-11-10 19:52+0100\n"
+"PO-Revision-Date: 2022-11-10 19:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7923,10 +7923,8 @@ msgstr "Škorpión"
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:284
 #: data/core/units/undead/Corpse_Walking.cfg:283
-#, fuzzy
-#| msgid "wc_variation^Spider"
 msgid "wc_variation^Scuttler"
-msgstr "Pavouk"
+msgstr "Cupkal"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:293
