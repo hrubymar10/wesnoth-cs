@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-09-19 04:11 UTC\n"
-"PO-Revision-Date: 2022-10-09 00:35+0200\n"
+"PO-Revision-Date: 2022-11-13 15:35+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. [campaign]: id=Winds_of_Fate
 #. [scenario]: id=06x_Winds_of_Fate
@@ -1056,6 +1056,7 @@ msgstr ""
 "Byl svolán lov.\n"
 "Tvá předchozí povinnost je tímto nahrazena."
 
+# Možná to firescale znamená něco jiného, ale nybyl jsem schopen najít lepší význam.
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:429
 msgid ""
@@ -1064,6 +1065,10 @@ msgid ""
 "Clasher glyphs are engraved into it; this firescale must bear Secrets of "
 "their caste."
 msgstr ""
+"Tento ohnivý blok je příliš těžkopádný na výrobu brnění...\n"
+"\n"
+"Jsou do něj vyryty znaky rváčů. Tento ohnivý blok musí nést tajemství jejich "
+"kasty."
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:443
@@ -1072,6 +1077,9 @@ msgid ""
 "\n"
 "By the Ways of Morogor, we clashers must keep our Secrets."
 msgstr ""
+"Je mi zakázáno mluvit o Tajemstvích vyrytých do tohoto ohnivého bloku.\n"
+"\n"
+"Dle Cest Morogoru musíme my rváči zachovat svá tajemství."
 
 #. [message]: speaker=narrator
 #. Here ‘steeped’ means engrossed.
@@ -1537,6 +1545,12 @@ msgid ""
 "Then only a cluster of shoals to rest them, which might be slid past "
 "unnoticed with perilous ease."
 msgstr ""
+"Ta cesta skýtá mnohá nebezpečí.\n"
+"Široký úsek moře mohou překonat jen nadprůměrní letci, kterým bude přát "
+"vanutí Větrů osudu.\n"
+"\n"
+"Odpočinout si lze jen na shlucích mělčin, které se dají s nebezpečnou "
+"lehkostí minout bez povšimnutí."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:86
@@ -1555,6 +1569,14 @@ msgid ""
 "Turmoil.\n"
 "When nigh all of them perished in an unknown calamity."
 msgstr ""
+"Dále na východ se rozkládá další úsek moře, téměř stejně široký.\n"
+"\n"
+"A konečně Velká země, pevnina tak rozlehlá jako samotný oceán.\n"
+"Stejně tak tajemná.\n"
+"\n"
+"Vyprávěné vzpomínky popisují, že drakonidům se tam kdysi dařilo než nastal "
+"Čas vřavy.\n"
+"Pak témeř všichni zahynuli během neznámé pohromy."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:102
@@ -1565,6 +1587,11 @@ msgid ""
 "beyond.\n"
 "There my eyrie will be set; a beacon leading other flights to salvation."
 msgstr ""
+"Pokud se tam naše kořist přesunuje, pak tam bude nejhojnější.\n"
+"\n"
+"S letkou, kterou si vysloužím v zápase, poletím daleko za obzor do této "
+"Velké země.\n"
+"Tam bude umístěno mé hnízdo. Maják vedoucí další letky ke spáse."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:110
@@ -1726,6 +1753,9 @@ msgid ""
 "\n"
 "The flight-in-contention is hereby entrusted to Dominant Karron’s keeping."
 msgstr ""
+"Karron dosáhl pozice vládce.\n"
+"\n"
+"Letka ze zápasu je tímto svěřena do velení vládce Karrona."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:386
@@ -1743,6 +1773,9 @@ msgid ""
 "\n"
 "The flight-in-contention is hereby entrusted to Dominant Gorlack’s keeping."
 msgstr ""
+"Gorlak dosáhl pozice vládce.\n"
+"\n"
+"Letka ze zápasu je tímto svěřena do velení vládce Gorlaka."
 
 #. [message]: speaker=Karron
 #. [part]
@@ -1965,6 +1998,12 @@ msgid ""
 "While the rest of your caste revere this Ancestor, you alone shoulder the "
 "truth."
 msgstr ""
+"Gorlaku...\n"
+"Je tu věc, kvůli které se musíme poradit.\n"
+"\n"
+"Slyšel jsi Vzpomínku na náš dávný exil na tyto potápějící se ostrovy.\n"
+"Snášel jsi hanbu, neboť jsi věděl, že to způsobila zrada vládce Morogora.\n"
+"Zatímco zbytek tvé kasty tohoto předka ctí, ty sám neseš tíhu pravdy."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:96
@@ -1973,6 +2012,9 @@ msgid ""
 "\n"
 "Yet such is a small price for wisdom."
 msgstr ""
+"Opravdu, mé srdce trochu ochladlo, když jsem poznal naši hanebnou minulost.\n"
+"\n"
+"Přesto je to malá cena za moudrost."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:103
@@ -1986,6 +2028,14 @@ msgid ""
 "We must proceed with the utmost caution.\n"
 "With our Windpath well chosen."
 msgstr ""
+"Můj příteli, cena bude ještě zaplacena.\n"
+"Za těmito ostrovy je svět podivnější, než by slova dokázala vylíčit.\n"
+"Věci zapomenuté od Času legend.\n"
+"\n"
+"Až se naše nohy dotknou Velké země, místa, které před dlouhou dobou zabilo "
+"tolik našich druhů...\n"
+"Musíme postupovat s maximální opatrností.\n"
+"S dobře vybranou Větrnou stezkou."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:114
@@ -1998,6 +2048,13 @@ msgid ""
 "With it we shall part the turbulent Winds of Fate themselves.\n"
 "Leaving in their place, a Windpath of our own making."
 msgstr ""
+"Vnímám tvou radu, Rešane.\n"
+"Budu na ni dbát.\n"
+"\n"
+"Odlož však svůj strach, protože v nás je také víc, než slova mohou vylíčit.\n"
+"Síla v našich srdcích, které budeš svědkem.\n"
+"Tou se budeme podílet na samotných turbulentních Větrech osudu.\n"
+"Necháme je vát a sami vytyčíme svou vlastní Větrnou stezku."
 
 #. [scenario]: id=04_Journey
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:5
@@ -2022,6 +2079,10 @@ msgid ""
 "yet too young. Those with wounds still mending. To Karron’s bewilderment, "
 "Gorlack gifted him these— his own flight to lead."
 msgstr ""
+"Dokonce ani tehdy nebyla polovina letců připravena vydržet takovou cestu. "
+"Ti, kteří byli ještě příliš mladí. Ti, kteří se stále nevyléčili ze svých "
+"zranění. Gorlak těmito jedinci, k jeho vlastnímu údivu, obdaroval Karrona, "
+"který tak získal do vedení svou vlastní letku."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:23
@@ -2034,6 +2095,8 @@ msgid ""
 "Flying over land darkly striped by long shadows of craggy peaks, with the "
 "light of a warm new sun between..."
 msgstr ""
+"Ve světle teplého vycházejícího slunce letěli nad zemí temně pruhovanou "
+"dlouhými stíny skalnatých vrcholků..."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:29
@@ -2041,6 +2104,8 @@ msgid ""
 "Soaring over a sea bright as the sky above, the airy world far around "
 "suspending them under a midday sun..."
 msgstr ""
+"Pod poledním sluncem se rozptýleni v široširém vzdušném světě vznášeli nad "
+"mořem jasným jako nebe nad ním..."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:32
@@ -2048,11 +2113,13 @@ msgid ""
 "Skimming just above the glassy moonlit ocean, their wingwakes rippling "
 "behind..."
 msgstr ""
+"Nad skelným oceánem zalitým měsíčním světlem se těsně vznášeli nad hladinou, "
+"kterou za sebou rozviřovali máváním svých křídel..."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:35
 msgid "So forth the journey persisted."
-msgstr ""
+msgstr "Tak setrvávali na cestě vpřed."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:38
@@ -2061,6 +2128,9 @@ msgid ""
 "spanning several horizons. Even so, the shoals nigh slipped past their north "
 "wing unnoticed. At long last, the flight set down on them."
 msgstr ""
+"Aby Rešan zachytil drobné mělčiny, zformoval své plachticí druhy do přední "
+"linie pokrývající několik horizontů. I tak je severní peruť málem minula bez "
+"povšimnutí. Konečně na ně mohla letka přistát."
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:51
