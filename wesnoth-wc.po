@@ -1,13 +1,13 @@
 # Martin Hrubý <hrubymar10@gmail.com>, 2020.
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020 - 2022.
-# Michal Žejdl <lachim@emer.cz>, 2020 - 2022.
+# Michal Žejdl <lachim@emer.cz>, 2020 - 2022
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-10-16 02:06 UTC\n"
-"PO-Revision-Date: 2022-09-06 19:27+0200\n"
+"PO-Revision-Date: 2022-11-17 19:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2361,7 +2361,7 @@ msgstr ""
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:35
 msgid "<b>Upkeep</b>\n"
-msgstr "<b>Údržba</b>\n"
+msgstr "<b>Zaopatření</b>\n"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:36
@@ -2371,7 +2371,7 @@ msgid ""
 "\n"
 msgstr ""
 "Jednotky s vlastností <b>hrdinný</b> nebo držící nějaký magický <b>předmět</"
-"b> nevyžadují peníze na údržbu.\n"
+"b> nevyžadují peníze na zaopatření.\n"
 "\n"
 
 #. [lua]: preshow
@@ -3751,7 +3751,7 @@ msgstr "$value| zkušeností k povýšení"
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:635
 msgid "free upkeep"
-msgstr "nulové náklady na údržbu"
+msgstr "nulové náklady na zaopatření"
 
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:645

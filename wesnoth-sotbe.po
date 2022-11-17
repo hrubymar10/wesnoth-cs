@@ -6,14 +6,14 @@
 # Anežka Bubeníčková <masozravapalma@gmail.cz>, 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2022
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-20 03:46 UTC\n"
-"PO-Revision-Date: 2022-11-15 19:19+0100\n"
+"PO-Revision-Date: 2022-11-17 19:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4719,4 +4719,4 @@ msgstr "Flar’Tar"
 #. [note]
 #: data/campaigns/Son_Of_The_Black_Eye/utils/utils.cfg:101
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
-msgstr "Velká horda: cena za údržbu každé jednotky snížena o jeden zlatý."
+msgstr "Velká horda: cena zaopatření každé jednotky snížena o jeden zlatý."

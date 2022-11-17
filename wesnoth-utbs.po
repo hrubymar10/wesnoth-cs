@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-09-19 04:11 UTC\n"
-"PO-Revision-Date: 2022-11-15 19:20+0100\n"
+"PO-Revision-Date: 2022-11-17 19:34+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16048,7 +16048,7 @@ msgstr "podporující"
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:234
 msgid "The upkeep costs of adjacent friendly units are lowered by 1."
 msgstr ""
-"Náklady na údržbu jsou u sousedících spřátelených jednotek sníženy o 1."
+"Náklady na zaopatření jsou u sousedících spřátelených jednotek sníženy o 1."
 
 #. [unstore_unit]
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:287
