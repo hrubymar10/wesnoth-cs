@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-10-15 21:06-0500\n"
-"PO-Revision-Date: 2022-10-23 08:34+0200\n"
+"PO-Revision-Date: 2022-11-18 20:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7148,7 +7148,7 @@ msgstr "Přejmenovat jednotku"
 
 #: src/gui/dialogs/unit_recall.cpp:359
 msgid "This unit is loyal and requires no upkeep."
-msgstr "Tato jednotka je věrná a nevyžaduje žádný příjem."
+msgstr "Tato jednotka je věrná a nevyžaduje žádné zaopatření."
 
 #: src/gui/dialogs/unit_recall.cpp:360 src/gui/dialogs/unit_recall.cpp:365
 #: src/gui/dialogs/unit_recall.cpp:370
