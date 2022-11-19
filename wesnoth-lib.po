@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-10-15 21:06-0500\n"
-"PO-Revision-Date: 2022-11-18 20:53+0100\n"
+"PO-Revision-Date: 2022-11-19 08:02+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7140,7 +7140,7 @@ msgstr ""
 
 #: src/gui/dialogs/unit_recall.cpp:227
 msgid "This unit cannot be recalled because you do not have enough gold."
-msgstr "Jednotka nemůže být přivolána z důvodu nedostatku zlata."
+msgstr "Tato jednotka nemůže být povolána, protože nemáš dost zlata."
 
 #: src/gui/dialogs/unit_recall.cpp:323 src/hotkey/hotkey_command.cpp:102
 msgid "Rename Unit"
