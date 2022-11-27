@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-11-20 05:31 UTC\n"
-"PO-Revision-Date: 2022-11-13 15:35+0100\n"
+"PO-Revision-Date: 2022-11-27 14:31+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2242,6 +2242,8 @@ msgid ""
 "We will ‘de-part’ your fins from you and gulp your fry by the thousands. "
 "Ssssss!"
 msgstr ""
+"Naděláme sssi zz vaššich ploutví filety a tissícce vaššich mláďat zzhltneme "
+"jak rybí oččka. Ssssss!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:234
@@ -2249,6 +2251,8 @@ msgid ""
 "Long have the merfolk harried us.\n"
 "Now they hinder our journey across their ocean realm."
 msgstr ""
+"Mnoho let nás mořští lidé sužovali.\n"
+"A teď nám brání v cestě přes jejich oceánskou říši."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:241
@@ -2258,6 +2262,10 @@ msgid ""
 "Yet the flight is direly weary from the journey.\n"
 "We should avoid conflict."
 msgstr ""
+"Bez ovládnutí těchto mělčin nemůžeme doplnit zásoby.\n"
+"\n"
+"Letka je ale z cesty nesmírně unavená.\n"
+"Měli bychom se vyhnout konfliktu."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:248
@@ -2265,6 +2273,8 @@ msgid ""
 "We outmatch them.\n"
 "We shall overcome them as so we always have."
 msgstr ""
+"Přemůžeme je.\n"
+"Přemůžeme je, jak jsme je vždy přemohli."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:255
@@ -2273,6 +2283,9 @@ msgid ""
 "Yet pray first recall the folly of Dominant Morogor at the Battle of the "
 "Crystal Sea."
 msgstr ""
+"Pokud je to tvá vůle.\n"
+"Přesto se nejdřív pomodli, vzpomeň na pošetilost vládce Morogora v bitvě v "
+"Křišťálovém moři."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:260
@@ -2281,6 +2294,9 @@ msgid ""
 "\n"
 "We must repeat not the ancient mistakes."
 msgstr ""
+"... Máš pravdu, Rešane.\n"
+"\n"
+"Nesmíme opakovat dávné chyby."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:266
@@ -2325,12 +2341,13 @@ msgstr ""
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:307
 msgid "My liege, permission to engage the drakes?"
-msgstr ""
+msgstr "Můj pane, dovolíš mi pustit se do drakonidů?"
 
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:311
 msgid "Permission denied. Stay on your keep and let your forces engage them."
 msgstr ""
+"Nedovolím. Zůstaň ve své pevnosti a nech své síly, aby se s nimi potýkali."
 
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:317
@@ -2338,6 +2355,8 @@ msgid ""
 "With all due respect, sir, I am no coward. My father always led from the "
 "front and his fighters respected him for it."
 msgstr ""
+"Při vší úctě, pane, nejsem žádný zbabělec. Můj otec vždy velel z bitevní "
+"linie a jeho bojovníci si ho za to vážili."
 
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:321
@@ -2346,6 +2365,9 @@ msgid ""
 "\n"
 "I have something special planned to turn the tides in our favor."
 msgstr ""
+"Zůstaň na svém místě, Nemasi, to je rozkaz.\n"
+"\n"
+"Mám v plánu něco speciálního, abych zvrátil vývoj v náš prospěch."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:328
@@ -2353,11 +2375,13 @@ msgid ""
 "Strange waves circle the northernmost shoals.\n"
 "I fear the northern mermish plan to unleash monsters from the deep."
 msgstr ""
+"V nejsevernějších mělčinách krouží podivné vlny.\n"
+"Obávám se, že mořští lidé na severu plánují vypustit monstra z hlubin."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:333
 msgid "Slaying their leader will halt their doing so."
-msgstr ""
+msgstr "Zabití jejich vůdce to zastaví."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:337
@@ -2365,6 +2389,8 @@ msgid ""
 "That might spread us too thin.\n"
 "I must advise against it."
 msgstr ""
+"To by naši linii mohlo příliš roztáhnout.\n"
+"Doporučuji to nedělat."
 
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:351
@@ -2374,7 +2400,7 @@ msgstr "Vpřed!"
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:355
 msgid "Nemas, you are violating a direct order! Return to your keep at once!"
-msgstr "Porušujete přímý rozkaz, Nemasi! Okamžitě se vraťte do své pevnosti!"
+msgstr "Porušujete přímý rozkaz, Nemasi! Okamžitě se vrať do své pevnosti!"
 
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:363
@@ -2806,6 +2832,8 @@ msgid ""
 "The humans and merfolk will attempt to recapture villages but wildlife will "
 "not"
 msgstr ""
+"Lidé, včetně mořských, se budou pokoušet dobýt zpět vesnice, ale divoká zvěr "
+"to dělat nebude"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:540
@@ -2816,6 +2844,13 @@ msgid ""
 "From our long shameful exile adrift on sinking isles.\n"
 "Reascended to claim our forgotten birthright of this greater world."
 msgstr ""
+"Tady položím základy svého hnízda.\n"
+"\n"
+"Toto bude práh, kterým náš druh projde.\n"
+"Z našeho dlouhého hanebného vyhnanství unášeného na potápějících se "
+"ostrovech.\n"
+"Budeme znovu povzneseni, abychom si nárokovali naše zapomenuté vrozené právo "
+"na tento větší svět."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:548
@@ -2824,12 +2859,15 @@ msgid ""
 "\n"
 "Some orcs may have drifted to here as well."
 msgstr ""
+"Počty zvěře se zdají menší, než by měly tyto ostrovy vykazovat...\n"
+"\n"
+"Možná už tu také byli nějací skřeti."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:554
 msgid ""
 "Then we shall seize their settlements to procure our flight’s sustenance."
-msgstr ""
+msgstr "Pak se zmocníme jejich osad, abychom zajistili pro naši letku obživu."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:558
@@ -2840,6 +2878,11 @@ msgid ""
 "There are hatchlings just below.\n"
 "They look to be in dire need of aid!"
 msgstr ""
+"Pod námi je nějaký rozruch...\n"
+"\n"
+"Mláďata!\n"
+"Přímo pod námi jsou vylíhlá mláďata.\n"
+"Zdá se, že nutně potřebují pomoc!"
 
 #. [message]: speaker=Rhynnin
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:574
@@ -2851,11 +2894,17 @@ msgid ""
 "When you are done here, advance to the interior villages and trample the "
 "eggs. These little devils will cause Fort Elense no more trouble."
 msgstr ""
+"Výborně, máme je ještě jednou obklíčené. Tentokrát nedovolte žádnému "
+"proklouznout. Z kůží ze všech jejich zelených hlav bude plášť pro krále.\n"
+"\n"
+"Až tady budete hotovi, pokračujte do vnitrozemských vesnic a rozšlapejte "
+"vejce. Tito malí ďáblové už nezpůsobí Elensefarské pevnosti žádné další "
+"potíže."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:580
 msgid "Another herd of those orc creatures..."
-msgstr ""
+msgstr "Další banda těch skřetích tvorů..."
 
 #. [message]: speaker=Reshan
 #. At this time, the drakes mistakenly believe humans call their race ‘haldric’ but this is actually the name of their king.
@@ -2864,6 +2913,8 @@ msgid ""
 "Nay, their weaponry is not crude enough.\n"
 "Those are haldric, creatures of much higher quality."
 msgstr ""
+"Ne, jejich zbraně jsou vypracovanější.\n"
+"Tihle jsou haldrikové, stvoření mnohem vyšší kvality."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:590
@@ -2872,6 +2923,9 @@ msgid ""
 "clear.\n"
 "Those hatchlings will be slain if our intervention is not swift."
 msgstr ""
+"I když ten haldrik mluví mnoha neznámými slovy, jejich hrozivé vyznění je "
+"jasné.\n"
+"Pokud rychle nezasáhneme, budou tato vylíhlá mláďata zabita."
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:728
@@ -2879,6 +2933,8 @@ msgid ""
 "He returns! Noble Shek’kahan returns from ssspirit realm to sssave usssss! "
 "(<i>chirping sob</i>)"
 msgstr ""
+"Vrací sse! Vzneššený Ššekekahan se vrací zz duchovní říšše, aby násss "
+"zzachránil! (<i>Štěbetavě vzlyká.</i>)"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:732
@@ -2887,6 +2943,9 @@ msgid ""
 "\n"
 "These... are <b>not</b> hatchlings."
 msgstr ""
+"Rešane.\n"
+"\n"
+"Tohle... <b>nejsou</b> vylíhlá mláďata."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:738
@@ -2894,6 +2953,8 @@ msgid ""
 "By the Winds, they are not.\n"
 "Their resemblance is so strikingly of hatchlings..."
 msgstr ""
+"U všech Větrů, vskutku nejsou.\n"
+"Jejich podobnost s mláďaty je tak pozoruhodná..."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:745
@@ -2902,18 +2963,21 @@ msgid ""
 "\n"
 "Hail, dragons! (<i>rapid clicking</i>) Down here!"
 msgstr ""
+"Takžže, tohle jssou ohniví dracci, žže Zedrixi?\n"
+"\n"
+"Buďte pozzdraveni, dracci! (<i>Ostře hvízdne.</i>) Tady dolů!"
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:751
 msgid "They are receiving us."
-msgstr ""
+msgstr "Vítají nás."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:757
 msgid ""
 "Hail-loooo! Dragons, can you ssspeak? Zedrix, you sssaid dragons can "
 "ssssspeak!"
-msgstr ""
+msgstr "Haló! Dracci, umíte mluvit? Zedrixi, říkalss, žže dracci umí mluvit!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:761
@@ -2922,6 +2986,9 @@ msgid ""
 "\n"
 "You will do as I command!"
 msgstr ""
+"Maličcí!\n"
+"\n"
+"Uděláte, co vám přikáži!"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:769
@@ -2929,6 +2996,8 @@ msgid ""
 "By every sssign upon firmament, we hear you Shek’kahan! You are our "
 "moonlight!"
 msgstr ""
+"U vššech zznamení na nebesské klenbě, nassloucháme ti, Ššekekahane! Jsi "
+"našším ssvětlem!"
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:788
@@ -3123,6 +3192,8 @@ msgid ""
 "The settlements are seized, along with all contained provisions.\n"
 "There is enough to feed our flight for half a dozen moons."
 msgstr ""
+"Osady jsou obsazeny spolu se vším jejich proviantem.\n"
+"Je toho dost, aby to naši letku nasytilo na půl tuctu měsíců."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:1007
@@ -3131,6 +3202,9 @@ msgid ""
 "\n"
 "From here my domain extends."
 msgstr ""
+"Tímto vyhlašuji tento ostrov svým hnízdem.\n"
+"\n"
+"Odtud bude má říše růst."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:1013
@@ -3144,6 +3218,15 @@ msgid ""
 "From here, they may go forth to set eyries of their own upon this greatest "
 "land."
 msgstr ""
+"Rešane, pošli plachtící drakonidy zpátky do Morogoru s hlášením.\n"
+"\n"
+"Pošli také zprávu, že za rok vydám své prohlášení.\n"
+"Prohlášení, že všechny letky se srdcem dostatečně vroucím na to, aby "
+"podstoupily cestu,\n"
+"budou přijaty na tomto místě, v mém hnízdě.\n"
+"\n"
+"Odsud mohou vyrazit dále, aby na této veliké zemi rozmístili svá vlastní "
+"hnízda."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:1025
@@ -3153,11 +3236,16 @@ msgid ""
 "I wish to dispatch a sky patrol as well.\n"
 "To begin ceaseless watch of the Greatland just off our eastern shore."
 msgstr ""
+"Jak poroučíš.\n"
+"\n"
+"Chtěl bych také vyslat nebeskou hlídku.\n"
+"Abych začali nepřetržitě sledovat Velkou zemi kousek od našeho východního "
+"pobřeží."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:1032
 msgid "Make it so."
-msgstr ""
+msgstr "Udělej to."
 
 #. [scenario]: id=05x_Early_Arrival
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:5
@@ -5299,7 +5387,7 @@ msgstr ""
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:674
 msgid "Behold, mighty Shek'kahan!"
-msgstr ""
+msgstr "Zadržž, mocný Ššekekahane!"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:680
@@ -5457,6 +5545,7 @@ msgstr "Přesunutí jakékoli tvé jednotky na východ tunelu ho zničí"
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:347
 msgid "I sssee now you are not Shek’kahan. I sssaw as I wished to sssee."
 msgstr ""
+"Teď užž vidím, žže nejssi Ššekekahan. Viděl jssem, cco jssem ssi přál vidět."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:351
