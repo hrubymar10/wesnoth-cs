@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-11-20 05:31 UTC\n"
-"PO-Revision-Date: 2022-11-27 14:31+0100\n"
+"PO-Revision-Date: 2022-11-30 20:45+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2400,7 +2400,7 @@ msgstr "Vpřed!"
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:355
 msgid "Nemas, you are violating a direct order! Return to your keep at once!"
-msgstr "Porušujete přímý rozkaz, Nemasi! Okamžitě se vrať do své pevnosti!"
+msgstr "Porušuješ přímý rozkaz, Nemasi! Okamžitě se vrať do své pevnosti!"
 
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:363
