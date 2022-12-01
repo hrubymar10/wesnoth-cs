@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-11-20 05:31 UTC\n"
-"PO-Revision-Date: 2022-11-30 20:45+0100\n"
+"PO-Revision-Date: 2022-12-01 23:10+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. [campaign]: id=Winds_of_Fate
 #. [scenario]: id=06x_Winds_of_Fate
@@ -2310,16 +2310,23 @@ msgid ""
 "For from those shall we, all at once, carry away <i>their</i> provisions "
 "with our rested flight."
 msgstr ""
+"Umožním nám tu tři dny pobývat.\n"
+"Celá letka bude odpočívat.\n"
+"Kromě nás, co tvoříme nejsilnější peruť...\n"
+"\n"
+"My budeme napadat mořské ďábly, kdykoli nám nabídnou příležitost.\n"
+"Do konce třetího dne musíme držet všechny jejich osady.\n"
+"Neboť z nich si naše odpočatá letka jedním tahem odnese <i>jejich</i> zásoby."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:278
 msgid "We might also forge a truce with the serpents."
-msgstr ""
+msgstr "Můžeme také uzavřít příměří s hady."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:282
 msgid "A truce with prey..."
-msgstr ""
+msgstr "Příměří s kořistí..."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:288
@@ -2332,11 +2339,20 @@ msgid ""
 "Otherwise, having not summoned us here, they will assume us allies of the "
 "merfolk."
 msgstr ""
+"Důvěřuj mi, v tomto širším světě fungují možnosti, které jsou našemu myšlení "
+"vzdálené.\n"
+"\n"
+"Pokud nezabijeme žádného z těch hadů, mohl bych si jejich vůdce naklonit na "
+"naši stranu.\n"
+"Musím se nicméně dostat dostatečně blízko, abych rozuměl podivným slovům, co "
+"říká.\n"
+"\n"
+"Jinak, když nás sem nepovolali, nás budou brát jako spojence mořských lidí."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:297
 msgid "I shall consider this."
-msgstr ""
+msgstr "Zvážím to."
 
 #. [message]: speaker=Nemas
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:307
@@ -3438,6 +3454,14 @@ msgid ""
 "hatchplace they raised their towering Fort Elenssse. Pray dragons, rain "
 "jussst fire down upon these abominations!"
 msgstr ""
+"Žžádné nessmyssly! Tvorové, co jsste viděli, ssi říkají „lidé“. Jssou to "
+"hluččné, nássilné a odporné příššery porosstlé vlhkou ropušší kůžží. Jssou "
+"to nájemné ssíly vyvolané zze sspodní sstrany ssvěta elfy, co ssídlí v "
+"hlubokém a temném Wessmersském lesse.\n"
+"\n"
+"Tito lidé zzabili téměřř vššechny zz mého klanu! Na trosskách mé líhně sssi "
+"posstavili ssvou vyssoko sse tyččící Elenssefarskou pevnosst. Modlím sse, "
+"draci, aby jsste na ty ohavnossti ssesslali sshůry ohnivý déššť!"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:256
@@ -3457,6 +3481,10 @@ msgid ""
 "hunter.\n"
 "Also that this Greatland hides terrible danger."
 msgstr ""
+"Rešan mi radil se moc nepotýkat s lidmi, dokud o nich nebude více známo.\n"
+"Mnoho ze Vzpomínek plachtících hovoří o dobách, kdy se z podceňované kořisti "
+"stal lovec.\n"
+"A také že tato Velká země skrývá strašlivé nebezpečí."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:269
