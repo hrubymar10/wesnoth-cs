@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-11-19 23:31-0600\n"
-"PO-Revision-Date: 2022-11-19 08:02+0100\n"
+"PO-Revision-Date: 2022-12-01 20:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -895,12 +895,12 @@ msgstr "Neprůchodná strž"
 #. [terrain_type]: id=high_border_woods
 #: data/core/terrain.cfg:1240
 msgid "Wooded Bluffs"
-msgstr ""
+msgstr "Lesnaté srázy"
 
 #. [terrain_type]: id=high_canyon_woods
 #: data/core/terrain.cfg:1249
 msgid "Wooded Gulch"
-msgstr ""
+msgstr "Lesnatá roklina"
 
 #. [terrain_type]: id=canyon
 #. [terrain_type]: id=chasm_earthy
@@ -3718,10 +3718,8 @@ msgstr "Protokoly:"
 
 #. [grid]
 #: data/gui/window/game_version.cfg:141
-#, fuzzy
-#| msgid "Screenshot"
 msgid "Screenshots:"
-msgstr "Snímek obrazovky"
+msgstr "Snímky obrazovky:"
 
 #. [button]: id=open_stderr
 #: data/gui/window/game_version.cfg:166
@@ -3886,15 +3884,13 @@ msgstr "Načítám..."
 
 #. [widget]: id=tab_label
 #: data/gui/window/lobby_main.cfg:75
-#, fuzzy
-#| msgid "General"
 msgid "General Lobby"
-msgstr "Obecné"
+msgstr "Obecná čekárna"
 
 #. [widget]: id=tab_label
 #: data/gui/window/lobby_main.cfg:86
 msgid "Matchmaking"
-msgstr ""
+msgstr "Dohazování"
 
 #. [label]: id=map
 #: data/gui/window/lobby_main.cfg:138
