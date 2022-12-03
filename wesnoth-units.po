@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-11-20 05:31 UTC\n"
-"PO-Revision-Date: 2022-11-22 19:18+0100\n"
+"PO-Revision-Date: 2022-12-03 07:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6312,10 +6312,8 @@ msgstr ""
 
 #. [male]
 #: data/core/units/monsters/Horse_Dark.cfg:88
-#, fuzzy
-#| msgid "female^Dark Horse"
 msgid "male^Dark Horse"
-msgstr "Šedohřivka"
+msgstr "Šedohřívák"
 
 #. [female]
 #: data/core/units/monsters/Horse_Dark.cfg:92
@@ -7583,10 +7581,8 @@ msgstr ""
 
 #. [unit_type]: id=Saurian Javelineer, race=lizard
 #: data/core/units/saurians/Javelineer.cfg:4
-#, fuzzy
-#| msgid "female^Saurian Flanker"
 msgid "female^Saurian Javelineer"
-msgstr "Ještěrácká ochránkyně"
+msgstr "Ještěrácká oštěpařka"
 
 #. [unit_type]: id=Saurian Javelineer, race=lizard
 #: data/core/units/saurians/Javelineer.cfg:19
@@ -7596,6 +7592,9 @@ msgid ""
 "javelineers. With better equipment and exceptional aim, saurian javelineers "
 "are not to be underestimated."
 msgstr ""
+"Po letech cvičení v boji mohou ještěráčské válečnice, které jsou "
+"nejzdatnější v umění vrhu kopím, povýšit do hodnosti oštěpařek. Díky lepšímu "
+"vybavení a výjimečné mušce není radno ještěráčské oštěpařky podceňovat."
 
 # bylo vrhač ledu - nesedí s popisem
 #. [unit_type]: id=Saurian Oracle, race=lizard
@@ -7665,10 +7664,8 @@ msgstr ""
 
 #. [unit_type]: id=Saurian Spearthrower, race=lizard
 #: data/core/units/saurians/Spearthrower.cfg:4
-#, fuzzy
-#| msgid "female^Saurian Skirmisher"
 msgid "female^Saurian Spearthrower"
-msgstr "Ještěrácká rváčka"
+msgstr "Ještěrácká vrhačka kopí"
 
 #. [unit_type]: id=Saurian Spearthrower, race=lizard
 #: data/core/units/saurians/Spearthrower.cfg:18
@@ -7677,6 +7674,10 @@ msgid ""
 "the backlines rather than to infiltrate enemy formations. Their deadly spear "
 "throwing skills allow them to support other saurian warriors from afar."
 msgstr ""
+"Někteří ještěráci se zvlášť dobrou muškou raději pomáhají svým spojencům ze "
+"zadních linií, než aby pronikali do nepřátelských formací. Jejich smrtící "
+"dovednosti v hodu kopím jim umožňují podporovat ostatní ještěrácké válečníky "
+"z dálky."
 
 #. [unit_type]: id=Great Troll, race=troll
 #: data/core/units/trolls/Great.cfg:4
