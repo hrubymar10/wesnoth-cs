@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-11-19 23:31-0600\n"
-"PO-Revision-Date: 2022-11-23 20:53+0100\n"
+"PO-Revision-Date: 2022-12-07 07:21+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4487,7 +4487,7 @@ msgstr "Výchozí motiv"
 #. [menu]: id=menu-autosaves
 #: data/themes/default.cfg:101
 msgid "Load Turn..."
-msgstr "Načti kolo..."
+msgstr "Načíst kolo..."
 
 #. [menu]: id=actions-menu
 #: data/themes/default.cfg:109
@@ -8431,7 +8431,7 @@ msgstr ""
 
 #: src/savegame.cpp:274 src/savegame.cpp:320
 msgid "Load Game"
-msgstr "Načti hru"
+msgstr "Načíst hru"
 
 #: src/savegame.cpp:320
 msgid "Replays are not supported in multiplayer mode."
