@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-11-20 05:31 UTC\n"
-"PO-Revision-Date: 2022-12-03 07:47+0100\n"
+"PO-Revision-Date: 2022-12-08 19:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6308,7 +6308,7 @@ msgid ""
 msgstr ""
 "Šedohříváci jsou divoká zvířata. Nicméně se zdá, že je zvláště zajímají "
 "civilizované rasy. Nezanechávají po sobě stopy své přítomnosti, ale bylo "
-"pozorováno, jak během nocí pozorují tábory a základny různých ras."
+"pozorováno, jak během nocí prozkoumávají tábory a základny různých ras."
 
 #. [male]
 #: data/core/units/monsters/Horse_Dark.cfg:88
