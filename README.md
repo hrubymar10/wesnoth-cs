@@ -8,13 +8,15 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-wof | 827 | 69% | 252 | Septim
+wesnoth-multiplayer | 301 | 99% | 2 | Michal
+wesnoth-units | 764 | 99% | 6 | Michal
+wesnoth-wof | 823 | 74% | 213 | Septim
 
-Total messages remaining: **252**
+Total messages remaining: **221**
 
 Progress since 2022-04-30: **2** messages per day
 
-ETA: **2023-04-09**
+ETA: **2023-04-07**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
