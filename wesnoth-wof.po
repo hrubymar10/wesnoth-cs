@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-12-18 01:10 UTC\n"
-"PO-Revision-Date: 2022-12-17 21:46+0100\n"
+"PO-Revision-Date: 2022-12-19 07:57+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6889,24 +6889,6 @@ msgstr "Tento safír umožnuje svému nositeli útočit na dálku chladem!"
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:83
 msgid "sapphire of ice"
 msgstr "ledový safír"
-
-#~ msgid "Kraken"
-#~ msgstr "Kraken"
-
-#~ msgid ""
-#~ "Krakens are gigantic creatures of the seas. They can grab their opponents "
-#~ "with strong tentacles, or spit a poisonous black ink from a distance. The "
-#~ "best way to survive an encounter with these monsters is to remain ashore."
-#~ msgstr ""
-#~ "Krakeni jsou obrovská mořská stvoření. Dokáží uchopit své protivníky "
-#~ "silnými chapadly nebo z dálky plivat jedovatý inkoust. Nejlepší způsob "
-#~ "jak přežít setkání s těmito obludami je zůstat na břehu."
-
-#~ msgid "tentacle"
-#~ msgstr "chapadlo"
-
-#~ msgid "ink"
-#~ msgstr "inkoust"
 
 #~ msgid "For healing, seek the cleansing waters of the Oases."
 #~ msgstr "Pro léčení vyhledej očistné vody oáz."

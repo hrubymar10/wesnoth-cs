@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-12-18 01:09 UTC\n"
-"PO-Revision-Date: 2022-12-08 19:43+0100\n"
+"PO-Revision-Date: 2022-12-19 08:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6464,22 +6464,16 @@ msgstr "pouštní blesk"
 #. [unit_type]: id=Kraken, race=monster
 #: data/core/units/monsters/Kraken.cfg:5
 msgid "Kraken"
-msgstr ""
+msgstr "Kraken"
 
 #. [unit_type]: id=Kraken, race=monster
 #: data/core/units/monsters/Kraken.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Cuttlefish are gigantic creatures of the seas. They can grab their "
-#| "opponents with strong tentacles, or spit a poisonous black ink from a "
-#| "distance. The best way to survive an encounter with these monsters is to "
-#| "remain ashore."
 msgid ""
 "Krakens are gigantic creatures of the seas. They can grab their opponents "
 "with strong tentacles, or spit a poisonous black ink from a distance. The "
 "best way to survive an encounter with these monsters is to remain ashore."
 msgstr ""
-"Sépie jsou obrovská mořská stvoření. Dokáží uchopit své protivníky silnými "
+"Krakeni jsou obrovská mořská stvoření. Dokáží uchopit své protivníky silnými "
 "chapadly nebo z dálky plivat jedovatý inkoust. Nejlepší způsob jak přežít "
 "setkání s těmito obludami je zůstat na břehu."
 
