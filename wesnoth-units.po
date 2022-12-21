@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-12-18 01:09 UTC\n"
-"PO-Revision-Date: 2022-12-19 08:03+0100\n"
+"PO-Revision-Date: 2022-12-21 08:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5922,10 +5922,8 @@ msgstr "inkoust"
 
 #. [unit_type]: id=Dragonfly, race=monster
 #: data/core/units/monsters/Dragonfly.cfg:5
-#, fuzzy
-#| msgid "Dragoon"
 msgid "Dragonfly"
-msgstr "Dragoun"
+msgstr "Vážka"
 
 #. [unit_type]: id=Dragonfly, race=monster
 #: data/core/units/monsters/Dragonfly.cfg:27
@@ -5936,11 +5934,16 @@ msgid ""
 "are generally territorial, but can cooperate in small groups to confront "
 "common foes or large prey."
 msgstr ""
+"Obří vážky pozorované v některých močálech, řekách a jezerech v okolí "
+"Wesnothu mají delší životní cyklus než menší, běžnější druhy. Dospělec může "
+"žít neomezeně dlouho a pomalu roste do konečné podoby. Obvykle žijí "
+"teritoriálně, ale mohou spolupracovat v malých skupinách, aby čelily "
+"společným nepřátelům nebo velké kořisti."
 
 #. [unit_type]: id=Dragonfly Naiad, race=monster
 #: data/core/units/monsters/Dragonfly_Naiad.cfg:5
 msgid "Dragonfly Naiad"
-msgstr ""
+msgstr "Najáda vážky"
 
 #. [unit_type]: id=Dragonfly Naiad, race=monster
 #: data/core/units/monsters/Dragonfly_Naiad.cfg:58
@@ -5950,6 +5953,10 @@ msgid ""
 "stay submerged to breath, which explains why the giant dragonflies are "
 "usually found only near rivers, lakes, and coves."
 msgstr ""
+"Mladé vážky jsou vodní tvorové, většinou loví malé ryby nebo nymfy jiného "
+"hmyzu. Dokážou přelézt kameny a bahno, ale musí zůstávat pod vodou, aby "
+"dýchaly, což vysvětluje, proč se velké vážky obvykle vyskytují pouze poblíž "
+"řek, jezer a zátok."
 
 #. [unit_type]: id=Elder Falcon, race=falcon
 #: data/core/units/monsters/Elder_Falcon.cfg:4
