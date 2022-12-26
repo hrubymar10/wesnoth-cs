@@ -6860,8 +6860,8 @@ msgid ""
 "“<b>$hotkey_sequence|</b>” is in use by “<b>$old_hotkey_action|</b>”.\n"
 "Do you wish to reassign it to “<b>$new_hotkey_action|</b>”?"
 msgstr ""
-"\"<b>$hotkey_sequence|</b>\" je používán při \"<b>$old_hotkey_action|</b>"
-"\".\n"
+"\"<b>$hotkey_sequence|</b>\" je používán při \"<b>$old_hotkey_action|</"
+"b>\".\n"
 "Přejete si ji přiřadit k \"<b>$new_hotkey_action|</b>\"?"
 
 #: src/gui/dialogs/preferences_dialog.cpp:849
