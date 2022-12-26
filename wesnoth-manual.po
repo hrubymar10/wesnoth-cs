@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-22 22:21-0400\n"
-"PO-Revision-Date: 2022-11-17 19:33+0100\n"
+"PO-Revision-Date: 2022-12-26 09:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -54,7 +54,7 @@ msgid ""
 "different terrains against all manner of opposition."
 msgstr ""
 "Vybuduj skvělou armádu tím, že postupně vytrénuješ zelenáče na ostřílené "
-"veterány. V pozdějších hrách si přivoláš ty nejlepší z nich a vytvoříš "
+"veterány. V pozdějších hrách si povoláš ty nejlepší z nich a vytvoříš "
 "smrtící vojsko, proti kterému nikdo neobstojí! Vybírej jednotky z mnoha "
 "specialistů a nakombinuj svou armádu tak, aby měla ty správné předpoklady "
 "pro boj v různých terénech a proti všemožným nepřátelům."
@@ -920,7 +920,7 @@ msgstr "Tlačítko Ukončit kolo"
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:497
 msgid "Recruit and Recall"
-msgstr "Verbování a přivolávání"
+msgstr "Verbování a povolávání"
 
 #. type: Content of: <book><chapter><section><section><simpara>
 #: doc/manual/manual.en.xml:498
@@ -940,7 +940,7 @@ msgstr ""
 "políčku zvaném tvrz. Kdykoliv je tvůj velitel na tvrzi (a to nejen na tvé, "
 "ale také na tvrzi kteréhokoli nepřátelského hradu, co zajmeš) a je k "
 "dispozici dostatek zlata, můžeš verbovat do armády jednotky. V dalších "
-"scénářích tažení můžeš přivolávat zkušené jednotky, které přežily ze scénářů "
+"scénářích tažení můžeš povolávat zkušené jednotky, které přežily ze scénářů "
 "dřívějších. Ve tvrzi tedy začínáš stavět armádu pro pokoření nepřítele."
 
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -974,8 +974,8 @@ msgid ""
 "than recruits and usually a better choice."
 msgstr ""
 "Na konci každého vyhraného scénáře se všechny tvé zbývající jednotky "
-"automaticky uloží. Na začátku dalšího scénáře je můžeš přivolat podobně jako "
-"při verbování. Přivolané jednotky jsou často zkušenější než noví rekruti a "
+"automaticky uloží. Na začátku dalšího scénáře je můžeš povolat podobně jako "
+"při verbování. Povolané jednotky jsou často zkušenější než noví rekruti a "
 "obvykle tak představují lepší volbu."
 
 #. type: Content of: <book><chapter><section><section><title>
@@ -1011,8 +1011,8 @@ msgid ""
 msgstr ""
 "Jak tvé jednotky získávají bojové zkušenosti, učí se více dovedností a "
 "stávají se silnějšími. Také mohou padnout v bitvě a v tom případě budeš "
-"muset verbovat a přivolávat další. Vybírej ale moudře, protože každá "
-"jednotka má silné i slabé stránky, které mazaný protivník rychle využije."
+"muset verbovat a povolávat další. Vybírej ale moudře, protože každá jednotka "
+"má silné i slabé stránky, které mazaný protivník rychle využije."
 
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:534
@@ -1141,7 +1141,7 @@ msgstr ""
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:589
 msgid "Recruiting and Recalling"
-msgstr "Verbování a přivolávání"
+msgstr "Verbování a povolávání"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: doc/manual/manual.en.xml:591
@@ -1165,10 +1165,9 @@ msgid ""
 "recruited or recalled when the leader is on a keep whose castle has at least "
 "one vacant castle hex."
 msgstr ""
-"Hlavní využití zlata je budování armády verbováním jednotek nebo "
-"přivoláváním jednotek z předchozích scénářů tažení. Přivolávat a verbovat je "
-"možné, pouze pokud stojí vůdce na tvrzi, jejíž hrad má alespoň jedno volné "
-"políčko."
+"Hlavní využití zlata je budování armády verbováním jednotek nebo povoláváním "
+"jednotek z předchozích scénářů tažení. Povolávat a verbovat je možné, pouze "
+"pokud stojí vůdce na tvrzi, jejíž hrad má alespoň jedno volné políčko."
 
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #: doc/manual/manual.en.xml:603
@@ -1188,9 +1187,9 @@ msgid ""
 "previous scenarios. Recalling costs 20 pieces of gold per unit. See <link "
 "linkend=\"unit_recall\">recalling units</link> for more information."
 msgstr ""
-"Klikni pravým tlačítkem na volné pole hradu a vyber „Povolat“ pro přivolání "
-"jednotky z předchozího scénáře. Přivolání stojí 20 zlatých za jednotku bez "
-"rozdílu. Podívej se na oddíl <link linkend=\"unit_recall\">přivolávání "
+"Klikni pravým tlačítkem na volné pole hradu a vyber „Povolat“ pro povolání "
+"jednotky z předchozího scénáře. Povolání stojí 20 zlatých za jednotku bez "
+"rozdílu. Podívej se na oddíl <link linkend=\"unit_recall\">povolávání "
 "jednotek</link> pro další informace."
 
 #. type: Content of: <book><chapter><section><section><title>
@@ -1211,7 +1210,7 @@ msgid ""
 msgstr ""
 "Každá jednotka vyžaduje žold. Tato částka je obecně rovna úrovni jednotky; "
 "výjimku představuje případ, kdy má jednotka vlastnost „věrný“ (<link "
-"linkend=\"traits\">viz níže</link>). Jednotky, které nejsou přivolány nebo "
+"linkend=\"traits\">viz níže</link>). Jednotky, které nejsou povolány nebo "
 "naverbovány – tedy např. vůdce nebo ty, které se přidají dobrovolně – jsou "
 "obvykle věrné. Žold platíte pouze pokud je celkově vyšší než počet Vámi "
 "ovládaných vesnic. (Totéž platí pro všechny strany.) Částka v tom případě "
@@ -1633,7 +1632,7 @@ msgstr ""
 "již nedochází k významnému postupu – AMLA (After Maximum Level Advancement, "
 "postup po dosažení nejvyšší úrovně) nepřináší nijak významné výhody ve "
 "srovnání se zvýšením úrovně. Pokud již máš mnoho jednotek na jejich "
-"<emphasis>maximální úrovni</emphasis>, budeš možná chtít přivolávat jednotky "
+"<emphasis>maximální úrovni</emphasis>, budeš možná chtít povolávat jednotky "
 "s příhodnějšími vlastnostmi než „inteligentní“."
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -1847,7 +1846,7 @@ msgstr ""
 "kola žold úměrný jejich úrovni, ale věrné nikoliv. Během tažení se mohou "
 "objevit jednotky, které bojují za hráče ze své vlastní vůle. Tyto jednotky "
 "jsou označeny jako věrné. I když mohou vyžadovat počáteční investici při "
-"svém přivolání, náklady na jejich zaopatření jsou nulové. Tím se stávají "
+"svém povolání, náklady na jejich zaopatření jsou nulové. Tím se stávají "
 "nedocenitelné během dlouhých tažení, kdy je zlata pomálu. Naverbované "
 "jednotky tuto vlastnost nikdy nezískávají, proto je nemoudré zbavovat se "
 "věrných jednotek tím, že je propustíš, nebo je pošleš na pošetilou smrt."
@@ -2426,7 +2425,7 @@ msgstr "48"
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:1553
 msgid "Recalling units"
-msgstr "Přivolávání jednotek"
+msgstr "Povolávání jednotek"
 
 #. type: Content of: <book><chapter><section><section><simpara>
 #: doc/manual/manual.en.xml:1554
@@ -2437,11 +2436,11 @@ msgid ""
 "previous Level, Experience Points, (sometimes) any magic items acquired, and "
 "will arrive with full hitpoints."
 msgstr ""
-"Po zakončení scénáře budou všechny přeživší jednotky k dispozici k přivolání "
-"v následujícím scénáři. Čerstvě naverbovaná nebo přivolaná jednotka se "
-"nemůže v tom kole pohnout. Přivolaná jednotka si uchovává všechny statistiky "
-"kromě životů, které bude mít plné. Zachovány také většinou zůstanou "
-"předměty, které sebrala."
+"Po zakončení scénáře budou všechny přeživší jednotky k dispozici k povolání "
+"v následujícím scénáři. Čerstvě naverbovaná nebo povolaná jednotka se nemůže "
+"v tom kole pohnout. Povolaná jednotka si uchovává všechny statistiky kromě "
+"životů, které bude mít plné. Zachovány také většinou zůstanou předměty, "
+"které sebrala."
 
 #. type: Content of: <book><chapter><section><title>
 #: doc/manual/manual.en.xml:1562
