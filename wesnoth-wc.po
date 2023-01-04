@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-01-02 20:49+0100\n"
+"PO-Revision-Date: 2023-01-04 17:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -177,10 +177,8 @@ msgstr "Nastavení"
 
 #. [label]
 #: data/campaigns/World_Conquest/gui/help_dialog.cfg:592
-#, fuzzy
-#| msgid "World Conquest"
 msgid "Use World Conquest PYA mod"
-msgstr "Dobytí světa"
+msgstr "Použít modifikaci PYA z Dobytí světa"
 
 #. [label]
 #: data/campaigns/World_Conquest/gui/help_dialog.cfg:612
