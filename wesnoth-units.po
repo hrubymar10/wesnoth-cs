@@ -3,7 +3,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
 # Tereza Žejdlová, 2020.
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020 - 2022.
 #
@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-15 00:20 UTC\n"
-"PO-Revision-Date: 2022-12-21 08:35+0100\n"
+"PO-Revision-Date: 2023-01-20 18:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6005,13 +6005,6 @@ msgstr "Vážka"
 
 #. [unit_type]: id=Dragonfly, race=monster
 #: data/core/units/monsters/Dragonfly.cfg:27
-#, fuzzy
-#| msgid ""
-#| "The giant dragonflies seen in some of the swamps, rivers, and lakes "
-#| "around Wesnoth enjoy a longer life cycle than the smaller, more common "
-#| "types.  The adult form can live indefiniately, slowly growing to a final "
-#| "moult.  They are generally territorial, but can cooperate in small groups "
-#| "to confront common foes or large prey."
 msgid ""
 "The giant dragonflies seen in some of the swamps, rivers, and lakes around "
 "Wesnoth enjoy a longer life cycle than the smaller, more common types. The "
@@ -6027,15 +6020,15 @@ msgstr ""
 
 #. [unit_type]: id=Grand Dragonfly, race=monster
 #: data/core/units/monsters/Dragonfly_Grand.cfg:5
-#, fuzzy
-#| msgid "Dragonfly"
 msgid "Grand Dragonfly"
-msgstr "Vážka"
+msgstr "Velká vážka"
 
 #. [unit_type]: id=Grand Dragonfly, race=monster
 #: data/core/units/monsters/Dragonfly_Grand.cfg:28
 msgid "Dragonflies that survive long enough grow into a final, grander form."
 msgstr ""
+"Vážky, které přežijí dostatečně dlouho, dorostou do konečné, velkolepější "
+"podoby."
 
 #. [attack]: type=pierce
 #: data/core/units/monsters/Dragonfly_Grand.cfg:43
@@ -6051,12 +6044,6 @@ msgstr "Najáda vážky"
 
 #. [unit_type]: id=Dragonfly Naiad, race=monster
 #: data/core/units/monsters/Dragonfly_Naiad.cfg:58
-#, fuzzy
-#| msgid ""
-#| "Young dragonflies live an aquatic life, mostly preying upon small fish or "
-#| "other insect nymphs.  They can crawl over rocks and mud, but they need to "
-#| "stay submerged to breath, which explains why the giant dragonflies are "
-#| "usually found only near rivers, lakes, and coves."
 msgid ""
 "Young dragonflies live an aquatic life, mostly preying upon small fish or "
 "other insect nymphs. They can crawl over rocks and mud, but they need to "
