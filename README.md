@@ -6,7 +6,7 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 ## To Do
 
-As of 2023-01-04 the translation is complete.
+As of 2023-01-23 the translation is complete.
 
 There are still bugs in Czech translation.
 
