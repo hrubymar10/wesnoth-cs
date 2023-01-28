@@ -3,14 +3,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-14 18:20-0600\n"
-"PO-Revision-Date: 2022-11-17 19:33+0100\n"
+"PO-Revision-Date: 2023-01-28 07:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -714,27 +714,19 @@ msgstr ""
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:170
-#, fuzzy
-#| msgid "Editor Terrain-Overlay Graphics"
 msgid "Terrain Elevation Graphics"
-msgstr "Překryvné obrázky pro terén v editoru"
+msgstr "Grafika pro vyvýšený terén"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:171
-#, fuzzy
-#| msgid ""
-#| "editor^Maps generally look similar in the editor to their appearance in "
-#| "the game. There are a few exceptions, where different graphics are used "
-#| "in the editor; all the overlays described here are found in the terrain "
-#| "palette’s “special” group."
 msgid ""
 "A cosmetic elevation effect that looks a little different in the editor than "
 "in the game due to visual aids in the editor; all the overlays described "
 "here are found in the terrain palette’s “elevation” group."
 msgstr ""
-"Mapy obvykle vypadají v editoru podobně jako ve hře. Je několik výjimek, "
-"u kterých jsou v editoru použity jiné obrázky. Všechny zde popsané překryvy "
-"se nacházejí v paletě terénů ve skupině „zvláštnosti“."
+"Kosmetický účinek vyvýšení, který v editoru vypadá poněkud jinak než ve hře "
+"díky názorným pomůckám v editoru. Všechny zde popsané překryvy se nacházejí "
+"v paletě terénů pod skupinou „vyvýšení“."
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:174
