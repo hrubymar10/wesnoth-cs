@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-14 18:20-0600\n"
-"PO-Revision-Date: 2023-01-28 07:57+0100\n"
+"PO-Revision-Date: 2023-01-29 09:38+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -730,16 +730,8 @@ msgstr ""
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:174
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "<bold>text='Advanced'</bold>"
 msgid "editor^<bold>text='Direct Overlays'</bold>"
-msgstr ""
-"\n"
-"\n"
-"<bold>text='Pokročilé'</bold>"
+msgstr "<bold>text='Přímé překryvy'</bold>"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:176
@@ -751,6 +743,12 @@ msgid ""
 "map, where you will want to allow the use of other overlay terrains, you "
 "will want to combine these with the “markers” described in the next section."
 msgstr ""
+"Srázy a rokliny\n"
+"\n"
+"Srázy, rokliny a jejich obměny se podobají standardním překryvům terénu "
+"a tímto způsobem je lze jednoduše použít. Nicméně pro větší oblasti mapy, "
+"kde budeš chtít umožnit použití jiných překryvů terénu, bude třeba tyto jiné "
+"překryvy spojovat se „značkami“ popsanými v následujícím oddílu."
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:181
