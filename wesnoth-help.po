@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-14 18:20-0600\n"
-"PO-Revision-Date: 2023-01-29 09:38+0100\n"
+"PO-Revision-Date: 2023-01-30 20:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -752,21 +752,13 @@ msgstr ""
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:181
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "<bold>text='Advanced'</bold>"
 msgid "editor^<bold>text='Elevation Floodfill'</bold>"
-msgstr ""
-"\n"
-"\n"
-"<bold>text='Pokročilé'</bold>"
+msgstr "<bold>text='Vyplňování vyvýšením'</bold>"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:183
 msgid "Raised elevation on-map marker"
-msgstr ""
+msgstr "Značka zvýšení na mapě"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:184
@@ -785,6 +777,18 @@ msgid ""
 "Placing a high region next to a low region does not result in larger "
 "cliffs.\n"
 msgstr ""
+"Ikona zvýšení v paletě editoru\n"
+"\n"
+"Chceš-li zvýšit nebo snížit plochu terénu a zároveň mít možnost použít jiné "
+"překryvy terénu, jako třeba stromy, budeš muset použít tyto značky. "
+"Umístěním jedné z těchto šipek do mapy dojde k vyplnění mapy barevně "
+"odlišeným zamlžením. Zamlžení ani šipka nebudou ve hře vidět. Zamlžená "
+"oblast bude mít na okraji hranu, takže bude vypadat vyšší nebo nižší než "
+"sousední políčka.\n"
+"\n"
+"Existují dvě značky zvýšení a dvě snížení, takže je možné vytvořit terasy až "
+"do pěti úrovní (nejnižší, nižší, normální, vyšší, nejvyšší). Umístění "
+"zvýšené oblasti vedle snížené nevede ke vzniku větších srázů.\n"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:191
