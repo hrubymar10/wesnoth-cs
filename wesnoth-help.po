@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-14 18:20-0600\n"
-"PO-Revision-Date: 2023-02-03 19:07+0100\n"
+"PO-Revision-Date: 2023-02-04 19:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6118,6 +6118,8 @@ msgid ""
 "Special Notes (1.14-style, please update to the new list format to avoid "
 "duplicates):"
 msgstr ""
+"Zvláštní rysy (ve stylu verze 1.14, aktualizuj prosím na nový formát "
+"seznamu, aby ses vyhnul duplicitám):"
 
 #. [trait]: id=loyal
 #: data/core/macros/traits.cfg:12
