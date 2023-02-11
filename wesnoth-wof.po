@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-12-18 01:10 UTC\n"
-"PO-Revision-Date: 2022-12-19 07:57+0100\n"
+"PO-Revision-Date: 2023-02-11 19:16+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4957,6 +4957,10 @@ msgid ""
 "We must not forsake it.\n"
 "Too much depends on it."
 msgstr ""
+"Náš úlovek je příliš těžký na to, aby se dal přenést tuctem cest.\n"
+"\n"
+"Nesmíme ho opustit.\n"
+"Závisí na něm příliš mnoho."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:352
@@ -5937,7 +5941,7 @@ msgstr ""
 #. "You're not easy to haggle with, dragon."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:662
 msgid "Yer nae easy tae haggle with, dragon."
-msgstr ""
+msgstr "Není lehké s tebou smlouvat, draku."
 
 #. [message]: speaker=Thurdakor
 #. "So be it, a deal we have. I will even release my little prize dragon captive for you."
@@ -5945,12 +5949,12 @@ msgstr ""
 msgid ""
 "Sae be it, a deal we hae. Ah wull even release mah wee prize dragon captive "
 "fur ye."
-msgstr ""
+msgstr "Budiž, máme dohodu. Dokonce ti propustím své malé dračí rukojmí."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:762
 msgid "Gorlack, it seems no cave can keep us!"
-msgstr ""
+msgstr "Gorlaku, vypadá to, že žádná jeskyně nás nemůže odloučit!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:768
@@ -5959,7 +5963,7 @@ msgid ""
 "\n"
 "Reshan!"
 msgstr ""
-"Rešane...\n"
+"To je Rešan...\n"
 "\n"
 "Rešane!"
 
@@ -5967,7 +5971,7 @@ msgstr ""
 #. "Well, that is it for me, back down the chute." He is going back down to his underground realm.
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:775
 msgid "Well, that is it fur me, back doon th’ shute."
-msgstr ""
+msgstr "No, to je za mě vše, všichni zpátky dolů."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:795
@@ -6469,11 +6473,19 @@ msgid ""
 "\n"
 "This will be a war with prey."
 msgstr ""
+"Snažil jsem se zabránit válce mezi letkami.\n"
+"Dosáhl jsem ale jen toho, že vedu válku neznámého druhu.\n"
+"\n"
+"Hladové letky, které přilétají ve velkých počtech, budou vyžadovat mnohem "
+"větší loviště, než je to mé.\n"
+"Tohle ale nebude lov...\n"
+"\n"
+"Tohle bude válka s kořistí."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:824
 msgid "Prey can no more make war on us than could the clouds."
-msgstr ""
+msgstr "Kořist nám nemůže být větším protivníkem než mraky."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:830
@@ -6485,6 +6497,13 @@ msgid ""
 "Only through defeat may some learn the creatures they hunt are much more "
 "than prey."
 msgstr ""
+"Již je, jak jsme mohli sami přesvědčit.\n"
+"\n"
+"Polovina přilétajících letek bude možná rozptýlena hluboko do nitra Velké "
+"země.\n"
+"Kde je potkají neznámé osudy, jako tomu bylo u Vladnirovy letky.\n"
+"Pouze porážka může některé naučit, že tvorové, co loví, jsou mnohem víc než "
+"kořist."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:840
@@ -6495,6 +6514,10 @@ msgid ""
 "They are our equals until we <b>prove</b> ourselves their betters.\n"
 "In this Great Contention."
 msgstr ""
+"Vskutku, tato stvoření jsou spolubojovníky o nadvládu nad samotným světem.\n"
+"S touto zemí jako společnou arénou.\n"
+"Jsou nám rovnocenní, dokud <b>neprokážeme</b>, že jsme jim rovnější.\n"
+"V tomto Velkém zápase."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:849
@@ -6506,17 +6529,24 @@ msgid ""
 "Our every move must be part of a grander design for victory.\n"
 "In this Great Contention that will take a thousand years."
 msgstr ""
+"Budeme potřebovat spojence z řad ušlechtilých tvorů této země.\n"
+"Takové, jako jsou naši křehcí ještěráci.\n"
+"Jako jsou obyvatelé hlubin, s nimiž teď máme uzavřenou smlouvu.\n"
+"\n"
+"Každý náš krok musí být součástí velkolepějšího vítězného tažení.\n"
+"V tomto Velkém zápase, který potrvá tisíc let."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:860
 msgid ""
 "By this Windpath alone shall we reascend to dominate the world once again."
-msgstr ""
+msgstr "Jen díky takové Větrné stezce znovu ovládneme svět."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:864
 msgid "Gorlack, I do not feel this... Windpath beneath my wings..."
 msgstr ""
+"Gorlaku, já to tak necítím... Necítím větrnou stezku pod svými křídly..."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:870
@@ -6528,6 +6558,12 @@ msgid ""
 "Seek out new lands with the wisdom learned from mistakes made here.\n"
 "Let your gliders’ Spoken Memories guide the way."
 msgstr ""
+"Protože jsi stále příliš nebojácný, příteli.\n"
+"Proto tě vyháním na západ, pryč od této krize.\n"
+"\n"
+"Leť na západ, dokonce až za Morogor.\n"
+"Hledej nové země s moudrostí získanou z chyb, co jsme zde udělali.\n"
+"Nech se vést vyprávěnými Vzpomínkami svých plachtících druhů."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:879
@@ -6536,6 +6572,9 @@ msgid ""
 "\n"
 "We may together take on this adventure as it always should have been."
 msgstr ""
+"Gorlacu, ať obě naše letky směřují na západ.\n"
+"\n"
+"Můžeme společně podniknout toto dobrodružství, jak tomu mělo být vždycky."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:887
@@ -6547,6 +6586,12 @@ msgid ""
 "When defeat drives our folk to seek a new Windpath, I must be here to "
 "provide it."
 msgstr ""
+"Je mi to líto, Karrone.\n"
+"Naše větrné stezky se nikdy neprotnou, jak jsi doufal.\n"
+"\n"
+"Předtím jsi mluvil správně o tom, že musím dokončit, co jsem začal.\n"
+"Až porážka přiměje náš druh hledat novou Větrnou stezku, musím tu být, abych "
+"ji zajistil."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:895
@@ -6555,7 +6600,7 @@ msgid ""
 "\n"
 "May your fire light the way in darkness."
 msgstr ""
-"Takový je osud...\n"
+"Tak takový je osud...\n"
 "\n"
 "Kéž ti tvůj oheň osvětlí cestu v temnotách."
 
@@ -6591,6 +6636,11 @@ msgid ""
 "scattered far across the Greatland as more poured over from Morogor to "
 "supplant them."
 msgstr ""
+"Z Morogoru se přihrnulo nespočet drakonidů, aby svou potřebou sežehli Velkou "
+"zemi. Tvorové, kteří přežili jejich lovecké nájezdy, zformovali velké "
+"zástupy disponující smrtící lstivostí. Brzy padly celé letky za obět své "
+"kořisti. Ostatní se rozlétly široko daleko po Velké zemi, zatímco se z "
+"Morogoru hrnuly další, aby je nahradily."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:18
@@ -6863,7 +6913,7 @@ msgstr "Rešane!"
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/deaths.cfg:42
 msgid "Arinexisss... Your time hass come too sssoon!"
-msgstr ""
+msgstr "Arinexxo... Tvůj čass sse naplnil přřílišš brzzzo!"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/deaths.cfg:57
@@ -6873,7 +6923,7 @@ msgstr "Zzklamal jssem tě, můj draku..."
 #. [floating_text]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:70
 msgid "+{AMOUNT} experience"
-msgstr ""
+msgstr "+{AMOUNT} zkušeností"
 
 #. [object]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:77
