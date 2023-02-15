@@ -2,7 +2,7 @@
 # Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006, 2007.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
 # Tereza Žejdlová, 2020.
 #
 msgid ""
@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-15 00:20 UTC\n"
-"PO-Revision-Date: 2022-12-22 06:31+0100\n"
+"PO-Revision-Date: 2023-02-15 18:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16196,10 +16196,10 @@ msgid ""
 "won’t lose all your progress if you get stuck and have to start over."
 msgstr ""
 "Poznámka: Toto tažení pravděpodobně není pro začátečníky nejlepší volbou. "
-"Modifikuje některé standardy Wesnothu, zejména vlastnosti elfů a denní "
-"cyklus. Zároveň klade důraz na RPG prvky a má delší scénáře s často se "
-"měnícími cíli. Z těchto důvodů je vhodné občas ukládat hru i uprostřed "
-"scénáře, abyste při „zákysu“ nemuseli začínat znovu."
+"Modifikuje některé standardy Wesnothu, zejména vlastnosti elfů a denní "
+"cyklus. Zároveň klade důraz na RPG prvky a má delší scénáře s často se "
+"měnícími cíli. Z těchto důvodů je vhodné občas ukládat hru i uprostřed "
+"scénáře, abys při „zákysu“ nemusel začínat znovu."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:9
