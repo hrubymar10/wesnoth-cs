@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-02-15 19:48+0100\n"
+"PO-Revision-Date: 2023-02-19 09:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -372,7 +372,7 @@ msgid ""
 "But come on, we can’t dwell on the dead, we must help the living."
 msgstr ""
 "Pak musíme shromáždit přeživší, které najdeme mezi troskami. Zatím se nezdá, "
-"že by někdo přežil, alespoň ale můžeme děkovat Eloh že to byla rychlá smrt. "
+"že by někdo přežil, alespoň ale můžeme děkovat Eloh, že to byla rychlá smrt. "
 "Ale pojďme, nemůžeme stát nad mrtvými, musíme pomoci živým."
 
 #. [message]: speaker=Kaleh
@@ -736,10 +736,10 @@ msgid ""
 "Puny elves, I shall use the corpses of your families to create an army of "
 "undead! All shall bow down before Xanthos the Necromancer!"
 msgstr ""
-"Toto místo vydává pach smrti, cítil jsem to na míle daleko. Ach, jak jak jej "
-"mám rád, je to pach síly, nevyhnutelného triumfu smrti nad životem. Mizerní "
-"elfové, použiji těla vašich rodin k vytvoření armády nemrtvých! Všechno se "
-"bude třást před Xanthosem Nekomancerem!"
+"Toto místo vydává pach smrti, cítil jsem to na míle daleko. Ach, jak jej mám "
+"rád, je to pach síly, nevyhnutelného triumfu smrti nad životem. Mizerní "
+"elfové, použiji těla vašich rodin k vytvoření armády nemrtvých! Všechno se "
+"bude třást před Xanthosem Nekromantem!"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1107
@@ -767,8 +767,8 @@ msgid ""
 "Bah, I’ve fought these dark cultists before. They can be killed just like "
 "anyone else, and our riders can easily defeat their skeleton armies."
 msgstr ""
-"Pche, bojoval jsem už s takovými temnými kultisty. Dají se zabít jako každý "
-"jiný, a naši jezdci snadno rozmetají jejich kostlivé armády."
+"Pche, bojoval jsem už s takovými temnými kultisty. Dají se zabít jako každý "
+"jiný a naši jezdci snadno rozmetají jejich kostlivé armády."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1123
@@ -780,9 +780,9 @@ msgid ""
 "Elves!"
 msgstr ""
 "Slyšel jsem o takových jako ty, nečistý nekromante. Cestuješ po píscích "
-"a odvažuješ se přivolat zpět a zotročit ty kdo už zemřeli. Ale dokážeme ti, "
+"a odvažuješ se přivolat zpět a zotročit ty, kdo už zemřeli. Ale dokážeme ti, "
 "že smrt není všemocná. Neznesvětíš těla mých příbuzných a přátel! Naučíš se "
-"obávat se hněvu Eloh a elfů z Quenothu!"
+"obávat hněvu Eloh a elfů z Quenothu!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1155
