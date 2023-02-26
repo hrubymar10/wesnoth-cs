@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-20 04:03 UTC\n"
-"PO-Revision-Date: 2023-02-25 07:55+0100\n"
+"PO-Revision-Date: 2023-02-26 09:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1271,7 +1271,7 @@ msgstr "Cupkal"
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:392
 msgid "Wait. I think I spotted something ahead of us..."
-msgstr "Počkat, myslím že před námi bylo něco vidět..."
+msgstr "Počkat, myslím, že jsem před námi něco zahlédl..."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:396
