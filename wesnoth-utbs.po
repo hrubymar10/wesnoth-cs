@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-20 04:03 UTC\n"
-"PO-Revision-Date: 2023-02-27 20:49+0100\n"
+"PO-Revision-Date: 2023-03-01 23:28+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1461,7 +1461,7 @@ msgstr "To je prachový ďábel, ale maličký! Ještě jsem neviděl tak maléh
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:835
 msgid "It seems to like you, looks like you just got yourself a pet."
-msgstr "Zdá se že tě má rád, teď máš svoje malé zvířátko."
+msgstr "Zdá se, že tě má rád, teď máš svoje malé zvířátko."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:840
@@ -1507,7 +1507,7 @@ msgid ""
 "We don’t know who you are, and we don’t much care. Tremble before the might "
 "of the Black Hand!"
 msgstr ""
-"Nevíme kdo jste, a ani nás to nezajímá. Třeste se před mocí Černé ruky!"
+"Nevíme, kdo jste, a ani nás to nezajímá. Třeste se před mocí Černé ruky!"
 
 #. [unit]: type=Red Mage, id=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1042
