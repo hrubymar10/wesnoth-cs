@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-12-18 01:10 UTC\n"
-"PO-Revision-Date: 2023-02-25 17:05+0100\n"
+"PO-Revision-Date: 2023-03-01 23:57+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4722,6 +4722,14 @@ msgid ""
 "usurper of my rightful place in the Ka’lian, whose only real talent is the "
 "art of..."
 msgstr ""
+"7. den letního období\n"
+"\n"
+"... Ledový safír ještě vylepšil můj vlastní talent pro věštecké umění. Ráda "
+"jsem se kvůli němu zbavila své Koule rozjímání. Brzy nazřu odvrácenou stranu "
+"naší vílí říše, o které tvrdí ona samozvaná dáma Dionli, jak že se obává do "
+"ní vhlédnout. Prostě na to nemá talent, i když to nikdy nepřizná. Jak já "
+"pohrdám tou povýšenou paní Dionli, tou uzurpátorkou mého právoplatného místa "
+"v Kalianu, jejíž jediným skutečným talentem je nadání pro..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:460
@@ -4736,6 +4744,15 @@ msgid ""
 "— One of my fair young handmaidens.\n"
 "— A twisted metal dagger that menaces with spikes of..."
 msgstr ""
+"28. den letního období\n"
+"\n"
+"... nyní, když jsem našla mocného spojence v lordu Vanarovi z odvrácené "
+"strany, se dny paní Dionli blíží ke konci. Potřebuji pro něj dokončit jeden "
+"malý rituál, jehož podrobnosti mi poskytne, až shromáždím potřebné "
+"propriety. Zde je zaznamenávám, abych nezapomněla:\n"
+"– deska ze studené černé žuly\n"
+"– jedna z mých krásných mladých služebnic\n"
+"– kovová dýka s krouceným ostřím z hrozivými hroty z..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:469
@@ -4747,6 +4764,12 @@ msgid ""
 "Now I shall need another unsalaried novice handmaiden willing to work for "
 "“experience”..."
 msgstr ""
+"29. den letního období\n"
+"\n"
+"... jak jsem mohla vědět, že Vanarův rituál bude zahrnovat krvavou oběť?! "
+"Ach, jen kdyby mě ta podlá „dáma“ Dionli nedostala do této nezáviděníhodné "
+"pozice. Teď budu potřebovat další novou neplacenou služebnici ochotnou "
+"pracovat „pro získání praxe“..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:475
@@ -4758,6 +4781,12 @@ msgid ""
 "sacrificed— <i>everyone</i> I have sacrificed —shall have been in vain! I "
 "owe it to them to continue..."
 msgstr ""
+"1. den podzimního období\n"
+"\n"
+"... ještě musí být dokončeno více takových strašlivých rituálů, než bude "
+"moci Vanar uvrhnout kletbu na mou usurpátorku. Ale když teď přestanu, "
+"všechno, co jsem obětovala bude promarněno, včetně <i>všechn</i>, co jsem "
+"obětovala! Musím pokračovat, dlužím jim to..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:481
@@ -4769,6 +4798,12 @@ msgid ""
 "rituals, I shall need new <i>“guests of honor”</i> which are not of "
 "elfkind..."
 msgstr ""
+"13. den podzimního období\n"
+"\n"
+"... radní Kalianu začínají být podezřívaví, protože se ztrácí více mého "
+"služebnictva než obvykle. Musím výrazně posílit své osobní postavení. A pro "
+"budoucí rituály budu potřebovat nové <i>„čestné hosty“</i>, kteří nebudou "
+"elfího druhu..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:488
@@ -4782,6 +4817,14 @@ msgid ""
 "every courtesy and tempt them with all the delights of elvish cuisine— "
 "seasoned with Shavings of the Yew..."
 msgstr ""
+"31. den podzimního období\n"
+"\n"
+"... ti ještěráci mohou páchnout bažinou, ze které se připlazili, ale "
+"Vanarovi přinesou důstojnou oběť! Poslala jsem formální pozvání Arinexe, "
+"ještěrácké velvyslankyni, nebo něčemu, co se dá za vyslankyni považovat v "
+"družině těch primitivních a smradlavých tvorů. Projevím této ještěráčici a "
+"jejímu doprovodu veškerou zdvořilost a budu je pokoušet všemi lahůdkami elfí "
+"kuchyně – okořeněnými hoblinami tisu..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:503
@@ -5185,6 +5228,9 @@ msgid ""
 "\n"
 "The rest of you, into the cave!"
 msgstr ""
+"Potřebuji pár jednotek, abych udržel linii u ústí.\n"
+"\n"
+"Vy ostatní, do jeskyně!"
 
 #. [message]: speaker=narrator
 #. "Lodestone Mines of Golden Wolf Clan"
@@ -5220,6 +5266,30 @@ msgid ""
 "Whit ever it be ah dae nae care; if the elves ever come back then thay kin "
 "deal with it."
 msgstr ""
+"Magnetitové doly klanu Zlatého vlka\n"
+"\n"
+"368. rok a 7. měsíc od začátku práce\n"
+"\n"
+"Ty elfové se znovu objevili na houbový farmě a planě vyhrožovali chlapům "
+"těma jejich nakudrlinovanýma řečma. Říkali, že zaútočej, když budem sbírat "
+"další dřevo pro krmení našich hub, a že prej nezáleží ani na tom, že je jen "
+"borový!\n"
+"\n"
+"Nechal jsem chlapce postavit brány, co  ty elfy zatím měly udržet v "
+"distancu.\n"
+"\n"
+"Pokud se vrátěj s armádou, kterou nedokážem zvládnout, máme kolem nosnejch "
+"zdí sudy se střelným prachem. Ty elfové bejvaj tak ohromený tím jejich "
+"roztomilým „kouzlem“. Stačí si vzpomenout na výrazy na jejich ksichtech, "
+"kdykoli viděj trpasličí know–how při práci!\n"
+"\n"
+"Naši dřevorubci přesto nemůžou sklízet z lesa žádný další houbový krmivo, "
+"aniž by je elfové nepoštívali. A magnetitový doly jsou téměř na konci svejch "
+"ložisek.\n"
+"\n"
+"Možná bych měl nakonec směnit tuhle jeskyň s tím podivným stvořením Novou. "
+"Ať je to kdokoliv nebo cokoliv, je mi to jedno. Jestli se elfové někdy "
+"vrátěj, poradí si s nima."
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:549
@@ -5293,6 +5363,8 @@ msgid ""
 "Gorlack, it is an ancient terror that hunts us.\n"
 "You must get our flight through this mountain at any cost."
 msgstr ""
+"Gorlaku, to, co nás pronásleduje, je prastarý děs.\n"
+"Musíte dostat naši letku skrz tuto horu za každou cenu."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:609
@@ -5384,7 +5456,7 @@ msgstr "Tvá šance na milost už vypršela."
 #. [message]: race=drake
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:716
 msgid "Such a sickly looking creature."
-msgstr ""
+msgstr "Takový nemocně vypadající tvor."
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:720
@@ -5480,7 +5552,7 @@ msgstr "Spojenci"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:73
 msgid "Glyptodons"
-msgstr ""
+msgstr "Glyfodoni"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:89
