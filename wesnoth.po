@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-19 22:03-0600\n"
-"PO-Revision-Date: 2023-03-04 13:02+0100\n"
+"PO-Revision-Date: 2023-03-04 13:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8055,7 +8055,7 @@ msgstr "Vlastnost: "
 
 #: src/reports.cpp:341
 msgid "invisible: "
-msgstr "neviditelný: "
+msgstr "neviditelnost: "
 
 #: src/reports.cpp:342
 msgid "This unit is invisible. It cannot be seen or attacked by enemy units."
@@ -8065,7 +8065,7 @@ msgstr ""
 
 #: src/reports.cpp:345
 msgid "slowed: "
-msgstr "zpomalený: "
+msgstr "zpomalení: "
 
 #: src/reports.cpp:346
 msgid ""
@@ -8077,7 +8077,7 @@ msgstr ""
 
 #: src/reports.cpp:349
 msgid "poisoned: "
-msgstr "otrávený: "
+msgstr "otrava: "
 
 #: src/reports.cpp:350
 msgid ""
