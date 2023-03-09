@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-20 04:03 UTC\n"
-"PO-Revision-Date: 2023-03-05 19:40+0100\n"
+"PO-Revision-Date: 2023-03-09 18:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1555,7 +1555,7 @@ msgstr "Pitomí nemrtví, nikdy mě neposlouchají. Okuste mé plameny!"
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1117
 msgid "She looks like she’s in trouble. We should help her."
-msgstr "Vypadá to že je v pěkné kaši. Měli bychom jí pomoct."
+msgstr "Vypadá to, že je v pěkné kaši. Měli bychom jí pomoct."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1141
@@ -8496,8 +8496,8 @@ msgid ""
 "Looks like the guards at this outpost had been saving away a bit of loot. I "
 "don’t suppose they’re going to mind anymore if we made use of it."
 msgstr ""
-"Vypadá to že si hlídky v této pevnosti ukládaly nějaký ten lup. "
-"Nepředpokládám že by jim ještě mohlo vadit, když jej využijeme."
+"Vypadá to, že si hlídky v této pevnosti ukládaly nějaký ten lup. "
+"Nepředpokládám, že by jim ještě mohlo vadit, když jej využijeme."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3119
@@ -8888,8 +8888,8 @@ msgid ""
 "peacefully or I’ll make you sorry you didn’t."
 msgstr ""
 "Co to má znamenat, kluku? Ty mi takhle odsekáváš? Tohle není vyjednávání. "
-"Jsi na mé půdě a pod mým právem. Slož zbraně a klidně se vzdej, nebo ti "
-"ještě bude líto žes to neudělal."
+"Jsi na mé půdě a pod mým právem. Slož zbraně a klidně se vzdej, nebo ti "
+"ještě bude líto, žes to neudělal."
 
 # vaše kosti... /znečistí/
 #. [message]: speaker=Eloh
@@ -9026,8 +9026,8 @@ msgid ""
 "this direction."
 msgstr ""
 "Prostě dostal jsi nás do pěkné kaše. Dobrá zpráva je, že pevnost není "
-"bráněná tak silně, jak by sis mohl myslet. Vypadá to že posádka dosahuje "
-"sotva poloviny běžného stavu. Očividně nečekali z téhle strany žádný vážný "
+"bráněná tak silně, jak by sis mohl myslet. Vypadá to, že posádka dosahuje "
+"sotva poloviny běžného stavu. Očividně nečekali z téhle strany žádný vážný "
 "útok."
 
 #. [message]: speaker=Kaleh
