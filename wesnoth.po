@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-19 22:03-0600\n"
-"PO-Revision-Date: 2023-03-09 18:36+0100\n"
+"PO-Revision-Date: 2023-03-10 23:05+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8813,26 +8813,19 @@ msgstr[2] "<span color=\"$color\">$number_or_percent</span> bodů pohybu"
 
 #. TRANSLATORS: Current value for WML code set_attacks_used, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:543
-#, fuzzy
-#| msgid "$number damage"
-#| msgid_plural "$number damage"
 msgid "$number attack used"
 msgid_plural "$number attacks used"
-msgstr[0] "$number poškození"
-msgstr[1] "$number poškození"
-msgstr[2] "$number poškození"
+msgstr[0] "$number užitý útok"
+msgstr[1] "$number užité útoky"
+msgstr[2] "$number užitých útoků"
 
 #. TRANSLATORS: Current value for WML code increase_attacks_used, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:552
-#, fuzzy
-#| msgid "<span color=\"$color\">$number_or_percent</span> attack per turn"
-#| msgid_plural ""
-#| "<span color=\"$color\">$number_or_percent</span> attacks per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> attack used"
 msgid_plural "<span color=\"$color\">$number_or_percent</span> attacks used"
-msgstr[0] "<span color=\"$color\">$number_or_percent</span> útok za kolo"
-msgstr[1] "<span color=\"$color\">$number_or_percent</span> útoky za kolo"
-msgstr[2] "<span color=\"$color\">$number_or_percent</span> útoků za kolo"
+msgstr[0] "<span color=\"$color\">$number_or_percent</span> užitý útok"
+msgstr[1] "<span color=\"$color\">$number_or_percent</span> užité útoky"
+msgstr[2] "<span color=\"$color\">$number_or_percent</span> užitých útoků"
 
 #: src/units/helper.cpp:59
 msgid "Level: "
