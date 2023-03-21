@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-18 21:33-0500\n"
-"PO-Revision-Date: 2023-03-17 21:41+0100\n"
+"PO-Revision-Date: 2023-03-21 20:26+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2603,10 +2603,8 @@ msgstr "Webové stránky:"
 
 #. [label]
 #: data/gui/window/addon_manager.cfg:521
-#, fuzzy
-#| msgid "ID:"
 msgid "Id:"
-msgstr "ID:"
+msgstr "Id:"
 
 #. [button]: id=delete
 #: data/gui/window/addon_manager.cfg:659

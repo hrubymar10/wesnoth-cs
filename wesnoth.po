@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-18 21:34-0500\n"
-"PO-Revision-Date: 2023-03-10 23:05+0100\n"
+"PO-Revision-Date: 2023-03-21 20:34+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6898,14 +6898,12 @@ msgid "Match History — $player"
 msgstr "Historie zápasů – $player"
 
 #: src/gui/dialogs/multiplayer/match_history.cpp:101
-#, fuzzy
-#| msgid "Era:"
 msgid "Era: "
-msgstr "Éra:"
+msgstr "Éra: "
 
 #: src/gui/dialogs/multiplayer/match_history.cpp:102
 msgid " UTC+0"
-msgstr ""
+msgstr " UTC+0"
 
 #: src/gui/dialogs/multiplayer/player_info.cpp:107
 msgid "In game:"
@@ -8139,10 +8137,6 @@ msgid "unhealable: "
 msgstr "neléčitelnost: "
 
 #: src/reports.cpp:358
-#, fuzzy
-#| msgid ""
-#| "This unit is unhealable. It cannot be healed by healers or villages and "
-#| "doesn't benefit from resting."
 msgid ""
 "This unit is unhealable. It cannot be healed by healers or villages and "
 "doesn’t benefit from resting."
