@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-18 21:34-0500\n"
-"PO-Revision-Date: 2023-03-21 20:34+0100\n"
+"PO-Revision-Date: 2023-03-22 22:29+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7838,36 +7838,32 @@ msgstr "Změna tahu"
 
 #: src/network_download_file.cpp:64 src/network_download_file.cpp:79
 #: src/network_download_file.cpp:87
-#, fuzzy
-#| msgid ""
-#| "An error occurred while downloading the add-ons list from the server."
 msgid ""
 "An error occurred when downloading the file. Check the game logs for more "
 "information."
-msgstr "Při stahování seznamu rozšíření ze serveru došlo k chybě."
+msgstr ""
+"Při stahování souboru došlo k chybě. Další informace najdeš v záznamech hry."
 
 #: src/network_download_file.cpp:64 src/network_download_file.cpp:79
 #: src/network_download_file.cpp:87
 msgid "Download error"
-msgstr ""
+msgstr "Chyba při stahování"
 
 #: src/network_download_file.cpp:68
 msgid "Confirm overwrite"
-msgstr ""
+msgstr "Potvrdit přepsání"
 
 #: src/network_download_file.cpp:68
 msgid "Overwrite existing file?"
-msgstr ""
+msgstr "Přepsat existující soubor?"
 
 #: src/network_download_file.cpp:81
 msgid "Download complete"
-msgstr ""
+msgstr "Stahování dokončeno"
 
 #: src/network_download_file.cpp:81
-#, fuzzy
-#| msgid "The game has been saved."
 msgid "The file has been downloaded."
-msgstr "Hra byla uložena."
+msgstr "Soubor byl stažen."
 
 #: src/pathfind/pathfind.cpp:754
 msgid "Terrain with a movement cost less than 1 encountered."
