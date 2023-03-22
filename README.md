@@ -14,13 +14,12 @@ wesnoth-nr | 1206 | 99% | 10 |
 wesnoth-units | 776 | 99% | 2 | Michal
 wesnoth-utbs | 1942 | 99% | 8 | Michal
 wesnoth-wof | 823 | 89% | 86 | Septim
-wesnoth | 1367 | 99% | 6 | Michal
 
-Total messages remaining: **147**
+Total messages remaining: **141**
 
 Progress since 2022-04-30: **2** messages per day
 
-ETA: **2023-06-02**
+ETA: **2023-05-31**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
