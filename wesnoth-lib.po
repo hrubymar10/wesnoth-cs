@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-01 18:33-0600\n"
-"PO-Revision-Date: 2023-01-04 18:08+0100\n"
+"PO-Revision-Date: 2023-03-23 17:27+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4969,12 +4969,12 @@ msgstr "Zobrazit animace vody (může být pomalé)"
 #. [toggle_button]: id=animate_units_standing
 #: data/gui/window/preferences/03_display.cfg:142
 msgid "Show unit standing animations"
-msgstr "Zobrazit náhodné animace jednotek"
+msgstr "Zobrazit animace pro stojící jednotky"
 
 #. [toggle_button]: id=animate_units_standing
 #: data/gui/window/preferences/03_display.cfg:143
 msgid "Continuously animate standing units on the battlefield"
-msgstr "Neustálá animace jednotek na bitevním poli"
+msgstr "Neustále animovat stojící jednotky na bitevním poli"
 
 #. [toggle_button]: id=animate_units_idle
 #: data/gui/window/preferences/03_display.cfg:161
