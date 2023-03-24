@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-18 21:33-0500\n"
-"PO-Revision-Date: 2023-03-24 19:45+0100\n"
+"PO-Revision-Date: 2023-03-24 20:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4744,7 +4744,7 @@ msgstr "Nahrát"
 #: data/gui/window/mp_match_history.cfg:161
 #: data/gui/window/mp_match_history.cfg:178
 msgid "None"
-msgstr "Žádný/é"
+msgstr "Nikdo/nic"
 
 #. [widget]: id=tab_label
 #: data/gui/window/mp_match_history.cfg:377
