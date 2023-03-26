@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-18 21:33-0500\n"
-"PO-Revision-Date: 2023-03-25 09:55+0100\n"
+"PO-Revision-Date: 2023-03-26 08:06+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -186,18 +186,18 @@ msgstr ""
 msgid ""
 "At the start of the turn this unit increases movement points of surrounding "
 "units by +1"
-msgstr ""
+msgstr "Na začátku kola tato jednotka zvýší počet kroků okolních jednotek o +1"
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:523
 msgid ""
 "At the start of the turn this unit increases movement points of surrounding "
 "units by +2"
-msgstr ""
+msgstr "Na začátku kola tato jednotka zvýší počet kroků okolních jednotek o +2"
 
 #. [dummy]: description={STR_TAILWIND_RESTRICT_{X}}
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:527
 msgid "tailwind +"
-msgstr ""
+msgstr "vítr v zádech +"
 
 #. [heals]: id=healing
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:545
@@ -6778,7 +6778,7 @@ msgstr ""
 #. [stun]: id=stun
 #: data/core/macros/weapon_specials.cfg:199
 msgid "stun"
-msgstr ""
+msgstr "omráčení"
 
 #. [stun]: id=stun
 #: data/core/macros/weapon_specials.cfg:200
@@ -6786,18 +6786,16 @@ msgid ""
 "This attack hits so hard that the opponent is dazed and can no longer "
 "enforce a zone of control. The effect wears off on the opponent’s next turn."
 msgstr ""
+"Tento útok zasáhne protivníka tak silně, že je otřesen a už nemůže udržet "
+"oblast kontroly. Účinek vyprší v dalším kole protivníka."
 
 #. [stun]: id=stun
 #: data/core/macros/weapon_specials.cfg:201
-#, fuzzy
-#| msgid ""
-#| "This unit is able to slow its enemies, halving their movement speed and "
-#| "attack damage until they end a turn."
 msgid ""
 "This unit is able to stun its enemies, disrupting their zones of control."
 msgstr ""
-"Tato jednotka dokáže zpomalit své nepřátele, čímž do konce kola zmenší "
-"jejich pohyb a jimi způsobená poškození na polovinu."
+"Tato jednotka dokáže omráčit své nepřátele, čímž naruší jejich oblast "
+"kontroly."
 
 #: data/core/units.cfg:4
 msgid ""
