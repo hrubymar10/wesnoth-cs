@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-19 02:33 UTC\n"
-"PO-Revision-Date: 2023-03-31 21:29+0200\n"
+"PO-Revision-Date: 2023-04-01 08:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1323,6 +1323,7 @@ msgstr ""
 msgid "Should I take this ring?"
 msgstr "Mám si vzít tento prsten?"
 
+# týká se dvou prstenů, vody a meče, proto _to_
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:506
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1543
@@ -1330,7 +1331,7 @@ msgstr "Mám si vzít tento prsten?"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:583
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:575
 msgid "Yes, I’ll take it."
-msgstr "Ano, vezmu si ho."
+msgstr "Ano, vezmu si to."
 
 #. [object]: id=Travelring
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:511
@@ -1347,7 +1348,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:547
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:733
 msgid "No, I think someone else should wear it."
-msgstr "Ne, myslím, že by si jej měl vzít někdo jiný."
+msgstr "Ne, myslím, že by jej měl nosit někdo jiný."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:572
@@ -1821,7 +1822,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1571
 msgid "No, I think someone else should take it."
-msgstr "Ne, myslím, že by si jej měl vzít někdo jiný."
+msgstr "Ne, myslím, že by si ji měl vzít někdo jiný."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1615
@@ -6444,7 +6445,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:643
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:629
 msgid "No, I think someone else should wield it."
-msgstr "Ne, myslím, že by si jej měl vzít někdo jiný."
+msgstr "Ne, myslím, že by jej měl držet někdo jiný."
 
 #. [scenario]: id=07b_Talking_with_Trolls
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:5
