@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-19 02:33 UTC\n"
-"PO-Revision-Date: 2023-04-02 10:06+0200\n"
+"PO-Revision-Date: 2023-04-04 21:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3191,8 +3191,8 @@ msgid ""
 "Come forth, creatures of the lake! Fulfill the oaths you have made and help "
 "us drive these hated creatures from our lands."
 msgstr ""
-"Vpřed, tvorové jezera! Naplňte slib, který jste dali a pomozte nám odstranit "
-"tyto nenáviděné bytosti z našich zemí."
+"Vpřed, tvorové jezera! Naplňte slib, který jste dali, a pomozte nám "
+"odstranit tyto nenáviděné bytosti z našich zemí."
 
 #. [message]: speaker=Scylla
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:604
@@ -3260,7 +3260,7 @@ msgstr "Prsten rychlosti"
 #. [object]: id=SpeedyRing
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:708
 msgid "This ring will increase your maximum speed by 1."
-msgstr "Tento prsten zvýší počet pohybů za kolo o 1."
+msgstr "Tento prsten zvýší tvou maximální rychlost o 1."
 
 #. [message]: speaker=Orac
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:759
@@ -14776,17 +14776,17 @@ msgstr ""
 #. [advancement]: id=Dust1
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:81
 msgid "a stronger Dust Devil"
-msgstr "silnější Prachový ďábel"
+msgstr "silnější prachový ďábel"
 
 #. [advancement]: id=Dust2
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:104
 msgid "a taller Dust Devil"
-msgstr "vyšší Prachový ďábel"
+msgstr "vyšší prachový ďábel"
 
 #. [advancement]: id=Dust3
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:119
 msgid "a fully-healed Dust Devil"
-msgstr "vyléčený Prachový ďábel"
+msgstr "vyléčený prachový ďábel"
 
 #. [unit_type]: id=Flesh Golem, race=monster
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Flesh_Golem.cfg:4
