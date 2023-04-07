@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-19 02:33 UTC\n"
-"PO-Revision-Date: 2023-04-07 09:50+0200\n"
+"PO-Revision-Date: 2023-04-07 10:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6655,8 +6655,6 @@ msgstr "sprška"
 
 #. [unit_type]: id=Sand Scamperer
 #: data/core/units/monsters/Sand_Scamperer.cfg:11
-#, fuzzy
-#| msgid "Sand Scuttler"
 msgid "Sand Scamperer"
 msgstr "Písečný cupkal"
 
@@ -6669,6 +6667,11 @@ msgid ""
 "energy, making fire and magic-based attacks the most effective way to take "
 "this venomous critter down."
 msgstr ""
+"Tento úchvatný tvor se hbitě pohybuje přes horký pouštní písek. Jeho tělo je "
+"kryto silnou vnější kostrou barvy písku, která tlumí veškerá poškození "
+"úderem. Je však také vysoce hořlavá a zranitelná vůči nezemské síle, takže "
+"nejúčinnějším způsobem, jak tuto jedovatou havěť zneškodnit, jsou útoky "
+"založené na ohni a magii."
 
 #. [unit_type]: id=Horned Scarab, race=monster
 #: data/core/units/monsters/Scarab.cfg:4
