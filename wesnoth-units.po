@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-19 02:33 UTC\n"
-"PO-Revision-Date: 2023-02-27 21:59+0100\n"
+"PO-Revision-Date: 2023-04-07 09:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6288,14 +6288,14 @@ msgstr "klepeta"
 #. [variation]
 #: data/core/units/monsters/Giant_Scorpion.cfg:111
 msgid "scuttler"
-msgstr "cupkal"
+msgstr "dupkal"
 
 #. [variation]
 #. [unit_type]: id=Sand Scuttler
 #: data/core/units/monsters/Giant_Scorpion.cfg:112
 #: data/core/units/monsters/Sand_Scuttler.cfg:8
 msgid "Sand Scuttler"
-msgstr "Písečný cupkal"
+msgstr "Písečný dupkal"
 
 #. [variation]
 #. [unit_type]: id=Sand Scuttler
@@ -6307,7 +6307,7 @@ msgid ""
 "attack unwary travelers, especially when startled."
 msgstr ""
 "Tito tvorové, kteří pobývají v písečných dunách, jsou zvláštní směsicí "
-"pozemského tvora a elementálního stvoření. Ačkoli jsou píseční cupkalové "
+"pozemského tvora a elementálního stvoření. Ačkoli jsou píseční dupkalové "
 "obvykle plaší, někdy zaútočí na neopatrné cestovatele, zvláště pokud se cítí "
 "ohroženi."
 
@@ -8130,7 +8130,7 @@ msgstr "Štír"
 #: data/core/units/undead/Corpse_Soulless.cfg:312
 #: data/core/units/undead/Corpse_Walking.cfg:311
 msgid "wc_variation^Scuttler"
-msgstr "Cupkal"
+msgstr "Dupkal"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:321
