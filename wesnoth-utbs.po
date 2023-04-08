@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-04-07 09:45+0200\n"
+"PO-Revision-Date: 2023-04-08 10:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2476,7 +2476,7 @@ msgid ""
 "I told you, I will be back, you fools! Now I shall have my vengeance upon "
 "you all. Darkness shall reign until I have triumphed!"
 msgstr ""
-"Říkal jsem že se vrátím! Pomstím se na vás všech. Temnota bude panovat, "
+"Říkal jsem, že se vrátím! Pomstím se na vás všech. Temnota bude panovat, "
 "dokud nezvítězím!"
 
 #. [message]: speaker=$other_lord.id
@@ -2611,7 +2611,7 @@ msgid ""
 "routes. Kaleh, do you think we could sneak up between them?"
 msgstr ""
 "A tohle vypadá jako značení pro tábořiště a trasy hlídek. Teda málo jich "
-"není. Kalehu, myslíš že se mezi nimi dokážeme proplížit?"
+"není. Kalehu, myslíš, že se mezi nimi dokážeme proplížit?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1597
@@ -2919,7 +2919,7 @@ msgstr ""
 "elfové pamatovat tuto řež. Kde byla během temnoty Eloh? Obávám se, že "
 "zatímco elfové, kteří s tebou bojovali v minulosti se rádi vrátí, stane se "
 "najímání a trénink drahou záležitostí; naše počty se scvrkávají. Bylo by "
-"moudré střádat zlato pro příležitost že bychom potřebovali nové posily."
+"moudré střádat zlato pro příležitost, že bychom potřebovali nové posily."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:2027
@@ -3415,7 +3415,7 @@ msgid ""
 "talking about."
 msgstr ""
 "Tato chodba se zdá jiná než ostatní tunely a jeskyně. Je široká a hladká a "
-"vede ostře dolů. Vsadím se že to je ta cesta, o které mluvila Eloh."
+"vede ostře dolů. Vsadím se, že to je ta cesta, o které mluvila Eloh."
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1067
@@ -3440,7 +3440,7 @@ msgid ""
 msgstr ""
 "Když už jsme zabili všechny skřety a vůdce goblinů v těsné blízkosti, můžeme "
 "si dát na čas a neměl by být problém přivést sem zbytek našeho lidu. Je to "
-"divné, tuším že vyměníme nebezpečí která známe za ta neznámá. Opravdu "
+"divné, tuším, že vyměníme nebezpečí která známe za ta neznámá. Opravdu "
 "vkládáme naše životy do dlaní Eloh; kéž nás vede tak dobře jako předtím."
 
 #. [message]: speaker=Zhul
@@ -3452,9 +3452,9 @@ msgid ""
 "may she guide as well as she has before."
 msgstr ""
 "Teď, když jsi našel cestu, měli bychom být schopní provést zbytek našeho "
-"lidu kolem skřetů. Je to divné, myslím že měníme známá nebezpečí za neznámá. "
-"Doopravdy vkládáme naše životy do dlaní Eloh, kéž nás vede tak dobře jako "
-"předtím."
+"lidu kolem skřetů. Je to divné, myslím, že měníme známá nebezpečí za "
+"neznámá. Doopravdy vkládáme naše životy do dlaní Eloh, kéž nás vede tak "
+"dobře jako předtím."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1095
@@ -3612,7 +3612,7 @@ msgstr ""
 "Mnozí trolly nepovažují za nic víc než jen brutální obry a ničitele. "
 "Trollové jsou obří a velmi silní, mají kůži jako kámen a dokáží být "
 "strašliví nepřátelé. Ale znala jsem kdysi jednoho člověka, který s nimi "
-"obchodoval, tedy se skupinkou trollů, a říkal že jsou docela slušní, dokud "
+"obchodoval, tedy se skupinkou trollů, a říkal, že jsou docela slušní, dokud "
 "se je někdo nepokusí podvést."
 
 #. [message]: speaker=Zhul
@@ -3725,7 +3725,7 @@ msgid ""
 "happy if our biggest problem is not getting lost. Still, even underground "
 "Eloh will watch over us."
 msgstr ""
-"Ale doufám že s vedením Eloh najdeme ty tunely opuštěné. Byla bych ráda, "
+"Ale doufám, že s vedením Eloh najdeme ty tunely opuštěné. Byla bych ráda, "
 "kdyby největší problém představovalo neztratit se. Stejně, i v podzemí nad "
 "námi Eloh bdí."
 
@@ -3984,7 +3984,7 @@ msgid ""
 msgstr ""
 "To nemusíme. Pokud jich většinu ukryjeme dál zpět v průchodu, měli bychom "
 "být schopní je ochránit, aspoň na chvíli. Mezitím se pokusíme vyřešit tenhle "
-"zmatek. Zhul, myslím že máš pravdu, při troše štěstí snad budeme moci "
+"zmatek. Zhul, myslím, že máš pravdu, při troše štěstí snad budeme moci "
 "vyjednat bezpečný odchod odtud."
 
 #. [message]: speaker=$explorer.id
@@ -4436,7 +4436,7 @@ msgid ""
 msgstr ""
 "Krátce před bitvou jsme našli tajný průchod na sever, vede přímo do velké "
 "trpasličí pevnosti. V pevnosti se schovává velký důležitý trpaslík, řídí "
-"boj. Trpaslíci vždycky myslí že oni nejlepší bojovníci, tak nechávají v "
+"boj. Trpaslíci vždycky myslí, že oni nejlepší bojovníci, tak nechávají v "
 "pevnosti na obranu jen pár stráží. Když vy malí elfové prorazíte obranou "
 "trpaslíků a zabijete jejich náčelníka, udělá to trpaslíkům větší problém, "
 "budou zmatení a mít strach, snadná kořist pro trolly. Udělejte to a my je "
@@ -5745,7 +5745,7 @@ msgid ""
 "The movement under the water has stopped. I think we killed the last of "
 "them. Whatever ‘them’ was."
 msgstr ""
-"Pohyb pod vodou ustal. Myslím že jsme je zabili všechny, ať už to bylo "
+"Pohyb pod vodou ustal. Myslím, že jsme je zabili všechny, ať už to bylo "
 "cokoliv."
 
 #. [event]
@@ -6921,8 +6921,8 @@ msgid ""
 "They seem confused, leaderless. I guess it’s every ant for itself. Uh, oh. "
 "Some of them seem to have noticed us."
 msgstr ""
-"Vypadají zmateně, jako by neměli královnu. Hádám že je to každý mravenec sám "
-"za sebe. Uch, och. Vypadá to, že si nás někteří všimli."
+"Vypadají zmateně, jako by neměli královnu. Hádám, že je to každý mravenec "
+"sám za sebe. Uch, och. Vypadá to, že si nás někteří všimli."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:859
@@ -7140,7 +7140,8 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1140
 msgid "I wish there was another path, but it seems we have no choice."
-msgstr "Přál bych si aby existovala jiná cesta, ale zdá se že nemáme na výběr."
+msgstr ""
+"Přál bych si aby existovala jiná cesta, ale zdá se, že nemáme na výběr."
 
 #. [message]: speaker=$ally_name
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1145
@@ -7174,7 +7175,7 @@ msgstr "Mám to!"
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1184
 msgid "I think I see a door-shaped crack in this wall."
-msgstr "Myslím že v této zdi vidím trhlinu ve tvaru dveří."
+msgstr "Myslím, že v této zdi vidím trhlinu ve tvaru dveří."
 
 #. [message]: speaker=$ally_name
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1189
@@ -7191,13 +7192,13 @@ msgid ""
 "Well, this is the end of the tunnel. Which means the other secret door "
 "should be right here."
 msgstr ""
-"Fajn, tohle je konec tunelu. To znamená že druhé tajné dveře by měly být "
+"Fajn, tohle je konec tunelu. To znamená, že druhé tajné dveře by měly být "
 "právě tady."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1237
 msgid "Hold on, I think I’ve found it."
-msgstr "Počkat, myslím že to mám."
+msgstr "Počkat, myslím, že to mám."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1244
@@ -7216,7 +7217,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1254
 msgid "Oh, right. Hold on, I think I’ve found it."
-msgstr "Aha, pravda. Počkat, myslím že to mám."
+msgstr "Aha, pravda. Počkat, myslím, že to mám."
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1347
@@ -7343,7 +7344,7 @@ msgid ""
 "There isn’t much left of the furnishings of this room. I think it was some "
 "sort of storeroom, but it looks like scavengers have taken anything useful."
 msgstr ""
-"Z nábytku v téhle místnosti toho moc nezbylo. Myslím že to byl nějaký druh "
+"Z nábytku v téhle místnosti toho moc nezbylo. Myslím, že to byl nějaký druh "
 "skladiště, ale zdá se, že zloději pobrali všechno, co mělo nějakou cenu."
 
 #. [message]: speaker=$explorer.id
@@ -7453,7 +7454,7 @@ msgstr "Konečně si můžeme odpočnout. Z bojových cvičení je mi nanic."
 msgid ""
 "Kali’s just a hardass because he’s bitter that he never became a high priest."
 msgstr ""
-"Kali je takový zmetek, protože ho žere že se nikdy nestal vysokým knězem."
+"Kali je takový zmetek, protože ho žere, že se nikdy nestal vysokým knězem."
 
 #. [message]: speaker=Novice Iona
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1776
@@ -7992,7 +7993,7 @@ msgstr "Tak ať. Mně už je to jedno."
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2595
 msgid "Look, daylight! I think we finally made it out of the caves!"
-msgstr "Podívejte, denní světlo! Myslím že jsme se konečně dostali z jeskyní!"
+msgstr "Podívejte, denní světlo! Myslím, že jsme se konečně dostali z jeskyní!"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2625
@@ -8010,7 +8011,7 @@ msgstr ""
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2652
 msgid "Kaleh, I think you should come up and see this."
-msgstr "Kalehu, myslím že bys měl přijít a podívat se na tohle."
+msgstr "Kalehu, myslím, že bys měl přijít a podívat se na tohle."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2676
@@ -9667,7 +9668,7 @@ msgid ""
 "hidden by the trees. I never thought I would see so many trees in one place."
 msgstr ""
 "Teď když jsme sešli z pahorků, ani není vidět všechnu tu vodu, zakrývají ji "
-"stromy. Nikdy bych nemyslel že uvidím zaráz tolik stromů."
+"stromy. Nikdy bych nemyslel, že uvidím zaráz tolik stromů."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:395
@@ -10792,7 +10793,7 @@ msgid ""
 "been spilled already. Knock ’em out, wound them, kill them only if you must. "
 "But we must stop Tanstafaal in his lunacy before he destroys us entirely."
 msgstr ""
-"Děkuji, jsem si jistý že budete v mělkých vodách velmi užiteční. Dobrá, "
+"Děkuji, jsem si jistý, že budete v mělkých vodách velmi užiteční. Dobrá, "
 "lidičky, nehodlám jich zabít ani o trochu víc než bude nutné. Teklo již "
 "příliš mnoho krve. Bijte je, raňte je, ale zabíjejte, jen když budete muset. "
 "Musíme ale zastavit Tanstafaala v jeho šílenství dříve než nás úplně zničí."
@@ -11173,7 +11174,7 @@ msgid ""
 "leader and we too tire of this bloodshed. In hindsight perhaps we were wrong "
 "about Eloh and Tanstafaal; we shall have to think about this long and hard."
 msgstr ""
-"Myslím že mluvím za nás všechny, když říkám, že přijímáme tvou nabídku "
+"Myslím, že mluvím za nás všechny, když říkám, že přijímáme tvou nabídku "
 "milosti a opět tě budeme následovat. Prokázal ses schopným vůdcem a i my "
 "jsme unaveni touto krvavou lázní. Při pohledu zpět jsme se nejspíš spletli v "
 "Eloh a Tanstafaalovi; na to budeme muset dlouho a bolestivě vzpomínat."
@@ -11592,7 +11593,7 @@ msgstr ""
 "Sledovala jsem váš postup s velkým zájmem, ale nemohla jsem se s vámi "
 "domluvit přímo. Proto jsem vyslala mé nejdůvěryhodnější následovníky, aby "
 "vás našli. Omlouvám se za obtíže při přípravě schůzky. Ah, a doufám, že vám "
-"nevadí mé stráže. Její špehové jsou všude a musím se ujistit že budeme moci "
+"nevadí mé stráže. Její špehové jsou všude a musím se ujistit, že budeme moci "
 "mluvit bez obav z vyslechnutí našeho rozhovoru. Mimoto, nikdy neškodí trocha "
 "opatrnosti."
 
@@ -11805,7 +11806,7 @@ msgstr ""
 "Ostrov byl prohlášen prokletým a drželi jsme se od něj daleko jak jen to "
 "šlo. Někteří tvrdili, že bychom měli z ostrovů prchnout, ale pobřežní vody "
 "byly bohatými lovišti a neobtěžovaly nás tu ty prokleté nágy, které často "
-"pořádaly nájezdy na naše sídliště. Tak jsme zůstali a říkali si že pokud se "
+"pořádaly nájezdy na naše sídliště. Tak jsme zůstali a říkali si, že pokud se "
 "budeme držet stranou, nic se nestane."
 
 #. [message]: speaker=Melusand
@@ -11839,7 +11840,7 @@ msgid ""
 "alive speak of a dark goddess, one they serve blindly unto death. It seems "
 "that she has taken control of the humans you saw as well."
 msgstr ""
-"Při pohledu zpět padá vina na lidi. Myslím že svými experiment probudili "
+"Při pohledu zpět padá vina na lidi. Myslím, že svými experimenty probudili "
 "něco zlého. I po letech stále trpíme odkazem jejich arogance a nadutosti. "
 "Něco na tom ostrově přebývá; něco, co kazí vše, čeho se to dotkne. Od té "
 "doby co jsme prchli, staly se ostrovy útočištěm temným a strašidelným věcem. "
@@ -11901,7 +11902,7 @@ msgid ""
 "pestilence might spread? I have scryed far and wide and there are few that "
 "have the strength to stand up to such a force. If we do not, who will?"
 msgstr ""
-"Musíte si uvědomit že pokud ji nikdo nezastaví, kdo ví, kam až se rozšíří "
+"Musíte si uvědomit, že pokud ji nikdo nezastaví, kdo ví, kam až se rozšíří "
 "její nákaza? Hledala jsem široko daleko a není mnoho těch, kteří by měli "
 "sílu odolat tak strašlivé moci. Pokud ne my, kdo tedy?"
 
@@ -11911,7 +11912,7 @@ msgid ""
 "How can we trust you? How do we know you aren’t servants of Yechnagoth, sent "
 "to trick us?"
 msgstr ""
-"Jak ti máme věřit? Jak máme vědět že nejste sluhové Yechnagoth vyslaní "
+"Jak ti máme věřit? Jak máme vědět, že nejste sluhové Yechnagoth vyslaní "
 "přelstít nás?"
 
 #. [message]: speaker=Melusand
@@ -12413,7 +12414,7 @@ msgid ""
 "I remember when Yechnagoth was posing as Eloh, she said she was the slayer "
 "of the demon lord Zhangor."
 msgstr ""
-"Pamatuji se, že když Yechnagoth předstírala Eloh, říkala že je ta, která "
+"Pamatuji se, že když Yechnagoth předstírala Eloh, říkala, že je ta, která "
 "zabila pána démonů Zhangora."
 
 #. [message]: speaker=Zhul
@@ -13164,7 +13165,7 @@ msgid ""
 "prove that you have what it takes. All you others, stay away unless you want "
 "a slow and painful death. I will deal with you later."
 msgstr ""
-"To je to, co chcete? Předpokládám že po tom všem, čím si prošel, dlužím "
+"To je to, co chcete? Předpokládám, že po tom všem, čím si prošel, dlužím "
 "Kalehovi osobní audienci. Dobrá, tady je tvoje šance. Přijď za mnou, "
 "chlapečku, a dokaž, že to nejsou jen planá slova. Vy ostatní se držte bokem, "
 "jestli nechcete pomalou a bolestivou smrt. S vámi se vypořádám později."
@@ -13253,7 +13254,7 @@ msgid ""
 "made it out of the desert. The rest of you can just sit on your hands and "
 "pray, but I’m going in there!"
 msgstr ""
-"To mě nezajímá! Myslíš si že ho tam nechám odejít a bojovat samotného? "
+"To mě nezajímá! Myslíš si, že ho tam nechám odejít a bojovat samotného? "
 "Zabije ho! Potřebuje naši pomoc. Bez nás by se nikdy nedostal ani z pouště. "
 "Vy ostatní si můžete jenom sedět na rukách a modlit se, ale já tam jdu taky!"
 
@@ -13380,7 +13381,7 @@ msgid ""
 "So, the elf’s puny friends think they can save him. But you are too late. He "
 "is already mine!"
 msgstr ""
-"Takže elfovi kamarádíčkové si myslí že ho můžou zachránit. Ale přicházíte "
+"Takže elfovi kamarádíčkové si myslí, že ho můžou zachránit. Ale přicházíte "
 "pozdě. Už je můj!"
 
 #. [message]: speaker=Kaleh
@@ -13636,7 +13637,7 @@ msgid ""
 "I think we’re finally doing some damage. We must attack the central body, "
 "while it remains vulnerable!"
 msgstr ""
-"Myslím že konečně způsobujeme nějaké zranění. Musíme zaútočit na centrální "
+"Myslím, že konečně způsobujeme nějaké zranění. Musíme zaútočit na centrální "
 "korpus, dokud je zranitelný!"
 
 #. [message]: type=Crawling Horror
@@ -14952,7 +14953,7 @@ msgid ""
 "Divine Incarnations are said to be the closest thing to a god’s actual "
 "presence in this world. They can be both awe-inspiring and terrifying."
 msgstr ""
-"O božských vtěleních se říká že to jsou ze všeho na tomto světě nejbližší "
+"O božských vtěleních se říká, že jsou ze všeho na tomto světě nejbližší "
 "opravdové přítomnosti bohů. Mohou svou podobou vzbuzovat jak bázeň, tak i "
 "hrůzu."
 
@@ -16776,7 +16777,7 @@ msgid ""
 "between the warriors and the shamans. The troll’s military leader was chosen "
 "and advised by a council of their shamans."
 msgstr ""
-"Zurg nám řekl, že to město právě vyrvali trpaslíkům, a že sem Velký vůdce "
+"Zurg nám řekl, že to město právě vyrvali trpaslíkům a že sem Velký vůdce "
 "přesunul svůj hlavní stan. Zjevně se obávali trpasličího protiútoku. "
 "Naštěstí byli trollové docela zruční kameníci a zdi byly rychle opraveny. "
 "Trollové příliš nemluvili, ale byli velmi inteligentní a zcela jasně nebyli "
