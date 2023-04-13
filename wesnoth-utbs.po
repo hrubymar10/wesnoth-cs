@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-04-12 19:29+0200\n"
+"PO-Revision-Date: 2023-04-13 20:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5469,9 +5469,9 @@ msgid ""
 "dwarves an easy access route if they defeated us. So much for an escape "
 "route, I guess we’ll just have to be sure not to fail."
 msgstr ""
-"Zurg musel zhroutil tunel. Možná, že nechtěl, aby trpaslíci měli snadnou "
-"přístupovou cestu kdyby nás porazili. Tolik k únikové cesty, myslím, že "
-"budeme muset být jisti a neselhat."
+"Zurg musel zavalit tunel. Možná nechtěl trpaslíkům poskytnout snadnou "
+"přístupovou cestu, kdyby nás porazili. Tolik k únikové cestě, myslím, že si "
+"budeme muset být jisti, že neselžeme."
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:652
@@ -5503,7 +5503,7 @@ msgstr "Ale pane..."
 #. [message]: speaker=Dwarf Sergeant
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:681
 msgid "Did I give you permissions to speak? Did I?"
-msgstr "Dal jsem ti slovo? Co? No?"
+msgstr "Dovolil jsem ti promluvit? Co? No?"
 
 #. [message]: speaker=Dwarf Sergeant
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:686
@@ -5526,8 +5526,8 @@ msgid ""
 "like the cowards you are. Do you think I’m stupid enough to fall for that "
 "one?"
 msgstr ""
-"A, nechte mě hádat, velký hnusný troll, že ano? A když se otočím, utečete "
-"jako zbabělci, kteří koneckonců jste. Myslíte si, že vám na něco tak "
+"A, nechte mě hádat, velký hnusný troll, že ano? A když se otočím, utečete "
+"jako zbabělci, kterými koneckonců jste. Myslíte si, že vám na něco tak "
 "trapného skočím?"
 
 #. [message]
@@ -5539,7 +5539,7 @@ msgstr "Ne, to je elf!"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:715
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:784
 msgid "What...?! Right... First task, boys, kill the intruder!"
-msgstr "Co...?! Dobře... Prvním úkolem, chlapci je zabít vetřelce!"
+msgstr "Co...?! Dobře... Prvním úkolem, chlapci, je zabít vetřelce!"
 
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:722
@@ -5632,7 +5632,7 @@ msgid ""
 "What?! Nothing happened! Who rigged the darn charges anyway? I’m going to "
 "have to hold them off by myself."
 msgstr ""
-"Cože!?! Nic se nestalo! Kdo umísťoval ty zatracené nálože? Budu je muset "
+"Cože?! Nic se nestalo! Kdo umísťoval ty zatracené nálože? Budu je muset "
 "zadržet sám."
 
 #. [event]
