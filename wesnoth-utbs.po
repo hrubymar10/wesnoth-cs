@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-04-13 20:46+0200\n"
+"PO-Revision-Date: 2023-04-14 23:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5701,7 +5701,7 @@ msgstr "Trpasličí poustevník"
 msgid ""
 "Incoming! Ugh, it’s big, hairy, and nasty. I hate bats, I really hate bats."
 msgstr ""
-"Přicházejí! Uf, je to velké, chlupaté, a hnusné. Nenávidím netopýry, opravdu "
+"Přicházejí! Uf, je to velké, chlupaté a hnusné. Nenávidím netopýry, opravdu "
 "nenávidím netopýry."
 
 #. [message]: speaker=unit
@@ -5730,7 +5730,7 @@ msgstr ""
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1466
 msgid "What are those?!"
-msgstr "Co to je?!?"
+msgstr "Co to je?!"
 
 # hláška když se objeví nová várka chapadel
 # myslím že tam může být cokoliv
