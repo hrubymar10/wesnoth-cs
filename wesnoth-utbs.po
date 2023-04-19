@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-04-19 21:27+0200\n"
+"PO-Revision-Date: 2023-04-19 23:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3853,7 +3853,7 @@ msgid ""
 "I don’t know what ‘they’ are, but we can’t go back. Prepare yourselves for "
 "anything, everyone."
 msgstr ""
-"Nevím kdo jsou „oni“, ale už se nemůžeme vrátit. Připravte se na cokoliv, "
+"Nevím, kdo jsou „oni“, ale už se nemůžeme vrátit. Připravte se na cokoliv, "
 "všichni."
 
 #. [event]
@@ -7126,7 +7126,7 @@ msgid ""
 "Curses, the water is rising too fast. That tunnel those humans were fleeing "
 "down was the fastest way out of here, but it’s already flooding."
 msgstr ""
-"Proklatě, voda stoupá příliš rychle. Ten tunel, kterým utíkali ti lidé byl "
+"Proklatě, voda stoupá příliš rychle. Ten tunel, kterým utíkali ti lidé, byl "
 "nejrychlejší cestou pryč, ale už ho taky zaplavuje voda."
 
 #. [message]: speaker=Kaleh
@@ -7159,7 +7159,7 @@ msgstr "No ne, co je tohle za místo? Zdá se dobře chráněné."
 msgid ""
 "This is an ancient fortress. Who lived here I do not know, but it has been "
 "long since abandoned."
-msgstr "Starobylá pevnost. Nevím kdo tu žil, ale je už dlouho opuštěná."
+msgstr "Starobylá pevnost. Nevím, kdo tu žil, ale je už dlouho opuštěná."
 
 #. [message]: speaker=$ally_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1123
@@ -7167,7 +7167,7 @@ msgid ""
 "Behold, we come now to an ancient fortress. Who lived here I do not know, "
 "but it has been long since abandoned."
 msgstr ""
-"Zadržte, přicházíme ke starobylé pevnosti. Nevím kdo tam žil, ale je už "
+"Zadržte, přicházíme ke starobylé pevnosti. Nevím, kdo tam žil, ale je už "
 "dlouho opuštěná."
 
 #. [message]: speaker=Nym
@@ -7188,7 +7188,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1140
 msgid "I wish there was another path, but it seems we have no choice."
 msgstr ""
-"Přál bych si aby existovala jiná cesta, ale zdá se, že nemáme na výběr."
+"Přál bych si, aby existovala jiná cesta, ale zdá se, že nemáme na výběr."
 
 #. [message]: speaker=$ally_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1145
@@ -7200,10 +7200,10 @@ msgid ""
 "it will cost us precious minutes. With the water rising that may be time we "
 "don’t have to spend. I leave the final decision up to you, Kaleh."
 msgstr ""
-"Počkat. místnost před námi je asi dobře chráněná pastmi. Je tu jiná cesta. "
+"Počkat. Místnost před námi je asi dobře chráněná pastmi. Je tu jiná cesta. "
 "Když jsem tu předtím zkoumal, našel jsem tajný průchod, který obchází hlavní "
-"bránu. Hledej podél jižní zdi této jeskyně a najdeš je. Hlavní problém je, "
-"že ten průchod je dlouhý a větrný; ztratíme tím drahocenné minuty. "
+"bránu. Hledej podél jižní zdi této jeskyně a najdeš jej. Hlavní problém je, "
+"že ten průchod je dlouhý a větrný; ztratíme tím drahocenné minuty. "
 "Stoupající voda nám nemusí dát dost času. Rozhodni ty, Kalehu."
 
 #. [message]: speaker=unit
@@ -7372,7 +7372,7 @@ msgid ""
 "enough to step into them."
 msgstr ""
 "Počkat, ty runy vydávají chladně modrou záři a nezdají se mi tak výhružné "
-"jako ty žhnoucí rudé které jsme viděli předtím. Třeba nám nějaká magie, "
+"jako ty žhnoucí rudé, které jsme viděli předtím. Třeba nám nějaká magie, "
 "která tu zbyla, pomůže, pokud bude někdo dost odvážný a postaví se na runy."
 
 #. [message]: speaker=unit
@@ -7426,7 +7426,7 @@ msgid ""
 "sword with your whole body, not just your arms."
 msgstr ""
 "Dobrá, vy skrčkové, zkusíme to znovu. Piore, nezapomeň udeřovat mečem "
-"zároveň s celým tělem, ne jen rukama."
+"zároveň s celým tělem, ne jen rukama."
 
 #. [message]: speaker=Novice Pior
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1639
@@ -7459,8 +7459,8 @@ msgid ""
 "And remember, everyone, we’re going to keep practicing until I’m satisfied. "
 "So, ready... attack!"
 msgstr ""
-"A pamatujte si všichni, budeme trénovat dokud nebudu spokojen. Takže, "
-"připraveni,... útok!"
+"A pamatujte si všichni, budeme trénovat, dokud nebudu spokojen. Takže, "
+"připraveni... útok!"
 
 # pův.: trénovací panáky
 #. [message]
