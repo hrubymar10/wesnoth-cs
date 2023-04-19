@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-04-18 19:58+0200\n"
+"PO-Revision-Date: 2023-04-19 21:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1029,9 +1029,9 @@ msgid ""
 "see to the dead before we leave. Garak, you and your men start collecting "
 "our dead. Nym, help me find oil and wood so that we may build a pyre."
 msgstr ""
-"Kalehu, nechci se tu zdržovat déle než je nutné, ale souhlasím s tím, že se "
-"musíme postarat o mrtvé, než odejdeme. Garaku, začni se svými muži sbírat "
-"naše mrtvé. Nym, pomoz mi najít olej a dřevo, ať můžeme postavit pohřební "
+"Kalehu, nechci se tu zdržovat déle, než je nutné, ale souhlasím s tím, že se "
+"musíme postarat o mrtvé, než odejdeme. Garaku, začni se svými muži sbírat "
+"naše mrtvé. Nym, pomoz mi najít olej a dřevo, ať můžeme postavit pohřební "
 "hranici."
 
 #. [message]: speaker=narrator
@@ -4600,8 +4600,8 @@ msgid ""
 "Wait a moment, Grimnir, we must deal with this mysterious cloaked figure "
 "before we can follow you."
 msgstr ""
-"Počkej chvíli, Grimnire, musíme se nejdřív vypořádat s tou zahalenou "
-"postavou než tě budeme moci následovat."
+"Počkej chvíli, Grimnire, musíme se nejdřív vypořádat s tou zahalenou "
+"postavou, než tě budeme moci následovat."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2603
@@ -6944,8 +6944,8 @@ msgid ""
 "No, but the water is rising to the southeast as well. The river must lead to "
 "more tunnels than we first thought."
 msgstr ""
-"Ne, ale voda stoupá i na jihovýchodě. Ta řeka musela vést do více tunelů než "
-"jsme si původně mysleli."
+"Ne, ale voda stoupá i na jihovýchodě. Ta řeka musela vést do více tunelů, "
+"než jsme si původně mysleli."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:842
@@ -7509,7 +7509,7 @@ msgid ""
 "Hey, c’mon, maybe we can grab some food from the kitchen before we have to "
 "go to prayers."
 msgstr ""
-"Hele, poďte, třeba se nám podaří v kuchyni sehnat nějaký žvanec než budeme "
+"Hele, poďte, třeba se nám podaří v kuchyni sehnat nějaký žvanec, než budeme "
 "muset jít na modlitby."
 
 #. [message]: speaker=Novice Pior
@@ -7830,7 +7830,7 @@ msgid ""
 "Actions speak louder than words, and I intend to send them back to whatever "
 "stygian pits they came from!"
 msgstr ""
-"Činy hovoří hlasitěji než slova, a já je hodlám poslat zpátky do těch "
+"Činy hovoří hlasitěji než slova a já je hodlám poslat zpátky do těch "
 "pekelných jam, odkud vylezli!"
 
 #. [message]: speaker=unit
@@ -9969,7 +9969,7 @@ msgid ""
 "Indeed, we owe you a great debt. You have done well Esanoo, better than I "
 "could have hoped."
 msgstr ""
-"Opravdu, dlužíme vám mnoho. Vedl sis dobře, Esanoo, lépe než jsem doufal."
+"Opravdu, dlužíme vám mnoho. Vedl sis dobře, Esanoo, lépe, než jsem doufal."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:651
@@ -10018,7 +10018,7 @@ msgid ""
 "Indeed you have done well, far better than I could have hoped. We shall talk "
 "more later, but for now we have to free the rest of our brethren."
 msgstr ""
-"Opravdu sis vedl dobře, mnohem lépe než jsem kdy doufal. Později si o tom "
+"Opravdu sis vedl dobře, mnohem lépe, než jsem kdy doufal. Později si o tom "
 "povíme víc, ale teď musíme osvobodit zbytek našich bratří."
 
 #. [message]: speaker=Kaleh
@@ -10059,7 +10059,7 @@ msgid ""
 "hoped. We shall talk more later, but for now we have to free the rest of our "
 "brethren."
 msgstr ""
-"Opravdu sis vedl dobře, mnohem lépe než jsem kdy doufala. Později si o tom "
+"Opravdu sis vedl dobře, mnohem lépe, než jsem kdy doufala. Později si o tom "
 "povíme víc, ale teď musíme osvobodit zbytek našich bratrů."
 
 #. [message]: speaker=Kaleh
@@ -10840,10 +10840,10 @@ msgid ""
 "been spilled already. Knock ’em out, wound them, kill them only if you must. "
 "But we must stop Tanstafaal in his lunacy before he destroys us entirely."
 msgstr ""
-"Děkuji, jsem si jistý, že budete v mělkých vodách velmi užiteční. Dobrá, "
-"lidičky, nehodlám jich zabít ani o trochu víc než bude nutné. Teklo již "
+"Děkuji, jsem si jistý, že budete v mělkých vodách velmi užiteční. Dobrá, "
+"lidičky, nehodlám jich zabít ani o trochu víc, než bude nutné. Teklo již "
 "příliš mnoho krve. Bijte je, raňte je, ale zabíjejte, jen když budete muset. "
-"Musíme ale zastavit Tanstafaala v jeho šílenství dříve než nás úplně zničí."
+"Musíme ale zastavit Tanstafaala v jeho šílenství dříve, než nás úplně zničí."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1898
