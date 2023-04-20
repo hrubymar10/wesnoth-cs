@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-04-19 21:41+0200\n"
+"PO-Revision-Date: 2023-04-20 21:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7690,9 +7690,9 @@ msgid ""
 "no idea, but the dried blood and cracked bones on the altar do not bode well."
 msgstr ""
 "Všechny cesty vedou do této komory. Je to jenom slepá ulička? Zdá se, že tu "
-"byl nějaký druh chrámu, ale je asi už dost dlouho opuštěný. Všechno co zbývá "
-"je kamenný oltář. Nemám představu jakého boha tu uctívali, ale zaschlá krev "
-"a rozlámané kosti na oltáři nevypadají moc dobře."
+"byl nějaký druh chrámu, ale je asi už dost dlouho opuštěný. Všechno, co "
+"zbývá, je kamenný oltář. Nemám představu, jakého boha tu uctívali, ale "
+"zaschlá krev a rozlámané kosti na oltáři nevypadají moc dobře."
 
 #. [message]: speaker=$ally_name
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2179
@@ -7794,7 +7794,7 @@ msgid ""
 "what it will do, but we’re running out of options."
 msgstr ""
 "Co je tohle? Pod okrajem oltáře se skrývá železná páka. Vypadá trochu "
-"rezavě, ale s trochou námahy za ni určitě zatáhnu. Nevím, co to udělá, ale "
+"rezavě, ale s trochou námahy za ni určitě zatáhnu. Nevím, co to udělá, ale "
 "moc možností nám nezbývá."
 
 #. [option]
@@ -8030,7 +8030,7 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2701
 msgid "Now, Keratur, I will have my answers. Did you have a hand in this?"
-msgstr "A teď Kerature, dostanu odpovědi. Máš v tom prsty?"
+msgstr "A teď, Kerature, dostanu odpovědi. Máš v tom prsty?"
 
 #. [message]: speaker=Cloaked Figure
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2717
@@ -8064,8 +8064,8 @@ msgid ""
 "the dunes. A cabal of necromancers... they found me and made me watch, they "
 "made me watch it all!"
 msgstr ""
-"Che, che, ne, nenašli jste mě. Probral jsem se uvízlý pod troskami a když se "
-"mi konečně podařilo uprchnout, byla už vesnice opuštěná. Jen pach smrti "
+"Che, che, ne, nenašli jste mě. Probral jsem se uvízlý pod troskami, a když "
+"se mi konečně podařilo uprchnout, byla už vesnice opuštěná. Jen pach smrti "
 "a zkáza. A pak jsem je spatřil, hordy nemrtvých se valily přes duny, vlna za "
 "vlnou. Spolek nekromantů... našli mne a donutili dívat se, musel jsem se na "
 "to všechno dívat!"
@@ -8084,9 +8084,9 @@ msgid ""
 "onto the sand and then I heard their screams of agony and pain..."
 msgstr ""
 "Přivedli nějaké lidi, pevně svázané. Tak krásná... měla ohnivě rudé vlasy... "
-"podřízli ji... stále slyším její výkřiky. Ale to byl jen začátek. Odříkali "
-"slova moci a vylili horkou krev na písek a pak jsem slyšel jejich výkřiky "
-"agónie a bolesti..."
+"podřízli ji... stále slyším její křik. Ale to byl jen začátek. Odříkali "
+"slova moci a vylili horkou krev na písek a pak jsem slyšel jejich výkřiky "
+"agónie a bolesti..."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2747
@@ -8115,10 +8115,10 @@ msgid ""
 "felt their torment. But no, they wouldn’t kill me. They let me go as a "
 "witness and laughed as I scrambled over the dunes."
 msgstr ""
-"Hlupáku. To nezastavilo jejich temné síly. Nic je nemohlo zastavit. Cítil "
-"jsem pohyb letících duchů, a nesnesitelný chlad, strašlivý chlad. Na chvíli "
+"Hlupačko. To nezastavilo jejich temné síly. Nic je nemohlo zastavit. Cítil "
+"jsem pohyb letících duchů a nesnesitelný chlad, strašlivý chlad. Na chvíli "
 "jsem cítil jejich utrpení. Ale ne, nezabili mne. Nechali mě jít jako svědka "
-"a smáli se, když jsem se škrábal přes duny."
+"a smáli se, když jsem se škrábal přes duny."
 
 #. [message]: speaker=Cloaked Figure
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2767
@@ -8212,7 +8212,7 @@ msgstr ""
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2832
 msgid "You can go Nym, just be careful."
-msgstr "Můžeš jít Nym, jen buď opatrná."
+msgstr "Můžeš jít, Nym, jen buď opatrná."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2837
@@ -8249,7 +8249,7 @@ msgid ""
 "of the mountains looks like."
 msgstr ""
 "No, Nym má pravdu, nevíme co je tam venku. Měli bychom postavit kolem ústí "
-"jeskyně hlídky a začít zjišťovat jak vypadá tato strana hor."
+"jeskyně hlídky a začít zjišťovat, jak vypadá tato strana hor."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2910
@@ -8263,7 +8263,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2915
 msgid "And I think I see a faint light off to the right."
-msgstr "A myslím, že napravo vidím matně světlo."
+msgstr "A myslím, že napravo vidím matné světlo."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2920
@@ -14839,9 +14839,9 @@ msgid ""
 "where he came from or why he acts the way he does, but the trail of death he "
 "leaves in his wake is unmistakeable."
 msgstr ""
-"Temný zabiják se objevuje a mizí mžikem oka. Nikdo neví, odkud přišel nebo "
-"proč jedná tak, jak jedná, ale stopa smrti kterou za sebou zanechává na své "
-"pouti je nezaměnitelná."
+"Temný zabiják se objevuje a mizí mžikem oka. Nikdo neví, odkud přišel nebo "
+"proč jedná tak, jak jedná, ale stopa smrti, kterou za sebou zanechává na své "
+"pouti, je nezaměnitelná."
 
 #. [attack]: type=blade
 #: data/campaigns/Under_the_Burning_Suns/units/other/Dark_Assassin_Uncloaked.cfg:40
