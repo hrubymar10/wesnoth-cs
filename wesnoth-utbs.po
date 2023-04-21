@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-04-20 21:33+0200\n"
+"PO-Revision-Date: 2023-04-21 22:43+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8602,8 +8602,8 @@ msgid ""
 "Do you doubt my powers? You have come out of the darkness, and I appear unto "
 "you to congratulate you."
 msgstr ""
-"Snad nepochybuješ o mé moci? Vyšel jsi z temnot, a já se ti zjevuji, abych "
-"ti gratulovala."
+"Snad nepochybuješ o mé moci? Vyšel jsi z temnot a já se ti zjevuji, abych ti "
+"gratulovala."
 
 #. [message]: speaker=$talking_unit.id
 #. [message]: speaker=Zhul
@@ -8637,14 +8637,14 @@ msgid ""
 "and into a life of eternal salvation. Crossing under the mountains was a "
 "very important step, and your destruction of the unbelievers proves your—"
 msgstr ""
-"Ano, vybrala jsem tě jako toho, kdo povede můj lid z nebezpečí a smrti do "
-"života věčné spásy. Průchod pod horami byl velmi důležitý krok, a zničení "
-"nevěřících potvrdilo tvou-"
+"Ano, vybrala jsem tě jako toho, kdo povede můj lid z nebezpečí a smrti do "
+"života věčné spásy. Průchod pod horami byl velmi důležitý krok a zničení "
+"nevěřících potvrdilo tvou —"
 
 #. [message]: speaker=$ally_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3334
 msgid "Kaleh, a quick question—"
-msgstr "Kalehu, jenom otázečku-"
+msgstr "Kalehu, jenom otázečku —"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3341
@@ -8715,9 +8715,9 @@ msgid ""
 "may seem strange, but they are my obedient followers. You must trust them, "
 "they will show you the way north. Follow them and they will lead you to me."
 msgstr ""
-"A teď, v údolí žije skupina lidí, kteří také spatřili světlo. Mohou se zdát "
+"A teď, v údolí žije skupina lidí, kteří také spatřili světlo. Mohou se zdát "
 "podivní, ale jsou to mí poslušní následovníci. Musíš jim věřit, ukážou vám "
-"cestu na sever. Následujte je a zavedou vás ke mně."
+"cestu na sever. Následujte je a zavedou vás ke mně."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3401
@@ -8771,8 +8771,8 @@ msgid ""
 "My name is Kaleh, and these are my people. We come from the south and "
 "unfortunately we found your men dead—"
 msgstr ""
-"Mé jméno je Kaleh, a to je můj lid. Přicházíme z jihu a naneštěstí jsme "
-"našli vaše muže mrtvé..."
+"Mé jméno je Kaleh a to je můj lid. Přicházíme z jihu a naneštěstí jsme našli "
+"vaše muže mrtvé..."
 
 # pův.: jestli vás nevezmu za slovo
 #. [message]: speaker=Sergeant Durstrag
@@ -8828,7 +8828,7 @@ msgid ""
 "we have a whole legion of elves, consorting with trolls, sneaking up behind "
 "our defenses. This looks an awful lot like an invasion to me."
 msgstr ""
-"Oh, není tu nic k vysvětlování, je úplně jasné co se tu chystáte vyvádět. "
+"Oh, není tu nic k vysvětlování, je úplně jasné, co se tu chystáte vyvádět. "
 "Máme tu celou legii elfů provázenou trolly, která se, jak překvapivé, snaží "
 "proplížit za naši obrannou linii. Připadá mi to trochu moc jako invaze."
 
@@ -8839,7 +8839,7 @@ msgid ""
 "we have a whole legion of elves, consorting with dwarves, sneaking up behind "
 "our defenses. This looks an awful lot like an invasion to me."
 msgstr ""
-"Oh, není tu nic k vysvětlování, je úplně jasné co se tu chystáte vyvádět. "
+"Oh, není tu nic k vysvětlování, je úplně jasné, co se tu chystáte vyvádět. "
 "Máme tu celou legii elfů provázenou trpaslíky, která se, jak překvapivé, "
 "snaží proplížit za naši obrannou linii. Připadá mi to trochu moc jako invaze."
 
@@ -8865,10 +8865,10 @@ msgid ""
 "Now you and your people just lay down your weapons and we will take you into "
 "custody to be judged. They’ll deal with you as they see fit."
 msgstr ""
-"Nemám představu o čem to plácáš, elfe, ale máš štěstí žes mě zastihl v dobré "
-"náladě. Vysvětlíš všechno Železné radě. Teď ty a tvůj lid prostě složte "
-"zbraně a my vás zatkneme, aby vás mohli soudit. Bude o vás rozhodnuto tak, "
-"jak uznají za vhodné."
+"Nemám představu, o čem to plácáš, elfe, ale máš štěstí, žes mě zastihl "
+"v dobré náladě. Vysvětlíš všechno Železné radě. Teď ty a tvůj lid prostě "
+"složte zbraně a my vás zatkneme, aby vás mohli soudit. Bude o vás rozhodnuto "
+"tak, jak uznají za vhodné."
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3505
@@ -8914,8 +8914,8 @@ msgid ""
 "threaten me and my people. I have not come through peril and darkness just "
 "to surrender to one such as you."
 msgstr ""
-"Pak mě zabij, jestli musíš. Ale nevzdám se tomu, kdo vyhrožuje mně a mému "
-"lidu. Neprošel jsem utrpením a temnotou jenom proto, abych se vzdal někomu "
+"Pak mě zabij, jestli musíš. Ale nevydám se těm, kdo vyhrožují mně a mému "
+"lidu. Neprošel jsem utrpením a temnotou jenom proto, abych se vzdal někomu "
 "takovému, jako jsi ty."
 
 #. [message]: speaker=Sergeant Durstrag
@@ -8937,9 +8937,9 @@ msgid ""
 "as you like, but know that while you may be the appointed leader of your "
 "people, I am your god, and you defy me at your peril!"
 msgstr ""
-"Znechucuješ mne, Kalehu. Jsi slabý a nehoden mého vedení... Dělej, jak "
-"myslíš. Ale věz, že i když můžeš být ustanoveným vůdcem svého lidu, vaší "
-"bohyní jsem já a ty se mi vzpíráš na vlastní nebezpečí!"
+"Znechucuješ mne, Kalehu. Jsi slabý a nehoden mého vedení... Dělej, jak "
+"myslíš. Ale věz, že i když můžeš být ustanoveným vůdcem svého lidu, vaší "
+"bohyní jsem já a ty se mi vzpíráš na vlastní nebezpečí!"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3578
@@ -8980,7 +8980,7 @@ msgid ""
 "Grog no like humans either. They mean. But they sound great when they go "
 "squish."
 msgstr ""
-"Grog taky nemá rád lidi. Jsou skoupí. Ale dělají skvělé zvuky když se "
+"Grog taky nemá rád lidi. Jsou skoupí. Ale dělají skvělé zvuky, když se "
 "rozmačkávají."
 
 #. [message]: speaker=Nog
