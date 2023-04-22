@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-04-21 22:38+0200\n"
+"PO-Revision-Date: 2023-04-22 18:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -125,7 +125,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/lua/theme.lua:20
 msgid "stunned: This unit is stunned. It cannot enforce its Zone of Control."
 msgstr ""
-"omráčení: Tato jednotka je omráčená. Nemůže nadále chránit svou zónu "
+"omráčení: Tato jednotka je omráčená. Nemůže nadále udržet svou oblast "
 "kontroly."
 
 #. [lua]: wesnoth.interface.game_display.unit_status
