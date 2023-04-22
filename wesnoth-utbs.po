@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-04-22 18:53+0200\n"
+"PO-Revision-Date: 2023-04-22 18:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8969,7 +8969,7 @@ msgstr "Ah! Vystrašila jsi mě, Nym. Neslyšel jsem tě přicházet."
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3763
 msgid "Of course you didn’t. That’s why it’s called sneaking."
-msgstr "Pochopitelně že ne. Proto se tomu říká plížení."
+msgstr "Pochopitelně, že ne. Proto se tomu říká plížení."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3768
@@ -9000,9 +9000,9 @@ msgid ""
 "be crushed."
 msgstr ""
 "Špatná zpráva – slyšela jsem velitele, jak přikazoval skupině jeho mužů, aby "
-"se připravila k jízdě na sever a přivolali posily. Vypadá to, že na severu "
+"se připravila k jízdě na sever a přivolali posily. Vypadá to, že na severu "
 "mají lidé větší vesnici. Jejich pevnost je bráněna dost slabě, nejspíš je "
-"dokážeme porazit i v našem současném oslabeném stavu, ale kdyby přivedli "
+"dokážeme porazit i v našem současném oslabeném stavu, ale kdyby přivedli "
 "celou svou armádu, obávám se, že by nás snadno rozdrtili."
 
 #. [message]: speaker=Kaleh
@@ -9038,8 +9038,8 @@ msgid ""
 "Can’t the dead ever just stay dead? And aren’t they trapped by the flooded "
 "tunnels and caves?"
 msgstr ""
-"Nemůžou snad ti mrtví prostě zůstat mrtví? A copak je neuvěznily zatopené "
-"tunely a jeskyně?"
+"Nemůžou snad ti mrtví prostě zůstat mrtví? A copak je neuvěznily zatopené "
+"tunely a jeskyně?"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3875
@@ -9048,9 +9048,9 @@ msgid ""
 "stop them. Besides, you saw how the ghost just flew through the rock; if "
 "they can move through walls then what do they care about flooded tunnels?"
 msgstr ""
-"Nemrtví nemusí dýchat a nemyslím, že by je trocha vody mohla zastavit. "
+"Nemrtví nemusí dýchat a nemyslím, že by je trocha vody mohla zastavit. "
 "Mimoto, viděla jsi jak ten duch prostě proletěl skálou; jestli mohou "
-"procházet zdmi, proč by se měli starat o zatopené chodby?"
+"procházet zdmi, proč by se měli starat o zatopené chodby?"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3880
