@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-23 03:24 UTC\n"
-"PO-Revision-Date: 2023-03-21 20:19+0100\n"
+"PO-Revision-Date: 2023-04-25 21:05+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -106,13 +106,13 @@ msgstr "Různé"
 #. [achievement]: id=did_rat_eater
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:10
 msgid "A Big Hunk of Flesh"
-msgstr ""
+msgstr "Pořádný flák masa"
 
 #. [achievement]: id=did_rat_eater
 #. the achievements are somewhat written as if from Malin's point of view which is why there's some weird and sometimes quirky flavor in them
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:12
 msgid "Feed a Ghoul way too many rats."
-msgstr ""
+msgstr "Nakrm nějakého požírače mrtvých opravdu hodně krysami."
 
 #. [achievement]: id=did_drogan
 #. you can interpret this as a Harry Potter reference or you can think about it as Malin making fun of Drogan's country accent, or you can take artistic liberty with the translation
@@ -7129,13 +7129,3 @@ msgid ""
 msgstr ""
 "<italic>text='Zmrzačené'</italic> jednotky mají o 3 pohybové body méně než "
 "obvykle."
-
-#~ msgid "Rat Eater"
-#~ msgstr "Krysožrout"
-
-#~ msgid ""
-#~ "Have a Ghoul eat way too many rats during Descent into Darkness's A "
-#~ "Haunting in Winter."
-#~ msgstr ""
-#~ "Během Lovu v zimě v Pádu do temnoty nech nějakého požírače mrtvých sežrat "
-#~ "opravdu hodně krys."
