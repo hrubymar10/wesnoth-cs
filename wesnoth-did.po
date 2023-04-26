@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-23 03:24 UTC\n"
-"PO-Revision-Date: 2023-04-25 21:05+0200\n"
+"PO-Revision-Date: 2023-04-26 23:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -117,65 +117,64 @@ msgstr "Nakrm nějakého požírače mrtvých opravdu hodně krysami."
 #. [achievement]: id=did_drogan
 #. you can interpret this as a Harry Potter reference or you can think about it as Malin making fun of Drogan's country accent, or you can take artistic liberty with the translation
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:19
-#, fuzzy
-#| msgid "Death of Drogan"
 msgid "Yer a Ghoul, Drogan"
-msgstr "Drogan zemře"
+msgstr "Si požírač mrtvejch, Drogane"
 
 #. [achievement]: id=did_drogan
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:20
 msgid "Make that arrogant jerk Drogan into just another one of your minions."
-msgstr ""
+msgstr "Udělej z toho namyšleného hňupa Drogana dalšího ze svých pohůnků."
 
 #. [achievement]: id=did_sushi
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:26
 msgid "High Grade Sushi"
-msgstr ""
+msgstr "Lepší suši"
 
 #. [achievement]: id=did_sushi
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:27
 msgid "Upgrade a normal swimmer zombie into a super zombie."
-msgstr ""
+msgstr "Povyš obyčejného plavce na superzombii."
 
 #. [achievement]: id=did_drunk
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:33
 msgid "Drunken Fist Style"
-msgstr ""
+msgstr "Styl opilé pěsti"
 
 #. [achievement]: id=did_drunk
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:34
 msgid "Make the drunken sailor zombie drink some poorly aged rum."
-msgstr ""
+msgstr "Nech oživlou mrtvolu opilého námořníka vypít trochu vyčichlého rumu."
 
 #. [achievement]: id=did_monolith
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:40
 msgid "A Monolith of Stone"
-msgstr ""
+msgstr "Kamenný monolit"
 
 #. [achievement]: id=did_monolith
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:41
 msgid "Find and explore all eight unique monoliths in a single playthrough."
 msgstr ""
+"Najdi a prozkoumej všech osm jedinečných monolitů v rámci jednoho hraní."
 
 #. [achievement]: id=did_reflection
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:48
 msgid "Am I the Bad Guy?"
-msgstr ""
+msgstr "Jsem já ten špatný?"
 
 #. [achievement]: id=did_reflection
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:49
 msgid "Reflect on all of your doings. Did you learn anything from them?"
-msgstr ""
+msgstr "Pohleď na všechny své činy. Poučil ses z nich?"
 
 #. [achievement]: id=did_tentacle
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:55
 msgid "Fish are Friends not Food"
-msgstr ""
+msgstr "Ryba je kámoš, né žrádlo"
 
 #. [achievement]: id=did_tentacle
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:56
 msgid "Find and eat Inky in the secret underground squid village."
-msgstr ""
+msgstr "Najdi a sněz Inkyho v tajné podzemní vesnici hlavonožců."
 
 #. [scenario]: id=01_Saving_Parthyn
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:5
@@ -6049,7 +6048,7 @@ msgstr "... Takže můj boj proti skřetům je ztracen!"
 #. [scenario]: id=11_Squidville
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:5
 msgid "Squidville"
-msgstr ""
+msgstr "Chapadlovice"
 
 #. [side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:41
