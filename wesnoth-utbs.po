@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-04-22 18:58+0200\n"
+"PO-Revision-Date: 2023-04-28 20:43+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9253,7 +9253,7 @@ msgstr "Zbytek lidí prchá."
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4104
 msgid ""
 "Let them go. We have won this battle and I am weary of all this bloodshed."
-msgstr "Nechte je jít. Tuto bitvu jsme vyhráli a už se mi tyhle jatka hnusí."
+msgstr "Nechte je jít. Tuto bitvu jsme vyhráli a už se mi tahle jatka hnusí."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4109
@@ -9325,8 +9325,8 @@ msgid ""
 "foreign lands when I don’t know what’s in front of us. We’ve lost too many "
 "people already. I don’t want to lead us into a trap."
 msgstr ""
-"Souhlasím, myslím, že čím dříve údolí opustíme, tím lépe. Ale nevíme nic o "
-"okolním terénu. Pokud nás nikdo nepovede, nebudeme vědět jaká nebezpečí "
+"Souhlasím, myslím, že čím dříve údolí opustíme, tím lépe. Ale nevíme nic "
+"o okolním terénu. Pokud nás nikdo nepovede, nebudeme vědět, jaká nebezpečí "
 "mohou být poblíž. Nelíbí se mi ta představa, posílat naše lidi do cizích "
 "území, když nevím, co je před námi. Už jsme jich ztratili příliš mnoho. "
 "Nechci nás vést do léčky."
@@ -9350,8 +9350,8 @@ msgid ""
 "immediate vicinity we should be pretty safe."
 msgstr ""
 "Pravda. Nemrtví duchové mají často vazbu na místo, kde zemřeli; čím dále se "
-"odváží, tím se stávají slabějšími. Pokud se vzdálíme z bezprostřední "
-"blízkosti, měli bychom být celkem v bezpečí."
+"odváží, tím se stávají slabšími. Pokud se vzdálíme z bezprostřední "
+"blízkosti, měli bychom být celkem v bezpečí."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4164
@@ -9503,7 +9503,7 @@ msgstr "Vypadáš opravdu ztrhaně, Nym. Určitě jsi v pořádku?"
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4573
 msgid "I’m fine. But I found someone who really wanted to speak with you."
-msgstr "Jasně. Ale našla jsem někoho kdo s tebou chtěl mluvit."
+msgstr "Jasně. Ale našla jsem někoho, kdo s tebou chtěl mluvit."
 
 #. [message]: speaker=$ally_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4578
@@ -9553,7 +9553,7 @@ msgstr ""
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4615
 msgid "And why should we trust anything you say?"
-msgstr "A proč bychom měli věřit čemukoliv co říkáš?"
+msgstr "A proč bychom měli věřit čemukoliv, co říkáš?"
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4620
@@ -9562,9 +9562,9 @@ msgid ""
 "with you about concerns the fate of your people. Apparently it concerns "
 "‘Yechnagoth’ and ‘Zhangor’. She said that you would understand, Kaleh."
 msgstr ""
-"Naše vůdkyně očekávala, že budeš podezřívavý. Říkala, že to, co s tebou "
-"musíme projednat, se týká osudu tvého lidu. A taky ještě říkala, že se to "
-"týká „Yechnagoth“ a „Zhangora“. Prý to určitě pochopíš, Kalehu."
+"Naše vůdkyně očekávala, že možná budete podezřívaví. Říkala, že to, co "
+"s tebou musíme projednat, se týká osudu tvého lidu. A taky ještě říkala, že "
+"se to týká „Yechnagoth“ a „Zhangora“. Prý to určitě pochopíš, Kalehu."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4625
@@ -9578,9 +9578,9 @@ msgid ""
 "find you and to bring you and your people to meet with our wise leader. The "
 "problem is that I don’t know where she is hiding."
 msgstr ""
-"Děkuji ti, Kalehu. Teď tě musím o něco poprosit. Naše instrukce byly najít "
-"tě a dovést tě i s tvým lidem na schůzku s naší moudrou vůdkyní. Problém je "
-"v tom, že nevím, kde se skrývá."
+"Děkuji ti, Kalehu. Teď tě musím o něco poprosit. Naše instrukce byly najít "
+"tě a dovést tě i s tvým lidem na schůzku s naší moudrou vůdkyní. Problém je "
+"v tom, že nevím, kde se skrývá."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4635
@@ -9601,15 +9601,15 @@ msgid ""
 "the north. If we are to have any chance of finding our wise leader, we must "
 "first rescue them. I would do it myself, but..."
 msgstr ""
-"Je to složité a nevím, kolik vám toho vlastně mohu říci. Můj lid bojuje "
+"Je to složité a nevím, kolik vám toho vlastně mohu říci. Můj lid bojuje "
 "zoufalou válku proti... mocnému nepříteli. Mnohokrát se pokusil zavraždit "
 "naší moudrou vůdkyni. Obávala se, že její přítomnost bude nebezpečím pro "
-"zbytek z nás. Takže hned poté, co nás vyslala, se někde ukryla. Jsem "
+"zbytek z nás. Takže hned poté, co nás vyslala, se někde ukryla. Jsem "
 "nejmladší člen naší skupiny, neřekli mi, kde ji mám hledat. Pochopte, všude "
-"jsou zvědové. Jen vůdcové mé skupiny věděli, kde je. Ale všechy, co přežili, "
-"zajali ti špinaví lidé. Drží je v osadě na severu. Pokud se chceme pokusit "
-"najít naši moudrou vůdkyni, musíme je nejdříve osvobodit. Udělal bych to "
-"sám, ale..."
+"jsou zvědové. Jen vůdcové mé skupiny věděli, kde je. Ale všechny, co "
+"přežili, zajali ti špinaví lidé. Drží je v osadě na severu. Pokud se chceme "
+"pokusit najít naši moudrou vůdkyni, musíme je nejdříve osvobodit. Udělal "
+"bych to sám, ale..."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4645
@@ -9714,7 +9714,7 @@ msgid ""
 "Now that we’re down off the hills, you can’t even see all that water, it’s "
 "hidden by the trees. I never thought I would see so many trees in one place."
 msgstr ""
-"Teď když jsme sešli z pahorků, ani není vidět všechnu tu vodu, zakrývají ji "
+"Teď když jsme sešli z pahorků ani není vidět všechnu tu vodu, zakrývají ji "
 "stromy. Nikdy bych nemyslel, že uvidím zaráz tolik stromů."
 
 #. [message]: speaker=Zhul
@@ -9920,9 +9920,9 @@ msgid ""
 "lot. Even if the humans know we’re coming, we can still take them. Just be "
 "careful and stay in the back until we reach the water again."
 msgstr ""
-"To nevadí, nejsi zvyklý být na suché zemi, a dost sis toho vytrpěl. I když "
-"lidé ví, že přicházíme, stále je dokážeme zvládnout. Jen buď opatrný a "
-"zůstaň vzadu, dokud nedojdeme znova k vodě."
+"To nevadí, nejsi zvyklý být na suché zemi a dost sis toho vytrpěl. I když "
+"lidé ví, že přicházíme, stále je dokážeme zvládnout. Jen buď opatrný "
+"a zůstaň vzadu, dokud nedojdeme znova k vodě."
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:532
@@ -9931,7 +9931,7 @@ msgid ""
 "again. It itches something terrible."
 msgstr ""
 "Tak na to se doopravdy těším. Obávám se, že mi zase úplně vyschly šupiny. "
-"Úplně neuvěřitelně mě svědí."
+"Neuvěřitelně mě svědí."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:536
@@ -9942,8 +9942,8 @@ msgid ""
 "can make it in time."
 msgstr ""
 "No, jestli chceme zachránit ty mořské lidi, nemáme ani chvíli nazbyt. Lidé "
-"říkali, že je obětují za dva dny. Raději bychom se tu měli utábořit a "
-"zaútočit na sever tak rychle jak jen to bude možné. Jen doufám, že to "
+"říkali, že je obětují za dva dny. Raději bychom se tu měli utábořit "
+"a zaútočit na sever tak rychle, jak jen to bude možné. Jen doufám, že to "
 "stihneme."
 
 #. [event]
