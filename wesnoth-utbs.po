@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-04-30 09:53+0200\n"
+"PO-Revision-Date: 2023-05-01 11:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10767,7 +10767,6 @@ msgstr ""
 "zapotřebí více než toto, chlapče. Ale ti elfové musí být na jiném ostrově, "
 "jak překročíme hlubokou vodu?"
 
-# Má to původní anglické vůbec smysl? Podle mě ne. Nehodláme nijak škodit // činy hovoří ... eh? Jak to souvisí?
 #. [message]: race=merman
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1874
 msgid ""
@@ -10778,12 +10777,12 @@ msgid ""
 "to the island where the other elves must be. We can show you these paths and "
 "help you across so that you may put down this rebellion."
 msgstr ""
-"V tom vám, myslím, dokážeme pomoci. Jsme velmi vděční za to, co jsi pro nás "
-"udělal, Kalehu, a i když vám nehodláme nijak škodit, máš pravdu v tom, že "
-"činy hovoří hlasitěji než slova. Víme toho o vodách a souvisejících věcech "
-"více než vy a všimli jsme si, že na ostrov, kde musí být ti další elfové, "
-"vedou dva mělké chodníky. Ukážeme vám je a pomůžeme na druhou stranu, abyste "
-"mohli potlačit to povstání."
+"V tom vám, věřím, dokážeme pomoci. Jsme velmi vděční za to, co jsi pro nás "
+"udělal, Kalehu, a i když vás ujišťujeme, že vám nehodláme nijak škodit, máš "
+"pravdu v tom, že činy hovoří hlasitěji než slova. Víme toho o vodách "
+"a souvisejících věcech více než vy a všimli jsme si, že na ostrov, kde musí "
+"být ti další elfové, vedou dva mělké chodníky. Ukážeme vám je a pomůžeme na "
+"druhou stranu, abyste mohli potlačit to povstání."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1907
