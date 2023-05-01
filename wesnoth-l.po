@@ -2,14 +2,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-23 03:24 UTC\n"
-"PO-Revision-Date: 2023-04-30 07:53+0200\n"
+"PO-Revision-Date: 2023-05-01 11:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1558,10 +1558,8 @@ msgstr ""
 
 #. [modify_unit]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:828
-#, fuzzy
-#| msgid "Kestrel"
 msgid "General Kestrel"
-msgstr "Kestrel"
+msgstr "Generál Kestrel"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:835
@@ -1859,11 +1857,12 @@ msgstr "Rychle zpátky do stínů! Možná je můžem ještě setřást!"
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:601
 msgid "Uncle, we did it! We beat one of them iron monsters!"
 msgstr ""
+"Strejdo, dokázali jsme to! Sundali jsme jednu z těch železnejch potvor!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:605
 msgid "A fine job lad, but more sure gots to be coming. Let’s keep movin’."
-msgstr ""
+msgstr "Dobrá práce, chlapče, ale určitě jich přinde víc. Poďme dál."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:624
@@ -2789,13 +2788,9 @@ msgstr ""
 
 #. [message]: speaker=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:392
-#, fuzzy
-#| msgid ""
-#| "Ready thine lances, mine brethren. Let us charge down the armies of "
-#| "Weldyn!"
 msgid ""
 "Ready thy lances! Let us trample the armies of Weldyn beneath our steeds!"
-msgstr "Připravte svá kopí, bratři moji. Smeťme armády Weldynu!"
+msgstr "Připravte svá kopí! Nechť vojska Weldynu zhynou pod kopyty našich ořů!"
 
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:405
