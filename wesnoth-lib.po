@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-15 19:58-0500\n"
-"PO-Revision-Date: 2023-03-24 20:43+0100\n"
+"PO-Revision-Date: 2023-05-06 09:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7316,7 +7316,7 @@ msgstr ""
 
 #: src/gui/widgets/drawing.cpp:119
 msgid "Missing [draw] in drawing"
-msgstr ""
+msgstr "V kreslení chybí [draw]"
 
 #: src/gui/widgets/helper.cpp:93
 msgid "Mandatory widget '$id' hasn't been defined."
@@ -7352,11 +7352,11 @@ msgstr "Pro 'list_definition' je vyžadována alespoň jedna řádka."
 
 #: src/gui/widgets/matrix.cpp:188
 msgid "Missing [content] in [matrix_definition]"
-msgstr ""
+msgstr "V [matrix_definition] chybí [content]"
 
 #: src/gui/widgets/matrix.cpp:210
 msgid "Missing [main] in [matrix]"
-msgstr ""
+msgstr "V [matrix] chybí [main]"
 
 #: src/gui/widgets/multi_page.cpp:195
 msgid "No page defined."
@@ -7383,7 +7383,7 @@ msgstr "Nic nevybráno"
 
 #: src/gui/widgets/pane.cpp:361
 msgid "Missing [item_definition] in [pane]"
-msgstr ""
+msgstr "V [pane] chybí [item_definition]"
 
 #: src/gui/widgets/pane.cpp:363
 msgid "Need at least 1 parallel item."
@@ -7480,7 +7480,7 @@ msgstr "Schopnosti"
 
 #: src/gui/widgets/viewport.cpp:172
 msgid "Missing [widget] in [viewport]"
-msgstr ""
+msgstr "Ve [viewport] chybí [widget]"
 
 #: src/gui/widgets/window.cpp:430
 msgid "Linked '$id' group has multiple definitions."
