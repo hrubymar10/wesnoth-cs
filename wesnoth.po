@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-22 22:24-0500\n"
-"PO-Revision-Date: 2023-04-28 17:45+0200\n"
+"PO-Revision-Date: 2023-05-07 10:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5502,16 +5502,17 @@ msgid "(press $hotkey to keep moving)"
 msgstr "(stiskni $hotkey k pokračování)"
 
 #: src/actions/undo.cpp:413
-#, fuzzy
-#| msgid "Game Error"
 msgid "Redo Error"
-msgstr "Chyba"
+msgstr "Chyba opakování"
 
 #: src/actions/undo.cpp:414
 msgid ""
 "The redo stack is out of sync. This is most commonly caused by a corrupt "
 "save file or by faulty WML code in the scenario or era. Details:"
 msgstr ""
+"Zásobník pro opakování akcí není synchronizován. To je nejčastěji způsobeno "
+"poškozeným uloženým souborem nebo chybným WML kódem ve scénáři nebo éře. "
+"Podrobnosti:"
 
 #: src/addon/client.cpp:81
 msgid "Connecting to $server_address|..."
