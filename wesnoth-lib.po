@@ -8363,16 +8363,3 @@ msgstr ""
 #: src/wml_exception.cpp:101
 msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
 msgstr "V sekci '[$section|]' není nastaven povinný klíč '$key|'."
-
-#~ msgid ""
-#~ "The key '$key' is deprecated and support will be removed in version "
-#~ "$removal_version."
-#~ msgstr ""
-#~ "Klíč '$key' je zastaralý a ve verzi $removal_version bude odstraněn."
-
-#~ msgid ""
-#~ "The key '$deprecated_key' has been renamed to '$key'. Support for "
-#~ "'$deprecated_key' will be removed in version $removal_version."
-#~ msgstr ""
-#~ "Klíč '$deprecated_key' byl přejmenován na '$key' a ve verzi "
-#~ "$removal_version bude odstraněna podpora původního tvaru."
