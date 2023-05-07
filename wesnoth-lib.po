@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-15 19:58-0500\n"
-"PO-Revision-Date: 2023-05-06 09:53+0200\n"
+"PO-Revision-Date: 2023-05-07 10:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6446,7 +6446,7 @@ msgstr ""
 
 #: src/gui/dialogs/addon/manager.cpp:937
 msgid "The passphrase attribute cannot be present when forum_auth is used."
-msgstr ""
+msgstr "Atribut passphrase nemůže být přítomen, když se používá forum_auth."
 
 #: src/gui/dialogs/addon/manager.cpp:942
 msgid "Invalid icon path. Make sure the path points to a valid image."
