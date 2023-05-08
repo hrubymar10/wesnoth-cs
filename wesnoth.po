@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-22 22:24-0500\n"
-"PO-Revision-Date: 2023-05-07 10:48+0200\n"
+"PO-Revision-Date: 2023-05-08 20:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7131,22 +7131,17 @@ msgid "Planning mode deactivated!"
 msgstr "Plánovací mód byl ukončen!"
 
 #: src/hotkey/hotkey_handler_sp.cpp:317
-#, fuzzy
-#| msgid "Do you want to continue?"
 msgid "Do you want to load it anyway?"
-msgstr "Přeješ si pokračovat?"
+msgstr "Chceš jej přesto načíst?"
 
 #: src/hotkey/hotkey_handler_sp.cpp:333
-#, fuzzy
-#| msgid "The file you have tried to load is corrupt"
 msgid "The file you have tried to load has no replay information. "
-msgstr "Soubor, který se snažíš načíst, je poškozený"
+msgstr ""
+"Soubor, který ses pokusil načíst, neobsahuje žádné informace o přehrávání. "
 
 #: src/hotkey/hotkey_handler_sp.cpp:337
-#, fuzzy
-#| msgid "The file you have tried to load is corrupt"
 msgid "The file you have tried to load is not from the current session."
-msgstr "Soubor, který se snažíš načíst, je poškozený"
+msgstr "Soubor, který ses pokusil načíst, nepochází ze stávajícího sezení."
 
 #: src/language.cpp:115
 msgid "System default language"
