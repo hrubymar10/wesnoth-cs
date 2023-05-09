@@ -9035,24 +9035,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1141
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Availability: "
-#~ msgstr "Dostupnost: "
-
-#~ msgid "Must-have"
-#~ msgstr "Musí mít"
-
-#~ msgid "Unavailable"
-#~ msgstr "Není k dispozici"
-
-#~ msgid "Unit Test "
-#~ msgstr "Test součásti "
-
-#~ msgid "Alice"
-#~ msgstr "Alice"
-
-#~ msgid "Bob"
-#~ msgstr "Bob"
-
-#~ msgid "Unit Test test_relative_dir"
-#~ msgstr "Test součásti test_relative_dir"
