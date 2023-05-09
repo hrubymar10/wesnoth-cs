@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-22 22:24-0500\n"
-"PO-Revision-Date: 2023-05-08 20:15+0200\n"
+"PO-Revision-Date: 2023-05-09 21:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6918,18 +6918,16 @@ msgid " UTC+0"
 msgstr " UTC+0"
 
 #: src/gui/dialogs/multiplayer/match_history.cpp:195
-#, fuzzy
-#| msgid "No units found."
 msgid "No game history found."
-msgstr "Žádné jednotky nenalezeny."
+msgstr "Nebyla nalezena žádná historie hry."
 
 #: src/gui/dialogs/multiplayer/match_history.cpp:208
 msgid "Request timed out."
-msgstr ""
+msgstr "Požadavek vypršel."
 
 #: src/gui/dialogs/multiplayer/match_history.cpp:218
 msgid "Request encountered an unexpected error, please check the logs."
-msgstr ""
+msgstr "Požadavek narazil na neočekávanou chybu, podívej se prosím do záznamů."
 
 #: src/gui/dialogs/multiplayer/player_info.cpp:107
 msgid "In game:"
