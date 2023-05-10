@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-23 03:24 UTC\n"
-"PO-Revision-Date: 2023-04-26 23:21+0200\n"
+"PO-Revision-Date: 2023-05-10 21:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3866,10 +3866,8 @@ msgstr "... ne, to by bylo hloupé..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:605
-#, fuzzy
-#| msgid "He seems to be drinking the remains of the wine in the cargo hold."
 msgid "He seems to be drinking the remains of the rum in the cargo hold."
-msgstr "Zdá se, že v nákladovém prostoru pije zbylé víno."
+msgstr "Zdá se, že v nákladovém prostoru pije zbytky rumu."
 
 #. [unit]: type=Paladin, id=Sir Cadaeus
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:665
@@ -5661,10 +5659,8 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1470
-#, fuzzy
-#| msgid "<i>It’s... so... cold...</i>"
 msgid "<i>Blub... blub... blub...</i>"
-msgstr "<i>Je mi... taková... zima...</i>"
+msgstr "<i>Blu... blu... blu...</i>"
 
 #. [message]: speaker=Inky
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1495
@@ -6052,10 +6048,8 @@ msgstr "Chapadlovice"
 
 #. [side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:41
-#, fuzzy
-#| msgid "teamname^Void"
 msgid "teamname^Squid"
-msgstr "Prázdno"
+msgstr "Krakatice"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:118
@@ -6076,10 +6070,8 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:217
-#, fuzzy
-#| msgid "Why are these bats chasing me?"
 msgid "Why are these tentacles so large..?"
-msgstr "Proč mě tihle netopýři pronásledují?"
+msgstr "Proč jsou ta chapadla tak velká...?"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:230
@@ -6203,10 +6195,8 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:714
-#, fuzzy
-#| msgid "Let’s get out of here."
 msgid "I’m getting out of here!"
-msgstr "Pojďme odsud."
+msgstr "Mizím odsud!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:739
@@ -6726,10 +6716,8 @@ msgstr ""
 
 #. [teleport]: id=did_enlightened
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:493
-#, fuzzy
-#| msgid "female^maimed"
 msgid "female^enlightened"
-msgstr "zmrzačená"
+msgstr "osvícená"
 
 #. [teleport]: id=did_enlightened
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:494
@@ -6911,19 +6899,15 @@ msgstr ""
 #. [leadership]: id=masochism2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1094
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1106
-#, fuzzy
-#| msgid "Schism"
 msgid "masochism"
-msgstr "Rozkol"
+msgstr "masochismus"
 
 #. [leadership]: id=masochism1
 #. [leadership]: id=masochism2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1095
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1107
-#, fuzzy
-#| msgid "female^maimed"
 msgid "female^masochism"
-msgstr "zmrzačená"
+msgstr "masochismus"
 
 #. [leadership]: id=masochism1
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1096
@@ -7067,10 +7051,8 @@ msgstr ""
 
 #. [advancement]: id=necron_ghoulfication
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:1083
-#, fuzzy
-#| msgid "Gain the ability to hide allied units"
 msgid "Gains the ability to turn enemies into ghouls"
-msgstr "Získat schopnost skrývání spojeneckých jednotek"
+msgstr "Získá schopnost proměnit nepřátele na požírače mrtvých"
 
 #. [trait]: id=loyal
 #: data/campaigns/Descent_Into_Darkness/utils/characters.cfg:44
