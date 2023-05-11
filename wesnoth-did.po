@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-23 03:24 UTC\n"
-"PO-Revision-Date: 2023-05-10 21:38+0200\n"
+"PO-Revision-Date: 2023-05-11 21:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6095,16 +6095,18 @@ msgid ""
 "... glowy mushrooms lighting up this dank gloom, blue and green, loomy "
 "bloomy big shroomy..."
 msgstr ""
+"... houbičky, houbičky, kdopak vám dal jas? Tyhlety barvičky, zelená, modrá, "
+"pro blázny... Vyrostla houba veliká, převeliká..."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:289
 msgid "... hi hi ho ho the shrooms go marching lo..."
-msgstr ""
+msgstr "... hej hou, hej hou a houbičky už jdou..."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:293
 msgid "... wait for me shroomies..!"
-msgstr ""
+msgstr "... houbičky, počkejte na mě...!"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:324
@@ -6122,11 +6124,16 @@ msgid ""
 "entertainment? How revolting. I hope your sick enjoyment at my predicament "
 "is worth it, you monster."
 msgstr ""
+"... počkat, co to dělám? Kostlivec nemůže nic ochutnat, očichat ani sníst. "
+"Tyhle houby na mě neúčinkují. Myslíš si, že jsem blázen? Jsem snad jen "
+"nějaký špatný herec najatý pro zábavu? Jaká sadistická vyšší moc nutí ubohé "
+"staré osamělé lichy, jako jsem já, tolik trpět jen pro zábavu? Jak odporné. "
+"Doufám, že ti tvoje zvrácená radost z mých potíží stojí za to, ty zrůdo."
 
 #. [floating_text]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:352
 msgid "ENLIGHTENED"
-msgstr ""
+msgstr "OSVÍCENÝ"
 
 #. [unit]: type=Necrophage Necron, id=Necron
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:390
@@ -6712,7 +6719,7 @@ msgstr ""
 #. [teleport]: id=did_enlightened
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:492
 msgid "enlightened"
-msgstr ""
+msgstr "osvícený"
 
 #. [teleport]: id=did_enlightened
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:493
@@ -6722,7 +6729,7 @@ msgstr "osvícená"
 #. [teleport]: id=did_enlightened
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:494
 msgid "This unit can teleport between mushroom groves."
-msgstr ""
+msgstr "Tato jednotka se dokáže teleportovat mezi houbovými háji."
 
 #. [heal_on_hit]: id=did_vitalize1
 #. [heal_on_hit]: id=did_vitalize2
