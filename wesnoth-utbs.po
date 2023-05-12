@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-02 00:33 UTC\n"
-"PO-Revision-Date: 2023-05-11 20:11+0200\n"
+"PO-Revision-Date: 2023-05-12 18:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12939,8 +12939,8 @@ msgid ""
 "We’ve reached what looks like the citadel, but it is surrounded by a huge "
 "perfectly smooth obsidian wall. I can’t find any way to get in."
 msgstr ""
-"Došli jsme k něčemu co vypadá jako ta citadela, ale je obklopená obrovskou "
-"hladkou obsidiánovou zdí. Nemůžu najít žádný způsob jak se dostat dovnitř."
+"Došli jsme k něčemu, co vypadá jako ta citadela, ale je obklopená obrovskou "
+"hladkou obsidiánovou zdí. Nemůžu najít žádný způsob, jak se dostat dovnitř."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:887
@@ -12948,7 +12948,7 @@ msgid ""
 "There’s got to be something here. The orc and skeleton must have been "
 "guarding some sort of entrance."
 msgstr ""
-"Nějaké tam musí být. Skřet a kostlivec museli hlídat nějaký druh vchodu."
+"Nějaké tam musí být. Skřet a kostlivec museli hlídat nějaký druh vchodu."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:893
@@ -12956,7 +12956,7 @@ msgid ""
 "Are you sure? Search carefully. The orc and skeleton must have been guarding "
 "some sort of entrance."
 msgstr ""
-"Opravdu je to jisté? Hledejte pozorně. Skřet a kostlivec museli hlídat "
+"Opravdu je to jisté? Hledejte pozorně. Skřet a kostlivec museli hlídat "
 "nějaký druh vchodu."
 
 #. [message]: speaker=unit
@@ -12987,7 +12987,7 @@ msgid ""
 "objects."
 msgstr ""
 "Mám nápad. Vsadím se, že je Eloh dala těm, kterým nejvíc věří. Dveře hlídal "
-"skřet a kostlivec. Klíče musí mít jeden od každé frakce. Vsadím se, že za "
+"skřet a kostlivec. Klíče musí mít jeden od každé frakce. Vsadím se, že za "
 "takové cenné předměty zodpovídají vůdci."
 
 #. [message]: speaker=Kaleh
