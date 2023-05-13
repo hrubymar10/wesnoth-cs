@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-05-12 18:43+0200\n"
+"PO-Revision-Date: 2023-05-13 11:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13043,9 +13043,9 @@ msgid ""
 "the black citadel. I tire of all this bloodshed. Wherever Yechnagoth hides, "
 "we will find her and make her pay for all she has done."
 msgstr ""
-"Našli jsme oba klíče. Teď stačí je vzít a otevřít dveře do černé citadely. "
-"Tohle krveprolití mě unavuje. Ať už se Yechnagoth skrývá kde chce, najdeme "
-"ji a pak zaplatí za vše, co udělala."
+"Našli jsme oba klíče. Teď stačí je vzít a otevřít dveře do černé citadely. "
+"Tohle krveprolití mě unavuje. Ať už se Yechnagoth skrývá, kde chce, najdeme "
+"ji a pak zaplatí za vše, co udělala."
 
 #. [message]: speaker=Kelur
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:974
@@ -13199,7 +13199,7 @@ msgstr "Pche, vy elfové jste tak předvídatelní."
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1287
 msgid "Talk all you want, we will have our vengeance!"
-msgstr "Říkej si co chceš, ale my se pomstíme!"
+msgstr "Říkej si, co chceš, ale my se pomstíme!"
 
 # tady to je dost blbé... :/
 #. [message]: speaker=Eloh
@@ -13225,9 +13225,9 @@ msgid ""
 "fruitful lives. Don’t let our sacrifices be forgotten..."
 msgstr ""
 "Musím to jít ukončit. Ale předtím bych vám chtěl všem poděkovat za vaši "
-"důvěru ve mne během této dlouhé cesty. Pokud nezvítězím, uprchněte s mořským "
-"lidem a najděte si místo, kde budete moci žít v klidu a bezpečí. Mé poslední "
-"přání je, abyste žili dlouhé a šťastné životy, ať už se stane cokoliv. "
+"důvěru ve mne během této dlouhé cesty. Pokud nezvítězím, uprchněte s mořským "
+"lidem a najděte si místo, kde budete moci žít v klidu a bezpečí. Mé poslední "
+"přání je, abyste žili dlouhé a šťastné životy, ať už se stane cokoliv. "
 "Nedopusťte, aby byly naše oběti zapomenuty..."
 
 #. [message]: speaker=Nym
@@ -13287,9 +13287,9 @@ msgid ""
 "him. He would not want us to disobey him and sacrifice our lives too."
 msgstr ""
 "Nymtesso, drahoušku, vždycky jsi byla rebelka. Ale nakonec se musíš naučit "
-"respektovat rozhodnutí tvého vůdce. Kaleh se rozhodl, a dá-li Eloh, přežije "
-"a zvítězí. Vidíš, jak mu je těžko z našich ztrát. Nechtěl by, abychom ho "
-"neposlechli a položili i naše životy."
+"respektovat rozhodnutí svého vůdce. Kaleh se rozhodl, a dá-li Eloh, přežije "
+"a zvítězí. Vidíš, jak mu je těžko z našich ztrát. Nechtěl by, abychom ho "
+"neposlechli a položili i naše životy."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1376
@@ -13311,10 +13311,10 @@ msgid ""
 "right, I’m going in. The rest of you stand guard, if we don’t come out in "
 "half an hour then flee the island with the merfolk."
 msgstr ""
-"To strašlivé děvče bude jednou má smrt! Ale i tak beze mě nemá šanci. Kaleh "
+"To strašlivé děvče bude jednou má smrt! Ale i tak beze mě nemá šanci. Kaleh "
 "je něco jiného, ale Nym potřebuje moji ochranu. No nic, jdu dovnitř. Vy "
-"ostatní buďte na stráži, a když nevyjdeme do půl hodiny, prchněte z ostrova "
-"s mořským lidem."
+"ostatní buďte na stráži, a když nevyjdeme do půl hodiny, prchněte z ostrova "
+"s mořským lidem."
 
 #. [message]: speaker=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1408
@@ -13506,7 +13506,7 @@ msgstr "Uctívají svou pravou bohyni."
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:533
 msgid "Come and bow down before your true master, boy."
-msgstr "Přijď a pokloň se tvé pravé paní, chlapče."
+msgstr "Přijď a pokloň se své pravé paní, chlapče."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:538
@@ -13526,10 +13526,10 @@ msgid ""
 "tired of being called boy; I am Kalehssar, the leader of my people and I "
 "will fight you until my dying breath!"
 msgstr ""
-"Překročil jsem pouště, pohoří a oceány a viděl svůj lid krvácet na každém "
+"Překročil jsem pouště, pohoří a oceány a viděl svůj lid krvácet na každém "
 "kroku té cesty. Nepřišel jsem až sem, abych se teď vzdal. Už mě unavuje být "
-"nazýván chlapcem. Jsem Kalehssar, vůdce mého lidu, a budu s tebou bojovat až "
-"do posledního dechu!"
+"nazýván chlapcem. Jsem Kalehssar, vůdce svého lidu, a budu s tebou bojovat "
+"až do posledního dechu!"
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:595
