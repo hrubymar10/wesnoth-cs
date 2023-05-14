@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-05-13 11:49+0200\n"
+"PO-Revision-Date: 2023-05-14 10:22+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13665,10 +13665,11 @@ msgstr ""
 "Co to? Ta věc uprostřed mě právě trefila nějakým slizem. Bolí to a... "
 "přilepilo mě to!"
 
+# tady je třeba neutrální rod - oběť může být mužského nebo ženského rodu
 #. [message]: speaker=$victim_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1190
 msgid "Ow, I’m stuck!"
-msgstr "Au, přilepil jsem se!"
+msgstr "Au, lepí to!"
 
 # Yechnagoth natáhla brka
 #. [message]: speaker=narrator
