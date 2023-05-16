@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-03-12 20:40+0100\n"
+"PO-Revision-Date: 2023-05-16 22:54+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -547,15 +547,6 @@ msgstr "Ono to šeptá..."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:503
-#, fuzzy
-#| msgid ""
-#| "Before the world grew cold, the Tellers spoke to us our first Memories.\n"
-#| "Some of their wisdom, shared to us.\n"
-#| "Yet now they can only whisper, too softly to be heard.\n"
-#| "\n"
-#| "The final words they spoke aloud...\n"
-#| "\n"
-#| "““ Ward thyselves. The Faerie reached this world. ”"
 msgid ""
 "Before the world grew cold, the Tellers spoke to us our first Memories.\n"
 "Some of their wisdom, shared to us.\n"
@@ -1443,12 +1434,12 @@ msgstr ""
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:19
 msgid "Savory..."
-msgstr ""
+msgstr "Pikantní..."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:24
 msgid "Sapid..."
-msgstr ""
+msgstr "Plné chuti..."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:29
@@ -1504,7 +1495,7 @@ msgstr "Ta stvoření si říkají „skřeti“."
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:52
 msgid "Hmm... ‘Ork chops’"
-msgstr ""
+msgstr "Hmm... „Skřetí kotletky“"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:57
@@ -1675,10 +1666,8 @@ msgstr "Diváci"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:210
-#, fuzzy
-#| msgid "Hold the advantage by turn 24"
 msgid "Hold the advantage at the end of turn 24"
-msgstr "Na začátku 24. kola budeš mít převahu"
+msgstr "Na konci 24. kola budeš mít převahu"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:215
@@ -1687,10 +1676,8 @@ msgstr "Poraz Karrona"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:219
-#, fuzzy
-#| msgid "Not hold the advantage by turn 24"
 msgid "Not hold the advantage at the end of turn 24"
-msgstr "Na začátku 24. kola nebudeš mít převahu"
+msgstr "Na konci 24. kola nebudeš mít převahu"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:223
@@ -1703,11 +1690,14 @@ msgid ""
 "Advantage is determined by adding the gold, the value of the drakes on the "
 "field, and five times the income; Right-click to see the current score"
 msgstr ""
+"Převaha je určena sumou zlata, hodnoty drakonidů v poli a pětinásobku "
+"příjmu\n"
+"Její aktuální skóre si zobrazíš kliknutím pravým tlačítkem myši"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:234
 msgid "Karron will get an income of $side_2.village_gold gold per village"
-msgstr ""
+msgstr "Za každou vesnici získá Karron příjem $side_2.village_gold zlaté"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:238
@@ -1755,7 +1745,7 @@ msgstr "Kéž by tvé zuby byly tak ostré jako tvůj jazyk."
 #. [set_menu_item]: id=advantage_dialog
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:359
 msgid "Show Advantage"
-msgstr ""
+msgstr "Zobraz skóre převahy"
 
 #. [message]: speaker=Vladnir
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:416
@@ -5602,12 +5592,12 @@ msgstr "Yetiové"
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:170
 msgid "Gorlack must reach the beacon at the northern volcano"
-msgstr ""
+msgstr "Gorlak se musí dostat k majáku na severní sopce"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:174
 msgid "From there, make your final stand"
-msgstr ""
+msgstr "Tam vzdoruj svému finálnímu protivenství"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:194
@@ -5761,7 +5751,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:554
 msgid "Make your final stand"
-msgstr ""
+msgstr "Vzdoruj svému finálnímu protivenství"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:588
@@ -5771,7 +5761,7 @@ msgstr "Zhyň."
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:601
 msgid "Your challenge is accepted."
-msgstr ""
+msgstr "Tvá výzva je přijata."
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:605
@@ -5801,7 +5791,7 @@ msgstr "Zadržž, mocný Ššekekahane!"
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:680
 msgid "You are bold to present such an imposter!"
-msgstr ""
+msgstr "Opovážlivče, jak mi můžeš představovat takového podvodníka!"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:684
@@ -6175,7 +6165,7 @@ msgstr ""
 #. "What's this? How did you get all the way over here?"
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:617
 msgid "Whit’s this? How did ye git a’ th’ wey ower ’ere?"
-msgstr ""
+msgstr "Co to má být? Jak jste dostali až sem?"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:632
@@ -6184,6 +6174,8 @@ msgid ""
 "You can no easier cast us off these peaks than we could pull you from the "
 "deep."
 msgstr ""
+"Hleďte, k jakým koncům dospělo vaše pachtění. Svrhnout nás z těchto vrcholů "
+"je pro vás stejně komplikované jako pro nás vás vytáhnout z hlubin."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:639
@@ -6195,12 +6187,18 @@ msgid ""
 "The vast under world beneath these we shall not violate.\n"
 "Both of us may hunt the lowlands so long as one takes not the other as game."
 msgstr ""
+"Nabízím vám tuto dohodu.\n"
+"\n"
+"Všechny vrcholy patří nám.\n"
+"A také obsah jejich půd pro potřeby našich kovářských dílen.\n"
+"Rozsáhlý podzemní svět pod nimi nebudeme narušovat.\n"
+"Obě strany mohou lovit v nížinách, pokud jeden druhého nebude brát jako zvěř."
 
 #. [message]: speaker=Thurdakor
 #. "Not sure I like the sound of this deal."
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:649
 msgid "Nae sure ah like the sound o’ this deal."
-msgstr ""
+msgstr "Nevím, jestli se mi taková dohoda pozdává."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:655
@@ -6209,6 +6207,9 @@ msgid ""
 "We covet the soil as little as you do the clouds.\n"
 "We shall find no better neighbors than each other."
 msgstr ""
+"Je tou nejlepší, co získáte.\n"
+"Hlubiny země nás lákají stejně málo jako vás oblaka.\n"
+"Nenajdeme lepší sousedy než jeden druhého."
 
 #. [message]: speaker=Thurdakor
 #. "You're not easy to haggle with, dragon."
