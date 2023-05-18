@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-05-18 05:57+0200\n"
+"PO-Revision-Date: 2023-05-18 05:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13684,7 +13684,7 @@ msgid ""
 "while it remains vulnerable!"
 msgstr ""
 "Myslím, že konečně způsobujeme nějaké zranění. Musíme zaútočit na centrální "
-"korpus, dokud je zranitelný!"
+"korpus, dokud zůstává zranitelný!"
 
 #. [message]: type=Crawling Horror
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1413
