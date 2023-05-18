@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-05-14 10:22+0200\n"
+"PO-Revision-Date: 2023-05-18 05:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2486,7 +2486,7 @@ msgid ""
 "In this I shall support you, the darkness will not lift until one of us is "
 "victorious."
 msgstr ""
-"V tom s tebou musím souhlasit, slunce nesmí vyjít dokud jeden z nás "
+"V tom s tebou musím souhlasit, slunce nesmí vyjít, dokud jeden z nás "
 "nezvítězí."
 
 #. [message]: speaker=Possessed Garak
@@ -2504,7 +2504,7 @@ msgid ""
 "In this I shall support you, the darkness shall not lift until one of us is "
 "victorious."
 msgstr ""
-"V tom s tebou musím souhlasit, slunce nesmí vyjít dokud jeden z nás "
+"V tom s tebou musím souhlasit, slunce nesmí vyjít, dokud jeden z nás "
 "nezvítězí."
 
 #. [message]: speaker=Nym
@@ -13714,7 +13714,7 @@ msgstr "Skoro tomu nemůžu uvěřit."
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1468
 msgid "Behold, the pretender has been defeated. Eloh’s might has prevailed."
-msgstr "Zadržte, podvodnice byla poražena. Moc Eloh zvítězila."
+msgstr "Hleďte, podvodnice byla poražena. Moc Eloh zvítězila."
 
 #. [message]: speaker=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1475
