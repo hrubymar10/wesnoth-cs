@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-23 03:24 UTC\n"
-"PO-Revision-Date: 2023-05-11 21:44+0200\n"
+"PO-Revision-Date: 2023-05-21 20:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6312,7 +6312,7 @@ msgstr ""
 #. [attack]: type=blade
 #: data/campaigns/Descent_Into_Darkness/units/Ghast2.cfg:29
 msgid "bite"
-msgstr ""
+msgstr "kousnutí"
 
 #. [advancement]: id=mal_keshar_amla_melee
 #. [advancement]: id=eidolon_baneblade
@@ -6502,7 +6502,7 @@ msgstr "Získává schopnost sžírání"
 #. [attack]: type=blade
 #: data/campaigns/Descent_Into_Darkness/units/Necrophage2.cfg:18
 msgid "claws"
-msgstr ""
+msgstr "drápy"
 
 #. [advancement]
 #: data/campaigns/Descent_Into_Darkness/units/Spectral_Servant.cfg:79
@@ -6883,24 +6883,24 @@ msgstr ""
 #. [plague]: id=ghoulfication, type=Ghoul
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1039
 msgid "ghoulfication"
-msgstr ""
+msgstr "zžírání"
 
 #. [plague]: id=ghoulfication, type=Ghoul
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1040
 msgid "When a unit is killed by this attack, it turns into a ghoul."
-msgstr ""
+msgstr "Když je jednotka zabita tímto útokem, promění se na požírače mrtvých."
 
 #. [dummy]: id=did_starving
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1048
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1049
 msgid "starving"
-msgstr ""
+msgstr "hladovění"
 
 #. [dummy]: id=did_starving
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1050
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1051
 msgid "This unit loses 1 hitpoint every turn."
-msgstr ""
+msgstr "Tato jednotka ztrácí každé kolo 1 bod zdraví."
 
 #. [leadership]: id=masochism1
 #. [leadership]: id=masochism2
@@ -6919,12 +6919,12 @@ msgstr "masochismus"
 #. [leadership]: id=masochism1
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1096
 msgid "This unit gains up to 50% damage as its hitpoints are reduced."
-msgstr ""
+msgstr "Jak této jednotce ubývá zdraví, způsobuje až o 50 % větší zranění."
 
 #. [leadership]: id=masochism2
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1108
 msgid "This unit gains up to 100% damage as its hitpoints are reduced."
-msgstr ""
+msgstr "Jak této jednotce ubývá zdraví, způsobuje až o 100 % větší zranění."
 
 #. [resistance]: id=did_drunk
 #: data/campaigns/Descent_Into_Darkness/utils/abilities.cfg:1120
@@ -7054,7 +7054,7 @@ msgstr "Získává schopnost oblak smrti"
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:1029
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:1056
 msgid "Gain increasing damage as hitpoints are reduced"
-msgstr ""
+msgstr "Získat rostoucí sílu útoku při ubývajícím zdraví"
 
 #. [advancement]: id=necron_ghoulfication
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:1083
