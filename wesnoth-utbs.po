@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-21 03:01 UTC\n"
-"PO-Revision-Date: 2023-05-19 22:23+0200\n"
+"PO-Revision-Date: 2023-05-23 21:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3192,8 +3192,6 @@ msgstr "Jezerní nága"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:563
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:565
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:566
-#, fuzzy
-#| msgid "Lake Naga"
 msgid "female^Lake Naga"
 msgstr "Jezerní nága"
 
