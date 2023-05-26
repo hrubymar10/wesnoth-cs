@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 10:48 UTC\n"
-"PO-Revision-Date: 2023-05-23 21:49+0200\n"
+"PO-Revision-Date: 2023-05-26 23:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1381,7 +1381,7 @@ msgid ""
 "gang of orcs and some undead. Really just a day’s work for the company."
 msgstr ""
 "Nakonec to zas tak těžké nebylo. Pár elfů, jeden nebo dva černokněžníci, "
-"trocha skřetů a nemrtvých. Práce jen na pár dnů pro nás staré veterány."
+"trocha skřetů a nemrtvých. Práce jen na pár dnů pro nás staré veterány."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:969
@@ -1520,7 +1520,7 @@ msgstr ""
 msgid ""
 "No, they are fleeing from something. We must find out what is happening over "
 "there!"
-msgstr "Ne. Utíkají před něčím. Musíme zjistit co se tam stalo!"
+msgstr "Ne. Utíkají před něčím. Musíme zjistit, co se tam stalo!"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:181
