@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-21 03:01 UTC\n"
-"PO-Revision-Date: 2023-05-23 21:52+0200\n"
+"PO-Revision-Date: 2023-05-28 13:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -104,7 +104,7 @@ msgstr "Různé"
 #. [entry]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:146
 msgid "And special thanks to everyone else who I forgot to mention."
-msgstr "Zvláštní poděkování patří všem, jež zde byli opomenuti."
+msgstr "Zvláštní poděkování patří všem, již zde byli opomenuti."
 
 #. [lua]: wesnoth.interface.game_display.unit_status
 #: data/campaigns/Under_the_Burning_Suns/lua/theme.lua:15
