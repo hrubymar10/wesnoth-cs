@@ -2,14 +2,14 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2011, 2020 - 2023.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-21 03:01 UTC\n"
-"PO-Revision-Date: 2023-04-04 23:32+0200\n"
+"PO-Revision-Date: 2023-05-28 11:03+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -135,14 +135,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:23
-#, fuzzy
-#| msgid ""
-#| "The dwarves of Knalga, cannily reckoning the gains from trade, built "
-#| "strong fortifications around Dwarven Doors. The people who called it "
-#| "home, dwarven and human alike, knew that the wealth of their city might "
-#| "arouse envy from afar — hence they kept their weapons sharp, and reckoned "
-#| "themselves well able to fight off any bandit gang or petty warlord that "
-#| "could arise in the thinly-settled Northlands."
 msgid ""
 "The dwarves of Knalga, cannily reckoning the gains from trade, built strong "
 "fortifications around Dwarven Doors. The dwarves and humans who called it "
@@ -152,10 +144,9 @@ msgid ""
 msgstr ""
 "Trpaslíci z Knalgy, mazaně počítajíce s příjmy z obchodu, vybudovali kolem "
 "Trpasličích dveří silné opevnění. Lidé i trpaslíci, kteří to tu nazývali "
-"domovem, věděli, že bohatství jejich města může široko daleko vyvolat "
-"závist, a tak udržovali své zbraně naostřené. Počítali, že budou schopni "
-"odrazit nájezd jakékoli bandy lupičů nebo vojáků bojechtivého lorda, která "
-"se mohla v řídce obydlených severních krajích objevit."
+"domovem, věděli, že bohatství města může široko daleko vyvolat závist, a tak "
+"udržovali své zbraně naostřené. Počítali, že budou schopni odrazit každou "
+"bandu lupičů nebo menšího vojevůdce."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:29
@@ -168,15 +159,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:34
-#, fuzzy
-#| msgid ""
-#| "At first, the incursions were mere rabble that were easily felled. "
-#| "Complacent in their own prowess, the people of the Dwarven Doors ignored "
-#| "the orcs even as the raids grew more numerous and threatening. In time, "
-#| "the raiding parties became companies and full war-bands. Then at last, "
-#| "there arose a mighty warlord of the Bloody Sword tribe, Khazg Black-Tusk, "
-#| "who surrounded the entirety of their defenses with a great host of "
-#| "warriors."
 msgid ""
 "At first, the incursions were mere rabble that were easily felled. "
 "Complacent in their own prowess, the people of the Dwarven Doors ignored the "
@@ -185,24 +167,15 @@ msgid ""
 "warlord of the Bloody Sword tribe, Khazg Black-Tusk, who surrounded the "
 "entirety of their defenses with a great host of warriors."
 msgstr ""
-"Zpočátku byly jejich vpády spíše chabé a bylo snadné jim odolat. Obyvatelé "
+"Zpočátku byly jejich vpády spíše chabé a bylo snadné jim odolat. Obyvatelé "
 "Trpasličích dveří, ukolébáni svou vlastní zdatností, nevěnovali skřetům "
-"pozornost, i když byly jejich nájezdy stále početnější a hrozivější. Časem "
-"narostly rabující skupinky do šiků a uspořádaných válečných skupin. Nakonec "
-"pak z kmene Krvavého meče povstal velký vojevůdce, náčelník jménem Khazg "
-"Černý tesák, který společně s obrovským zástupem válečníků oblehl obranu "
-"města."
+"pozornost, i když byly jejich nájezdy stále početnější a hrozivější. Časem "
+"se z nájezdníků staly válečné oddíly.  Nakonec pak z kmene Krvavého meče "
+"povstal mocný vojevůdce, náčelník jménem Khazg Černý tesák, který společně "
+"s obrovským zástupem válečníků oblehl obranu města."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:39
-#, fuzzy
-#| msgid ""
-#| "It was a time of doom and great deeds, of fire and blood and slaughter. "
-#| "The men and dwarves fought valiantly. But there were always, it seemed, "
-#| "more orcs to replace the slain, while the defenders could find no succor. "
-#| "Pleas for help went unheeded in other lands for men, elves and even "
-#| "dwarves, were wrapped up in their own affairs and struggles or deemed the "
-#| "orcs too far away to bring unto them harm."
 msgid ""
 "It was a time of doom and great deeds, of fire and blood and slaughter. The "
 "men and dwarves fought valiantly. But there were always, it seemed, more "
@@ -8641,10 +8614,8 @@ msgstr "Běda! Mé cesty jsou u konce."
 # Tallin
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:132
-#, fuzzy
-#| msgid "Blast it, we have lost a valuable ally."
 msgid "Blast it! We have lost a valuable ally!"
-msgstr "Do háje, přišli jsme o cenného spojence."
+msgstr "Do háje! Přišli jsme o cenného spojence!"
 
 # Theta
 #. [message]: speaker=Sister Thera
@@ -8798,10 +8769,8 @@ msgstr "A už se to nese, jedna pořádná odplata!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:399
-#, fuzzy
-#| msgid "There we go, let’s give this one more shot!"
 msgid "There we go. Let’s give this one more shot!"
-msgstr "A je to, zkusme to znova!"
+msgstr "A je to. Zkusme to znova!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:404
