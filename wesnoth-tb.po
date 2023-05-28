@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:02 UTC\n"
-"PO-Revision-Date: 2023-05-26 23:40+0200\n"
+"PO-Revision-Date: 2023-05-28 13:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -93,7 +93,7 @@ msgstr "Různé"
 #. [entry]
 #: data/campaigns/Two_Brothers/_main.cfg:87
 msgid "And special thanks to everyone else who I forgot to mention."
-msgstr "Zvláštní poděkování patří všem, jež zde byli opomenuti."
+msgstr "Zvláštní poděkování patří všem, již zde byli opomenuti."
 
 #. [scenario]: id=01_Rooting_Out_a_Mage
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:5
