@@ -2,14 +2,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022.
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-17 20:52 UTC\n"
-"PO-Revision-Date: 2022-02-27 05:35+0100\n"
+"PO-Revision-Date: 2023-05-29 20:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -119,16 +119,16 @@ msgid ""
 "orcs just for personal glory and more land for them grubby nobles to lord "
 "over."
 msgstr ""
-"Z deníku Baldrase, 21. osevu, roku 501 w. l.\n"
+"Z deníku Baldrase, 21. osevu, roku 501 w. l.\n"
 "\n"
-"Měsíce běží... už jich uběhlo sedm od chvíle, co sem Koruna neposlala na "
-"pomoc byť jedinýho vojáka. Tenhle Garard II. je jedna velká navoněná bída. "
-"Je horší než jeho táta! My z příhraničních osad Delwyn a Dalben jsme byli "
-"vždy chudáci a nuzáci, ale jediný, čím se „Jeho Veličenstvo“ ve spojení s "
-"náma trápí, jsou daně, daně a daně, prostě jak z nás vyždímat naše těžce "
-"získaný výdělky. Aby pak zlato, co nám sebere, použil k vyvolání dalších "
-"válek s dalšíma skřetama. A to jen pro svojí vlastní slávu a další půdu, "
-"kterou by dal v léno svejm umouněnejm šlechticům."
+"Měsíce... už jich uběhlo sedm od chvíle, co sem Koruna poslala na pomoc "
+"jedinýho vojáka. Tenhle Garard II. je jedna velká navoněná bída. Je horší "
+"než jeho táta! My z příhraničních osad Delwyn a Dalben jsme byli vždy "
+"chudáci a nuzáci, ale jediný, čím se „Jeho Veličenstvo“ ve spojení s náma "
+"trápí, jsou daně, daně a daně, prostě jak z nás vyždímat naše těžce získaný "
+"výdělky. Aby pak zlato, co nám sebere, použil k vyvolání dalších válek "
+"s dalšíma skřetama. A to jen pro svojí vlastní slávu a další půdu, kterou by "
+"dal v léno svejm umouněnejm šlechticům."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:28
@@ -407,7 +407,7 @@ msgid ""
 "make trouble for everyone in Dallben."
 msgstr ""
 "Nemáme na výběr, chlapče. Pokud jim nedám, co chtěj, budou dělat problémy "
-"všem v Dalbenu."
+"všem v Dalbenu."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:310
@@ -429,7 +429,7 @@ msgstr ""
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:332
 msgid "Time to feast on these puny pinkskins."
-msgstr "Je čas se zakousnout se do těch bleďoučkejch špinavců."
+msgstr "Je čas se zakousnout do těch bleďoučkejch špinavců."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:337
