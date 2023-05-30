@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-23 03:24 UTC\n"
-"PO-Revision-Date: 2023-05-29 21:08+0200\n"
+"PO-Revision-Date: 2023-05-30 21:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -769,7 +769,7 @@ msgstr "Právě zabili nevinnýho! Vrazi!"
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:286
 msgid "Cry thine eyes out for me, peasant."
-msgstr "Jen si pro mě vyplakej své oči, sedláčku."
+msgstr "Jen si kvůli mě vyplakej své oči, sedláčku."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:299
