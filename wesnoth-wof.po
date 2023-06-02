@@ -6055,8 +6055,6 @@ msgstr ""
 "Udělal bych cokoliv, abych svého přítele zachránil.\n"
 "Cítil jsem, jak celý svět kolem mě hoří potenciálem jeho záchrany."
 
-# Ulomený hned pod hlavicí?
-# Tu formulaci o stavu oštěpu jsem nepochopil.
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:395
 msgid ""
@@ -6067,10 +6065,10 @@ msgid ""
 "It was there now."
 msgstr ""
 "Tehdy jsem to ucítil pod svým pravým křídlem.\n"
-"Oštěp rváčů s ulomenou hlavicí.\n"
-"Když jsem vstoupil do jeskyně, nebyl tam.\n"
+"Kopí rváčů se zlomeným ratištěm.\n"
+"Když jsem vstoupil do jeskyně, nebylo tam.\n"
 "\n"
-"Teď tam byl."
+"Teď tam bylo."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:403
@@ -6083,7 +6081,7 @@ msgstr ""
 "Ničemnost se otočila, aby dobila Rešana.\n"
 "\n"
 "Vrhl jsem se na ni se vší nenávistí.\n"
-"S oštěpem, kterým jsem zajel hluboko do jejího chladného srdce."
+"S kopím, kterým jsem zajel hluboko do jejího chladného srdce."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:410
@@ -6129,7 +6127,7 @@ msgstr "Tvůj sstrach o něj tě uččinil sstateččným."
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:438
 msgid "A discarded spear made me brave."
-msgstr "Zahozený oštěp mě učinil statečným."
+msgstr "Zahozené kopí mě učinilo statečným."
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:442
@@ -6137,7 +6135,7 @@ msgid ""
 "That ssspear was your means to sssave your friend. It appeared <b>as</b> you "
 "feared for him. Because you did."
 msgstr ""
-"Ten ošštěp byl prosstředkem, jak zzachránit ssvého přřítele. Objevil sse, "
+"To kopí bylo prosstředkem, jak zzachránit ssvého přřítele. Objevilo sse, "
 "<b>když</b> ssess o něj bál. Protožže jssi ten sstrach měl."
 
 #. [message]: speaker=Gorlack
