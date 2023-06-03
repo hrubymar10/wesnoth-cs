@@ -10,13 +10,13 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-did | 956 | 97% | 27 |
 wesnoth-lib | 1518 | 97% | 34 | Michal
-wesnoth-wof | 824 | 90% | 77 | Septim
+wesnoth-wof | 824 | 93% | 52 | Septim
 
-Total messages remaining: **138**
+Total messages remaining: **113**
 
 Progress since 2022-04-30: **1** message per day
 
-ETA: **2023-10-13**
+ETA: **2023-09-24**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
