@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-23 03:24 UTC\n"
-"PO-Revision-Date: 2023-06-03 18:24+0200\n"
+"PO-Revision-Date: 2023-06-04 10:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1587,7 +1587,7 @@ msgstr "Taková je cena zrady."
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:866
 msgid "Maddock, we helped you defend your city. Will you help us now?"
-msgstr "Maddoku, pomohli jsem vám ochránit město. Pomůžete nám teď?"
+msgstr "Maddoku, pomohli jsme vám ochránit město. Pomůžete nám teď?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:876
@@ -1598,7 +1598,7 @@ msgid ""
 msgstr ""
 "<i>Poslouchej pozorně. Nebudu otevřeně hovořit proti Ašvíře, když se její "
 "špioni potloukají po městě... Přesto buď ujištěn, že rozhodně nedůvěřuji "
-"královně ani její pochybné taktice</i>"
+"královně ani její pochybné taktice.</i>"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:880
@@ -1759,7 +1759,7 @@ msgid ""
 "to Lord Maddock’s friend. But he didn’t say anything about who that was."
 msgstr ""
 "No, teď jejich pomoc potřebujem, ne? Takže musíme vymyslet způsob, jak se "
-"dostat k příteli lorda Maddoka. Ale on nám nic neřek o tom, kdo by to mohl "
+"dostat k příteli lorda Maddoka. Ale on nám nic neřek o tom, kdo by to mohl "
 "bejt."
 
 #. [message]: speaker=Baldras
@@ -1769,8 +1769,8 @@ msgid ""
 "known, it means some kind o’ connection with the black market. We be looking "
 "for criminals, probably some thieves’ den. Or, maybe they be looking for us."
 msgstr ""
-"Harpere, když šlechtic říká, že se nechce k někomu znát, znamená to nějaký "
-"spojení s černým trhem. Hledáme zločince, pravděpodobně nějaký zlodějský "
+"Harpere, když šlechtic říká, že se nechce k někomu znát, znamená to nějaký "
+"spojení s černým trhem. Hledáme zločince, pravděpodobně nějaký zlodějský "
 "doupě. Nebo možná už oni hledaj nás."
 
 #. [unit]: type=Thief, id=Link
