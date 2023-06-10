@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-20 22:01-0500\n"
-"PO-Revision-Date: 2023-06-06 22:48+0200\n"
+"PO-Revision-Date: 2023-06-10 22:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7536,17 +7536,15 @@ msgstr ""
 
 #: src/gui/widgets/tree_view.cpp:268 src/gui/widgets/tree_view.cpp:269
 msgid "Missing required state for tree view"
-msgstr ""
+msgstr "Pro stromové zobrazení chybí požadovaný stav"
 
 #: src/gui/widgets/tree_view.cpp:271
-#, fuzzy
-#| msgid "No nodes defined for a tree view."
 msgid "No grid defined for tree view"
-msgstr "Nebyly definovány žádné uzly pro stromový seznam."
+msgstr "Pro stromové zobrazení není stanovena žádná mřížka"
 
 #: src/gui/widgets/tree_view.cpp:291
 msgid "No nodes defined for a tree view."
-msgstr "Nebyly definovány žádné uzly pro stromový seznam."
+msgstr "Pro stromové zobrazení nejsou stanoveny žádné uzly."
 
 # Vzorná kryptohláška!
 #: src/gui/widgets/tree_view.cpp:326
@@ -7559,7 +7557,7 @@ msgstr "Není definován žádný uzel."
 
 #: src/gui/widgets/tree_view_node.cpp:106
 msgid "Unknown builder id for tree view node."
-msgstr "Neznámé id pro uzel stromového seznamu."
+msgstr "Neznámý identifikátor sestavitele pro uzel stromového zobrazení."
 
 #: src/gui/widgets/unit_preview_pane.cpp:139
 msgid "Resistances: "
