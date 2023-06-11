@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-20 22:01-0500\n"
-"PO-Revision-Date: 2023-06-10 22:50+0200\n"
+"PO-Revision-Date: 2023-06-11 08:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7308,7 +7308,7 @@ msgstr "Smazat rozšíření ze serveru"
 #: src/gui/widgets/button.cpp:164 src/gui/widgets/button.cpp:165
 #: src/gui/widgets/button.cpp:166 src/gui/widgets/button.cpp:167
 msgid "Missing required state for button"
-msgstr ""
+msgstr "Pro tlačítko chybí požadovaný stav"
 
 # v chatu, "levá část tabulky" (jméno) - nesmí být příliš dlouhé!
 #: src/gui/widgets/chatbox.cpp:299
@@ -7352,11 +7352,11 @@ msgstr "Povinný ovládací prvek '$id' nebyl definován."
 #: src/gui/widgets/horizontal_scrollbar.cpp:135
 #: src/gui/widgets/horizontal_scrollbar.cpp:136
 msgid "Missing required state for horizontal scrollbar"
-msgstr ""
+msgstr "Pro vodorovný posuvník chybí požadovaný stav"
 
 #: src/gui/widgets/image.cpp:115
 msgid "Missing required state for image control"
-msgstr ""
+msgstr "Pro ovládání obrázku chybí požadovaný stav"
 
 #: src/gui/widgets/label.cpp:127
 msgid "Opening links is not supported, contact your packager"
@@ -7372,11 +7372,11 @@ msgstr "Odkaz zkopírován!"
 
 #: src/gui/widgets/label.cpp:241 src/gui/widgets/label.cpp:242
 msgid "Missing required state for text label control"
-msgstr ""
+msgstr "Pro ovládání textových popisků chybí požadovaný stav"
 
 #: src/gui/widgets/listbox.cpp:710 src/gui/widgets/listbox.cpp:711
 msgid "Missing required state for listbox"
-msgstr ""
+msgstr "Pro výběrový seznam chybí požadovaný stav"
 
 #: src/gui/widgets/listbox.cpp:727 src/gui/widgets/multi_page.cpp:219
 msgid ""
@@ -7399,10 +7399,8 @@ msgid "Missing [content] in [matrix_definition]"
 msgstr "V [matrix_definition] chybí [content]"
 
 #: src/gui/widgets/matrix.cpp:191 src/gui/widgets/matrix.cpp:192
-#, fuzzy
-#| msgid "Missing [content] in [matrix_definition]"
 msgid "Missing required state for matrix definition"
-msgstr "V [matrix_definition] chybí [content]"
+msgstr "Pro definici matrice chybí požadovaný stav"
 
 #: src/gui/widgets/matrix.cpp:210
 msgid "Missing [main] in [matrix]"
@@ -7411,11 +7409,11 @@ msgstr "V [matrix] chybí [main]"
 #: src/gui/widgets/menu_button.cpp:234 src/gui/widgets/menu_button.cpp:235
 #: src/gui/widgets/menu_button.cpp:236 src/gui/widgets/menu_button.cpp:237
 msgid "Missing required state for menu button"
-msgstr ""
+msgstr "Pro tlačítko menu chybí požadovaný stav"
 
 #: src/gui/widgets/minimap.cpp:117
 msgid "Missing required state for minimap control"
-msgstr ""
+msgstr "Pro ovládání minimapy chybí požadovaný stav"
 
 #: src/gui/widgets/multi_page.cpp:195
 msgid "No page defined."
@@ -7445,7 +7443,7 @@ msgstr "Nic nevybráno"
 #: src/gui/widgets/multimenu_button.cpp:258
 #: src/gui/widgets/multimenu_button.cpp:259
 msgid "Missing required state for multimenu button"
-msgstr ""
+msgstr "Pro tlačítko multimenu chybí požadovaný stav"
 
 #: src/gui/widgets/pane.cpp:361
 msgid "Missing [item_definition] in [pane]"
@@ -7465,18 +7463,18 @@ msgstr ""
 
 #: src/gui/widgets/progress_bar.cpp:96
 msgid "Missing required state for progress bar"
-msgstr ""
+msgstr "Pro ukazatel průběhu chybí požadovaný stav"
 
 #: src/gui/widgets/repeating_button.cpp:184
 #: src/gui/widgets/repeating_button.cpp:185
 #: src/gui/widgets/repeating_button.cpp:186
 #: src/gui/widgets/repeating_button.cpp:187
 msgid "Missing required state for repeating button"
-msgstr ""
+msgstr "Pro opakovací tlačítko chybí požadovaný stav"
 
 #: src/gui/widgets/scroll_label.cpp:180 src/gui/widgets/scroll_label.cpp:181
 msgid "Missing required state for scroll label control"
-msgstr ""
+msgstr "Pro ovládání svitkového popisku chybí požadovaný stav"
 
 #: src/gui/widgets/scroll_label.cpp:183
 msgid "No grid defined for scroll label control"
@@ -7505,7 +7503,7 @@ msgstr "Nebyl definován žádný widget."
 #: src/gui/widgets/slider.cpp:313 src/gui/widgets/slider.cpp:314
 #: src/gui/widgets/slider.cpp:315 src/gui/widgets/slider.cpp:316
 msgid "Missing required state for slider"
-msgstr ""
+msgstr "Pro posuvník chybí požadovaný stav"
 
 #: src/gui/widgets/slider.cpp:357
 msgid "The number of value_labels and values don't match."
@@ -7522,17 +7520,17 @@ msgstr "Nalezen grafický prvek s nápovědou bez bublinkové nápovědy."
 #: src/gui/widgets/text_box.cpp:411 src/gui/widgets/text_box.cpp:412
 #: src/gui/widgets/text_box.cpp:413 src/gui/widgets/text_box.cpp:414
 msgid "Missing required state for editable text box"
-msgstr ""
+msgstr "Pro upravitelné textové pole chybí požadovaný stav"
 
 #: src/gui/widgets/toggle_button.cpp:214 src/gui/widgets/toggle_button.cpp:215
 #: src/gui/widgets/toggle_button.cpp:216
 msgid "Missing required state for toggle button"
-msgstr ""
+msgstr "Pro přepínací tlačítko chybí požadovaný stav"
 
 #: src/gui/widgets/toggle_panel.cpp:302 src/gui/widgets/toggle_panel.cpp:303
 #: src/gui/widgets/toggle_panel.cpp:304
 msgid "Missing required state for toggle panel"
-msgstr ""
+msgstr "Pro přepínací panel chybí požadovaný stav"
 
 #: src/gui/widgets/tree_view.cpp:268 src/gui/widgets/tree_view.cpp:269
 msgid "Missing required state for tree view"
@@ -7628,7 +7626,7 @@ msgstr ""
 #: src/gui/widgets/vertical_scrollbar.cpp:125
 #: src/gui/widgets/vertical_scrollbar.cpp:126
 msgid "Missing required state for vertical scrollbar"
-msgstr ""
+msgstr "Pro svislý posuvník chybí požadovaný stav"
 
 #: src/gui/widgets/viewport.cpp:172
 msgid "Missing [widget] in [viewport]"
