@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-20 22:01-0500\n"
-"PO-Revision-Date: 2023-06-11 08:44+0200\n"
+"PO-Revision-Date: 2023-06-12 22:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6146,10 +6146,8 @@ msgid "Text has a font size of 0."
 msgstr "Text má výšku fontu nula."
 
 #: src/gui/core/widget_definition.cpp:29
-#, fuzzy
-#| msgid "No state or draw section defined."
 msgid "No draw section defined for state."
-msgstr "Není definován stav či region vykreslení."
+msgstr "Pro stav není definován žádný vykreslovací oddíl."
 
 #: src/gui/core/widget_definition.cpp:67 src/gui/core/window_builder.cpp:133
 msgid "No resolution defined."
@@ -7329,15 +7327,15 @@ msgstr ""
 
 #: src/gui/widgets/chatbox.cpp:657
 msgid "Missing required background for chatbox"
-msgstr ""
+msgstr "Pro pole zpráv chybí požadované pozadí"
 
 #: src/gui/widgets/chatbox.cpp:658
 msgid "Missing required foreground for chatbox"
-msgstr ""
+msgstr "Pro pole zpráv chybí požadované popředí"
 
 #: src/gui/widgets/chatbox.cpp:660
 msgid "Missing required grid for chatbox"
-msgstr ""
+msgstr "Pro pole zpráv chybí požadovaná mřížka"
 
 #: src/gui/widgets/drawing.cpp:119
 msgid "Missing [draw] in drawing"
@@ -7455,11 +7453,11 @@ msgstr "Je třeba alespoň jedna souběžná věc."
 
 #: src/gui/widgets/panel.cpp:111
 msgid "Missing required background for panel definition"
-msgstr ""
+msgstr "Pro definování panelu chybí požadované pozadí"
 
 #: src/gui/widgets/panel.cpp:112
 msgid "Missing required foreground for panel definition"
-msgstr ""
+msgstr "Pro definování panelu chybí požadované popředí"
 
 #: src/gui/widgets/progress_bar.cpp:96
 msgid "Missing required state for progress bar"
@@ -7478,23 +7476,23 @@ msgstr "Pro ovládání svitkového popisku chybí požadovaný stav"
 
 #: src/gui/widgets/scroll_label.cpp:183
 msgid "No grid defined for scroll label control"
-msgstr ""
+msgstr "Pro ovládání svitkového popisku není stanovena žádná mřížka"
 
 #: src/gui/widgets/scrollbar_panel.cpp:70
 msgid "Missing required background for scrollbar panel"
-msgstr ""
+msgstr "Pro posuvný panel chybí požadované pozadí"
 
 #: src/gui/widgets/scrollbar_panel.cpp:71
 msgid "Missing required foreground for scrollbar panel"
-msgstr ""
+msgstr "Pro posuvný panel chybí požadované popředí"
 
 #: src/gui/widgets/scrollbar_panel.cpp:73
 msgid "Missing required grid for scrollbar panel"
-msgstr ""
+msgstr "Pro posuvný panel chybí požadovaná mřížka"
 
 #: src/gui/widgets/size_lock.cpp:89
 msgid "Invalid size."
-msgstr "Neplatné velikost."
+msgstr "Neplatná velikost."
 
 #: src/gui/widgets/size_lock.cpp:124
 msgid "No widget defined."
@@ -7611,15 +7609,15 @@ msgstr "Schopnosti"
 
 #: src/gui/widgets/unit_preview_pane.cpp:611
 msgid "Missing required background for unit preview pane"
-msgstr ""
+msgstr "Pro podokno náhledu jednotky chybí požadované pozadí"
 
 #: src/gui/widgets/unit_preview_pane.cpp:612
 msgid "Missing required foreground for unit preview pane"
-msgstr ""
+msgstr "Pro podokno náhledu jednotky chybí požadované popředí"
 
 #: src/gui/widgets/unit_preview_pane.cpp:614
 msgid "Missing required grid for unit preview pane"
-msgstr ""
+msgstr "Pro podokno náhledu jednotky chybí požadovaná mřížka"
 
 #: src/gui/widgets/vertical_scrollbar.cpp:123
 #: src/gui/widgets/vertical_scrollbar.cpp:124
