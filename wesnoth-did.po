@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-21 03:01 UTC\n"
-"PO-Revision-Date: 2023-05-27 10:20+0200\n"
+"PO-Revision-Date: 2023-06-13 22:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5360,19 +5360,19 @@ msgstr "Bláhový hrdina"
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:965
 msgid "That was quite the nightmare..."
-msgstr ""
+msgstr "To byl mimořádně zlý sen..."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:969
 msgid ""
 "...unless it was not one? No. No no no. I don’t even want to think about "
 "that."
-msgstr ""
+msgstr "... ledaže by to nebyl sen? Ne. Ne, ne, ne. Na to nechci ani pomyslet."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:973
 msgid "I need to go slaughter some foolish heroes to purge that from my mind."
-msgstr ""
+msgstr "Musím jít povraždit pár bláhových hrdinů, abych si vyčistil hlavu."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:989
@@ -5677,12 +5677,12 @@ msgstr "Znovu se setkáme, chapadlatá."
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1452
 msgid "Get these tentacles off of me!"
-msgstr ""
+msgstr "Sundej ze mě ta chapadla!"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1465
 msgid "Release me at once you oversized piece of calamari— eeeeaaaaaaaaa!"
-msgstr ""
+msgstr "Okamžitě mě pusť, ty přerostlý mořský plode— ííjáááá!"
 
 #. [message]: speaker=narrator
 #. Mal Keshar is sinking...
