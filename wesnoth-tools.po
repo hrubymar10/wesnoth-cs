@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-29 16:27-0500\n"
-"PO-Revision-Date: 2023-06-16 22:07+0200\n"
+"PO-Revision-Date: 2023-06-16 22:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20,7 +20,6 @@ msgid "Open a Graphical User Interface (GUI) to WML Tools"
 msgstr "Otevření grafického uživatelského rozhraní (GUI) k nástrojům WML"
 
 #: data/tools/GUI.pyw:59
-#, fuzzy
 msgid "LANGUAGE"
 msgstr "JAZYK"
 
@@ -39,7 +38,6 @@ msgstr ""
 #: data/tools/GUI.pyw:1302 data/tools/GUI.pyw:1344 data/tools/GUI.pyw:1368
 #: data/tools/GUI.pyw:1403 data/tools/GUI.pyw:1427 data/tools/GUI.pyw:1469
 #: data/tools/GUI.pyw:1488 data/tools/GUI.pyw:1800
-#, fuzzy
 msgid "Error"
 msgstr "Chyba"
 
@@ -70,37 +68,30 @@ msgstr ""
 "Počkejte prosím..."
 
 #: data/tools/GUI.pyw:343
-#, fuzzy
 msgid "Terminate script"
-msgstr "Ukončení skriptu"
+msgstr "Ukončit skript"
 
 #: data/tools/GUI.pyw:391
-#, fuzzy
 msgid "Cut"
-msgstr "Střih"
+msgstr "Vyjmout"
 
 #: data/tools/GUI.pyw:396
-#, fuzzy
 msgid "Copy"
 msgstr "Kopírovat"
 
 #: data/tools/GUI.pyw:402
-#, fuzzy
 msgid "Paste"
 msgstr "Vložit"
 
 #: data/tools/GUI.pyw:408
-#, fuzzy
 msgid "Select all"
-msgstr "Vyberte vše"
+msgstr "Vybrat vše"
 
 #: data/tools/GUI.pyw:470
-#, fuzzy
 msgid "Directory"
 msgstr "Adresář"
 
 #: data/tools/GUI.pyw:482 data/tools/GUI.pyw:521
-#, fuzzy
 msgid "Browse..."
 msgstr "Procházet..."
 
@@ -110,20 +101,17 @@ msgid "Clear"
 msgstr "Přehledně"
 
 #: data/tools/GUI.pyw:570
-#, fuzzy
 msgid "wmllint mode"
 msgstr "režim wmllint"
 
 #: data/tools/GUI.pyw:575 data/tools/GUI.pyw:944
-#, fuzzy
 msgid "Normal"
 msgstr "Normální"
 
 #. TRANSLATORS: Explanation for Normal.
 #: data/tools/GUI.pyw:583 data/tools/GUI.pyw:953
-#, fuzzy
 msgid "Perform file conversion"
-msgstr "Provést konverzi souborů"
+msgstr "Provést převod souborů"
 
 #: data/tools/GUI.pyw:585 data/tools/GUI.pyw:955
 #, fuzzy
@@ -132,42 +120,35 @@ msgstr "Běh na sucho"
 
 #. TRANSLATORS: Explanation for Dry run.
 #: data/tools/GUI.pyw:594 data/tools/GUI.pyw:963
-#, fuzzy
 msgid "Do not perform changes"
-msgstr "Neprovádějte změny"
+msgstr "Neprovádět změny"
 
 #: data/tools/GUI.pyw:596
-#, fuzzy
 msgid "Clean"
-msgstr "Clean"
+msgstr "Uklidit"
 
 #. TRANSLATORS: Explanation for Clean.
 #: data/tools/GUI.pyw:605
-#, fuzzy
 msgid "Delete *.bak files"
-msgstr "Odstranění souborů *.bak"
+msgstr "Odstranit soubory *.bak"
 
 #: data/tools/GUI.pyw:607
-#, fuzzy
 msgid "Diff"
-msgstr "Diff"
+msgstr "Rozdíl"
 
 #. TRANSLATORS: Explanation for Diff.
 #: data/tools/GUI.pyw:616
-#, fuzzy
 msgid "Show differences in converted files"
-msgstr "Zobrazení rozdílů v převedených souborech"
+msgstr "Zobrazit rozdíly v převedených souborech"
 
 #: data/tools/GUI.pyw:618
-#, fuzzy
 msgid "Revert"
 msgstr "Vrátit"
 
 #. TRANSLATORS: Explanation for Revert.
 #: data/tools/GUI.pyw:627
-#, fuzzy
 msgid "Revert conversions using *.bak files"
-msgstr "Vrácení konverzí pomocí souborů *.bak"
+msgstr "Vrátit převod pomocí souborů *.bak"
 
 #: data/tools/GUI.pyw:629 data/tools/GUI.pyw:965
 #, fuzzy
@@ -180,22 +161,18 @@ msgid "Terse"
 msgstr "Terse"
 
 #: data/tools/GUI.pyw:643
-#, fuzzy
 msgid "List changes"
-msgstr "Změny v seznamu"
+msgstr "Vypsat změny"
 
 #: data/tools/GUI.pyw:651
-#, fuzzy
 msgid "Name files before processing"
-msgstr "Pojmenování souborů před zpracováním"
+msgstr "Pojmenovat soubory před zpracováním"
 
 #: data/tools/GUI.pyw:659
-#, fuzzy
 msgid "Show parse details"
 msgstr "Zobrazit podrobnosti o parsování"
 
 #: data/tools/GUI.pyw:667
-#, fuzzy
 msgid "wmllint options"
 msgstr "Možnosti wmllint"
 
@@ -203,7 +180,7 @@ msgstr "Možnosti wmllint"
 #: data/tools/GUI.pyw:674
 #, fuzzy
 msgid "Convert EOL characters to Unix style"
-msgstr "Převod znaků EOL na styl systému Unix"
+msgstr "Převod znaků konce řádku na styl systému Unix"
 
 #: data/tools/GUI.pyw:682
 #, fuzzy
@@ -216,7 +193,6 @@ msgid "Disable checks for unknown units"
 msgstr "Zakázat kontroly neznámých jednotek"
 
 #: data/tools/GUI.pyw:698
-#, fuzzy
 msgid "Disable spellchecking"
 msgstr "Zakázat kontrolu pravopisu"
 
@@ -226,7 +202,6 @@ msgid "Skip core directory"
 msgstr "Přeskočit základní adresář"
 
 #: data/tools/GUI.pyw:730
-#, fuzzy
 msgid "wmlscope options"
 msgstr "Možnosti wmlscope"
 
@@ -241,14 +216,12 @@ msgid "Check for duplicate resource files"
 msgstr "Kontrola duplicitních souborů prostředků"
 
 #: data/tools/GUI.pyw:756
-#, fuzzy
 msgid "Make definition list"
-msgstr "Vytvořte seznam definic"
+msgstr "Vytvořit seznam definic"
 
 #: data/tools/GUI.pyw:764
-#, fuzzy
 msgid "List files that will be processed"
-msgstr "Seznam souborů, které budou zpracovány"
+msgstr "Vypsat soubory, které budou zpracovány"
 
 #: data/tools/GUI.pyw:772
 #, fuzzy
@@ -266,9 +239,8 @@ msgid "Report all macros with untyped formals"
 msgstr "Nahlásit všechna makra s netypovanými formálními znaky"
 
 #: data/tools/GUI.pyw:796
-#, fuzzy
 msgid "Show progress"
-msgstr "Zobrazit pokrok"
+msgstr "Zobrazit průběh"
 
 #: data/tools/GUI.pyw:813
 #, fuzzy
@@ -301,7 +273,6 @@ msgid "Allow unused macros with names matching regexp:"
 msgstr "Povolit nepoužívaná makra s názvy odpovídajícími regexpům:"
 
 #: data/tools/GUI.pyw:939
-#, fuzzy
 msgid "wmlindent mode"
 msgstr "režim wmlindent"
 
@@ -316,7 +287,6 @@ msgid "Report unchanged files"
 msgstr "Nahlášení nezměněných souborů"
 
 #: data/tools/GUI.pyw:995
-#, fuzzy
 msgid "wmlindent options"
 msgstr "Možnosti wmlindent"
 
@@ -330,113 +300,91 @@ msgstr ""
 "odpovídající regexp:"
 
 #: data/tools/GUI.pyw:1019
-#, fuzzy
 msgid "Do not generate output"
-msgstr "Nevytvářejte výstup"
+msgstr "Nevytvářet výstup"
 
 #: data/tools/GUI.pyw:1041
-#, fuzzy
 msgid "Output dir:"
-msgstr "Výstupní dir:"
+msgstr "Výstupní adresář:"
 
 #: data/tools/GUI.pyw:1047
-#, fuzzy
 msgid "Options"
 msgstr "Možnosti"
 
 #: data/tools/GUI.pyw:1052
-#, fuzzy
 msgid "Scan subdirectories"
-msgstr "Prohledávání podadresářů"
+msgstr "Prohledávat podadresáře"
 
 #: data/tools/GUI.pyw:1057
-#, fuzzy
 msgid "Show optional warnings"
 msgstr "Zobrazit volitelná varování"
 
 #. TRANSLATORS: Also called "Needs work".
 #: data/tools/GUI.pyw:1063
-#, fuzzy
 msgid "Mark all strings as fuzzy"
-msgstr "Označit všechny řetězce jako fuzzy"
+msgstr "Označit všechny řetězce jako neúplné překlady"
 
 #: data/tools/GUI.pyw:1067
-#, fuzzy
 msgid "Advanced options"
 msgstr "Rozšířené možnosti"
 
 #: data/tools/GUI.pyw:1071
-#, fuzzy
 msgid "Package version"
 msgstr "Verze balíčku"
 
 #: data/tools/GUI.pyw:1088
-#, fuzzy
 msgid "Initial textdomain:"
 msgstr "Počáteční textová doména:"
 
 #: data/tools/GUI.pyw:1131 data/tools/GUI.pyw:1237
-#, fuzzy
 msgid "Run wmllint"
 msgstr "Spustit wmllint"
 
 #: data/tools/GUI.pyw:1138
-#, fuzzy
 msgid "Save as text..."
 msgstr "Uložit jako text..."
 
 #: data/tools/GUI.pyw:1145
-#, fuzzy
 msgid "Clear output"
 msgstr "Vymazat výstup"
 
 #: data/tools/GUI.pyw:1152
-#, fuzzy
 msgid "About..."
 msgstr "O..."
 
 #: data/tools/GUI.pyw:1159
-#, fuzzy
 msgid "Exit"
-msgstr "Exit"
+msgstr "Ukončit"
 
 #: data/tools/GUI.pyw:1175 data/tools/GUI.pyw:1308
-#, fuzzy
 msgid "wmllint"
 msgstr "wmllint"
 
 #: data/tools/GUI.pyw:1179 data/tools/GUI.pyw:1374
-#, fuzzy
 msgid "wmlscope"
 msgstr "wmlscope"
 
 #: data/tools/GUI.pyw:1183 data/tools/GUI.pyw:1409
-#, fuzzy
 msgid "wmlindent"
 msgstr "wmlindent"
 
 #: data/tools/GUI.pyw:1187 data/tools/GUI.pyw:1458
-#, fuzzy
 msgid "wmlxgettext"
 msgstr "wmlxgettext"
 
 #: data/tools/GUI.pyw:1190
-#, fuzzy
 msgid "Output"
 msgstr "Výstup"
 
 #: data/tools/GUI.pyw:1240
-#, fuzzy
 msgid "Run wmlscope"
 msgstr "Spustit wmlscope"
 
 #: data/tools/GUI.pyw:1243
-#, fuzzy
 msgid "Run wmlindent"
 msgstr "Spustit wmlindent"
 
 #: data/tools/GUI.pyw:1246
-#, fuzzy
 msgid "Run wmlxgettext"
 msgstr "Spustit wmlxgettext"
 
@@ -454,7 +402,6 @@ msgstr ""
 #: data/tools/GUI.pyw:1292 data/tools/GUI.pyw:1298 data/tools/GUI.pyw:1358
 #: data/tools/GUI.pyw:1364 data/tools/GUI.pyw:1398 data/tools/GUI.pyw:1422
 #: data/tools/GUI.pyw:1440
-#, fuzzy
 msgid "Warning"
 msgstr "Varování"
 
@@ -484,7 +431,6 @@ msgstr ""
 
 #: data/tools/GUI.pyw:1302 data/tools/GUI.pyw:1368 data/tools/GUI.pyw:1403
 #: data/tools/GUI.pyw:1427
-#, fuzzy
 msgid "The selected directory does not exists"
 msgstr "Vybraný adresář neexistuje"
 
@@ -541,9 +487,8 @@ msgstr ""
 "wmlxgettext se nespustí"
 
 #: data/tools/GUI.pyw:1433
-#, fuzzy
 msgid "Overwrite confirmation"
-msgstr "Potvrzení přepsání"
+msgstr "Potvrdit přepsání"
 
 #. TRANSLATORS: {} is a placeholder for a file name, and not meant to be modified.
 #: data/tools/GUI.pyw:1435
@@ -578,7 +523,6 @@ msgstr ""
 "Kód chyby: {1}"
 
 #: data/tools/GUI.pyw:1480
-#, fuzzy
 msgid "Text file"
 msgstr "Textový soubor"
 
@@ -628,16 +572,13 @@ msgstr ""
 "a jsou uvolněny jako Public Domain."
 
 #: data/tools/GUI.pyw:1519
-#, fuzzy
 msgid "Exit confirmation"
-msgstr "Potvrzení odchodu"
+msgstr "Potvrzení ukončení"
 
 #: data/tools/GUI.pyw:1520
-#, fuzzy
 msgid "Do you really want to quit?"
-msgstr "Opravdu chcete skončit?"
+msgstr "Opravdu chceš skončit?"
 
 #: data/tools/GUI.pyw:1800
-#, fuzzy
 msgid "This application must be placed into the wesnoth/data/tools directory"
 msgstr "Tato aplikace musí být umístěna do adresáře wesnoth/data/tools."
