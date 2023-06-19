@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-06-18 23:20+0200\n"
+"PO-Revision-Date: 2023-06-19 23:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5949,10 +5949,8 @@ msgstr "Přesuň Konráda do jeskyně"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:92
-#, fuzzy
-#| msgid "Rescue the sergeant"
 msgid "Rescue the lieutenant"
-msgstr "Zachraň seržanta"
+msgstr "Zachraň poručíka"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:154
@@ -6271,15 +6269,11 @@ msgstr "Vidím někoho na nejvzdálenějším útesu!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:719
-#, fuzzy
-#| msgid ""
-#| "It is a young human sergeant, barely more than a boy. He appears badly "
-#| "hurt but still alive."
 msgid ""
 "It is a young human officer, barely more than a boy. He appears badly hurt "
 "but still alive."
 msgstr ""
-"Je to člověk, poručík, sotva odrostlý chlapec. Vypadá těžce raněný, ale "
+"Je to člověk, důstojník, sotva odrostlý chlapec. Vypadá těžce raněný, ale "
 "naživu."
 
 #. [message]: speaker=unit
@@ -6355,18 +6349,13 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:782
-#, fuzzy
-#| msgid ""
-#| "Our main goal remains to survive ourselves, but if we can spare the "
-#| "troops, we might try to rescue the sergeant stranded on the cliff. "
-#| "However, I make no promises."
 msgid ""
 "Our main goal remains to survive ourselves, but if we can spare the troops, "
 "we might try to rescue the officer stranded on the cliff. However, I make no "
 "promises."
 msgstr ""
 "Naším hlavním cílem zůstává přežít, ale pokud budeme potřebovat méně "
-"jednotek, můžeme se pokusit zachránit toho seržanta. Ale nic neslibuji."
+"jednotek, můžeme se pokusit zachránit toho důstojníka. Ale nic neslibuji."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:786
@@ -6405,15 +6394,11 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:846
-#, fuzzy
-#| msgid ""
-#| "I am the Princess, Li’sar, and we are friends. Join us and wait for the "
-#| "healers to help you, young sergeant."
 msgid ""
 "I am the Princess, Li’sar, and we are friends. Join us and wait for the "
 "healers to help you, young lieutenant."
 msgstr ""
-"Jsem princezna Lisar, a toto nejsou nepřátelé. Přidej se k nám, seržante, a "
+"Jsem princezna Lisar, a toto nejsou nepřátelé. Přidej se k nám, poručíku, a "
 "počkej, než se k tobě dostanou léčitelé."
 
 #. [message]: speaker=Warven
@@ -8878,10 +8863,8 @@ msgstr ""
 
 #. [unit_type]: id=Injured Lieutenant
 #: data/campaigns/Heir_To_The_Throne/units/Injured_Lieutenant.cfg:7
-#, fuzzy
-#| msgid "Injured Sergeant"
 msgid "Injured Lieutenant"
-msgstr "Zraněný seržant"
+msgstr "Zraněný poručík"
 
 #. [variation]
 #. [unit_type]: id=Lord
