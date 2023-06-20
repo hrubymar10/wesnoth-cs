@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-02 14:56 UTC\n"
-"PO-Revision-Date: 2023-06-18 23:19+0200\n"
+"PO-Revision-Date: 2023-06-20 21:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1022,8 +1022,7 @@ msgstr ""
 msgid ""
 "We have come from fighting her forces at Blackwater. Where else has she "
 "attacked?"
-msgstr ""
-"Bojovali jsme s jejími silami v Přístavu temných vod. Kde ještě zaútočila?"
+msgstr "Bojovali jsme s jejími silami v Temné Vodě. Kde ještě zaútočila?"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:320
@@ -1034,9 +1033,8 @@ msgid ""
 "treaty and attack Elensefar!"
 msgstr ""
 "Ovládla Zátoku perel, kterou dlouho držel vodní lid. Zotročila jej a nutí je "
-"potápět se pro ni pro perly. S perlami její bohatství roste den ode dne. "
-"Jsou dokonce zvěsti, že by mohla porušit odvěkou smlouvu a zaútočit na "
-"Elensefar!"
+"potápět se pro perly. S perlami její bohatství roste den ode dne. Jsou "
+"dokonce zvěsti, že by mohla porušit odvěkou smlouvu a zaútočit na Elensefar!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:325
@@ -1053,7 +1051,7 @@ msgid ""
 "We must indeed go there. Let us therefore rest here a little, and then set "
 "sail for the Bay. Hopefully we will defeat her forces there!"
 msgstr ""
-"Pojďme tam – musíme. Nech nás tu chvíli odpočinout, a potom vyplujeme do "
+"Pojďme tam – musíme. Nech nás tu chvíli odpočinout a potom vyplujeme do "
 "zátoky. Snad se nám tam podaří porazit její síly."
 
 #. [scenario]: id=04_The_Bay_of_Pearls
@@ -1124,7 +1122,7 @@ msgid ""
 "merfolk!"
 msgstr ""
 "Skutečně. Vypadá to také, že skřeti mají opravdu mnoho tlup. Půjdu kolem "
-"zátoky a pokusím se odvést jejich pozornost. Ty spolu s ostatními zatím "
+"zátoky a pokusím se odvést jejich pozornost. Ty spolu s ostatními zatím "
 "osvobodíte vodní lid."
 
 #. [message]: speaker=Konrad
