@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-02 14:56 UTC\n"
-"PO-Revision-Date: 2023-06-20 21:39+0200\n"
+"PO-Revision-Date: 2023-06-21 21:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1152,7 +1152,7 @@ msgstr "Ale skřeti jsou nejlepší a nejsilnější ve všech..."
 #. [message]: speaker=Dwaba-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:244
 msgid "Shut up, worm! I’m the boss!"
-msgstr "Sklapni, já jsem tady šéf červe!"
+msgstr "Sklapni, já jsem tady šéf, červe!"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:274
