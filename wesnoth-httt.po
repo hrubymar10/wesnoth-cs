@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-06-23 22:06+0200\n"
+"PO-Revision-Date: 2023-06-24 08:06+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7349,38 +7349,29 @@ msgstr ""
 
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:639
-#, fuzzy
-#| msgid ""
-#| "Upon finishing the book, $unit.name| has a much greater understanding of "
-#| "the forest, its nature and ways, and all the creatures within it. "
-#| "Unfortunately, as the last page was turned, the book crumbled to dust."
 msgid ""
 "$unit.name| becomes entranced and greatly gains affinity with the forest, "
 "its nature and ways, and all the creatures within it. He feels he will "
 "quickly become more experienced once reaching the surface. Unfortunately, as "
 "the last page was turned, the book crumbled to dust."
 msgstr ""
-"Po přečtení knihy rozumí $unit.name| mnohem víc lesům, přírodě a její "
-"způsoby a všem tvorům v ní. Bohužel se po přečtení poslední stránky rozpadla "
-"na prach."
+"$unit.name| je uchvácen a získává velkou spřízněnost s lesem, jeho přírodou, "
+"cestami a všemi tvory v něm. Cítí, že jakmile se dostane na povrch, rychle "
+"se stane zkušenějším. Naneštěstí se kniha po otočení poslední stránky "
+"rozpadla v prach."
 
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:640
-#, fuzzy
-#| msgid ""
-#| "female^Upon finishing the book, $unit.name| has a much greater "
-#| "understanding of the forest, its nature and ways, and all the creatures "
-#| "within it. Unfortunately, as the last page was turned, the book crumbled "
-#| "to dust."
 msgid ""
 "female^$unit.name| becomes entranced and greatly gains affinity with the "
 "forest, its nature and ways, and all the creatures within it. She feels she "
 "will quickly become more experienced once reaching the surface. "
 "Unfortunately, as the last page was turned, the book crumbled to dust."
 msgstr ""
-"Po přečtení knihy rozumí $unit.name| mnohem víc lesům, přírodě a její "
-"způsoby a všem tvorům v ní. Bohužel se po přečtení poslední stránky rozpadla "
-"na prach."
+"$unit.name| je uchvácena a získává velkou spřízněnost s lesem, jeho "
+"přírodou, cestami a všemi tvory v něm. Cítí, že jakmile se dostane na "
+"povrch, rychle se stane zkušenější. Naneštěstí se kniha po otočení poslední "
+"stránky rozpadla v prach."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:671
