@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-17 23:19-0500\n"
-"PO-Revision-Date: 2023-06-26 23:03+0200\n"
+"PO-Revision-Date: 2023-06-26 23:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4789,15 +4789,13 @@ msgstr "Hráč:"
 #: data/gui/window/mp_match_history.cfg:340
 #: data/gui/window/mp_match_history.cfg:382
 #: data/gui/window/mp_match_history.cfg:406
-#, fuzzy
 msgid "Asterisks match all characters"
-msgstr "Hvězdičky odpovídají všem znakům"
+msgstr "Hvězdičky zastupují všechny znaky"
 
 #. [label]
 #: data/gui/window/mp_match_history.cfg:351
-#, fuzzy
 msgid "Content Type:"
-msgstr "Typ obsahu:"
+msgstr "Druh obsahu:"
 
 #. [label]
 #: data/gui/window/mp_match_history.cfg:370
@@ -5170,7 +5168,6 @@ msgstr "Odebrat"
 
 #. [label]
 #: data/gui/window/preferences/03_display.cfg:15
-#, fuzzy
 msgid "Window size:"
 msgstr "Velikost okna:"
 
@@ -5249,19 +5246,17 @@ msgstr "Motiv rozhraní:"
 
 #. [menu_button]: id=choose_theme
 #: data/gui/window/preferences/03_display.cfg:181
-#, fuzzy
 msgid ""
 "Change the in-game interface theme. Additional themes may be provided by "
 "community-made add-ons"
 msgstr ""
-"Změna motivu rozhraní ve hře. Další témata mohou být poskytnuta komunitními "
-"doplňky."
+"Změnit motiv rozhraní ve hře. Další motivy mohou být poskytnuty "
+"v rozšířeních vytvořených komunitou."
 
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:200
-#, fuzzy
 msgid "Combat damage indicators"
-msgstr "Indikátory bojového poškození"
+msgstr "Ukazatele zranění v boji"
 
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:201
@@ -5272,9 +5267,8 @@ msgstr ""
 
 #. [toggle_button]: id=show_ellipses
 #: data/gui/window/preferences/03_display.cfg:214
-#, fuzzy
 msgid "Team color indicators"
-msgstr "Barevné indikátory týmu"
+msgstr "Barevné ukazatele týmů"
 
 #. [toggle_button]: id=show_ellipses
 #: data/gui/window/preferences/03_display.cfg:215
@@ -5286,9 +5280,8 @@ msgstr ""
 
 #. [toggle_button]: id=show_grid
 #: data/gui/window/preferences/03_display.cfg:228
-#, fuzzy
 msgid "Grid overlay"
-msgstr "Překrytí mřížkou"
+msgstr "Pokrytí mřížkou"
 
 #. [toggle_button]: id=show_grid
 #: data/gui/window/preferences/03_display.cfg:229
