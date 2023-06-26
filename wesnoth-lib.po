@@ -8561,24 +8561,3 @@ msgstr ""
 #: src/wml_exception.cpp:101
 msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
 msgstr "V sekci '[$section|]' není nastaven povinný klíč '$key|'."
-
-#~ msgid "Resolution:"
-#~ msgstr "Rozlišení:"
-
-#~ msgid "Automatic pixel scale multiplier"
-#~ msgstr "Automatický násobitel velikosti bodů"
-
-#~ msgid "Show floating labels"
-#~ msgstr "Zobrazit plovoucí popisky"
-
-#~ msgid "Show team colors"
-#~ msgstr "Zobrazit barvy týmů"
-
-#~ msgid "Show grid"
-#~ msgstr "Zobrazit mřížku"
-
-#~ msgid "Theme"
-#~ msgstr "Motiv"
-
-#~ msgid "Change the in-game theme"
-#~ msgstr "Změnit motiv hry"
