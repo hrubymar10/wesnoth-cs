@@ -4789,13 +4789,15 @@ msgstr "Hráč:"
 #: data/gui/window/mp_match_history.cfg:340
 #: data/gui/window/mp_match_history.cfg:382
 #: data/gui/window/mp_match_history.cfg:406
+#, fuzzy
 msgid "Asterisks match all characters"
-msgstr ""
+msgstr "Hvězdičky odpovídají všem znakům"
 
 #. [label]
 #: data/gui/window/mp_match_history.cfg:351
+#, fuzzy
 msgid "Content Type:"
-msgstr ""
+msgstr "Typ obsahu:"
 
 #. [label]
 #: data/gui/window/mp_match_history.cfg:370
@@ -5168,8 +5170,9 @@ msgstr "Odebrat"
 
 #. [label]
 #: data/gui/window/preferences/03_display.cfg:15
+#, fuzzy
 msgid "Window size:"
-msgstr ""
+msgstr "Velikost okna:"
 
 #. [label]: id=help_text
 #: data/gui/window/preferences/03_display.cfg:39
@@ -5246,15 +5249,19 @@ msgstr "Motiv rozhraní:"
 
 #. [menu_button]: id=choose_theme
 #: data/gui/window/preferences/03_display.cfg:181
+#, fuzzy
 msgid ""
 "Change the in-game interface theme. Additional themes may be provided by "
 "community-made add-ons"
 msgstr ""
+"Změna motivu rozhraní ve hře. Další témata mohou být poskytnuta komunitními "
+"doplňky."
 
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:200
+#, fuzzy
 msgid "Combat damage indicators"
-msgstr ""
+msgstr "Indikátory bojového poškození"
 
 #. [toggle_button]: id=show_floating_labels
 #: data/gui/window/preferences/03_display.cfg:201
@@ -5265,8 +5272,9 @@ msgstr ""
 
 #. [toggle_button]: id=show_ellipses
 #: data/gui/window/preferences/03_display.cfg:214
+#, fuzzy
 msgid "Team color indicators"
-msgstr ""
+msgstr "Barevné indikátory týmu"
 
 #. [toggle_button]: id=show_ellipses
 #: data/gui/window/preferences/03_display.cfg:215
@@ -5278,8 +5286,9 @@ msgstr ""
 
 #. [toggle_button]: id=show_grid
 #: data/gui/window/preferences/03_display.cfg:228
+#, fuzzy
 msgid "Grid overlay"
-msgstr ""
+msgstr "Překrytí mřížkou"
 
 #. [toggle_button]: id=show_grid
 #: data/gui/window/preferences/03_display.cfg:229
