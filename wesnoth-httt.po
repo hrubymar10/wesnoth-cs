@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-06-25 09:26+0200\n"
+"PO-Revision-Date: 2023-06-27 21:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1853,8 +1853,8 @@ msgid ""
 "We have wrested control of the island from the evil undead! Now all we have "
 "to do is wait for the ship to arrive, so we can make our way to Elensefar!"
 msgstr ""
-"Vyrvali jsme těm odporným nemrtvým vládu nad tímto ostrovem! Jediné co teď "
-"můžeme všichni udělat je, čekat na příjezd lodě, abychom mohli pokračovat ve "
+"Vyrvali jsme těm odporným nemrtvým vládu nad tímto ostrovem! Jediné, co teď "
+"můžeme všichni udělat, je čekat na příjezd lodě, abychom mohli pokračovat ve "
 "svojí cestě do Elensefaru!"
 
 #. [message]: speaker=Moremirmu
@@ -1889,7 +1889,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:569
 msgid "You regain your lost troops and $isle_damned_starting_gold gold!"
-msgstr "Získáváš zpět tvé jednotky a $isle_damned_starting_gold zlatých!"
+msgstr "Získáváš zpět své jednotky a $isle_damned_starting_gold zlatých!"
 
 #. [scenario]: id=06_The_Siege_of_Elensefar
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:4
@@ -1950,8 +1950,8 @@ msgid ""
 "There are so many of them. This will not be easy! And look to the north! It "
 "seems that the undead are allied with the orcs!"
 msgstr ""
-"Je jich tu tolik. Nebude to vůbec lehké! A podívejte se na sever! Vypadá to, "
-"že nemrtví se spolčili s skřety!"
+"Je jich tu tolik. Nebude to vůbec lehké! A podívejte se na sever! Vypadá to, "
+"že nemrtví se spolčili se skřety!"
 
 #. [message]: speaker=Muff Jaanal
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:228
