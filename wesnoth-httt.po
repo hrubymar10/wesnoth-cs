@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-06-28 22:22+0200\n"
+"PO-Revision-Date: 2023-06-29 22:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2120,7 +2120,7 @@ msgstr ""
 msgid ""
 "As the banner was raised, sounds of fighting could be heard from across the "
 "city."
-msgstr "Poté co byl prapor vztyčen, vřava boje byla slyšet po celém městě."
+msgstr "Poté, co byl prapor vztyčen, byla po celém městě slyšet vřava boje."
 
 #. [unit]: id=Darglen, type=Thief
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:444
