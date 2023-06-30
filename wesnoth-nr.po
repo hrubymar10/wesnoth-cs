@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-06-28 23:03+0200\n"
+"PO-Revision-Date: 2023-06-30 23:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -708,13 +708,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:35
-#, fuzzy
-#| msgid ""
-#| "A fortnight after their victory, the town was awakened from slumber in "
-#| "the dead of night by the distant booming of orcish drums. Scouts training "
-#| "with the nightrunners returned to cry the news that a strong orcish "
-#| "company was approaching. Frightened as they had never been before, the "
-#| "folk of Dwarven Doors looked to Tallin for guidance."
 msgid ""
 "A fortnight after their victory, the town was awakened from slumber in the "
 "dead of night by the distant booming of orcish drums. Scouts training with "
@@ -723,9 +716,9 @@ msgid ""
 "Doors looked to Tallin for guidance."
 msgstr ""
 "Dvě neděle po vítězství bylo město vytrženo ze spánku duněním skřetích bubnů "
-"v dálce. Průzkumníci se vrátili ze cvičení, aby mohli o překot zvěstovat "
-"noviny: blížila se velká banda skřetů. V dosud nepoznaném děsu se obyvatelé "
-"Trpasličích Dveří vrhli za Tallinem, aby je zachránil."
+"v dálce. Průzkumníci, kteří cvičili s lesáky, se vrátili, aby mohli o překot "
+"zvěstovat noviny: blížila se velká banda skřetů. V dosud nepoznaném děsu se "
+"obyvatelé Trpasličích Dveří vrhli za Tallinem, aby je zachránil."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:38
