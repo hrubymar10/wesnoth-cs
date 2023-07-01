@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-06-29 22:33+0200\n"
+"PO-Revision-Date: 2023-07-01 09:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2006,8 +2006,8 @@ msgid ""
 "Greetings, friend. We are from the Elensefar Thieves’ Guild. We would like "
 "to help you against the orcs!"
 msgstr ""
-"Vítej příteli. Jsme z Elensefarského cechu zlodějů. Rádi bychom ti pomohli v "
-"boji proti skřetům!"
+"Vítej, příteli. Jsme z Elensefarského cechu zlodějů. Rádi bychom ti pomohli "
+"v boji proti skřetům!"
 
 #. [message]: role=Advisor
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:311
@@ -2112,7 +2112,7 @@ msgid ""
 "Do not fear, friends. There will be a slaughter here, but it will be orcish "
 "blood staining the streets."
 msgstr ""
-"Nebojte se přátelé. Toho bohdá nebude, aby došlo k masakru našich jednotek, "
+"Nebojte se, přátelé. Toho bohdá nebude, aby došlo k masakru našich jednotek, "
 "to jen skřetí krev poteče ulicemi."
 
 #. [message]: speaker=narrator
@@ -2169,7 +2169,7 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:577
 msgid "Finally, we have retaken the city! Let us rest here, friends."
-msgstr "Konečně jsme získali město zpět! Odpočiňme si zde přátelé."
+msgstr "Konečně jsme získali město zpět! Odpočiňme si zde, přátelé."
 
 #. [message]: role=Thief
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:585
@@ -2187,7 +2187,7 @@ msgid ""
 "Greetings, friends. I see that you have rescued the city! I knew that you "
 "could do it."
 msgstr ""
-"Zdravím vás přátelé! Vidím, že jste zachránili město! Věděl jsem, že to "
+"Zdravím vás, přátelé! Vidím, že jste zachránili město! Věděl jsem, že to "
 "dokážete."
 
 #. [message]: speaker=Konrad
@@ -2208,7 +2208,7 @@ msgstr ""
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:637
 msgid "Greetings, friend."
-msgstr "Zdravím tě příteli!"
+msgstr "Zdravím tě, příteli!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:642
@@ -2241,11 +2241,11 @@ msgid ""
 "the Sceptre has never been found."
 msgstr ""
 "Ohnivé žezlo je nejstarším artefaktem ve světě Wesnothu. Bylo vytvořeno "
-"trpaslíky z Knalgy na objednávku krále Haldrika II. Mnoho let trvalo jejich "
+"trpaslíky z Knalgy na objednávku krále Haldrika II. Mnoho let trvalo jejich "
 "nejlepším kovářům, než bylo dokončeno, ale krátce poté byli jeho tvůrci "
-"napadeni elfy a pronásledováni až do nejhlubších jeskyní. Nikdo přesně neví, "
-"co se tam tehdy vlastně stalo, ale žezlo bylo ztraceno někde v těch "
-"rozlehlých dutinách. Jak léta utíkala, trpaslíci měli střídavě větší a menší "
+"napadeni elfy a pronásledováni až do nejhlubších jeskyní. Nikdo přesně neví, "
+"co se tam tehdy vlastně stalo, ale žezlo bylo ztraceno někde v těch "
+"rozlehlých dutinách. Jak léta utíkala, trpaslíci měli střídavě větší a menší "
 "štěstí, ale žezlo nebylo nikdy nalezeno."
 
 #. [message]: speaker=Konrad
@@ -2408,9 +2408,9 @@ msgid ""
 "are providing what gold they can spare to help us swell our ranks with new "
 "recruits. Let it begin!"
 msgstr ""
-"Pak budeme bojovat. Naštěstí teď když jsme osvobodili Elensefar, poskytují "
-"nám všechno zlato které mohou postrádat, aby nám pomohli rozšířit naše řady "
-"o nové rekruty. Začněme!"
+"Pak budeme bojovat. Naštěstí nám teď, když jsme osvobodili Elensefar, "
+"poskytují všechno zlato, které mohou postrádat, aby nám pomohli rozšířit "
+"naše řady o nové rekruty. Začněme!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Crossroads.cfg:455
