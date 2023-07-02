@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-06-30 23:41+0200\n"
+"PO-Revision-Date: 2023-07-02 12:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -722,22 +722,15 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:38
-#, fuzzy
-#| msgid ""
-#| "Faced with certain destruction at the hands of the orcs, or a fate "
-#| "unknown in the caves of Knalga, Tallin chose the latter. The people "
-#| "quickly gathered together and collected whatever food and weapons they "
-#| "could and plunged into the darkness of the caves."
 msgid ""
 "Faced with certain destruction at the hands of the orcs, or a fate unknown "
 "in the caves of Knalga, Tallin chose the latter. The people quickly "
 "collected whatever food and weapons they could and plunged into the darkness "
 "of the caves."
 msgstr ""
-"Při výběru mezi jistou smrtí ve skřetích pařátech a neznámým osudem v "
-"jeskyních Knalgy zvolil Tallin to druhé. Lidé se ve spěchu shromáždili, "
-"pobrali tolik potravy a zbraní, kolik unesli, a vrhli se do temnoty "
-"podzemních tunelů."
+"Při výběru mezi jistou smrtí ve skřetích pařátech a neznámým osudem "
+"v jeskyních Knalgy zvolil Tallin to druhé. Lidé ve spěchu pobrali tolik "
+"potravy a zbraní, kolik unesli, a vrhli se do temnoty jeskyní."
 
 #. [side]: type=Troll, id=Knash
 #. [side]: type=Troll, id=Krog
@@ -862,13 +855,12 @@ msgstr "(<i>Lup</i>) <i>Uf!</i>"
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:303
-#, fuzzy
-#| msgid "Great idea, Tallin, I probably couldn’t even fight a bat down here."
 msgid ""
 "Great idea, Tallin. It's so dark I probably couldn’t even fight a bat down "
 "here."
 msgstr ""
-"Opravdu skvělý nápad, Talline, tady bych se asi neubránil ani netopýrovi."
+"Opravdu skvělý nápad, Talline. Tady dole je taková tma, že bych se asi "
+"neubránil ani netopýrovi."
 
 #. [message]: type=Blood Bat
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:317
@@ -992,10 +984,8 @@ msgstr ""
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:487
-#, fuzzy
-#| msgid "Grim Gods of Darkness, what are those things!"
 msgid "Grim Gods of Darkness! What are those things?"
-msgstr "Bohové temnot, co je tohle za věci?"
+msgstr "Zasmušilí bohové temnot! Co je tohle za věci?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:492
@@ -1012,17 +1002,13 @@ msgstr "Podívejte, jaké mají sekery. Ti kostlivci museli kdysi být trpaslíc
 #. [message]: speaker=Tallin
 #. The dwarves are skeletal undead.
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:503
-#, fuzzy
-#| msgid ""
-#| "Stand firm, men. The dwarven defenders of Knalga rise again. Now it "
-#| "remains to be seen whether or not they recognize us as friends."
 msgid ""
 "So it is true! The dwarven defenders of Knalga have risen once again. Stand "
 "firm men! Now it remains to be seen whether or not they recognize us as "
 "friends."
 msgstr ""
-"Počkejme. Trpasličí obránci Knalgy opět povstávají. Teď uvidíme, jestli nás "
-"poznají jako přátele nebo ne."
+"Takže je to pravda! Trpasličí obránci Knalgy znovu povstali. Stůjte pevně, "
+"muži! Teď uvidíme, zda v nás poznají přátele, nebo ne."
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:519
@@ -1038,30 +1024,22 @@ msgstr "Zničte je!"
 #. We have different wordings for the sentences.
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:546
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:680
-#, fuzzy
-#| msgid ""
-#| "Hey look, it’s an ancient door. It seems the trolls were too stupid to "
-#| "find how to open it."
 msgid ""
 "Hey look, it’s an ancient door. It seems the trolls were too stupid to "
 "figure out how to open it."
 msgstr ""
-"Podívejte, starobylé dveře. Zdá se, že trollové byli příliš pitomí na to, "
-"aby je dokázali otevřít."
+"Podívejte, starobylé dveře. Zdá se, že trollové byli příliš pitomí, aby "
+"přišli na to, jak je otevřít."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:555
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:686
-#, fuzzy
-#| msgid ""
-#| "Hey look, it’s an ancient door. It seems the skeletons were too stupid to "
-#| "find how to open it."
 msgid ""
 "Hey look, it’s an ancient door. It seems the skeletons were too stupid to "
 "find out how to open it."
 msgstr ""
-"Podívejte, starobylé dveře. Zdá se, že kosťáci byli příliš pitomí na to, aby "
-"je dokázali otevřít."
+"Podívejte, starobylé dveře. Zdá se, že kosťáci byli příliš pitomí, aby "
+"zjistili, jak je otevřít."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:564
@@ -1370,19 +1348,14 @@ msgstr "Setkání s trpaslíky"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:18
-#, fuzzy
-#| msgid ""
-#| "After reaching the dwarvish keep and tending to their wounded, the humans "
-#| "led by Tallin and the dwarves led by Lord Hamel hurried deeper into the "
-#| "caverns for a hasty council."
 msgid ""
 "After reaching the dwarvish keep and tending to their wounded, the humans "
 "led by Tallin, and the dwarves led by Lord Hamel, hurried deeper into the "
 "caverns for a hasty council."
 msgstr ""
-"Poté, co dosáhli trpasličí tvrze a postarali se o raněné, spěchali Tallinovi "
-"lidé a trpaslíci pod vedením lorda Hamela hlouběji do jeskyní na narychlo "
-"svolanou radu."
+"Poté, co dosáhli trpasličí tvrze a postarali se o raněné, spěchali lidé "
+"a trpaslíci pod vedením Tallina a lorda Hamela hlouběji do jeskyní na "
+"narychlo svolanou radu."
 
 #. [side]: type=Dwarvish Lord, id=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:43
@@ -1470,18 +1443,6 @@ msgstr ""
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:133
-#, fuzzy
-#| msgid ""
-#| "Oh, there are orcs enough down here, but ye’ll not likely see them; they "
-#| "hide from us like vermin. You see, lad, in these caves there is no more "
-#| "fearsome a foe than a dwarf. Not only do we move through the caves "
-#| "swiftly, but we know them like the backs of our hands. The orcs did "
-#| "indeed manage to swamp our defenses with their sheer numbers all those "
-#| "long years ago, but not before we surprised and slew their leader — the "
-#| "cursed Khazg Black-Tusk. Since then, although the orcs still foul these "
-#| "caves with their stench, their attacks have been uncoordinated and "
-#| "erratic, wi’ the orcs as likely to attack each other as they are to "
-#| "attack us."
 msgid ""
 "Oh, there are orcs enough down here, but ye’ll not likely see them; they "
 "hide from us like vermin. You see, lad, in these caves there is no more "
@@ -1497,21 +1458,13 @@ msgstr ""
 "námi, neřádi. Tady vidíš, chlapče, že v jeskyních není strašlivějšího "
 "bojovníka než trpaslíka. Nejenže se v nich rychle pohybujeme, ale taky je "
 "známe jako vlastní boty. Skřetům se sice před lety podařilo prolomit naši "
-"obranu početně, ale ještě předtím se nám povedlo překvapit a zabít jejích "
-"vůdce, prokletého Khazga Černého tesáka. Od té doby sem sice skřeti občas "
-"páchnou, ale jejich útoky postrádají řád a sílu, protože ta verbež se pobíjí "
-"navzájem skoro tak rychle, jako to zvládáme my."
+"obranu početně, ale ještě předtím se nám povedlo překvapit a zabít jejich "
+"vůdce – toho prokletého Khazga Černého tesáka! Od té doby sem sice skřeti "
+"občas páchnou, ale jejich útoky postrádají řád a sílu, protože ta verbež se "
+"pobíjí navzájem skoro tak rychle, jako to zvládáme my."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:138
-#, fuzzy
-#| msgid ""
-#| "In more recent years, however, I ha’ noticed that there have been fewer "
-#| "orcs and more skeletons around. The orcs seem to fear them and shy away "
-#| "from them whenever possible, but their troll allies are another matter. "
-#| "Yon trolls actually seem to take great pleasure out of crushing the "
-#| "skeletons to the dust and sucking any marrow that remains in their "
-#| "bones..."
 msgid ""
 "In more recent years, however, I ha’ noticed that there have been fewer orcs "
 "and more skeletons around. The orcs seem to fear them and shy away from them "
@@ -1521,21 +1474,17 @@ msgid ""
 msgstr ""
 "Poslední roky ale pozoruji, že tu ubývá skřetů a přibývá kosťáků. Skřeti se "
 "jich bojí a uhýbají, když můžou, ale jejich trollí kamarádi ani ne. Zdá se, "
-"že trolly asi baví drtit jejich kosti a vysávat morek, který tam snad zbyl..."
+"že ty trolly hodně baví drtit jejich kosti a vysávat morek, který v nich "
+"zbyl."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:143
-#, fuzzy
-#| msgid ""
-#| "What is the story with those skeletons anyway? They look like they were "
-#| "dwarves when they lived, but now they just seem to be mindless killers, "
-#| "attacking anyone and anything."
 msgid ""
 "What is the story with those skeletons anyway? They look like they were "
 "dwarves when they lived, but now they just seem to be mindless killers."
 msgstr ""
 "Co je vlastně s těmi kostlivci? Vypadají, že zaživa byli trpaslíky, ale teď "
-"se z nich stali bezduší zabijáci, útočící na vše, co se hýbe."
+"jsou to jen bezduší zabijáci."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:148
