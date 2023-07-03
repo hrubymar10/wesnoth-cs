@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-07-03 23:10+0200\n"
+"PO-Revision-Date: 2023-07-03 23:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1488,14 +1488,6 @@ msgstr ""
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:148
-#, fuzzy
-#| msgid ""
-#| "In truth, we ha’ no idea. They just started appearing one day some years "
-#| "after we were trapped here — by ones and twos in the beginning, and now "
-#| "by the hordes. We were fair frightened when we first encountered them, "
-#| "but we soon discovered they fell to our hammers just as readily as the "
-#| "orcs fell to our axes. So, it is not their existence I fear — for we have "
-#| "faced far worse trials — but their rising numbers gives cause for worry..."
 msgid ""
 "In truth, we ha’ no idea. They just started appearing one day. They came by "
 "ones and twos in the beginning, and now by the hordes. We were fair "
@@ -1504,12 +1496,12 @@ msgid ""
 "their existence I fear — for we have faced far worse trials — but their "
 "rising numbers gives cause for worry..."
 msgstr ""
-"Po pravdě, nemáme představu. Prostě se začali objevovat jednoho dne několik "
-"let poté, co jsme tu uvízli. Nejdřív po jednom, ale nakonec jich byly celé "
-"hordy. Dost nás při prvním setkání vyděsili. Netrvalo ale dlouho a zjistili "
-"jsme, že je naše kladiva likvidují tak snadno jako sekery skřety. Nebojím se "
-"ani tak toho, že existují – prošli jsme již daleko strašnějšími zkouškami – "
-"ale spíš jejich stoupajícího množství..."
+"Po pravdě, nemáme představu. Prostě se jednoho dne začali objevovat. Nejdřív "
+"po jednom, po dvou, ale nakonec jich byly celé hordy. Dost nás při prvním "
+"setkání vyděsili. Netrvalo ale dlouho a zjistili jsme, že je naše kladiva "
+"likvidují tak snadno jako sekery skřety. Nebojím se ani tak toho, že "
+"existují – prošli jsme již daleko strašnějšími zkouškami – ale spíš jejich "
+"stoupajícího množství..."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:153
@@ -1559,13 +1551,6 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:173
-#, fuzzy
-#| msgid ""
-#| "With all respect, my Lord Hamel, we the people from Dwarven Doors have "
-#| "faced certain death many times now. Rising up against the orcs was said "
-#| "to be certain death. Plunging headfirst into these bleak caves was said "
-#| "to be certain death. If our fate is death then so be it. Until that time "
-#| "comes, my people will fight and I will lead them to fight!"
 msgid ""
 "With all respect, my Lord Hamel, we the people from Dwarven Doors have faced "
 "certain death many times now. Rising up against the orcs was said to be "
@@ -1575,9 +1560,8 @@ msgid ""
 msgstr ""
 "Ve vší úctě, lorde Hamele, my od Trpasličích Dveří jsme již mnohokrát stáli "
 "tváří v tvář jisté smrti. Říkalo se, že povstání proti skřetům je jistá "
-"smrt. Totéž říkali o vstupu do jeskyní. Pokud je naším osudem zemřít, ať se "
-"tak tedy stane. Dokud ten čas nenastane, bude můj lid bojovat a do boje jej "
-"povedu já!"
+"smrt. Totéž říkali o vstupu do jeskyní. Pokud je tohle naším osudem, budiž. "
+"Než ten čas přijde, povedu svůj lid do boje za naši svobodu!"
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:178
@@ -2009,32 +1993,22 @@ msgstr ""
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:449
-#, fuzzy
-#| msgid ""
-#| "Bah! They look like fat slugs to me. Come on boys, let’s chop them to "
-#| "pieces before they can leave the canal."
 msgid ""
 "Bah! They look like fat slugs to me. Come on boys, let’s chop them to pieces "
 "before they can leave the canal!"
 msgstr ""
 "Pche! Podle mě jsou to jen pitomé tlusté žoky. Pojďte, chlapci, rozsekáme je "
-"na kusy, ještě než se jim podaří vylézt z kanálu."
+"na kusy, ještě než se jim podaří vylézt z kanálu!"
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:455
-#, fuzzy
-#| msgid ""
-#| "Ghouls! They have an insatiable hunger for flesh and even one scratch "
-#| "from their claws will weaken you with sickness and disease. Nasty things; "
-#| "let’s chop them to pieces before they can leave the canal."
 msgid ""
 "Ghouls! They have an insatiable hunger for flesh. One scratch from their "
 "claws will weaken you with sickness and disease. Nasty things; let’s chop "
 "them to pieces before they can leave the canal."
 msgstr ""
-"Požírači mrtvých! Mají nenasytný hlad po mase a dokonce i jeden škrábanec "
-"z jejich drápů vás oslabí nákazou. Ošklivé věci. Rozsekejme je na kousky, "
-"než opustí kanály."
+"Požírači mrtvých! Mají nenasytný hlad po mase. Jediné škrábnutí jejich drápy "
+"vás oslabí nákazou. Ošklivé věci. Rozsekejme je na kousky, než opustí kanály."
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:470
@@ -2188,16 +2162,12 @@ msgstr "Kdepak, ty živý odpadku."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:398
-#, fuzzy
-#| msgid ""
-#| "We’ll have to kill these revenants to get after him. There are only two "
-#| "of them, so they shouldn’t last long."
 msgid ""
 "We’ll have to kill these revenants to get after him. There are only two of "
 "them. This shouldn’t last long."
 msgstr ""
 "Jestli ho chceme dohnat, musíme se nejdřív zbavit těch revenantů. Jsou jen "
-"dva, nemělo by nám to trvat dlouho."
+"dva. Nemělo by nám to trvat dlouho."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:415
@@ -2486,10 +2456,8 @@ msgstr "(<i>Chichi</i>)"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:842
-#, fuzzy
-#| msgid "She’s not in good shape..."
 msgid "Tallin, look! Oh, she’s not in good shape..."
-msgstr "Není v dobrém stavu..."
+msgstr "Talline, podívej! No, není v dobrém stavu..."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:854
@@ -2532,8 +2500,6 @@ msgstr ""
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:909
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:954
-#, fuzzy
-#| msgid "Yes, I would... like to join... you Lord Tallin."
 msgid "Yes, I would... like to join you... Lord Tallin."
 msgstr "Ano, ráda... bych vám pomohla..., lorde Talline."
 
@@ -2548,11 +2514,8 @@ msgstr ""
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:919
-#, fuzzy
-#| msgid ""
-#| "And I feel better too. Now let’s get back at that disgusting skeleton."
 msgid "And I feel better too. Now where’s that disgusting skeleton?"
-msgstr "A taky se cítím lépe. Teď se ale vraťme k tomu nechutnému kostlivci."
+msgstr "A taky se cítím lépe. Tak kde je ten nechutný kostlivec?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:925
@@ -2581,16 +2544,12 @@ msgstr "Jen Tallin, nejsem lord. A už vypadáš zdravěji."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:981
-#, fuzzy
-#| msgid ""
-#| "Oh, just a few tricks I know, otherwise I probably would be dead by now. "
-#| "But let’s get back at that disgusting skeleton."
 msgid ""
 "Oh, just a few tricks I know, otherwise I probably would be dead by now. Now "
 "where’s that disgusting skeleton?"
 msgstr ""
-"To je jen pár triků, bez nich bych už asi byla mrtvá. Ale vraťme se k tomu "
-"nechutnému kostlivci."
+"Ále, to je jen pár triků, které znám, bez nich bych už asi byla mrtvá. Tak "
+"kde je ten nechutný kostlivec?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:988
@@ -2614,10 +2573,8 @@ msgstr "Rozhodně."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1032
-#, fuzzy
-#| msgid "Holy cow! What did I just let out of that cage! Look out everyone."
 msgid "Holy cow! What did I just let out of that cage? Look out everyone!"
-msgstr "Proboha, co jsem to z té klece vypustil! Pozor!"
+msgstr "No nazdar! Co jsem to z té klece vypustil! Všichni si dávejte pozor!"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1037
@@ -2673,16 +2630,12 @@ msgstr "Není to „to“, ale „on“, a ano, jsou to velmi inteligentní stvo
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1095
-#, fuzzy
-#| msgid ""
-#| "Hush! I am trying to talk to him. Nope, we’ll never hurt you. But if you "
-#| "want to you can hurt some skeletons."
 msgid ""
 "Hush, I am trying to talk to him. Nope, we’ll never hurt you. But if you "
 "want to you can hurt some skeletons."
 msgstr ""
-"Ticho! Pokouším se s ním domluvit. Ne, nebudeme ti ubližovat. Ale jestli "
-"chceš, můžeš pobít nějaké kostlivce."
+"Ticho, pokouším se s ním domluvit. Ne, nebudeme ti ubližovat. Ale jestli "
+"chceš, můžeš ty ublížit nějakým kostlivcům."
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1100
@@ -2707,14 +2660,8 @@ msgstr "Jejda! Možná není tak přátelský... aspoň ke kostlivcům určitě 
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1140
-#, fuzzy
-#| msgid ""
-#| "(<i>Sigh</i>) There doesn’t seem to be anything down this tunnel, either "
-#| "friend or foe."
 msgid "(<i>Sigh</i>) There doesn’t seem to be anything down this tunnel."
-msgstr ""
-"(<i>Povzdech</i>) Nevypadá to, že v tom tunelu něco je, ať už přítel či "
-"nepřítel."
+msgstr "(<i>Povzdech</i>) Nevypadá to, že v tom tunelu něco je."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1164
