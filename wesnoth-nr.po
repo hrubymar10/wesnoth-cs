@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-07-03 23:58+0200\n"
+"PO-Revision-Date: 2023-07-04 22:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2724,15 +2724,6 @@ msgstr "Co tam máš, Abhai?"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1296
-#, fuzzy
-#| msgid ""
-#| "This is the Great Rod of Justice, my boy. It was an ancient artifact even "
-#| "when I was young. They say it was crafted by the Great Gods themselves, "
-#| "and given to the first true Ruler of Men to ensure peace, harmony and "
-#| "above all — justice. For hundreds of years it did just that, for during "
-#| "the time it was wielded by men, the ruling class never became corrupt, "
-#| "the people never lacked justice and neither evil nor wars troubled the "
-#| "land."
 msgid ""
 "This is the Great Rod of Justice, my boy. It was an ancient artifact even "
 "when I was young. They say it was crafted by the Great Gods themselves, and "
@@ -2743,10 +2734,10 @@ msgid ""
 msgstr ""
 "Chlapče, toto je Velká hůl spravedlnosti. Už když jsem byl mladý, "
 "představovala nezměrně starý artefakt. Říká se, že ji vytvořili samotní "
-"Bohové a poté dali prvním opravdovým lidským vládcům, aby zajistili mír a "
-"harmonii, především ale spravedlnost. Po staletí to opravdu fungovalo. Dokud "
-"holí vládli lidé, vládnoucí vrstvy se nikdy nezkazily, lidé nepostrádali "
-"spravedlnost a zemi netrápily ani války, ani zlo."
+"Velcí bohové a dali ji prvnímu skutečnému vládci lidí, aby zajistil mír "
+"a harmonii, především ale spravedlnost. Po staletí to opravdu fungovalo. "
+"Dokud byla hůl používána, vládnoucí vrstva se nikdy nezkazila, lidé "
+"nepostrádali spravedlnost a zemi netrápily ani války, ani zlo."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1301
@@ -3131,10 +3122,6 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2050
-#, fuzzy
-#| msgid ""
-#| "Then how do we get past? I can see that the passage continues to both the "
-#| "north and south and we haven’t found Malifor yet..."
 msgid ""
 "Then how do we get past? I can see that the passage continues to both the "
 "north and south, and we haven’t found Malifor yet..."
@@ -3490,10 +3477,8 @@ msgstr "UBOZÍ SMRTELNÍCI, UŽ BRZY MI BUDETE SLOUŽIT!"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2751
-#, fuzzy
-#| msgid "That blasted skeleton! Even fire has no effect on him!"
 msgid "Blast it! Even fire has no effect on him!"
-msgstr "Ten prokletý kostitřas! Ani oheň mu nic nedělá!"
+msgstr "Zatraceně! Ani oheň mu nic nedělá!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2756
@@ -3608,31 +3593,16 @@ msgstr "Jednání"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Laden with gold and filled with an elation at their victory that was "
-#| "tempered with sadness at the death of their friends, Tallin and his "
-#| "people made their way back to the mines."
 msgid ""
 "Laden with gold, and filled with both elation at their victory and sadness "
 "for their departed comrades, Tallin and his people made their way back to "
 "the mines."
 msgstr ""
-"Naloženi zlatem se Tallin a jeho vojsko vydali na cestu zpět k dolům, "
-"naplněni dobrým pocitem z vítězství (a také smutkem nad smrtí mnohých "
-"přátel)."
+"Obtěžkáni zlatem a plni nadšení z vítězství i smutku nad smrtí svých "
+"kamarádů vrátili se Tallin a jeho lidé do dolů."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:22
-#, fuzzy
-#| msgid ""
-#| "As they approached they were met with a most welcome sight: new "
-#| "fortifications, looking very much like the legendary impenetrable "
-#| "dwarvish defenses of old, had sprung up everywhere. All of them were "
-#| "manned by alert and well-armed dwarves who hailed them boisterously. The "
-#| "mines were belching smoke from the furiously working forges. New weapons "
-#| "and armor for humans and dwarves alike lay neatly stacked, and the "
-#| "deafening clang of hammers and picks from the dwarves promised more."
 msgid ""
 "As they approached they were met with a most welcome sight: new "
 "fortifications, looking very much like the legendary impenetrable dwarvish "
@@ -3646,10 +3616,10 @@ msgstr ""
 "Když se přiblížili, uvítal je potěšující pohled. Nové opevnění, "
 "připomínající starobylé legendární nepřekonatelné trpasličí valy, vyrostlo "
 "všude kolem jakoby z ničeho. Na něm postávali dobře vyzbrojení trpaslíci, "
-"kteří jim nadšeně mávali. Z dolů v pozadí vystupovala oblaka kouře, dávající "
-"tušit množství usilovně pracujících kováren. Mnoho nových zbraní a brnění "
-"pro lidi i trpaslíky již bylo naskladněno a ohlušující rachot kladiv "
-"sliboval další přísun."
+"kteří jim nadšeně mávali. Z urputně pracujících kováren se valil dým a žár "
+"z hutí byl skoro omračující. Mnoho nových zbraní a brnění pro lidi "
+"i trpaslíky již bylo naskladněno a ohlušující rachot kladiv sliboval další "
+"přísun."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:25
@@ -3693,18 +3663,13 @@ msgstr ""
 
 #. [message]: speaker=Galim
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:148
-#, fuzzy
-#| msgid ""
-#| "We have cleared the connecting tunnels to here and to the old keep as "
-#| "well as other parts o’ Knalga. It is slow and dangerous work, mostly due "
-#| "to the trolls. But it ha’ been made easier by Malifor’s ending."
 msgid ""
 "We have cleared the connecting tunnels from here to the old keep as well as "
 "other parts o’ Knalga. It is slow and dangerous work, mostly due to the "
 "trolls. But it ha’ been made easier by Malifor’s ending."
 msgstr ""
-"Vyčistili jsme spojovací tunely, co vedou sem a ke staré tvrzi, a také další "
-"části Knalgy. Je to pomalá a nebezpečná práce, hlavně kvůli trollům. Ale "
+"Vyčistili jsme spojovací tunely odsud až ke staré tvrzi a také do dalších "
+"částí Knalgy. Je to pomalá a nebezpečná práce, hlavně kvůli trollům. Ale "
 "Maliforův konec tomu dost pomohl."
 
 #. [message]: speaker=Hamel
@@ -3726,21 +3691,14 @@ msgstr "Výborně! A co zbraně a brnění?"
 #. [message]: speaker=Hamel
 #. As you can see, Tallin there are a lot of them ready to be born into battle. Some of us dwarves are experts in the sword, mace, and bow and can aid your veterans in teaching others.
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:164
-#, fuzzy
-#| msgid ""
-#| "As you can see, Tallin, there are muckle heaps of them, all ready to be "
-#| "borne into battle. What’s more, some of the dwarves who are expert with "
-#| "the sword, mace and bow, as well as some of yer own men who have grown "
-#| "skilled by experience, can teach others how to wield them."
 msgid ""
 "As ye ken see, Tallin, there be muckle heaps o’ them, all ready to be borne "
 "inta battle. And, some o’ us dwarves be experts in the sword, mace, and bow "
 "and ken aid yer veterans in teaching others."
 msgstr ""
-"Jak vidíš, Talline, jsou jich tu hromady, všechny připravené k bitvě. A "
-"navíc jsou někteří trpaslíci experti v používání mečů, palcátů a luků. "
-"Společně s těmi z vás, kdo získali zkušenosti v boji, mohou přispět k "
-"výcviku nováčků."
+"Jak vidíš, Talline, jsou jich tu hromady, všechny připravené k bitvě. "
+"A někteří z nás trpaslíků jsou experti v používání mečů, palcátů a luků "
+"a mohou pomáhat tvým veteránům při výcviku ostatních."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:169
@@ -3774,16 +3732,12 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:185
-#, fuzzy
-#| msgid ""
-#| "That’s great! What is the price of your weapons? We have gathered much "
-#| "booty from Malifor’s treasury and we will be able to pay you generously."
 msgid ""
 "That’s great! What is the price of your weapons? We have gathered much gold "
 "from Malifor’s treasury and will be able to pay you generously."
 msgstr ""
-"To je skvělé! Co za své zbraně chcete? Podařilo se nám získat převážnou část "
-"Maliforovy pokladnice a můžeme vám dobře zaplatit."
+"To je skvělé! Co za své zbraně chcete? Získali jsme z Maliforovy pokladnice "
+"mnoho zlata a budeme vám moci štědře zaplatit."
 
 #. [message]: speaker=Galim
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:190
@@ -3797,11 +3751,8 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:195
-#, fuzzy
-#| msgid ""
-#| "But don’t you need the gold to help rebuild Knalga? And we have plenty."
 msgid "But don’t you need the gold to help rebuild Knalga? We have plenty."
-msgstr "Ale nebudete potřebovat k přestavbě Knalgy zlato? My ho máme dost."
+msgstr "Ale nepotřebujete to zlato na obnovu Knalgy? Máme ho dost."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:200
