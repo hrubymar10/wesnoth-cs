@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-07-04 22:38+0200\n"
+"PO-Revision-Date: 2023-07-05 20:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3827,12 +3827,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:23
-#, fuzzy
-#| msgid ""
-#| "But the peace was not to last. Early one morning Tallin (sore from head "
-#| "to foot from his training) was startled awake by the blare of trumpets, "
-#| "the pounding of drums and the clash of steel as the humans and dwarves "
-#| "hurried to arm themselves."
 msgid ""
 "But the peace was not to last. Early one morning Tallin, sore from head to "
 "foot from his training, was startled awake by the blare of trumpets, the "
@@ -3840,8 +3834,8 @@ msgid ""
 "to arm themselves."
 msgstr ""
 "Ale klid netrval navěky. Jednoho rána se Tallin, celý dobitý po včerejším "
-"tréninku, probudil za řevu trumpet, rachotu bubnů a třesků ocele. Trpaslíci "
-"i lidé spěchali do zbraně a přitom patřičně řinčeli."
+"tréninku, probudil za řevu trumpet, rachotu bubnů a třesku ocele. Trpaslíci "
+"i lidé spěchali do zbraně a přitom patřičně řinčeli."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:26
@@ -4020,16 +4014,12 @@ msgstr ""
 #. [message]: id=Rakshas
 #. knights means wolf riders
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:303
-#, fuzzy
-#| msgid ""
-#| "So! Your forces are managing to advance upon me, are they? Very "
-#| "impressive, but it shall do you no good. KNIGHTS!!"
 msgid ""
 "So! Your forces are managing to advance upon me? Very impressive, but it "
 "shall do you no good. KNIGHTS!!"
 msgstr ""
-"Takže vaše vojsko dokázalo postoupit? Úžasné, ale nic vám to nepomůže. "
-"RYTÍŘI!!"
+"Takže vaše vojsko dokázalo postoupit? Velmi působivé, ale nic vám to "
+"nepomůže. RYTÍŘI!!"
 
 #. [message]: type=Goblin Knight
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:346
@@ -4086,15 +4076,11 @@ msgstr "Argh! Byl jsem ubit!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:411
-#, fuzzy
-#| msgid ""
-#| "Killed him! Got his gold too. Let’s see, hmmm, about 500 gold pieces. Not "
-#| "bad."
 msgid ""
 "Killed him! Got his gold too. Let’s see, hmmm, about five-hundred gold "
 "pieces. Not bad."
 msgstr ""
-"Dostali jsme ho! A získali jeho zlato. Podívejme se, to bude tak 500 "
+"Dostali jsme ho! A získali jeho zlato. Podívejme se, to bude tak pět set "
 "zlatých. To není špatné."
 
 #. [message]: id=Rakshas
@@ -4157,16 +4143,11 @@ msgstr ""
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:508
-#, fuzzy
-#| msgid ""
-#| "Geez, we have been fighting them for three whole days and nights now with "
-#| "no end in sight. Now the fourth night is approaching, what should we do?"
 msgid ""
 "Geez, we have been fighting them for three whole days, and there’s still as "
 "many orcs as ever. What should we do?"
 msgstr ""
-"Bijeme se s nimi už tři dny ve dne v noci a stále to nevypadá, že by "
-"ochabovali. Blíží se čtvrtý večer; co dál?"
+"Bože, bijeme se s nimi už celé tři dny a skřetů neubývá. Co máme dělat?"
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:514
@@ -4224,13 +4205,12 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:27
-#, fuzzy
-#| msgid ""
-#| "Wave after wave of orcs crashed onto the dwarven defenses and shattered."
 msgid ""
 "Wave after wave of orcs crashed onto the dwarven defenses only to be "
 "shattered."
-msgstr "Skřetí útoky se rozbíjely o trpasličí opevnění vlna za vlnou."
+msgstr ""
+"Vlna za vlnou narážely skřetí útoky na trpasličí obranu, aby byly vzápětí "
+"rozdrceny."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:30
@@ -4245,19 +4225,14 @@ msgstr "Jak se ti vedlo?"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:35
-#, fuzzy
-#| msgid ""
-#| "It was fierce and bloody. We fought them for three days and nights with "
-#| "no end in sight. Every time we killed an orc, it seemed that two more "
-#| "would take his place. We most assuredly cannot win fighting like this."
 msgid ""
 "It was fierce and bloody. We fought them for three days and nights. Every "
 "time we killed an orc, it seemed that two more would take his place. We most "
 "assuredly cannot win fighting like this."
 msgstr ""
-"Bylo to zuřivé a krvavé. Bojovali jsme s nimi po tři dni a tři noci a konec "
-"stále v nedohlednu. Pokaždé když padl skřet, další dva se tlačili na jeho "
-"místo. Takhle prostě nemůžeme zvítězit."
+"Bylo to zuřivé a krvavé. Bojovali jsme s nimi po tři dni a tři noci. Pokaždé "
+"když padl skřet, další dva se tlačili na jeho místo. Takhle prostě nemůžeme "
+"zvítězit."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:37
@@ -4281,15 +4256,11 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:41
-#, fuzzy
-#| msgid ""
-#| "Aye. But we must utterly crush this orcish host if we are to ha’ anything "
-#| "other than a brief respite."
 msgid ""
 "Aye. But we must utterly crush this orcish host if we are to ever ha’ peace."
 msgstr ""
-"Jojo. Ale tuhle skřetí armádu musíme rozdrtit, jestli nechceme jen odklad "
-"našich problémů."
+"Ba. Ale jestli chceme mít někdy klid, musíme tuhle skřetí armádu úplně "
+"rozdrtit."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:43
@@ -4314,22 +4285,16 @@ msgstr ""
 #. "coil" meant, in Middle and Early Modern English, a difficulty
 #. or problem.
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:49
-#, fuzzy
-#| msgid ""
-#| "That will be very difficult. We did that last time and they will no doubt "
-#| "be alert to that threat now. Anyway, it would be but a temporary "
-#| "solution. Soon another strong leader would emerge and we’d find oursel’ "
-#| "back in the same coil."
 msgid ""
 "That will be very difficult. We did that last time and they will no doubt be "
 "alert to that threat now. Anyway, it would be but a temporary solution. Soon "
 "another strong leader would come along, and we’d find oursel’ back in the "
 "same coil."
 msgstr ""
-"To není tak jednoduché. Posledně se nám to podařilo, ale tentokrát už se "
+"To bude velmi obtížné. Posledně se nám to podařilo, ale tentokrát už se "
 "budou mít před takovou možností na pozoru. Stejně by to vyřešilo náš problém "
-"jen dočasně. Za nějakou dobu se zase objeví silný vůdce a vše by se "
-"opakovalo."
+"jen dočasně. Brzy by se objevil jiný silný vůdce a my bychom byli zase "
+"v loji."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:51
@@ -4554,12 +4519,6 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:108
-#, fuzzy
-#| msgid ""
-#| "Ye’ll need to travel light to reach Highbrook Pass before the orcs mount "
-#| "another assault in force. I think ye should take as little gold as you "
-#| "think ye’ll need and leave the rest here. We’ll store it in the tunnels "
-#| "furthest away from the attacking orcs in case they break through."
 msgid ""
 "Ye’ll need to travel light to reach Highbrook Pass before the orcs mount "
 "another assault in force. I think ye should take as little gold as possible. "
@@ -4567,9 +4526,9 @@ msgid ""
 "case they break through."
 msgstr ""
 "Budete muset cestovat nalehko, abyste dosáhli Potočního průsmyku dříve, než "
-"skřeti provedou další velký útok. Asi by bylo lepší nebrat s sebou moc "
-"zlata, jen tolik, kolik bude zapotřebí. Zbytek uskladníme v tunelech daleko "
-"od skřetů pro případ, že by se jim podařilo probít dovnitř."
+"skřeti zahájí další velký útok. Myslím, že byste si měli vzít co nejméně "
+"zlata. Zbytek uskladníme v tunelech daleko od útočících skřetů pro případ, "
+"že by se jim podařilo probít dovnitř."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:110
@@ -4655,13 +4614,6 @@ msgstr ""
 # Ro'Arthian se v průběhu svého remcání poněkud rozehřívá...
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:372
-#, fuzzy
-#| msgid ""
-#| "Leave <i>you</i> in peace?! It is your kind that won’t leave <i>us</i> in "
-#| "peace! Ever since you blasted dwarves built that damn road you have "
-#| "harassed us unceasingly! Now, it ends here! After I kill you I will split "
-#| "your carcass and hang it at the mouth of this pass as a warning for any "
-#| "other fools like you! And unlike us <i>you</i> won’t come back."
 msgid ""
 "Leave <i>you</i> in peace?! It is your kind that won’t leave <i>us</i> in "
 "peace! Ever since you blasted dwarves built that damn road you have harassed "
@@ -4669,11 +4621,12 @@ msgid ""
 "carcass and hang it at the mouth of this pass as a warning for any other "
 "fools like you! And unlike us, <i>you</i> won’t come back."
 msgstr ""
-"Nechat <i>vás</i> na pokoji! To vy byste měli konečně nechat na pokoji "
-"<i>nás</i>. Od té doby, co jste vy trpaslíci postavili tu prokletou cestu, "
-"od vás nemáme pokoj! Skončíme to tady! Zabiju tě a pak pověsím tvou mršinu u "
-"vchodu do průsmyku jako varování, aby už sem nelezli žádní další mizerové "
-"jako ty! A na rozdíl od <i>nás</i> už neobživneš."
+"Nechat <i>vás</i> na pokoji?! To vy byste měli konečně nechat na pokoji "
+"<i>nás</i>! Od té doby, co jste vy trpaslíci postavili tu prokletou cestu, "
+"nás neustále obtěžujete! Skončíme to tady! Až tě zabiju, rozčtvrtím tvou "
+"mrtvolu a pověsím ji v ústí tohoto průsmyku jako varování, aby už sem "
+"nelezli žádní další hlupáci jako ty! A na rozdíl od nás <i>ty</i> už "
+"neobživneš."
 
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:377
@@ -4825,10 +4778,8 @@ msgstr "Jejda, sbírá sílu na útok chladem."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:488
-#, fuzzy
-#| msgid "Quick, honey, we’ve got to stop him. Let’s go!"
 msgid "Quick, honey, we’ve got to stop him!"
-msgstr "Rychle, zlato, musíme ho zastavit. Pojďme!"
+msgstr "Rychle, zlato, musíme ho zastavit."
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:498
@@ -4966,10 +4917,8 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:760
-#, fuzzy
-#| msgid "So basically, you want to be left alone in peace. Right?"
 msgid "So basically, you want to be left alone in peace, right?"
-msgstr "Takže, chceš jednoduše, aby tě všichni nechali na pokoji."
+msgstr "Takže v podstatě chceš, aby tě všichni nechali na pokoji, že ano?"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:765
