@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-07-05 20:51+0200\n"
+"PO-Revision-Date: 2023-07-06 10:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5179,14 +5179,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:33
-#, fuzzy
-#| msgid ""
-#| "Before the humans and dwarves could respond to this message, another "
-#| "gryphon arrived with the news that the orcs were holding an elvish "
-#| "sorceress prisoner in the castle of Bitterhold, less than a day’s march "
-#| "distant to the northwest. The castle had attracted notice because it had "
-#| "been recently rebuilt and manned by a unit known to include some of the "
-#| "hardiest and toughest of veteran orcs."
 msgid ""
 "Before the humans and dwarves could respond to this message, another gryphon "
 "arrived with the news that the orcs were holding an elvish sorceress "
@@ -5195,11 +5187,12 @@ msgid ""
 "rebuilt and manned by a force known to include some of the hardiest and "
 "toughest of veteran orcs."
 msgstr ""
-"Než mohli lidé a trpaslíci odpovědět na tuto zprávu, další gryf přiletěl "
-"s novinkami o tom, že skřeti vězní v hradě Hořkobrodu, vzdáleném ani ne "
-"jeden denní pochod na severozápad, elfí vědmu. Hrad připoutal jejich "
-"pozornost, protože byl před nedávnem přestavěn a obsazen jednotkou "
-"ostřílených skřetích veteránů."
+"Než mohli lidé a trpaslíci na tuto zprávu odpovědět, přiletěl další gryf "
+"s novinkami o tom, že skřeti na hradě Hořkobrodu, vzdáleném ani ne jeden "
+"denní pochod na severozápad, vězní elfí vědmu. Hrad upoutal jejich "
+"pozornost, protože byl před nedávnem přestavěn a obsazen jednotkou, o které "
+"se vědělo, že v ní jsou někteří z nejtvrdších a nejdrsnějších skřetích "
+"veteránů."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:36
@@ -5250,16 +5243,12 @@ msgstr ""
 # x: "skopová hlavo"
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:48
-#, fuzzy
-#| msgid ""
-#| "Hah! I ken yer brain has rotted awa’ entire. Think on it, skull-head, "
-#| "what would happen if the elves dinna’ fight and pay the ransom instead?"
 msgid ""
 "Hah! Yer brain has rotted awa’ entire. Think on it, skull-head, what would "
 "happen if the elves dinna’ fight and pay the ransom instead?"
 msgstr ""
-"Cha! Vidím, že ti nakonec shnil celý mozek. Co se asi stane, dutá palice, "
-"když elfové nebudou bojovat a místo toho zaplatí výkupné?"
+"Cha! Vidím, že ti nakonec vyhnil celý mozek. Co se asi stane, dutá palice, "
+"když elfové nebudou bojovat a místo toho zaplatí výkupné?"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:50
@@ -5277,16 +5266,12 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:54
-#, fuzzy
-#| msgid ""
-#| "But you do have a point, Stalrag. That ransom will buy more troops and "
-#| "weapons for the orcs, worse news for us."
 msgid ""
 "But you do have a point, Stalrag. That ransom will buy more troops and "
 "weapons for the orcs, and that is bad news for us."
 msgstr ""
-"Ale máš pravdu, Stalragu, výkupné umožní skřetům naverbovat víc vojáků a "
-"koupit víc zbraní. To je pro nás špatná zpráva."
+"Ale máš pravdu, Stalragu, výkupné umožní skřetům naverbovat víc vojáků "
+"a koupit víc zbraní. To je pro nás špatná zpráva."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:56
@@ -5333,30 +5318,23 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:66
-#, fuzzy
-#| msgid ""
-#| "Kenning the way of orcs, belike they’d kill the Princess, especially if "
-#| "it seems the rescue ha’ any chance of succeeding."
 msgid ""
 "Kenning the way of orcs, they’d kill the princess, especially if it seems "
 "the rescue ha’ any chance of succeeding."
 msgstr ""
-"Jak znám skřety, tak by asi princeznu zabili, zvlášť když to bude vypadat, "
-"že je šance ji vysvobodit."
+"Jak znám skřety, tak by princeznu zabili, zvlášť když to bude vypadat, že je "
+"šance ji vysvobodit."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:68
-#, fuzzy
-#| msgid ""
-#| "Exactly. On the other hand, if we raided the fortress while the orcs were "
-#| "talking ransom with the elves, the orcs might hesitate just long enough."
 msgid ""
 "Exactly. On the other hand, if we raided the fortress while the orcs were "
 "talking ransom with the elves, the orcs might hesitate just long enough for "
 "us to free her."
 msgstr ""
 "Přesně tak. Na druhou stranu, kdybychom ztekli pevnost, dokud budou skřeti "
-"vyjednávat s elfy ohledně výkupného, mohli by otálet snad dost dlouho."
+"vyjednávat s elfy ohledně výkupného, mohli by otálet snad dost dlouho, "
+"abychom ji stihli osvobodit."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:70
@@ -5382,58 +5360,38 @@ msgstr ""
 #. [story]
 #. My shinsplitters are invaluable for this kind of job. They are brave warriors and don't stop fighting until either they or their opponent lies dead. No fortress can stand against them.
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:74
-#, fuzzy
-#| msgid ""
-#| "My Shinsplitters will be invaluable for a job like this. They are fierce "
-#| "and never give ground and will not stop attacking until either they or "
-#| "their opponent lies dead. No fortress can stand long against them."
 msgid ""
 "My Shinsplitters be invaluable for this kind o’ job. They be braw warriors "
 "and dinna stop their assault till either they or their opponent lie dae. Nae "
 "a fortress ken stand against them."
 msgstr ""
-"Mí lamželezové budou pro takovou práci přímo ideální. Jsou tak divocí, že "
-"nikdy neustupují a nepřestanou útočit, dokud buď oni, nebo nepřítel nepadnou "
-"mrtvi k zemi. Žádná pevnost proti nim dlouho neobstojí."
+"Mí lamželezové jsou pro takovou práci k nezaplacení. Jsou to stateční "
+"bojovníci a nepřestanou bojovat, dokud neleží mrtví oni nebo jejich "
+"protivník. Žádná pevnost proti nim neobstojí."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:76
-#, fuzzy
-#| msgid ""
-#| "Ha ha, I like this plan. Once we get our hands on this little sorceress "
-#| "the elves will be forced to do whatever we want them to."
 msgid ""
 "Ha ha, I like this plan! Once we get our hands on this little sorceress the "
 "elves will be forced to do whatever we want them to!"
 msgstr ""
-"Haha, tenhle plán se mi líbí. Jakmile se zmocníme té vědmy, elfové nám budou "
-"muset vyplnit každé naše přání."
+"Haha, tenhle plán se mi líbí! Jakmile se zmocníme té malé vědmy, elfové "
+"budou muset udělat všechno, co budeme chtít!"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:78
-#, fuzzy
-#| msgid ""
-#| "Remember, Ro’Arthian, we need willing allies rather than resentful "
-#| "lackeys that would turn on us at the first reverse. If we rescue their "
-#| "princess, the elves may yet choose not to help us, but that is a risk "
-#| "we’ll have to take."
 msgid ""
 "Remember, Ro’Arthian, we need willing allies rather than resentful lackeys "
 "that would turn on us at the first chance. If we rescue their princess, the "
 "elves may yet choose not to help us, but that is a risk we’ll have to take."
 msgstr ""
-"Ro’Arthiane, pamatuj, že potřebujeme spíš dobrovolné spojence než pomocníky "
-"z donucení, kteří se při první příležitosti obrátí proti nám. I pokud "
-"dokážeme zachránit princeznu, elfové se stále nemusí rozhodnout nám pomoci, "
-"ale musíme to riziko přijmout."
+"Ro’Arthiane, pamatuj, že potřebujeme spíš dobrovolné spojence než rozhořčené "
+"poskoky, kteří se při první příležitosti obrátí proti nám. I pokud dokážeme "
+"zachránit princeznu, elfové se stále nemusí rozhodnout nám pomoci, ale to je "
+"riziko, které budeme muset přijmout."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:80
-#, fuzzy
-#| msgid ""
-#| "Elves are deeply honor-bound, especially in matters that touch their kin. "
-#| "If we rescue the Princess, I am certain the deed will not go without "
-#| "reward."
 msgid ""
 "Elves are deeply honor-bound, especially in matters that touch their kin. If "
 "we rescue the princess, I am certain the deed will not go without reward."
@@ -5546,17 +5504,12 @@ msgstr "Přehradili řeku, aby měli kolem hradu vodní příkop."
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:350
-#, fuzzy
-#| msgid ""
-#| "Are we here to sight-see or to rescue this blasted sorceress? And if you "
-#| "really want to sight-see, then check out that orcish encampment south of "
-#| "us."
 msgid ""
 "Are we here to sight-see or to rescue this blasted sorceress? If you really "
 "want to sight-see, then check out that orcish encampment south of us."
 msgstr ""
 "Přišli jsme prohlížet pamětihodnosti, nebo osvobodit tu zatracenou vědmu? "
-"Jestli už si chcete něco prohlížet, tak ten skřetí tábor na jihu."
+"Jestli už si chcete něco prohlížet, tak ten skřetí tábor na jih od nás."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:355
