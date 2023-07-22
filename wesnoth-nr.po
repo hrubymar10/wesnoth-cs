@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-06 10:30+0200\n"
+"PO-Revision-Date: 2023-07-22 12:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5627,17 +5627,15 @@ msgstr ""
 "Bohové světla! Elenio! Kde ses schovávala ty roky? Co se s tebou stalo? "
 "Mysleli jsme, že jsi mrtvá!"
 
+# nenašel jsem lepší nadávku pro licha než DeepL (~ vylízaný kostěj)
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:210
-#, fuzzy
-#| msgid ""
-#| "Yes, I thought you would think that. What actually happened was that I "
-#| "was captured by that disgusting old bone-bag of a lich."
 msgid ""
 "Yes, I was afraid that would be your conclusion. What actually happened was "
 "that I was captured by an old bonebag of a lich."
 msgstr ""
-"Ano, to jsem čekala. Zajal mne ten starý lich, kostitřas jeden nechutný!"
+"Ano, obávala jsem se, že dojdete k tomuto závěru. Ve skutečnosti se stalo "
+"to, že mě zajal jeden starý vykostěný lich."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:215
@@ -5646,34 +5644,26 @@ msgstr "Myslíš Malifora?"
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:220
-#, fuzzy
-#| msgid ""
-#| "None other. I was his prisoner for many years until these brave people "
-#| "rescued me. It being far too dangerous to travel back to the elvish "
-#| "forests by myself with all these orcs about, and in consideration of the "
-#| "debt I owe to them, I have been with them ever since."
 msgid ""
 "None other. I was his prisoner for many years until these brave people "
 "rescued me. With all these orcs about it was far too dangerous to travel "
 "back to the elvish forests by myself. And in consideration of the debt I owe "
 "to these brave people, I have been with them ever since."
 msgstr ""
-"Přesně tak. Dlouhé roky jsem byla jeho vězněm, dokud mne tito stateční lidé "
-"neosvobodili. Protože se nedá bezpečně dostat zpět do lesů, když tu kolem "
-"řádí skřetí hordy, a protože jim za záchranu něco dlužím, cestuji od té doby "
-"s nimi."
+"Právě toho. Dlouhé roky jsem byla jeho vězněm, dokud mne tito stateční lidé "
+"neosvobodili. Se všemi těmi skřety kolem bylo příliš nebezpečné cestovat "
+"sama zpátky do našich lesů. A vzhledem k tomu, co jim za záchranu dlužím, "
+"jsem od té doby s nimi."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:225
 msgid "Really, and who are these people?"
-msgstr "A kdo to tedy je?"
+msgstr "Opravdu, a kdo jsou tito lidé?"
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:230
-#, fuzzy
-#| msgid "Here we have our leader and hero, Tallin."
 msgid "Here we have our leader and hero, Lord Tallin."
-msgstr "Tohle je Tallin, náš velitel a hrdina."
+msgstr "Zde je náš vůdce a hrdina, lord Tallin."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:240
@@ -5700,19 +5690,14 @@ msgstr ""
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:255
-#, fuzzy
-#| msgid ""
-#| "Then Tallin and his ragtag band hunted down Malifor and reduced him to "
-#| "dust. Now Tallin is building an alliance of humans, dwarves, dead mages "
-#| "and whatever critters he can find to crush the orcs."
 msgid ""
 "Then Tallin and his band hunted down Malifor and destroyed him. Now Lord "
 "Tallin is building an alliance of humans, dwarves, dead mages and whatever "
 "critters he can find to crush the orcs."
 msgstr ""
-"Potom Tallin se svým rádobyvojskem prohnal Malifora a nakonec ho také "
-"zahubil. Teď sestavuje alianci lidí, trpaslíků, nemrtvých mágů a kdovíkoho "
-"ještě, aby mohl zlikvidovat skřety."
+"Potom Tallin se svými lidmi Malifora dostihl a zničil. Nyní lord Tallin "
+"buduje spojenectví lidí, trpaslíků, nemrtvých mágů a kdovíkoho ještě, aby "
+"zlikvidoval skřety."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:260
@@ -5725,8 +5710,8 @@ msgid ""
 "Not at all, Your Highness. I am no more than a humble peasant trying to free "
 "my people from enslavement."
 msgstr ""
-"Ani ne, princezno. Nejsem víc než pouhý sedlák snažící se osvobodit svůj lid "
-"z otroctví."
+"Vůbec ne, Vaše Výsosti. Nejsem víc než pouhý sedlák snažící se osvobodit "
+"svůj lid z otroctví."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:270
