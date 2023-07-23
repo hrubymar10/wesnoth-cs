@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-22 12:00+0200\n"
+"PO-Revision-Date: 2023-07-23 11:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5756,13 +5756,6 @@ msgstr ""
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:300
-#, fuzzy
-#| msgid ""
-#| "That could hardly count as repayment of our debt to you, Tallin. This "
-#| "Rakshas fellow is an enemy to every Northern Elf as well. Why, it can’t "
-#| "have been more than a few months ago that the orcs attacked our forests "
-#| "and took me prisoner. Helping you defeat them would be serving our own "
-#| "interests as much as yours."
 msgid ""
 "That could hardly count as repayment of our debt to you, Tallin. This "
 "Rakshas is an enemy to every Northern Elf as well. Why, it can’t have been "
@@ -5777,12 +5770,6 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:305
-#, fuzzy
-#| msgid ""
-#| "My lady, we are not seeking to do business here: <i>“I do this for you "
-#| "and you do this for me.”</i> No, we seek to build everlasting friendships "
-#| "which will forever ensure the peace and prosperity of these Northlands. "
-#| "Therefore, let there be no talk of debts and repayments between us."
 msgid ""
 "My lady, we are not seeking to do business here: <i>“I do this for you, and "
 "you do this for me.”</i> No, we seek to build everlasting friendships which "
@@ -5790,26 +5777,20 @@ msgid ""
 "let there be no talk of debts and repayments between us."
 msgstr ""
 "Má paní, nehodláme tu přece obchodovat stylem <i>něco za něco</i>. Ne, "
-"chceme přátelství, které bude trvat a které zajistí mír a prosperitu v "
-"Severních zemích. Nemluvme tedy spolu o dluzích a splátkách."
+"chceme přátelství, které bude trvat a které zajistí mír a prosperitu "
+"v Severních zemích. Nemluvme tedy spolu o dluzích a splátkách."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:310
-#, fuzzy
-#| msgid ""
-#| "Well and nobly spoken, Tallin. Very well, I shall join you in your quest "
-#| "to crush this orcish menace. Let gryphons immediately be sent to our "
-#| "people; I shall use all the influence I have, or can induce our father to "
-#| "use, to raise elvish troops for the battles ahead."
 msgid ""
 "Well and nobly spoken, Tallin. Very well, I shall join you in your quest to "
 "crush this orcish menace. Let gryphons immediately be sent to our people; I "
 "shall use all the influence I have, to raise elvish troops for the battles "
 "ahead."
 msgstr ""
-"Šlechetná slova, Talline. Dobrá, přidáme se k vašemu tažení proti skřetům a "
-"rozdrtíme tuto hrozbu. Vyšlete ihned gryfy k elfům; využiji všechen svůj "
-"vliv a pokusím se také přemluvit otce, aby začaly přípravy armády k boji."
+"Šlechetná slova, Talline. Dobrá, přidáme se k vašemu tažení proti skřetům "
+"a rozdrtíme tuto hrozbu. Vyšlete ihned gryfy k elfům. Využiji všechen svůj "
+"vliv, abych shromáždila elfí vojsko pro nadcházející boje."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:316
@@ -5998,16 +5979,12 @@ msgstr "Hej! Podívej, to je troll!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:478
-#, fuzzy
-#| msgid ""
-#| "A troll? What in the world are trolls doing this close to Knalga? "
-#| "Something is up, men, let’s hurry up and get back."
 msgid ""
 "A troll? What in the world are trolls doing this close to Knalga? "
 "Something’s wrong, let’s hurry back."
 msgstr ""
-"Troll? Kde se berou tady, tak blízko u Knalgy, trollové? Něco se děje, "
-"rychle!"
+"Troll? Kde se jen berou tady, tak blízko u Knalgy, trollové? Něco se děje, "
+"pospěšme zpátky!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:497
@@ -6030,29 +6007,18 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:35
-#, fuzzy
-#| msgid ""
-#| "Upon arriving there something seemed to be wrong. Instead of being hailed "
-#| "boisterously by the dwarves as they usually were, they were met by silent "
-#| "guards with downcast eyes."
 msgid ""
 "Upon arriving there something seemed to be wrong. Instead of being "
 "boisterously hailed by the dwarves as before, they were met by silent guards "
 "with downcast eyes."
 msgstr ""
-"Když dorazili, jako by nebylo něco v pořádku. Namísto obvyklých bouřlivých "
-"pozdravů se od trpasličích hlídek dočkali sklopených očí a ticha."
+"Když dorazili, jako by něco nebylo v pořádku. Namísto dřívějších bouřlivých "
+"pozdravů se od trpasličích hlídek dočkali sklopených očí a ticha."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:38
-#, fuzzy
-#| msgid ""
-#| "Fearing the worst, Tallin rushed to find Hamel who also couldn’t bear to "
-#| "meet his eyes."
 msgid "Fearing the worst, Tallin rushed to find Hamel."
-msgstr ""
-"S neblahým tušením se Tallin vrhl za Hamelem, který se mu také neopovažoval "
-"pohlédnout do očí."
+msgstr "Obávaje se nejhoršího, spěchal Tallin najít Hamela."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:41
@@ -6075,10 +6041,8 @@ msgstr "Co tím myslíš?"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:47
-#, fuzzy
-#| msgid "Yer gold, Tallin, we ha’ failed to protect it."
 msgid "Yer gold, Tallin, we failed to protect it."
-msgstr "Tvé zlato, Talline... nepodařilo se nám ho ubránit."
+msgstr "Tvé zlato, Talline... nedokázali jsme ho ochránit."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:49
@@ -6093,33 +6057,24 @@ msgstr "Hned jak jsi odešel, skřeti znova zaútočili."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:53
-#, fuzzy
-#| msgid ""
-#| "Such a massive and fierce assault it was that we had to call upon all our "
-#| "reserves. When that proved insufficient, we had nae other choice then to "
-#| "call some men off the other defenses."
 msgid ""
 "Such a massive and fierce assault it was that we had to call upon all our "
 "reserves. When that proved insufficient, we had nae other choice then to "
 "call some dwarves off the other defenses."
 msgstr ""
-"Museli jsme povolat všechny zálohy. Když ani to nestačilo, převelel jsem "
-"další síly z jiných obranných postavení."
+"Byl to tak silný a zuřivý útok, že jsme museli povolat všechny zálohy. Když "
+"ani to nestačilo, neměli jsme jinou možnost než převelet některé trpaslíky "
+"z jiných obranných postavení."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:55
-#, fuzzy
-#| msgid ""
-#| "It was a ploy. Nae sooner than we ha’ thinned the ranks of the northern "
-#| "defenders, a small, hardened group of trolls smashed through the defenses "
-#| "and made their way straight for your gold."
 msgid ""
 "It was a ploy. Nae sooner than we ha’ thinned the ranks of the northern "
 "defenders, a small force of trolls smashed through the defenses and made "
 "their way straight for your gold."
 msgstr ""
-"Byla to lest. Sotva jsme stáhli obránce na severu, vrhla se skrz banda "
-"trollích veteránů a probila se přímo do tvé pokladnice."
+"Byla to lest. Sotva jsme oslabili řady obránců na severu, probila se přes ně "
+"malá skupina trollů a zamířila přímo k vašemu zlatu."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:57
@@ -6246,18 +6201,14 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:111
-#, fuzzy
-#| msgid ""
-#| "Och, we tried, Tallin, but with the orcs still pressing our southern "
-#| "defenses and other groups of trolls trying to break through everywhere, "
-#| "we simply ha’ not the manpower."
 msgid ""
 "Och, we tried, Tallin, but with the orcs still pressing our southern "
 "defenses and trolls trying to break through everywhere, we simply ha’ not "
 "the power."
 msgstr ""
-"Ech, snažili jsme se, ale když na jižní straně pokračovalo to skřetí peklo a "
-"jinde se pokoušeli o průnik další trollové, nedalo se to všechno pokrýt."
+"Ech, snažili jsme se, Talline, ale když na jižní straně pokračovalo to "
+"skřetí peklo a jinde se pokoušeli o průnik další trollové, nedalo se to "
+"všechno pokrýt."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:113
@@ -6271,17 +6222,12 @@ msgstr "Nemůže to být déle než den."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:117
-#, fuzzy
-#| msgid ""
-#| "Then we shall pursue them. Even if we don’t catch them then we might be "
-#| "able to hit Rakshas before he has had a chance to put all that gold to "
-#| "good use."
 msgid ""
 "Then we shall pursue them. Even if we don’t catch them then we might be able "
 "to hit Rakshas before he has had a chance to put that gold to good use."
 msgstr ""
-"Vydáme se za nimi. I kdybychom je nedostihli, můžeme se střetnout s Rakšasem "
-"dříve, než se mu povede to zlato doopravdy využít."
+"Takže je budeme pronásledovat. I kdybychom je nedostihli, můžeme se "
+"střetnout s Rakšasem dříve, než se mu povede to zlato doopravdy využít."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:119
@@ -6471,15 +6417,11 @@ msgstr "Hej! Kam letí?"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:527
-#, fuzzy
-#| msgid "Krash man, you are gonna miss all the fun!"
 msgid "Krash man, you’re gonna miss all the fun!"
-msgstr "Kraši, přijdeš o všechnu srandu!"
+msgstr "Kraši, chlape, přijdeš o všechnu srandu!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:532
-#, fuzzy
-#| msgid "I think he has decided that it is time for him to part ways with us."
 msgid "I think he has decided that it is time to part ways with us."
 msgstr "Asi se rozhodl, že je čas se s námi rozloučit."
 
@@ -6606,29 +6548,19 @@ msgstr ""
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:806
-#, fuzzy
-#| msgid ""
-#| "Very good. Our first task is to give brave Tallin here full support in "
-#| "defeating these trolls."
 msgid "Very good. Our first task is to give brave Tallin here full support."
 msgstr ""
-"Výtečně. Naším prvním úkolem je pomoct tady statečnému Tallinovi v porážce "
-"těch trollů."
+"Výtečně. Naším prvním úkolem je poskytnout tady statečnému Tallinovi plnou "
+"podporu."
 
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:811
-#, fuzzy
-#| msgid "With pleasure! Quickly men, set up a base!"
 msgid "With pleasure! Quickly, set up a base!"
 msgstr "S radostí! Rychle, připravte ležení!"
 
 # Troll
 #. [message]: id=Oof,Glu,Tor
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:827
-#, fuzzy
-#| msgid ""
-#| "Oh no! Those blasted elves have just joined forces with the humans! This "
-#| "is hopeless! Flee! Flee!"
 msgid ""
 "Oh no! Those blasted elves have joined forces with the humans! This is "
 "hopeless! Flee! Flee!"
@@ -6662,21 +6594,15 @@ msgstr "Haha! Koukejte, jak utíkají!"
 # Troll
 #. [message]: id=Oof,Glu,Tor
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:874
-#, fuzzy
-#| msgid ""
-#| "Oh no! The elves have just given the humans a hoard of gold! This is "
-#| "hopeless! Flee! Flee!"
 msgid ""
 "Oh no! The elves have given the humans a hoard of gold! This is hopeless! "
 "Flee! Flee!"
 msgstr ""
-"Ne! Ti elfové dali teď člověkům hromadu zlata! Beznadějné! Utíkat! Utikejte!"
+"Ne! Ti elfové dali člověkům hromadu zlata! Beznadějné! Utíkat! Utikejte!"
 
 # Troll
 #. [message]: speaker=Bor
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:885
-#, fuzzy
-#| msgid "You are a fool, human! We shall crush and destroy you!"
 msgid "You are a fool, human! We will crush and destroy you!"
 msgstr "Jsi blázen, člověku! Rozdrtíme tě a zničíme!"
 
@@ -6818,10 +6744,8 @@ msgstr ""
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1072
-#, fuzzy
-#| msgid "Let’s get to it, then."
 msgid "Yeah, let’s get on with it!"
-msgstr "Tak do toho."
+msgstr "Jo, pojďme na to!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1077
