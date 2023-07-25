@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-23 11:07+0200\n"
+"PO-Revision-Date: 2023-07-24 21:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6894,25 +6894,15 @@ msgstr "Ha Tang"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:272
-#, fuzzy
-#| msgid ""
-#| "Gods of Light! Look at that fortress. The castle Angthurim is even "
-#| "grimmer than its reputation."
 msgid ""
 "Gods of Light, look at that fortress! The castle Angthurim is even grimmer "
 "than its reputation!"
 msgstr ""
-"Bohové světla! Pohleďte na tu pevnost. Hrad Angthurim je ještě ponuřejší než "
+"Bohové světla, pohleďte na tu pevnost! Hrad Angthurim je ještě ponuřejší než "
 "jeho pověst."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:283
-#, fuzzy
-#| msgid ""
-#| "I was not idle in my captivity; I watched, and listened, and learned. The "
-#| "hints I got from my guards’ boastings and foul jests have been confirmed "
-#| "by our scouts; Angthurim is the linchpin of their entire eastern flank. "
-#| "If we could reduce it, their defense would be near to collapse."
 msgid ""
 "I was not idle in my captivity; I watched, and listened, and learned. The "
 "hints I got from my guards’ boastings and foul jests have been confirmed by "
@@ -6922,21 +6912,17 @@ msgstr ""
 "Během svého zajetí jsem se neoddávala nečinnosti; naslouchala jsem, "
 "pozorovala a zkoumala. Drobnosti, které jsem vytušila z chvástání mých "
 "stráží a jejich planých řečí, naši průzkumníci potvrdili. Angthurim je "
-"klíčový pro celé jejich východní křídlo. Pokud jej zničíme, jejich obrana "
-"nebude daleko kolapsu."
+"klíčový pro celé jejich východní křídlo. Kdybychom ho dokázali dobýt, jejich "
+"obrana by byla na pokraji zhroucení."
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:298
-#, fuzzy
-#| msgid ""
-#| "Fitting. My gryphons tell me Angthurim is the keystone of their entire "
-#| "eastern flank. If we can reduce it their defense will be near to collapse."
 msgid ""
 "Fitting. My gryphons tell me Angthurim is the keystone of their entire "
 "eastern flank. If we can destroy it their defense will be near to collapse."
 msgstr ""
 "Přesně. Mí gryfové mi tvrdí, že Angthurim představuje základní kámen jejich "
-"celého východního křídla. Pokud jej zlikvidujeme, jejich obrana nebude "
+"celého východního křídla. Pokud jej dokážeme zničit, jejich obrana nebude "
 "daleko od zhroucení."
 
 #. [message]: role=Supporter
@@ -6999,44 +6985,28 @@ msgstr ""
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:351
-#, fuzzy
-#| msgid ""
-#| "Foul one, the only one who will be dying here is you and anyone who comes "
-#| "between us. Stand and fight!"
 msgid "Foul one, the only one who will be dying here is you. Stand and fight!"
-msgstr ""
-"Ty špíno, jediný, kdo tu zemře, budeš ty a každý, kdo se postaví mezi mne "
-"a tebe. Stůj a bojuj!"
+msgstr "Ty špíno, jediný, kdo tu zemře, budeš ty. Stůj a bojuj!"
 
 # ...na stříbrném podnose
 #. [message]: speaker=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:356
-#, fuzzy
-#| msgid ""
-#| "Bah! I have better things to do than stamp out your insignificant life. "
-#| "Generals, kill him and bring me his head!"
 msgid ""
 "Bah! I have better things to do than stamp out your insignificant life. "
 "Generals, bring me his head!"
 msgstr ""
-"Pche! Já mám na práci lepší věci, než se zabývat tvým bezvýznamným životem. "
+"Pche! Já mám na práci lepší věci, než skoncovat s tvým bezvýznamným životem. "
 "Generálové, přineste mi jeho hlavu!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:393
-#, fuzzy
-#| msgid ""
-#| "Blast it! The coward has fled. Eryssa, your elves are good at moving "
-#| "quickly through the forests. Do you think they can overtake and pin him "
-#| "down while we deal with this fortress?"
 msgid ""
 "Blast it! The coward has fled. Eryssa, your elves are good at moving quickly "
 "through the forests. Do you think they can overtake him while we deal with "
 "this fortress?"
 msgstr ""
-"Zatraceně, ten zbabělec utekl! Erysso, tví elfové se pohybují lesem rychleji "
-"než my. Myslíš, že ho mohou dohonit a zastavit, zatímco se budeme zabývat "
-"pevností?"
+"Zatraceně! Ten zbabělec utekl. Erysso, tví elfové se pohybují lesem rychleji "
+"než my. Myslíš, že ho mohou dohonit, zatímco se budeme zabývat pevností?"
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:398
