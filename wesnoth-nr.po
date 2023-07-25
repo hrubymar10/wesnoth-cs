@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-24 21:56+0200\n"
+"PO-Revision-Date: 2023-07-25 18:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7127,16 +7127,12 @@ msgstr "Zachraň zlato"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:26
-#, fuzzy
-#| msgid ""
-#| "After reducing Castle Angthurim, the party set off after Rakshas, hoping "
-#| "that Hidel’s elves had been able to hold him."
 msgid ""
 "After conquering Castle Angthurim, the party set off after Rakshas, hoping "
 "that Hidel’s elves had been able to hold him."
 msgstr ""
-"Po zničení hradu Angthurimu se Tallinovo vojsko opět vydalo za Rakšasem v "
-"naději, že jej Hidelovi elfové dokázali zadržet."
+"Po dobytí hradu Angthurimu se Tallinovo vojsko vydalo za Rakšasem v naději, "
+"že jej Hidelovi elfové dokázali zadržet."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:30
@@ -7151,22 +7147,15 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:33
-#, fuzzy
-#| msgid ""
-#| "Soon they encountered the wrack of a great battle. Bodies of elves and "
-#| "orcs lay everywhere. Broken weapons and smashed armor were strewn about "
-#| "in profusion. Elvish arrows and orcish crossbow bolts bristled from the "
-#| "nearby trees. The ground was splotched red with blood."
 msgid ""
 "Soon they encountered the wrack of a great battle. Bodies of elves and orcs "
 "lay everywhere. Broken weapons and smashed armor were strewn about and "
 "elvish arrows and orcish bolts bristled from the nearby trees. The ground "
 "was red with blood."
 msgstr ""
-"Zanedlouho narazili na místo, kde se evidentně odehrála strašlivá bitva. "
-"Kolem se válela těla skřetů a elfů promíšená s rozbitými zbraněmi a dalším "
-"vybavením. Z těl, země i okolních kmenů hojně trčely elfské šípy a skřetí "
-"šipky; zemi zbarvila krev do ruda."
+"Zanedlouho narazili na pozůstatky strašlivé bitvy. Všude ležela těla elfů "
+"a skřetů. Kolem byly rozházeny rozbité zbraně a rozmlácená zbroj "
+"a z nedalekých stromů trčely elfí šípy a skřetí šipky. Zem zrudla krví."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:36
@@ -7182,13 +7171,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:42
-#, fuzzy
-#| msgid ""
-#| "Scattered around Hidel were the bodies of at least three orcish warlords, "
-#| "and nearly a score of grunts, warriors and crossbowmen. His weapons were "
-#| "notched and broken; his armor dented and smashed. It was clear to all "
-#| "that his fall had been an epic of valor and glory, worthy to be "
-#| "remembered in the songs of all the kindred races until the end of days."
 msgid ""
 "Scattered around him were the bodies of at least three orcish warlords, and "
 "nearly a score of grunts, warriors and crossbowmen. His weapons were notched "
@@ -7196,25 +7178,21 @@ msgid ""
 "been a battle of valor and glory, worthy to be remembered in the songs of "
 "all the kindred races until the end of days."
 msgstr ""
-"Kolem něj byla padlá těla nejméně tří skřetích vojevůdců a téměř dvaceti "
+"Kolem něj byla rozeseta těla nejméně tří skřetích vojevůdců a téměř dvaceti "
 "pěšáků, válečníků a střelců z kuše. Jeho zbraně byly posekané a polámané, "
-"zbroj promáčknutá a rozbitá. Všem bylo zřejmé, že jeho skon byl chrabrým "
-"a slavným činem, hodným toho, aby se na něj vzpomínalo v písních všech "
+"zbroj promáčknutá a rozbitá. Bylo zřejmé, že jeho skon byl chrabrým "
+"a slavným bojem, hodným toho, aby se na něj vzpomínalo v písních všech "
 "spřízněných ras až do posledních dnů."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:46
-#, fuzzy
-#| msgid ""
-#| "With tears streaming down her face, Eryssa approached the fallen hero and "
-#| "cradled his head in her lap. As she stroked his face, his eyes fluttered "
-#| "open."
 msgid ""
 "With tears streaming down her face, Eryssa knelt and cradled his head in her "
 "lap. As she stroked his face, his eyes fluttered open."
 msgstr ""
-"Eryssa se se slzami v očích vrhla k padlému hrdinovi a objala jej. Když "
-"pohladila jeho tvář, otevřel oči."
+"Eryssa se slzami stékajícími po lících poklekla k padlému hrdinovi "
+"a položila si jeho hlavu do klína. Když ho pohladila po tváři, jeho víčka se "
+"zachvěla a on otevřel oči."
 
 # Hidel
 #. [story]
@@ -7229,24 +7207,16 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:52
-#, fuzzy
-#| msgid ""
-#| "Her face streaked with tears, Eryssa gazed imploringly at Father Morvin "
-#| "and Sister Thera. They simply sighed and shook their heads. It was too "
-#| "late to save Hidel. In a broken voice Eryssa addressed him:"
 msgid ""
 "Her face streaked with tears, Eryssa gazed imploringly at Father Morvin and "
 "Sister Thera. They sighed and shook their heads. In a broken voice Eryssa "
 "addressed him:"
 msgstr ""
-"Eryssa skrz slzy prosebně pohlédla na otce Morvina a sestru Theru, ti ale "
-"jen s povzdechem svěsili hlavy. Pro Hidela již bylo pozdě na cokoliv. Eryssa "
-"mu řekla roztřeseným hlasem:"
+"Eryssa skrz slzy prosebně pohlédla na otce Morvina a sestru Theru. Ti "
+"s povzdechem zavrtěli hlavou. Zlomeným hlasem ho Eryssa oslovila:"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:55
-#, fuzzy
-#| msgid "Hidel, I am sorry. I have sent you to your death, and I grieve."
 msgid "Hidel, I am sorry. I have sent you to your death."
 msgstr "Hideli, je mi to líto. Poslala jsem tě na smrt."
 
@@ -7279,30 +7249,22 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:63
-#, fuzzy
-#| msgid ""
-#| "Now... uphold the honor... of the Northern... Elves... Recover... the "
-#| "gold... slay this monster... and bring peace and... prosperity... back to "
-#| "the... Northlands... Tallin?"
 msgid ""
 "Now... uphold the honor... of the Northern... Elves... Recover... the "
 "gold... slay this monster... and bring peace... to the... Northlands... "
 "Tallin?"
 msgstr ""
-"Talline... udrž čest... Severních elfů... získej zlato... zab to monstrum... "
-"a přines... Severu zpět mír... a prosperitu... ano?"
+"A teď... zachovej čest... Severních... elfů... Získej zpět... zlato... zab "
+"to monstrum... a přines... Severu... mír... Talline?"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:66
-#, fuzzy
-#| msgid ""
-#| "At Hidel’s call Tallin approached and knelt beside Hidel, bowing his head "
-#| "in respect."
 msgid ""
 "At Hidel’s call Tallin approached. He knelt beside, bowing his head in "
 "respect."
 msgstr ""
-"Na Hidelův pokyn se Tallin přiblížil a poklekl vedle něj se skloněnou hlavou."
+"Na Hidelovu výzvu se Tallin přiblížil. Poklekl vedle něj a uctivě sklonil "
+"hlavu."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:69
