@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-26 21:01+0200\n"
+"PO-Revision-Date: 2023-07-26 22:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7308,38 +7308,26 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:86
-#, fuzzy
-#| msgid ""
-#| "Sobbing against Tallin’s chest, Eryssa told him of the many ways Hidel "
-#| "had cherished and warded her since the hour of her birth. How he had "
-#| "comforted her childhood hurts; how in later years, he had guided her in "
-#| "the green paths of the forest, and taught her the deep mysteries of elven-"
-#| "kind."
 msgid ""
 "Sobbing against Tallin’s chest, Eryssa told him of the many ways Hidel had "
 "cherished and warded her and her sister. How he had comforted their "
 "childhood hurts; how in later years, he had guided them in the green paths "
 "of the forest, and taught them the deep mysteries of elven-kind."
 msgstr ""
-"Eryssa se v pláči opřela o Tallina a vyprávěla mu, jak se o ni Hidel od "
-"narození staral a opatroval ji. Jak tišil její dětské bolesti a jak ji v "
-"dalších letech provázel po zelených lesních stezkách a zasvěcoval do tajů "
-"elfího národa."
+"Eryssa vzlykala na Tallinově hrudi a vyprávěla mu o tom, jak ji a její "
+"sestru Hidel opatroval a chránil. Jak tišil jejich dětské bolesti a jak je "
+"v pozdějších letech provázel po zelených lesních stezkách a zasvěcoval je do "
+"tajů elfího národa."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:89
-#, fuzzy
-#| msgid ""
-#| "A torrent of childhood memories and the depth of her grief left her "
-#| "unable to speak. She and Tallin sat together silently holding each-other "
-#| "for some time."
 msgid ""
 "The torrent of childhood memories and the depth of her grief left her unable "
 "to speak. She and Tallin sat together silently holding each-other for some "
 "time."
 msgstr ""
-"Příval vzpomínek z dětství a hloubka jejího žalu ji nakonec připravily o "
-"řeč. Seděla s Tallinem dlouho v úplném tichu a drželi se navzájem."
+"Příval vzpomínek z dětství a hloubka jejího žalu ji nakonec připravily "
+"o řeč. Seděla s Tallinem dlouho v úplném tichu a drželi se navzájem."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:92
@@ -7374,13 +7362,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:100
-#, fuzzy
-#| msgid ""
-#| "At these words, Eryssa arose and wiped away her tears. She took command "
-#| "of the surviving elvish forces, for all knew she was a princess of high "
-#| "rank and looked to Hidel’s ward as their leader by right. Scarcely a face "
-#| "among them was less grim than her own as they took arms and started down "
-#| "Rakshas’s back-trail."
 msgid ""
 "At these words, Eryssa arose and wiped away her tears. She took command of "
 "the surviving elvish forces, for all knew she was a princess of high rank "
@@ -7388,10 +7369,10 @@ msgid ""
 "less grim than her own as they took arms and started down Rakshas’s trail."
 msgstr ""
 "Po těchto slovech Eryssa vstala a otřela si slzy. Převzala velení nad "
-"přeživšími elfy, kteří ji dobře znali a s radostí se podvolili princezně, "
-"která byla tak dlouho Hidelovou chráněnkyní. Sotva se mezi nimi našla tvář "
-"méně zachmuřená než ta její, když se chopili zbraní a vydali po Rakšasově "
-"stopě."
+"přeživšími elfy, protože všichni věděli, že je vysoce postavenou princeznou, "
+"a vzhlíželi k Hidelově chráněnkyni jako ke své vůdkyni. Sotva se mezi nimi "
+"našla tvář méně zachmuřená než ta její, když se chopili zbraní a vydali po "
+"Rakšasově stopě."
 
 #. [part]
 #. "espied" is correct here, it's a deliberate archaism
@@ -7432,14 +7413,9 @@ msgstr "Pokud Sisal zemře, nezískáš zlato."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:459
-#, fuzzy
-#| msgid ""
-#| "After making haste through the forest for most of a watch, the party "
-#| "arrived at the battle scene."
 msgid ""
 "After several hours of hard travel the party arrived at the battle scene."
-msgstr ""
-"Po zdlouhavém průchodu lesním porostem se konečně dostali na místo bitvy."
+msgstr "Po několika hodinách náročné cesty dorazila skupina na místo bitvy."
 
 #. [message]: id=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:464
@@ -7464,16 +7440,12 @@ msgstr "Hidel... zemřel jako hrdina. Jeho poslední boj je hoden písní."
 # Sisal
 #. [message]: id=Sisal
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:484
-#, fuzzy
-#| msgid ""
-#| "The dung-spawned bastards! Verily, Tallin, had it not been for Hidel we "
-#| "would all be dead and Rakshas would be gleefully counting his gold."
 msgid ""
 "The dung-spawned bastards! Verily, had it not been for Hidel we would all be "
 "dead and Rakshas would be gleefully counting his gold."
 msgstr ""
-"Zahnojení bastardi! Věru, Talline, nebýt Hidela, byli bychom všichni mrtví "
-"a Rakšas by s úšklebkem přepočítával penízky."
+"Zahnojení bastardi! Věru, nebýt Hidela, byli bychom všichni mrtví a Rakšas "
+"by s úšklebkem přepočítával penízky."
 
 #. [message]: id=Sisal
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:489
@@ -7551,18 +7523,13 @@ msgstr ""
 
 #. [message]: id=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:570
-#, fuzzy
-#| msgid ""
-#| "I don’t think so, you bastard orcs! That gold belongs to us. Besides, we "
-#| "now have a few scores to settle with you. Take them, troops — I want no "
-#| "orc left alive!"
 msgid ""
 "I don’t think so, you bastard orcs! That gold belongs to us. Besides, we now "
 "have a few scores to settle with you. Take them, troops! I want no orc left "
 "alive!"
 msgstr ""
-"Nemyslím! To zlato patří nám, skřetí zmetci. Kromě toho máme ještě nějaké "
-"nevyřízené účty. Na ně, muži – nenechte žádného naživu!"
+"Myslím, že ne, vy skřetí zmetci! To zlato patří nám. Kromě toho máme s vámi "
+"ještě nějaké nevyřízené účty. Na ně, muži! Nenechte žádného naživu!"
 
 # Tallin
 #. [message]: id=Tallin
