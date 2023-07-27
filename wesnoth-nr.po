@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-26 22:42+0200\n"
+"PO-Revision-Date: 2023-07-27 20:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7534,33 +7534,23 @@ msgstr ""
 # Tallin
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:584
-#, fuzzy
-#| msgid ""
-#| "Thanks to Hidel and the elves, we have recovered our gold. Now let’s run "
-#| "down Rakshas and settle up with him once and for all."
 msgid ""
 "Thanks to Hidel and the elves, we have recovered our gold. Now let’s run "
 "down Rakshas and end this once and for all."
 msgstr ""
-"Díky Hidelovi a elfům jsme získali zpět zlato. Teď se vydáme za Rakšasem a "
-"pro jednou si to s ním vyřídíme!"
+"Díky Hidelovi a elfům jsme získali zpět naše zlato. Teď najděme Rakšase "
+"a ukončeme to jednou provždy."
 
 # Tallin
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:590
-#, fuzzy
-#| msgid ""
-#| "Hidel’s death was a grievous loss; our thirst for vengeance must do what "
-#| "the stolen gold cannot. Now let’s run down Rakshas and settle up with him "
-#| "once and for all."
 msgid ""
 "Hidel’s death was a grievous loss; our thirst for vengeance must do what the "
 "stolen gold cannot. Now let’s run down Rakshas and settle this once and for "
 "all."
 msgstr ""
-"Hidelova smrt byla strašlivou ztrátou; ztracené zlato teď musí nahradit "
-"pouze hlad po pomstě. Vydáme se tedy za Rakšasem a pro jednou si to s ním "
-"vyřídíme!"
+"Hidelova smrt byla těžkou ztrátou. Naše touha po pomstě musí udělat to, co "
+"ukradené zlato nedokáže. Teď najděme Rakšase a vyřešme to jednou provždy."
 
 #. [scenario]: id=13a_Showdown
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:10
@@ -7590,32 +7580,23 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:34
-#, fuzzy
-#| msgid ""
-#| "Battle plans were quickly made; the party split into three groups. Two of "
-#| "the groups immediately set off northwest and southwest respectively while "
-#| "the third group rested for an hour and then set off directly west."
 msgid ""
 "Battle plans were quickly made; the party split into three groups. Two of "
 "the groups immediately set off northwest and southwest respectively while "
 "the third group rested for an hour and then set off west."
 msgstr ""
-"Po krátké válečné poradě se skupina rozdělila na tři. Dvě se ihned vydaly "
-"severozápadně a jihozápadně. Třetí skupina počkala hodinu a poté vyrazila "
-"přímo na západ."
+"Po krátké válečné poradě se družina rozdělila na tři skupiny. Dvě z nich se "
+"ihned vydaly severozápadně a jihozápadně. Třetí skupina hodinu odpočívala "
+"a poté vyrazila na západ."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:37
-#, fuzzy
-#| msgid ""
-#| "The idea was to completely surround Rakshas on all sides, cutting off any "
-#| "chance of escape or reinforcements."
 msgid ""
 "The idea was to completely surround Rakshas, cutting off any chance of "
 "escape or reinforcements."
 msgstr ""
-"Plánem bylo kompletně obklíčit Rakšase ze všech stran, aby nemohl uprchnout "
-"nebo dostat posily."
+"Cílem bylo úplně obklíčit Rakšase a zbavit ho tak jakékoli naděje na únik "
+"nebo získání posil."
 
 #. [side]: type=Lieutenant, id=Tallin
 #. [part]
@@ -7719,41 +7700,33 @@ msgstr ""
 
 #. [message]: id=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:847
-#, fuzzy
-#| msgid ""
-#| "Good luck, you monster. You are cut off and surrounded. We shall kill you "
-#| "and feed your carcass to the vultures and wild beasts."
 msgid ""
 "Good luck, you monster. You are cut off and surrounded. We shall kill you "
 "and feed your carcass to the vultures!"
 msgstr ""
-"Hodně štěstí, bestie. Odřízli jsme tě a obklíčili. Zabijeme tě a tvé zbytky "
-"předhodíme dravé zvěři."
+"Hodně štěstí, ty zrůdo. Odřízli jsme tě a obklíčili. Zabijeme tě a tvou "
+"mršinu předhodíme supům!"
 
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:851
-#, fuzzy
-#| msgid ""
-#| "Hahahahah! You fools, do you not see that you are right in the heart of "
-#| "orcish territory, surrounded yourselves! Why, at this very moment my "
-#| "entire western army is marching this way. They will soon be here and will "
-#| "scatter your forces like straw!"
 msgid ""
 "Hahahahah! You fools, do you not see that you are in the heart of orcish "
 "territory? You’ve surrounded yourselves! Why, at this very moment my entire "
 "western army is marching this way. They will soon be here and will scatter "
 "your forces like chaff!"
 msgstr ""
-"Hahaha, pitomci, copak nevidíte, že ste přímo uprostřed skřetí země? To vy "
+"Hahahaha! Vy pitomci, copak nevidíte, že ste uprostřed skřetí země? To vy "
 "ste se nechali obklíčit! Cha, zrovna teď sem mašíruje celá moje západní "
-"armáda. Za chvíli tu budou a rozmetají vás jako kopku sena!"
+"armáda. Za chvíli tu budou a rozpráší vaše vojáky jako plevy!"
 
 #. [message]: id=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:857
 msgid ""
 "We have crushed and scattered your entire eastern flank, buddy, and now it’s "
 "your turn!"
-msgstr "Rozprášili jsme tvoje východní křídlo, mizero, a teď je řada na tobě!"
+msgstr ""
+"My rozdrtili a rozprášili celé tvoje východní křídlo, kámo, a teď je řada na "
+"tobě!"
 
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:861
@@ -7769,19 +7742,14 @@ msgstr "Nemám oči, tupče!"
 
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:870
-#, fuzzy
-#| msgid ""
-#| "PAH! You fools, know that you shall soon be outnumbered and surrounded. "
-#| "At this very moment my entire western army is marching this way. They "
-#| "will soon be here and will scatter your puny forces like straw!"
 msgid ""
 "PAH! You fools, know that you shall soon be outnumbered and surrounded. At "
 "this very moment my entire western army is marching this way. They will soon "
 "be here and will scatter your puny forces!"
 msgstr ""
-"PCHE! Vy hlupáci, zanedlouho budete obklíčení proti přesile. Zrovna teďka "
-"sem mašíruje moje celá západní armáda. Brzo tu budou a rozmetají vaše směšné "
-"síly jako slámu!"
+"PCHE! Vy hlupáci, uvědomte si, že zanedlouho budete v obklíčení čelit "
+"přesile. Zrovna teďka sem mašíruje celá moje západní armáda. Brzo tu budou "
+"a rozpráší vaše vojáčky!"
 
 #. [message]: id=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:924
