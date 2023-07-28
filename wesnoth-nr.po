@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-27 20:32+0200\n"
+"PO-Revision-Date: 2023-07-28 23:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7817,10 +7817,8 @@ msgstr ""
 
 #. [message]: id=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:978
-#, fuzzy
-#| msgid "Aye, and not just any orcs either, those are all hardened veterans!"
 msgid "Aye, and not just grunts either, those are all hardened veterans!"
-msgstr "Jo, a nejenom skřeti – samí ostřílení veteráni k tomu!"
+msgstr "Jo, a ani to nejsou jen pěšáci, jsou to všechno ostřílení veteráni!"
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:982
@@ -7833,14 +7831,11 @@ msgstr ""
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:994
-#, fuzzy
-#| msgid ""
-#| "Die, you murderous beast! No longer shall you terrorize the people of the "
-#| "North."
 msgid ""
 "Die, you murderous beast! No longer shall you terrorize the people of the "
 "North!"
-msgstr "Zhyň, příšero! Konečně přestaneš terorizovat obyvatele Severu."
+msgstr ""
+"Zhyň, ty vrahounská příšero! Konečně přestaneš terorizovat obyvatele Severu!"
 
 #. [message]: id=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:998
@@ -7878,21 +7873,15 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1032
-#, fuzzy
-#| msgid ""
-#| "At these words all the allied forces gave out a combined and thunderous "
-#| "cheer. Their long ordeal was finally over."
 msgid ""
 "At these words all the allied forces gave out a combined and thunderous "
 "cheer. The war was finally over."
 msgstr ""
-"Po těchto slovech vydala shromážděná spojenecká vojska radostný řev. Jejich "
-"dlouhé strádání bylo u konce."
+"Při těchto slovech vydala shromážděná spojenecká vojska bouřlivý jásot. "
+"Konečně bylo po válce."
 
 #. [message]: id=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1037
-#, fuzzy
-#| msgid "(<i>Small voice lost in the uproar</i>) Awww, is it over already?"
 msgid "(<i>Small voice lost in the uproar</i>) Awww, is it done already?"
 msgstr "(<i>Slabý hlas ztracený v řevu</i>) Cože, to už je všechno?"
 
