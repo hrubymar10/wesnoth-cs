@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-28 23:49+0200\n"
+"PO-Revision-Date: 2023-07-29 10:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7920,17 +7920,12 @@ msgstr "Doslov"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:16
-#, fuzzy
-#| msgid ""
-#| "The dead and wounded having been cared for, and after the party had wound "
-#| "down, everyone gathered in the conquered castle to decide on their course "
-#| "of action."
 msgid ""
 "After the feast had wound down, everyone gathered in the conquered castle to "
 "decide on their course of action."
 msgstr ""
-"Poté, co bylo postaráno o raněné a mrtvé, se všichni shromáždili v dobytém "
-"hradě k rozhodnutí o dalších krocích."
+"Poté, co oslava skončila, se všichni shromáždili v dobytém hradě, aby "
+"rozhodli o dalších krocích."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:77
@@ -7956,12 +7951,6 @@ msgstr "Rakšas nebyl nic než symptom. Hlavní je špatná nátura skřetů."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:89
-#, fuzzy
-#| msgid ""
-#| "The orcs are exceedingly numerous and warlike. While they squabble among "
-#| "themselves, their warlike nature turns upon itself and they are no "
-#| "threat; but when a strong warlord like Rakshas arises among them, their "
-#| "battle-lust becomes a plague upon their neighbors."
 msgid ""
 "The orcs are exceedingly numerous and warlike. While they squabble among "
 "themselves, their warlike nature turns upon itself, and they are no threat; "
@@ -8060,21 +8049,15 @@ msgstr ""
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:142
-#, fuzzy
-#| msgid ""
-#| "The orcs have just experienced a crushing defeat; it shouldn’t be too "
-#| "hard to get them to agree. In the future, if they should renege on their "
-#| "treaties, and threaten the peace and prosperity of the North, then the "
-#| "army maintained by the warders would crush them."
 msgid ""
 "The orcs have just experienced a crushing defeat; it shouldn’t be too hard "
 "to get them to agree. In the future, if they should renege on their "
 "treaties, and threaten the peace of the North, then the army maintained by "
 "the warders would crush them."
 msgstr ""
-"Skřeti právě zakusili hroznou porážku. Nemělo by být těžké získat jejich "
-"souhlas. Pokud se v budoucnosti rozhodnou porušit smlouvy a opět ohrozit mír "
-"a blaho Severu, spojené armády členů rady by je měly snadno porazit."
+"Skřeti právě zakusili drtivou porážku. Nemělo by být příliš těžké získat "
+"jejich souhlas. Pokud se v budoucnosti rozhodnou porušit smlouvy a opět "
+"ohrozit mír Severu, spojené armády členů rady by je měly snadno porazit."
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:146
@@ -8467,21 +8450,15 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:411
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:432
-#, fuzzy
-#| msgid ""
-#| "On Father Morvin’s advice, the Council approached all the different "
-#| "orcish tribes and made treaties with them. If a chieftain refused to "
-#| "cooperate with the Alliance, he was forcibly removed from his post and a "
-#| "more favorably-disposed leader put in his place."
 msgid ""
 "On Father Morvin’s advice, the Council approached all the different orcish "
 "tribes and made treaties with them. If a chieftain refused to cooperate with "
 "the Alliance, he was forcibly removed and a more favorably-disposed leader "
 "put in his place."
 msgstr ""
-"Na radu otce Morvina Rada obešla všechny okolní skřetí kmeny a ustanovila s "
-"nimi smlouvy. Vzpurní náčelníci nepodporující myšlenku Aliance byli "
-"odstraněni a na jejich místo dosazeni povolnější."
+"Na radu otce Morvina Rada obešla všechny okolní skřetí kmeny a ustanovila "
+"s nimi smlouvy. Vzpurní náčelníci nepodporující myšlenku Aliance byli "
+"odstraněni a na jejich místo dosazeni povolnější."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:416
@@ -8521,23 +8498,16 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:439
-#, fuzzy
-#| msgid ""
-#| "In time, Knalga’s caverns were refurbished, becoming a busy and "
-#| "prosperous home to many dwarves. Under the protection of the Northern "
-#| "Alliance, people of all races began coming, as they did before, from all "
-#| "corners of the known — and unknown — world to trade with the Dwarves of "
-#| "Knalga."
 msgid ""
 "In time, Knalga’s caverns were restored and became a busy and prosperous "
 "home to many dwarves. Under the protection of the Northern Alliance, people "
 "of all races began coming, as they did before, from all corners of the known "
 "— and unknown — world to trade with the Dwarves of Knalga."
 msgstr ""
-"Časem doznaly jeskyně Knalgy obnovy a staly se rušným a vzkvétajícím domovem "
+"Časem doznaly jeskyně Knalgy obnovy a staly se rušným a vzkvétajícím domovem "
 "velkého množství trpaslíků. Pod ochranou Severní aliance opět přicházely "
-"všechny rasy ze všech možných koutů známého i neznámého světa obchodovat s "
-"trpaslíky z Knalgy, tak jako kdysi."
+"všechny rasy ze všech možných koutů známého i neznámého světa obchodovat "
+"s trpaslíky z Knalgy, tak jako kdysi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:444
