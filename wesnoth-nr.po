@@ -2230,8 +2230,9 @@ msgstr "Vetřelci! Zastavte je, než osvobodí vězně!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:505
+#, fuzzy
 msgid "Good luck with that."
-msgstr ""
+msgstr "Hodně štěstí."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:538
@@ -5427,8 +5428,9 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:88
+#, fuzzy
 msgid "Then to arms, men!"
-msgstr ""
+msgstr "Tak do zbraně, muži!"
 
 #. [side]: type=Orcish Warlord, id=Atul
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:118
@@ -7159,15 +7161,19 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:36
+#, fuzzy
 msgid ""
 "There were some survivors. Father Morvin oversaw their healing, while Tallin "
 "followed Eryssa as she anxiously walked among the dead."
 msgstr ""
+"Někteří přežili. Otec Morvin dohlížel na jejich uzdravování, zatímco Tallin "
+"sledoval Eryssu, která se úzkostlivě procházela mezi mrtvými."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:39
+#, fuzzy
 msgid "Suddenly, Eryssa cried out. In front of her lay Hidel."
-msgstr ""
+msgstr "Eryssa náhle vykřikla. Před ní ležel Hidel."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:42
@@ -7282,8 +7288,9 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:73
+#, fuzzy
 msgid "I will."
-msgstr ""
+msgstr "Já to udělám."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:75
@@ -7296,15 +7303,17 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:78
+#, fuzzy
 msgid "Then Hidel closed his eyes and took one last breath."
-msgstr ""
+msgstr "Pak Hidel zavřel oči a naposledy se nadechl."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:82
+#, fuzzy
 msgid ""
 "Slowly Tallin approached her. He hesitated before wrapping her gently in his "
 "arms."
-msgstr ""
+msgstr "Tallin se k ní pomalu přiblížil. Zaváhal, než ji jemně objal."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:86
@@ -7331,12 +7340,17 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:92
+#, fuzzy
 msgid ""
 "As Tallin comforted Eryssa, the surviving elves gathered all of the fallen "
 "warriors, and with the humans’ help, laid them to rest. For Hidel, the "
 "dwarves raised a monument so that his heroic death would long be remembered. "
 "Then, they came before Tallin and Eryssa."
 msgstr ""
+"Zatímco Tallin utěšoval Eryssu, přeživší elfové shromáždili všechny padlé "
+"bojovníky a s pomocí lidí je uložili k odpočinku. Hidelovi postavili "
+"trpaslíci pomník, aby se na jeho hrdinskou smrt dlouho vzpomínalo. Pak "
+"předstoupili před Tallina a Eryssu."
 
 # Markus
 #. [story]
@@ -7887,10 +7901,13 @@ msgstr "(<i>Slabý hlas ztracený v řevu</i>) Cože, to už je všechno?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1041
+#, fuzzy
 msgid ""
 "Father Morvin and his wife saw to the wounded as the rest set about "
 "preparing a victory feast."
 msgstr ""
+"Otec Morvin a jeho žena se postarali o raněné, zatímco ostatní se pustili do "
+"přípravy vítězné hostiny."
 
 #. [message]: id=Hamel
 #. [message]: speaker=Father Morvin
