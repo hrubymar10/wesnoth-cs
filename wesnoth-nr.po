@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-16 03:12 UTC\n"
-"PO-Revision-Date: 2023-07-29 10:07+0200\n"
+"PO-Revision-Date: 2023-07-30 16:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2230,7 +2230,6 @@ msgstr "Vetřelci! Zastavte je, než osvobodí vězně!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:505
-#, fuzzy
 msgid "Good luck with that."
 msgstr "Hodně štěstí."
 
@@ -5428,9 +5427,8 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:88
-#, fuzzy
 msgid "Then to arms, men!"
-msgstr "Tak do zbraně, muži!"
+msgstr "Tak tedy do zbraně, muži!"
 
 #. [side]: type=Orcish Warlord, id=Atul
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:118
@@ -7161,19 +7159,17 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:36
-#, fuzzy
 msgid ""
 "There were some survivors. Father Morvin oversaw their healing, while Tallin "
 "followed Eryssa as she anxiously walked among the dead."
 msgstr ""
 "Někteří přežili. Otec Morvin dohlížel na jejich uzdravování, zatímco Tallin "
-"sledoval Eryssu, která se úzkostlivě procházela mezi mrtvými."
+"následoval Eryssu, která s úzkostí procházela mezi mrtvými."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:39
-#, fuzzy
 msgid "Suddenly, Eryssa cried out. In front of her lay Hidel."
-msgstr "Eryssa náhle vykřikla. Před ní ležel Hidel."
+msgstr "Náhle Eryssa vykřikla. Před ní ležel Hidel."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:42
@@ -7288,9 +7284,8 @@ msgstr ""
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:73
-#, fuzzy
 msgid "I will."
-msgstr "Já to udělám."
+msgstr "Dám."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:75
@@ -7303,17 +7298,15 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:78
-#, fuzzy
 msgid "Then Hidel closed his eyes and took one last breath."
-msgstr "Pak Hidel zavřel oči a naposledy se nadechl."
+msgstr "Pak Hidel zavřel oči a vydechl naposledy."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:82
-#, fuzzy
 msgid ""
 "Slowly Tallin approached her. He hesitated before wrapping her gently in his "
 "arms."
-msgstr "Tallin se k ní pomalu přiblížil. Zaváhal, než ji jemně objal."
+msgstr "Tallin se pomalu přiblížil k Erysse. Zaváhal, než ji jemně objal."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:86
@@ -7340,7 +7333,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:92
-#, fuzzy
 msgid ""
 "As Tallin comforted Eryssa, the surviving elves gathered all of the fallen "
 "warriors, and with the humans’ help, laid them to rest. For Hidel, the "
@@ -7348,9 +7340,9 @@ msgid ""
 "Then, they came before Tallin and Eryssa."
 msgstr ""
 "Zatímco Tallin utěšoval Eryssu, přeživší elfové shromáždili všechny padlé "
-"bojovníky a s pomocí lidí je uložili k odpočinku. Hidelovi postavili "
+"bojovníky a s pomocí lidí je uložili k odpočinku. Hidelovi postavili "
 "trpaslíci pomník, aby se na jeho hrdinskou smrt dlouho vzpomínalo. Pak "
-"předstoupili před Tallina a Eryssu."
+"předstoupili před Tallina a Eryssu."
 
 # Markus
 #. [story]
@@ -7901,13 +7893,12 @@ msgstr "(<i>Slabý hlas ztracený v řevu</i>) Cože, to už je všechno?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1041
-#, fuzzy
 msgid ""
 "Father Morvin and his wife saw to the wounded as the rest set about "
 "preparing a victory feast."
 msgstr ""
-"Otec Morvin a jeho žena se postarali o raněné, zatímco ostatní se pustili do "
-"přípravy vítězné hostiny."
+"Otec Morvin a jeho žena se postarali o raněné, zatímco ostatní se pustili do "
+"přípravy hostiny na oslavu vítězství."
 
 #. [message]: id=Hamel
 #. [message]: speaker=Father Morvin
