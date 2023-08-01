@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-02 09:55-0500\n"
-"PO-Revision-Date: 2023-07-31 20:14+0200\n"
+"PO-Revision-Date: 2023-08-01 20:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4514,8 +4514,8 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Můžeš se podívat, jaké éry jsi měl spuštěné v nápovědě v části "
-"<ref>text='éry' dst='..eras_section'</ref>."
+"V nápovědě se můžeš podívat, jaké <ref>text='éry' dst='..eras_section'</ref> "
+"jsi načetl."
 
 #. [topic]: id=using_addons
 #: data/core/help.cfg:627
@@ -4574,8 +4574,8 @@ msgstr ""
 "terény a podobně.\n"
 "\n"
 "Jádra umožňují značně odlišný herní zážitek: například druhou světovou válku "
-"jako tažení nebo dokonce zcela jinou hru, pokud může být nějak představována "
-"šestiúhelníkovou mapou s „jednotkami“."
+"jako tažení, nebo dokonce zcela jinou hru, pokud může být nějak "
+"představována šestiúhelníkovou mapou s „jednotkami“."
 
 #. [topic]: id=using_addons
 #: data/core/help.cfg:637
