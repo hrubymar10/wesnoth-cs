@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-16 00:58 UTC\n"
-"PO-Revision-Date: 2023-08-10 20:24+0200\n"
+"PO-Revision-Date: 2023-08-18 15:12+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1721,15 +1721,14 @@ msgstr ""
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:247
-#, fuzzy
 msgid ""
 "From now on, Gorlack will have loyal intendants from the fighter and clasher "
 "castes; if one dies, the next recalled drake of the same caste will replace "
 "it as long as that drake is level 2 or higher"
 msgstr ""
-"Od nynějška bude mít Gorlack věrné drakodlaky z kasty bojovníků a clasherů; "
-"pokud jeden z nich zemře, nahradí ho další vyvolaný drakodlak ze stejné "
-"kasty, pokud je na 2. nebo vyšší úrovni."
+"Od nynějška bude mít Gorlak věrné důstojníky z kast bojovníků a rváčů. Pokud "
+"jeden z nich zemře a bude na 2. nebo vyšší úrovni, nahradí ho další povolaný "
+"drakonid stejné kasty."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:259
@@ -2163,7 +2162,7 @@ msgstr "Nemas"
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:93
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:459
 msgid "Shussek"
-msgstr "Šussek"
+msgstr "Sušek"
 
 #. [leader]: id=Poseira, type=Merman Spearman
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:114
@@ -6763,45 +6762,39 @@ msgstr "Reks"
 
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:439
-#, fuzzy
 msgid "Greeeeeen one, <i>there</i> you are."
-msgstr "Greeeeeen one, <i>thehere</i> you are."
+msgstr "<i>Tady</i> být, zeleňouch."
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:445
-#, fuzzy
 msgid "It is I, Ancient One. I ssseek your help."
-msgstr "Jsem to já, Prastarý. Hledám tvou pomoc."
+msgstr "Jssem to já, Prasstarý. Occením tvou pomocc."
 
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:449
-#, fuzzy
 msgid "Reks help favorite pet. Reks help green one."
-msgstr "Reks pomáhá oblíbenému domácímu mazlíčkovi. Reks pomáhá zelenému."
+msgstr "Reks pomáhat jeho ňuňaný mazlíček. Reks pomáhat zeleňouch."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:465
-#, fuzzy
 msgid ""
 "Hail, Shussek.\n"
 "\n"
 "You are strangely far flown from that shoal you so coveted."
 msgstr ""
-"Buď zdráv, Shusseku.\n"
+"Buď zdráv, Sušku.\n"
 "\n"
-"Jsi podivně daleko od té mělčiny, po které jsi tolik toužil."
+"Jsi podivně daleko od té mělčiny, po kterés tak toužil."
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:477
-#, fuzzy
 msgid "...... You are far from your reef."
-msgstr "...... Jste daleko od svého útesu."
+msgstr "... ... Jsi daleko od svého útesu."
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:483
-#, fuzzy
 msgid "Odious fish imps took our reef from us again! Ssssss!"
-msgstr "Ohavní rybí impové nám opět vzali náš útes! Ssssss!"
+msgstr "Ohavní rybí ššotci nám zzass vzzali nášš útesss! Ssssss!"
 
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:493
@@ -6810,24 +6803,21 @@ msgstr "Xatra"
 
 #. [message]: speaker=Xatra
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:502
-#, fuzzy
 msgid "What is meaning of thisssss?!"
-msgstr "Co to má znamenat?!"
+msgstr "Cco má tohle zznamenat?!"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:506
-#, fuzzy
 msgid ""
 "By dance of wandering ssstars, you look not one day over ssseven, old friend."
 msgstr ""
-"Při tanci bloudících sshvězd se nedíváš ani o den déle než sssedm, starý "
-"příteli."
+"Přři tancci bloudíccích hvězzd, zza tu dobu, cco jssme ssse neviděli, jssi "
+"vůbecc nezzesstárl, sstarý přříteli."
 
 #. [message]: speaker=Xatra
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:512
-#, fuzzy
 msgid "Yet I feel all thirteen years in my bones!"
-msgstr "Přesto všech třináct let cítím v kostech!"
+msgstr "Přřessto ccítím vššech těch třřinácct let v kossstech!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:529
