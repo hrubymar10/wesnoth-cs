@@ -14,13 +14,12 @@ wesnoth-lib | 1585 | 96% | 60 | Michal
 wesnoth-multiplayer | 329 | 95% | 16 | Michal
 wesnoth-tb | 224 | 97% | 6 | Michal
 wesnoth-tools | 99 | 64% | 35 | Michal
-wesnoth | 1392 | 99% | 4 | Michal
 
-Total messages remaining: **140**
+Total messages remaining: **136**
 
 Progress since 2022-04-30: **1** message per day
 
-ETA: **2024-01-10**
+ETA: **2024-01-07**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
