@@ -12,7 +12,7 @@ wesnoth-editor | 115 | 95% | 5 | Michal
 wesnoth-help | 725 | 98% | 12 | Michal
 wesnoth-lib | 1585 | 96% | 60 | Michal
 wesnoth-multiplayer | 329 | 95% | 16 | Michal
-wesnoth-tb | 224 | 97% | 6 |
+wesnoth-tb | 224 | 97% | 6 | Septim
 wesnoth-tools | 99 | 64% | 35 | Michal
 
 Total messages remaining: **134**
