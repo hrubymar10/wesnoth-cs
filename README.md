@@ -11,15 +11,15 @@ Domain | Messages | Translated | Remaining | Translator
 wesnoth-editor | 115 | 95% | 5 | Michal
 wesnoth-help | 725 | 98% | 12 | Michal
 wesnoth-lib | 1585 | 96% | 60 | Michal
-wesnoth-multiplayer | 329 | 95% | 16 | Michal
+wesnoth-multiplayer | 329 | 96% | 11 |
 wesnoth-tb | 224 | 97% | 6 | Septim
 wesnoth-tools | 99 | 64% | 35 | Michal
 
-Total messages remaining: **134**
+Total messages remaining: **129**
 
 Progress since 2022-04-30: **1** message per day
 
-ETA: **2024-01-08**
+ETA: **2024-01-05**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
