@@ -10,7 +10,7 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-help | 725 | 98% | 12 | Michal
 wesnoth-lib | 1585 | 96% | 60 | Michal
-wesnoth-multiplayer | 329 | 96% | 11 |
+wesnoth-multiplayer | 329 | 96% | 11 | Septim
 wesnoth-tools | 99 | 64% | 35 | Michal
 
 Total messages remaining: **118**
