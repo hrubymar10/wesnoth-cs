@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-08-19 20:56-0500\n"
-"PO-Revision-Date: 2023-09-05 18:10+0200\n"
+"PO-Revision-Date: 2023-09-07 18:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1232,11 +1232,14 @@ msgid ""
 "in. This will only rename that folder and update any references to it in the "
 "_main.cfg file. Any other place will need to be updated manually."
 msgstr ""
+"Umožňuje změnit ID rozšíření, což je název složky, ve které se nachází. "
+"Přejmenuje se pouze tato složka a obnoví se všechny odkazy na ni v souboru "
+"_main.cfg. Jakékoli jiné místo bude třeba aktualizovat ručně."
 
 #. [topic]: id=editor_pbl_editor
 #: data/core/editor/help.cfg:329
 msgid "Add-on Publishing Editor"
-msgstr ""
+msgstr "Editor pro zveřejnění rozšíření"
 
 #. [topic]: id=editor_pbl_editor
 #: data/core/editor/help.cfg:330
@@ -1245,6 +1248,10 @@ msgid ""
 "publishing an add-on to the add-ons server for other players to download. "
 "The Validate button will check whether all required fields have valid values."
 msgstr ""
+"Umožňuje vytvořit pro rozšíření soubor _server.pbl, který je nutný pro "
+"zveřejnění rozšíření na serveru s rozšířeními, odkud si jej mohou stáhnout "
+"ostatní hráči. Tlačítko Ověřit zkontroluje, zda jsou ve všech požadovaných "
+"polích uvedeny platné hodnoty."
 
 #. [topic]: id=..editor
 #: data/core/editor/help.cfg:338
@@ -1323,6 +1330,12 @@ msgid ""
 "scenario mode is required in order for your maps to be selectable during "
 "game creation."
 msgstr ""
+"V obou režimech budeš vyzván k výběru rozšíření, které použiješ pro scénáře, "
+"jež vytváříš. Může se jednat o existující rozšíření nebo rozšíření zcela "
+"nové. Pokud se rozhodneš použít zbrusu nové rozšíření, budou pro něj "
+"automaticky vytvořeny všechny požadované soubory a složky a bude mu "
+"přiřazeno výchozí ID. Pokud neupravuješ již existující soubor s mapou, je "
+"nutné použít režim scénáře, aby šlo během vytváření hry vybrat tvé mapy."
 
 #. [topic]: id=..editor
 #: data/core/editor/help.cfg:353
