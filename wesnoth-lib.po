@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-08-19 20:56-0500\n"
-"PO-Revision-Date: 2023-09-08 18:36+0200\n"
+"PO-Revision-Date: 2023-09-09 23:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3140,6 +3140,9 @@ msgid ""
 "New Add-on option is chosen, its ID can be changed via the Change Add-on ID "
 "option."
 msgstr ""
+"Vyber rozšíření, které má být spojeno se stávající prací v editoru. Pokud je "
+"zvolena možnost Nové rozšíření, lze jeho ID změnit pomocí volby Změnit ID "
+"rozšíření."
 
 #. [label]: id=existing_addon_id
 #: data/gui/window/editor_choose_addon.cfg:98
@@ -3154,7 +3157,7 @@ msgstr "Ukázat všechna"
 #. [toggle_button]: id=show_all
 #: data/gui/window/editor_choose_addon.cfg:184
 msgid "Whether to show all installed add-ons or only your add-ons"
-msgstr ""
+msgstr "Zda chceš ukázat všechna instalovaná rozšíření, nebo pouze ta svá."
 
 #. [label]
 #: data/gui/window/editor_edit_label.cfg:106
@@ -3189,17 +3192,17 @@ msgstr "Viditelný ve tmě"
 #. [label]: id=title
 #: data/gui/window/editor_edit_pbl.cfg:84
 msgid "Add-on Publishing Setup"
-msgstr ""
+msgstr "Nastavení rozšíření k zveřejnění"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:150
 msgid "The name of the add-on displayed in-game."
-msgstr ""
+msgstr "Název rozšíření zobrazený ve hře."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:150
 msgid "Title:"
-msgstr ""
+msgstr "Název:"
 
 #. [grid]
 #. [label]
@@ -3212,12 +3215,12 @@ msgstr "Popis:"
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:151
 msgid "The description of the add-on to display in the add-ons manager."
-msgstr ""
+msgstr "Popis rozšíření, který se zobrazí ve správci rozšíření."
 
 #. [label]: id=icon_label
 #: data/gui/window/editor_edit_pbl.cfg:162
 msgid "Icon:"
-msgstr ""
+msgstr "Ikona:"
 
 #. [button]: id=select_icon
 #: data/gui/window/editor_edit_pbl.cfg:182
@@ -3230,6 +3233,8 @@ msgid ""
 "The path to the icon image to display to display in the add-ons manager. "
 "Must be an image from mainline."
 msgstr ""
+"Cesta k obrázku ikony, který se má zobrazit ve správci rozšíření. Musí to "
+"být obrázek z hlavní řady."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:206
@@ -3242,11 +3247,13 @@ msgid ""
 "The author of this add-on. If forum authentication is used, this is your "
 "forum username."
 msgstr ""
+"Autor tohoto rozšíření. Pokud je použito ověření z fóra, je to tvé "
+"uživatelské jméno na fóru."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:207
 msgid "The add-on’s current version. This should be of the form X.Y.Z."
-msgstr ""
+msgstr "Současná verze rozšíření. Měla by mít tvar X.Y.Z."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:208
@@ -8723,7 +8730,7 @@ msgstr "Přidat novou oblast"
 
 #: src/hotkey/hotkey_command.cpp:270
 msgid "Add-on Publishing Editor"
-msgstr ""
+msgstr "Editor pro zveřejnění rozšíření"
 
 #: src/hotkey/hotkey_command.cpp:271
 msgid "Change Add-on ID"
