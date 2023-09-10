@@ -4,13 +4,14 @@
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
 # Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Petr Šlejhar (Septim) <septim@centrum.cz>, 20239.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-08-18 20:39+0200\n"
+"PO-Revision-Date: 2023-09-10 16:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -18,6 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:9
@@ -1062,7 +1064,8 @@ msgstr "Zátoka perel"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:23
 msgid "Defeat one enemy leader, and resist the other until turns run out"
-msgstr "Poraz jednoho nepřátelského vůdce a odolávej druhému než vyprší čas"
+msgstr ""
+"Poraz jednoho nepřátelského vůdce a odolávej druhému než vyprší počet kol"
 
 #. [objectives]
 #. [objective]: condition=win
@@ -1078,7 +1081,7 @@ msgstr "Poraz všechny nepřátelské vůdce"
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:32
 msgid "Turns run out with both enemy leaders standing"
-msgstr "Čas vyprší s oběma nepřátelskými vůdci naživu"
+msgstr "Vyprší počet kol a oba nepřátelští vůdci zůstanou naživu"
 
 #. [side]: type=Orcish Warrior, id=Dwaba-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:63
@@ -1778,13 +1781,13 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:279
 msgid "The temple seems to be empty."
-msgstr "Chrám vypadá prázdný."
+msgstr "Tenhle chrám vypadá prázdný."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:294
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:357
 msgid "Looks like there is somebody hidden in the temple."
-msgstr "Vypadá to, že tady v tom chrámu je někdo ukrytý."
+msgstr "Vypadá to, že v tomto chrámu se někdo skrývá."
 
 #. [unit]: id=Moremirmu, type=White Mage
 #. [unit]: id=Moremirmu, type=Mage of Light
@@ -2163,8 +2166,8 @@ msgid ""
 "can flank them."
 msgstr ""
 "Jen velmi málo lidí vědělo, že řeka se dá na tomto místě přebrodit. Skřeti "
-"se o tomto místě teprve dozví. Rychle dostat jednotky do města a máme skřety "
-"obležené."
+"toto místo ještě neobjevili. Dostaňte rychle své jednotky do města a máte "
+"skřety obklíčené."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:577
@@ -4137,10 +4140,11 @@ msgstr ""
 msgid "Then to the eastern tunnels we shall go!"
 msgstr "Půjdeme tedy do východních tunelů!"
 
+# Pokud by ošetřovatelka nesedělo, tak pečovatelka o gryfy, ale každopádně v ženském tvaru.
 #. [unit]: type=Elvish Shaman, id=Gryphon Tender
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:505
 msgid "Gryphon Tender"
-msgstr "Pečovatel o gryfy"
+msgstr "Ošetřovatelka gryfů"
 
 #. [message]: speaker=Gryphon Tender
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:518
@@ -4236,7 +4240,7 @@ msgstr "Hmmm... za těmito skalami je tajný průchod!"
 msgid ""
 "There is a great fortune in this chest of treasure! I can count two hundred "
 "pieces of gold!"
-msgstr "V této truhlici je ohromný poklad! Našel jsem dvě stě zlatých!"
+msgstr "V této truhlici je velký poklad! Našel jsem dvě stě zlatých!"
 
 #. [scenario]: id=15_The_Lost_General
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:4
@@ -8159,14 +8163,15 @@ msgstr "Ha! Pobavil jsi mne, mladý následníku. Ha, ha, to je tedy výzva!"
 msgid "Young heir? Then you assent to my claim?"
 msgstr "Následníku? Pak tedy uznáváte můj nárok?"
 
+# To vyjádření o skřetech nemá zcela jasný význam, ale takhle by to nějaký smysl dávalo.
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:290
 msgid ""
 "Impudence. Bah! Do you see orcs on our plains? Did we not grant you a test "
 "of your strength?"
 msgstr ""
-"Drzost, pche! Vidíš skřety na našich pláních? Neslíbili jsme ti zkoušku tvé "
-"síly?"
+"Drzost, pche! Vidíš snad skřety na našich pláních? Neslíbili jsme ti zkoušku "
+"tvé síly?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:294
@@ -8272,7 +8277,7 @@ msgstr "Myslím že se mýlíte! Pomůžete mi stát se královnou!"
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:468
 msgid "Who then is your leader? Whom do we serve?"
-msgstr "Kdo je tedy tvým vůdcem? Komu sloužíme?"
+msgstr "Kdo je tedy vaším vůdcem? Komu sloužíme?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:472
@@ -8364,10 +8369,11 @@ msgid ""
 "haste to Weldyn, before the guards of Asheviere could get there, to carry "
 "out their evil orders."
 msgstr ""
-"Bitva byla dlouhá a těžká. Porazili nás. Zabili Eldreda, ale věděl jsem, že "
-"Ašvířin hněv bude velký. Zabili mnoho nevinných. Musel jsem zachránit jejich "
-"říši. Musel jsem zachránit prince. Spěchal jsem do Weldynu, dřív než tam "
-"dorazí Ašvířiny stráže, které vykonají její ďábelské příkazy."
+"Bitva byla dlouhá a těžká. Porazili nás. Eldred byl zabit, ale věděl jsem, "
+"že Ašvířin hněv bude velký. Mohlo by být zabito mnoho nevinných. Musel jsem "
+"zachránit monarchii. Musel jsem zachránit prince. Spěchal jsem do Weldynu, "
+"abych tam byl dřív, než dorazí Ašvířiny stráže, co vykonávaly její ďábelské "
+"příkazy."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:66
@@ -8377,7 +8383,7 @@ msgid ""
 "The heirs were slain. Only Asheviere and her daughter had any claim to the "
 "throne."
 msgstr ""
-"Ale já selhal. Přišel jsem pozdě. Vstoupil jsem do komnaty nejmladšího "
+"Ale selhal jsem. Přišel jsem pozdě. Vstoupil jsem do komnaty nejmladšího "
 "prince, prince Konráda, právě když ho jeden z těch proklatých zloduchů "
 "probodl. Všechno bylo ztracené. Dědicové byli mrtví. Nárok na trůn měla jen "
 "Ašvíra a její dcera."
