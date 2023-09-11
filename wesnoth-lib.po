@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-08-19 20:56-0500\n"
-"PO-Revision-Date: 2023-09-09 23:17+0200\n"
+"PO-Revision-Date: 2023-09-11 23:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3262,11 +3262,14 @@ msgid ""
 "depends on. The add-on ID is the folder name in your operating system’s file "
 "explorer, not the add-on’s name."
 msgstr ""
+"Seznam ID všech ostatních rozšíření oddělených čárkou, na kterých toto "
+"rozšíření závisí. ID rozšíření je název složky v průzkumníku souborů tvého "
+"operačního systému, nikoli název rozšíření."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:211
 msgid "Forum thread:"
-msgstr ""
+msgstr "Vlákno fóra:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:211
@@ -3274,16 +3277,18 @@ msgid ""
 "The numeric topic ID of a thread on the Wesnoth forums where players can "
 "post feedback."
 msgstr ""
+"Číselné ID tématu vlákna na fóru Wesnothu, kam mohou hráči posílat zpětnou "
+"vazbu."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:212
 msgid "Forum URL"
-msgstr ""
+msgstr "URL adresa fóra"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:212
 msgid "The full URL of your feedback thread on the forums."
-msgstr ""
+msgstr "Úplná URL adresa tvého vlákna pro zpětnou vazbu na fóru."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:213
