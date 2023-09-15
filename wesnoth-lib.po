@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-22 22:50-0500\n"
-"PO-Revision-Date: 2023-06-06 22:46+0200\n"
+"PO-Revision-Date: 2023-09-15 21:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5982,7 +5982,7 @@ msgstr "Zdroje"
 
 #: src/gui/dialogs/addon/manager.cpp:184
 msgid "addons_of_type^Other"
-msgstr "Ostatní"
+msgstr "Jiné"
 
 #: src/gui/dialogs/addon/manager.cpp:185
 msgid "addons_of_type^Unknown"
