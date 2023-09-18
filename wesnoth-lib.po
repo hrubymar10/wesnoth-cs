@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-08-19 20:56-0500\n"
+"POT-Creation-Date: 2023-09-16 22:33-0500\n"
 "PO-Revision-Date: 2023-09-15 21:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -3229,9 +3229,13 @@ msgstr "Vybrat soubor s ikonou"
 
 #. [text_box]: id=icon
 #: data/gui/window/editor_edit_pbl.cfg:195
+#, fuzzy
+#| msgid ""
+#| "The path to the icon image to display to display in the add-ons manager. "
+#| "Must be an image from mainline."
 msgid ""
-"The path to the icon image to display to display in the add-ons manager. "
-"Must be an image from mainline."
+"The path to the icon image to display in the add-ons manager. Must be an "
+"image from mainline."
 msgstr ""
 "Cesta k obrázku ikony, který se má zobrazit ve správci rozšíření. Musí to "
 "být obrázek z hlavní řady."
@@ -3257,10 +3261,15 @@ msgstr "Současná verze rozšíření. Měla by mít tvar X.Y.Z."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:208
+#, fuzzy
+#| msgid ""
+#| "A comma delimited list of the IDs of any other add-ons that this add-on "
+#| "depends on. The add-on ID is the folder name in your operating system’s "
+#| "file explorer, not the add-on’s name."
 msgid ""
 "A comma delimited list of the IDs of any other add-ons that this add-on "
 "depends on. The add-on ID is the folder name in your operating system’s file "
-"explorer, not the add-on’s name."
+"manager, not the add-on’s name."
 msgstr ""
 "Seznam ID všech ostatních rozšíření oddělených čárkou, na kterých toto "
 "rozšíření závisí. ID rozšíření je název složky v průzkumníku souborů tvého "
@@ -3396,8 +3405,12 @@ msgstr "* Jazyk:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:97
+#, fuzzy
+#| msgid ""
+#| "The language code of the translation, such as sv (Swedish) or zh_CN "
+#| "(Simplified Chinese)."
 msgid ""
-"The language code of the translation, such as sv (Swedish) or zh_CN "
+"The POSIX locale name of the translation, such as sv (Swedish) or zh_CN "
 "(Simplified Chinese)."
 msgstr ""
 "Kód jazyka překladu, například sv (švédština) nebo zh_CN (zjednodušená "
@@ -3410,12 +3423,16 @@ msgstr "* Název:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:98
-msgid "The translation of the addon’s title."
+#, fuzzy
+#| msgid "The translation of the addon’s title."
+msgid "The translation of the add-on’s title."
 msgstr "Překlad názvu rozšíření."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:99
-msgid "The translation of the addon’s description."
+#, fuzzy
+#| msgid "The translation of the addon’s description."
+msgid "The translation of the add-on’s description."
 msgstr "Překlad popisu rozšíření."
 
 #. [label]: id=title
@@ -6308,11 +6325,11 @@ msgid "operating_system^<unknown>"
 msgstr "<neznámý OS>"
 
 #. TRANSLATORS: translate the part inside <...> only
-#: src/filesystem.cpp:690
+#: src/filesystem.cpp:691
 msgid "--userdata-dir=<relative path that doesn't start with a period>"
 msgstr "--userdata-dir=<relativní cesta, která nezačíná tečkou>"
 
-#: src/filesystem.cpp:693
+#: src/filesystem.cpp:694
 msgid ""
 "Use an absolute path, or a relative path that starts with a period and a "
 "backslash"
@@ -6321,11 +6338,11 @@ msgstr ""
 "lomítkem"
 
 #. TRANSLATORS: translate the part inside <...> only
-#: src/filesystem.cpp:758 src/filesystem.cpp:780
+#: src/filesystem.cpp:759 src/filesystem.cpp:781
 msgid "--userdata-dir=<relative path>"
 msgstr "--userdata-dir=<relativní cesta>"
 
-#: src/filesystem.cpp:761 src/filesystem.cpp:783
+#: src/filesystem.cpp:762 src/filesystem.cpp:784
 msgid ""
 "Use absolute paths. Relative paths are deprecated because they are "
 "interpreted relative to $HOME"
@@ -6344,7 +6361,7 @@ msgstr ""
 #. other's resources rather than duplicating them. For example,
 #. Swedish (sv) and Danish (da) are such, so Swedish translator could
 #. translate this message as "sv,da", while Danish as "da,sv".
-#: src/filesystem.cpp:1746
+#: src/filesystem.cpp:1763
 msgid "language code for localized resources^en_US"
 msgstr "cs"
 
