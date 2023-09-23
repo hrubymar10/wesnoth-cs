@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2023-07-21 20:42+0200\n"
+"PO-Revision-Date: 2023-09-23 11:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -17327,12 +17327,6 @@ msgstr "Hrad duchů"
 #: data/campaigns/Under_the_Burning_Suns/utils/terrain.cfg:64
 msgid "Phantom Keep"
 msgstr "Tvrz duchů"
-
-#~ msgid "steadfast"
-#~ msgstr "vytrvalý"
-
-#~ msgid "female^steadfast"
-#~ msgstr "vytrvalá"
 
 #~ msgid ""
 #~ "This unit's resistances are increased by 20%, up to a maximum of 50%, "
