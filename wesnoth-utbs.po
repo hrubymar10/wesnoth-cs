@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2023-09-23 11:58+0200\n"
+"PO-Revision-Date: 2023-09-23 12:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2572,10 +2572,8 @@ msgstr ""
 
 #. ['A unit’s name, should be short.']
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1540
-#, fuzzy
-#| msgid "Wounded Elven Scout"
 msgid "Wounded Scout"
-msgstr "Zraněný elfský průzkumník"
+msgstr "Zraněný průzkumník"
 
 #. [message]: speaker=Elven Scout
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1543
@@ -16036,10 +16034,8 @@ msgstr ""
 #. [dummy]: id=ray
 #. weapon special
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:442
-#, fuzzy
-#| msgid "sun ray"
 msgid "ray"
-msgstr "paprsek slunce"
+msgstr "paprsek"
 
 #. [dummy]: id=ray
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:443
