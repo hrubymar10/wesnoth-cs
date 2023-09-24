@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-16 22:33-0500\n"
-"PO-Revision-Date: 2023-09-15 21:42+0200\n"
+"PO-Revision-Date: 2023-09-24 21:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3229,10 +3229,6 @@ msgstr "Vybrat soubor s ikonou"
 
 #. [text_box]: id=icon
 #: data/gui/window/editor_edit_pbl.cfg:195
-#, fuzzy
-#| msgid ""
-#| "The path to the icon image to display to display in the add-ons manager. "
-#| "Must be an image from mainline."
 msgid ""
 "The path to the icon image to display in the add-ons manager. Must be an "
 "image from mainline."
@@ -3261,18 +3257,13 @@ msgstr "Současná verze rozšíření. Měla by mít tvar X.Y.Z."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl.cfg:208
-#, fuzzy
-#| msgid ""
-#| "A comma delimited list of the IDs of any other add-ons that this add-on "
-#| "depends on. The add-on ID is the folder name in your operating system’s "
-#| "file explorer, not the add-on’s name."
 msgid ""
 "A comma delimited list of the IDs of any other add-ons that this add-on "
 "depends on. The add-on ID is the folder name in your operating system’s file "
 "manager, not the add-on’s name."
 msgstr ""
 "Seznam ID všech ostatních rozšíření oddělených čárkou, na kterých toto "
-"rozšíření závisí. ID rozšíření je název složky v průzkumníku souborů tvého "
+"rozšíření závisí. ID rozšíření je název složky ve správci souborů tvého "
 "operačního systému, nikoli název rozšíření."
 
 #. [grid]
@@ -3405,16 +3396,12 @@ msgstr "* Jazyk:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:97
-#, fuzzy
-#| msgid ""
-#| "The language code of the translation, such as sv (Swedish) or zh_CN "
-#| "(Simplified Chinese)."
 msgid ""
 "The POSIX locale name of the translation, such as sv (Swedish) or zh_CN "
 "(Simplified Chinese)."
 msgstr ""
-"Kód jazyka překladu, například sv (švédština) nebo zh_CN (zjednodušená "
-"čínština)."
+"Název národního prostředí překladu podle standardu POSIX, například sv "
+"(švédština) nebo zh_CN (zjednodušená čínština)."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:98
@@ -3423,15 +3410,11 @@ msgstr "* Název:"
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:98
-#, fuzzy
-#| msgid "The translation of the addon’s title."
 msgid "The translation of the add-on’s title."
 msgstr "Překlad názvu rozšíření."
 
 #. [grid]
 #: data/gui/window/editor_edit_pbl_translation.cfg:99
-#, fuzzy
-#| msgid "The translation of the addon’s description."
 msgid "The translation of the add-on’s description."
 msgstr "Překlad popisu rozšíření."
 
