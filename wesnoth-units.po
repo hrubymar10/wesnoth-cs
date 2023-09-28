@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2023-06-05 22:05+0200\n"
+"PO-Revision-Date: 2023-09-28 08:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2378,17 +2378,6 @@ msgstr "Pouštní úderný jezdec"
 
 #. [unit_type]: id=Dune Sunderer, race=dunefolk
 #: data/core/units/dunefolk/Sunderer.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Among the many different type of Dune horsemen, there are those who most "
-#| "enjoy the frantic melee at the heart of battle. Bearing short-ranged "
-#| "maces, these sunderers are sturdy, robust warriors who have both the "
-#| "disposition and skill to survive multiple skirmishes. Though not "
-#| "particularly creative or special warriors, such a rider is not impotent "
-#| "in any way  — even a small group of sunderers is powerful enough to "
-#| "breach most enemy lines through sheer force. In a situation that requires "
-#| "it, these horsemen also possess enough skill at archery to weaken enemy "
-#| "forces or pick off fleeing stragglers."
 msgid ""
 "Among the many different type of Dune horsemen, there are those who most "
 "enjoy the frantic melee at the heart of battle. Bearing short-ranged maces, "
@@ -5791,10 +5780,8 @@ msgstr ""
 
 #. [unit_type]: id=Giant Ant Egg, race=monster
 #: data/core/units/monsters/Ant_Egg.cfg:9
-#, fuzzy
-#| msgid "Giant Ant"
 msgid "Giant Ant Egg"
-msgstr "Obří mravenec"
+msgstr "Vejce obřího mravence"
 
 #. [unit_type]: id=Giant Ant Egg, race=monster
 #: data/core/units/monsters/Ant_Egg.cfg:71
@@ -5808,10 +5795,8 @@ msgstr ""
 
 #. [unit_type]: id=Fire Ant Egg
 #: data/core/units/monsters/Ant_Egg.cfg:169
-#, fuzzy
-#| msgid "Fire Ant"
 msgid "Fire Ant Egg"
-msgstr "Ohnivý mravenec"
+msgstr "Vejce ohnivého mravence"
 
 #. [unit_type]: id=Fire Ant Egg
 #: data/core/units/monsters/Ant_Egg.cfg:174
@@ -5853,10 +5838,8 @@ msgstr "oheň"
 
 #. [unit_type]: id=Fire Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Fire_Queen.cfg:11
-#, fuzzy
-#| msgid "Fire Ant"
 msgid "Fire Ant Queen"
-msgstr "Ohnivý mravenec"
+msgstr "Královna ohnivých mravenců"
 
 #. [unit_type]: id=Fire Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Fire_Queen.cfg:52
@@ -5892,10 +5875,8 @@ msgstr ""
 
 #. [unit_type]: id=Giant Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Queen.cfg:4
-#, fuzzy
-#| msgid "Giant Ant"
 msgid "Giant Ant Queen"
-msgstr "Obří mravenec"
+msgstr "Královna obřích mravenců"
 
 #. [unit_type]: id=Giant Ant Queen, race=monster
 #: data/core/units/monsters/Ant_Queen.cfg:19
@@ -7948,12 +7929,6 @@ msgstr "Ještěrácká vrhačka kopí"
 
 #. [unit_type]: id=Saurian Spearthrower, race=lizard
 #: data/core/units/saurians/Spearthrower.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Some saurians  with particularly good aim prefer to aid their allies from "
-#| "the backlines rather than to infiltrate enemy formations. Their deadly "
-#| "spear throwing skills allow them to support other saurian warriors from "
-#| "afar."
 msgid ""
 "Some saurians with particularly good aim prefer to aid their allies from the "
 "backlines rather than to infiltrate enemy formations. Their deadly spear "
@@ -8184,10 +8159,8 @@ msgstr ""
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:143
 #: data/core/units/undead/Corpse_Walking.cfg:144
-#, fuzzy
-#| msgid "wc_variation^Rat"
 msgid "wc_variation^Ant"
-msgstr "Krysa"
+msgstr "Mravenec"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:159
