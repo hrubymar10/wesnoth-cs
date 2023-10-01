@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2023-09-30 10:49+0200\n"
+"PO-Revision-Date: 2023-10-01 10:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5798,6 +5798,11 @@ msgid ""
 "any suitable location.\n"
 "\n"
 msgstr ""
+"Obří mravenci se vyskytují téměř v každém prostředí a vajíčka, z nichž se "
+"líhnou, lze často nalézt v jeskyních nebo v kterýchkoli chráněných "
+"podmínkách. Většina vajíček pochází od jedné z královen kolonie, ale dělnice "
+"je přenášejí na libovolné vhodné místo.\n"
+"\n"
 
 #. [unit_type]: id=Fire Ant Egg
 #: data/core/units/monsters/Ant_Egg.cfg:169
@@ -5813,6 +5818,11 @@ msgid ""
 "location.\n"
 "\n"
 msgstr ""
+"Ve velkém množství mohou být ohniví mravenci pro ostatní rasy skutečným "
+"nebezpečím a jejich hrozivé počty začínají jejich vajíčky. Většina vajíček "
+"ohnivých mravenců pochází od jedné z královen kolonie, ale dělnice je "
+"přenášejí na libovolné vhodné místo.\n"
+"\n"
 
 #. [unit_type]: id=Fire Ant, race=monster
 #: data/core/units/monsters/Ant_Fire.cfg:11
