@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-02 09:55-0500\n"
-"PO-Revision-Date: 2023-10-03 19:45+0200\n"
+"PO-Revision-Date: 2023-10-04 21:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4453,7 +4453,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<header>text='Tažení pro více hráčů, scénáře a sady map'</header>"
+"<header>text='Tažení, scénáře a balíčky map pro hru více hráčů'</header>"
 
 #. [topic]: id=using_addons
 #: data/core/help.cfg:617
@@ -4466,9 +4466,9 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<italic>text='Hry pro více hráčů'</italic> můžeš hrát v plně funkčních "
-"scénářích nebo dokonce speciálně navržených taženích. Existují také balíčky "
-"poskytující jednotlivé scénáře pro více hráčů."
+"<italic>text='Hry pro více hráčů'</italic> lze hrát v plně přizpůsobených "
+"scénářích nebo dokonce ve speciálně navržených taženích. Existují také "
+"balíčky poskytující sady jednotlivých scénářů pro více hráčů."
 
 #. [topic]: id=using_addons
 #: data/core/help.cfg:619
