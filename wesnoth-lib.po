@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-16 22:33-0500\n"
-"PO-Revision-Date: 2023-10-06 20:37+0200\n"
+"PO-Revision-Date: 2023-10-06 20:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6534,7 +6534,7 @@ msgstr "Scénář MP"
 
 #: src/gui/dialogs/addon/manager.cpp:175
 msgid "addons_of_type^MP map-packs"
-msgstr "Sady map MP"
+msgstr "Balíčky map MP"
 
 #: src/gui/dialogs/addon/manager.cpp:176
 msgid "addons_of_type^MP eras"

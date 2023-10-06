@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-16 22:32-0500\n"
-"PO-Revision-Date: 2023-09-16 13:25+0200\n"
+"PO-Revision-Date: 2023-10-06 20:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5714,7 +5714,7 @@ msgstr "Frakce MP"
 
 #: src/addon/info.cpp:263
 msgid "addon_type^MP map-pack"
-msgstr "Soubor map MP"
+msgstr "Balíček map MP"
 
 #: src/addon/info.cpp:265
 msgid "addon_type^MP scenario"
