@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-16 22:33-0500\n"
-"PO-Revision-Date: 2023-09-24 21:21+0200\n"
+"PO-Revision-Date: 2023-10-06 20:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6079,7 +6079,7 @@ msgstr "Rozšíření"
 #. [grid]
 #: data/gui/window/title_screen.cfg:256
 msgid "Download usermade campaigns, eras, or map packs"
-msgstr "Stáhnout balíčky tažení, ér nebo map vytvořené uživateli"
+msgstr "Stáhnout tažení, éry nebo balíčky map vytvořené uživateli"
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:257
