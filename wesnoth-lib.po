@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-16 22:33-0500\n"
-"PO-Revision-Date: 2023-10-07 23:52+0200\n"
+"PO-Revision-Date: 2023-10-08 11:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6522,7 +6522,7 @@ msgstr "Scénáře"
 
 #: src/gui/dialogs/addon/manager.cpp:172
 msgid "addons_of_type^SP/MP campaigns"
-msgstr "Tažení SP nebo MP"
+msgstr "Tažení SP/MP"
 
 #: src/gui/dialogs/addon/manager.cpp:173
 msgid "addons_of_type^MP campaigns"
@@ -6530,7 +6530,7 @@ msgstr "Tažení MP"
 
 #: src/gui/dialogs/addon/manager.cpp:174
 msgid "addons_of_type^MP scenarios"
-msgstr "Scénář MP"
+msgstr "Scénáře MP"
 
 #: src/gui/dialogs/addon/manager.cpp:175
 msgid "addons_of_type^MP map-packs"
@@ -6538,7 +6538,7 @@ msgstr "Balíčky map MP"
 
 #: src/gui/dialogs/addon/manager.cpp:176
 msgid "addons_of_type^MP eras"
-msgstr "Éra MP"
+msgstr "Éry MP"
 
 #: src/gui/dialogs/addon/manager.cpp:177
 msgid "addons_of_type^MP factions"
@@ -6558,11 +6558,11 @@ msgstr "Zdroje"
 
 #: src/gui/dialogs/addon/manager.cpp:182
 msgid "addons_of_type^Other"
-msgstr "Jiné"
+msgstr "Jiná"
 
 #: src/gui/dialogs/addon/manager.cpp:183
 msgid "addons_of_type^Unknown"
-msgstr "Neznámé"
+msgstr "Neznámá"
 
 #: src/gui/dialogs/addon/manager.cpp:187
 msgid "addons_order^Name ($order)"
