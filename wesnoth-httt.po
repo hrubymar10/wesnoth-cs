@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-02 14:56 UTC\n"
-"PO-Revision-Date: 2023-10-01 18:26+0200\n"
+"PO-Revision-Date: 2023-10-09 21:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3501,10 +3501,10 @@ msgid ""
 "the valley walls echoed with the squeaks of gryphon hatchlings, who happily "
 "frolicked across the camp."
 msgstr ""
-"Tábor byl zřízen v odloučeném údolí, které chránilo své dočasné obyvatele "
-"před sněhovými vánicemi, lezavým větrem a zraky skřetích hlídek. Během "
-"tohoto času, hradba údolí odrážela kvičení malých gryfoňátek, která se "
-"vesele proháněla po táboře."
+"Tábor byl zřízen v odloučeném údolí, které chránilo své dočasné obyvatele "
+"před sněhovými vánicemi, lezavým větrem a zraky skřetích hlídek. Během "
+"tohoto času hradba údolí odrážela kvičení malých gryfátek, která se vesele "
+"proháněla po táboře."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:364
@@ -3513,8 +3513,8 @@ msgid ""
 "shamans had a natural rapport with the gryphlets, whose wings were still too "
 "small to carry a mount."
 msgstr ""
-"Konrád uložil svým šamankám pečovat o zvířata. Ty si svými přirozenými "
-"schopnosti získaly přízeň a poslušnost mláďat gryfů. Bylo to důležité, "
+"Konrád uložil svým šamankám pečovat o zvířata. Ty si svými přirozenými "
+"schopnostmi získaly přízeň a poslušnost mláďat gryfů. Bylo to důležité, "
 "protože jejich křídla byla ještě slabá na to, aby unesla jezdce."
 
 #. [message]: speaker=narrator
@@ -3633,7 +3633,7 @@ msgid ""
 "their way."
 msgstr ""
 "Konráde, vyslyš slova Delfadorova. Jednou se vrátíme, abychom vyrvali tuto "
-"zem střetům z pazourů. Podívej – skřeti se již shromažďují a další už určitě "
+"zem skřetům z pazourů. Podívej – skřeti se již shromažďují a další už určitě "
 "přicházejí."
 
 #. [message]: speaker=Konrad
@@ -3649,7 +3649,7 @@ msgid ""
 "horde."
 msgstr ""
 "Pane, rád bych prozkoumal cestu před námi. Byla by pro nás katastrofa, najít "
-"ty dveře zavřené, a zbýt jako lovná zvěř pro sbírající se hordu."
+"ty dveře zavřené a zbýt jako lovná zvěř pro sbírající se hordu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:296
@@ -3663,7 +3663,7 @@ msgid ""
 "could get grain carts in under the very noses of those ugly orcs."
 msgstr ""
 "Můj strýc pašoval... ehmmm... chtěl jsem říct... prodával jídlo trpaslíkům. "
-"Dokázal dostat káry obilí i přímo pod nosy těch odporných skřetů."
+"Dokázal provézt káry s obilím přímo pod nosy těch odporných skřetů."
 
 #. [message]: role=Outlaw_Advisor
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:325
