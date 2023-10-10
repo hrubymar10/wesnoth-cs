@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-16 22:33-0500\n"
-"PO-Revision-Date: 2023-10-08 11:25+0200\n"
+"PO-Revision-Date: 2023-10-10 20:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5079,7 +5079,6 @@ msgstr "Hráči"
 msgid "Modifications"
 msgstr "Rozšíření"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #. [widget]: id=label
@@ -6101,7 +6100,6 @@ msgstr "Upravit nastavení hry"
 msgid "View achievements"
 msgstr "Prohlédnout si úspěchy"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #. [grid]
 #: data/gui/window/title_screen.cfg:260
 msgid "Credits"
@@ -6892,7 +6890,6 @@ msgstr "Tažení"
 msgid "Hybrid Campaign"
 msgstr "Smíšené tažení"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #: src/gui/dialogs/editor/edit_pbl.cpp:175
 msgid "Multiplayer Campaign"
 msgstr "Tažení pro více hráčů"
@@ -7397,7 +7394,6 @@ msgstr "Přidat server"
 msgid "Scenarios"
 msgstr "Scénáře"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:100
 msgid "Multiplayer Campaigns"
 msgstr "Tažení pro více hráčů"
