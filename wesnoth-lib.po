@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-07-22 22:50-0500\n"
-"PO-Revision-Date: 2023-10-08 11:20+0200\n"
+"PO-Revision-Date: 2023-10-10 20:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4571,7 +4571,6 @@ msgstr "Uživatel"
 msgid "Login:"
 msgstr "Přihlášení:"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
 #. [widget]: id=label
@@ -5518,7 +5517,6 @@ msgstr "Spustit editor map"
 msgid "Configure the game’s settings"
 msgstr "Upravit nastavení hry"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #. [grid]
 #: data/gui/window/title_screen.cfg:257
 msgid "Credits"
@@ -6746,7 +6744,6 @@ msgstr "Přidat server"
 msgid "Scenarios"
 msgstr "Scénáře"
 
-# !!!! možný konflikt ohledně velikosti tlačítka a délky textu - prověřit
 #: src/gui/dialogs/multiplayer/mp_create_game.cpp:99
 msgid "Multiplayer Campaigns"
 msgstr "Tažení pro více hráčů"
