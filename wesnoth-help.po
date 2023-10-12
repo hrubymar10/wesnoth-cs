@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-02 09:55-0500\n"
-"PO-Revision-Date: 2023-10-05 22:06+0200\n"
+"PO-Revision-Date: 2023-10-12 21:22+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4105,9 +4105,9 @@ msgstr ""
 "\n"
 "\n"
 "Pro většinu jednotek jiných než nemrtvých jsou dostupné tyto vlastnosti: "
-"<ref>dst='traits_intelligent' text='inteligentní'</ref>, "
-"<ref>dst='traits_quick' text='rychlý'</ref>, <ref>dst='traits_resilient' "
-"text='houževnatý'</ref> a <ref>dst='traits_strong' text='silný'</ref>."
+"<ref>dst='traits_intelligent' text='chytrý'</ref>, <ref>dst='traits_quick' "
+"text='rychlý'</ref>, <ref>dst='traits_resilient' text='houževnatý'</ref> "
+"a <ref>dst='traits_strong' text='silný'</ref>."
 
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:537
@@ -6317,19 +6317,17 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"<italic>text='Inteligentní'</italic> jednotky jsou velmi užitečné na začátku "
+"<italic>text='Chytré'</italic> jednotky jsou velmi užitečné na začátku "
 "tažení, neboť mohou rychle zvyšovat svoji úroveň. V pozdějších scénářích "
-"tažení již však nejsou chytré jednotky tak užitečné, neboť "
-"<italic>text='dosáhnutí maxima svých schopností (AMLA)'</italic> není až tak "
-"významná výhoda ve srovnání se zvýšením úrovně. Pokud máš hodně jednotek na "
-"hranici jejich možností, možná budeš chtít povolat jednotky s vhodnějšími "
-"vlastnostmi."
+"tažení již však tak užitečné nejsou, neboť <italic>text='dosáhnutí maxima "
+"svých schopností (AMLA)'</italic> není až tak významná výhoda ve srovnání se "
+"zvýšením úrovně. Pokud máš hodně jednotek na hranici jejich možností, možná "
+"budeš chtít povolat jednotky s vhodnějšími vlastnostmi."
 
 #. [trait]: id=intelligent
 #: data/core/macros/traits.cfg:192
 msgid "Intelligent units require 20% less experience than usual to advance."
-msgstr ""
-"Inteligentní jednotky potřebují ke svému povýšení o 20 % méně zkušeností."
+msgstr "Chytré jednotky potřebují ke svému povýšení o 20 % méně zkušeností."
 
 #. [trait]: id=resilient
 #: data/core/macros/traits.cfg:206
