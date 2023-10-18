@@ -13,11 +13,17 @@ wesnoth-tools | 99 | 64% | 35 | [waiting for #7724](https://github.com/wesnoth/w
 
 Total messages remaining: **1734**
 
-Progress since 2023-09-18: **5** messages per day
+Progress since 2023-09-18: **2** messages per day
 
-ETA: **2024-09-12**
+ETA: **2026-03-03**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
 ## wesnoth-steam
 `wesnoth-steam.po` originates from https://github.com/wesnoth/steam-meta/blob/master/po/cs.po
+
+## Add-ons
+Domain | Messages | Translated | Remaining | Translator
+------ | -------- | ---------- | --------- | ----------
+wesnoth-A_New_Order | 3227 | 86% | 450 |
+wesnoth-The_Earths_Gut | 1548 | 13% | 1344 |
