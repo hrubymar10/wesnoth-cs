@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-16 23:13-0500\n"
-"PO-Revision-Date: 2023-10-16 23:17+0200\n"
+"PO-Revision-Date: 2023-10-20 22:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7938,24 +7938,18 @@ msgstr ""
 
 #. [race]: id=raven
 #: data/core/units.cfg:353
-#, fuzzy
-#| msgid "race^Dwarves"
 msgid "race^Raven"
-msgstr "Trpaslíci"
+msgstr "Krkavec"
 
 #. [race]: id=raven
 #: data/core/units.cfg:354
-#, fuzzy
-#| msgid "race+female^Drake"
 msgid "race+female^Raven"
-msgstr "Drakonidka"
+msgstr "Krkavčice"
 
 #. [race]: id=raven
 #: data/core/units.cfg:355
-#, fuzzy
-#| msgid "race^Dwarves"
 msgid "race^Ravens"
-msgstr "Trpaslíci"
+msgstr "Krkavci"
 
 #. [race]: id=raven
 #: data/core/units.cfg:356
