@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-10-19 23:52+0200\n"
+"PO-Revision-Date: 2023-10-21 12:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4902,8 +4902,8 @@ msgid ""
 "The very earth had come alive, heaving, struggling to be relieved of its "
 "centuries-old burden..."
 msgstr ""
-"Vzdálená hřmění a otřesy země ztěžovaly stálou chůzi. Sama země ožila, "
-"obtížena, a připravena být zbavena svého staletí starého břemene..."
+"Vzdálené dunění a otřesy země ztěžovaly jistý krok. Sama země ožila, zvedala "
+"se a klesala, snažíc se zbavit svého staletého břemene..."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:381
@@ -4917,7 +4917,7 @@ msgstr "Získej Ohnivé žezlo s Konrádem nebo Lisar"
 msgid ""
 "If Delfador rests, he can concentrate on the location of the Sceptre of Fire."
 msgstr ""
-"Pokud Delfador odpočívá, tak se může soustředit na umístění Ohnivého žezlo."
+"Pokud Delfador odpočívá, tak se může soustředit na umístění Ohnivého žezla."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:492
