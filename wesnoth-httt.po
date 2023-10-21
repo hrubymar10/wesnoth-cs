@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-18 04:20 UTC\n"
-"PO-Revision-Date: 2023-10-21 12:25+0200\n"
+"PO-Revision-Date: 2023-10-21 20:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5235,7 +5235,7 @@ msgstr "Fajn, unikli jsme."
 msgid ""
 "Yes, we have. Now I suppose you want to use the Sceptre against me, Li’sar?"
 msgstr ""
-"Ano, dokázali jsme to. Soudím, že nyní hodláš to žezlo použít proti mě, "
+"Ano, dokázali jsme to. Soudím, že nyní hodláš to žezlo použít proti mně, "
 "Lisar?"
 
 #. [message]: speaker=Li'sar
@@ -5246,7 +5246,7 @@ msgid ""
 "your life."
 msgstr ""
 "Ne. Přemýšlela jsem... Nechci tě vlastně zabít. Mám, co jsem chtěla. Takže "
-"slíbíš-li, že již nikdy nepůjdeš na jih od velké řeky, ušetřím tvůj život."
+"slíbíš-li, že již nikdy nepůjdeš na jih od Velké řeky, ušetřím tvůj život."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:216
@@ -5272,8 +5272,8 @@ msgid ""
 "the north, orcs, to the south, dark hordes. We must remain at peace with one "
 "another, or else all perish!"
 msgstr ""
-"Přátelé, klid! Jsme sice venku z tunelů, nejsme však stále v bezpečí. Jsme "
-"kdesi ve vyprahlých a divokých severních krajích, a to je vše, co víme. "
+"Přátelé, klid! Jsme sice venku z tunelů, nejsme však stále v bezpečí. Jsme "
+"kdesi ve vyprahlých a divokých severních krajích a to je vše, co víme. "
 "Pohleďte: na severu skřeti, na jihu temné hordy. Nesmíme bojovat mezi sebou, "
 "sic všichni zemřeme!"
 
@@ -5318,8 +5318,8 @@ msgstr ""
 "Skutečně bychom tam měli hledat útočiště, můj pane, ale ne když půjdeme na "
 "východ podél řeky. Její jméno totiž znamená „Řeka kostí“. Na jejích březích "
 "číhají ohromné a hnusné příšery a její vody se nedají pít. Nadto teče přes "
-"útesy Thorie: jimi po staletí neprošel žádný člověk ani elf, aniž by "
-"zahynul. Ne, princi, musíme si vybrat jinou cestu."
+"útesy Thorie. Je to už mnoho staletí od té doby, co přes ně prošel člověk "
+"nebo elf, aniž zahynul. Ne, princi, musíme si vybrat jinou cestu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:248
