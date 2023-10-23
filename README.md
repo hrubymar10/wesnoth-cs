@@ -29,5 +29,5 @@ There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=lan
 ## Add-ons
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-A_New_Order | 3227 | 86% | 450 |
+wesnoth-A_New_Order | 3227 | 86% | 450 | Septim
 wesnoth-The_Earths_Gut | 1551 | 13% | 1347 |
