@@ -13,7 +13,7 @@ wesnoth-help | 702 | 99% | 1 | Michal
 wesnoth-tools | 99 | 64% | 35 | [waiting for #7724](https://github.com/wesnoth/wesnoth/issues/7724)
 wesnoth-units | 812 | 97% | 21 | Michal
 wesnoth-utbs | 2018 | 97% | 59 |
-wesnoth-wof | 813 | 90% | 76 |
+wesnoth-wof | 813 | 90% | 76 | Septim
 
 Total messages remaining: **1883**
 
@@ -30,4 +30,4 @@ There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=lan
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-A_New_Order | 3227 | 86% | 450 | Septim
-wesnoth-The_Earths_Gut | 1551 | 13% | 1347 |
+wesnoth-The_Earths_Gut | 1551 | 13% | 1347 | Septim
