@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-04-02 14:56 UTC\n"
-"PO-Revision-Date: 2023-10-24 22:24+0200\n"
+"PO-Revision-Date: 2023-10-28 11:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5609,7 +5609,7 @@ msgid ""
 "It must have been an infestation. Regardless, after returning to his own "
 "people, the sword was nothing but an invitation to disaster."
 msgstr ""
-"Musela to být nějaká přemnožená příšera. Ať tak či onak, po návratu k jeho "
+"Musely to být nějaké přemnožené příšery. Ať tak či onak, po návratu k jeho "
 "vlastnímu lidu se meč nestal ničím jiným než jen příčinou zkázy."
 
 #. [message]: speaker=Kalenz
@@ -5646,15 +5646,15 @@ msgid ""
 "Move along, elf, unless you enjoy making camp in this icy waste. I, for one, "
 "do not!"
 msgstr ""
-"Jdi, elfe, jestli tě ovšem nebaví tábořit v této ledové pustině. Mne "
-"rozhodně ne!"
+"Pokračuj v chůzi, elfe, jestli tě ovšem nebaví tábořit v této ledové "
+"pustině. Mne rozhodně ne!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:153
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:396
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:197
 msgid "Indeed..."
-msgstr "Pravda..."
+msgstr "Jistě..."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:157
@@ -5670,7 +5670,6 @@ msgstr ""
 "pravda a právo nejsou nic než svitky, jež mohou být přepsány, když už "
 "královnu omrzí?"
 
-# !!!! skrývala nebo skrýVÁvala? ověřit
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/19a_Snow_Plains.cfg:161
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:404
@@ -5682,7 +5681,7 @@ msgid ""
 "killed!"
 msgstr ""
 "Strávila jsem celé své dětství posloucháním své matky, jak dává rozkazy "
-"a velí armádám. Skrývávala jsem se v trůnní síni, když se setkávala se svými "
+"a velí armádám. Skrývala jsem se v trůnní síni, když se setkávala se svými "
 "generály. Teď vím, že nechávala zabíjet lidi... celá města lidí!"
 
 #. [message]: speaker=Li'sar
@@ -6595,8 +6594,8 @@ msgid ""
 "So long as we move ahead with caution and prudence, I am sure we will reach "
 "the safety and hospitality of the elves."
 msgstr ""
-"Pokud půjdeme kupředu obezřetně a prozíravě, jsem si jist, že dosáhneme "
-"bezpečí a pohostinnosti elfů."
+"Pokud půjdeme kupředu obezřetně a prozíravě, jsem si jist, že dosáhneme "
+"bezpečí a pohostinnosti elfů."
 
 #. [unit]: id=Telerandor, type=Elvish Rider
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:406
@@ -6654,8 +6653,8 @@ msgid ""
 "men, and are even now gathering a great host to oppose them to the north! It "
 "is now certain that there will be a great battle."
 msgstr ""
-"To ještě není všechno, můj pane. Jenom ti odporní skřeti uslyšeli o příchodu "
-"těchto mužů, a už shromažďují mocné oddíly. Chtějí se jim postavit na "
+"To ještě není všechno, můj pane. Jenom ti odporní skřeti uslyšeli o příchodu "
+"těchto mužů, a už shromažďují mocné oddíly. Chtějí se jim postavit na "
 "severu! Je nanejvýš jisté, že se blíží veliká bitva."
 
 #. [message]: speaker=Li'sar
@@ -6729,8 +6728,8 @@ msgid ""
 "My lord has begun assembling a party of elves to come and escort you into "
 "the forest. Beware, for we are all in great danger!"
 msgstr ""
-"Můj pán staví družinu elfů. Mají vás doprovodit do lesa. Dejte si pozor, "
-"všichni jsme totiž ve velikém nebezpečí!"
+"Můj pán začal shromažďovat družinu elfů. Mají vás doprovodit do lesa. Dejte "
+"si pozor, všichni jsme totiž ve velikém nebezpečí!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:493
@@ -9044,7 +9043,7 @@ msgstr ""
 #. [effect]
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:152
 msgid "flaming sword"
-msgstr "Ohnivý meč"
+msgstr "ohnivý meč"
 
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:205
