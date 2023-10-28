@@ -17,9 +17,9 @@ wesnoth-wof | 813 | 90% | 76 | Septim
 
 Total messages remaining: **1812**
 
-Progress since 2023-10-18: **9** messages per day
+Progress since 2023-10-18: **7** messages per day
 
-ETA: **2024-05-14**
+ETA: **2024-07-12**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
@@ -29,5 +29,5 @@ There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=lan
 ## Add-ons
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-A_New_Order | 3227 | 86% | 450 | Septim
+wesnoth-A_New_Order | 3227 | 88% | 382 | Septim
 wesnoth-The_Earths_Gut | 1553 | 13% | 1349 | Septim
