@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-10-23 21:34+0200\n"
+"PO-Revision-Date: 2023-10-30 22:07+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -781,11 +781,6 @@ msgstr "My máme ale příkaz držet tuto základnu!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:751
-#, fuzzy
-#| msgid ""
-#| "You have not yet seen even one-hundredth of the undead armies. This "
-#| "outpost is already lost. Your death - as heroic as I am sure it would be "
-#| "- will benefit no one. Now come, there is little time to spare."
 msgid ""
 "You have not yet seen even one-hundredth of the undead armies. This outpost "
 "is already lost. Your death — as heroic as I am sure it would be — will "
