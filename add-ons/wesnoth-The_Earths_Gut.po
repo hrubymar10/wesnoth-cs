@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-22 08:16 UTC\n"
-"PO-Revision-Date: 2023-10-30 21:29+0100\n"
+"PO-Revision-Date: 2023-10-30 21:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -544,12 +544,12 @@ msgstr ""
 #. [resistance]: id=extra_steadfast
 #: The_Earths_Gut/utils/amla.cfg:238
 msgid "extra steadfast"
-msgstr "extra vytrvalost"
+msgstr "extra vytrvalý"
 
 #. [resistance]: id=extra_steadfast
 #: The_Earths_Gut/utils/amla.cfg:239
 msgid "female^extra steadfast"
-msgstr "extra vytrvalost"
+msgstr "extra vytrvalá"
 
 #. [resistance]: id=extra_steadfast
 #: The_Earths_Gut/utils/amla.cfg:240
