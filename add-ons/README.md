@@ -5,13 +5,13 @@
 File | Messages | Translated | Translated% | Fuzzy | Untranslated
 --- | --: | --: | --: | --: | --:
 wesnoth-A_New_Order.po | 3227 | 2845| 88% | 142 | 240
-wesnoth-The_Earths_Gut.po | 1556 | 275| 17% | 6 | 1275
+wesnoth-The_Earths_Gut.po | 1561 | 313| 20% | 6 | 1242
 
 ## Totals
 
 Files | Messages | Translated | Translated% | Fuzzy | Untranslated
 --: | --: | --: | --: | --: | --:
-2 | 4783 | 3120 | 65% | 148 | 1515
+2 | 4788 | 3158 | 65% | 148 | 1482
 
 ---
 
