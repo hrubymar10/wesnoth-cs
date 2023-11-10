@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-10 10:33+0100\n"
+"PO-Revision-Date: 2023-11-10 10:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8064,7 +8064,7 @@ msgstr ""
 "pokryté děsivými, záhadnými tvary a symboly; některé jsou namalované, jiné "
 "vytetované. Někteří se domnívají, že svému druhu slouží jako vizionáři nebo "
 "věštci. Ale ať už mají jakoukoli „společenskou“ roli, jsou to nepochybně "
-"mocní uživatelé podivné magie jejich druhu, a ti, kdo se s nimi setkají, by "
+"mocní uživatelé podivné magie svého druhu, a ti, kdo se s nimi setkají, by "
 "si měli dát pozor."
 
 #. [unit_type]: id=Saurian Prophet, race=lizard
@@ -8085,7 +8085,7 @@ msgstr ""
 "pokryté děsivými, záhadnými tvary a symboly; některé jsou namalované, jiné "
 "vytetované. Někteří se domnívají, že svému druhu slouží jako vizionáři nebo "
 "proroci. Ale ať už mají jakoukoli „společenskou“ roli, jsou to nepochybně "
-"mocní uživatelé podivné magie jejich druhu."
+"mocní uživatelé podivné magie svého druhu."
 
 #. [unit_type]: id=Saurian Seer, race=lizard
 #: data/core/units/saurians/Seer.cfg:4
