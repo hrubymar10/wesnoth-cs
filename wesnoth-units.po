@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-10 10:19+0100\n"
+"PO-Revision-Date: 2023-11-10 10:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8067,24 +8067,13 @@ msgstr ""
 "mocní uživatelé podivné magie jejich druhu, a ti, kdo se s nimi setkají, by "
 "si měli dát pozor."
 
-# bylo vrhač ledu - nesedí s popisem
 #. [unit_type]: id=Saurian Prophet, race=lizard
 #: data/core/units/saurians/Prophet.cfg:4
-#, fuzzy
-#| msgid "Saurian Oracle"
 msgid "Saurian Prophet"
-msgstr "Ještěrácký věštec"
+msgstr "Ještěrácký prorok"
 
 #. [unit_type]: id=Saurian Prophet, race=lizard
 #: data/core/units/saurians/Prophet.cfg:19
-#, fuzzy
-#| msgid ""
-#| "Certain saurians are seen dressed in arcane regalia and covered head to "
-#| "toe in horrifying, esoteric shapes and markings, both with paint and "
-#| "tattoo. Some suspect them to be visionaries, or oracles amongst their "
-#| "ilk. But whatever ‘societal’ function they may have, they are undeniably "
-#| "powerful in the strange magics their kind possess, and are beings to be "
-#| "wary of if ever seen."
 msgid ""
 "Certain saurians are seen dressed in arcane regalia and covered head to toe "
 "in horrifying, esoteric shapes and markings, both with paint and tattoo. "
@@ -8095,17 +8084,13 @@ msgstr ""
 "Některé ještěráky můžeme vidět oděné v obřadní roucha a od hlavy k patě "
 "pokryté děsivými, záhadnými tvary a symboly; některé jsou namalované, jiné "
 "vytetované. Někteří se domnívají, že svému druhu slouží jako vizionáři nebo "
-"věštci. Ale ať už mají jakoukoli „společenskou“ roli, jsou to nepochybně "
-"mocní uživatelé podivné magie jejich druhu, a ti, kdo se s nimi setkají, by "
-"si měli dát pozor."
+"proroci. Ale ať už mají jakoukoli „společenskou“ roli, jsou to nepochybně "
+"mocní uživatelé podivné magie jejich druhu."
 
-# bylo věštec kolize s Oracle
 #. [unit_type]: id=Saurian Seer, race=lizard
 #: data/core/units/saurians/Seer.cfg:4
-#, fuzzy
-#| msgid "Saurian Soothsayer"
 msgid "Saurian Seer"
-msgstr "Ještěrácký prorok"
+msgstr "Ještěrácký vidoucí"
 
 #. [unit_type]: id=Saurian Seer, race=lizard
 #. [unit_type]: id=Saurian Soothsayer, race=lizard
