@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-05 11:22+0100\n"
+"PO-Revision-Date: 2023-11-10 10:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8045,7 +8045,6 @@ msgstr ""
 "nejzdatnější v umění vrhu kopím, povýšit do hodnosti oštěpařek. Díky lepšímu "
 "vybavení a výjimečné mušce není radno ještěráčské oštěpařky podceňovat."
 
-# bylo vrhač ledu - nesedí s popisem
 #. [unit_type]: id=Saurian Oracle, race=lizard
 #: data/core/units/saurians/Oracle.cfg:4
 msgid "Saurian Oracle"
@@ -8147,11 +8146,10 @@ msgstr ""
 "dodat potřebnou sílu, aby způsobili závažná zranění, a to jak nablízko, tak "
 "i při hodu."
 
-# bylo věštec kolize s Oracle
 #. [unit_type]: id=Saurian Soothsayer, race=lizard
 #: data/core/units/saurians/Soothsayer.cfg:4
 msgid "Saurian Soothsayer"
-msgstr "Ještěrácký prorok"
+msgstr "Ještěrácký jasnovidec"
 
 #. [unit_type]: id=Saurian Spearthrower, race=lizard
 #: data/core/units/saurians/Spearthrower.cfg:4
