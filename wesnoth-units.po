@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-12 09:02+0100\n"
+"PO-Revision-Date: 2023-11-12 11:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6812,6 +6812,11 @@ msgid ""
 "vivacious behavior ties them to the legacy of battle and its consequences "
 "for the living, rather than rot and the finality of the tomb."
 msgstr ""
+"Krkavci následují armády, aby hodovali na odpadcích a mrtvolách, které jsou "
+"plodem války. Proto jsou často spojováni se smrtí, válkou a osudem. Zřídka "
+"na ně někdo pomyslí v souvislosti s nekromancií, protože jejich drzé "
+"a živelné chování je spíše než s hnilobou a konečností hrobu spojuje "
+"s odkazem bitvy a jejími důsledky pro živé."
 
 #. [unit_type]: id=War Harbinger, race=raven
 #: data/core/units/monsters/Raven_Harbinger.cfg:4
@@ -6827,6 +6832,11 @@ msgid ""
 "been seen to wear crude ornaments and lead groups in a noisy chorus of calls "
 "and cries, a reliable sign that war is imminent."
 msgstr ""
+"Krkavci následují armády, aby hodovali na odpadcích a mrtvolách, které jsou "
+"plodem války. To vede k lidové moudrosti, že temní ptáci jsou zástupci "
+"nadpřirozených sil spojených s bitvami. Někteří z větších krkavců byly "
+"spatřeni, jak nosí hrubé ozdoby a vedou houfy s hlučným křikem a voláním, "
+"což je spolehlivé znamení, že se blíží válka."
 
 #. [unit_type]: id=Dark Omen, race=raven
 #: data/core/units/monsters/Raven_Omen.cfg:4
@@ -6841,6 +6851,10 @@ msgid ""
 "supernatural forces associated with conflict. The unusual abilities "
 "displayed by some have only supported this notion."
 msgstr ""
+"Krkavci následují armády, aby hodovali na odpadcích a mrtvolách, které jsou "
+"plodem války. To vede k lidové moudrosti, že temní ptáci jsou zástupci "
+"nadpřirozených sil spojených s bitvami. Neobvyklé schopnosti, které někteří "
+"z nich projevují, tuto představu jen podporují."
 
 #. [unit_type]: id=Roc, race=monster
 #: data/core/units/monsters/Roc.cfg:4
