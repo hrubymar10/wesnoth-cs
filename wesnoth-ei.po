@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-10 21:54+0100\n"
+"PO-Revision-Date: 2023-11-12 14:50+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -136,12 +136,12 @@ msgstr "Scénář 1: Taktické stažení"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:35
 msgid "Complete ‘<i>The Escape Tunnel</i>’ before the undead arrive."
-msgstr ""
+msgstr "Dokonči „<i>Únikovou chodbu</i>“ dříve než dorazí nemrtví."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:35
 msgid "Scenario 2: Speedrun"
-msgstr ""
+msgstr "Scénář 2: Časovka"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:37
@@ -149,11 +149,12 @@ msgid ""
 "Complete ‘<i>An Unexpected Appearance</i>’ without killing Mal-Tar, the dark "
 "adept."
 msgstr ""
+"Dokonči „<i>Nečekané objevení</i>“ bez zabití Mal-Tara, temného učedníka."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:37
 msgid "Scenario 3: Merciful"
-msgstr ""
+msgstr "Scénář 3: Milosrdný"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:39
@@ -574,7 +575,7 @@ msgstr "Nemrtví"
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:105
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:655
 msgid "Nakeg-alvan"
-msgstr "Nakeg-alvan"
+msgstr "Nakeg-Alvan"
 
 #. [side]: type=Dark Sorcerer, id=Mal-Talar # this guy reappears in S06b, unless he dies here
 #. [else]
@@ -599,7 +600,7 @@ msgstr "Mel Guthrak"
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:204
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1033
 msgid "Gaennell"
-msgstr ""
+msgstr "Gennella"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:227
@@ -615,6 +616,8 @@ msgstr "Přežij do konce kol"
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:298
 msgid "Move any unit to the trapdoor just outside your keep (10,15)"
 msgstr ""
+"Přesuň jakoukoli jednotku jednotku k padacím dveřím, co jsou těsně před tvou "
+"pevností (na pozici 10,15)"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:308
@@ -688,12 +691,12 @@ msgstr "Poníženě se omlouvám! Prosím, odpusť nám. Už nás nic nezadrží
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:482
 msgid "So you say."
-msgstr ""
+msgstr "Tak jak říkáš."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:530
 msgid "That is how you raise thralls, apprentice. Carry on."
-msgstr ""
+msgstr "Takhle se vychovávají otroci, učedníku. Pokračujte."
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:534
@@ -1743,7 +1746,7 @@ msgid ""
 "expedition has already led us far-too-far astray from the dunes."
 msgstr ""
 "A <i>já ti</i> říkám, že nás tohle cestování po severních krajích zabije! "
-"Roky jsem neviděla domov! Tahle tvoje výprava za „snadnými penězi“ nás už "
+"Roky jsem neviděl domov! Tahle tvoje výprava za „snadnými penězi“ nás už "
 "zavedla příliš daleko od dun."
 
 #. [message]: speaker=Gweddry
@@ -1762,13 +1765,14 @@ msgid ""
 "lands seeking the rare gwza-alswdan plant."
 msgstr ""
 "Ach, domorodci! Možná nám pomůžete! Jsem Hahid al-Ali, bylinkář mimořádných "
-"schopností, a toto je má pomocnice Safyam. Vydali jsme se do vašich zemí "
-"hledat vzácnou rostlinu zvanou gwza-alswdan."
+"schopností, a toto je můj pomocník Safyam. Vydali jsme se do vašich zemí "
+"hledat vzácnou rostlinu zvanou guvza-alsuvdan."
 
+# Asi chyby v originále.
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:452
 msgid "Why, there’s one now! Safyam, if you would."
-msgstr ""
+msgstr "Heleď, tamhle teď jedna je! Safyame, kdybys byl tak laskav."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:487
@@ -1788,7 +1792,7 @@ msgid ""
 "us? Our people have been attacked by undead and we must now fight this dark "
 "sorcerer to return home."
 msgstr ""
-"Pokud vám pomůžeme najít více tohoto „alswdanu“, podělíte se s námi o svůj "
+"Pokud vám pomůžeme najít více tohoto „alsuvanu“, podělíte se s námi o svůj "
 "lék? Náš lid byl napaden nemrtvými a my nyní musíme bojovat s tímto temným "
 "čarodějem, abychom se mohli vrátit domů."
 
@@ -1803,7 +1807,7 @@ msgid ""
 msgstr ""
 "Ho ho, snažíte se vlámat do otevřených dveří! Nevidím důvod, proč to "
 "neudělat. Ale když vám tihle nemrtví dělají takové potíže, proč na ně "
-"nezaútočit v jejich hlavním městě? Safyam ho zpozorovala nedaleko odtud na "
+"nezaútočit v jejich hlavním městě? Safyam ho zpozoroval nedaleko odtud na "
 "východ. Já se s nimi samozřejmě nechci nijak potýkat, ale jsem si jistý, že "
 "vy vojensky smýšlející lidé nebudete mít potíže s útokem na jejich hradby."
 
@@ -1814,7 +1818,7 @@ msgid ""
 "inoculate all of your men and point you in the direction of the undead "
 "fortress."
 msgstr ""
-"Pokud najdete dostatek rostlin alswdan a zaplatíte malý poplatek, rád "
+"Pokud najdete dostatek rostlin alsuvdan a zaplatíte malý poplatek, rád "
 "aplikuji vakcínu všem vašim mužům a nasměruji vás směrem k pevnosti "
 "nemrtvých."
 
@@ -1824,8 +1828,8 @@ msgid ""
 "To travel east, collect {COUNT} alswdan herbs and pay Hahid al-Ali "
 "$gold_cost gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej {COUNT} ks bylin alswdan a zaplať Hahid al-Alimu $gold_cost zlatých "
-"a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej {COUNT} ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
+"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:541
@@ -1852,14 +1856,14 @@ msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need $herbs_needed more (and $gold_cost gold) to travel east."
 msgstr ""
-"Našel jsem výhonek alswdanu a získal tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Našel jsem výhonek alsuvdanu a získal tak odolnost vůči jedu z močálu! "
+"Budeme potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), "
+"abychom mohli pokračovat na východ."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:649
 msgid "I’ve found a sprig of alswdan and am now immune to the swamp’s poison!"
-msgstr "Našel jsem výhonek alswdanu a získal tak odolnost vůči jedu z močálu!"
+msgstr "Našel jsem výhonek alsuvdanu a získal tak odolnost vůči jedu z močálu!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:701
@@ -1882,20 +1886,20 @@ msgstr ""
 msgid ""
 "Give Hahid $gold_cost gold; assault the undead fortress. <i>(challenging)</i>"
 msgstr ""
-"Zaplať Hahid al-Alimu $gold_cost zlatých a uvolni si tak <i>(náročnou)</i> "
+"Zaplatíme Hahid al-Alimu $gold_cost zlatých a získáme tak <i>(náročnou)</i> "
 "možnost zaútočit na pevnost nemrtvých"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:725
 msgid "Give Hahid nothing; return westward towards Wesnoth. <i>(normal)</i>"
 msgstr ""
-"Neplať Hahid al-Alimu nic a vrať se <i>(středně obtížnou)</i> cestou do "
-"Wesnothu"
+"Neplatíme Hahid al-Alimu nic a vrátíme se <i>(středně obtížnou)</i> cestou "
+"do Wesnothu"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:735
 msgid "Give Hahid $gold_extra gold."
-msgstr "Zaplať Hahid al-Alimu $gold_extra zlatých."
+msgstr "Zaplatíme Hahid al-Alimu $gold_extra zlatých."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:752
@@ -1916,6 +1920,10 @@ msgid ""
 "is far beyond anything we can face alone. Confronting this menace with the "
 "few soldiers we have would be foolish."
 msgstr ""
+"I když se nám je podaří najít, jak očekáváš, že porazíme nemrtvé v samém "
+"srdci jejich území? Už jsem ti říkal, že tento nepřítel je svou silou daleko "
+"za vším, čemu jsme schopni čelit sami. Konfrontovat tuto hrozbu s několika "
+"vojáky, které máme, by bylo pošetilé."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:786
@@ -1967,6 +1975,8 @@ msgid ""
 "What the-? You’re serious!? Well, forget herbalism, I need to find out more "
 "about this mystical land where men pay thrice what they owe!"
 msgstr ""
+"Co to...? To myslíš vážně!? Dobrá, zapomeňme na bylinkářství, potřebuji "
+"zjistit více o té mystické zemi, kde muži platí třikrát tolik, než mají!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:889
@@ -1974,18 +1984,23 @@ msgid ""
 "Friends, come, let us join these ‘Wesnothians’ and travel west towards the "
 "rest of their kind!"
 msgstr ""
+"Přátelé, pojďte, připojme se k těmto „wesnoťanům“ a vydejte se na západ za "
+"zbytkem jejich druhu!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:893
 msgid "What about journeying east towards the undead fortress?"
-msgstr ""
+msgstr "A co cesta na východ k pevnosti nemrtvých?"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:897
+#, fuzzy
 msgid ""
 "Oh please, I knew you wouldn’t fall for that! I just wanted something to "
 "keep those skeletons busy while we left."
 msgstr ""
+"Och, prosím, věděl jsem, že tě to ani nenapadne! Jen jsem chtěl něco, co by "
+"ty kostlivce zaměstnalo, zatímco bychom odcházeli."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:915
@@ -1993,6 +2008,8 @@ msgid ""
 "(The Dunefolk have joined you! You must now defeat Mal-Skraat and travel "
 "west. 10 turns have been added to the limit.)"
 msgstr ""
+"(Pouštní lidé se k tobě přidali! Nyní musíte porazit Mal-Skraata a "
+"pokračovat na západ. Limit scénáře byl navýšen o 10 kol.)"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:940
@@ -8721,6 +8738,8 @@ msgid ""
 "Gaennell, you traitor! <b>I</b> am your master, not some petty king of men. "
 "Return to me and face your punishment."
 msgstr ""
+"Gennello, ty zrádkyně! <b>Já</b> jsem tvůj pán, ne nějaký malicherný král "
+"lidí. Vrať se ke mně a čel svému trestu."
 
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1254
@@ -10609,7 +10628,7 @@ msgstr ""
 #. [unit_type]: id=Frontier Lieutenant, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Frontier_Lieutenant.cfg:4
 msgid "Frontier Lieutenant"
-msgstr ""
+msgstr "Pohraniční poručík"
 
 #. [unit_type]: id=Frontier Lieutenant, race=human
 #. same as regular Lieutenant's description
@@ -10622,11 +10641,16 @@ msgid ""
 "more than made up for by their superior knowledge and training in military "
 "strategy."
 msgstr ""
+"Poručíci jsou velmi uznávaní velící důstojníci lidských armád. Často je "
+"vidět, jak vedou menší nájezdy a řídí úkony na bitevních polích. Jsou "
+"cvičeni jak v boji s mečem, tak ve střelbě kuší. Nevynikají ale ani v jednom "
+"a také jsou o něco méně odolní než válečníci jiných ras. To je však více než "
+"vyváženo jejich vynikajícími znalostmi a výcvikem ve vojenské strategii."
 
 #. [unit_type]: id=Frontier Sergeant, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Frontier_Sergeant.cfg:4
 msgid "Frontier Sergeant"
-msgstr ""
+msgstr "Pohraniční seržant"
 
 #. [unit_type]: id=Frontier Sergeant, race=human
 #. same as regular Sergeant's description
@@ -10638,6 +10662,11 @@ msgid ""
 "combat means they can more effectively rouse civilians and peasants in "
 "trying situations."
 msgstr ""
+"Seržanti jsou nižšími důstojníky lidských armád. Ačkoli obdrželi teoretické "
+"vzdělání, k tomu, aby mohli uvést do praxe svoji schopnost velet, potřebují "
+"nejdříve získat nějaké bojové zkušenosti. Přesto však jejich svědomité "
+"vystupování a základní pochopení boje znamenají, že mohou v těžkých "
+"situacích účinněji zburcovat civilisty a sedláky."
 
 #. [unit_type]: id=Veteran Commander, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Commander.cfg:4
@@ -10930,7 +10959,7 @@ msgstr ""
 #. [dummy]: id=reanimation
 #: data/campaigns/Eastern_Invasion/units/Undead_Ravanal_Dread_Lich.cfg:74
 msgid "reanimation"
-msgstr ""
+msgstr "oživování"
 
 #. [dummy]: id=reanimation
 #: data/campaigns/Eastern_Invasion/units/Undead_Ravanal_Dread_Lich.cfg:75
@@ -10941,6 +10970,11 @@ msgid ""
 "weaker undead version of itself. Enemies killed by Mal-Ravanal will rise "
 "again as ghosts."
 msgstr ""
+"Tato jednotka dokáže oživovat své poražené spojence a nepřátele.\n"
+"\n"
+"Když některý z Mal-Ravanalových rekrutů zemře, tato jednotka bude znovu "
+"oživena jako slabší nemrtvá verze sebe sama. Nepřátelé zabití Mal-Ravanalem "
+"znovu povstanou jako duchové."
 
 #. [unit_type]: id=Skeletal Corpse, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Skeletal_Corpse.cfg:5
@@ -10966,7 +11000,7 @@ msgstr ""
 #. [drains]: id=greater drains
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:6
 msgid "greater drains"
-msgstr ""
+msgstr "mocné vysátí"
 
 #. [drains]: id=greater drains
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:7
@@ -10974,11 +11008,13 @@ msgid ""
 "This unit drains health from living units, healing itself for the full "
 "amount of damage it deals."
 msgstr ""
+"Tato jednotka vysává životní sílu z živých jednotek, čímž se sama léčí o "
+"celé poranění, jež útokem způsobila."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:54
 msgid "Your soul is mine!!"
-msgstr ""
+msgstr "Tvá duše je má!!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:133
@@ -11097,10 +11133,11 @@ msgstr ""
 #. [dummy]: id=terror
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:283
 msgid "terror"
-msgstr ""
+msgstr "teror"
 
 #. [dummy]: id=terror
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:284
+#, fuzzy
 msgid ""
 "This unit can frighten enemies in a 2 hex radius, making them fight worse. "
 "Units with the fearless trait are unaffected.\n"
@@ -11108,6 +11145,11 @@ msgid ""
 "When an enemy unit of lower level within a 2 hex radius engages in combat, "
 "its attacks do 25% less damage times the difference in their levels."
 msgstr ""
+"Tato jednotka může vyděsit nepřátele v okruhu 2 políček, takže bojují horší. "
+"Jednotky s nebojácnou vlastností nejsou ovlivněny.\n"
+"\n"
+"Když se do boje pustí nepřátelská jednotka nižší úrovně v okruhu 2 hex, její "
+"útoky způsobí o 25 % menší poškození krát rozdíl v jejich úrovních."
 
 #. [resistance]: id=shroud
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:521
@@ -11595,12 +11637,12 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:502
 msgid "You escaped me once before-"
-msgstr ""
+msgstr "Už jsi mi jednou utekl..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:550
 msgid "-but NEVER AGAIN!!!"
-msgstr ""
+msgstr "… ale NIKDY VÍCE!!!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:561
@@ -11744,12 +11786,12 @@ msgstr ""
 #. [message]: speaker=spirit
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:860
 msgid "<i>THE MAW OPENS ITS JAWS.</i>"
-msgstr ""
+msgstr "<i>CHŘTÁN OTVÍRÁ SVÉ ČELISTI.</i>"
 
 #. [message]: speaker=spirit2
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:876
 msgid "<i>DARKNESS CONSUMES THE SOUL.</i>"
-msgstr ""
+msgstr "<i>TEMNOTA POŽÍRÁ DUŠI.</i>"
 
 #. [item_dialog]: description={ITEM_DESC}
 #. [item_dialog_musttake]
@@ -11757,13 +11799,13 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1008
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1162
 msgid "Take it."
-msgstr ""
+msgstr "Vzít."
 
 #. [item_dialog]: description={ITEM_DESC}
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:37
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1009
 msgid "Leave it."
-msgstr ""
+msgstr "Nechat být."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:117
 msgid ""
@@ -11773,6 +11815,11 @@ msgid ""
 "i></span>\n"
 "<b></b>"
 msgstr ""
+"<span size='small'><i> Tento předmět lze upustit (pomocí nabídky po pravém "
+"kliknutí myši) a je znovu použitelný, pokud jeho nositel zemře.</i></span>\n"
+"<span size='small'><i> Sebrání předmětu spotřebuje pohyby a útok jednotky.</"
+"i></span>\n"
+"<b></b>"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:122
 msgid ""
@@ -11782,14 +11829,19 @@ msgid ""
 "i></span>\n"
 "<b></b>"
 msgstr ""
+"<span size='small'><i> Tento předmět <b>nelze</b> upustit a <b>není</b> "
+"znovu použitelný, pokud jeho uživatel zemře.</i></span>\n"
+"<span size='small'><i> Sebrání předmětu spotřebuje pohyby a útok jednotky.</"
+"i></span>\n"
+"<b></b>"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:136
 msgid "quiver"
-msgstr ""
+msgstr "toulec"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:137
 msgid "Crystal Quiver"
-msgstr ""
+msgstr "Křišťálový toulec"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:138
 msgid ""
@@ -11797,14 +11849,17 @@ msgid ""
 "<i><b>illuminating</b></i> the surrounding area and making your bow or "
 "crossbow attacks <i><b>arcane</b></i>."
 msgstr ""
+"Šípy z tohoto krystalového toulce se třpytí bledým magickým světlem, "
+"<i><b>osvětlují</b></i> okolí a mění útoky z luku nebo kuše nositele na "
+"<i><b>nezemské</b></i>."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:174
 msgid "Drop Crystal Quiver"
-msgstr ""
+msgstr "Odložit Křišťálový toulec"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:194
 msgid "amulet"
-msgstr ""
+msgstr "amulet"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:195
 msgid "Holy Amulet"
@@ -11818,10 +11873,8 @@ msgid ""
 msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:220
-#, fuzzy
-#| msgid "Holy Amulet"
 msgid "Drop Holy Amulet"
-msgstr "Svatý amulet"
+msgstr "Odložit Svatý amulet"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:234
 msgid "sentinel"
@@ -11914,11 +11967,11 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:735
 msgid "ring"
-msgstr ""
+msgstr "prsten"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:736
 msgid "Ring of Invisibility"
-msgstr ""
+msgstr "Prsten neviditelnosti"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:737
 msgid ""
@@ -11926,14 +11979,17 @@ msgid ""
 "<i><b>skirmisher</b></i> and <i><b>nightstalk</b></i>, becoming invisible in "
 "the dark."
 msgstr ""
+"Tento obyčejný zlatý prsten vypadá nevýrazně, ale jeho nositel získá "
+"schopnost <i><b>průbojnost</b></i> a <i><b>noční lovec</b></i>, čímž se "
+"stává ve tmě neviditelným."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:761
 msgid "Drop Ring of Invisibility"
-msgstr ""
+msgstr "Odložit Prsten neviditelnosti"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:775
 msgid "staff"
-msgstr ""
+msgstr "hůl"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:790
 msgid "Plague Staff"
@@ -11977,7 +12033,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:967
 msgid "Gwza-Alswdan"
-msgstr ""
+msgstr "Guvza-Alsuvdan"
 
 #. [item_dialog]: description={ITEM_DESC}
 #. [item_dialog_musttake]
@@ -12046,7 +12102,7 @@ msgstr ""
 #. [item_dialog_musttake]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1156
 msgid "Elixir of Haste"
-msgstr ""
+msgstr "Elixír rychlosti"
 
 #. [item_dialog_musttake]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1158
@@ -12074,7 +12130,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1232
 msgid "Elixir of Fury"
-msgstr ""
+msgstr "Elixír zuřivosti"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1233
 msgid ""
@@ -12103,28 +12159,28 @@ msgstr ""
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:8
 msgid "audacious"
-msgstr ""
+msgstr "neohrožený"
 
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:9
 msgid "Fights normally during unfavorable times of day/night"
-msgstr ""
+msgstr "V nepříznivých denních či nočních dobách bojuje bez ovlivnění"
 
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:10
 msgid ""
 "Aversion to light and dark holds no sway over these audacious individuals."
-msgstr ""
+msgstr "Averze ke světlu či tmě nemá nad těmito smělými jedinci žádnou moc."
 
 #. [trait]: id=deserter
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:20
 msgid "deserter"
-msgstr ""
+msgstr "dezertér"
 
 #. [trait]: id=deserter
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:21
 msgid "female^deserter"
-msgstr ""
+msgstr "dezertérka"
 
 #. [trait]: id=deserter
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:22
@@ -12132,11 +12188,13 @@ msgid ""
 "When this unit drops below half health, it will flee the battle and reappear "
 "on your recall list."
 msgstr ""
+"Když její zdraví klesne pod polovinu, uteče tato jednotka z bitvy a znovu se "
+"objeví na tvém povolávacím seznamu."
 
 #. [message]: speaker=${UNIT}.id
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:48
 msgid "Forget this!"
-msgstr ""
+msgstr "Zapomeň na to!"
 
 #. [message]: speaker=${UNIT}.id
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:55
@@ -12153,12 +12211,12 @@ msgstr ""
 #. [trait]: id=mercenary
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:91
 msgid "mercenary"
-msgstr ""
+msgstr "zištný"
 
 #. [trait]: id=mercenary
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:92
 msgid "female^mercenary"
-msgstr ""
+msgstr "zištná"
 
 #. [trait]: id=mercenary
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:93
@@ -12166,6 +12224,10 @@ msgid ""
 "<span color='#00FF00'>+30%</span> base damage when gold is positive.\n"
 "<span color='#FF0000'>-30%</span> base damage when gold is 0 or negative."
 msgstr ""
+"<span color='#00FF00'>+30 %</span> k poškození, když je bilance zlata "
+"kladná.\n"
+"<span color='#FF0000'>-30 %</span> k poškození, když je bilance zlata 0 nebo "
+"záporná."
 
 #. [trait]: id=survivor
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:143
