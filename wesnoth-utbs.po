@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-10-30 22:19+0100\n"
+"PO-Revision-Date: 2023-11-13 23:52+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16498,17 +16498,13 @@ msgstr ""
 
 #. [leadership]: id=inspire
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1494
-#, fuzzy
-#| msgid "Pulsing Spire"
 msgid "inspire"
-msgstr "Pulzující kužel"
+msgstr "povzbuzuje"
 
 #. [leadership]: id=inspire
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1495
-#, fuzzy
-#| msgid "female^support"
 msgid "female^inspire"
-msgstr "podporující"
+msgstr "povzbuzuje"
 
 #. [leadership]: id=inspire
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1496
@@ -16517,6 +16513,10 @@ msgid ""
 "better. Adjacent own units of lower or equal level will deal 25% more damage "
 "plus 25% for each level they are below the inspiring unit."
 msgstr ""
+"Tato jednotka může povzbuzovat vlastní sousedící jednotky k lepším bojovým "
+"výkonům. Tyto sousedící jednotky na stejné nebo nižší úrovni uštědří o 25 % "
+"větší poškození a k tomu o dalších 25 % za každou úroveň, o kterou jsou níže "
+"než jednotka povzbuzující."
 
 #. [leadership]: id=inspire
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1497
@@ -16524,6 +16524,9 @@ msgid ""
 "The presence of this unit inspires own units next to it to deal more damage "
 "in combat, though this only applies to units of lower or equal level."
 msgstr ""
+"Přítomnost této jednotky povzbuzuje vlastní sousedící jednotky, které tak "
+"způsobují svými útoky větší poškození. To však platí pouze pro jednotky na "
+"stejné nebo nižší úrovni."
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1508
 msgid "cooldown 1"
