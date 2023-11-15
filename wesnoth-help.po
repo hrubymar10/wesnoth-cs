@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 09:02-0500\n"
-"PO-Revision-Date: 2023-11-12 10:45+0100\n"
+"PO-Revision-Date: 2023-11-15 21:41+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6658,7 +6658,7 @@ msgstr ""
 #. [damage]: id=arcane_damage
 #: data/core/macros/weapon_specials.cfg:208
 msgid "arcane"
-msgstr ""
+msgstr "nezemský"
 
 #. [damage]: id=arcane_damage
 #: data/core/macros/weapon_specials.cfg:209
@@ -6666,6 +6666,8 @@ msgid ""
 "This attack combines the arcane type with the type of weapon used so that "
 "resistance to the arcane type does not penalize the user."
 msgstr ""
+"Tento útok v sobě skládá nezemský druh zranění se zraněním použité zbraně, "
+"takže odolnost proti nezemskému uživatele nepoškozuje."
 
 #. [damage]: id=arcane_damage
 #: data/core/macros/weapon_specials.cfg:210
@@ -6673,6 +6675,8 @@ msgid ""
 "This unit can use the arcane type when the opponent is particularly "
 "sensitive to it in relation to the weapon on which it is applied."
 msgstr ""
+"Tato jednotka může použít nezemský druh zranění, pokud je na něj protivník "
+"citlivější při porovnání se zbraní, na kterou je použit."
 
 #: data/core/units.cfg:4
 msgid ""
