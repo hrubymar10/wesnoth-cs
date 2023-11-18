@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:02 UTC\n"
-"PO-Revision-Date: 2023-11-14 20:45+0100\n"
+"PO-Revision-Date: 2023-11-18 09:04+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -920,8 +920,8 @@ msgid ""
 "I hope so, for the sake of peace and the safety of our people. For now, "
 "however, we must content ourselves with pressing onward toward Kal Kartha."
 msgstr ""
-"Doufám v to, v zájmu míru a bezpečnosti našich druhů. Prozatím se však "
-"musíme spokojit s tím, že se propracováváme ke Kal Karthě."
+"Doufám v to, v zájmu míru a bezpečnosti našich druhů. Prozatím se však "
+"musíme spokojit s tím, že se propracováváme ke Kal Karthě."
 
 #. [scenario]: id=05_Fear
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:5
@@ -996,8 +996,8 @@ msgid ""
 "<i>Quiet, dirtgrubber. Ye’ll not cry for help from these newcomers, else "
 "I’ll torture yer family ta death bef’re yer eyes.</i>"
 msgstr ""
-"<i>Drž pysk, hlíhohrabe. U těch nově příchozích žebrákovat vo pomoc nebudeš! "
-"Nebo zařídim, aby ses musel koukat, jak tvou rodinu umořim k smrti.</i>"
+"<i>Drž pysk, hlínohrabe. U těch nově příchozích žebrákovat vo pomoc nebudeš! "
+"Nebo zařídim, aby ses musel koukat, jak tvou rodinu umořim k smrti.</i>"
 
 #. [message]: role=peasantry
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:259
@@ -1030,7 +1030,7 @@ msgid ""
 "Fellow dwarves, hail! Kinsman Movrur, are ye back so soon from your journey "
 "to Knalga?"
 msgstr ""
-"Zdravím kamarádi trpaslíci! To ses brzy vrátil ze své cesty do Knalgy, "
+"Zdravím, kamarádi trpaslíci! To ses brzy vrátil ze své cesty do Knalgy, "
 "bráško Movrure..."
 
 #. [message]: speaker=Movrur
@@ -1222,8 +1222,8 @@ msgid ""
 "We of Kal Kartha have no reason to give these foul orcs any of our hard-"
 "earned gold, if that is what you are insinuating, <i>loremaster</i>."
 msgstr ""
-"My z Kal Karthy nemáme důvod podstrkovat takovým špinavým skřetům byť jen "
-"jediný z našich těžce vydělaných zlaťáků. Pokud narážíš na tohle, "
+"My z Kal Karthy nemáme důvod podstrkovat takovým špinavým skřetům byť jen "
+"jediný z našich těžce vydělaných zlaťáků. Pokud narážíš na tohle, "
 "<i>obřadníku</i>."
 
 #. [message]: speaker=Aiglondur
