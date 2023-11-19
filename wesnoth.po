@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 09:02-0500\n"
-"PO-Revision-Date: 2023-11-18 07:32+0100\n"
+"PO-Revision-Date: 2023-11-19 11:36+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8364,7 +8364,7 @@ msgstr "Druh zranění: "
 
 #: src/reports.cpp:902
 msgid "Damage versus: "
-msgstr "Poškození proti: "
+msgstr "Zranění proti: "
 
 #: src/reports.cpp:964
 msgid "Accuracy:"
