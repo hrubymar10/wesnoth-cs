@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-12 11:23+0100\n"
+"PO-Revision-Date: 2023-11-19 13:49+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6894,7 +6894,7 @@ msgstr ""
 #. [attack]: type=impact
 #: data/core/units/monsters/Roc.cfg:75
 msgid "rock"
-msgstr ""
+msgstr "kámen"
 
 #. [unit_type]: id=Rock Scorpion, race=monster
 #: data/core/units/monsters/Rock_Scorpion.cfg:4
@@ -7024,7 +7024,7 @@ msgstr ""
 #. [unit_type]: id=Shadow Jumping Spider, race=monster
 #: data/core/units/monsters/Shadow_Jumping_Spider.cfg:4
 msgid "Shadow Jumping Spider"
-msgstr ""
+msgstr "Stínová skákavka"
 
 #. [unit_type]: id=Shadow Jumping Spider, race=monster
 #: data/core/units/monsters/Shadow_Jumping_Spider.cfg:29
@@ -7041,6 +7041,17 @@ msgid ""
 "wanderers on the ground below. While they prefer the shadows, they are "
 "perfectly capable of hunting in the broad daylight."
 msgstr ""
+"Na rozdíl od obávaného obřího pavouka, který k chycení kořisti používá jed "
+"a pavučiny, se stínová skákavka spoléhá na rychlost a moment překvapení. "
+"Tito nenápadní lovci s bystrýma očima se k oběti připlíží a pak po ní skočí "
+"s kousnutím, o kterém se říká, že prorazí ocel. Jakmile pavouci proniknou "
+"obranou své oběti, vezmou si veškerou dostupnou potravu a živí se tak rychle "
+"a nelítostně, jak přísluší jejich přirozenosti.\n"
+"\n"
+"Tito obří skákaví pavouci často loví ve stejných temných jeskyních jako "
+"jejich příbuzní, kteří tkají pavučiny, ale slídí také v korunách stromů "
+"a přepadávají nešťastné poutníky dole na zemi. Ačkoli dávají přednost stínu, "
+"jsou dokonale schopni lovit i za plného denního světla."
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:4
@@ -7184,6 +7195,10 @@ msgid ""
 "these great wolves are usually faster and hardier, making even just a single "
 "one a grave threat to an unwary traveler."
 msgstr ""
+"Někteří vlci mohou dorůstat zvlášť velkých rozměrů, což jim dodává nezvykle "
+"divoký vzhled. Tito velcí vlci sice nejsou o moc silnější než běžní vlci, "
+"ale obvykle jsou rychlejší a odolnější, takže i jeden takový představuje pro "
+"nepozorného pocestného vážnou hrozbu."
 
 #. [unit_type]: id=Yeti, race=monster
 #: data/core/units/monsters/Yeti.cfg:4
