@@ -10,15 +10,14 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-ei | 1817 | 36% | 1145 | Septim
 wesnoth-tools | 99 | 64% | 35 | [waiting for POT update after #7724](https://github.com/wesnoth/wesnoth/issues/7724)
-wesnoth-units | 812 | 99% | 8 | Michal
 wesnoth-utbs | 2018 | 97% | 55 | Michal
 wesnoth-wof | 813 | 93% | 50 | Septim
 
-Total messages remaining: **1293**
+Total messages remaining: **1285**
 
-Progress since 2023-10-18: **18** messages per day
+Progress since 2023-10-18: **17** messages per day
 
-ETA: **2024-01-29**
+ETA: **2024-02-03**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
