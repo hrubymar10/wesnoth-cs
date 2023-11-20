@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-19 13:49+0100\n"
+"PO-Revision-Date: 2023-11-20 20:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1026,27 +1026,27 @@ msgstr "bola"
 #. [effect]: type=blade
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:124
 msgid "taunting strike"
-msgstr ""
+msgstr "výsměšný úder"
 
 #. [advancement]: id=run_by_taunt
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:145
 msgid "Run By (Taunting strike)"
-msgstr ""
+msgstr "Únik (výsměšný úder)"
 
 #. [advancement]: id=strength_training
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:158
 msgid "Strength Training"
-msgstr ""
+msgstr "Silový trénink"
 
 #. [advancement]: id=bowmanship_training
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:170
 msgid "Bowmanship Training"
-msgstr ""
+msgstr "Výcvik lukostřelby"
 
 #. [advancement]: id=strong_shots
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:187
 msgid "Strong Shots"
-msgstr ""
+msgstr "Silné výstřely"
 
 #. [advancement]: id=Bowman
 #. [unit_type]: id=Bowman, race=human
@@ -1058,17 +1058,17 @@ msgstr "Lučištník"
 #. [advancement]: id=piercing_shot
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:216
 msgid "Piercing Shot"
-msgstr ""
+msgstr "Průbojná střela"
 
 #. [effect]: type=pierce
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:224
 msgid "piercing shot"
-msgstr ""
+msgstr "průbojná střela"
 
 #. [effect]: type=pierce
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:528
 msgid "Rain of arrows"
-msgstr ""
+msgstr "Déšť šípů"
 
 #. [unit_type]: id=Blood Bat, race=bats
 #: data/core/units/bats/Bat_Blood.cfg:4
