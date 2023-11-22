@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-11-20 11:23-0600\n"
-"PO-Revision-Date: 2023-11-21 23:11+0100\n"
+"PO-Revision-Date: 2023-11-22 20:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -23,6 +23,8 @@ msgid ""
 "Launch GUI.pyw in the specified language. Language code is expected as a "
 "POSIX locale name, refer to gettext.wesnoth.org for a full list."
 msgstr ""
+"Spustit GUI.pyw v daném jazyce. Jako kód jazyka je očekáván název národního "
+"prostředí, úplný seznam nalezneš na gettext.wesnoth.org."
 
 #: data/tools/GUI.pyw:87 data/tools/GUI.pyw:101 data/tools/GUI.pyw:1404
 #: data/tools/GUI.pyw:1453 data/tools/GUI.pyw:1496 data/tools/GUI.pyw:1525
@@ -102,7 +104,7 @@ msgstr "Normální"
 #. TRANSLATORS: Tooltip explanation for normal run mode.
 #: data/tools/GUI.pyw:661 data/tools/GUI.pyw:1081
 msgid "Perform conversion and save changes to file"
-msgstr ""
+msgstr "Provést převod a uložit změny do souboru"
 
 #: data/tools/GUI.pyw:664 data/tools/GUI.pyw:1084
 msgid "Dry run"
@@ -111,7 +113,7 @@ msgstr ""
 #. TRANSLATORS: Tooltip explanation for dry run mode.
 #: data/tools/GUI.pyw:673 data/tools/GUI.pyw:1093
 msgid "Perform conversion without saving changes to file"
-msgstr ""
+msgstr "Provést převod bez uložení změn do souboru"
 
 #: data/tools/GUI.pyw:676
 msgid "Clean"
@@ -487,19 +489,3 @@ msgstr "Opravdu chceš skončit?"
 #: data/tools/GUI.pyw:1973
 msgid "This application must be placed into the wesnoth/data/tools directory."
 msgstr "Tato aplikace musí být umístěna do adresáře wesnoth/data/tools."
-
-#~ msgid "LANGUAGE"
-#~ msgstr "JAZYK"
-
-#~ msgid ""
-#~ "Launch GUI.pyw in the given language. Language code must follow ISO 15897 "
-#~ "(e.g. en_GB)."
-#~ msgstr ""
-#~ "Spustit GUI.pyw v daném jazyce. Kód jazyka musí odpovídat normě ISO 15897 "
-#~ "(např. cs_CZ)."
-
-#~ msgid "Perform file conversion"
-#~ msgstr "Provést převod souborů"
-
-#~ msgid "Do not perform changes"
-#~ msgstr "Neprovádět změny"
