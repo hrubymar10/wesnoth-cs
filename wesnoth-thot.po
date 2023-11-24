@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-24 11:26+0100\n"
+"PO-Revision-Date: 2023-11-24 11:28+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1853,7 +1853,7 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:289
 msgid ""
 "Where <i>is</i> Karrag? We can’t have been more than seconds behind him."
-msgstr "Kde <i>je</i> Karrag? Nemůže mít před námi moc velký náskok."
+msgstr "Kde Karrag <i>je</i>? Nemůže mít před námi moc velký náskok."
 
 # zamaskoval tam nesedí, kamufláž také ne
 #. [message]: speaker=Angarthing
