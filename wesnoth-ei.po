@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-16 22:36+0100\n"
+"PO-Revision-Date: 2023-11-25 00:25+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -201,6 +201,7 @@ msgstr "Scénář 5: Lidový hrdina"
 msgid ""
 "Defeat the necromancer in ‘<i>Undead Crossing</i>’ before rescuing Dolburras."
 msgstr ""
+"Poraz v „<i>Brodě nemrtvých</i>“nekromanta dřív, než zachráníš Dolburrase."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:47
@@ -2171,6 +2172,8 @@ msgid ""
 "Bah, I didn’t need your help! Sooner or later, I would have gotten out of "
 "this cage on my own."
 msgstr ""
+"Phe, nepotřeboval jsem vaši pomoc! Dřív nebo později bych se z téhle klece "
+"dostal sám."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:366
@@ -2196,7 +2199,7 @@ msgstr ""
 msgid ""
 "Vengeance upon the undead! I will make them pay for the abuse they’ve "
 "inflicted upon us!"
-msgstr ""
+msgstr "Pomstu nemrtvým! Donutím je zaplatit za to, jak nás týrali!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:384
@@ -2209,6 +2212,8 @@ msgid ""
 "Truly you are heroes of legend to have fought so deep past the undead! I am "
 "forever in your debt."
 msgstr ""
+"Jste vskutku legendární hrdinové, když jste se probojovali tak hluboko do "
+"nemrtvých linií! Jsem vám navždy zavázán."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:427
@@ -2306,7 +2311,7 @@ msgstr "Přišli jste sem přihnojit náš močál, vy hloupé pytle masa?"
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:661
 msgid "Did you really think that your crude weapons would work?"
-msgstr ""
+msgstr "Opravdu jste si mysleli, že vaše humpolácké zbraně budou fungovat?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:665
@@ -2727,11 +2732,13 @@ msgid ""
 "Every outlaw posse got a leader. Tear up enough cellars and he’ll turn up, "
 "then take him out and the rest’ll run for the hills."
 msgstr ""
+"Každý banda psanců má svého vůdce. Když rozkopete dost sklepů, objeví se. "
+"Pak ho sejmete a ostatní utečou za kopečky."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:603
 msgid "Like your mercenary band did?"
-msgstr ""
+msgstr "Tak jako tvoje žoldácká tlupa?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:610
@@ -2783,6 +2790,8 @@ msgid ""
 "There is no more need for me to concentrate on this spell. However, we still "
 "need to deal with the adept."
 msgstr ""
+"Už se nemusím soustředit na to kouzlení. Musíme se ale ještě vypořádat s "
+"učedníkem."
 
 #. [message]: speaker=Rilaka
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:795
@@ -2818,30 +2827,29 @@ msgid ""
 "Gweddry, thank you for your aid. I place my Clansmen and myself at your "
 "service."
 msgstr ""
+"Hurá!! Kéž jsou to první z mnoha nemrtvých, kteří budou zadupáni pod našimi "
+"kopyty! Gweddry, děkuji ti za pomoc. Dávám se ti do služby včetně svých "
+"členů klanu."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:869
 msgid "Now let us free these villagers from the outlaws terrorizing them!"
-msgstr ""
+msgstr "A teď osvoboďme tyto vesničany od psanců, co je terorizují!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:911
-#, fuzzy
-#| msgid ""
-#| "Well, both the outlaws and undead are defeated. We have some time to "
-#| "spare now before more undead arrive."
 msgid ""
 "Now that both the outlaws and undead are defeated, we finally have some time "
 "to rest."
 msgstr ""
-"Dobře, jak bandité, tak nemrtví jsou poraženi. Máme teď nějaký čas k dobru, "
-"než dorazí další nemrtví."
+"Teď, když jsou jak bandité, tak nemrtví poraženi, máme konečně trochu času "
+"na odpočinek."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:915
 msgid ""
 "Good. Now leave me in peace while I consider how to combat this invasion."
-msgstr ""
+msgstr "Dobrá. A teď mě nerušte, budu zvažovat, jak bojovat proti této invazi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:932
@@ -2854,6 +2862,8 @@ msgid ""
 "Mage, pull your nose out of your books for a moment, would you? Gweddry and "
 "I have some questions about this invasion you speak of."
 msgstr ""
+"Mágu, mohl bys na chvíli vystrčit nos z těch svých knih? Já a Gweddry máme "
+"nějaké otázky ohledně téhle invaze, o které furt mluvíš."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:957
@@ -2861,6 +2871,8 @@ msgid ""
 "Back at the undead capital, the lich Mal-Ravanal referred to you as an old "
 "friend. What history is there between you?"
 msgstr ""
+"Předtím, tam u hlavního města nemrtvých o tobě lich Mal-Ravanal mluvil jako "
+"o starém příteli. Co se mezi vámi stalo?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:964
@@ -2868,6 +2880,8 @@ msgid ""
 "What do you know of the dread lich they called Mal-Ravanal? Back at the "
 "southern outpost, you purposely hid yourself to avoid being seen."
 msgstr ""
+"Co víš o strašlivém lichovi, kterému říkali Mal-Ravanal? Na jižní základně "
+"ses záměrně schoval, abys nebyl spatřen."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:980
@@ -2875,6 +2889,8 @@ msgid ""
 "I suppose you have a right to know of the adversary we face. I will tell you "
 "about Mal-Ravanal."
 msgstr ""
+"Předpokládám, že máte právo vědět, jakému protivníkovi čelíme. Povím vám o "
+"Mal-Ravanalovi."
 
 #. [message]: speaker=Dacyn
 #. Dacyn is an unreliable narrator, he only tells events the way he interprets them but not necessarily as an absolute truth
@@ -2887,18 +2903,16 @@ msgid ""
 "only a small piece of cryptic advice, that avoiding this calamity would "
 "require a peerless wisdom to harness the use of tremendous power."
 msgstr ""
+"Na sklonku vlády Haldrika VII. přišla do Weldynu sylfa z Lintanirského lesa. "
+"Mluvila o tom, že se objevila moc, která hrozí zkazit největší mágy Wesnothu "
+"a nakonec přivést celé království do zkázy. Nabídla jen malou záhadnou radu, "
+"že vyhnout se této pohromě bude požadovat bezkonkurenční moudrost. Jen tou "
+"bude možné tuto obrovskou sílu zkrotit."
 
 #. [message]: speaker=Dacyn
 #. Ravan is also of an unspecified gender, and not assumed to be only human
 #. Same as Mal-Ravanal, translations can prefer plural pronouns or language default pronoun if the former is not possible
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:993
-#, fuzzy
-#| msgid ""
-#| "In all the land, there were two magi that clearly stood out from the "
-#| "rest. A mage from the east named Ravan, and myself. The King, wishing to "
-#| "choose the best advisor, sent us both before Galdren. Then he conversed "
-#| "with the seer privately. None know what was said, but when he came out he "
-#| "announced that the seer was dead, and he had chosen me as his new advisor."
 msgid ""
 "Thus, the King decided to seek this peerless savant. In all the land, there "
 "were two magi that clearly stood out from the rest. Myself, and my good "
@@ -2907,11 +2921,12 @@ msgid ""
 "privately. None know what was said, but when he came out he announced that "
 "the seer was dead, and he had... chosen... me as his new advisor."
 msgstr ""
-"V celé krajině byli jen dva mágové světla, kteří převyšovali všechny "
-"ostatní. Mág z východu jménem Ravan a já. Král si chtěl vybrat toho "
-"nejlepšího rádce, proto nás oba poslal za Geldrem. Pak si s vidoucím "
-"promluvil o samotě. O čem si povídali, to nikdo neví, ale když se vrátil, "
-"ohlásil, že vidoucí je mrtev a vybral si mne jako svého nového rádce."
+"Král se proto rozhodl vyhledat takového vynikajícího učence. V celé zemi "
+"byli dva mágové, kteří jasně vyčnívali nad ostatními. Já a můj dobrý přítel "
+"Ravan, mág z východu. Král si přál vybrat nejlepšího rádce, a tak nás oba "
+"poslal před Galdrena. Pak si s věštcem promluvil v soukromí. Nikdo neví, o "
+"čem si povídali, ale když král vyšel ven, oznámil, že věštec je mrtvý a že "
+"si... vybral... jako svého nového rádce mě."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:997
@@ -2920,6 +2935,10 @@ msgid ""
 "more of a blow than I had realized. We drifted apart for a long while, and "
 "several years passed without my seeing my once close friend."
 msgstr ""
+"Ravan to přijal celkem klidně, alespoň jsem si to myslel, ale musela to být "
+"větší rána, než jsem se domníval. Na dlouhou dobu jsme se od sebe vzdálili. "
+"Uplynulo několik let, během kterých jsem svého kdysi blízkého přítele "
+"neviděl."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1006
@@ -2931,6 +2950,12 @@ msgid ""
 "now, in hindsight, but I made the long journey north in the darkness of "
 "winter to the sanctuary and its hidden chambers."
 msgstr ""
+"Jednoho dne jsem dostal vzkaz. Ravan mě zval na sever přes Velkou řeku a za "
+"Listru, do starobylé svatyně, kterou jsme kdysi v mládí společně "
+"prozkoumávali. Tehdy jsem si ještě myslel, že Ravan je můj přítel a vážený "
+"mág Světla, a tak jsem mu vyhověl. Teď, když se na to dívám zpětně, to zní "
+"hloupě, ale vskutku jsem se na tu dlouhou cestu na sever ke svatyni a jejím "
+"skrytým komnatám během temné zimy vydal."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1010
@@ -2944,6 +2969,13 @@ msgid ""
 "I knew I was obliged to do whatever was necessary to excise this evil from "
 "the world."
 msgstr ""
+"Ještě teď mám tu strašnou scénu vypálenou v paměti. Už v prvních okamžicích "
+"jsem z té zahalené postavy cítil pachuť černé magie. Ravanovu kdysi jasnou "
+"auru zahalila neproniknutelná temnota, hustá, silná a plná hrůzy. Než jsem "
+"se stačil vzpamatovat, ožily kolem mě chraplavé a děsivé hlasy, proud "
+"odporných zaklínadel, jejichž kakofonický zvuk mi drápal a rozdíral tělo i "
+"duši. V tu chvíli jsem věděl, že jsem povinen udělat vše, co je nutné, abych "
+"toto zlo sprovodil ze světa."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1014
@@ -3021,7 +3053,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1064
 msgid ""
 "Peace, friends. You both speak wisely. Allow me to cast the deciding vote."
-msgstr ""
+msgstr "Klid, přátelé. Oba mluvíte moudře. Dovolte mi rozhodnout."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1068
@@ -3089,7 +3121,7 @@ msgstr ""
 #. [scenario]: id=06a_Undead_Crossing
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:8
 msgid "Undead Crossing"
-msgstr "Křižovatka nemrtvých"
+msgstr "Brod nemrtvých"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:21
@@ -3135,12 +3167,12 @@ msgstr "Poraz Mal-un-Karada"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:145
 msgid "Rescue Dolburras before he drowns"
-msgstr ""
+msgstr "Zachraň Dolburrase dřív než se utopí"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:163
 msgid "Dolburras will take damage every turn until freed."
-msgstr ""
+msgstr "Dokud nebude osvobozen, utrží Dolburras každé kolo zranění."
 
 #. [unit]: id=Dolburras, type=Dwarvish Steelclad
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:179
@@ -3249,7 +3281,7 @@ msgstr ""
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:334
 msgid "Glug... glug..."
-msgstr ""
+msgstr "Glo… glo..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:351
@@ -3278,8 +3310,9 @@ msgstr ""
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:391
+#, fuzzy
 msgid "By the Clans! Do these undead mean to conquer all the world?"
-msgstr ""
+msgstr "U klanů! Nechtějí tihle nemrtví dobýt celý svět?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:395
@@ -3294,6 +3327,8 @@ msgstr ""
 msgid ""
 "Kinna hardly go back ta Knalga with all them undead about! Aye, I’ll join ye."
 msgstr ""
+"Těžko projít zpátky do Knalgy se těma všema nemrtvákama vokolo! Takže jasně, "
+"přidám se k vám."
 
 #. [message]: speaker=Mal-un-Karad
 #. "Wake" doesn’t mean "raise undead" here. The reinforcements are sea creatures, they're alive but hidden underwater.
@@ -3378,34 +3413,32 @@ msgstr "Mal-Mana"
 #. [side]: type=Death Knight, id=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:377
 msgid "Naken-alvak"
-msgstr ""
+msgstr "Naken-Alvak"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:437
 msgid "West Barracks"
-msgstr ""
+msgstr "Západní kasárna"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:438
 msgid "East Barracks"
-msgstr ""
+msgstr "Východní kasárna"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:439
 msgid "Citadel"
-msgstr ""
+msgstr "Citadela"
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:440
 msgid "Temple"
-msgstr ""
+msgstr "Chrám"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:483
-#, fuzzy
-#| msgid "Move Dacyn to the stronghold"
 msgid "Move any unit to the northern path."
-msgstr "Dacyn dosáhne pevnosti"
+msgstr "Přesuň jakoukoli jednotku na severní cestu"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:489
@@ -3413,6 +3446,8 @@ msgid ""
 "Defeat as many enemy leaders as possible before turns run out (easier next "
 "scenario)."
 msgstr ""
+"Poraz co nejvíce nepřátelských vůdců, než vyprší počet kol (pro snazší další "
+"scénář)"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:500
@@ -3427,7 +3462,7 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:549
 msgid "The air is filled with smoke. I fear the town is already lost."
-msgstr ""
+msgstr "Vzduch je plný kouře. Obávám se, že město již padlo."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:553
@@ -3490,7 +3525,7 @@ msgstr ""
 #. [message]: speaker=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:600
 msgid "Intruders... living men... from the southeast..."
-msgstr ""
+msgstr "Nějaký vetřelci..., živáci…, jdou z jihovýchodu..."
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:607
@@ -3498,11 +3533,13 @@ msgid ""
 "Ah, it’s the garrison that escaped me back at that border outpost. They "
 "won’t get lucky again this time!"
 msgstr ""
+"Ach, to je ta posádka, co mi utekla z té hraniční základny. Tentokrát "
+"nebudou mít štěstí!"
 
 #. [message]: speaker=Mal-Mana
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:614
 msgid "And see who is among them! I shall inform Mal-Ravanal at once."
-msgstr ""
+msgstr "A koukej, kdo je mezi nimi! Okamžitě budu informovat Mal-Ravanala."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:666
@@ -3510,6 +3547,8 @@ msgid ""
 "Dacyn, is that you again? So this is where you ran off to. I would recognize "
 "your nauseating aura anywhere."
 msgstr ""
+"Dacyne, to jsi zase ty? Takže sem jsi utekl. Tvou odpornou auru bych poznal "
+"kdekoli."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:670
@@ -3518,6 +3557,9 @@ msgid ""
 "to see the results of all my long years of research. I guess it can wait a "
 "little longer."
 msgstr ""
+"Měl bych tě hned teď zbavit tvého utrpení, ale zase jsem chtěl, abys viděl "
+"výsledky všech mých dlouhých let výzkumu. Myslím, že to může ještě chvíli "
+"počkat."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:694
@@ -3525,11 +3567,13 @@ msgid ""
 "Well then, I know you’ll miss me, so here’s a little going-away present for "
 "you and your friends."
 msgstr ""
+"Nu dobrá. Vím, že ti budu chybět, takže tady je malý dárek pro tebe a tvé "
+"přátele."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:755
 msgid "That’s almost all the undead leaders defeated!"
-msgstr ""
+msgstr "Skoro všichni vůdci nemrtvých jsou poraženi!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:771
@@ -3537,11 +3581,13 @@ msgid ""
 "Who commands this garrison? Time is short. We must evacuate what’s left of "
 "your men before—"
 msgstr ""
+"Kdo velí této posádce? Není dost času. Musíme evakuovat všechny, co zbyli z "
+"vašich mužů předtím než..."
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:775
 msgid "Owaec? Is that you?"
-msgstr ""
+msgstr "Owaecu? Jsi to ty?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:779
@@ -3880,7 +3926,7 @@ msgstr ""
 #. [scenario]: id=07b_Ogre_Crossing
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:6
 msgid "Ogre Crossing"
-msgstr "Křižovatka obrů"
+msgstr "Brod obrů"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:17
@@ -3901,7 +3947,7 @@ msgstr "Grug"
 #. [side]: type=Saurian Ambusher, id=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:100
 msgid "Izziasch"
-msgstr ""
+msgstr "Izziáš"
 
 #. [side]: type=Saurian Ambusher, id=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:109
@@ -3919,7 +3965,7 @@ msgstr "Severní výspa"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:193
 msgid "Defeat Izziasch"
-msgstr ""
+msgstr "Poraz Izziáše"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:197
@@ -4157,7 +4203,7 @@ msgstr "Xenofobie"
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:26
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:30
 msgid "<b><span color='#00cc99'>Part II: The Wildlands</span></b>"
-msgstr ""
+msgstr "<b><span color='#00cc99'>Část II: Divočina</span></b>"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:31
