@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-25 00:25+0100\n"
+"PO-Revision-Date: 2023-11-30 23:50+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.4.1\n"
 
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
@@ -2302,6 +2302,8 @@ msgid ""
 "Gratitude to you and yours, pious warriors! Now let us join forces to free "
 "my companions and cleanse this place in holy fire!"
 msgstr ""
+"Díky tobě i vám všem, zbožní válečníci! Nyní spojme síly, abychom osvobodili "
+"mé společníky a očistili toto místo svatým ohněm!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:624
@@ -2987,6 +2989,12 @@ msgid ""
 "inconvenience to one so skilled in the mystic arts, and that Ravan’s spirit "
 "would return one day..."
 msgstr ""
+"Ještě než stihl dokončit zaklínadlo, sebral jsem veškerou svou sílu a "
+"rozerval Ravanovo fyzické tělo. Ale i když jsem byl svědkem toho, jak maso a "
+"krev shořely na prach, z popelavých kostí povstal temný stín a rozptýlil se "
+"po celé svatyni. Tehdy jsem věděl, že smrt bude pro někoho tak zkušeného v "
+"mystických uměních pouhou nepříjemností a že Ravanův duch se jednoho dne "
+"vrátí..."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1027
@@ -2994,6 +3002,8 @@ msgid ""
 "As it has now, to finally fulfill the prophecy that the Sylph spoke of all "
 "those years ago."
 msgstr ""
+"Stejně jako nyní, aby se konečně naplnilo proroctví, o kterém před lety "
+"mluvila ta sylfa."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1031
@@ -3003,6 +3013,10 @@ msgid ""
 "now. We must travel north, away from Wesnoth, back to the sanctuary where I "
 "had defeated Ravan once before."
 msgstr ""
+"Ano, ale naděje ještě není ztracena. Po opětovném zvážení této záležitosti "
+"jsem došel k závěru. V současném stavu nemám sílu Mal-Ravanala porazit. "
+"Musíme se vydat na sever, pryč z Wesnothu, zpět do svatyně, kde jsem Ravana "
+"kdysi porazil."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1035
@@ -3010,6 +3024,8 @@ msgid ""
 "And leave our countrymen to fend for themselves in a time of war? This does "
 "not sit right with me."
 msgstr ""
+"A nechat naše krajany, aby se o sebe v době války sami postarali? To se mi "
+"nelíbí."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1039
@@ -3019,6 +3035,11 @@ msgid ""
 "it is spilled, the more their strength grows. Only by using the power from "
 "the sanctuary to destroy the Lich can we find salvation."
 msgstr ""
+"Pokud se nám nepodaří Mal-Ravanala porazit, žádné naše úsilí nebude stačit "
+"na to, abychom se postavili nekonečným armádám mrtvých. V našich žilách "
+"proudí jen konečné množství krve a čím více jí prolijeme, tím více vzroste "
+"jejich síla. Přinést spásu nám může jedině použití moci ze svatyně ke "
+"zničení licha."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1043
@@ -3026,6 +3047,8 @@ msgid ""
 "Far though this journey may take us, if it is necessary to defeating this "
 "great evil, we have no choice but to make it."
 msgstr ""
+"I když nás tahle cesta může zavést daleko, tak pokud je nezbytná k porážce "
+"tohoto velkého zla, nemáme jinou možnost než ji vykonat."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1052
@@ -3033,6 +3056,8 @@ msgid ""
 "Very well. The Great River can be crossed near Soradoc. We could reach the "
 "garrison there, contact the Crown, and gather supplies for our journey."
 msgstr ""
+"Velmi dobře. Velkou řeku lze překročit nedaleko Soradoku. Mohli bychom se "
+"tam dostat k posádce, kontaktovat se s Korunou a získat zásoby na cestu."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1056
@@ -3041,6 +3066,9 @@ msgid ""
 "taken the city itself. We should avoid that battle and cross the Great River "
 "further east, behind the undead lines."
 msgstr ""
+"Mezi námi a Soradokem je celá armáda nemrtvých. Možná už dokonce obsadili "
+"samotné město. Měli bychom se vyhnout této bitvě a překročit Velkou řeku dál "
+"na východ, za liniemi nemrtvých."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1060
@@ -4254,7 +4282,7 @@ msgstr ""
 #. [side]: type=Naga Centurion, id=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:208
 msgid "Naga"
-msgstr ""
+msgstr "Nágy"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:264
@@ -4489,7 +4517,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:549
 msgid "For the Chief!"
-msgstr ""
+msgstr "Za Náču!"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:562
@@ -4530,12 +4558,13 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:608
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1574
 msgid "{AMOUNT} gold"
-msgstr ""
+msgstr "{AMOUNT} zlatých"
 
+# {RACE} nejde inteligentně přeložit
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:617
 msgid "These {RACE} have a pile of {AMOUNT} gold pieces!"
-msgstr ""
+msgstr "Tihle tu mají {AMOUNT} zlatých!"
 
 #. [message]: speaker=Bagork
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:646
@@ -4550,7 +4579,7 @@ msgstr "Nepravděpodobné."
 #. [message]: speaker=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:666
 msgid "Chief Dra-Nak will hear of this!"
-msgstr ""
+msgstr "Náčelník Dra-Nak se o tomhle dozví!"
 
 #. [message]: speaker=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:677
@@ -4682,12 +4711,12 @@ msgstr "Drakonidé"
 #. [side]: type=Sky Drake, id=Kegra
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:105
 msgid "Kegra"
-msgstr ""
+msgstr "Kegra"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:178
 msgid "Beasts"
-msgstr ""
+msgstr "Šelmy"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:246
@@ -4731,7 +4760,7 @@ msgstr "Přesuň Gruga vedle nepřátelského obra"
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:725
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:272
 msgid "It is winter, daytime is shorter"
-msgstr ""
+msgstr "Je zima, den je kratší"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:489
@@ -5154,7 +5183,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:608
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2164
 msgid "Goblin Leader"
-msgstr ""
+msgstr "Vůdce goblinů"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:666
@@ -6459,7 +6488,7 @@ msgstr "Vězni zdrhají! Pojďte sem a zastavte je!"
 #. [message]: speaker=Rakkha
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1466
 msgid "Protect the Chief!"
-msgstr ""
+msgstr "Chraňte náčelníka!"
 
 #. [message]: speaker=Varrak-Klar
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1470
@@ -9058,7 +9087,7 @@ msgstr ""
 #. [message]: speaker=Nakeg-alvan
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1867
 msgid "You waste... your effort..."
-msgstr ""
+msgstr "Plýtváte... svou snahou..."
 
 #. [message]: speaker=Halrod
 #. [message]: speaker=Halric
@@ -9083,19 +9112,17 @@ msgstr ""
 #. [message]: speaker=Mal-Xakralan
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1895
 msgid "Mal-Ravanal will make you suffer for this!"
-msgstr ""
+msgstr "Mal-Ravanal se postará, abyste za tohle trpěli!"
 
 #. [message]: speaker=Mal-Analla
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1919
 msgid "No! I was supposed to... become immortal..."
-msgstr ""
+msgstr "Ne! Měl jsem... se stát nesmrtelným..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1935
-#, fuzzy
-#| msgid "Now I will never get promoted!"
 msgid "No! Now I will never have my revenge..."
-msgstr "Teď už mě nikdy nepovýší!"
+msgstr "Ne! Teď už nikdy nedosáhnu své pomsty..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1945
@@ -9142,36 +9169,33 @@ msgid ""
 "Lieutenant Gweddry, you are familiar with the situation, and you know both "
 "Owaec and Dacyn well. Whose plan do you suggest I follow?"
 msgstr ""
+"Poručíku Gweddry, máš povědomost o situaci a dobře znáš Owaeca i Dacyna. Čí plán mi "
+"navrhuješ následovat?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2011
-#, fuzzy
-#| msgid "I have. I think we should..."
 msgid "I think we should..."
-msgstr "Ano. Myslím, že bychom měli..."
+msgstr "Myslím, že bychom měli..."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2013
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2067
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2129
-#, fuzzy
-#| msgid "challenge Mal-Ravanal to a duel."
 msgid "challenge Mal-Ravanal to a duel. <i>(normal)</i>"
-msgstr "... vyzvat Mal-Ravanala k duelu."
+msgstr ""
+"zvolit <i>(středně obtížnou)</i> možnost a vyzvat Mal-Ravanala na souboj."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2017
-#, fuzzy
-#| msgid "I will send the message at once."
 msgid "I agree. Dacyn, send the message at once."
-msgstr "Pošlu mu nyní zprávu."
+msgstr "Souhlasím. Dacyne, okamžitě odešli vzkaz."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2027
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2081
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2143
 msgid "defeat Mal-Ravanal in pitched battle. <i>(challenging)</i>"
-msgstr ""
+msgstr "zvolit <i>(náročnou)</i> možnost a porazit Mal-Ravanala v přímé bitvě."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2031
@@ -9278,10 +9302,9 @@ msgstr ""
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2183
-#, fuzzy
-#| msgid "challenge Mal-Ravanal to a duel."
 msgid "challenge Mal-Ravanal to a duel. <i>(regular)</i>"
-msgstr "... vyzvat Mal-Ravanala k duelu."
+msgstr ""
+"zvolit <i>(středně obtížnou)</i> možnost a vyzvat Mal-Ravanala na souboj."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2197
@@ -9783,29 +9806,23 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:229
-#, fuzzy
-#| msgid ""
-#| "Nor is our work yet complete. Mal-Ravanal’s host has been broken, but in "
-#| "its wake chaos and disorder prevail throughout the countryside."
 msgid ""
 "Alas, our work is not yet complete. Mal-Ravanal’s host has been broken, but "
 "in its wake, chaos and disorder prevail throughout the countryside. We will "
 "be years... decades... recovering from the ill wrought here."
 msgstr ""
-"Naše práce není ještě u konce. Hlavní voj Mal-Ravanala byl poražen. Ale ve "
-"všech končinách země stále trvá chaos a bezpráví, které vyvolal."
+"Bohužel, naše práce ještě není u konce. Mal-Ravanalova horda byla zničena, "
+"ale po celé krajině, kudy prošla, vládne chaos a nepořádek. Budeme se "
+"roky... desetiletí... zotavovat z toho špatného, co se zde stalo."
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:233
-#, fuzzy
-#| msgid ""
-#| "Even now we should be sending our troops to restore order throughout the "
-#| "land."
 msgid ""
 "Even now we should be sending what’s left of our armies to restore order "
 "throughout the land."
 msgstr ""
-"Teď bychom měli co nejdříve vyslat naše jednotky, aby obnovily zákon v zemi."
+"Teď bychom měli vyslat to, co zbylo z našich armád, abychom v celé zemi "
+"obnovili pořádek."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:244
@@ -9851,10 +9868,9 @@ msgstr ""
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:293
-#, fuzzy
-#| msgid "Grug say new home will make thanks with."
 msgid "(bowing clumsily) Grug say new home will make thanks with."
-msgstr "Grug říkat nový domov je dobrá poděkování."
+msgstr ""
+"<i>(nemotorně se uklání)</i> Grug říkat nový domov je dobrá poděkování."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:316
@@ -10202,10 +10218,8 @@ msgstr ""
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:243
-#, fuzzy
-#| msgid "Grug"
 msgid "Grugnuk"
-msgstr "Grug"
+msgstr "Grugnuk"
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:545
@@ -10560,20 +10574,18 @@ msgstr ""
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1429
-#, fuzzy
-#| msgid "Kill them all!"
 msgid "Now kill them all."
-msgstr "Zabijte je všechny!"
+msgstr "A teď je všechny zabijte."
 
 #. [message]: speaker=Unik
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1544
 msgid "But Chief, the necromancers already paid us! We can’t just-"
-msgstr ""
+msgstr "Ale náčelníku, nekromanti už nám zaplatili! Nemůžem prostě jen..."
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1548
 msgid "Then I’ll kill them all too! I’m done working with others!"
-msgstr ""
+msgstr "Tak je taky všechny zabiju! Končím s ostatními!"
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1564
@@ -10669,31 +10681,35 @@ msgstr ""
 #. [unit_type]: id=Gate, race=mechanical
 #: data/campaigns/Eastern_Invasion/units/Gate.cfg:5
 msgid "Gate"
-msgstr ""
+msgstr "Brána"
 
 #. [unit_type]: id=Gate, race=mechanical
 #: data/campaigns/Eastern_Invasion/units/Gate.cfg:9
 msgid "An old gate, poorly maintained but of sturdy construction."
-msgstr ""
+msgstr "Stará, špatně udržovaná, ale bytelná brána."
 
 #. [unit_type]: id=Banneret, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Banneret.cfg:4
 msgid "Banneret"
-msgstr ""
+msgstr "Korouhevník"
 
 #. [unit_type]: id=Banneret, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Banneret.cfg:19
+#, fuzzy
 msgid ""
 "The few lancers who survive for long enough invariably find themselves "
 "commanding companies of their own. Still clad in minimal armor, they ride "
 "with even greater speed, charging into battle and leading from the forefront "
 "of any conflict."
 msgstr ""
+"Těch pár lancerů, kteří přežijí dostatečně dlouho, se vždy ocitne ve velení "
+"své vlastní společnosti. Stále oblečeni v minimálním brnění jezdí s ještě "
+"větší rychlostí, vrhají se do bitvy a vedou z čela jakéhokoli konfliktu."
 
 #. [unit_type]: id=Fallen Mage, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Fallen_Mage.cfg:10
 msgid "Fallen Mage"
-msgstr ""
+msgstr "Padlý mág"
 
 #. [unit_type]: id=Fallen Mage, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Fallen_Mage.cfg:25
@@ -10702,6 +10718,8 @@ msgid ""
 "understand. Even the greatest and wisest can be bound in service of such a "
 "darkness."
 msgstr ""
+"V tomto světě jsou temné síly, kterým lidstvo nikdy nemělo přijít na kloub. "
+"I ti největší a nejmoudřejší mohou být spoutáni ve službě takové temnotě."
 
 #. [dummy]
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Fallen_Mage.cfg:63
@@ -10772,7 +10790,7 @@ msgstr ""
 #. [unit_type]: id=Veteran Commander, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Commander.cfg:4
 msgid "Veteran Commander"
-msgstr ""
+msgstr "Zkušený velitel"
 
 #. [unit_type]: id=Veteran Commander, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Commander.cfg:30
@@ -10783,11 +10801,16 @@ msgid ""
 "the freshest of recruits to strike strategically against impossible odds and "
 "emerge victorious."
 msgstr ""
+"Navzdory tomu, že Gweddry nemá formální hodnost, vyzařuje z něj více "
+"vůdcovských schopností a zkušeností než z mnoha dvakrát starších velitelů. "
+"Jeho chytrost a taktické schopnosti byly zdokonaleny v nesčetných bitvách, "
+"což mu umožňuje řídit i ty nejčerstvější rekruty, aby strategicky zasáhli "
+"proti nemožné přesile a dosáhli vítězství."
 
 #. [unit_type]: id=Veteran Lieutenant, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Lieutenant.cfg:4
 msgid "Veteran Lieutenant"
-msgstr ""
+msgstr "Zkušený poručík"
 
 #. [unit_type]: id=Veteran Lieutenant, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Lieutenant.cfg:29
@@ -10798,6 +10821,11 @@ msgid ""
 "crossbow is not to be underestimated either, nor is the speed with which he "
 "can move despite his heavy armor."
 msgstr ""
+"Kdysi nezkušený Gweddry je nyní veteránem mnoha bitev. Jeho chytrost a "
+"taktické schopnosti mu umožňují řídit i ty nejčerstvější rekruty tak, aby "
+"strategicky zasáhli a dosáhli vítězství. Nelze podceňovat ani jeho "
+"dovednosti v boji s dlouhým mečem a kuší, stejně jako rychlost, s kterou se "
+"dokáže pohybovat navzdory své těžké zbroji."
 
 #. [unit_type]: id=King of Wesnoth, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Konrad_King_of_Wesnoth.cfg:4
@@ -10814,6 +10842,12 @@ msgid ""
 "maneuver across the battlefield much faster than their gilded plate would "
 "suggest."
 msgstr ""
+"Králové procházejí důkladným výcvikem v bojovém umění. Někdy je to "
+"z nutnosti, častěji to však je odvozené z tradice toho, jak jejich předkové "
+"ve válkách bohatli. Vybaveni zbrojí vyrobenou tak zručně, že by jim ji "
+"záviděli i mnozí trpasličí kováři, jsou tito panovníci na těžkou zbroj dobře "
+"adaptováni a dokáží v ní manévrovat po bojišti mnohem rychleji, než by se z "
+"jejich pozlacených plátů zdálo."
 
 #. [attack]: type=fire
 #: data/campaigns/Eastern_Invasion/units/Human_Konrad_King_of_Wesnoth.cfg:38
@@ -10823,7 +10857,7 @@ msgstr "ohnivé žezlo"
 #. [unit_type]: id=Mounted Warrior  # use the old id so we don't break old saves, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Clan_Captain.cfg:4
 msgid "Clan Captain"
-msgstr ""
+msgstr "Kapitán klanu"
 
 #. [unit_type]: id=Mounted Warrior  # use the old id so we don't break old saves, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Clan_Captain.cfg:26
@@ -10833,13 +10867,17 @@ msgid ""
 "opponents will quake at the sight of a horse charge spearheaded by one of "
 "these fearless riders."
 msgstr ""
+"Každý z těchto hrdých šlechticů, budoucích vůdců jezdeckých klanů, je "
+"zkušený v boji a dodržuje přísný kodex cti. I ti nejvytrvalejší protivníci "
+"se třesou při pohledu na jízdní útok vedený jedním z těchto neohrožených "
+"jezdců."
 
 #. [attack]: type=impact
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Clan_Captain.cfg:47
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Horse_Lord.cfg:48
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Princeling.cfg:47
 msgid "greathammer"
-msgstr ""
+msgstr "velké kladivo"
 
 #. [unit_type]: id=Horse Lord, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Owaec_Horse_Lord.cfg:4
@@ -10962,7 +11000,7 @@ msgstr ""
 #. [attack]: type=blade
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:32
 msgid "blade"
-msgstr ""
+msgstr "čepel"
 
 #. [attack]: type=blade
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:41
@@ -10977,7 +11015,7 @@ msgstr ""
 #. [unit_type]: id=Ancient Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Ancient.cfg:4
 msgid "Ancient Ogre"
-msgstr ""
+msgstr "Prastarý obr"
 
 #. [unit_type]: id=Ancient Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Ancient.cfg:30
@@ -10986,11 +11024,14 @@ msgid ""
 "woses. They usually live among their own kind in the wilderness, but can be "
 "highly loyal to those few they trust."
 msgstr ""
+"Prastaří obři svou výškou převyšují mnohé stromové lidi a disponují "
+"pověstnou sílou. Obvykle žijí mezi svými vlastními druhy v divočině, ale "
+"mohou být velmi oddaní i k těm několika málo jiným tvorům, kterým důvěřují."
 
 #. [unit_type]: id=Great Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Great.cfg:4
 msgid "Great Ogre"
-msgstr ""
+msgstr "Obrovitý obr"
 
 #. [unit_type]: id=Great Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Great.cfg:27
@@ -10999,6 +11040,8 @@ msgid ""
 "While they can be easily outrun or outsmarted, their strength is not to be "
 "underestimated."
 msgstr ""
+"Obrovití obři jsou veliké bytosti žijící v divočině a většinou samotářsky. I "
+"když jsou nemotorní a docela hloupí, jejich síla se nesmí podceňovat."
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Horse_Barrow_Wight.cfg:4
@@ -11093,6 +11136,9 @@ msgid ""
 "of their servants’ necromantic energy, reanimating a new — albeit weaker — "
 "minion."
 msgstr ""
+"Když je kostlivý bojovník poražen, jeho oživující energie se někdy zcela "
+"nevytratí. Obzvláště zkušený lich dokáže zachytit zbytky nekromantské "
+"energie svých služebníků a oživit tak nového, byť slabšího služebníka."
 
 #. [unit_type]: id=Skeletal Soulless, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Skeletal_Soulless.cfg:5
@@ -11136,6 +11182,8 @@ msgid ""
 "This attack is exceptionally swift. When this attack is used on offense, the "
 "opponent will be unable to retaliate."
 msgstr ""
+"Tento útok je mimořádně rychlý. Pokud je tento útok použit ofenzivně, "
+"protivník není schopen odvety."
 
 #. [attacks]: id=shock
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:152
@@ -11182,11 +11230,19 @@ msgid ""
 "Deals an additional 25% damage for each adjacent ally and/or enemy after the "
 "first."
 msgstr ""
+"Tato jednotka nejlépe bojuje v ohnisku bitvy, obklopena přáteli i "
+"nepřáteli.\n"
+"\n"
+"Za každého sousedícího spojence a/nebo nepřítele způsobí jednotka o 25 % "
+"větší zranění."
 
 #. [special_note]
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:233
+#, fuzzy
 msgid "This unit gains increased damage for each adjacent ally and/or enemy."
 msgstr ""
+"Tato jednotka získá zvýšené poškození za každého sousedícího spojence a/nebo "
+"nepřítele."
 
 #. [illuminates]: id=darkens
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:243
@@ -11361,6 +11417,8 @@ msgid ""
 "Unfortunate. Gweddry has fought with me since the very beginning, only to "
 "fall so close to the end."
 msgstr ""
+"Jak nešťastné! Gweddry se mnou bojoval od samého začátku, aby nakonec padl "
+"tak těsně před koncem."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:84
@@ -11446,6 +11504,8 @@ msgid ""
 "Truly, you have proven that there is goodness within all of us. I pledge "
 "that your sacrifice will not be in vain!"
 msgstr ""
+"Skutečně jste dokázal, že dobro je v každém z nás. Slibuji, že tvá oběť "
+"nebude marná!"
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:243
