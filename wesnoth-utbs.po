@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-11-20 17:23 UTC\n"
-"PO-Revision-Date: 2023-11-30 20:20+0100\n"
+"PO-Revision-Date: 2023-12-01 09:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -52,6 +52,10 @@ msgid ""
 "Quenoth elves include units that can attack several times per turn, and "
 "others that can move after attacking."
 msgstr ""
+"Poznámka: Toto tažení mění některé standardní mechanismy jako střídání dne "
+"a noci, náklady na povolávání a obecný přístup k úrovním obtížnosti. "
+"Quenothští elfové mají jednotky, které dokážou útočit několikrát za kolo, "
+"a další, jež se mohou po útoku přesunout."
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:24
@@ -15001,7 +15005,7 @@ msgstr "magie"
 #. Only displayed in debug mode
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Corrupted_Elf.cfg:78
 msgid "defeated"
-msgstr ""
+msgstr "poražený"
 
 #. [unit_type]: id=Divine Avatar, race=quenoth
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Divine_Avatar.cfg:4
@@ -15704,18 +15708,18 @@ msgstr "Silnější úchop"
 #. [advancement]: id=overwhelming_power
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:255
 msgid "Overwhelming Power"
-msgstr ""
+msgstr "Nesmírná síla"
 
 #. [advancement]: id=stamina_training
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:280
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:580
 msgid "Stamina Training"
-msgstr ""
+msgstr "Výcvik výdrže"
 
 #. [advancement]: id=endurance_training
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:295
 msgid "Endurance Training"
-msgstr ""
+msgstr "Vytrvalostní průprava"
 
 #. [advancement]: id=skirmisher
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:315
@@ -15733,17 +15737,17 @@ msgstr "Výcvik s bolou"
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:354
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:676
 msgid "Slow"
-msgstr ""
+msgstr "Pomalu"
 
 #. [advancement]: id=opportunist
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:374
 msgid "Opportunist"
-msgstr ""
+msgstr "Prospěchář"
 
 #. [advancement]: id=inspiring
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:388
 msgid "Inspiring"
-msgstr ""
+msgstr "Povzbuzující"
 
 #. [advancement]: id=accurate_strikes
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:425
@@ -15768,7 +15772,7 @@ msgstr "Výcvik lukostřelby"
 #. [advancement]: id=quickdraw
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:490
 msgid "Quickdraw"
-msgstr ""
+msgstr "Rychlé natažení"
 
 #. [advancement]: id=ranger
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:502
@@ -15788,7 +15792,7 @@ msgstr "Jedovatý déšť"
 #. [advancement]: id=twin_arrows
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:566
 msgid "Twin Arrows"
-msgstr ""
+msgstr "Dvojité šípy"
 
 #. [advancement]: id=footwork
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:595
@@ -15798,7 +15802,7 @@ msgstr "Práce nohou"
 #. [advancement]: id=run_by_bolas
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:664
 msgid "Run By (Bolas)"
-msgstr ""
+msgstr "Únik (bola)"
 
 #. [advancement]: id=bolaship
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:696
@@ -15813,7 +15817,7 @@ msgstr "Bylinkářství"
 #. [advancement]: id=run_by_sword_and_bow
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:727
 msgid "Run By (Sword and Bow)"
-msgstr ""
+msgstr "Únik (meč a luk)"
 
 #. [unit_type]: id=Quenoth Youth, race=quenoth, description={QUENOTH_YOUTH_DESCRIPTION}
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:860
@@ -16432,7 +16436,7 @@ msgstr "omámená"
 #. [dummy]: id=opportunist
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1375
 msgid "opportunist"
-msgstr ""
+msgstr "prospěchář"
 
 #. [dummy]: id=opportunist
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1376
@@ -16495,11 +16499,11 @@ msgstr ""
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1508
 msgid "cooldown 1"
-msgstr ""
+msgstr "zklidnění 1"
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1511
 msgid "cooldown 2"
-msgstr ""
+msgstr "zklidnění 2"
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1514
 msgid "After using this attack, you can't use it during your next turn."
@@ -16512,7 +16516,7 @@ msgstr ""
 #. [dummy]: id=pierce
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1577
 msgid "pierce"
-msgstr ""
+msgstr "průpich"
 
 #. [dummy]: id=pierce
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1578
@@ -16526,7 +16530,7 @@ msgstr ""
 #. [dummy]: id=puncture
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1640
 msgid "puncture"
-msgstr ""
+msgstr "průraz"
 
 #. [dummy]: id=puncture
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1641
@@ -16540,7 +16544,7 @@ msgstr ""
 #. [dummy]: id=rain_of_arrows
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1716
 msgid "rain of arrows"
-msgstr ""
+msgstr "déšť šípů"
 
 #. [dummy]: id=rain_of_arrows
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1717
