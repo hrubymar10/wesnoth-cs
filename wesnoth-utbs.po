@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-11-20 17:23 UTC\n"
-"PO-Revision-Date: 2023-12-01 09:01+0100\n"
+"PO-Revision-Date: 2023-12-02 19:27+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16156,6 +16156,11 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "night, and as if it were day when it is dusk."
 msgstr ""
+"Když je tato schopnost po užití útoku vtělené slunce aktivní, osvětluje tato "
+"jednotka okolí po dobu tří kol.\n"
+"\n"
+"Všechny jednotky sousedící s touto jednotkou budou bojovat, jako by byl "
+"soumrak, když je noc, a jako by byl den, když je soumrak."
 
 #. [illuminates]: id=illumination_song_verse
 #. A similar string exists in the textdomain wesnoth-help
@@ -16164,6 +16169,8 @@ msgid ""
 "Illumination increases the lighting level in adjacent areas. This effect "
 "lasts for three turns after activation."
 msgstr ""
+"Osvětlení zvyšuje úroveň světla na přilehlých polích. Tento účinek trvá tři "
+"kola po aktivaci."
 
 #. [disable]: id=once_per_turn
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:365
@@ -16228,6 +16235,9 @@ msgid ""
 "when the first verse was sung in the previous turn. If this was the last "
 "verse, then the first verse will be available in the next turn."
 msgstr ""
+"Toto je druhá sloka Písně východu slunce. Je dostupná pouze tehdy, když byla "
+"v předchozím kole zazpívána první sloka. Pokud to byla poslední sloka, pak "
+"bude první sloka k mání v dalším kole."
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:612
 msgid ""
@@ -16444,6 +16454,8 @@ msgid ""
 "This ability makes Kaleh attack enemies with single strike of bolas when "
 "they leave his zone of control."
 msgstr ""
+"Tato schopnost umožňuje Kalehovi útočit na nepřátele jedním úderem bolou, "
+"když opustí jeho oblast kontroly."
 
 #. [dummy]: id=taunt
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1448
@@ -16454,6 +16466,8 @@ msgstr "výsměch"
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1449
 msgid "Taunts the enemy making them try to attack Kaleh for one turn."
 msgstr ""
+"Vysmívá se nepříteli, a tím ho nutí, aby se po dobu jednoho kola pokoušel na "
+"Kaleha zaútočit."
 
 #. [dummy]: id=taunted
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1484
@@ -16464,6 +16478,8 @@ msgstr "po výsměchu"
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1485
 msgid "This unit is taunted by Kaleh, it will try to attack him for one turn."
 msgstr ""
+"Této jednotce se Kaleh vysmál, bude se na něj snažit po dobu jednoho kola "
+"útočit."
 
 #. [leadership]: id=inspire
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1494
@@ -16507,11 +16523,11 @@ msgstr "zklidnění 2"
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1514
 msgid "After using this attack, you can't use it during your next turn."
-msgstr ""
+msgstr "Po užití tohoto útoku jej nemůžeš použít v dalším kole."
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1517
 msgid "After using this attack, you can't use it during your next two turns."
-msgstr ""
+msgstr "Po užití tohoto útoku jej nemůžeš použít během následujících dvou kol."
 
 #. [dummy]: id=pierce
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1577
@@ -16566,6 +16582,8 @@ msgid ""
 "Every time Nym hits an enemy she gains +10% accuracy and 10% parry until the "
 "end of the combat."
 msgstr ""
+"Pokaždé, když Nym zasáhne nepřítele, získá až do konce boje +10 % přesnosti "
+"a 10 % vykrývání."
 
 #: data/campaigns/Under_the_Burning_Suns/utils/character-definitions.cfg:5
 msgid "Kaleh"
