@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-03 22:20-0600\n"
-"PO-Revision-Date: 2023-11-19 11:34+0100\n"
+"PO-Revision-Date: 2023-12-05 20:27+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -674,10 +674,8 @@ msgstr "Vietnamský překlad"
 
 #. [about]
 #: data/core/about_i18n.cfg:1872
-#, fuzzy
-#| msgid "Polish Translation"
 msgid "Welsh Translation"
-msgstr "Polský překlad"
+msgstr "Velšský překlad"
 
 # RACV je nějaká univerzita vydávající direktivy ohledně vývoje jazyka, v rozporu se státem nebo něco takového, je kolem toho dost politiky, víc nevím.
 # Každopádně RACV představuje zkratku instituce, proto tato forma.
