@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2023-12-07 19:47+0100\n"
+"PO-Revision-Date: 2023-12-08 09:34+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -376,7 +376,7 @@ msgstr "Bude to temný den, ale <i>my</i> v něm obstojíme."
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:620
 msgid "Hey, I did it!"
-msgstr "Hej, já to zvládnul!"
+msgstr "Hej, já to zvládl!"
 
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:624
