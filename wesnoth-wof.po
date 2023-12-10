@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-11-20 17:23 UTC\n"
-"PO-Revision-Date: 2023-12-09 11:48+0100\n"
+"PO-Revision-Date: 2023-12-10 10:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -423,12 +423,12 @@ msgstr "Jak zvláštní, že se bázlivý Gorlak pokouší o Zkoušku ostrova Ga
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:267
 msgid "So it is, that brave Karron cowers within the Cenotaph of Morogor."
-msgstr "Jak zvláštní, že se statečný Karron krčí v Morogorském monumentu."
+msgstr "Jak zvláštní, že se statečná Karron krčí v Morogorském monumentu."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:273
 msgid "Karron, you are without companions."
-msgstr "Jsi bez společníků, Karrone."
+msgstr "Jsi bez společníků, Karron."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:277
@@ -466,7 +466,7 @@ msgstr "Jak si přeješ."
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:305
 msgid "...... Karron, hold."
-msgstr "... Karrone, zadrž."
+msgstr "... Karron, zadrž."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:311
@@ -725,7 +725,7 @@ msgstr "Ať se místo masa, které vzal, sklidí ten mor!"
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:42
 msgid "Aspirant Karron, offer your ploy of attack."
-msgstr "Aspirante Karrone, nabídněte svůj plán útoku."
+msgstr "Aspirantko Karron, nabídněte svůj plán útoku."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:47
@@ -753,7 +753,7 @@ msgid ""
 "\n"
 "Now offer yours, Aspirant Gorlack."
 msgstr ""
-"Odhodlaný plán, aspirante Karrone.\n"
+"Odhodlaný plán, aspirantko Karron.\n"
 "\n"
 "Nyní nabídněte svůj, aspirante Gorlaku."
 
@@ -806,8 +806,8 @@ msgid ""
 "\n"
 "I am curious as to why."
 msgstr ""
-"To je poprvé, aspirante Gorlaku, kdy je vaše taktitka odvážnější než taktika "
-"aspiranta Karrona.\n"
+"To je poprvé, aspirante Gorlaku, kdy je vaše taktika odvážnější než taktika "
+"aspirantky Karron.\n"
 "\n"
 "Jsem zvědavý, co je toho příčinou."
 
@@ -858,7 +858,7 @@ msgid ""
 msgstr ""
 "Nechť to tedy proběhne takto.\n"
 "Aspirante Gorlaku, máte svolení získat toho zajatce pro útrpný výslech.\n"
-"Aspirante Karrone, budete velet druhé peruti.\n"
+"Aspirantko Karron, budete velet druhé peruti.\n"
 "\n"
 "Lov je vyhlášen!"
 
@@ -893,7 +893,7 @@ msgstr "Grag"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:228
 msgid "Karron’s Wing"
-msgstr "Karronova peruť"
+msgstr "Karronina peruť"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:249
@@ -907,7 +907,7 @@ msgid ""
 "(best do so before Karron’s wing gets to him)\n"
 msgstr ""
 "Zajmi Viragara tím, že ho obklopíš drakonidy ze všech šesti stran\n"
-"(nejlépe dříve, než se k němu dostane Karronova peruť)\n"
+"(nejlépe dříve, než se k němu dostane Karronina peruť)\n"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:271
@@ -923,7 +923,7 @@ msgstr "Viragar zemře"
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:290
 msgid "Karron’s Wing will attack from the northeast on turn 7"
-msgstr "Karronova peruť zaútočí ze severovýchodu v 7. kole."
+msgstr "Karronina peruť zaútočí ze severovýchodu v 7. kole."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:299
@@ -1153,7 +1153,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:515
 msgid "Lo! Karron reinforces us."
-msgstr "Hle! Karronova posila je tu."
+msgstr "Hle! Karronina posila je tu."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:521
@@ -1175,7 +1175,7 @@ msgid ""
 "Karron, their leader is to remain alive.\n"
 "I want no repeat of last time."
 msgstr ""
-"Karrone, jejich vůdce má zůstat naživu.\n"
+"Karron, jejich vůdce má zůstat naživu.\n"
 "Nechci, aby se opakovalo to, co minule."
 
 #. [message]: speaker=Karron
@@ -1254,9 +1254,9 @@ msgid ""
 "You, with your wing of halfwits, have stayed our reascension for an age "
 "longer!"
 msgstr ""
-"Můj zajatec je mrtvý, Karrone!\n"
-"Ty, se svou perutí polovičatosti, jste zdrželi znovunastolení našeho druhu o "
-"věk déle!"
+"Můj zajatec je mrtvý, Karron!\n"
+"Ty, se svou perutí polovičatosti, jste zdrželi znovunastolení našeho druhu "
+"o věk déle!"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:703
@@ -1591,7 +1591,7 @@ msgid ""
 "Lest a day comes when none can hold against the rogues.\n"
 "Neither the burning hunger that drives them to treachery."
 msgstr ""
-"Můj úkol je vyšší, Karrone.\n"
+"Můj úkol je vyšší, Karron.\n"
 "\n"
 "Musím udělat vše, co je pro náš druh nutné.\n"
 "Aby nepřišel den, kdy by se nikdo nemohl postavit darebákům.\n"
@@ -1659,7 +1659,7 @@ msgstr "Na konci 24. kola budeš mít převahu"
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:217
 msgid "Defeat Karron"
-msgstr "Poraz Karrona"
+msgstr "Poraz Karron"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:221
@@ -1743,9 +1743,9 @@ msgid ""
 "\n"
 "The flight-in-contention is hereby entrusted to Dominant Karron’s keeping."
 msgstr ""
-"Karron dosáhl pozice vládce.\n"
+"Karron dosáhla pozice vládkyně.\n"
 "\n"
-"Letka ze zápasu je tímto svěřena do velení vládce Karrona."
+"Letka ze zápasu je tímto svěřena do velení vládkyně Karron."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:426
@@ -3348,7 +3348,7 @@ msgid ""
 "Flight of Karron."
 msgstr ""
 "Pak, poté co uběhl jen jeden měsíční cyklus, byla spatřena letka. Byla to "
-"Karronova letka."
+"Karronina letka."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:24
@@ -3364,7 +3364,7 @@ msgstr "Drakonidé"
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:137
 msgid "Karron, you did not wait for my summons!"
-msgstr "Karrone, nevyčkal jsi na mé předvolání!"
+msgstr "Karron, nevyčkala jsi na mé předvolání!"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:141
@@ -3382,7 +3382,7 @@ msgstr ""
 "Bez tvé letky by nás nebylo dost, abychom se jim postavili.\n"
 "\n"
 "Vladnir rozhodl, že se sem mám vydat.\n"
-"Takže ty mladé, cos mi dal, jsem vyměnil s jinými letkami,\n"
+"Takže ty mladé, cos mi dal, jsem vyměnila s jinými letkami,\n"
 "za nejlepší drakonidy schopné podniknout cestu."
 
 #. [message]: speaker=Gorlack
@@ -3452,7 +3452,7 @@ msgid ""
 msgstr ""
 "Jejich podoba s mláďaty je odzbrojující.\n"
 "Až znepokojivě.\n"
-"Nechci je mít blízko mé letky..."
+"Nechci je mít blízko své letky..."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:207
@@ -3482,7 +3482,7 @@ msgid ""
 "northeast.\n"
 "A nest of haldric."
 msgstr ""
-"Gorlaku, když jsme sem letěli, všiml jsem si velkého shromáždění zvěře na "
+"Gorlaku, když jsme sem letěli, všimla jsem si velkého shromáždění zvěře na "
 "severovýchodě.\n"
 "Zvěře haldrické podoby."
 
@@ -3582,7 +3582,7 @@ msgid ""
 "Look around us.\n"
 "It is not the ocean we stand upon."
 msgstr ""
-"Žádné mýty, Karrone.\n"
+"Žádné mýty, Karron.\n"
 "Podívej se kolem nás.\n"
 "Není to oceán, nad čím se vznášíme."
 
@@ -3889,7 +3889,7 @@ msgstr "Vidím, že dnes budeme hodovat!"
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:417
 msgid "Alas! Karron is slain!"
-msgstr "Běda! Karron je zabit!"
+msgstr "Běda! Karron je zabita!"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:428
@@ -3945,7 +3945,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:458
 msgid "... You witnessed only moments ago how we slew a nest of them utterly."
 msgstr ""
-"... Před chvílí jsi byl očitým svědkem toho, jak jsme jim jejich doupě "
+"... Před chvílí jsi byla očitým svědkem toho, jak jsme jim jejich doupě "
 "totálně zničili."
 
 #. [message]: speaker=Gorlack
@@ -4341,7 +4341,7 @@ msgstr ""
 "\n"
 "Tři letky lovců.\n"
 "\n"
-"Už jsem dal znamení Karronovi, aby pokračoval na východ přes travnatou "
+"Už jsem dal znamení Karron, aby pokračovala na východ přes travnatou "
 "planinu.\n"
 "Vladnire, ty odletíš na jihovýchod do horkých písků.\n"
 "Já poletím na severovýchod do wesmerské džungle.\n"
@@ -5648,12 +5648,12 @@ msgid ""
 "\n"
 "Our flight was scattered east, deep into the Greatland."
 msgstr ""
-"Vládče Gorlaku, přináším špatné zprávy o lovu.\n"
+"Vládče Gorlaku, přináším špatné zprávy o lovu.\n"
 "\n"
-"Karronova letka byla zdecimována na travnatých pláních lidskou smečkou.\n"
-"Poslední zvěsti od vládce Karrona zmiňují jejich snahu ustoupit do vašeho "
+"Karronina letka byla zdecimována na travnatých pláních lidskou smečkou.\n"
+"Poslední zvěsti od vládkyně Karron zmiňují jejich snahu ustoupit do vašeho "
 "hnízda.\n"
-"V ušlechtilém pokusu pomoci ohrožené Karronově letce...\n"
+"V ušlechtilém pokusu pomoci ohrožené Karronině letce...\n"
 "se stal můj vládce Vladnir obětí naší kořisti.\n"
 "\n"
 "Naše letka byla rozptýlena na východ, hluboko do vnitrozemí."
@@ -6422,19 +6422,17 @@ msgstr ""
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:27
 msgid "A flight was spotted inbound. Once more, it was the Flight of Karron."
-msgstr "Byla spatřena přilétající letka. Opět se jednalo o Karronovu letku."
+msgstr "Byla spatřena přilétající letka. Opět se jednalo o Karroninu letku."
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:76
 msgid "Flight Karron"
-msgstr "Karronova letka"
+msgstr "Karronina letka"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:183
-#, fuzzy
-#| msgid "Capture Karron by surrounding him on all six sides"
 msgid "Capture Karron by surrounding her on all six sides"
-msgstr "Zajmi Karrona tím, že ho obklopíš ze všech šesti stran"
+msgstr "Zajmi Karron tím, že ji obklopíš ze všech šesti stran"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:206
@@ -6443,13 +6441,6 @@ msgstr "Karron může použít překvapivé útoky"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:217
-#, fuzzy
-#| msgid ""
-#| "Gorlack, it is good to see you alive.\n"
-#| "You as well, Reshan.\n"
-#| "\n"
-#| "When the Flight of Gorlack did not return,\n"
-#| "I assumed you all had perished to the wild creatures of this land."
 msgid ""
 "Gorlack, it is good to see you alive.\n"
 "You as well, Resha.\n"
@@ -6457,11 +6448,11 @@ msgid ""
 "When the Flight of Gorlack did not return,\n"
 "I assumed you all had perished to the wild creatures of this land."
 msgstr ""
-"Gorlaku, rád tě vidím naživu.\n"
-"Tebe také, Rešane.\n"
+"Gorlaku, ráda tě vidím naživu.\n"
+"Tebe také, Rešo.\n"
 "\n"
 "Když se Gorlakova letka nevrátila,\n"
-"předpokládal jsem, že jste všichni zahynuli vyhubeni divokými tvory této "
+"předpokládala jsem, že jste všichni zahynuli vyhubeni divokými tvory této "
 "země."
 
 #. [message]: speaker=Resha
@@ -6471,9 +6462,9 @@ msgid ""
 "\n"
 "If only Vladnir had shared our fortune."
 msgstr ""
-"Nápodobně, Karrone!\n"
+"Nápodobně, Karron!\n"
 "\n"
-"Kéž by se tak Vladnir mohl dělit o naše štěstí."
+"Kéž by se tak Vladnir mohl dělit o naše štěstí."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:233
@@ -6511,7 +6502,7 @@ msgid ""
 "Karron, not even the whole of Morogor could subdue this land.\n"
 "Not in the way we strove to."
 msgstr ""
-"Karrone, ani celý Morogor by si tuto zemi nedokázal podmanit.\n"
+"Karron, ani celý Morogor by si tuto zemi nedokázal podmanit.\n"
 "Ne tak, jak jsme se doposud snažili."
 
 #. [message]: speaker=Karron
@@ -6609,7 +6600,7 @@ msgstr ""
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:307
 msgid "Lisssten to Karron!"
-msgstr "Posslouchej Karrona!"
+msgstr "Posslouchej Karron!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:313
@@ -6686,19 +6677,10 @@ msgstr ""
 "Souhlasím.\n"
 "Musíme to udělat stejně.\n"
 "\n"
-"Karron musí být zajat živý."
+"Karron musí být zajata živá."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:363
-#, fuzzy
-#| msgid ""
-#| "Before it set camp, I beheld a curious detail of Flight Karron.\n"
-#| "\n"
-#| "There were no gliders among them.\n"
-#| "Perhaps they were scouting...\n"
-#| "\n"
-#| "Yet burners too were absent.\n"
-#| "It may be two castes is all that remains of his flight."
 msgid ""
 "Before it set camp, I beheld a curious detail of Flight Karron.\n"
 "\n"
@@ -6708,14 +6690,14 @@ msgid ""
 "Yet burners too were absent.\n"
 "It may be two castes is all that remains of her flight."
 msgstr ""
-"Než Karron rozbil ležení, všiml jsem si jednoho zvláštního detailu ohledně "
-"jeho letky.\n"
+"Než Karron rozbila ležení, všimla jsem si jednoho zvláštního detailu ohledně "
+"její letky.\n"
 "\n"
 "Nebyli mezi nimi žádní plachtící.\n"
 "Ti byli možná na průzkumu...\n"
 "\n"
-"Přesto tam chyběli i spalovači.\n"
-"Z jeho letky možná zbyly jen dvě kasty."
+"Přesto tam chyběli i spalovači.\n"
+"Z její letky možná zbyly jen dvě kasty."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:375
@@ -6728,7 +6710,7 @@ msgid ""
 "Karron, you are only dragon left with ssscales. I choose to rejoin your "
 "hunt. Many of usss will follow you."
 msgstr ""
-"Karrone, jssi tu jediný drak, cco hrdě nossí ssvé ššupiny. Rozzhodla jssem "
+"Karron, jssi tu jediný drak, cco hrdě nossí ssvé ššupiny. Rozzhodla jssem "
 "ssse zznovu připojit k tvému lovu. Mnoho zz náss tě bude nássledovat."
 
 #. [message]: speaker=Karron
@@ -7043,7 +7025,7 @@ msgid ""
 "\n"
 "My Windpath spared one friend... only to cut down another..."
 msgstr ""
-"Karrone.\n"
+"Karron.\n"
 "\n"
 "Má Větrná stezka ušetřila jednoho přítele..., jen aby srazila jiného..."
 
@@ -7075,7 +7057,7 @@ msgid ""
 "\n"
 "As a friend seeking to keep you from the turmoil that is soon to be."
 msgstr ""
-"Karrone, vyháním tě z této Velké země, z těchto vzdálených zemí na východě.\n"
+"Karron, vyháním tě z této Velké země, z těchto vzdálených zemí na východě.\n"
 "Ne jako vítěz v zápase, který drtí svého soupeře...\n"
 "\n"
 "Ale jako přítel, který se tě snaží ochránit před zmatky, co brzy nastanou."
@@ -7191,7 +7173,7 @@ msgid ""
 "\n"
 "We may together take on this adventure as it always should have been."
 msgstr ""
-"Gorlacu, ať obě naše letky směřují na západ.\n"
+"Gorlaku, ať obě naše letky směřují na západ.\n"
 "\n"
 "Můžeme společně podniknout toto dobrodružství, jak tomu mělo být vždycky."
 
@@ -7205,10 +7187,10 @@ msgid ""
 "When defeat drives our folk to seek a new Windpath, I must be here to "
 "provide it."
 msgstr ""
-"Je mi to líto, Karrone.\n"
-"Naše větrné stezky se nikdy neprotnou, jak jsi doufal.\n"
+"Je mi to líto, Karron.\n"
+"Naše větrné stezky se nikdy neprotnou, jak jsi doufala.\n"
 "\n"
-"Předtím jsi mluvil správně o tom, že musím dokončit, co jsem začal.\n"
+"Předtím jsi mluvila správně o tom, že musím dokončit, co jsem začal.\n"
 "Až porážka přiměje náš druh hledat novou Větrnou stezku, musím tu být, abych "
 "ji zajistil."
 
@@ -7235,21 +7217,15 @@ msgstr "Epilog"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:12
-#, fuzzy
-#| msgid ""
-#| "Dominant Karron heard the Memories Spoken to him by his gliders. He lead "
-#| "several flights west to the Green Isle of the orcs. Striving together "
-#| "with the noble creatures of this far land, the infestation of orcs was "
-#| "destroyed so new eyries could be set there."
 msgid ""
 "Dominant Karron heard the Memories Spoken to her by the gliders. She lead "
 "several flights west to the Green Isle of the orcs. Striving together with "
 "the noble creatures of this far land, the infestation of orcs was destroyed "
 "so new eyries could be set there."
 msgstr ""
-"Vládce Karron vyslyšel Vzpomínky, které k němu promlouvaly skrze jeho "
-"plachtící druhy. Vedl několik letek na západ na Zelený ostrov skřetů. "
-"Společně s dalšími ušlechtilými stvořeními této daleké země se mu podařilo "
+"Vládkyně Karron vyslyšela Vzpomínky, které k ní promlouvaly skrze její "
+"plachtící druhy. Vedla několik letek na západ na Zelený ostrov skřetů. "
+"Společně s dalšími ušlechtilými stvořeními této daleké země se jí podařilo "
 "potlačit skřetí zamoření, takže tam mohla být umístěna nová hnízda."
 
 #. [part]
