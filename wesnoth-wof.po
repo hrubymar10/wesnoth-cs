@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-11-20 17:23 UTC\n"
-"PO-Revision-Date: 2023-12-11 20:46+0100\n"
+"PO-Revision-Date: 2023-12-13 23:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -290,11 +290,6 @@ msgstr "uloveno $kill_total ks kořisti z požadovaných 20 ks"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:158
-#, fuzzy
-#| msgid ""
-#| "Behold, the Isle of Gaall.\n"
-#| "The most perilous hunting ground in the Domain of Vladnir.\n"
-#| "Many a hunter has become its prey."
 msgid ""
 "Behold, the Isle of Gaall.\n"
 "The most perilous hunting ground in the Domain of Vladnir.\n"
@@ -305,7 +300,9 @@ msgid ""
 msgstr ""
 "Hleďme, ostrov Gaall.\n"
 "Nejnebezpečnější loviště Vladnirova panství.\n"
-"Nejeden lovec se stal jeho kořistí."
+"\n"
+"Nejeden lovec se vydal na toto místo poháněn hladovým křikem svých mláďat.\n"
+"Jen aby se stal jeho kořistí."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:166
