@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-11-20 17:23 UTC\n"
-"PO-Revision-Date: 2023-12-16 10:01+0100\n"
+"PO-Revision-Date: 2023-12-17 10:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -357,6 +357,9 @@ msgid ""
 "\n"
 "For the sake of our hatchlings, take all the prey you can carry!"
 msgstr ""
+"Jak poroučíš. Lovci, sestoupit!\n"
+"\n"
+"V zájmu našich mláďat poberte veškerou kořist, kterou unesete!"
 
 #. [message]: speaker=Resha
 #. Drakes refer to aloe as “tailleaf” and use it medicinally the same way humans use yarrow.
@@ -7538,9 +7541,6 @@ msgstr "ledový safír"
 
 #~ msgid "Cuttle Fish"
 #~ msgstr "Sépie"
-
-#~ msgid "By your will— Hunters! Descend!"
-#~ msgstr "Jak poroučíš. Lovci! Sestoupit!"
 
 #~ msgid "Jungle"
 #~ msgstr "Džungle"
