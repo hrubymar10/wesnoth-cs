@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-11-20 17:23 UTC\n"
-"PO-Revision-Date: 2023-12-17 10:18+0100\n"
+"PO-Revision-Date: 2023-12-17 19:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -37,11 +37,17 @@ msgid ""
 "lands, a pack of fledgling hunters makes ready to lead their kind on a "
 "journey towards salvation."
 msgstr ""
+"Jak kdysi hojná loviště Morogoru mizí pod vlnami, objevuje se hrozba války "
+"mezi drakonidy, které hlad dohání k darabáctví, a těmi, kteří jsou stále "
+"čestní. Přesto se větry osudu možná obrací, protože se houf nezkušených "
+"lovců povzbuzených legendami o rozlehlých vzdálených zemích chystá vést svůj "
+"druh na cestu za záchranou."
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:22
 msgid "<i>Features full recall costs and no gold carryover.</i>"
 msgstr ""
+"<i>Vyznačuje se plnými náklady na povolávání a žádným přenášením zlata.</i>"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:23
@@ -7487,12 +7493,12 @@ msgstr "Zzklamal jssem tě, můj draku..."
 #. [floating_text]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:54
 msgid "<span color='gold'>fighter intendant</span>"
-msgstr ""
+msgstr "<span color='gold'>důstojník bojovníků</span>"
 
 #. [floating_text]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:82
 msgid "<span color='gold'>clasher intendant</span>"
-msgstr ""
+msgstr "<span color='gold'>důstojník rváčů</span>"
 
 #. [floating_text]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:164
