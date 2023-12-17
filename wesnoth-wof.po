@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-11-20 17:23 UTC\n"
-"PO-Revision-Date: 2023-12-17 10:01+0100\n"
+"PO-Revision-Date: 2023-12-17 10:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -76,7 +76,7 @@ msgstr "Vládce"
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:27
 msgid "Hard"
-msgstr ""
+msgstr "Těžká"
 
 #. [campaign]: id=Winds_of_Fate
 #. [scenario]: id=09_Ancestor
@@ -7520,12 +7520,6 @@ msgstr "ledový safír"
 #~ msgstr ""
 #~ "Příběh o tom, jak drakonidé poprvé dorazili na Velký kontinent.\n"
 #~ "\n"
-
-#~ msgid "Challenging"
-#~ msgstr "Náročná"
-
-#~ msgid "Difficult"
-#~ msgstr "Obtížná"
 
 #~ msgid "Prey"
 #~ msgstr "Kořist"
