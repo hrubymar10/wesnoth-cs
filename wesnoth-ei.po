@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-11-30 23:50+0100\n"
+"PO-Revision-Date: 2023-12-17 17:42+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -85,7 +85,7 @@ msgstr "(Úroveň pokročilý hráč, 16 scénářů.)"
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:108
 msgid "Newest Campaign Version Rewrite"
-msgstr ""
+msgstr "Nejnovější přepracovaná verze tažení"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:114
@@ -94,10 +94,8 @@ msgstr "Původní návrh tažení"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:120
-#, fuzzy
-#| msgid "Prose and Story Edits"
 msgid "Prose and Story Editing, Code Preparation"
-msgstr "Úpravy prózy a příběhu"
+msgstr "Úpravy příběhu a textů, příprava kódu"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:126
@@ -106,10 +104,8 @@ msgstr "Kresby a grafika"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:144
-#, fuzzy
-#| msgid "Campaign Design"
 msgid "Campaign Redesign Playtesters"
-msgstr "Návrh tažení"
+msgstr "Testování přepracovaného tažení"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:156
@@ -119,7 +115,7 @@ msgstr "Údržba původního tažení"
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:168
 msgid "Others"
-msgstr ""
+msgstr "Ostatní"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:33
@@ -168,13 +164,14 @@ msgstr "Scénář 4a: Spálená zem"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
+#, fuzzy
 msgid "Recruit the dunefolk in ‘<i>Ill Humours</i>’."
-msgstr ""
+msgstr "Naverbuj v „<i>Ill Humours</i>“ pouštní lidi."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
 msgid "Scenario 4b: Mercenary"
-msgstr ""
+msgstr "Scénář 4b: Žoldák"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43
@@ -206,7 +203,7 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:47
 msgid "Scenario 6a: A Little Help Here?"
-msgstr ""
+msgstr "Scénář 6a: Co takhle nějaká malá pomoc?"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
@@ -251,32 +248,33 @@ msgstr "Scénář 8: A mou sekeru"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
 msgid "Recruit the wild ogres in ‘<i>Castle in the Ice</i>’."
-msgstr ""
+msgstr "Naverbuj v „<i>Hradu v ledu</i>“ divoké obry."
 
+# Má to být něco jako říhnutí nebo citoslovce zhnusení...
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:57
 msgid "Scenario 9: Guuuh..."
-msgstr ""
+msgstr "Scénář 9: Guuuh..."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:59
 msgid "Find the legendary Staff of Power in ‘<i>Dark Sanctuary</i>’."
-msgstr ""
+msgstr "Najdi v „<i>Temné svatyni</i>“ legendární Hůl moci."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:59
 msgid "Scenario 10: Brains"
-msgstr ""
+msgstr "Scénář 10: Mozky..."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:61
 msgid "Find the Ring of Invisibility in ‘<i>Captured</i>’."
-msgstr ""
+msgstr "Najdi „<i>V zajetí</i>“ Prsten neviditelnosti."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:61
 msgid "Scenario 11: And In The Darkness Bind Them"
-msgstr ""
+msgstr "Scénář 11: A do temnoty sváže..."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:63
@@ -296,17 +294,17 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:65
 msgid "Scenario 13: Oath of Redemption"
-msgstr ""
+msgstr "Scénář 13: Přísaha vykoupení"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:67
 msgid "Read the story of the Clans’ defeat in ‘<i>The Drowned Plains</i>’."
-msgstr ""
+msgstr "Přečti si v „<i>Zatopených pláních</i>“ příběh o porážce klanů."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:67
 msgid "Scenario 14: Historian"
-msgstr ""
+msgstr "Scénář 14: Historik"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
@@ -316,7 +314,7 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
 msgid "Scenario 16: Alternate History"
-msgstr ""
+msgstr "Scénář 16: Alternativní historie"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:71
@@ -343,12 +341,12 @@ msgstr "Scénář 17b: Válečný štváč"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:75
 msgid "Complete the secret bonus scenario."
-msgstr ""
+msgstr "Dokonči tajný bonusový scénář."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:75
 msgid "Scenario 99: Haw, Haw, Haw"
-msgstr ""
+msgstr "Scénář 99: Ha, ha, ha"
 
 #. [lua]: wml_actions.bandit_village_capture
 #: data/campaigns/Eastern_Invasion/lua/bandits.lua:84
@@ -4676,10 +4674,8 @@ msgstr ""
 
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:4
-#, fuzzy
-#| msgid "Come, into the castle."
 msgid "Castle in the Ice"
-msgstr "Pojďte do hradu."
+msgstr "Hrad v ledu"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:43
@@ -5133,7 +5129,7 @@ msgstr ""
 #. [scenario]: id=10_Dark_Sanctuary
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:4
 msgid "Dark Sanctuary"
-msgstr ""
+msgstr "Temná svatyně"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:19
@@ -9647,6 +9643,7 @@ msgid ""
 "The River Weldyn used to be so beautiful, before the undead dammed it and "
 "flooded the shores..."
 msgstr ""
+"Řeka Weldyn byla tak krásná, než ji nemrtví přehradili a zaplavili břehy..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1012
@@ -9672,12 +9669,12 @@ msgstr ""
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1053
 msgid "Now you will pay for your arrogance!"
-msgstr ""
+msgstr "Teď zaplatíš za svou aroganci!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1074
 msgid "A king belongs in his capital! I will not abandon my post!"
-msgstr ""
+msgstr "Král patří do svého hlavního města! Neopustím svůj post!"
 
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1205
@@ -9692,6 +9689,8 @@ msgid ""
 "Fools, you have already lost! For each minion you strike down, another shall "
 "rise to take its place."
 msgstr ""
+"Blázni, už jste prohráli! Za každého přisluhovače, kterého srazíte, povstane "
+"jiný, aby zaujal jeho místo."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1376
@@ -9715,19 +9714,12 @@ msgid ""
 "strings. The invading necromancers looked on in horror, unable to comprehend "
 "what had happened."
 msgstr ""
+"Když Mal-Ravanal padl, jeho nemrtvá armáda se jednoduše zhroutila jako "
+"loutky s přestřihnutými provázky. Nájezdní nekromanti s hrůzou přihlíželi, "
+"neschopni pochopit, co se stalo."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:21
-#, fuzzy
-#| msgid ""
-#| "When Mal-Ravanal fell his undead army simply collapsed like puppets with "
-#| "their strings cut. As the lich’s death-scream echoed in the air, a vast "
-#| "and louring column of shadow arose from his corpse like smoke from an "
-#| "unclean fire; then it divided fivefold at its height, reaching for the "
-#| "heavens like a clutching hand.\n"
-#| "\n"
-#| "Men let weapons fall from nerveless fingers and horses reared in terror "
-#| "as that great dark pall obscured the sun..."
 msgid ""
 "Yet even as the lich’s body crumbled, for a moment’s breath, the onlookers "
 "saw a vast and louring column of shadow arise like smoke from an unclean "
@@ -9735,14 +9727,11 @@ msgid ""
 "clutching hand. Men let weapons fall from nerveless fingers and horses "
 "reared in terror as that great dark pall obscured the sun..."
 msgstr ""
-"Když Mal-Ravanal padl, jeho nemrtvá armáda se jednoduše zhroutila jako "
-"loutky s přestřihnutými provázky. Jakmile zazněl vzduchem lichův smrtelný "
-"výkřik, zvedl se z jeho těla obrovský, mračivý sloup stínu jako kouř "
-"z nečistého ohně. Pak se nahoře rozdělil do pěti větví a natáhl k nebesům "
-"jako pařát.\n"
-"\n"
-"Muži nechali vypadnout zbraně z bezvládných prstů a koně se zděšeně "
-"vzpínali, když ten ohromný temný závoj zastřel slunce..."
+"Ačkoli se lichovo tělo rozpadalo, mohli přihlížející na okamžik vidět, jak "
+"se z něj zvedá obrovský, mračivý sloup stínu jako kouř z nečistého ohně. Ten "
+"se nahoře ve své výšce rozdělil do pěti větví a natáhl se k nebesům jako "
+"svírající pařát. Muži nechali vypadnout zbraně z bezvládných prstů a koně se "
+"zděšeně vzpínali, jakmile ten ohromný temný závoj zastřel slunce..."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:24
@@ -9764,6 +9753,8 @@ msgid ""
 "We are gathered here today in remembrance of our dear colleague and friend, "
 "Dacyn, who fell even as he vanquished the arch-lich Mal-Ravanal."
 msgstr ""
+"Dnes jsme se zde sešli zavzpomínat na našeho drahého druha a přítele Dacyna, "
+"který padl, i když porazil arcilicha Mal-Ravanala."
 
 #. [message]: speaker=Renaerawan
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:201
@@ -9772,22 +9763,28 @@ msgid ""
 "above all, Dacyn sought to act for the good of Wesnoth, and today we honor "
 "him for that."
 msgstr ""
+"Znal jsem Dacyna jako komplikovaného muže: ambiciózního, a přesto "
+"loajálního, hrdého, a přesto moudrého. Ale především se Dacyn snažil jednat "
+"pro dobro Wesnothu a za to ho dnes ctíme."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:207
 msgid "Today we have won a great victory, yet it comes at great cost."
-msgstr ""
+msgstr "Dnes jsme dosáhli velkého vítězství, bylo ale těžce zaplaceno."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:211
 msgid "Grug sad! Magic man kind."
-msgstr ""
+msgstr "Grug smutný! Magik laskavý muž být."
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:215
+#, fuzzy
 msgid ""
 "Ay. Too many ha’ died in this war, both my kinsmen at Knalga and yours here."
 msgstr ""
+"Jo. V týhle válce zemřelo příliš mnoho ha’, jak mých druhů v Knalze, tak "
+"vašich tady."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:219
@@ -9803,6 +9800,8 @@ msgstr ""
 msgid ""
 "My duty is done; the Clans have been avenged. At last, I can rest in peace."
 msgstr ""
+"Splnil jsem svou povinnost. Klany byly pomstěny. Konečně můžu odpočívat v "
+"pokoji."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:229
@@ -9840,6 +9839,9 @@ msgid ""
 "many of them now lie dead. Lieutenant Gweddry, Lord Owaec, Advisor Dacyn, we "
 "thank you for your sacrifice."
 msgstr ""
+"Měl jsem v úmyslu se podělit o toto vítězství s těmi, kteří to umožnili. Ale "
+"tolik z nich nyní leží mrtvých. Poručíku Gweddry, lorde Owaecu, rádče "
+"Dacyne, děkujeme vám za vaši oběť."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:276
@@ -9850,11 +9852,15 @@ msgid ""
 "penalty of death, and are hereby exiled from Wesnoth. Be grateful for Our "
 "mercy."
 msgstr ""
+"Grugu, obr nekromant je pro Nás něco zcela nového. Ale věz, že Wesnoth nikdy "
+"nebude tolerovat takové spojení. Odevzdáš tu prokletou hůl, aby byla "
+"zničena, zřekneš se pod trestem smrti praktikování veškeré magie a budeš "
+"tímto vypovězen z Wesnothu. Buď vděčen za Naše milosrdenství."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:280
 msgid "Guh... Grug say no magic yes ok."
-msgstr ""
+msgstr "Guh... Grug říkat ano. Bez magie správné být."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:289
@@ -9870,7 +9876,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:293
 msgid "(bowing clumsily) Grug say new home will make thanks with."
 msgstr ""
-"<i>(nemotorně se uklání)</i> Grug říkat nový domov je dobrá poděkování."
+"<i>(nemotorně se uklání)</i> Grug říkat nový domov být dobrá poděkování."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:316
