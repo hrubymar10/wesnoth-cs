@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-12-15 18:58+0100\n"
+"PO-Revision-Date: 2023-12-19 21:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -970,10 +970,11 @@ msgstr "To zní skvěle! Vezmu si ho."
 msgid "That sounds frightening. Let someone else have it."
 msgstr "To zní děsivě. Ať si ho vezme někdo jiný."
 
+# tohle může říct i Kai Krellis
 #. [option]
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:372
 msgid "Let me have that trident. I want to control lightning!"
-msgstr "Dovol mi vzít ten trojzubec. Chci sesílat blesky!"
+msgstr "Dejte mi ten trojzubec. Chci ovládat blesky!"
 
 #. [option]
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:381
