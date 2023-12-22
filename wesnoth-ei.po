@@ -164,9 +164,8 @@ msgstr "Scénář 4a: Spálená zem"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
-#, fuzzy
 msgid "Recruit the dunefolk in ‘<i>Ill Humours</i>’."
-msgstr "Naverbuj v „<i>Ill Humours</i>“ pouštní lidi."
+msgstr "Naverbuj v „<i>Otravnostech</i>“ pouštní lidi."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:41
@@ -208,7 +207,7 @@ msgstr "Scénář 6a: Co takhle nějaká malá pomoc?"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
 msgid "Complete ‘<i>Soradoc</i>’ without killing any enemy leaders."
-msgstr "Dokonči „<i>Soradok</i>“ bez zabití žádného nepřátelského vůdce."
+msgstr "Dokonči „<i>Soradok</i>“ bez zabití kteréhokoliv nepřátelského vůdce."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:49
@@ -289,7 +288,7 @@ msgstr "Scénář 12: Plán B"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:65
 msgid "Recruit Gaennell, the dark adept, in ‘<i>Spoils of War</i>’."
-msgstr ""
+msgstr "Ve „<i>Válečné kořisti</i>“ naverbuj temnou učednici Gennellu."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:65
@@ -309,7 +308,7 @@ msgstr "Scénář 14: Historik"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
 msgid "Complete ‘<i>Eleventh Hour</i>’ with no recalling and no items."
-msgstr ""
+msgstr "Dokonči „<i>Za pět minut dvanáct</i>“ bez povolávání a předmětů."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
