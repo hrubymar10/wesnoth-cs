@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2023-12-17 17:42+0100\n"
+"PO-Revision-Date: 2023-12-23 11:53+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
@@ -10797,7 +10797,7 @@ msgstr ""
 #. [dummy]
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Fallen_Mage.cfg:64
 msgid "Immune to poison, drain, and plague."
-msgstr ""
+msgstr "Odolný vůči jedu, vysátí a nákaze."
 
 #. [unit_type]: id=Twilight Mage, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Twilight_Mage.cfg:4
@@ -11039,7 +11039,7 @@ msgstr "požehnaný dřevec"
 #. [unit_type]: id=Townsfolk, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Townsfolk.cfg:4
 msgid "Townsfolk"
-msgstr ""
+msgstr "Měšťan"
 
 #. [unit_type]: id=Townsfolk, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Townsfolk.cfg:18
@@ -11049,6 +11049,10 @@ msgid ""
 "almost universally lack the strength that comes from a life of physical "
 "labour, and thus are not conscripted as often as peasants."
 msgstr ""
+"Měšťané jsou obyvatelé měst, kteří se snaží si mírumilovně vydělat své "
+"jmění. Jedná se o obchodníky, řemeslníky nebo služebníky šlechtických rodů. "
+"Téměř všeobecně postrádají sílu, která pochází ze života plného fyzické "
+"práce, a proto nebývají odváděni tak často jako sedláci."
 
 #. [unit_type]: id=Naga Centurion, race=naga
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:4
@@ -11073,7 +11077,7 @@ msgstr "čepel"
 #. [attack]: type=blade
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:41
 msgid "speed strike"
-msgstr ""
+msgstr "rychlý úder"
 
 #. [female]
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:72
@@ -11469,10 +11473,8 @@ msgstr "Já... musím... ach...!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:47
-#, fuzzy
-#| msgid "We are doomed..."
 msgid "The light fades... We are doomed..."
-msgstr "Jsme odsouzeni k záhubě..."
+msgstr "Světlo slábne... Jsme odsouzeni k záhubě..."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:65
@@ -11506,7 +11508,7 @@ msgstr "Světlo slábne..., Wesnothe, zklamal jsem tě..."
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:121
 msgid "Watch out behind ye- ach!"
-msgstr ""
+msgstr "Hlídej si záda... ach!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:125
@@ -11546,13 +11548,13 @@ msgstr ""
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:193
 msgid "Oh, I knew drinking all those elixirs was a bad idea..."
-msgstr ""
+msgstr "Och, věděl jsem, že vypít všechny ty elixíry byl špatný nápad..."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:207
 msgid ""
 "And so, I give... the last thing I have to give... in service of the Light..."
-msgstr ""
+msgstr "A tak dávám... i to poslední, co musím dát... ve službě Světlu..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:211
@@ -11564,7 +11566,7 @@ msgstr ""
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:224
 msgid "Death is coming for me..."
-msgstr ""
+msgstr "Přišla si pro mě smrt..."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:228
@@ -11578,7 +11580,7 @@ msgstr ""
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:243
 msgid "Alas, I fall..."
-msgstr ""
+msgstr "Běda, umírám..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:255
@@ -11588,12 +11590,12 @@ msgstr ""
 #. [message]: speaker=Halrad
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:271
 msgid "I may die, but Wesnoth will never fall!"
-msgstr ""
+msgstr "Já mohu padnout, ale Wesnoth nikdy nepadne!"
 
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:285
 msgid "There’s too many! Must... keep fighting..."
-msgstr ""
+msgstr "Je jich příliš mnoho! Musíte... bojovat dál..."
 
 #. [message]: speaker=Halrod
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:299
@@ -11601,11 +11603,13 @@ msgid ""
 "Ack! Curse these undead! I should have listened to my mother and been a "
 "dentist..."
 msgstr ""
+"Ach! Ať jsou tito nemrtví prokleti! Měl jsem poslechnout svou matku a stát "
+"se zubařem..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:313
 msgid "Alas, I perish! The kingdom is lost without its king."
-msgstr ""
+msgstr "Běda, hynu! Království je bez svého krále ztraceno."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:327
@@ -11673,22 +11677,22 @@ msgstr ""
 #. [message]: speaker=Mal-Mana
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:372
 msgid "My beautiful bats, why didn’t you protect me..."
-msgstr ""
+msgstr "Moji krásní netopýři, proč jste mě nechránili..."
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:388
 msgid "No! Once again you escape me..."
-msgstr ""
+msgstr "Ne! Zase mi zdrháš..."
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:395
 msgid "No! How am I defeated so easily..."
-msgstr ""
+msgstr "Ne! Jak to, že jsem tak snadno poražen..."
 
 #. [message]: speaker=Naken-alvak
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:423
 msgid "You... waste... your effort..."
-msgstr ""
+msgstr "Plýtváte... svou snahou..."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:27
@@ -11852,12 +11856,12 @@ msgstr ""
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:480
 msgid "Is it over? We’ve won?"
-msgstr ""
+msgstr "Je konec? Vyhráli jsme?"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:494
 msgid "A-ha haha! You really thought you had a chance there, didn’t you?"
-msgstr ""
+msgstr "Á ha haha! Opravdu sis myslel, že tam máš šanci, že?"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:498
