@@ -12114,11 +12114,11 @@ msgstr "Odložit Svatý amulet"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:234
 msgid "sentinel"
-msgstr ""
+msgstr "strážce"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:235
 msgid "Shield of the Sentinel"
-msgstr ""
+msgstr "Strážcův štít"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:236
 msgid ""
@@ -12129,7 +12129,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:258
 msgid "Drop Shield of the Sentinel"
-msgstr ""
+msgstr "Odložit Strážcův štít"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:575
 msgid "yetiburger"
@@ -12149,11 +12149,11 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:603
 msgid "ant ambrosia"
-msgstr ""
+msgstr "mravenčí chléb"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:604
 msgid "Ant Ambrosia"
-msgstr ""
+msgstr "Mravenčí chléb"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:605
 msgid ""
@@ -12168,11 +12168,11 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:637
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:652
 msgid "baneblade"
-msgstr ""
+msgstr "čepel zkázy"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:638
 msgid "Baneblade"
-msgstr ""
+msgstr "Čepel zkázy"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:639
 msgid ""
@@ -12184,15 +12184,15 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:689
 msgid "Drop Baneblade"
-msgstr ""
+msgstr "Odložit Čepel zkázy"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:703
 msgid "barkskin"
-msgstr ""
+msgstr "stromová kůže"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:704
 msgid "Potion of Barkskin"
-msgstr ""
+msgstr "Lektvar stromové kůže"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:705
 msgid ""
@@ -12229,7 +12229,7 @@ msgstr "hůl"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:790
 msgid "Plague Staff"
-msgstr ""
+msgstr "Hůl nákazy"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:791
 msgid ""
@@ -12248,11 +12248,11 @@ msgstr ""
 #. [effect]: type=impact
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:799
 msgid "plague staff"
-msgstr ""
+msgstr "hůl nákazy"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:864
 msgid "Drop Plague Staff"
-msgstr ""
+msgstr "Odložit Hůl nákazy"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:905
@@ -12284,7 +12284,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1030
 msgid "Elixir of Water Breathing"
-msgstr ""
+msgstr "Elixír žaberníku"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1031
 msgid ""
@@ -12295,12 +12295,12 @@ msgstr ""
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1051
 msgid "<span color='#00FFFF' size='x-small'>water breathing</span>"
-msgstr ""
+msgstr "<span color='#00FFFF' size='x-small'>žaberník</span>"
 
 #. [trait]: id=TRAIT_waterbreathing
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1063
 msgid "waterbreathing"
-msgstr ""
+msgstr "žaberník"
 
 #. [trait]: id=TRAIT_waterbreathing
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1064
@@ -12311,7 +12311,7 @@ msgstr ""
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1097
 msgid "Elixir of Elements"
-msgstr ""
+msgstr "Elixír živlů"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1098
 msgid ""
@@ -12322,12 +12322,12 @@ msgstr ""
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1118
 msgid "<span color='#E8B923' size='x-small'>elemental resist</span>"
-msgstr ""
+msgstr "<span color='#E8B923' size='x-small'>odolnost proti živlům</span>"
 
 #. [trait]: id=TRAIT_elements
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1132
 msgid "elements"
-msgstr ""
+msgstr "živly"
 
 #. [trait]: id=TRAIT_elements
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1133
@@ -12338,7 +12338,7 @@ msgstr ""
 #. [item_dialog_musttake]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1156
 msgid "Elixir of Haste"
-msgstr "Elixír rychlosti"
+msgstr "Elixír spěchu"
 
 #. [item_dialog_musttake]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1158
@@ -12350,12 +12350,12 @@ msgstr ""
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1181
 msgid "<span color='#0BDA51' size='x-small'>haste</span>"
-msgstr ""
+msgstr "<span color='#0BDA51' size='x-small'>spěch</span>"
 
 #. [trait]: id=TRAIT_haste
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1193
 msgid "haste"
-msgstr ""
+msgstr "spěch"
 
 #. [trait]: id=TRAIT_haste
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1194
@@ -12378,12 +12378,12 @@ msgstr ""
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1253
 msgid "<span color='#FF0000' size='x-small'>berserker fury</span>"
-msgstr ""
+msgstr "<span color='#FF0000' size='x-small'>zuřivost berserka</span>"
 
 #. [trait]: id=TRAIT_fury
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1265
 msgid "fury"
-msgstr ""
+msgstr "zuřivost"
 
 #. [trait]: id=TRAIT_fury
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1266
