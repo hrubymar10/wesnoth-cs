@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2023-12-20 10:14+0100\n"
+"PO-Revision-Date: 2023-12-25 08:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1262,7 +1262,7 @@ msgid ""
 "Let him out of the cage."
 msgstr ""
 "To musí být drakonid. Slyšel jsem, že jsou to hrůzostrašná, ale čestná "
-"stvoření. Pusťte ho z klece."
+"stvoření. Pusťte ho z klece."
 
 #. [message]: speaker=unit
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:608
@@ -1301,7 +1301,7 @@ msgstr ""
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:654
 msgid "Will you fight with us, Keshan?"
-msgstr "Budeš bojovat po našem boku Keshane?"
+msgstr "Budeš bojovat po našem boku, Kešane?"
 
 #. [message]: speaker=Keshan
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:659
