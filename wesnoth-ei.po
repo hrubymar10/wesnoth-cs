@@ -12107,6 +12107,8 @@ msgid ""
 "<i><b>melee</b></i> and <i><b>ranged</b></i> attacks with <i><b>arcane</b></"
 "i> damage."
 msgstr ""
+"Tento amulet s vyrytým posvěceným znakem požehná tvé <i><b>útoky zblízka</"
+"b></i> i <i><b>útoky na dálku</b></i> <i><b>nezemským</b></i> zraněním."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:220
 msgid "Drop Holy Amulet"
@@ -12126,6 +12128,9 @@ msgid ""
 "Whenever an adjacent ally is hit by an attack, <i><b>this shield’s bearer is "
 "hit instead</b></i>."
 msgstr ""
+"Hluboko uvnitř mohutného štítu slabě vrčí kouzelný stroj. Kdykoli je "
+"sousední spojenec zasažen útokem, <i><b>je místo něj zasažen držitel tohoto "
+"štítu</b></i>."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:258
 msgid "Drop Shield of the Sentinel"
@@ -12163,6 +12168,11 @@ msgid ""
 "<i><b><span color='#FF0000'>-1</span> damage, <span color='#FF0000'>-1</"
 "span> movement, <span color='#00FF00'>+10</span> hitpoints</b></i>."
 msgstr ""
+"Tato medu podobná lepkavá hmota způsobuje, že se cítíš velmi ospalý... možná "
+"by nebylo moudré se jí přejíst.\n"
+"\n"
+"<i><b><span color='#FF0000'>-1</span> zranění, <span color='#FF0000'>-1</"
+"span> pohyb, <span color='#00FF00'>+10</span> zásahových bodů</b></i>."
 
 #. [effect]: type=arcane
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:637
@@ -12181,6 +12191,11 @@ msgid ""
 "their foes with reckless abandon.\n"
 "<i><b>6x4 arcane</b></i> damage, <i><b>drains</b></i>, <i><b>berserk</b></i>."
 msgstr ""
+"Tento nehmotný meč se podobá mečům nemrtvých fantómů. Každý smrtelník, který "
+"je dostatečně odvážný, aby ho třímal, se stává <i><b>chaotickým</b></i> "
+"a vrhá se na své nepřátele s bezhlavou lehkovážností.\n"
+"<i><b>6x4 nezemského</b></i> zranění, <i><b>vysátí</b></i>, <i><b>na život "
+"a na smrt</b></i>."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:689
 msgid "Drop Baneblade"
@@ -12200,6 +12215,10 @@ msgid ""
 "Its drinker gains the <i><b>steadfast</b></i> ability and can <i><b>heal 2 "
 "hitpoints each turn</b></i>, like dwarves with the ‘healthy’ trait."
 msgstr ""
+"Tento lektvar bublá jako nad otevřeným plamenem, ale na dotek je chladný. "
+"Kdo se ho napije, získá schopnost <i><b>vytrvalý</b></i> a může si "
+"<i><b>každé kolo vyléčit 2 zásahové body</b></i>, stejně jako trpaslíci "
+"s vlastností „zdravý“."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:735
 msgid "ring"
@@ -12238,12 +12257,18 @@ msgid ""
 "Corpses and Soulless.\n"
 "<i><b>6x3 impact</b></i> damage, <i>plague</i>."
 msgstr ""
+"Držitel této temné hole, uloupené mrtvému nekromantovi, se stane "
+"<i><b>chaotickým</b></i> a může <i><b>verbovat a povolávat</b></i> chodící "
+"mrtvoly a těla bez duše.\n"
+"<i><b>6x3 úder</b></i> (zranění), <i>nákaza</i>."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:794
 msgid ""
 "I will not wield such a dark magical artifact, though I shall not begrudge "
 "its use by my companions."
 msgstr ""
+"Nebudu mít v držení takový temný magický artefakt, ale neupřu jeho využití "
+"svým společníkům."
 
 #. [effect]: type=impact
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:799
@@ -12260,11 +12285,13 @@ msgid ""
 "Fascinating. The necromantic magic concentrates in the subject’s crown, "
 "replacing its bestial soul. Unnatural, yet effective."
 msgstr ""
+"Úchvatné. Nekromantská magie se soustřeďuje v hlavě předmětu a nahrazuje "
+"jeho zvířecí duši. Nepřirozené, ale účinné."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:909
 msgid "A disgusting abomination! I lament living in such times..."
-msgstr ""
+msgstr "Odporná ohavnost! Lituji, že žiji v takové době..."
 
 #. [object]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:967
