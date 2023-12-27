@@ -12308,6 +12308,10 @@ msgid ""
 "i></span>\n"
 "<b></b>"
 msgstr ""
+"<span size='small'><i>  (Elixíry vydrží pouze 1 scénář.)</i></span>\n"
+"<span size='small'><i>  Sebrání předmětu spotřebuje tvůj pohyb a útok.</i></"
+"span>\n"
+"<b></b>"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1030
 msgid "Elixir of Water Breathing"
@@ -12318,6 +12322,8 @@ msgid ""
 "This shimmering blue vial grants its drinker normal movement and defense in "
 "swamp and shallow water."
 msgstr ""
+"Tato třpytivá modrá lahvička poskytuje tomu, kdo ji vypije, obvyklý pohyb "
+"a obranu v močálech a mělké vodě."
 
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1051
@@ -12335,6 +12341,8 @@ msgid ""
 "An elixir of waterbreathing has given this unit normal movement and defense "
 "in swamp and shallow water."
 msgstr ""
+"Elixír žaberníku propůjčil této jednotce obvyklý pohyb a obranu v močálech "
+"a mělké vodě."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1097
 msgid "Elixir of Elements"
@@ -12345,6 +12353,8 @@ msgid ""
 "This bubbling yellow vial grants immunity to both fire and cold. It also "
 "makes you sweat profusely."
 msgstr ""
+"Tato bublající žlutá lahvička poskytuje odolnost vůči ohni i chladu. Také se "
+"po ní silně potíš."
 
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1118
@@ -12360,7 +12370,7 @@ msgstr "živly"
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1133
 msgid ""
 "An elixir of elements has given this unit immunity to both fire and cold."
-msgstr ""
+msgstr "Díky elixíru živlů získala tato jednotka odolnost vůči ohni i chladu."
 
 #. [item_dialog_musttake]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1156
@@ -12373,6 +12383,8 @@ msgid ""
 "This saccharine green liquid grants +1 movement and +10% defense on all "
 "terrain. You may have difficulty standing still."
 msgstr ""
+"Tato přeslazená zelená tekutina poskytuje +1 k pohybu a +10 % k obraně "
+"v jakémkoli terénu. Můžeš mít potíže zůstat stát na místě."
 
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1181
@@ -12390,6 +12402,8 @@ msgid ""
 "An elixir of haste has given this unit +1 movement and +10% defense on all "
 "terrain."
 msgstr ""
+"Díky elixíru spěchu získala tato jednotka +1 k pohybu a +10 % k obraně "
+"v jakémkoli terénu."
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1232
 msgid "Elixir of Fury"
@@ -12401,6 +12415,9 @@ msgid ""
 "Drinking it grants <b><i>unlimited melee attacks</i></b> and the "
 "<b><i>berserk</i></b> melee special."
 msgstr ""
+"Červená kapalina v lahvičce prudce šplíchá, jako by se snažila uniknout. "
+"Její vypití poskytuje <b><i>neomezené útoky zblízka</i></b> a speciální "
+"schopnost <b><i>na život a na smrt</i></b>."
 
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1253
@@ -12418,6 +12435,8 @@ msgid ""
 "An elixir of fury has given this unit <b><i>unlimited melee attacks</i></b> "
 "and the <b><i>berserk</i></b> melee special."
 msgstr ""
+"Díky elixíru zuřivosti získala tato jednotka <b><i>neomezený počet útoků "
+"zblízka</i></b> a speciální schopnost <b><i>na život a na smrt</i></b>."
 
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:8
