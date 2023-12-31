@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2023-12-28 11:28+0100\n"
+"PO-Revision-Date: 2023-12-31 20:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1614,16 +1614,16 @@ msgid ""
 "needed a break from travel; Cylanna only vaguely remembered them, but "
 "thought they might be safe."
 msgstr ""
-"Mořští lidé nyní neměli na výběr nic jiného, než cestovat otevřeným oceánem. "
-"Věděli o něm, že je víc zrádný než mělké vody. Po pár dnech narazili v trase "
-"své cesty na nějaké ostrovy. Nemocní a mladí mezi uprchlíky si potřebovali "
+"Mořští lidé nyní neměli na výběr nic jiného než cestovat otevřeným oceánem. "
+"Věděli o něm, že je víc zrádný než mělké vody. Po pár dnech narazili v trase "
+"své cesty na nějaké ostrovy. Nemocní a mladí mezi uprchlíky si potřebovali "
 "odpočinout. Cylanna si na tyto ostrovy vzpomínala jen matně, ale domnívala "
 "se, že jsou bezpečné."
 
 #. [side]: id=Growloff, type=Ranger
 #: data/campaigns/Dead_Water/scenarios/06_Uncharted_Islands.cfg:53
 msgid "Growloff and His Pets"
-msgstr "Groula a jeho Mazlíčci"
+msgstr "Groula a jeho mazlíčci"
 
 #. [side]: id=Growloff, type=Ranger
 #: data/campaigns/Dead_Water/scenarios/06_Uncharted_Islands.cfg:58
@@ -1644,7 +1644,7 @@ msgstr "Eh och. Je tu někdo další. Hej! Útočí na něj sépie!"
 #. [message]: speaker=Growloff
 #: data/campaigns/Dead_Water/scenarios/06_Uncharted_Islands.cfg:170
 msgid "Look my pet, here’s a yummy treat!"
-msgstr "Podívej miláčku na ty ňaminky!"
+msgstr "Podívej, miláčku, na ty ňaminky!"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/06_Uncharted_Islands.cfg:174
