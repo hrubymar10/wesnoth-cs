@@ -4,6 +4,7 @@
 
 File | Messages | Translated | Translated% | Fuzzy | Untranslated
 --- | --: | --: | --: | --: | --:
+wesnoth-ala.po | 407 | 405| 99% | 0 | 2
 wesnoth-A_New_Order.po | 3230 | 2845| 88% | 143 | 242
 wesnoth-The_Earths_Gut.po | 1565 | 313| 20% | 6 | 1246
 
@@ -11,7 +12,7 @@ wesnoth-The_Earths_Gut.po | 1565 | 313| 20% | 6 | 1246
 
 Files | Messages | Translated | Translated% | Fuzzy | Untranslated
 --: | --: | --: | --: | --: | --:
-2 | 4795 | 3158 | 65% | 149 | 1488
+3 | 5202 | 3563 | 68% | 149 | 1490
 
 ---
 
