@@ -1,6 +1,6 @@
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020 - 2023
 #
 msgid ""
@@ -8,15 +8,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2023-12-23 11:53+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2024-01-02 22:11+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.4.2\n"
 
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
@@ -1823,81 +1822,57 @@ msgstr "Poraz Mal-Skraata a uvolni si <i>(středně obtížnou)</i> cestu na zá
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:545
-#, fuzzy
-#| msgid ""
-#| "To travel east, collect {COUNT} alswdan herbs and pay Hahid al-Ali "
-#| "$gold_cost gold. <i>(challenging)</i>"
 msgid ""
 "To travel east, collect 6 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej {COUNT} ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 6 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
+"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:546
-#, fuzzy
-#| msgid ""
-#| "To travel east, collect {COUNT} alswdan herbs and pay Hahid al-Ali "
-#| "$gold_cost gold. <i>(challenging)</i>"
 msgid ""
 "To travel east, collect 5 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej {COUNT} ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 5 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
+"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:547
-#, fuzzy
-#| msgid ""
-#| "To travel east, collect {COUNT} alswdan herbs and pay Hahid al-Ali "
-#| "$gold_cost gold. <i>(challenging)</i>"
 msgid ""
 "To travel east, collect 4 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej {COUNT} ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 4 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
+"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:548
-#, fuzzy
-#| msgid ""
-#| "To travel east, collect {COUNT} alswdan herbs and pay Hahid al-Ali "
-#| "$gold_cost gold. <i>(challenging)</i>"
 msgid ""
 "To travel east, collect 3 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej {COUNT} ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 3 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
+"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:549
-#, fuzzy
-#| msgid ""
-#| "To travel east, collect {COUNT} alswdan herbs and pay Hahid al-Ali "
-#| "$gold_cost gold. <i>(challenging)</i>"
 msgid ""
 "To travel east, collect 2 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej {COUNT} ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 2 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
+"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:550
-#, fuzzy
-#| msgid ""
-#| "To travel east, collect {COUNT} alswdan herbs and pay Hahid al-Ali "
-#| "$gold_cost gold. <i>(challenging)</i>"
 msgid ""
 "To travel east, collect 1 alswdan herb and pay Hahid al-Ali $gold_cost gold. "
 "<i>(challenging)</i>"
 msgstr ""
-"Nasbírej {COUNT} ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Seber 1 bylinu alsuvdan a zaplať Hahid al-Alimu $gold_cost "
+"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:561
