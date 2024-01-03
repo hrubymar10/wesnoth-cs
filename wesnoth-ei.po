@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-02 22:11+0100\n"
+"PO-Revision-Date: 2024-01-03 22:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1826,8 +1826,8 @@ msgid ""
 "To travel east, collect 6 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej 6 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 6 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost zlatých "
+"a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:546
@@ -1835,8 +1835,8 @@ msgid ""
 "To travel east, collect 5 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej 5 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 5 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost zlatých "
+"a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:547
@@ -1844,8 +1844,8 @@ msgid ""
 "To travel east, collect 4 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej 4 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 4 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost zlatých "
+"a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:548
@@ -1853,8 +1853,8 @@ msgid ""
 "To travel east, collect 3 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej 3 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 3 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost zlatých "
+"a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:549
@@ -1862,8 +1862,8 @@ msgid ""
 "To travel east, collect 2 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej 2 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Nasbírej 2 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost zlatých "
+"a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:550
@@ -1871,8 +1871,8 @@ msgid ""
 "To travel east, collect 1 alswdan herb and pay Hahid al-Ali $gold_cost gold. "
 "<i>(challenging)</i>"
 msgstr ""
-"Seber 1 bylinu alsuvdan a zaplať Hahid al-Alimu $gold_cost "
-"zlatých a uvolni si tak <i>(náročnou)</i> cestu na východ"
+"Seber 1 bylinu alsuvdan a zaplať Hahid al-Alimu $gold_cost zlatých a uvolni "
+"si tak <i>(náročnou)</i> cestu na východ"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:561
@@ -3373,7 +3373,6 @@ msgstr ""
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:391
-#, fuzzy
 msgid "By the Clans! Do these undead mean to conquer all the world?"
 msgstr "U klanů! Nechtějí tihle nemrtví dobýt celý svět?"
 
@@ -3401,16 +3400,12 @@ msgstr "Je čas vynořit mé posily!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:492
-#, fuzzy
-#| msgid ""
-#| "It seems as if in addition to summoning undead this foul sorcerer has "
-#| "learned to call up monsters from the deep!"
 msgid ""
 "In addition to summoning undead, this sorcerer has learned to command swarms "
 "of carnivorous fish!"
 msgstr ""
-"Zdá se, že kromě povolávání nemrtvých se tento lich naučil vyvolávat i tvory "
-"hlubin!"
+"Kromě povolávání nemrtvých se tento čaroděj naučil ovládat i hejna "
+"masožravých ryb!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:496
@@ -4020,10 +4015,8 @@ msgstr "Ještěráci"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:186
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:469
-#, fuzzy
-#| msgid "Northern Outpost"
 msgid "Parthyn Guardpost"
-msgstr "Severní výspa"
+msgstr "Parthynská hláska"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:193
@@ -4084,16 +4077,12 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:288
-#, fuzzy
-#| msgid ""
-#| "If we show ourselves as enemies of the orcs, they may aid us. But first "
-#| "we need to cross the river."
 msgid ""
 "If we can reach the ogres in time, we may be able to convince them to aid "
 "us. But first we need to cross the river."
 msgstr ""
-"Pokud jim ukážeme, že jsme nepřátelé skřetů, možná nám pomohou. Ale nejdřív "
-"musíme přejít řeku."
+"Pokud se nám podaří dostat k obrům včas, možná je přesvědčíme, aby nám "
+"pomohli. Nejdřív ale musíme přejít řeku."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:297
@@ -4141,10 +4130,8 @@ msgstr ""
 
 #. [message]: speaker=ghast_leader
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:443
-#, fuzzy
-#| msgid "Grarrgghh..."
 msgid "Gruhhhh...."
-msgstr "Grarrgg...."
+msgstr "Gráhhhh..."
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:483
@@ -4234,10 +4221,8 @@ msgstr ""
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:855
-#, fuzzy
-#| msgid "Good! We have escaped these accursed caves!"
 msgid "Good, we have safely crossed!"
-msgstr "Výborně! Unikli jsme z těch proklatých jeskyní!"
+msgstr "Dobře, přešli jsme bezpečně na druhý břeh!"
 
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:896
@@ -4252,10 +4237,8 @@ msgstr ""
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:913
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:139
-#, fuzzy
-#| msgid "Grarrgghh..."
 msgid "Hurt... grarrgghh..."
-msgstr "Grarrgg...."
+msgstr "Bolí... grarrgghh..."
 
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:10
