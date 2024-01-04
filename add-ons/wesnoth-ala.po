@@ -1,19 +1,20 @@
-# Petr Šlejhar (Septim), 2022 – 2023
+# Petr Šlejhar (Septim), 2022 – 2024
 # Michal Žejdl <lachim@emer.cz>, 2022, 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-31 04:31 UTC\n"
-"PO-Revision-Date: 2024-01-01 14:10+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"POT-Creation-Date: 2024-01-02 18:25 UTC\n"
+"PO-Revision-Date: 2024-01-02 14:53+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [campaign]: id=A_little_Adventure
 #. Strings from utils/ALA_Deaths.cfg used to get put in the potfile
@@ -198,7 +199,7 @@ msgstr "Poraz jednoho z nepřátelských vůdců"
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:66
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:144
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:42
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:476
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:477
 msgid "Death of Glauco"
 msgstr "Glauko zemře"
 
@@ -216,7 +217,7 @@ msgstr "Titus"
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:167
 msgid "Caius"
-msgstr "Caius"
+msgstr "Kaius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:168
@@ -261,7 +262,7 @@ msgstr "Geobard"
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:70
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:148
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:46
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:480
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:481
 msgid "Death of Geobard"
 msgstr "Geobard zemře"
 
@@ -479,17 +480,17 @@ msgstr "Poraz Grunta"
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:101
 msgid "Perticus"
-msgstr "Perticus"
+msgstr "Pertikus"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:102
 msgid "Paroclo"
-msgstr "Paroclo"
+msgstr "Paroklo"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:103
 msgid "Octavio"
-msgstr "Octavio"
+msgstr "Oktavio"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:104
@@ -504,7 +505,7 @@ msgstr "Virgulio"
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:106
 msgid "Closofeo"
-msgstr "Closofeo"
+msgstr "Klosofeo"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:116
@@ -613,7 +614,7 @@ msgstr ""
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:78
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:152
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:50
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:484
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:485
 msgid "Death of Glubtrub"
 msgstr "Glubtrub zemře"
 
@@ -876,47 +877,48 @@ msgid "Widen the path across the river again, and then everyone attack!"
 msgstr "Rozšiřte znovu cestu přes řeku a pak všichni zaútočte!"
 
 #. [unit]: type=Naga Myrmidon, id=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:436
+#. name of a Naga Myrmidon unit (note the "k"):
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:437
 msgid "Hisskss"
-msgstr "Hisskss"
+msgstr "Hisskiss"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:472
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:473
 msgid "Defeat all enemy leaders"
 msgstr "Poraz všechny nepřátelské vůdce"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:504
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:505
 msgid "Those damned are all dead or escaped! Finally we finished!"
 msgstr "Ti zatracenci jsou všichni mrtví nebo uprchli! Konečně jsme hotovi!"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:521
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:522
 msgid "Impossible!"
 msgstr "Nemožný!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:525
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:526
 msgid "With your end, orc, Amoran can and will have a new start!"
 msgstr "S tvým koncem, skřete, může a bude mít Amoran novou budoucnost!"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:540
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:541
 msgid "To remain only to squash big snake!"
 msgstr "Jen velký had zbývat rozmáčknout!"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:556
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:557
 msgid "Hissss!"
 msgstr "Assss!"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:564
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:565
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
 msgstr "Další had ležet jak kláda! Hó! Hó! Hó!"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:573
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:574
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
 msgstr "A teď to pojďme dokončit s jeho kámošem Gan-Tarkasem!"
 
@@ -940,6 +942,10 @@ msgid ""
 "and dizzy opponents, before finishing them off with a flurry of devastating "
 "punches."
 msgstr ""
+"Některé bojové školy mořských lidí se věnují zdokonalování boje beze zbraně "
+"oproti použití kopí či trojzubce. Tito cvičenci více využívají schopnosti "
+"svého těla. K rozkolísání a omračování svých soupeřů upřednostňují techniku "
+"využívající ran ocasy aby je poté dorazili přívalem ničivých pěstních úderů."
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Brawler.cfg:24
@@ -979,6 +985,11 @@ msgid ""
 "underwater, every merman is taught how to fight with their bare fists, to "
 "surprising effect."
 msgstr ""
+"I když jsou království mořských lidí obvykle mírumilovná, jejich obyvatelé "
+"jsou přesto všichni vycvičeni v základech boje, pro případ, že by se jejich "
+"město dostalo pod útok. Vzhledem k tomu, že kovové zbraně jsou vzácné kvůli "
+"nemožnosti provádět pod vodou kovářské práce, učí se každý mořský muž "
+"bojovat holými pěstmi, což bývá překvapivě účinné."
 
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:6
