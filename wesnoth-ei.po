@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-03 22:01+0100\n"
+"PO-Revision-Date: 2024-01-04 23:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5172,10 +5172,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:532
-#, fuzzy
-#| msgid "Royal Guard"
 msgid "Study Guard"
-msgstr "Královská stráž"
+msgstr "Stráž studovny"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:561
@@ -5218,17 +5216,13 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:687
-#, fuzzy
-#| msgid "Defeat the enemy leader"
 msgid "Defeat the sanctum guard"
-msgstr "Poraz nepřátelského velitele"
+msgstr "Poraz stráž svatyně"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:694
-#, fuzzy
-#| msgid "Retrieve the stolen gold"
 msgid "Retrieve the amulet"
-msgstr "Získáš ukradené zlato"
+msgstr "Získej amulet"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:699
@@ -5511,10 +5505,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1274
-#, fuzzy
-#| msgid "Uh oh!"
 msgid "Uh oh..."
-msgstr "Ach och!"
+msgstr "Ajaj..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1282
