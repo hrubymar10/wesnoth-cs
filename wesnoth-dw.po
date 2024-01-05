@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2023-12-31 20:53+0100\n"
+"PO-Revision-Date: 2024-01-05 22:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1452,7 +1452,7 @@ msgid ""
 "What’s going on? What are you fish-men doing here? Are we constantly to be "
 "pestered by you creatures?"
 msgstr ""
-"Co se to děje? Co tu pohledáváte, vy rybáci? Budete nás vy kreatury pořád "
+"Co se to děje? Co tu pohledáváte, vy rybáci? Budete nás, vy kreatury, pořád "
 "otravovat?"
 
 #. [message]: speaker=Cylanna
@@ -1727,8 +1727,8 @@ msgid ""
 "Very well. I will take the cuttlefish. But do not trouble us again, or I "
 "shall kill you and all the rest of your pets."
 msgstr ""
-"Dobře. Vezmu si ho. Ale radši bys nás neměl znovu otravovat nebo tě dám "
-"zabít i se zbytkem tvých miláčků."
+"Dobře. Vezmu si ho. Ale radši bys nás neměl znovu otravovat, nebo tě dám "
+"zabít i se zbytkem tvých miláčků."
 
 #. [message]: speaker=Growloff
 #: data/campaigns/Dead_Water/scenarios/06_Uncharted_Islands.cfg:258
@@ -1736,7 +1736,7 @@ msgid ""
 "Of course, of course. I promise! I never wanted to hurt you nice people "
 "anyway."
 msgstr ""
-"Jistě, jistě, slibuji! Vždyť jsem nikdy nechtěl ublížit takovým milým lidem "
+"Jistě, jistě, slibuji! Vždyť jsem nikdy nechtěl ublížit takovým milým lidem, "
 "jako jste vy."
 
 #. [unit]: type=Cuttle Fish, id=Inky
@@ -1777,7 +1777,7 @@ msgstr "Vlagnor"
 #. [message]: speaker=Vlagnor
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:124
 msgid "What are you merfolk doing here?"
-msgstr "Co tu vy rybáci děláte?"
+msgstr "Co tu, vy rybáci, děláte?"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:128
@@ -1797,7 +1797,7 @@ msgstr "Čarodějnicí?!"
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:140
 msgid "Witch?"
-msgstr "Čarodějnicí?!"
+msgstr "Čarodějnicí?"
 
 #. [message]: speaker=Vlagnor
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:144
@@ -1811,7 +1811,7 @@ msgstr ""
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:148
 msgid "We are going around this island whether you want us to or not."
-msgstr "Poplujeme kolem ostrova, ať o nás budeš stát nebo nebudeš."
+msgstr "Poplujeme kolem ostrova, ať o nás budeš stát, nebo nebudeš."
 
 #. [message]: speaker=Vlagnor
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:152
