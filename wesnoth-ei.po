@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-04 23:24+0100\n"
+"PO-Revision-Date: 2024-01-05 22:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6098,18 +6098,14 @@ msgstr "V zajetí"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:15
-#, fuzzy
-#| msgid ""
-#| "Gweddry, Dacyn and Owaec were promptly taken before the orcish chieftain, "
-#| "Dra-Nak, while the rest were thrown into the orcish prisons to await "
-#| "their turn..."
 msgid ""
 "After their surrender, Gweddry, Dacyn, and Owaec were promptly taken before "
 "the orcish chieftain, Dra-Nak. The rest were thrown into the prisons to "
 "await their turn..."
 msgstr ""
-"Gweddry, Dacyn a Owaec byli okamžitě předvedeni před skřetího náčelníka, Dra-"
-"Naka, zatímco ostatní zavřeli do žaláře, dokud na ně nepřijde řada..."
+"Poté, co se vzdali, byli Gweddry, Dacyn a Owaec okamžitě předvedeni před "
+"skřetího náčelníka Dra-Naka. Ostatní byli uvrženi do vězení, kde čekali, až "
+"na ně přijde řada..."
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:94
@@ -6500,10 +6496,8 @@ msgstr "Chraňte náčelníka!"
 
 #. [message]: speaker=Varrak-Klar
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1470
-#, fuzzy
-#| msgid "Death of the escapees"
 msgid "Into the caves!"
-msgstr "Uprchlíci zemřou"
+msgstr "Do jeskyní!"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1480
@@ -6515,10 +6509,8 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1487
-#, fuzzy
-#| msgid "We’ve got to get out of here!"
 msgid "Everyone hurry, we have to get out of here!"
-msgstr "Musíme se odtud dostat!"
+msgstr "Všichni si pospěšte, musíme se odsud dostat!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1509
@@ -6544,17 +6536,13 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1521
-#, fuzzy
-#| msgid "Come, let us return to Wesnoth and head for the Northern Outpost."
 msgid "Then let us return quickly to Wesnoth to aid in their defense!"
-msgstr "Pojďme, vrátíme se do Wesnothu a půjdeme k Severní pevnosti."
+msgstr "Pak se rychle vraťme do Wesnothu, abychom jim pomohli s obranou!"
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1535
-#, fuzzy
-#| msgid "Hey! Who are you? Get him!"
 msgid "Hey, who are you? Boja, sic ’em!"
-msgstr "Hej! Kdo jsi? Dostaňte ho!"
+msgstr "Hej! Kdo jste? Bojo, trhej!"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1539
