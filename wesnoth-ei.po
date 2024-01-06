@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-05 22:44+0100\n"
+"PO-Revision-Date: 2024-01-06 19:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6148,7 +6148,7 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:649
 msgid ""
 "Several of Gweddry’s men find themselves locked away in a crude orcish cell."
-msgstr "Někteří z Gwedryho mužů se ocitli v neopravených skřetích celách."
+msgstr "Někteří z Gweddryho mužů se ocitli v neopravených skřetích celách."
 
 #. [message]: role=escapee sidekick 1
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:654
@@ -6613,17 +6613,12 @@ msgstr "Evakuace"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:45
-#, fuzzy
-#| msgid ""
-#| "Gweddry and his men had escaped from the orcish prisons, but after "
-#| "returning to the daylight they soon found themselves surrounded by a host "
-#| "of orcs."
 msgid ""
 "Gweddry and his men escaped from the orcish prisons and fled westward as "
 "swiftly as they could, closely pursued by the orcs and their drake vassals."
 msgstr ""
-"Gweddry a jeho muži unikli z vězení. Ale při návratu na denní světlo se zase "
-"brzy ocitli v obklíčení skřetů."
+"Gweddry a jeho muži unikli ze skřetího vězení a prchali co nejrychleji na "
+"západ se skřety a jejich drakonidskými vazaly v patách."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:255
@@ -6984,11 +6979,8 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:847
-#, fuzzy
-#| msgid ""
-#| "We have not thrown down the bridge in time! The orcs will kill us all!"
 msgid "We have not crossed the bridge in time. Now we will all be killed!"
-msgstr "Nedokázali jsme včas zbořit most! Skřeti nás všechny zabijí!"
+msgstr "Nepřešli jsme přes most včas. Teď budeme všichni zabiti!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:858
@@ -7125,10 +7117,8 @@ msgstr "Owaec zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:530
-#, fuzzy
-#| msgid "Death of Dacyn"
 msgid "Death of Terraent"
-msgstr "Dacyn zemře"
+msgstr "Terraent zemře"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:545
@@ -7168,10 +7158,8 @@ msgstr ""
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:613
-#, fuzzy
-#| msgid "No! I... die..."
 msgid "I... Hunger..."
-msgstr "Ne! Já.... umírám..."
+msgstr "Já... Hlad..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:618
@@ -7424,10 +7412,8 @@ msgstr ""
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1356
-#, fuzzy
-#| msgid "You have failed me, man of Wesnoth..."
 msgid "Not again! Do not test me, paladin of Wesnoth..."
-msgstr "Zklamal jsi mě, muži z Wesnothu..."
+msgstr "Už zase! Nezkoušej mě, paladine z Wesnothu..."
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1363
@@ -7612,10 +7598,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:455
-#, fuzzy
-#| msgid "Wesnoth, I have failed you..."
 msgid "... Lord Gaelyc, I have failed you."
-msgstr "Wesnothe, zklamal jsem tě..."
+msgstr "... Lorde Gaelycu, zklamal jsem tě."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:456
