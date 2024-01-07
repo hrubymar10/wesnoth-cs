@@ -2,14 +2,14 @@
 # Petr Šlejhar (Septim), 2009 - 2011, 2020 - 2023
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2024-01-05 22:24+0100\n"
+"PO-Revision-Date: 2024-01-07 11:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1838,7 +1838,7 @@ msgid ""
 "finally at their destination. The small island where Tyegëa and her students "
 "lived was before them."
 msgstr ""
-"Cesta byla mnohem dobrodružnější než Kai Krellis plánoval, ale nakonec se "
+"Cesta byla mnohem dobrodružnější, než Kai Krellis plánoval, ale nakonec se "
 "dostali tam, kam chtěli. Ležel před nimi malý ostrov, kde pobývala Tyjegea "
 "se svými učednicemi."
 
@@ -1870,8 +1870,8 @@ msgid ""
 "Welcome, merfolk! It has been a long time since outsiders have visited. And "
 "Cylanna! It is pleasant to see you."
 msgstr ""
-"Vítejte mořští lidé! Už je to dlouho, co nás někdo z venku navštívil. Á "
-"Cylanna! Ráda tě vidím."
+"Vítejte, mořští lidé! Už je to dlouho, co nás někdo z venku navštívil. "
+"Á Cylanna! Ráda tě vidím."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:119
@@ -1895,8 +1895,8 @@ msgid ""
 "Now is not the time. We have a desperate errand, Tyegëa. Jotha has been "
 "attacked and taken."
 msgstr ""
-"Teď na to není pravá chvíle. Jsme v zoufalé situaci Tyjegeo. Jota byla "
-"napadena a dobyta."
+"Teď na to není pravá chvíle. Jsme v zoufalé situaci, Tyjegeo. Jota byla "
+"napadena a dobyta."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:135
@@ -1997,10 +1997,10 @@ msgid ""
 "prove that my blood flows in your veins. Prove that your are, despite "
 "appearances, courageous, and worthy of my help."
 msgstr ""
-"Zbývá si ujasnit jedno. Shledávám jako znepokojující, že by Kai – a můj "
-"potomek – sem přišel žebrat o pomoc. Než budu souhlasit, že vás zachráním, "
-"musíš prokázat, že má krev proudí v tvých žilách. Dokaž že jsi, ač se to "
-"nezdá, kurážný a zasloužíš mou pomoc."
+"Zbývá si ujasnit jedno. Shledávám jako znepokojující, že by Kai – a můj "
+"potomek – sem přišel žebrat o pomoc. Než budu souhlasit, že vás zachráním, "
+"musíš prokázat, že má krev proudí v tvých žilách. Dokaž, že jsi, ač se to "
+"nezdá, kurážný a zasloužíš mou pomoc."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:187
@@ -2033,8 +2033,8 @@ msgstr ""
 "kouzelníka jménem Agnovon. Agnovon ji nemiloval, ale falešně předstíral že "
 "ano a Imirna mu uvěřila. Když ji požádal, aby mu pomohla očarovat meč tak, "
 "aby byl stále obklopen magickým ohněm, oddaně použila veškerý svůj um k "
-"vytvoření takové zbraně. Později Agnovon použil ten meč k porážce vlastního "
-"Imirninina lidu a získání všeho jejich bohatství. Zlomena žalem se Imirna "
+"vytvoření takové zbraně. Později Agnovon použil ten meč k porážce Imirnina "
+"vlastního lidu a získání všeho jejich bohatství. Zlomena žalem se Imirna "
 "otrávila."
 
 #. [message]: speaker=Tyegea
