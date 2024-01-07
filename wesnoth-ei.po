@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-06 19:16+0100\n"
+"PO-Revision-Date: 2024-01-07 11:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8792,14 +8792,8 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1078
-#, fuzzy
-#| msgid ""
-#| "We will fight soon, my lord. Look, night approaches; and with it the "
-#| "undead hordes. I stand ready to defend the kingdom."
 msgid "Night approaches, and with it the undead hordes. I stand ready."
-msgstr ""
-"Brzy budeme bojovat, můj pane. Podívej, přichází noc... a s ní i hordy "
-"nemrtvých. Jsem připravený na obranu království."
+msgstr "Přichází noc a s ní i hordy nemrtvých. Jsem připraven."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1082
@@ -9106,10 +9100,8 @@ msgstr "Ne! Teď už nikdy nedosáhnu své pomsty..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1945
-#, fuzzy
-#| msgid "Grarrgghh..."
 msgid "Gruhhh..."
-msgstr "Grarrgg...."
+msgstr "Gráhhh..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1991
@@ -9763,11 +9755,10 @@ msgstr "Grug smutný! Magik laskavý muž být."
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:215
-#, fuzzy
 msgid ""
 "Ay. Too many ha’ died in this war, both my kinsmen at Knalga and yours here."
 msgstr ""
-"Jo. V týhle válce zemřelo příliš mnoho ha’, jak mých druhů v Knalze, tak "
+"Jo. V týhle válce jich zemřelo příliš mnoho, jak mejch druhů v Knalze, tak "
 "vašich tady."
 
 #. [message]: speaker=Gweddry
@@ -9975,28 +9966,23 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:458
-#, fuzzy
-#| msgid ""
-#| "Sir Terraent, your service to the crown has been a beacon of light in "
-#| "these dark times. We are appointing you to command the River Guard in "
-#| "Estmark."
 msgid ""
 "Sir Terraent, your service to the Crown and your unfailing optimism has been "
 "a beacon of light in these dark times. If you accept, we would appoint you "
 "to command the River Guard in Estmark."
 msgstr ""
-"Sire Terraente, tvá služba byla majákem v těchto temných časech. Tímto tě "
-"povyšuji na velitele Říční stráže ve východním pohraničí."
+"Sire Terraente, tvá služba koruně a tvůj neutuchající optimismus byly "
+"v těchto temných časech zářným světlem. Pokud to přijmeš, jmenovali bychom "
+"tě velitelem říční stráže ve východním pohraničí."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:462
-#, fuzzy
-#| msgid ""
-#| "It is an honor to serve my kingdom, and I humbly accept your commission."
 msgid ""
 "It has been an honor to spread the holy Light in this kingdom, and I humbly "
 "accept your commission. May the Light shine ever-bright upon the pious."
-msgstr "Je mi ctí sloužit svému království a pokorně příjmám váš rozkaz."
+msgstr ""
+"Bylo mi ctí šířit svaté světlo v tomto království a pokorně přijímám vaši "
+"odměnu. Kéž to světlo vždy radostně září na zbožné."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:495
@@ -10101,25 +10087,21 @@ msgstr "Pane, plnil jsem jen svou povinost."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:621
-#, fuzzy
-#| msgid "Quite. Now do not interrupt while I am doing mine... Kneel, Gweddry."
 msgid ""
 "Quite. Now do not interrupt while I am doing mine... Kneel, Gweddry, "
 "lieutenant."
-msgstr "Ticho. Neruš, když konáme, co konáme... poklekni, Gweddry."
+msgstr ""
+"Přesně tak. Teď mě nepřerušuj, když konám svou... Poklekni, Gweddry, "
+"poručíku."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:626
-#, fuzzy
-#| msgid ""
-#| "And arise, Gweddry, Earl of Estmark. The land for which you shed your "
-#| "blood shall be put under your hand to be made green again."
 msgid ""
 "And arise, Gweddry, Earl of Estmark! The land for which you shed your blood "
 "shall be put under your hand to be made green again. May you ever prosper."
 msgstr ""
-"Povstaň, Gweddry, hrabě východního pohraničí. Zem, pro niž jsi prolil "
-"vlastní krev, je ti dána do správy; nechť opět zezelená."
+"A povstaň, Gweddry, hrabě východního pohraničí! Zem, pro niž jsi prolil svou "
+"krev, je ti dána do správy, aby se opět zazelenala. Ať se ti vždy daří."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:634
@@ -10138,18 +10120,12 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:651
-#, fuzzy
-#| msgid ""
-#| "Arise, Owaec, Knight Commander of the King’s Horse. And take as Our first "
-#| "command to you your own wish; go from here, secure our borders, and show "
-#| "all that the might of Wesnoth will endure."
 msgid ""
 "To each of you, take as Our first command to you your own wish! Go from "
 "here; secure our borders. Show all that the might of Wesnoth will endure!"
 msgstr ""
-"Vstaň, Owaeci, Rytíři a veliteli Královské jízdy. A přijmi svůj první úkol, "
-"který je podle tvého gusta. Jeď, zabezpeč naše hranice a ukaž všem, že moc "
-"Wesnothu trvá."
+"Každý z vás ať přijme své vlastní přání jako náš první rozkaz! Jděte, "
+"zabezpečte naše hranice. Ukažte všem, že moc Wesnothu přetrvá!"
 
 #. [scenario]: id=99_Empire
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:4
