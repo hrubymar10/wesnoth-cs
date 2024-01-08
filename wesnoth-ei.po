@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-07 11:23+0100\n"
+"PO-Revision-Date: 2024-01-08 20:49+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10162,10 +10162,8 @@ msgstr ""
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:238
-#, fuzzy
-#| msgid "Prisoners"
 msgid "Prison Guards"
-msgstr "Vězni"
+msgstr "Vězeňská stráž"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:240
@@ -10295,14 +10293,13 @@ msgstr ""
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:683
-#, fuzzy
 msgid ""
 "He called himself your leader, but now you see him for the weakling he "
 "really was. You can either join him or fight alongside me and pray I show "
 "you mercy."
 msgstr ""
-"Nazýval se vaším vůdcem, ale teď vidíte, že je to slaboch. Buď se k němu "
-"přidáš, nebo budeš bojovat po mém boku a modlit se, abych se nad tebou "
+"Nazýval se vaším vůdcem, ale teď vidíte, že je to slaboch. Buď se k němu "
+"přidáte, nebo budete bojovat po mém boku a modlit se, abych se nad vámi "
 "smiloval."
 
 #. [then]
@@ -10321,13 +10318,12 @@ msgstr "Můžete to také vzdát! Odpor je zbytečný."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:701
-#, fuzzy
 msgid ""
 "Nobody escapes me. Join me and I’ll treat you fairly, resist me and you’ll "
 "die painfully."
 msgstr ""
-"Nikdo mi neunikne. Přidej se ke mně a budu s tebou jednat spravedlivě, "
-"vzepřete se mi a zemřete bolestivou smrtí."
+"Nikdo mi neunikne. Přidejte se ke mně a budu s vámi jednat spravedlivě, "
+"vzepřete se mi a zemřete bolestivou smrtí."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:712
@@ -10511,10 +10507,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1359
-#, fuzzy
-#| msgid "We’ve got to get out of here!"
 msgid "Yes, YES! Get me out of here."
-msgstr "Musíme se odtud dostat!"
+msgstr "Ano, ANO! Dostaň mě odsud."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1362
