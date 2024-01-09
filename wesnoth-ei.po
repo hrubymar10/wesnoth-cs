@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-08 20:49+0100\n"
+"PO-Revision-Date: 2024-01-09 20:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10655,16 +10655,15 @@ msgstr "Korouhevník"
 
 #. [unit_type]: id=Banneret, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Banneret.cfg:19
-#, fuzzy
 msgid ""
 "The few lancers who survive for long enough invariably find themselves "
 "commanding companies of their own. Still clad in minimal armor, they ride "
 "with even greater speed, charging into battle and leading from the forefront "
 "of any conflict."
 msgstr ""
-"Těch pár lancerů, kteří přežijí dostatečně dlouho, se vždy ocitne ve velení "
-"své vlastní společnosti. Stále oblečeni v minimálním brnění jezdí s ještě "
-"větší rychlostí, vrhají se do bitvy a vedou z čela jakéhokoli konfliktu."
+"Těch několik málo lancerů, kteří přežijí dostatečně dlouho, se vždy stane "
+"veliteli vlastních rot. Stále jsou oděni v minimální zbroji, ale jezdí ještě "
+"rychleji, vrhají se do bitvy a jsou v čele jakéhokoli střetu."
 
 #. [unit_type]: id=Fallen Mage, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Fallen_Mage.cfg:10
