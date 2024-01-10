@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:00 UTC\n"
-"PO-Revision-Date: 2024-01-07 11:30+0100\n"
+"PO-Revision-Date: 2024-01-10 16:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2257,8 +2257,8 @@ msgid ""
 "I am Kai Krellis of Jotha. I am seeking a flaming sword, and I am told you "
 "know where to find it."
 msgstr ""
-"Jsem Kai Krellis z Joty. Hledám plamenný meč a bylo mi řečeno že víš, kde ho "
-"najít."
+"Jsem Kai Krellis z Joty. Hledám plamenný meč a bylo mi řečeno, že víš, kde "
+"ho najít."
 
 #. [message]: speaker=Caladon
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:446
@@ -2274,7 +2274,7 @@ msgstr ""
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:450
 msgid "Whether I can succeed or not, I must try. Will you help me find it?"
-msgstr "Ať už budu úspěšný nebo ne, musím to zkusit. Pomůžeš mi ho najít?"
+msgstr "Ať už budu úspěšný, nebo ne, musím to zkusit. Pomůžeš mi ho najít?"
 
 #. [message]: speaker=Caladon
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:454
@@ -2282,8 +2282,8 @@ msgid ""
 "I will show you EXACTLY where it is, but knowing where to FIND it isn’t the "
 "hard part. Oh, no! You will see, my fine merman, you will see."
 msgstr ""
-"Ukážu ti PŘESNĚ kde je, ale znalost toho, kde ho NAJÍT není tak klíčová. Ó "
-"né, kdepak! Uvidíš mořský človíčku, uvidíš."
+"Ukážu ti PŘESNĚ, kde je, ale znalost toho, kde ho NAJÍT, není tak klíčová. "
+"Ó né, kdepak! Uvidíš, mořský človíčku, uvidíš."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:458
@@ -2483,8 +2483,8 @@ msgid ""
 "A word of warning, young Kai. I carry a staff of righteous FLAME. If you let "
 "me die, I will take YOU all with me!"
 msgstr ""
-"Malé varování mladý Kai. Nosím OBÁVANOU ohnivou hůl. Pokud mě necháš zemřít, "
-"vezmu vás VŠECHNY s sebou!"
+"Malé varování, mladý Kai. Nosím OBÁVANOU ohnivou hůl. Pokud mě necháš "
+"zemřít, vezmu vás VŠECHNY s sebou!"
 
 #. [unit]: type=Outlaw, id=Howyrth
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:353
@@ -2495,7 +2495,7 @@ msgstr "Howyrth"
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:367
 msgid ""
 "Hello there! Who are you? Were you the ones shouting about taking a sword?"
-msgstr "Hej vy tam! Kdo jste? Jsi ten, kdo tu hulákal o převzetí meče?"
+msgstr "Hej, vy tam! Kdo jste? Jsi ten, kdo tu hulákal o převzetí meče?"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:372
