@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-10 20:18+0100\n"
+"PO-Revision-Date: 2024-01-11 19:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11155,29 +11155,21 @@ msgstr "šok"
 
 #. [attacks]: id=shock
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:153
-#, fuzzy
-#| msgid ""
-#| "When this attack is used on offense, the opponent will retaliate with one "
-#| "less strike than normally, to a minimum of one strike."
 msgid ""
 "The crushing power of this attack overwhelms enemies. When used on offense, "
 "the opponent can only retaliate with one strike."
 msgstr ""
-"Když je použit při útoku, protivník použije k obraně o jeden úder méně než "
-"obvykle, minimum je ale jeden úder."
+"Drtivá síla tohoto útoku nepřátele zcela převálcuje. Když je použit "
+"ofenzivně, zmůže se protivník pouze na jeden odvetný úder."
 
 #. [special_note]
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:162
-#, fuzzy
-#| msgid ""
-#| "This unit’s melee attack can overwhelm the defenses of enemies, "
-#| "preventing them from retaliating as effectively."
 msgid ""
 "This unit’s melee attack can overwhelm enemies’ defenses, preventing them "
 "from retaliating as effectively."
 msgstr ""
-"U této jednotky může útok na blízko převálcovat obranu nepřátel, takže "
-"protiúder není tak účinný."
+"U této jednotky může útok na blízko převálcovat obranu nepřátel a zabránit "
+"jim tak v účinném protiúderu."
 
 #. [dummy]: id=vanguard
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:169
@@ -11201,10 +11193,9 @@ msgstr ""
 
 #. [special_note]
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:233
-#, fuzzy
 msgid "This unit gains increased damage for each adjacent ally and/or enemy."
 msgstr ""
-"Tato jednotka získá zvýšené poškození za každého sousedícího spojence a/nebo "
+"Tato jednotka získá zvýšené poškození za každého sousedního spojence a/nebo "
 "nepřítele."
 
 #. [illuminates]: id=darkens
@@ -11258,7 +11249,6 @@ msgstr "teror"
 
 #. [dummy]: id=terror
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:284
-#, fuzzy
 msgid ""
 "This unit can frighten enemies in a 2 hex radius, making them fight worse. "
 "Units with the fearless trait are unaffected.\n"
@@ -11266,11 +11256,11 @@ msgid ""
 "When an enemy unit of lower level within a 2 hex radius engages in combat, "
 "its attacks do 25% less damage times the difference in their levels."
 msgstr ""
-"Tato jednotka může vyděsit nepřátele v okruhu 2 políček, takže bojují horší. "
-"Jednotky s nebojácnou vlastností nejsou ovlivněny.\n"
+"Tato jednotka dokáže zastrašit nepřátele v okruhu 2 políček, takže bojují "
+"hůře. Jednotky s vlastností nebojácný nejsou ovlivněny.\n"
 "\n"
-"Když se do boje pustí nepřátelská jednotka nižší úrovně v okruhu 2 hex, její "
-"útoky způsobí o 25 % menší poškození krát rozdíl v jejich úrovních."
+"Když se do boje pustí nepřátelská jednotka nižší úrovně v okruhu 2 políček, "
+"její útoky způsobí o 25 % menší zranění krát rozdíl v jejich úrovních."
 
 #. [resistance]: id=shroud
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:521
