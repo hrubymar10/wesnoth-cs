@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-11 19:20+0100\n"
+"PO-Revision-Date: 2024-01-12 20:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11494,66 +11494,46 @@ msgstr "Běda, hynu! Království je bez svého krále ztraceno."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:327
-#, fuzzy
-#| msgid ""
-#| "It was perhaps as well for the men of Gweddry’s troop that they did not "
-#| "live to see the grim tide of undead sweeping westward into Wesnoth, "
-#| "laying waste to all in its path."
 msgid ""
 "It was perhaps as well for the men of Gweddry’s troop that they did not live "
 "to witness the fullness of the grim tide of undead sweeping westward into "
 "Wesnoth, laying waste to all in its path."
 msgstr ""
-"Snad bylo lépe, že se Gweddryho muži již nedožili toho, jak nemrtví vtrhli "
-"na západ do Wesnothu jako příliv temnoty a zničili vše, přes co se převalili."
+"Pro muže z Gweddryho oddílu bylo možná dobře, že se nedožili toho, jak "
+"mohutný, pochmurný proud nemrtvých napochodoval směrem na západ do Wesnothu "
+"a ničil vše, co mu stálo v cestě."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:337
-#, fuzzy
-#| msgid ""
-#| "Wesnoth never learned the fate of Gweddry’s band, but all too soon they "
-#| "would suffer the rage and malice of marauding orcs and undead in a war "
-#| "that would end only in misery and death."
 msgid ""
 "Wesnoth never learned the fate of Gweddry’s band, but they would soon learn "
 "the full measure of the power of Mal-Ravanal in a war that would end only in "
 "misery and death."
 msgstr ""
-"Wesnoth se nikdy nedověděl o osudu Gweddryho skupinky, ale již brzy se přes "
-"něj měly převalit zkázonosné vlny skřetů a nemrtvých, přinášející válku s "
-"tragickým koncem."
+"Wesnoth se nikdy nedozvěděl, jaký byl osud Gweddryho skupiny, ale brzy "
+"poznal vrchovatou míru moci Mal-Ravanala ve válce, která měla skončit jen "
+"utrpením a smrtí."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:347
-#, fuzzy
-#| msgid ""
-#| "Their home country proved to be no refuge for Gweddry’s weary men, and no "
-#| "more would it for the inhabitants of Wesnoth as foes pressed them on all "
-#| "sides to a final defense of the doomed kingdom."
 msgid ""
 "Their home country had proved to be no refuge for Gweddry’s weary men, and "
 "no more would it for the inhabitants of Wesnoth as foes pressed them on all "
 "sides to a final defense of the doomed kingdom."
 msgstr ""
-"Gweddryho mužům neposkytla jejich domovská země vytoužené útočiště, stejně "
-"jako ostatním obyvatelům Wesnothu. Nepřátelé, tlačící se ze všech stran, "
-"signalizovali neodvratný konec království."
+"Ukázalo se, že pro vyčerpané Gweddryho muže nebude jejich rodná země "
+"útočištěm a nebude jím ani pro obyvatele Wesnothu, protože je nepřátelé ze "
+"všech stran tlačili k poslední obraně království odsouzeného ke zkáze."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:357
-#, fuzzy
-#| msgid ""
-#| "With the staunchest defenders of Wesnoth bested on their home ground, the "
-#| "once-great kingdom was plunged into final darkness under the vengeful "
-#| "hand of Mal-Ravanal."
 msgid ""
 "With the staunchest defenders of Wesnoth bested on their home ground, the "
 "once-great kingdom was plunged into final darkness under the hand of Mal-"
 "Ravanal."
 msgstr ""
-"Porážka nejodhodlanějších obránců Wesnothu na jejich domácí půdě znamenala "
-"konec kdysi skvělého království a následný pád do temnoty pod rukou Mal-"
-"Ravanala."
+"Když byli nejzarytější obránci Wesnothu poraženi na své domácí půdě, kdysi "
+"skvělé království se pod rukou Mal-Ravanala propadlo do konečné temnoty."
 
 #. [message]: speaker=Mal-Mana
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:372
