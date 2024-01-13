@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-17 02:59 UTC\n"
-"PO-Revision-Date: 2024-01-12 20:07+0100\n"
+"PO-Revision-Date: 2024-01-13 11:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2186,7 +2186,6 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:348
-#, fuzzy
 msgid "Aeraery"
 msgstr "Aeraery"
 
@@ -2199,7 +2198,6 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:357
-#, fuzzy
 msgid "Teoryn"
 msgstr "Teoryn"
 
@@ -2214,7 +2212,6 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:366
-#, fuzzy
 msgid "Yrthynaenc"
 msgstr "Yrthynaenc"
 
@@ -2229,7 +2226,6 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:375
-#, fuzzy
 msgid "Inyc"
 msgstr "Inyc"
 
@@ -2242,7 +2238,6 @@ msgstr "Pomstu nemrtvým! Donutím je zaplatit za to, jak nás týrali!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:384
-#, fuzzy
 msgid "Vobreddaent"
 msgstr "Vobreddaent"
 
