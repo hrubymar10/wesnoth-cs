@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-01-13 11:59+0100\n"
+"PO-Revision-Date: 2024-01-24 19:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4577,37 +4577,28 @@ msgstr ""
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:630
 msgid "10 gold"
-msgstr ""
+msgstr "10 zlatých"
 
-# {RACE} nejde inteligentně přeložit
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:630
-#, fuzzy
-#| msgid "These {RACE} have a pile of {AMOUNT} gold pieces!"
 msgid "These dwarves have a pile of 10 gold pieces!"
-msgstr "Tihle tu mají {AMOUNT} zlatých!"
+msgstr "Tihle trpaslíci tu mají hromádku 10 zlatých!"
 
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:631
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:632
 msgid "20 gold"
-msgstr ""
+msgstr "20 zlatých"
 
-# {RACE} nejde inteligentně přeložit
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:631
-#, fuzzy
-#| msgid "These {RACE} have a pile of {AMOUNT} gold pieces!"
 msgid "These nagas have a pile of 20 gold pieces!"
-msgstr "Tihle tu mají {AMOUNT} zlatých!"
+msgstr "Tyhle nágy tu mají hromádku 20 zlatých!"
 
-# {RACE} nejde inteligentně přeložit
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:632
-#, fuzzy
-#| msgid "These {RACE} have a pile of {AMOUNT} gold pieces!"
 msgid "These orcs have a pile of 20 gold pieces!"
-msgstr "Tihle tu mají {AMOUNT} zlatých!"
+msgstr "Tihle skřeti tu mají hromádku 20 zlatých!"
 
 #. [message]: speaker=Bagork
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:648
@@ -6620,26 +6611,22 @@ msgstr "Ach och!"
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1614
 msgid "70 gold"
-msgstr ""
+msgstr "70 zlatých"
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1614
-#, fuzzy
-#| msgid "You’ve pillaged {AMOUNT} orcish gold pieces!"
 msgid "You’ve pillaged 70 orcish gold pieces!"
-msgstr "Podařilo se ti uloupit {AMOUNT} skřetích zlaťáků!"
+msgstr "Podařilo se ti uloupit 70 skřetích zlaťáků!"
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1615
 msgid "115 gold"
-msgstr ""
+msgstr "115 zlatých"
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1615
-#, fuzzy
-#| msgid "You’ve pillaged {AMOUNT} orcish gold pieces!"
 msgid "You’ve pillaged 115 orcish gold pieces!"
-msgstr "Podařilo se ti uloupit {AMOUNT} skřetích zlaťáků!"
+msgstr "Podařilo se ti uloupit 115 skřetích zlaťáků!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1630
