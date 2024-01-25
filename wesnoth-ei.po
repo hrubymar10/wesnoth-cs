@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-01-24 19:16+0100\n"
+"PO-Revision-Date: 2024-01-25 20:30+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6192,18 +6192,16 @@ msgstr "Jsem si jistý, že vaši velitelé přijdou a zachrání nás!"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:667
 msgid "What? Didn’t you see those huge orcs drag them away? It’s hopeless!"
 msgstr ""
-"Cože? Copak jsi neviděl, jak je ti obrovští trollové tahali pryč? Je to "
+"Cože? Copak jsi neviděl, jak je ti obrovští skřeti tahali pryč? Je to "
 "beznadějné!"
 
 #. [message]: role=escapee sidekick 0
 #. Female speaker talking to male deserter, also the huge enemies changed in 1.17 from trolls to orcs
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:669
-#, fuzzy
-#| msgid "What? Didn’t you see those huge orcs drag them away? It’s hopeless!"
 msgid ""
 "female^What? Didn’t you see those huge orcs drag them away? It’s hopeless!"
 msgstr ""
-"Cože? Copak jsi neviděl, jak je ti obrovští trollové tahali pryč? Je to "
+"Cože? Copak jsi neviděl, jak je ti obrovští skřeti tahali pryč? Je to "
 "beznadějné!"
 
 #. [message]: role=escapee leader
@@ -12420,36 +12418,26 @@ msgstr "Utíkat za svá život!"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:88
-#, fuzzy
-#| msgid "Get me out of here!"
 msgid "female^Get me out of here!"
 msgstr "Dostaňte mě odsud!"
 
 #. [message]: speaker=narrator
 #. unit is male
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:107
-#, fuzzy
-#| msgid ""
-#| "The ‘deserter’ trait has caused ${UNIT}.name to flee back to your recall "
-#| "list."
 msgid ""
 "The ‘deserter’ trait has caused $unit.name to flee back to your recall list."
 msgstr ""
-"Vlastnost „dezertér“ způsobila, že je ${UNIT}.name zpátky na tvém "
-"povolávacím seznamu."
+"Vlastnost „dezertér“ způsobila, že $unit.name utekl zpátky na tvůj "
+"povolávací seznam."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:114
-#, fuzzy
-#| msgid ""
-#| "The ‘deserter’ trait has caused ${UNIT}.name to flee back to your recall "
-#| "list."
 msgid ""
 "female^The ‘deserter’ trait has caused $unit.name to flee back to your "
 "recall list."
 msgstr ""
-"Vlastnost „dezertér“ způsobila, že je ${UNIT}.name zpátky na tvém "
-"povolávacím seznamu."
+"Vlastnost „dezertér“ způsobila, že $unit.name utekla zpátky na tvůj "
+"povolávací seznam."
 
 #. [trait]: id=mercenary
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:125
