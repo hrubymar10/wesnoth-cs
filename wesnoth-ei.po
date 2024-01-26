@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-01-25 20:30+0100\n"
+"PO-Revision-Date: 2024-01-26 23:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2485,6 +2485,9 @@ msgid ""
 "travel, they were greatly relieved to see the walls of the northern outpost "
 "silhouetted against the horizon..."
 msgstr ""
+"Když byl elfí les otevřen pro průchod, Gweddry a jeho muži pokračovali "
+"v cestě severními Východninami. Po mnoha dnech cestování v horách se jim "
+"velmi ulevilo, když na obzoru spatřili siluety zdí severní výspy..."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:40
@@ -3112,6 +3115,9 @@ msgid ""
 "If undead are attacking Soradoc, that is all the more reason to travel west! "
 "I will not stand by and let my comrades die while I cravenly flee the battle."
 msgstr ""
+"Pokud nemrtví útočí na Soradok, je to o důvod víc, proč se vydat na západ! "
+"Nebudu stát stranou a nenechám své druhy umírat během toho, co budu zbaběle "
+"prchat z bitvy."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1064
