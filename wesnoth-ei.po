@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-01-26 23:44+0100\n"
+"PO-Revision-Date: 2024-01-28 20:40+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3128,12 +3128,12 @@ msgstr "Klid, přátelé. Oba mluvíte moudře. Dovolte mi rozhodnout."
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1068
 msgid "My decision is..."
-msgstr ""
+msgstr "Mé rozhodnutí je..."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1070
 msgid "Cross the Great River to the east, behind enemy lines. <i>(normal)</i>"
-msgstr ""
+msgstr "Přejít Velkou řeku na východ, za nepřátelské linie. <i>(normální)</i>"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1074
@@ -3141,18 +3141,22 @@ msgid ""
 "We are not strong enough to fight the undead head-on. Let us cross the Great "
 "River to the east."
 msgstr ""
+"Nejsme dost silní na to, abychom se nemrtvým postavili čelem. Přejděme "
+"Velkou řeku na východ."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1086
 msgid ""
 "Cross the Great River west in Wesnoth, near Soradoc. <i>(challenging)</i>"
 msgstr ""
+"Přejít Velkou řeku na západě Wesnothu, poblíž Soradoku. <i>(náročné)</i>"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1090
 msgid ""
 "It is our duty to aid the king’s army at Soradoc and cross the river there."
 msgstr ""
+"Naší povinností je pomoci královskému vojsku u Soradoku a překročit řeku tam."
 
 #. [message]: speaker=Rilaka
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1116
@@ -3161,11 +3165,14 @@ msgid ""
 "myself to be respected... maybe I only need to tell the others to come "
 "destroy you!"
 msgstr ""
+"Nejsem si jistý, jestli tenhle souboj vyhraju, ale možná tě nemusím porazit "
+"sám, aby mě respektovali... možná stačí, když řeknu ostatním, aby tě přišli "
+"zničit!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1122
 msgid "He’s run off to summon reinforcements! If only we had acted sooner..."
-msgstr ""
+msgstr "Utekl přivolat posily! Kdybychom tak jednali dřív..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1129
@@ -3174,6 +3181,9 @@ msgid ""
 "Ravanal ravages Wesnoth. Owaec, come with us or stay here and die, I care "
 "not either way."
 msgstr ""
+"Už toho bylo dost. Nemůžeme si dovolit ztrácet čas s drobnými bandity, "
+"zatímco Mal-Ravanal pustoší Wesnoth. Owaecu, pojď s námi, nebo zůstaň tady "
+"a zemři, je mi to jedno."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1133
@@ -3182,11 +3192,13 @@ msgid ""
 "and defend these villagers! If you wish to go, then go, but I shall not aid "
 "you."
 msgstr ""
+"Protože se nám nepodařilo skoncovat s vůdcem banditů, jsem povinen zůstat "
+"a bránit tyto vesničany! Jestli chceš jít, tak jdi, ale já ti nepomůžu."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1137
 msgid "I would that I had acted with more haste..."
-msgstr ""
+msgstr "Kéž bych byl jednal rychleji..."
 
 #. [scenario]: id=06a_Undead_Crossing
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:8
