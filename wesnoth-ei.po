@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-01-28 20:40+0100\n"
+"PO-Revision-Date: 2024-01-30 20:10+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3267,12 +3267,14 @@ msgid ""
 "We have done well to avoid conflict with the undead thus far. It is time to "
 "turn northward, toward our goal."
 msgstr ""
+"Dosud se nám dařilo vyhýbat se střetům s nemrtvými. Je čas vydat se na "
+"sever, k našemu cíli."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:213
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:587
 msgid "You still have yet to explain more about this goal."
-msgstr ""
+msgstr "O tomhle cíli máš ještě co vysvětlovat."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:217
@@ -3280,13 +3282,15 @@ msgid ""
 "Wait, look, a small force of undead have already fortified this ford. We "
 "will have to fight them to cross the Great River."
 msgstr ""
+"Počkejte, podívejte se, malý oddíl nemrtvých už tento brod opevnil. Budeme "
+"s nimi muset bojovat, abychom se dostali přes Velkou řeku."
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:221
 msgid ""
 "Let me out ’o this cage ye bag-o-bones! When the Alliance hears abo— "
 "<b>glug</b>"
-msgstr ""
+msgstr "Pusťte mě z týhle klece, vy kosťáci! Až Aliance uslyší o... <b>glo</b>"
 
 #. [message]: speaker=Mal-un-Karad
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:228
@@ -3294,6 +3298,8 @@ msgid ""
 "Hahahaha! This dwarf is too short to keep his head out of the water. I "
 "wonder how long he’ll last?"
 msgstr ""
+"Hahahaha! Tenhle trpaslík je příliš malý na to, aby měl hlavu nad vodou. Jak "
+"dlouho asi vydrží?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:232
@@ -3301,6 +3307,8 @@ msgid ""
 "The undead are torturing that dwarf for sport! This shall not stand; we must "
 "rescue him before he drowns!"
 msgstr ""
+"Nemrtví mučí toho trpaslíka pro zábavu! Tohle nebudeme trpět, musíme ho "
+"zachránit, než se utopí!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:237
@@ -3309,6 +3317,8 @@ msgid ""
 "Ho ho, you know what you need? My patented* elixir of water breathing! <span "
 "color='#BCB088' size='x-small'><i>*not patented</i></span>"
 msgstr ""
+"Ho ho, víte, co potřebujete? Můj patentovaný* elixír žaberníku! <span "
+"color='#BCB088' size='x-small'><i>*není patentovaný</i></span>"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:241
@@ -3317,20 +3327,23 @@ msgid ""
 "through swamps and shallow water! <span color='#BCB088' size='x-"
 "small'><i>*less effective on cavalry</i></span>"
 msgstr ""
+"Stačí se napít z této třpytivě modré lahvičky a budete se v močálech "
+"a mělkých vodách pohybovat plnou rychlostí*! <span color='#BCB088' size='x-"
+"small'><i>*méně účinné na jezdce</i></span>"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:254
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:310
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:638
 msgid "Pleasure doing business with you!"
-msgstr ""
+msgstr "Je radost s vámi obchodovat!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:262
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:318
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:646
 msgid "Suit yourself; more for me!"
-msgstr ""
+msgstr "Jak je libo, zbyde víc pro mě!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:268
@@ -3338,20 +3351,22 @@ msgid ""
 "Supplies are limited so <span strikethrough='true'>call</span> buy now! "
 "<i>(elixirs only last for 1 scenario)</i>"
 msgstr ""
+"Zásoby jsou omezené, takže <span strikethrough='true'>volejte</span> nakupte "
+"hned! <i>(elixíry vydrží pouze na 1 scénář)</i>"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:270
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:326
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:654
 msgid "Buy the elixir (10 gold)."
-msgstr ""
+msgstr "Koupit si elixír (10 zlatých)."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:280
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:336
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:664
 msgid "Leave the elixir for Hahid."
-msgstr ""
+msgstr "Nechat elixír Hahidovi."
 
 #. [message]: speaker=Mal-un-Karad
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:296
@@ -3359,6 +3374,8 @@ msgid ""
 "I don’t know how you Wesnothians got here, but don’t even think about "
 "crossing here unless you want to become fish bait!"
 msgstr ""
+"Nevím, jak jste se sem vy Wesnothští dostali, ale pokud se nechcete stát "
+"návnadou pro ryby, ani vás nenapadne tudy přecházet!"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:334
@@ -3370,17 +3387,19 @@ msgstr "Glo... glo..."
 msgid ""
 "I have failed in my duty to protect the helpless. I weep at his passing."
 msgstr ""
+"Nesplnil jsem svou povinnost chránit bezmocné. Pláču nad jeho odchodem."
 
 #. [message]: speaker=Dolburras
 #. "Many thanks to you! Feels go to be finally breathing properly again."
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:378
 msgid "Many thanks ta ye! Feels good ta be finally breathin’ proper again."
 msgstr ""
+"Mnohokrát vám děkuju! Je to dobrej pocit, když konečně zase pořádně dejchám."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:382
 msgid "How did you come to be captured by these undead?"
-msgstr ""
+msgstr "Jak se stalo, že tě tito nemrtví zajali?"
 
 #. [message]: speaker=Dolburras
 #. "Ran into a whole blasted army of them marching from the Swamp of Dread. I think they're headed for Knalga! Someone ought to invade them for a change."
@@ -3389,6 +3408,8 @@ msgid ""
 "Ran into a whole blasted army of ’em marchin’ from the Swamp o’ Dread. I "
 "think they be headed for Knalga! Someone oughta invade them for a change."
 msgstr ""
+"Narazil jsem na celou jejich zatracenou armádu, která táhla z Močálů děsu. "
+"Myslím, že mířej do Knalgy! Někdo by měl pro změnu napadnout je."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:391
@@ -3401,6 +3422,8 @@ msgid ""
 "Dolburras, we are men of the King of Wesnoth, seeking the power to destroy "
 "these foul undead. Will you join us in our quest?"
 msgstr ""
+"Dolburrasi, jsme muži krále Wesnothu a hledáme sílu, která by zničila tyto "
+"odporné nemrtvé. Přidáš se k nám na naší výpravě?"
 
 #. [message]: speaker=Dolburras
 #. "Can't hardly go back to Knalga with all of the undead about! Yes, I'll join you."
@@ -3432,28 +3455,31 @@ msgid ""
 "A clever plan. The fish gnaw away flesh, leaving the skeletons ready for "
 "reanimation. They will make our crossing more difficult."
 msgstr ""
+"Chytrý plán. Ryby ohlodávají maso a zanechávají kostry připravené k oživení. "
+"Ztíží nám přechod."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:533
 msgid "No! I thought I’d be safe here..."
-msgstr ""
+msgstr "Ne! Myslel jsem, že tady budu v bezpečí..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:619
 msgid ""
 "If we intend to save Wesnoth, we must press onward into the mountains. Let "
 "us be off."
-msgstr ""
+msgstr "Pokud chceme zachránit Wesnoth, musíme se vydat do hor. Vyrazme."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:637
 msgid "Mel Wylyn"
-msgstr ""
+msgstr "Mel Wylyn"
 
 #. [message]: speaker=Mal-un-Karad
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:644
 msgid "What took you so long? We were supposed to change shifts days ago!"
 msgstr ""
+"Proč ti to trvalo tak dlouho? Měli jsme se vystřídat už před několika dny!"
 
 #. [message]: speaker=Mel Wylyn
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:648
@@ -3461,6 +3487,8 @@ msgid ""
 "Aw, I’ve missed out on the fun! But look at it this way, now they stand no "
 "chance against the two of us."
 msgstr ""
+"Ou, přišel jsem o zábavu! Ale podívej se na to takhle, teď nemají proti nám "
+"dvěma žádnou šanci."
 
 #. [scenario]: id=06b_Soradoc
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:10
