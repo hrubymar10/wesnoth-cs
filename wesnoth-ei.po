@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-01-30 20:10+0100\n"
+"PO-Revision-Date: 2024-02-01 19:36+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3504,11 +3504,16 @@ msgid ""
 "prosperous and well-fortified border town. Gweddry and his band approached "
 "cautiously, hoping to reunite with Wesnoth’s armies."
 msgstr ""
+"Soradok, založený korunou a spravovaný klany jezdců, ovládal strategický "
+"soutok Velké řeky s řekou Weldyn. Od svého založení v počátcích Wesnothu se "
+"rozrostl v prosperující a dobře opevněné pohraniční město. Gweddry a jeho "
+"skupina se k němu opatrně blížili v naději, že se znovu spojí s armádami "
+"Wesnothu."
 
 #. [side]: type=Lancer, id=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:60
 msgid "Yannic"
-msgstr ""
+msgstr "Yannic"
 
 #. [side]: type=Dark Sorcerer, id=Mal-Mana
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:303
@@ -3557,12 +3562,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:500
 msgid "Move Owaec next to Yannic."
-msgstr ""
+msgstr "Přesuň Owaeca vedle Yannica."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:514
 msgid "Keep Yannic alive (bonus reward)."
-msgstr ""
+msgstr "Udrž Yannica naživu (odměna navíc)."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:549
@@ -3576,6 +3581,8 @@ msgid ""
 "loyal to a fault. I know many of them personally! They would hold the city "
 "to their dying breaths."
 msgstr ""
+"Šílenství! Jak mohlo město padnout? Posádka je odvážná a loajální až do "
+"morku kostí. Mnohé z nich znám osobně! Drželi by město do posledního dechu."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:557
@@ -3583,11 +3590,13 @@ msgid ""
 "Were you expecting a victory parade? Soradoc will be the first of many if we "
 "cannot accomplish our goal."
 msgstr ""
+"Čekali jste vítěznou přehlídku? Soradok bude první z mnoha, pokud se nám "
+"nepodaří dosáhnout našeho cíle."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:561
 msgid "Wait, look, the flag of Wesnoth still flies over the western barracks!"
-msgstr ""
+msgstr "Počkat, podívej, nad západními kasárnami stále vlaje prapor Wesnothu!"
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:571
@@ -3596,6 +3605,9 @@ msgid ""
 "already control most of the city. We’re hiding our wounded in the temple, "
 "but if we lose the western quarter as well, I fear that no one will escape."
 msgstr ""
+"Jste naše posily? Weldyn nám před několika dny slíbil pomoc! Nemrtví už "
+"ovládají většinu města. Schováváme naše raněné v chrámu, ale pokud ztratíme "
+"i západní čtvrť, obávám se, že nikdo neunikne."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:575
@@ -3604,6 +3616,9 @@ msgid ""
 "rescue the garrison! If we can defeat this wave of undead, they may yet have "
 "time to evacuate."
 msgstr ""
+"U klanů, někteří z nich ještě žijí! Musíme jednat rychle, jestli chceme "
+"posádku zachránit! Pokud se nám podaří porazit tuto vlnu nemrtvých, mohou "
+"mít ještě čas na evakuaci."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:579
@@ -3611,6 +3626,8 @@ msgid ""
 "I agree, but... there are many powerful undead besieging the city. Do we "
 "have the strength to defeat them all?"
 msgstr ""
+"Souhlasím, ale... město obléhá mnoho mocných nemrtvých. Máme sílu je všechny "
+"porazit?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:583
@@ -3618,6 +3635,8 @@ msgid ""
 "Maybe, maybe not. Remember that our true goal lies far to the north. Nothing "
 "we do here today will more than inconvenience Mal-Ravanal."
 msgstr ""
+"Možná, možná ne. Nezapomeňte, že náš skutečný cíl leží daleko na severu. Nic "
+"z toho, co tu dnes uděláme, nebude pro Mal-Ravanala víc než nepříjemnost."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:591
@@ -3626,6 +3645,9 @@ msgid ""
 "can at least slip past the undead and escape, though they will certainly "
 "follow us."
 msgstr ""
+"Měli bychom co nejrychleji pokračovat na sever. Pokud se nám nepodaří "
+"zachránit Soradok, můžeme alespoň proklouznout kolem nemrtvých a utéct, "
+"i když nás budou určitě pronásledovat."
 
 #. [message]: speaker=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:600
@@ -3700,6 +3722,8 @@ msgid ""
 "Yannic?! Well met friend, I haven’t seen you in years!! Ha, you never could "
 "stay out of trouble! How’s your horse, Clansman?"
 msgstr ""
+"Yannic?! Dobře, příteli, neviděl jsem tě už léta!! Ha, nikdy ses nevyhnul "
+"problémům! Jak se má tvůj kůň, klanový bratře?"
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:783
@@ -3707,6 +3731,8 @@ msgid ""
 "Injured, along with those few of my men lucky enough to yet live. I am more "
 "than grateful for your timely arrival and help."
 msgstr ""
+"Zraněný spolu s těmi několika mými muži, kteří měli to štěstí, že ještě "
+"žijí. Jsem vám více než vděčný za váš včasný příjezd a pomoc."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:787
@@ -3715,6 +3741,9 @@ msgid ""
 "powerful magic east of the Listra to destroy these undead. We will require "
 "your men and provisions for the journey."
 msgstr ""
+"Když už mluvíme o pomoci, potřebujeme tu vaši. Já, králův nejvyšší rádce, "
+"hledám mocnou magii na východ od Listry, která by zničila tyto nemrtvé. "
+"Budeme potřebovat vaše muže a zásoby na cestu."
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:791
@@ -3724,11 +3753,15 @@ msgid ""
 "help anyone. Still, should I encounter any fresh reinforcements or objects "
 "of interest, I will send them your way."
 msgstr ""
+"... Rád bych nabídl vše příteli svého klanu, ale jak vidíte, já a zbytky mé "
+"posádky jsme jen stěží v takovém stavu, abychom mohli někomu pomoci. Přesto, "
+"kdybych narazil na nějaké čerstvé posily nebo zajímavé předměty, pošlu je "
+"tvým směrem."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:795
 msgid "Acceptable."
-msgstr ""
+msgstr "Přijatelné."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:799
@@ -3736,17 +3769,19 @@ msgid ""
 "Bah, we come to aid you, not to seek <i>your</i> aid! We shall do our utmost "
 "to ensure you and your men survive this dark time."
 msgstr ""
+"Pah, přišli jsme vám pomoci, ne hledat <i>vaši</i> pomoc! Uděláme vše, co je "
+"v našich silách, abyste ty a tví muži přežili tuto temnou dobu."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:831
 msgid ""
 "I’ve broken through the undead lines. Follow me before we are overwhelmed!"
-msgstr ""
+msgstr "Prolomil jsem linie nemrtvých. Následujte mě, než nás přemohou!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:832
 msgid "The northern path is clear! Follow me, let us cross the Great River."
-msgstr ""
+msgstr "Severní cesta je volná! Pojďte za mnou, překročíme Velkou řeku."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:859
@@ -3754,6 +3789,8 @@ msgid ""
 "We have failed to defeat even a single enemy leader! It galls me to flee, "
 "but this is a battle we cannot win."
 msgstr ""
+"Nepodařilo se nám porazit ani jediného nepřátelského vůdce! Štve mě, že "
+"musím utéct, ale tuhle bitvu nemůžeme vyhrát."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:860
@@ -3761,6 +3798,8 @@ msgid ""
 "We have failed to defeat more than a single enemy leader! It galls me to "
 "flee, but this is a battle we cannot win."
 msgstr ""
+"Nepodařilo se nám porazit více než jednoho nepřátelského vůdce! Je mi líto, "
+"že musím utéct, ale tuto bitvu nemůžeme vyhrát."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:861
@@ -3768,6 +3807,8 @@ msgid ""
 "We have weakened the undead here, yet we cannot hope to defeat them all! It "
 "galls me to flee, but this is a battle we cannot win."
 msgstr ""
+"Nemrtvé jsme zde oslabili, ale nemůžeme doufat, že je všechny porazíme! Je "
+"mi líto, že musím utéct, ale tuto bitvu nemůžeme vyhrát."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:864
@@ -3775,6 +3816,8 @@ msgid ""
 "We have done well to defeat the undead here. Their forces will be unable to "
 "pursue us; we shall have an uneventful river crossing."
 msgstr ""
+"Udělali jsme dobře, že jsme nemrtvé porazili. Jejich síly nás nebudou moci "
+"pronásledovat, takže budeme mít klidný přechod přes řeku."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:865
@@ -3782,6 +3825,9 @@ msgid ""
 "We have done well to defeat the undead here. They may still pursue as we "
 "cross the river, but far fewer than would otherwise have come."
 msgstr ""
+"Udělali jsme dobře, že jsme nemrtvé porazili. Můžou nás ještě pronásledovat, "
+"až budeme přecházet řeku, ale bude jich mnohem méně, než by jich jinak "
+"přišlo."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:866
@@ -3789,6 +3835,8 @@ msgid ""
 "It galls me to flee before vanquishing the final undead leader, but enemy "
 "reinforcements will doubtlessly soon arrive."
 msgstr ""
+"Trápí mě, že musím utéct dřív, než porazím posledního nemrtvého vůdce, ale "
+"brzy nepochybně dorazí nepřátelské posily."
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:882
@@ -3796,16 +3844,18 @@ msgid ""
 "Farewell, and good luck! You have bought us enough time to evacuate, and for "
 "that I will be ever grateful! May our paths cross again someday."
 msgstr ""
+"Sbohem a hodně štěstí! Získali jste nám dost času na evakuaci a za to vám "
+"budu vždy vděčný! Snad se naše cesty někdy opět zkříží."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:886
 msgid "Farewell friend! May you find fairer fields unfouled by undead."
-msgstr ""
+msgstr "Sbohem, příteli! Kéž najdeš krásnější pole nezkažená nemrtvými."
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:900
 msgid "No, wait, you can’t just leave us here!"
-msgstr ""
+msgstr "Ne, počkej, nemůžeš nás tu jen tak nechat!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:904
@@ -3813,6 +3863,8 @@ msgid ""
 "We flee?! My Clan would banish me for half as much cowardice! I am ashamed "
 "to call myself a Clansman."
 msgstr ""
+"Utečeme?! Můj klan by mě vyhnal za půlku takové zbabělosti! Stydím se "
+"nazývat členem klanu."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:913
@@ -3820,6 +3872,8 @@ msgid ""
 "But alas, the garrison is slain. If only we had acted more swiftly, they "
 "might still have been saved."
 msgstr ""
+"Ale bohužel, posádka je pobita. Kdybychom jednali rychleji, mohli se ještě "
+"zachránit."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:922
@@ -3827,6 +3881,8 @@ msgid ""
 "With all enemy leaders still alive, we are sure to be destroyed when we "
 "attempt to cross the river..."
 msgstr ""
+"Vzhledem k tomu, že všichni nepřátelští velitelé jsou stále naživu, jsme si "
+"jisti, že budeme zničeni, až se pokusíme překročit řeku..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:924
@@ -3834,6 +3890,8 @@ msgid ""
 "With three enemy leaders still alive, we are sure to be destroyed when we "
 "attempt to cross the river..."
 msgstr ""
+"Tři nepřátelští velitelé jsou stále naživu, takže při pokusu o překročení "
+"řeky budeme určitě zničeni..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:926
@@ -3841,6 +3899,8 @@ msgid ""
 "Several undead leaders yet remain, and they are sure to attack us while we "
 "attempt to cross the river."
 msgstr ""
+"Několik nemrtvých vůdců ještě zůstává a určitě na nás zaútočí, až se budeme "
+"pokoušet přejít řeku."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:969
@@ -3848,6 +3908,8 @@ msgid ""
 "We must not tarry here too long. Mal-Ravanal is fickle and may return to "
 "vanquish us all."
 msgstr ""
+"Nesmíme se tu zdržovat příliš dlouho. Mal-Ravanal je vrtkavý a může se "
+"vrátit, aby nás všechny zničil."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:989
@@ -3856,11 +3918,14 @@ msgid ""
 "changed my mind about letting you live. You know what they say, there’s no "
 "time like the present!"
 msgstr ""
+"Podívejme se, kdo je stále tady! Dacyne, myslel jsem, že jsi moudřejší. "
+"Změnil jsem názor ohledně toho, že tě nechám žít. Víš, co se říká, že není "
+"lepší čas než přítomnost!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:993
 msgid "We have tarried here too long. All is now lost!"
-msgstr ""
+msgstr "Zdržovali jsme se tu příliš dlouho. Nyní je vše ztraceno!"
 
 #. [scenario]: id=07a_Capturing_the_Ogres
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:4
