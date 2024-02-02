@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-01 19:36+0100\n"
+"PO-Revision-Date: 2024-02-02 21:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4108,6 +4108,11 @@ msgid ""
 "and his men attempted their escape from Wesnoth and Mal-Ravanal’s undead "
 "hordes into the wild northlands."
 msgstr ""
+"Parthynský brod je po Abezském druhý nejznámější. Právě tady poprvé působila "
+"hrůzu Iliah-Malalova přízračná armáda, aby ji nakonec porazil legendární "
+"Delfador. Zde Malin Keshar odhodil svou lidskost a začal pronikat do temných "
+"umění. A právě zde se Gweddry a jeho muži pokusili o útěk z Wesnothu a od "
+"Mal-Ravanalových nemrtvých hord do divokých severních krajin."
 
 #. [side]: type=Ogre, id=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:40
@@ -4138,7 +4143,7 @@ msgstr "Poraz Izziašu"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:197
 msgid "Reach the north shore before Grug dies"
-msgstr ""
+msgstr "Dosáhni severního pobřeží dříve, než Grug zemře"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:249
@@ -4147,6 +4152,9 @@ msgid ""
 "some time for our men to cross; the undead will doubtless send their forces "
 "to harry us."
 msgstr ""
+"A tak se dostáváme k Velké řece, severní hranici Wesnothu. Našim mužům bude "
+"chvíli trvat, než ji překročí. Nemrtví nepochybně pošlou své oddíly, aby na "
+"nás dotírali."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:256
@@ -4154,6 +4162,8 @@ msgid ""
 "And so we come to the Great River, northern border of Wesnoth. It will take "
 "some time for our men to cross, but fortunately we are not being pursued."
 msgstr ""
+"A tak se dostáváme k Velké řece, severní hranici Wesnothu. Našim mužům bude "
+"chvíli trvat, než ji překročí, ale naštěstí nás nikdo nepronásleduje."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:267
@@ -4161,6 +4171,8 @@ msgid ""
 "Lo, on yonder shore lies a camp of ogres! I’ve heard them to be dimwitted, "
 "but friendly enough."
 msgstr ""
+"Hle, tamo na břehu leží tábor obrů! Slyšel jsem, že jsou hloupí, ale dost "
+"přátelští."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:272
@@ -4169,11 +4181,14 @@ msgid ""
 "Crown in the past. Perhaps these ones can help us, either willingly or as "
 "slaves. But those saurians will definitely attack before that happens."
 msgstr ""
+"<span size='small'><i>Na rozdíl od tebe?</i></span> Obři v minulosti "
+"sloužili Koruně. Možná nám tito mohou pomoci, buď dobrovolně, nebo jako "
+"otroci. Ale ti ještěráci určitě zaútočí dřív, než k tomu dojde."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:276
 msgid "Lizard, Grug say leave!"
-msgstr ""
+msgstr "Ještěrko, Grug říká odejdi!"
 
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:280
@@ -4181,11 +4196,13 @@ msgid ""
 "Get out of my way! There are ssskeletons in my ssswamp... we’re leaving and "
 "you sshould too."
 msgstr ""
+"Uhněte mi z cesssty! V mém močálu jsou kossstivci... odcházíme a vy bysste "
+"měli taky."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:284
 msgid "Lizard dumb! You die now!"
-msgstr ""
+msgstr "Ještěrka hloupá! Teď umřeš!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:288
@@ -4202,6 +4219,8 @@ msgid ""
 "One drink from this shimmering blue vial and you’ll move at full speed "
 "through swamps and shallow water!"
 msgstr ""
+"Stačí se napít z této třpytivě modré lahvičky a budete se močály a mělkou "
+"vodou pohybovat plnou rychlostí!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:324
@@ -4209,13 +4228,15 @@ msgid ""
 "Supplies are limited so <span strikethrough='true'>call now</span> buy now! "
 "<i>(elixirs only last for 1 scenario)</i>"
 msgstr ""
+"Zásoby jsou omezené, takže <span strikethrough='true'>volejte hned</span> "
+"nakupte hned! <i>(elixíry vydrží pouze na 1 scénář)</i>"
 
 #. [event]
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:364
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1158
 msgid "Tarek"
-msgstr ""
+msgstr "Tarek"
 
 #. [message]: speaker=Tarek
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:378
@@ -4224,6 +4245,9 @@ msgid ""
 "bring a prize we took from one of the necromancers you slew. The temple "
 "healers have blessed it so that it may be used safely."
 msgstr ""
+"Ať žije Owaec a spol.! Stahujeme se ze Soradoku, ale Yannic mě poslal, abych "
+"přinesl poklad, který jsme vzali jednomu z nekromantů, kterého jsi zabil. "
+"Chrámoví léčitelé ho požehnali, takže jej lze bezpečně používat."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:382
@@ -4231,6 +4255,8 @@ msgid ""
 "Fascinating... I’ve never had the chance to examine one of these up close "
 "before."
 msgstr ""
+"Úchvatné... Nikdy předtím jsem neměl příležitost prohlédnout si jeden z nich "
+"zblízka."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:386
@@ -4239,6 +4265,8 @@ msgid ""
 "wield such a dark artifact, though I shall not begrudge its use by my "
 "companions."
 msgstr ""
+"Máš naše díky! Jsi čestný jezdec, a přesto přinášíš ohavnou výhodu. Nebudu "
+"mít v držení takový temný artefakt, ale neupřu jeho využití svým společníkům."
 
 #. [message]: speaker=ghast_leader
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:443
@@ -4250,11 +4278,13 @@ msgstr "Gráhhhh..."
 msgid ""
 "You won’t escape me again! This time there are no tunnels for you to hide in!"
 msgstr ""
+"Už mi znovu neutečeš! Tentokrát tu nejsou žádné tunely, do kterých by ses "
+"schoval!"
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:490
 msgid "There is no escape from me!"
-msgstr ""
+msgstr "Přede mnou není úniku!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:516
@@ -4262,6 +4292,8 @@ msgid ""
 "The first of our pursuers have arrived! We must make haste to cross before "
 "more dangerous undead arrive."
 msgstr ""
+"Dorazili naši první pronásledovatelé! Musíme si pospíšit s přechodem, než "
+"dorazí další nebezpeční nemrtví."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:523
@@ -4269,31 +4301,33 @@ msgid ""
 "Our undead pursuers have arrived! Fortunately, their other leaders have been "
 "defeated. This is all we will have to face."
 msgstr ""
+"Naši nemrtví pronásledovatelé dorazili! Jejich další vůdci byli naštěstí "
+"poraženi. To je vše, čemu budeme muset čelit."
 
 #. [message]: speaker=Naken-alvak
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:610
 msgid "Found you... Bleed you..."
-msgstr ""
+msgstr "Našel jsem tě... Pustím ti žilou..."
 
 #. [message]: speaker=Mal-Mana
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:690
 msgid "Don’t think you can get away so easily!"
-msgstr ""
+msgstr "Nemyslete si, že uniknete tak snadno!"
 
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:737
 msgid "Now to deal with these humansss!"
-msgstr ""
+msgstr "Teď sse vypořádat ss těmi lidmi!"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:757
 msgid "You who? Fight lizard?"
-msgstr ""
+msgstr "Vy kdo? Bojovat s ještěrkou?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:761
 msgid "Err, yes, we’re here to fight the lizards."
-msgstr ""
+msgstr "Ehm, ano, jsme tu, abychom bojovali s ještěrkami."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:765
@@ -4301,21 +4335,23 @@ msgid ""
 "If we help you fight your enemies, will you come with us and help fight our "
 "enemies?"
 msgstr ""
+"Když vám pomůžeme bojovat s vašimi nepřáteli, půjdete s námi a pomůžete "
+"bojovat s našimi nepřáteli?"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:769
 msgid "Mmmm... Grug think..."
-msgstr ""
+msgstr "Hmmm... Grug myslí..."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:778
 msgid "... Grug head hurt. Grug say join you."
-msgstr ""
+msgstr "... Grug hlava bolí. Grug říká, že se k vám připojí."
 
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:832
 msgid "Curssessss!"
-msgstr ""
+msgstr "Ksssakru!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:845
@@ -4323,6 +4359,8 @@ msgid ""
 "Good, we have safely crossed! And we have gained the service of several "
 "ogres as well."
 msgstr ""
+"Dobře, bezpečně jsme přešli na druhou stranu! A také jsme získali do svých "
+"služeb několik obrů."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:849
@@ -4330,6 +4368,9 @@ msgid ""
 "Ogres are unskilled fighters but much cheaper to equip than our other "
 "soldiers, and thus <i><b>cost much less gold to recall</b></i>."
 msgstr ""
+"Obři jsou necvičení bojovníci, ale jejich vybavení je mnohem levnější než "
+"vybavení našich ostatních vojáků, a proto <i><b>stojí mnohem méně zlata je "
+"povolat</b></i>."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:855
@@ -4339,12 +4380,12 @@ msgstr "Dobře, přešli jsme bezpečně na druhý břeh!"
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:896
 msgid "Cursessss! They’ve caught usss!"
-msgstr ""
+msgstr "Ksssakru! Chytili násss!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:900
 msgid "We are caught as well..."
-msgstr ""
+msgstr "I my jsme chyceni..."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:913
