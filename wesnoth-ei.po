@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-02 21:55+0100\n"
+"PO-Revision-Date: 2024-02-03 22:29+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4411,6 +4411,9 @@ msgid ""
 "leaving the undead far behind. With winter drawing near, they unexpectedly "
 "stumbled upon an inhabited valley..."
 msgstr ""
+"Gweddry a jeho muži se rychle dostali za severní břehy Velké řeky a nechali "
+"nemrtvé daleko za sebou. S blížící se zimou nečekaně narazili na obydlené "
+"údolí..."
 
 #. [side]: type=Dwarvish Lord, id=Pelathsil
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:57
@@ -4449,7 +4452,7 @@ msgstr "Prok-Bak"
 #. [side]: type=Naga Centurion, id=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:199
 msgid "Aleii"
-msgstr ""
+msgstr "Aleii"
 
 #. [side]: type=Naga Centurion, id=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:209
@@ -4464,11 +4467,15 @@ msgid ""
 "<span size='small'><i>(You’ll want as much gold as possible when you try to "
 "leave the wildlands!)</i></span>"
 msgstr ""
+"Shromáždi co nejvíce zlata, než vyprší počet kol.\n"
+"Doporučené minimum je 300 zlatých, ale čím více, tím lépe.\n"
+"<span size='small'><i>(Až se budeš snažit opustit divočinu, budeš potřebovat "
+"co nejvíce zlata!)</i></span>."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:272
 msgid "Move Dolburras next to Pelathsil."
-msgstr ""
+msgstr "Přesuň Dolburrase vedle Pelathsila."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:290
@@ -4476,6 +4483,8 @@ msgid ""
 "The next 4 scenarios have 100% gold carryover, but few villages and 0 "
 "starting gold."
 msgstr ""
+"Další 4 scénáře mají 100% přenos zlata, ale málo vesnic a 0 počátečního "
+"zlata."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:307
@@ -4484,6 +4493,9 @@ msgid ""
 "dire since abandoning the outposts, so we are fortunate to have found such a "
 "fertile valley."
 msgstr ""
+"Zemědělská půda v těchto odlehlých končinách? Naše zásobovací situace se od "
+"opuštění základen dost zhoršila, takže máme štěstí, že jsme našli tak úrodné "
+"údolí."
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:311
@@ -4491,6 +4503,8 @@ msgid ""
 "Huh, maybe throwin’ in my lot with you ain’t so bad after all. This place "
 "would make for a good retirement."
 msgstr ""
+"Ha, možná, že to, že jsem se k vám přidal, není nakonec zas tak špatné. "
+"Tohle místo by se hodilo na odpočinek."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:323
@@ -4498,6 +4512,8 @@ msgid ""
 "Hail, honorable dwarves! Winter comes fast on our heels and we seek "
 "provisions and supplies for our holy journey. Can you be of aid?"
 msgstr ""
+"Buďte zdrávi, ctihodní trpaslíci! Zima nám už dýchá na záda a my hledáme "
+"zásoby na naši svatou cestu. Můžete nám pomoci?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:331
@@ -4505,6 +4521,8 @@ msgid ""
 "Hail, stout-hearted dwarves! Winter comes fast on our heels and we seek "
 "provisions and supplies for our journey north. Can you be of aid?"
 msgstr ""
+"Buďte zdrávi, srdnatí trpaslíci! Zima nám už dýchá na záda a my hledáme "
+"zásoby na cestu na sever. Můžete nám pomoci?"
 
 #. [message]: speaker=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:338
@@ -4512,6 +4530,8 @@ msgid ""
 "Don’t bother asking those freeloading dwarves for anything! They can’t even "
 "manage to pay their tribute on time."
 msgstr ""
+"Neobtěžuj se ty trpasličí vyžírky o nic prosit! Vždyť ani nedokážou včas "
+"zaplatit svou daň."
 
 #. [message]: speaker=Pelathsil
 #. "To flames with your tribute! What's ours is ours, and don't any of you orcs or humans try to take it."
@@ -4520,6 +4540,8 @@ msgid ""
 "To flames with yer tribute! What’s ours be ours, and don’t no orcs nor any "
 "o’ ye humans be tryin and takin’ it!"
 msgstr ""
+"Do háje s vaší daní! Co je naše, je naše, a žádný skřeti ani vy lidi si to "
+"nezkoušejte vzít!"
 
 #. [message]: speaker=Dolburras
 #. "No, these humans are good folk! You can trust us to help against the orcs. All we ask is some food and drink to reprovision."
@@ -4528,6 +4550,8 @@ msgid ""
 "Nay, these humans be good folk! Ye can trust us to help against them orcs. "
 "All we be askin’ be some food and drink to reprovision."
 msgstr ""
+"Ne, tyhle lidi jsou dobří přátelé! Můžete nám věřit, že vám proti skřetům "
+"pomůžeme. Žádáme jen trochu jídla a pití na doplnění zásob."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:361
@@ -4535,6 +4559,8 @@ msgid ""
 "Can we not work together, for our mutual benefit? All we ask is some food "
 "and drink to reprovision."
 msgstr ""
+"Nemůžeme spolupracovat pro společný prospěch? Žádáme jen o trochu jídla "
+"a pití na doplnění zásob."
 
 #. [message]: speaker=Pelathsil
 #. "Never! Not since the days of Ulrek and Delfador have any of our clan helped one of you gangly humans!"
@@ -4543,6 +4569,8 @@ msgid ""
 "Never! Not since tha days o’ Ulrek and Delfador ha’ any o’ our clan helped "
 "one o’ ye gangly humans!"
 msgstr ""
+"Nikdy! Od dob Ulreka a Delfadora nikdo z našeho klanu nepomoh žádnýmu z vás, "
+"hromotluků!"
 
 #. [message]: speaker=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:372
@@ -4551,6 +4579,9 @@ msgid ""
 "warmth. I have called the vote; the clutch has ssspoken. These waters are "
 "only for Naga. Leave usss be."
 msgstr ""
+"Hsss... ssskřeti, trpassslíci, lidé. Cessstovali jsme daleko, abychom "
+"našššli toto teplo. Sssvolal jsem hlasssování, sssnůššška promluvila. Tyto "
+"vody jsou jen pro nágy. Nechte nás být."
 
 #. [message]: speaker=Prok-Bak
 #. Whitefang Orcs, the same clan that attacked Tath at the start of Descent into Darkness
@@ -4559,6 +4590,8 @@ msgid ""
 "That’s Whitefang territory you’re squatting in, snake! Show some respect for "
 "the Chief!"
 msgstr ""
+"To je území Bílého špičáku, kde ses usadil, hade! Projev trochu úcty "
+"k náčelníkovi!"
 
 #. [message]: speaker=Bagork
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:381
@@ -4566,6 +4599,8 @@ msgid ""
 "And I bet they haven’t paid tribute either! Dwarves, snakes, humans, I say "
 "we kill ’em all!"
 msgstr ""
+"A vsadím se, že ani oni nezaplatili daň! Trpaslíci, hadi, lidé, povídám, "
+"všechny je zabijeme!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:391
@@ -4574,6 +4609,9 @@ msgid ""
 "like a hatch of desert scorplings. <span size='small'>Don’t know what I "
 "expected, throwing in my lot with a bunch of primitive northerners...</span>"
 msgstr ""
+"Všichni jste barbaři! Budu hladovět, protože jste zaneprázdněni bojem jako "
+"snůška pouštních štírků. <span size='small'>Nevím, co jsem čekal, když se "
+"dám dohromady s bandou primitivních seveřanů...</span>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:398
@@ -4581,6 +4619,9 @@ msgid ""
 "Infuriating. We may find scant supplies in the coming winter, but we cannot "
 "risk starving in the wilds while undead ravage Wesnoth."
 msgstr ""
+"K zbláznění. V nadcházející zimě možná najdeme něco málo zásob, ale nemůžeme "
+"riskovat, že budeme hladovět v divočině, zatímco nemrtví budou pustošit "
+"Wesnoth."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:404
@@ -4589,6 +4630,9 @@ msgid ""
 "cautiously and control enough farms, we should be able to gather enough "
 "supplies to see us through the winter."
 msgstr ""
+"Gweddry, i přes tento spor musíme doplnit potraviny. Pokud budeme utrácet "
+"obezřetně a ovládneme dostatek farem, měli bychom být schopni shromáždit "
+"dostatek zásob, abychom přečkali zimu."
 
 #. [message]: speaker=Dolburras
 #. "Ack, that Pelathsil has a skull full of mud. If you get me next to him, I'm sure I can talk some sense into him."
@@ -4597,6 +4641,8 @@ msgid ""
 "Ack, that Pelathsil ha’ a skull full o’ mud. If ye get me next ta him I’m "
 "sure I ken talk some sense into him."
 msgstr ""
+"Souhlas, ten Pelathsil má lebku plnou bláta. Jesli mě dostanete vedle něj, "
+"určitě ho přivedu k rozumu."
 
 #. [message]: speaker=Dolburras
 #. "Oi, mud for brains! What do you think you're doing, fighting with these men of Wesnoth?"
@@ -4605,12 +4651,14 @@ msgid ""
 "Oi, mud-fer-brains! What do ye think ye be doin’, fighin’ wi’ these men o’ "
 "Wesnoth?"
 msgstr ""
+"Hej, bahenní mozky! Co si myslíte, že děláte, když bojujete s těmito muži "
+"z Wesnothu?"
 
 #. [message]: speaker=Pelathsil
 #. "Men of Wesnoth aren't dwarves! I am a dwarf lord, not a man friend."
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:440
 msgid "Men o’ Wesnoth ain’t dwarves! I be a dwarf lord, not a man-friend."
-msgstr ""
+msgstr "Muži z Wesnothu nejsou trpaslíci! Jsem trpasličí lord, ne přítel lidí."
 
 #. [message]: speaker=Dolburras
 #. "Yeah, and so instead you send your subjects to die on man-spears? What kind of lordship is that? If you don't want to help us, at least don't fight us!"
@@ -4619,6 +4667,8 @@ msgid ""
 "Aye, and so instead ye send yer subjects to die on man-spears? What kind o’ "
 "lordship be that? If ye dinnae want ta help us, at least dinnae fight us!"
 msgstr ""
+"Ba, a tak místo toho posíláš svý poddaný umírat na lidských kopích? Co je "
+"tohle za lordstvo? Když nám nechcete pomoct, tak s náma aspoň nebojujte!"
 
 #. [message]: speaker=Pelathsil
 #. "A man-friend and a blood-traitor you are... but I suppose I can see your point. We won't fight you any longer."
@@ -4627,6 +4677,8 @@ msgid ""
 "A man-friend and a blood-traitor ye be... but I suppose I ken see yer point. "
 "We won’t be fightin’ ye any longer."
 msgstr ""
+"Si přítel lidí a zrádce krve... ale asi chápu, kam míříš. Už s váma nebudeme "
+"bojovat."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:481
@@ -4634,13 +4686,15 @@ msgid ""
 "Remember, if we spend too much on soldiers now, we may struggle to save "
 "enough supplies to see us through the winter."
 msgstr ""
+"Nezapomeňte, že pokud nyní utratíme příliš mnoho za vojáky, můžeme mít "
+"problém ušetřit dostatek zásob na zimu."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:485
 msgid ""
 "And how do you expect us to capture farms without enough soldiers to take "
 "them?"
-msgstr ""
+msgstr "A jak chceš, abychom se zmocnili farem, když na ně nebude dost vojáků?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:496
@@ -4651,6 +4705,10 @@ msgid ""
 "Advisor has yet to explain more about. Gweddry, surely you feel this is "
 "strange?"
 msgstr ""
+"... Mluvil jsem dost dlouho. Zatímco Wesnoth krvácí, nejvyšší rádce nás vede "
+"na sever pídit se po jídle. A zatímco naši muži a naši lidé umírají, hledáme "
+"chatrč neznámého mága s jakousi neznámou mocí, o níž nám nejvyšší rádce "
+"ještě nevysvětlil víc. Gweddry, jistě ti to připadá divné?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:500
@@ -4658,16 +4716,18 @@ msgid ""
 "I don’t know, Owaec. It is odd, but Dacyn’s light and wisdom are well-known "
 "throughout Wesnoth."
 msgstr ""
+"Já nevím, Owaecu. Je to zvláštní, ale Dacynovo světlo a moudrost jsou známé "
+"po celém Wesnothu."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:504
 msgid "So were his friend Ravan’s, if Dacyn’s story is to be believed."
-msgstr ""
+msgstr "Stejně jako jeho přítel Ravan, pokud se dá věřit Dacynově vyprávění."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:515
 msgid "Excited Grug fight friends help!"
-msgstr ""
+msgstr "Nadšený Grug bojuje přátelům pomoc!"
 
 #. [message]: speaker=Dolburras
 #. "It's a sad day when dwarf fights dwarf... can you not let us pass peacefully?"
@@ -4676,16 +4736,18 @@ msgid ""
 "It be a sad day when dwarf fights dwarf... ken ye not let us pass peaceable-"
 "like?"
 msgstr ""
+"Je to smutnej den, když trpaslík bojuje s trpaslíkem... copak nás nenecháte "
+"projít v míru?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:534
 msgid "I’m not afraid of ye! Raise yer axe, foreigner!"
-msgstr ""
+msgstr "Já se vás nebojim! Pozvedni svou sekeru, cizinče!"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:547
 msgid "Ach, it’s been too long since I put my axe in an orc’s skull!"
-msgstr ""
+msgstr "Ach, už je to dlouho, co jsem zasek sekeru do skřetí lebky!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:551
@@ -4695,12 +4757,12 @@ msgstr "Za Náču!"
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:564
 msgid "Ooch, what manner o’ creature be you?"
-msgstr ""
+msgstr "Ooch, co si to za stvoření?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:568
 msgid "Your sssslayer!"
-msgstr ""
+msgstr "Tvůj zzzabiják!"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:582
@@ -4708,11 +4770,13 @@ msgid ""
 "I have smote many evil orcs in my day, yet I have known some to show as much "
 "honor as any knight. Can we not resolve this peacefully?"
 msgstr ""
+"Svého času jsem pobil mnoho zlých skřetů, ale poznal jsem i takové, kteří "
+"prokázali tolik cti jako každý rytíř. Nemůžeme to vyřešit mírovou cestou?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:586
 msgid "The only honor here belongs to the Chief!"
-msgstr ""
+msgstr "Jediná čest tady patří náčelníkovi!"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:599
@@ -4720,11 +4784,13 @@ msgid ""
 "Naga, I know little of your kind, yet I do not wish to make enemies of you "
 "so hastily. Can we not come to parley?"
 msgstr ""
+"Nágo, o tvém druhu toho vím jen málo, ale nechci si z tebe udělat nepřítele "
+"tak unáhleně. Nemohli bychom se sejít k jednání?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:603
 msgid "Thisss river is oursss!"
-msgstr ""
+msgstr "Tahle řeka je naššše!"
 
 #. [scenario]: id=08_Xenophobia
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:630
@@ -4771,7 +4837,7 @@ msgstr "Náčelník Dra-Nak se o tomhle dozví!"
 #. [message]: speaker=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:680
 msgid "Thisss isss why we avoid outsssidersss..."
-msgstr ""
+msgstr "Proto se vyhýbáme cizzzincům..."
 
 #. [message]: speaker=Pelathsil
 #. "It seems those humans were mightier than I thought..."
@@ -4792,6 +4858,8 @@ msgid ""
 "We are doing well. Our forces have already gathered $gold gold — plenty for "
 "the winter, and there is enough time remaining to gather even more."
 msgstr ""
+"Daří se nám dobře. Naše oddíly už získaly $gold zlatých – dostatek na zimu. "
+"A zbývá dost času, abychom nashromáždili ještě víc."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:735
@@ -4800,6 +4868,9 @@ msgid ""
 "north. We cannot afford to tarry here while Wesnoth contends against Mal-"
 "Ravanal."
 msgstr ""
+"Gweddry, vyzývám tě, abys získal alespoň 300 zlatých, než se vydáme dál na "
+"sever. Nemůžeme si dovolit tady otálet, zatímco Wesnoth bojuje proti Mal-"
+"Ravanalovi."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:757
@@ -4807,6 +4878,8 @@ msgid ""
 "I’ve finished gathering the supplies from all our captured farms! We should "
 "have plenty for our journey ahead."
 msgstr ""
+"Dokončil jsem shromažďování zásob ze všech našich dobytých farem! Měli "
+"bychom jich mít dostatek na další cestu."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:761
@@ -4814,6 +4887,8 @@ msgid ""
 "Let us forge onward. We have almost reached our destination, and will soon "
 "have the power to save Wesnoth from Mal-Ravanal."
 msgstr ""
+"Pokračujme dál. Jsme téměř u cíle a brzy budeme mít sílu zachránit Wesnoth "
+"před Mal-Ravanalem."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:769
@@ -4822,6 +4897,9 @@ msgid ""
 "The farms we’ve captured simply don’t have enough supplies to sustain us for "
 "a long journey."
 msgstr ""
+"Snažil jsem se, co to šlo, ale stále se mi nedaří získat mnoho zlata. Farmy, "
+"které jsme dobyli, prostě nemají dost zásob, aby nás uživily na dlouhou "
+"cestu."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:773
@@ -4830,11 +4908,13 @@ msgid ""
 "neither can we afford to spend any more time here while Wesnoth battles Mal-"
 "Ravanal..."
 msgstr ""
+"Bez dalších zásob bude obtížné cestovat dál na sever, ale nemůžeme si "
+"dovolit trávit zde další čas, zatímco Wesnoth bojuje s Mal-Ravanalem..."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:778
 msgid "Travel north regardless. <i>(challenging)</i>"
-msgstr ""
+msgstr "Bez ohledu na to cestuj na sever. <i>(náročné)</i>"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:782
@@ -4842,11 +4922,13 @@ msgid ""
 "Bah, a Clansman never succumbs to despair! Let us press forth and fight to "
 "save our homeland, whatever the odds!!"
 msgstr ""
+"Pah, člen klanu se nikdy nepoddává zoufalství! Pokračujme vpřed a bojujme za "
+"záchranu naší vlasti, ať už nás čeká cokoli!!"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:787
 msgid "Restart the level."
-msgstr ""
+msgstr "Restartuj úroveň."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:808
@@ -4854,6 +4936,8 @@ msgid ""
 "I only hope we are not too late... If what we saw at Soradoc was any guide, "
 "Mal-Ravanal may soon overrun all of Wesnoth!"
 msgstr ""
+"Jen doufám, že nepřijdeme pozdě... Jestli to, co jsme viděli u Soradoku, "
+"bylo nějaké vodítko, může Mal-Ravanal brzy ovládnout celý Wesnoth!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:815
@@ -4861,6 +4945,9 @@ msgid ""
 "I only hope we are not too late! We have heard nothing of the undead since "
 "they overran us at the outposts. I wish we knew how Weldyn’s armies fare..."
 msgstr ""
+"Jen doufám, že nepřijdeme pozdě! Od té doby, co nás přepadli na základnách, "
+"jsme o nemrtvých nic neslyšeli. Kéž bychom věděli, jak si armády Weldynu "
+"vedou..."
 
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:4
