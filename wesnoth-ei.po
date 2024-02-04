@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-03 22:29+0100\n"
+"PO-Revision-Date: 2024-02-04 13:05+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4961,11 +4961,14 @@ msgid ""
 "wildlands. The days began to shorten and the air swiftly grew chill, making "
 "the already challenging mountains even more perilous to traverse."
 msgstr ""
+"Jak Gweddry a jeho skupina pokračovali na sever, zima v divočině "
+"přituhovala. Dny se začaly zkracovat a vzduch se rychle ochlazoval, takže už "
+"tak náročné hory byly pro přechod ještě nebezpečnější."
 
 #. [side]: type=Hurricane Drake, id=Kaslar Ro
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:75
 msgid "Kaslar Ro"
-msgstr ""
+msgstr "Kaslar Ro"
 
 #. [side]: type=Hurricane Drake, id=Kaslar Ro
 #. [side]: type=Sky Drake, id=Kegra
@@ -4994,22 +4997,22 @@ msgstr "Šelmy"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:246
 msgid "Pudror"
-msgstr ""
+msgstr "Pudror"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:247
 msgid "Chief Bir-brish"
-msgstr ""
+msgstr "Náčelník Bir-briš"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:249
 msgid "Huno"
-msgstr ""
+msgstr "Huno"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:252
 msgid "Iprish"
-msgstr ""
+msgstr "Ipriš"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:431
@@ -5036,6 +5039,8 @@ msgid ""
 "Living units take $|frostbite_amount cold damage every turn. Damage "
 "increases every 10 turns."
 msgstr ""
+"Živé jednotky obdrží každé kolo zranění chladem $|frostbite_amount. Zranění "
+"se každých 10 kol zvyšuje."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:474
@@ -5044,6 +5049,9 @@ msgid ""
 "homeland. I wonder how the horse lords fare against the grim undead; surely "
 "Wesnoth is near victory?"
 msgstr ""
+"Chlad této zimy mi proniká až do morku kostí! Toužím po zvlněných pláních "
+"své vlasti. Zajímalo by mě, jak se pánům koní daří v boji s hroznými "
+"nemrtvými. Určitě je Wesnoth blízko vítězství?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:478
@@ -5052,6 +5060,9 @@ msgid ""
 "abandoned sanctuary, and within lies an artifact that can destroy Mal-"
 "Ravanal once and for all. That is the object of our quest."
 msgstr ""
+"To stěží, ale <i>naše</i> vítězství je blízko. Za touto řekou leží opuštěná "
+"svatyně a v ní artefakt, který může Mal-Ravanala jednou provždy zničit. To "
+"je cíl našeho pátrání."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:482
@@ -5059,6 +5070,8 @@ msgid ""
 "This area was deserted whence last I came, but I have heard rumors that a "
 "flight of drakes has taken up residence."
 msgstr ""
+"Tato oblast byla opuštěná, když jsem sem přišel naposledy, ale slyšel jsem "
+"zvěsti, že se tu usídlila letka drakonidů."
 
 #. [message]: speaker=Terraent
 #. [message]: speaker=Gweddry
@@ -5067,11 +5080,13 @@ msgstr ""
 msgid ""
 "And listen! I hear the bone-chilling howls of wolves echoing among the peaks."
 msgstr ""
+"A poslouchejte! Slyším vytí vlků, které se ozývá mezi vrcholky, a mně z něj "
+"naskakuje husí kůže."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:505
 msgid "Wolves and drakes, bah! I fear no mindless beasts!"
-msgstr ""
+msgstr "Vlci a drakonidé, pah! Nebojím se žádných nemyslících bestií!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:509
@@ -5080,6 +5095,9 @@ msgid ""
 "against our mages’ fire and their flight will serve them better than our "
 "feet amidst these snow-covered mountains."
 msgstr ""
+"Na rozdíl od tebe jsou drakonidé velmi inteligentní. Jejich vnitřní plamen "
+"je chrání před ohněm našich mágů a jejich let jim uprostřed těchto "
+"zasněžených hor poslouží lépe než naše nohy."
 
 #. [message]: speaker=Dolburras
 #. "Yes, and don't understimate wild beasts! I've known wolves to take a dwarf's arm clean off."
@@ -5088,11 +5106,13 @@ msgid ""
 "Aye, and dinnae underestimate wild beasts! I’ve known wolves ta take a "
 "dwarf’s arm clean off."
 msgstr ""
+"Jo, a nepodceňuj divoký zvířata! Znám vlky, který trpaslíkovi ukousnou ruku "
+"rovnou u ramene."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:524
 msgid "Still, we must press onwards to the icy castle."
-msgstr ""
+msgstr "Přesto musíme pokračovat k ledovému hradu."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:531
@@ -5100,6 +5120,8 @@ msgid ""
 "And wild beasts are not to be underestimated either! Still, we must press "
 "onwards to the icy castle."
 msgstr ""
+"A ani divoké šelmy není radno podceňovat! Přesto musíme pokračovat "
+"k ledovému hradu."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:621
@@ -5108,6 +5130,9 @@ msgid ""
 "elements! Whoever drinks from this bubbling yellow vial will gain immunity "
 "to even the hottest flame!"
 msgstr ""
+"Oheň a led, co? Mám pro vás to pravé – hle, zázračný elixír živlů! Kdo se "
+"napije z této bublající žluté lahvičky, získá odolnost i proti nejžhavějšímu "
+"plameni!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:625
@@ -5115,6 +5140,8 @@ msgid ""
 "But wait, there’s more! The elixir of elements also bestows immunity to "
 "cold; perfect for enduring the frigid winter weather."
 msgstr ""
+"Ale počkejte, je toho víc! Elixír živlů také propůjčuje odolnost vůči "
+"chladu. Je ideální pro přežití mrazivého zimního počasí."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:652
@@ -5122,11 +5149,13 @@ msgid ""
 "Act fast, this offer is for a limited time only! <i>(elixirs only last for 1 "
 "scenario)</i>"
 msgstr ""
+"Jednejte rychle, tato nabídka platí pouze po omezenou dobu! <i>(elixíry "
+"vydrží pouze na 1 scénář)</i>"
 
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:743
 msgid "<span color='#00FF00' size='small'>resist</span>"
-msgstr ""
+msgstr "<span color='#00FF00' size='small'>odolává</span>"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:802
@@ -5134,6 +5163,8 @@ msgid ""
 "<i>Brrrr</i>, I can’t feel my fingers or toes! We’ll die of cold if we’re "
 "trapped out here for too long."
 msgstr ""
+"<i>Brrrr</i>, necítím prsty na rukou ani na nohou! Jestli tu zůstaneme "
+"uvězněni příliš dlouho, umřeme zimou."
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:806
@@ -5141,6 +5172,8 @@ msgid ""
 "What am I even doin’ here? All I wanted was to make an honest living "
 "smashin’ in skulls, then retire somewhere warm..."
 msgstr ""
+"Co tady vůbec dělám? Chtěl jsem se jen poctivě živit rozbíjením lebek a pak "
+"odejít někam do tepla..."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:815
@@ -5148,6 +5181,8 @@ msgid ""
 "The cold keeps getting worse! We have to reach that abandoned castle before "
 "we all freeze!"
 msgstr ""
+"Zima se stále zhoršuje! Musíme se dostat na ten opuštěný hrad, než všichni "
+"zmrzneme!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:825
@@ -5156,6 +5191,9 @@ msgid ""
 "will be hard-pressed to find many villages in these lands and will surely "
 "need more for later."
 msgstr ""
+"Gweddry, měl by ses během několika příštích střetů snažit šetřit naše zlato. "
+"V těchto končinách budeme těžko hledat mnoho vesnic a určitě ho budeme "
+"potřebovat více na později."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:830
@@ -5163,6 +5201,8 @@ msgid ""
 "(This and the next 3 scenarios have 100% carryover, but few villages and 0 "
 "starting gold.)"
 msgstr ""
+"(Tento a další 3 scénáře mají 100% přenos, ale málo vesnic a 0 počátečního "
+"zlata.)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:835
@@ -5170,6 +5210,8 @@ msgid ""
 "(You’ll want as much gold as you can possibly get when you try to leave the "
 "wildlands!)"
 msgstr ""
+"(Až se budeš snažit opustit divočinu, budeš potřebovat tolik zlata, kolik "
+"jen můžeš získat!)"
 
 #. [message]: speaker=Gweddry
 #. [message]: speaker=unit
@@ -5177,22 +5219,22 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:868
 msgid ""
 "Look, a ruined castle off in the distance! Is that the one we’re looking for?"
-msgstr ""
+msgstr "Podívejte, v dálce stojí zřícenina hradu! Je to ten, který hledáme?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:874
 msgid "No. The ruin we’re journeying towards lies across the river."
-msgstr ""
+msgstr "Ne. Zřícenina, ke které putujeme, leží na druhém břehu řeky."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:921
 msgid "Tapok"
-msgstr ""
+msgstr "Tapok"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:926
 msgid "Ogho"
-msgstr ""
+msgstr "Ogho"
 
 #. [event]
 #. [side]: type=Drake Flameheart, id=Mortic
@@ -5200,26 +5242,26 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:128
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:75
 msgid "Mortic"
-msgstr ""
+msgstr "Mortik"
 
 #. [message]: speaker=Tapok
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:987
 msgid "Well? Are they ready?"
-msgstr ""
+msgstr "Takže? Jsou připraveni?"
 
 #. [event]: race=drake
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:989
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:365
 msgid "Ga’all"
-msgstr ""
+msgstr "Ga’all"
 
 #. [event]: race=drake
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:990
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:366
 msgid "Verash"
-msgstr ""
+msgstr "Veraš"
 
 #. [message]: speaker=Mortic
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:993
@@ -5229,6 +5271,10 @@ msgid ""
 "To our Flight, your only usefulness remains...\n"
 "As tribute to the orcs."
 msgstr ""
+"Ga’alle, tvůj lov se nezdařil.\n"
+"Veraši, tvé drápy stárnou.\n"
+"Pro naši letku jste užiteční pouze...\n"
+"Jako daň skřetům."
 
 #. [message]: speaker=Verash
 #. "Aspirant" is a drake military rank
@@ -5237,11 +5283,13 @@ msgid ""
 "Aspirant Mortic,\n"
 "As you command."
 msgstr ""
+"Aspirante Mortiku,\n"
+"jak poroučíš."
 
 #. [message]: speaker=Ogho
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1006
 msgid "C’mon wyrms, get moving!"
-msgstr ""
+msgstr "No tak, wyrmové, hněte sebou!"
 
 #. [message]: speaker=Tapok
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1013
@@ -5249,6 +5297,8 @@ msgid ""
 "Heh heh, quality tribute, as always. Be grateful for our generosity. Chief "
 "only asked for two this time!"
 msgstr ""
+"He he, kvalitní daň, jako vždy. Buď vděčný za naši velkorysost. Tentokrát si "
+"náčelník řekl jen o dva!"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1038
@@ -5258,6 +5308,10 @@ msgid ""
 "Taller than a Dwarf.\n"
 "Tell me of your kin."
 msgstr ""
+"Blíží se neznámý tvor.\n"
+"Bledší než skřet.\n"
+"Vyšší než trpaslík.\n"
+"Pověz mi o svém rodu."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1045
@@ -5265,6 +5319,8 @@ msgid ""
 "We are men, of Wesnoth! We come in peace, seeking magic to help in our war "
 "against an undead horde."
 msgstr ""
+"Jsme lidé z Wesnothu! Přicházíme v míru a hledáme magii, která by nám "
+"pomohla ve válce proti hordě nemrtvých."
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1049
@@ -5275,16 +5331,21 @@ msgid ""
 "We have already paid the orcs, dearly.\n"
 "No further tribute can be paid."
 msgstr ""
+"Dra-Nak nás varoval.\n"
+"Vy, muži z Wes-Nothu, mluvíte o míru.\n"
+"Přesto na naši letku máváte svými kopími.\n"
+"Už jsme skřetům draze zaplatili.\n"
+"Žádnou další daň už platit nemůžeme."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1057
 msgid "No, wait, we just want to-"
-msgstr ""
+msgstr "Ne, počkej, my jen chceme..."
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1061
 msgid "Our Hunt must continue."
-msgstr ""
+msgstr "Náš lov musí pokračovat."
 
 #. [message]: speaker=Mortic
 #. letting us know that they're just a small and relatively weak Drake Flight but it sets us up to meet some strong ones later
@@ -5299,78 +5360,85 @@ msgid ""
 "Yet our flame still persists.\n"
 "I shall not fall here."
 msgstr ""
+"Jsem aspirant.\n"
+"V těchto severních krajích však i kořist vycenila tesáky,\n"
+"a hrozí, že nás přemůže.\n"
+"Bojovali jsme proti mocnějším letkám,\n"
+"a poskvrnili svou čest.\n"
+"Náš plamen však stále trvá.\n"
+"Já zde nepadnu."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1151
 msgid "Grug make ogre friendly! Talk ogre Grug make friend."
-msgstr ""
+msgstr "Grug udělá obry hodné! Řekni obrovi Grug bude kamarád."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1155
 msgid "I think he’s saying he wants to talk with the wild ogres?"
-msgstr ""
+msgstr "Myslím, že říká, že chce mluvit s divokými obry?"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1202
 msgid "Guuuh... human?"
-msgstr ""
+msgstr "Guuuh... člověk?"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1207
 msgid "Err, hello?"
-msgstr ""
+msgstr "Ehm, haló?"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1212
 msgid "Human! Human human human!"
-msgstr ""
+msgstr "Člověk! Člověk, člověk, člověk!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1216
 msgid "They don’t look very friendly..."
-msgstr ""
+msgstr "Nevypadají moc přátelsky..."
 
 #. [message]: speaker=$found_unit.id
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1243
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1294
 msgid "Guuuh... who you?"
-msgstr ""
+msgstr "Guuuh... kdo ty?"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1249
 msgid "Uhhhh... who <i><b>you</b></i>?"
-msgstr ""
+msgstr "Uhhhhh... kdo <i><b>ty</b></i>?"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1254
 msgid "Me... friend? New friend?"
-msgstr ""
+msgstr "Já... přítel? Nový přítel?"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1260
 msgid "New friend! Me no fight friend."
-msgstr ""
+msgstr "Nový přítel! Já ne bít přítel."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1298
 msgid "Grug me! Me friend human."
-msgstr ""
+msgstr "Já Grug! Já přítel člověk."
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1303
 msgid "Uhhhh... friend... human?"
-msgstr ""
+msgstr "Uhhhhh... přítel... člověk?"
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1307
 msgid "You too friend human! Help human fight good."
-msgstr ""
+msgstr "I ty přítel člověka! Pomoct člověku bojovat dobré."
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1312
 msgid "OK, me help human fight! Human good!"
-msgstr ""
+msgstr "Dobrá, já pomoct člověk bojovat! Člověk dobrý!"
 
 #. [message]: speaker=unit
 #. circa 25 gold pieces
@@ -5379,6 +5447,8 @@ msgid ""
 "This shipwreck was carrying chests of gold! Most of them are buried under "
 "the ice, but I can still reach $gold pieces."
 msgstr ""
+"Tento vrak převážel truhly se zlatem! Většina z nich je pohřbena pod ledem, "
+"ale přesto se dokážu dostat k $gold zlatým."
 
 #. [message]: speaker=unit
 #. circa 30 gold pieces
@@ -5387,6 +5457,8 @@ msgid ""
 "This ruined town still has some valuables! I count enough to be worth $gold "
 "gold pieces."
 msgstr ""
+"V tomto zničeném městě jsou stále nějaké cennosti! Napočítal jsem jich dost "
+"na to, aby měly hodnotu $gold zlatých."
 
 #. [message]: speaker=unit
 #. circa 15 gold pieces
@@ -5395,21 +5467,23 @@ msgid ""
 "This drake only had $gold gold pieces in his camp. Not much of a dragon "
 "hoard..."
 msgstr ""
+"Tento drakonid měl ve svém táboře pouze $gold zlatých. To není moc velký "
+"dračí poklad..."
 
 #. [message]: type=Yeti
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1426
 msgid "GROARRR!!!"
-msgstr ""
+msgstr "GROARRR!!!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1437
 msgid "I’ve never tried Yeti meat. I wonder what it tastes like?"
-msgstr ""
+msgstr "Maso yettiho jsem nikdy nezkoušel. Jak asi chutná?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1460
 msgid "This is the place! Let us enter."
-msgstr ""
+msgstr "Tady je to správné místo! Pojďme dovnitř."
 
 #. [scenario]: id=10_Dark_Sanctuary
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:4
