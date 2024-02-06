@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-04 13:05+0100\n"
+"PO-Revision-Date: 2024-02-06 22:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5496,11 +5496,13 @@ msgid ""
 "Sequestered away under ice and stone, the dark places of the world quietly "
 "count the long years, biding their time until once more disturbed."
 msgstr ""
+"Temná místa světa, ukrytá pod ledem a kamenem, tiše odpočítávají dlouhá léta "
+"a čekají, až budou znovu vyrušena."
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:122
 msgid "Goblins"
-msgstr ""
+msgstr "Goblini"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:284
@@ -5508,6 +5510,8 @@ msgid ""
 "Ugh, more ants. I doubt there’s anything of value in here, just more of that "
 "lousy ambrosia."
 msgstr ""
+"Hu, další mravenci. Pochybuji, že je tu něco cenného, jen víc toho hnusného "
+"mravenčího chleba."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:532
@@ -5530,7 +5534,7 @@ msgstr "Žíznivý goblin"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:573
 msgid "Dushab"
-msgstr ""
+msgstr "Dušab"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:608
@@ -5541,7 +5545,7 @@ msgstr "Vůdce goblinů"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:666
 msgid "Move Dacyn, Gweddry, and reinforcements into the gate"
-msgstr ""
+msgstr "Vstup s Dacynem, Gweddrym a posilami do brány"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:673
@@ -5551,7 +5555,7 @@ msgstr "Najdi oba klíče od brány"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:680
 msgid "Move Dacyn, Gweddry, and reinforcements into the inner gate"
-msgstr ""
+msgstr "Vstup s Dacynem, Gweddrym a posilami do vnitřní brány"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:687
@@ -5571,14 +5575,14 @@ msgstr "Přežij útok skřetů"
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:716
 msgid "To enter the castle, move Dacyn into the gated area."
-msgstr ""
+msgstr "Chceš-li vstoupit do hradu, přesuň Dacyna k bráně."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:722
 msgid ""
 "Dacyn has been here before and will have better outcomes when stepping on "
 "runes."
-msgstr ""
+msgstr "Dacyn tu už byl, a když bude stoupat na runy, bude mít lepší výsledky."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:749
@@ -5586,6 +5590,8 @@ msgid ""
 "We have arrived. This is a long-abandoned sanctum that you may know as the "
 "lair of the mage Iliah-Malal."
 msgstr ""
+"Dorazili jsme. Toto je dlouho opuštěná svatyně, kterou možná znáte jako "
+"doupě mága Iliah-Malala."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:755
