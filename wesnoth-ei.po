@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-06 22:47+0100\n"
+"PO-Revision-Date: 2024-02-07 22:17+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5602,11 +5602,16 @@ msgid ""
 "\n"
 "I once thought such a power too dangerous to use; I am no longer so naive."
 msgstr ""
+"Zde hledám Iliah-Malalův Amulet závoje, artefakt, který má moc otevírat "
+"brány mezi zemí živých a mrtvých.\n"
+"\n"
+"Kdysi jsem si myslel, že taková moc je příliš nebezpečná na to, abych ji "
+"použil, ale už nejsem tak naivní."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:761
 msgid "Iliah-Malal? I know that name from the legends..."
-msgstr ""
+msgstr "Iliah-Malal? To jméno znám z legend..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:770
@@ -5614,6 +5619,8 @@ msgid ""
 "All this time... all this time I thought we were questing towards a noble "
 "goal. Searching for a legendary sword, an ancient tome, a holy relic."
 msgstr ""
+"Celou tu dobu... celou tu dobu jsem si myslel, že směřujeme k ušlechtilému "
+"cíli. Že hledáme legendární meč, starobylý svazek, svatou relikvii."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:774
@@ -5623,6 +5630,9 @@ msgid ""
 "by such an evil? As soldiers of Wesnoth we are honor-bound to fight for the "
 "Light, not the darkness!"
 msgstr ""
+"Místo toho nás naše pátrání zavede do doupěte jedné z nejhorších bytostí, "
+"které kdy žily. Jak můžeš chtít využít něco, co někdy patřilo takovému zlu? "
+"Jako vojáci Wesnothu jsme povinni bojovat za Světlo, ne za temnotu!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:778
@@ -5633,6 +5643,10 @@ msgid ""
 "collapse into piles of bones. I am wielding this power for the good of "
 "Irdya, not for your honor’s sake."
 msgstr ""
+"Nebuď tak krátkozraký. S mocí otevírat portály do Země mrtvých mohu vylákat "
+"Mal-Ravanalova ducha z tohoto světa. Pak kouzla propůjčující mrtvým falešný "
+"život selžou a jejich strašlivé armády se rozpadnou na hromady kostí. Tuto "
+"moc používám pro dobro Irdye, ne pro tvou čest."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:782
@@ -5640,6 +5654,8 @@ msgid ""
 "Dacyn, I am uneasy about this course of action. I know little of the Land of "
 "the Dead, but everything I have heard suggests-"
 msgstr ""
+"Dacyne, tento postup mě znepokojuje. O Zemi mrtvých toho vím málo, ale "
+"všechno, co jsem slyšel, naznačuje..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:786
@@ -5649,6 +5665,9 @@ msgid ""
 "the good of all life?! Madness! As a mage of the Light, you should know "
 "better!"
 msgstr ""
+"Porušil bys věčný mír mrtvých, abys mohl vést válku, a přesto mě nazýváš "
+"krátkozrakým?! A zatímco naše vlast krvácí, ty máš tu drzost mluvit o dobru "
+"všeho života?! Šílenství! Jako mág Světla bys už měl vědět, co je správné!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:790
@@ -5658,6 +5677,10 @@ msgid ""
 "pretend morality. If that is what you insist on doing, then by all means "
 "return to Wesnoth and add your corpses to Mal-Ravanal’s ever-growing hordes."
 msgstr ""
+"Už mám dost tvého předpovídání. Ty, bláznivý kluku od koní, nevíš nic "
+"o mystických uměních, ale svou nevědomost maskuješ tím, že se schováváš za "
+"předstíranou morálku. Pokud na tom trváš, pak se rozhodně vrať do Wesnothu "
+"a přidejte své mrtvoly ke stále rostoucím Mal-Ravanalovým hordám."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:794
@@ -5666,6 +5689,9 @@ msgid ""
 "intend to use it to destroy Mal-Ravanal. Will you wallow in your "
 "shortsightedness, or do you intend to help me safeguard all that lives?"
 msgstr ""
+"Na rozdíl od tebe mám znalosti a sílu, které mi umožňují porazit nemrtvé, "
+"a hodlám je použít ke zničení Mal-Ravanala. Budeš se utápět ve své "
+"krátkozrakosti, nebo mi hodláš pomoci ochránit vše živé?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:803
@@ -5673,6 +5699,7 @@ msgid ""
 "I will help you. We have come this far, and it seems a waste to turn back "
 "now."
 msgstr ""
+"Pomůžu ti. Došli jsme tak daleko a zdá se, že by bylo škoda se teď vracet."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:807
@@ -5681,6 +5708,8 @@ msgid ""
 "undead! Better that than living to see Wesnoth’s high mage succumb to the "
 "temptation of darkness."
 msgstr ""
+"U klanů, já nepomůžu!! Kéž bych zahynul v boji proti nemrtvým! Lepší než se "
+"dožít toho, abych viděl, jak nejvyšší mág Wesnothu podlehne pokušení temnoty."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:811
@@ -5689,6 +5718,9 @@ msgid ""
 "for you. But I will not enter that evil stronghold. I would sooner perish "
 "than travel one step closer towards Dacyn’s foul amulet."
 msgstr ""
+"Gweddry, pokud chceš tomuto šílenci skutečně pomoci, budu pro tebe střežit "
+"vnější brány. Ale do téhle zlé pevnosti nevstoupím. Raději bych zahynul, než "
+"abych se o krok přiblížil k Dacynovu odpornému amuletu."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:820
