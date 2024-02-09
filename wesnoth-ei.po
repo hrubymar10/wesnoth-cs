@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-07 22:17+0100\n"
+"PO-Revision-Date: 2024-02-09 23:26+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5731,11 +5731,15 @@ msgid ""
 "the future, at least according to Ravan’s theory. In hindsight, that was all "
 "nonsense."
 msgstr ""
+"Ach, tohle místo si ještě docela dobře pamatuji. Když o tom tak přemýšlím, "
+"Ravan se vždycky velmi zajímal o magii temnoty. Rovnováha mezi světlem "
+"a tmou by zřejmě byla v budoucnu klíčová pro bezpečnost Irdye, alespoň podle "
+"Ravanovy teorie. Když se na to podívám zpětně, bylo to celé nesmysl."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:824
 msgid "The irony seems lost on you."
-msgstr ""
+msgstr "Zdá se, že ironie ti uniká."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:828
@@ -5743,6 +5747,8 @@ msgid ""
 "Back then this place was full of traps and undead, and it will no doubt be "
 "worse now that the wild beasts have had a chance to move in."
 msgstr ""
+"Tehdy tu bylo plno pastí a nemrtvých a teď, když se sem mohly nastěhovat "
+"divoké šelmy, to bude nepochybně ještě horší."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:839
@@ -5761,6 +5767,10 @@ msgid ""
 "The black pool swallows all voices,\n"
 "The darkness between worlds opens its maw."
 msgstr ""
+"Rudá hvězda plane,\n"
+"rudý kámen krvácí.\n"
+"Černá tůň pohltí všechny hlasy,\n"
+"temnota mezi světy otevírá svůj chřtán."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:876
@@ -5768,11 +5778,13 @@ msgid ""
 "Ugh, spellcasting always gives me the shivers. There’s a reason the more "
 "civilized people of my homeland don’t trifle with magic!"
 msgstr ""
+"Uf, z toho kouzlení mi vždycky běhá mráz po zádech. Ne nadarmo si "
+"civilizovanější lidé v mé vlasti s magií nezahrávají!"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:880
 msgid "For a mage of the Light, the words you speak are dark indeed."
-msgstr ""
+msgstr "Na mága Světla jsou slova, která říkáš, vskutku temná."
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:884
@@ -5780,6 +5792,8 @@ msgid ""
 "I’m a simple man. I use simple tools and weapons. This magic stuff is givin’ "
 "me the creeps."
 msgstr ""
+"Jsem jednoduchý člověk. Používám jednoduché nástroje a zbraně. Z téhle magie "
+"mi naskakuje husí kůže."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:894
@@ -5788,6 +5802,8 @@ msgid ""
 "artifact, and Gweddry has agreed to accompany me, so that leaves room for "
 "six more."
 msgstr ""
+"V této předsíni je místo pouze pro osm osob. Já musím jít pro artefakt "
+"a Gweddry souhlasil, že mě doprovodí, takže zbývá místo pro dalších šest."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:912
@@ -5795,28 +5811,30 @@ msgid ""
 "Gweddry, are you still choosing your troops? I must end my turn in the "
 "antechamber to cycle the gate and enter the sanctuary."
 msgstr ""
+"Gweddry, stále vybíráš své vojáky? Musím ukončit svůj tah v předsíni, abych "
+"mohl projít bránou a vstoupit do svatyně."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:932
 msgid "I will not aid in this evil quest."
-msgstr ""
+msgstr "Nebudu napomáhat této zlé výpravě."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:962
 msgid "I am ready to cycle the gates. Gweddry, shall we proceed?"
-msgstr ""
+msgstr "Jsem připraven projít branou. Gweddry, můžeme pokračovat?"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:964
 msgid "Yes, these are the soldiers I want."
-msgstr ""
+msgstr "Ano, to jsou ti vojáci, které chci."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:972
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2410
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:780
 msgid "No, not yet."
-msgstr ""
+msgstr "Ne, ještě ne."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:981
@@ -5824,6 +5842,8 @@ msgid ""
 "Gweddry, you agreed to accompany me. We must both enter this antechamber "
 "before I cycle the gates."
 msgstr ""
+"Gweddry, souhlasil jsi, že mě doprovodíš. Oba musíme vstoupit do této "
+"předsíně, než otočím brány."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1041
