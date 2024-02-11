@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-11 11:15+0100\n"
+"PO-Revision-Date: 2024-02-11 11:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6024,6 +6024,8 @@ msgid ""
 "I recognize this volume. Such a thing could be dangerous in the wrong hands. "
 "Perhaps I should hold on to it... for safekeeping."
 msgstr ""
+"Tento svazek poznávám. Taková věc by mohla být v nesprávných rukou "
+"nebezpečná. Možná bych si ho měl nechat... v úschově."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1650
@@ -6032,6 +6034,9 @@ msgid ""
 "thing could be dangerous in the wrong hands. Perhaps I should hold on to "
 "it... for safekeeping."
 msgstr ""
+"... Tento svazek poznávám. Ještě štěstí, že jsem ho našel jako první. Taková "
+"věc by mohla být v nesprávných rukou nebezpečná. Možná bych si ho měl "
+"nechat... v úschově."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1669
