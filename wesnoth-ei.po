@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-09 23:26+0100\n"
+"PO-Revision-Date: 2024-02-11 11:15+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5756,6 +5756,8 @@ msgid ""
 "Ravan sealed this place before our last meeting. I need a moment to remember "
 "the incantation."
 msgstr ""
+"Ravan toto místo před naším posledním setkáním zapečetil. Potřebuji chvilku, "
+"abych si vzpomněl na zaklínadlo."
 
 #. [message]: speaker=Dacyn
 #. the "red star" refers to the Ruby of Fire, and the "red stone" refers to the Amulet of the Veil FYI but these are not to be explicitly mentioned
@@ -5848,12 +5850,12 @@ msgstr ""
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1041
 msgid "Cave scary! Grug no like!"
-msgstr ""
+msgstr "Jeskyně hrozná! Grug nerad!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1048
 msgid "The torches are lit..."
-msgstr ""
+msgstr "Pochodně jsou zapálené..."
 
 #. [message]: speaker=Dolburras
 #. "I have seen my fair share of dark caves, but something about this place is making me shake."
@@ -5862,36 +5864,37 @@ msgid ""
 "I ha’ seen my fair share o’ dark caves, but summat ’bout this place be "
 "givin’ me the shakes."
 msgstr ""
+"Viděl jsem už spoustu temnejch jeskyní, ale z něčeho tady mám třesavku."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1074
 msgid "May this unholy place be cleansed by the Light!"
-msgstr ""
+msgstr "Kéž toto nesvaté místo očistí Světlo!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1158
 msgid "Hissssss..."
-msgstr ""
+msgstr "Hissssss..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1172
 msgid "This wyvern was rich! I count $gold gold in its hoard."
-msgstr ""
+msgstr "Tahle wyverna byla bohatá! Nasyslila si $gold zlatých."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1177
 msgid "Ho ho, northerners’ gold, now that begins to make this all worth it!"
-msgstr ""
+msgstr "Ho ho, zlato seveřanů, teď už to začíná stát za to!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1196
 msgid "East: Study and Vaults"
-msgstr ""
+msgstr "Východ: Studovna a hrobky"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1213
 msgid "West: Laboratory and Experiment Testing"
-msgstr ""
+msgstr "Západ: Laboratoř a ověřování pokusů"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1264
@@ -5899,6 +5902,8 @@ msgid ""
 "I have triggered a trap. As long as I stay on this rune I will be safe, but "
 "once I step away, fire spirits will rise from the lava."
 msgstr ""
+"Spustil jsem past. Dokud zůstanu na této runě, budu v bezpečí, ale jakmile "
+"udělám krok, z lávy vystoupí ohniví duchové."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1274
@@ -5908,7 +5913,7 @@ msgstr "Ajaj..."
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1282
 msgid "Oh, nothing happened."
-msgstr ""
+msgstr "No, nic se nestalo."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1289
@@ -5916,6 +5921,7 @@ msgid ""
 "That corpse has triggered a trap. When next it moves, fire spirits will rise "
 "from the lava."
 msgstr ""
+"Ta mrtvola spustila past. Až se příště pohne, z lávy vystoupí ohniví duchové."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1340
@@ -5923,16 +5929,20 @@ msgid ""
 "This gate is locked, and I recognize the petrification trap concealed within "
 "its guardian rune. I should avoid trying to open it."
 msgstr ""
+"Tato brána je zamčená a já rozpoznávám past zkamenění, která se skrývá "
+"v její strážní runě. Neměl bych ji zkoušet otvírat."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1350
 msgid "Looks like this gate is locked. I wonder if this rune opens it?"
 msgstr ""
+"Vypadá to, že tato brána je zamčená. Zajímalo by mě, jestli ji tahle runa "
+"otevře."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1397
 msgid "That was a petrification rune. It should wear off in a few moments."
-msgstr ""
+msgstr "To byla runa zkamenění. Měla by za chvilku přestat působit."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1404
@@ -5940,6 +5950,8 @@ msgid ""
 "We are fortunate, that enemy has triggered a petrification rune. Be warned "
 "though, it will only last a few moments."
 msgstr ""
+"Máme štěstí, že nepřítel spustil runu zkamenění. Ale pozor, bude to trvat "
+"jen několik okamžiků."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1457
@@ -5947,11 +5959,13 @@ msgid ""
 "Hmm, looks like a magic lamp. I’ve heard stories that these can grant "
 "wishes. Today must be my lucky day!"
 msgstr ""
+"Hmm, vypadá to jako kouzelná lampa. Slyšel jsem příběhy, že takové lampy umí "
+"plnit přání. Dneska musím mít šťastný den!"
 
 #. [message]: speaker=Jinn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1494
 msgid "WHO DARES DISTURB MY SLUMBER?"
-msgstr ""
+msgstr "KDO SE OPOVAŽUJE RUŠIT MŮJ SPÁNEK?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1507
@@ -5959,36 +5973,38 @@ msgid ""
 "This fine silken cloak would be priceless back in Wesnoth, but is useless to "
 "us here."
 msgstr ""
+"Tento jemný hedvábný plášť by byl ve Wesnothu k nezaplacení, ale tady je nám "
+"k ničemu."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1526
 msgid "This chest contains $gold gold!"
-msgstr ""
+msgstr "Tato truhla obsahuje $gold zlatých!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1545
 msgid "It’s full of... toilet paper?!?"
-msgstr ""
+msgstr "Je plná... toaletního papíru?!?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1559
 msgid "I can unlock this gate from the inside."
-msgstr ""
+msgstr "Tuto bránu mohu odemknout zevnitř."
 
 #. [message]: speaker=Study Guard
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1579
 msgid "Who. Comes?"
-msgstr ""
+msgstr "Kdo. Přichází?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1583
 msgid "Err... don’t mind me, I’m just taking a look around."
-msgstr ""
+msgstr "Ehm... nevšímej si mě, jen se tu rozhlížím."
 
 #. [message]: speaker=Study Guard
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1587
 msgid "Master. Is away. Intruders. Must die."
-msgstr ""
+msgstr "Mistr. Je pryč. Vetřelci. Musí zemřít."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1620
@@ -6000,7 +6016,7 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1624
 msgid "Drop that at once! That journal is dangerous!"
-msgstr ""
+msgstr "Okamžitě to polož! Ten deník je nebezpečný!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1643
