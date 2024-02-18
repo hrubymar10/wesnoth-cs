@@ -1,14 +1,14 @@
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
 # Michal Žejdl <lachim@emer.cz>, 2019 - 2024
-# Petr Šlejhar (Septim) <septim@centrum.cz>, 2020 - 2023
+# Petr Šlejhar (Septim) <septim@centrum.cz>, 2020 - 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-21 01:57 UTC\n"
-"PO-Revision-Date: 2024-02-11 11:24+0100\n"
+"PO-Revision-Date: 2024-02-18 17:05+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16,6 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
@@ -6638,6 +6639,8 @@ msgid ""
 "$deserter_name, I don’t recognize you, and you look like you’ve been locked "
 "up longer than the rest of us. How did you get here?"
 msgstr ""
+"Tebe nepoznávám. Navíc vypadáš, jako bys byl zavřený déle než my ostatní. "
+"Jak jsi se sem dostal?"
 
 #. [message]: role=escapee sidekick 1
 #. The speaker is female. The deserter, "escapee sidekick 2", will always be male. The other escapees are random units from the player's recall list
@@ -6646,6 +6649,8 @@ msgid ""
 "female^$deserter_name, I don’t recognize you, and you look like you’ve been "
 "locked up longer than the rest of us. How did you get here?"
 msgstr ""
+"Tebe nepoznávám. Navíc vypadáš, jako bys byl zavřený déle než my ostatní. "
+"Jak jsi se sem dostal?"
 
 #. [message]: role=escapee sidekick 2
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:761
@@ -6654,18 +6659,21 @@ msgid ""
 "didn’t even get across the ford before some orcs captured me. They marched "
 "me and many other slaves east along the river, until we arrived here."
 msgstr ""
+"Když nemrtví vypálili Tath, tak jsem... se ztratil. Mám na severu rodinu, "
+"ale ani jsem se nedostal přes brod, když mě zajali nějací skřeti. Hnali mě a "
+"mnoho dalších otroků podél řeky na východ, dokud jsme nedorazili sem."
 
 #. [message]: role=escapee leader
 #. The speaker is male
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:766
 msgid "(scowling) A deserter. We should lock you back in your cell."
-msgstr ""
+msgstr "(<i>zamračeně</i>) Dezertér. Měli bychom tě zavřít zpátky do cely."
 
 #. [message]: role=escapee leader
 #. The speaker is female
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:768
 msgid "female^(scowling) A deserter. We should lock you back in your cell."
-msgstr ""
+msgstr "(<i>zamračeně</i>) Dezertér. Měli bychom tě zavřít zpátky do cely."
 
 #. [message]: role=escapee sidekick 2
 #. "you" being an audience of three units
@@ -6674,11 +6682,13 @@ msgid ""
 "No, please, you don’t understand! The undead are everywhere! I didn’t want "
 "to die like all my friends..."
 msgstr ""
+"Ne, prosím, nerozumíte tomu! Nemrtví jsou všude! Nechtěl jsem zemřít jako "
+"všichni mí přátelé..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:787
 msgid "Do you hear something coming from those pits?"
-msgstr ""
+msgstr "Slyšíte? Něco se ozývá tamhle z těch jam."
 
 #. [message]: race=bats
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:795
@@ -8546,6 +8556,8 @@ msgid ""
 "Is that... an undead dragon? Dear Light! Raising such a powerful thrall must "
 "have been no small feat, even for a necromancer such as Mal-Ravanal."
 msgstr ""
+"Je toto... nemrtvý drak? U laskavého Světla! Povolat tak mocného otroka "
+"musel být nemalý výkon i pro nekromanta, jako je Mal-Ravanal."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1709
@@ -8553,6 +8565,8 @@ msgid ""
 "Even a living dragon is nothing but flesh. This feeble imitation lacks even "
 "that. Smash it to pieces."
 msgstr ""
+"I živý drak je jen maso. Tato chabá napodobenina postrádá i to. Rozbij ji na "
+"kusy."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1713
@@ -8565,6 +8579,8 @@ msgid ""
 "... Owaec... why do you fight me? Join us... ride alongside your father... "
 "defend the plains..."
 msgstr ""
+"... Owaecu…, proč se mnou bojuješ? Přidej se k nám..., jeď po boku svého "
+"otce... bránit pláně..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1807
@@ -8572,12 +8588,14 @@ msgid ""
 "Abomination!! Clansmen though you once were, I have no choice but to grind "
 "you into dust now."
 msgstr ""
+"Ohavnost!! I když jste kdysi byli členy klanu, nemám jinou možnost, než vás "
+"teď rozemlít na prach."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1823
 msgid ""
 "You! You are the cause of this destruction!! Vengeance for my fallen people!"
-msgstr ""
+msgstr "Ty! ty jsi příčinou této zkázy!! Můj padlý lid volá po pomstě!"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1839
@@ -10978,12 +10996,12 @@ msgstr "Ano, ANO! Dostaň mě odsud."
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1362
 msgid "Ha ha, you’ll never catch me now!"
-msgstr ""
+msgstr "Ha ha, teď už mě nikdy nechytíte!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1365
 msgid "Whew, that was a close one!"
-msgstr ""
+msgstr "Páni, to bylo těsné!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1369
