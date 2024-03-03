@@ -15,7 +15,7 @@ Total messages remaining: **589**
 
 I see no progress.
 
-There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
+There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=cs).
 
 ## wesnoth-steam
 `wesnoth-steam.po` originates from https://github.com/wesnoth/steam-meta/blob/master/po/cs.po
