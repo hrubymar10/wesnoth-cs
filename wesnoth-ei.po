@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-02-19 22:07+0100\n"
+"PO-Revision-Date: 2024-03-07 05:50+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6187,13 +6187,11 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1697
-#, fuzzy
 msgid "There are a few loose pages on the ground here..."
-msgstr "Na zemi je několik volných stránek..."
+msgstr "Tady na zemi je několik volných stránek..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1701
-#, fuzzy
 msgid ""
 "<i>Journal of Ravan - 13 Blackfire, 588 YW.\n"
 "\n"
@@ -6207,20 +6205,19 @@ msgid ""
 "able to answer some of the questions I have been pondering. However, there "
 "seems to be a piece of the puzzle still missing.</i>"
 msgstr ""
-"<i>Ravanův deník - 13 Blackfire, 588 let.\n"
+"<i>Ravanův deník – 13. očerně roku 588 w. l.\n"
 "\n"
 "Tato výprava se ukazuje jako úspěšnější, než jsem předpokládal. Zatímco "
-"Dacyn zneškodňuje pasti rozmístěné po tomto místě, mohl jsem provádět "
-"rozsáhlý výzkum druhé roviny za Úžinou. Existuje říše duší, do které se lze "
-"dostat z našeho světa, se kterou Iliah-Malalal nepochybně navázala kontakt "
-"pomocí Amuletu závoje. Čas od času slyším šepot duchů z druhé strany, ale "
+"Dacyn zneškodňuje pasti, kterých je na tomto místě plno, mohl jsem provádět "
+"rozsáhlý výzkum další roviny za Chřtánem. Existuje říše duší, do které se "
+"lze dostat z našeho světa, se kterou Iliah-Malal nepochybně navázal kontakt "
+"pomocí Amuletu závoje. Čas od času slyším šepot duchů z druhé strany, ale "
 "jejich hlasy jsou zatím slabé. Mám podezření, že pokud se mi je podaří nějak "
-"oslovit, budou mi schopni odpovědět na některé z otázek, nad kterými jsem "
+"oslovit, budou mi schopni odpovědět na některé z otázek, nad kterými jsem "
 "přemýšlel. Zdá se však, že mi stále chybí kousek skládačky.</i>"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1707
-#, fuzzy
 msgid ""
 "<i>Journal of Ravan - 21 Whitefire, 589 YW.\n"
 "\n"
@@ -6233,30 +6230,28 @@ msgid ""
 "recounting these muddled dreams, yet their words are disjointed, "
 "incomprehensible. What are they trying to tell me?</i>"
 msgstr ""
-"<i>Deník Ravan - 21 Whitefire, 589 YW.\n"
+"<i>Ravanův deník – 21. obělu roku 589 w. l.\n"
 "\n"
-"Dnes v noci se mi zdál sen. Byl to sen? Mnohem víc to vypadalo jako vize. "
-"Viděl jsem spalující světlo ze dvou koulí na obloze, které vyzařovalo "
-"spalující jas nad zemí hemžící se aberacemi neustále se měnících těl. Viděl "
+"Dnes v noci se mi zdál sen. Byl to sen? Mnohem víc to vypadalo jako vize. "
+"Viděl jsem spalující světlo ze dvou nebeských těles, která vyzařovala "
+"pronikavý jas na zemi hemžící se aberacemi neustále se měnících těl. Viděl "
 "jsem drahokam, ne, klíč, planoucí ohněm, který přemosťoval obrovskou nicotu "
-"Úžiny. Viděl jsem temnotu, jak se spojuje se světlem a proměňuje, jak trhá "
+"Chřtánu. Viděl jsem temnotu, jak se spojuje se světlem a proměňuje, jak trhá "
 "nezničitelné jádro těch, kdo nemají formu. Slyším hlasy vyprávějící tyto "
 "zmatené sny, ale jejich slova jsou nesouvislá, nesrozumitelná. Co se mi "
-"snaží říct?\"</i>."
+"snaží říct?</i>."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1720
-#, fuzzy
 msgid ""
 "This volume has something to do with a dwarf named Tharga... Thursag-"
 "something? The text is very faded."
 msgstr ""
-"Tento svazek má co do činění s trpaslíkem jménem Tharga... Thursag-něco? "
+"Tento svazek má co do činění s trpaslíkem jménem Tharga... Thursag-něco? "
 "Text je velmi vybledlý."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1731
-#, fuzzy
 msgid ""
 "<i>Journal of Ravan - 5 Bleeding Moon, 597 YW.\n"
 "\n"
@@ -6268,25 +6263,24 @@ msgid ""
 "Haldric. Then again, maybe that is the game Dacyn wants to play. What a "
 "shame. I had held him in higher regard than that.</i>"
 msgstr ""
-"<i>Ravanův deník - 5 Krvácející měsíc, 597 let.\n"
+"<i>Ravanův deník - 5. krvolunu roku 597 w. l.\n"
 "\n"
-"Nic se nedaří. Můj výzkum se dostal do slepé uličky a ani duchové z druhé "
-"roviny už se mnou nemluví. Ani na Dacyn se už nemohu spolehnout. Ten hlupák! "
-"Rozhodl se, že politikaření bude lepším využitím jeho schopností, než aby mi "
-"pomohl rozluštit tuto zásadní hádanku. Jako by mohl být k něčemu dobrý, když "
-"je rádcem toho polorozpadlého starého krále Haldrika. Ale možná právě tuhle "
-"hru chce Dacyn hrát. Jaká škoda. Vážil jsem si ho víc než tohohle.</i>"
+"Nic se nedaří. Můj výzkum se dostal do slepé uličky a ani duchové z druhé "
+"roviny už se mnou nemluví. Také na Dacyna se už nemohu spolehnout. Ten "
+"hlupák! Rozhodl se, že politikaření bude lepším využitím jeho schopností, "
+"než aby mi pomohl rozluštit tuto klíčovou hádanku. Jako by mohl být k něčemu "
+"dobrý, když je rádcem toho věkem sešlého krále Haldrika. Ale možná právě "
+"tuhle hru chce Dacyn hrát. Jaká škoda. Já jsem si ho vážil víc.</i>"
 
 #. [message]: speaker=unit
 #. just flavortext, could be any books that are irrelevant to the story
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1745
-#, fuzzy
 msgid ""
 "This shelf appears to be full of accounting ledgers detailing the movement "
 "of funds and goods hundreds of years ago."
 msgstr ""
-"Zdá se, že tato police je plná účetních knih s podrobnými údaji o pohybu "
-"finančních prostředků a zboží před stovkami let."
+"Zdá se, že tato police je plná účetních knih s podrobnými údaji o pohybu "
+"finančních prostředků a zboží před stovkami let."
 
 #. [message]: speaker=unit
 #. a wooden crate, using the items/box.png image
