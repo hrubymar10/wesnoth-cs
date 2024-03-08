@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-07 05:56+0100\n"
+"PO-Revision-Date: 2024-03-08 20:50+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6285,44 +6285,40 @@ msgstr ""
 #. [message]: speaker=unit
 #. a wooden crate, using the items/box.png image
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1759
-#, fuzzy
 msgid "This box is empty."
-msgstr "Toto pole je prázdné."
+msgstr "Tahle bedna je prázdná."
 
 #. [message]: speaker=unit
 #. a wooden crate, using the items/box.png image
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1771
-#, fuzzy
 msgid "Yuck, this box is full of pickled fingers!"
-msgstr "Fuj, tahle krabice je plná naložených prstů!"
+msgstr "Fuj, tahle bedna je plná nakládaných prstů!"
 
 #. [message]: speaker=unit
 #. a barrel, using items/barrel.png
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1783
-#, fuzzy
 msgid ""
 "This cask of wine is from nearly 200 years ago! If only I was allowed to "
 "drink while on duty."
-msgstr "Tento sud vína je starý téměř 200 let! Kdybych tak směl pít ve službě."
+msgstr ""
+"Tenhle sud vína je starý téměř 200 let! Kdybych tak směl pít ve službě."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1797
-#, fuzzy
 msgid ""
 "These three orbs must be ancient, but still pulse with some kind of dark "
 "energy. Just standing near them gives me a splitting headache."
 msgstr ""
 "Tyto tři koule musí být prastaré, ale stále pulzují jakousi temnou energií. "
-"Už jen z toho, že stojím v jejich blízkosti, mě bolí hlava."
+"Už jen z toho, že stojím v jejich blízkosti, mě bolí hlava."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1810
-#, fuzzy
 msgid ""
 "I’ve found a key! It must be magical; it started glowing as soon as I "
 "touched it."
 msgstr ""
-"Našel jsem klíč! Musí být kouzelný; začal zářit, jakmile jsem se ho dotkl."
+"Našel jsem klíč! Musí být kouzelný. Začal zářit, jakmile jsem se ho dotkl."
 
 #. [message]: speaker=Cowardly Goblin
 #. Cowardly Goblin is male, and appears in just two events. This one, and the end-of-level event.
