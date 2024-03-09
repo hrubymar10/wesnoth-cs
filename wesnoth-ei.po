@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-08 20:47+0100\n"
+"PO-Revision-Date: 2024-03-09 07:15+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6323,134 +6323,117 @@ msgstr ""
 #. [message]: speaker=Cowardly Goblin
 #. Cowardly Goblin is male, and appears in just two events. This one, and the end-of-level event.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1843
-#, fuzzy
 msgid "Aaah, humans! Run away!"
 msgstr "Ááá, lidé! Utečte!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1850
-#, fuzzy
 msgid ""
 "I guess there are goblins living here. Well, that explains the lit torches."
-msgstr "Asi tu žijí skřeti. To vysvětluje ty zapálené pochodně."
+msgstr "Asi tu žijí goblini. To vysvětluje ty zapálené pochodně."
 
 #. [message]: speaker=Thirsty Goblin
 #. the goblin has moved to a hex with a green potion bottle. After this he drinks it, gets poisoned, and then turns into a walking corpse.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1865
-#, fuzzy
 msgid "Hey, this looks tasty!"
-msgstr "Hej, to vypadá chutně!"
+msgstr "Hej, to vypadá lahodně!"
 
 #. [message]: speaker=unit
 #. the player's unit has moved to a hex with a blue potion, drunk it, and become slowed
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1924
-#, fuzzy
 msgid "Ugh, my head hurts. Was this room always spinning?"
-msgstr "Bolí mě hlava. To se tahle místnost pořád točila?"
+msgstr "Jé, bolí mě hlava. To se tahle místnost vždycky točila?"
 
 #. [message]: speaker=unit
 #. the player's unit has moved to a hex with a yellow potion, drunk it, and become poisoned
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1952
-#, fuzzy
 msgid ""
 "Blech, this tastes awful! Whatever used to be in here, it went bad long ago."
-msgstr "Blé, to chutná hrozně! Ať už tu bylo cokoli, už se to dávno zkazilo."
+msgstr "Blé, to chutná hrozně! Ať už to bylo cokoli, už se to dávno zkazilo."
 
 #. [message]: speaker=unit
 #. the player's unit has moved to a hex with a grey potion, drunk it, and ...
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1975
-#, fuzzy
 msgid "ACK! I’M DYING!"
-msgstr "ACK! UMÍRÁM!"
+msgstr "NE! UMÍRÁM!"
 
 #. [message]: speaker=unit
 #. the grey potion
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1984
-#, fuzzy
 msgid "Hah, just messing with you, it’s only water."
-msgstr "Hah, jen si z tebe dělám legraci, je to jen voda."
+msgstr "Ha, jen si z tebe dělám legraci, je to jen voda."
 
 #. [message]: speaker=second_unit
 #. the player's unit is outside the room with all of this in
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2013
-#, fuzzy
 msgid ""
 "Look, a key! But it’s guarded by all those goblins... and there are ghasts "
 "in cages!"
 msgstr ""
-"Podívejte, klíč! Ale hlídají ho všichni ti skřeti... a v klecích jsou "
-"ghastové!"
+"Podívejte, klíč! Ale hlídají ho všichni ti goblini... a v klecích jsou "
+"žrouti!"
 
 #. [message]: speaker=second_unit
 #. the player's unit is outside the room with ghasts and goblins in, and there are a lot of campfires in there too
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2018
-#, fuzzy
 msgid ""
 "The goblins’ eyes must be blinded by their fires. I still haven’t been "
 "spotted."
-msgstr "Oči skřetů musí být oslepeny jejich ohněm. Stále mě nikdo nespatřil."
+msgstr ""
+"Oči goblinů musí být oslepeny jejich táboráky. Stále mě nikdo nespatřil."
 
 #. [message]: speaker=unit
 #. rune on the floor that will open floor-to-ceiling gates
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2042
-#, fuzzy
 msgid ""
 "Hmm, it looks like this rune is connected to those cages. I’ll bet I could "
 "get one of them open..."
 msgstr ""
-"Hmm, vypadá to, že tato runa je spojena s těmi klecemi. Vsadím se, že bych "
-"jednu z nich mohl otevřít..."
+"Hmm, vypadá to, že tato runa je spojena s těmi klecemi. Vsadím se, že bych "
+"jednu z nich mohl otevřít..."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2044
-#, fuzzy
 msgid "Yes, release some ghouls."
-msgstr "Ano, vypusťte pár ghúlů."
+msgstr "Ano, vypusť pár požíračů."
 
 #. [message]: speaker=Goblin Leader
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2068
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2151
-#, fuzzy
 msgid "Aaahh!! The monsters have escaped!"
-msgstr "Aaahh!! Příšery utekly!"
+msgstr "Ááá!! Příšery utekly!"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2079
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2162
-#, fuzzy
 msgid "No, keep them locked up."
-msgstr "Ne, nechte je pod zámkem."
+msgstr "Ne, nech je pod zámkem."
 
 #. [message]: speaker=Dacyn
 #. rune on the floor that will open floor-to-ceiling gates
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2103
-#, fuzzy
 msgid ""
 "Ah, this is the control for the experiment testing cages. Should I open them?"
-msgstr "Aha, tohle je kontrola pro pokusné klece. Mám je otevřít?"
+msgstr "Aha, tohle je ovládání pokusných klecí. Mám je otevřít?"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2105
-#, fuzzy
 msgid "Yes, release all the ghouls."
-msgstr "Ano, propusťte všechny ghúly."
+msgstr "Ano, vypusť všechny požírače."
 
 #. [message]: speaker=Goblin Leader
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2189
-#, fuzzy
 msgid "Humans! Get them!"
 msgstr "Lidé! Chyťte je!"
 
 #. [message]: speaker=Goblin Leader
 #. death of a wolf rider's mount
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2210
-#, fuzzy
 msgid "Noooo, wolfieeee!!!"
-msgstr "Neeee, wolfieeee!!!"
+msgstr "Neeee, vlčkuuuu!!!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2225
-#, fuzzy
 msgid "Look what I found! This key started glowing as soon as I touched it."
 msgstr ""
 "Podívejte se, co jsem našel! Tento klíč začal zářit, jakmile jsem se ho "
@@ -6459,22 +6442,20 @@ msgstr ""
 #. [message]: speaker=unit
 #. although there's no filter on this event, the location is only reachable by a flying unit, presumably a walking corpse bat or walking corpse drake
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2264
-#, fuzzy
 msgid "Ruuuh... Brains..."
-msgstr "Ruuuh... Mozek..."
+msgstr "Ruuuh... Mozky..."
 
 #. [message]: speaker=narrator
 #. This is an easter egg, and the details don't matter because there's no way to get the staff out of the room.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2270
-#, fuzzy
 msgid ""
 "This legendary magical staff has the power to reshape reality at will! "
 "Unfortunately, this zombie is not intelligent enough to understand the "
 "significance of what it has found, and merely perceives a lifeless room."
 msgstr ""
 "Tato legendární kouzelná hůl má moc libovolně měnit realitu! Bohužel tato "
-"zombie není dostatečně inteligentní, aby pochopila význam toho, co našla, a "
-"vnímá pouze místnost bez života."
+"zombie není dostatečně inteligentní, aby pochopila význam toho, co našla, "
+"a vnímá pouze místnost bez života."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2312
