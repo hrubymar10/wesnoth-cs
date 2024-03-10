@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-09 07:15+0100\n"
+"PO-Revision-Date: 2024-03-10 07:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6459,75 +6459,65 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2312
-#, fuzzy
 msgid ""
 "The Amulet should be just beyond that gate, within the inner sanctum. We "
 "will have to find a pair of magical keys to open the door."
 msgstr ""
-"Amulet by měl být hned za bránou, ve vnitřní svatyni. K otevření dveří "
-"budeme muset najít pár magických klíčů."
+"Amulet by měl být hned za bránou, ve vnitřní svatyni. K otevření dveří "
+"budeme muset najít dvojici magických klíčů."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2327
-#, fuzzy
 msgid ""
 "Both keys are found! We can now enter the inner sanctum and retrieve the "
 "Amulet."
 msgstr ""
-"Oba klíče jsou nalezeny! Nyní můžeme vstoupit do vnitřní svatyně a získat "
+"Oba klíče jsou nalezeny! Nyní můžeme vstoupit do vnitřní svatyně a získat "
 "amulet."
 
 #. [message]: speaker=Gweddry
 #. by this time Owaec is probably fighting orcs
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2358
-#, fuzzy
 msgid "I hope Owaec hasn’t gotten into any trouble outside..."
 msgstr "Doufám, že se Owaec venku nedostal do žádných potíží..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2384
-#, fuzzy
 msgid "Are we ready to enter the inner sanctum?"
 msgstr "Jsme připraveni vstoupit do vnitřní svatyně?"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2386
-#, fuzzy
 msgid "Yes, I’m ready."
 msgstr "Ano, jsem připraven."
 
 #. [command]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2393
-#, fuzzy
 msgid "Sanctum Guard"
 msgstr "Strážce svatyně"
 
 #. [message]: speaker=Gweddry
 #. looking at it from about 3 indoor hexes away
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2429
-#, fuzzy
 msgid "Is that... the Amulet?"
-msgstr "Je to... amulet?"
+msgstr "Je tohle... ten amulet?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2433
-#, fuzzy
 msgid ""
 "Yes. We now look upon one of the most powerful artifacts ever to taint "
 "Irdya. But first, we must clear out this room."
 msgstr ""
-"Ano. Nyní se díváme na jeden z nejmocnějších artefaktů, které kdy Irdyu "
-"poskvrnily. Nejprve však musíme vyklidit tuto místnost."
+"Ano. Nyní se díváme na jeden z nejmocnějších artefaktů, které kdy Irdyu "
+"poznamenaly. Nejprve však musíme vyčistit tuto místnost."
 
 #. [message]: speaker=Sanctum Guard
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2437
-#, fuzzy
 msgid "TRESSPASSERS!"
-msgstr "TRESSPASSERS!"
+msgstr "NARUŠITELÉ!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2441
-#, fuzzy
 msgid "Prepare for incoming undead!"
 msgstr "Připravte se na příchod nemrtvých!"
 
