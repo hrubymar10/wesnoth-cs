@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-03-14 05:54+0100\n"
+"PO-Revision-Date: 2024-03-21 22:04+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4540,7 +4540,7 @@ msgstr "Bagork"
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:194
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:43
 msgid "Clan Whitefang"
-msgstr "Klan Bílého špičáku"
+msgstr "Klan Bílého Špičáku"
 
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:143
@@ -4690,7 +4690,7 @@ msgid ""
 "That’s Whitefang territory you’re squatting in, snake! Show some respect for "
 "the Chief!"
 msgstr ""
-"To je území Bílého špičáku, kde ses usadil, hade! Projev trochu úcty "
+"To je území Bílého Špičáku, kde ses usadil, hade! Projev trochu úcty "
 "k náčelníkovi!"
 
 #. [message]: speaker=Bagork
@@ -6537,34 +6537,30 @@ msgstr "Náčelník Dra-Nak"
 #. Talking about Owaec, who's waiting outside the sanctum, probably on a keep.
 #. Owaec probably hasn't recruited, but the entire recall list is available to him so they're presumably "here".
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2490
-#, fuzzy
 msgid "What do we have here? This is what those wyrms were groveling about?"
-msgstr "Co tu máme? Tohle je to, nad čím se ti wyrmové rozplývali?"
+msgstr "Co tu máme? Tohle je to, o čem ti wyrmové mluvili s takovou úctou?"
 
 #. [message]: speaker=Chief Dra-Nak
 #. he's a chief from the Whitefangs because he's not the only one, just a particularly powerful one
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2495
-#, fuzzy
 msgid ""
 "I’m Dra-Nak, Chief from the Whitefang clan. What’re you doing so far away "
 "from home, human?"
 msgstr ""
-"Jsem Dra-Nak, náčelník z klanu Whitefang. Co děláš tak daleko od domova, "
-"člověče?"
+"Jsem Dra-Nak, náčelník z klanu Bílého Špičáku. Co děláš tak daleko od "
+"domova, člověče?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2499
-#, fuzzy
 msgid ""
 "I am a lord of the Horse Clans, and we are here on Wesnoth business. You "
 "would do well not to bother us."
 msgstr ""
-"Jsem lordem koňských klanů a jsme tu kvůli Wesnothu. Uděláte dobře, když nás "
+"Jsem pánem koňských klanů a jsme tu kvůli Wesnothu. Uděláte dobře, když nás "
 "nebudete obtěžovat."
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2503
-#, fuzzy
 msgid ""
 "Wesnoth business, huh. ...you’re not the first group of deserters I’ve "
 "caught fleeing the undead."
@@ -6574,17 +6570,15 @@ msgstr ""
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2507
-#, fuzzy
 msgid ""
 "I’ll tell you what. I’m a fair orc, I won’t take advantage of your "
 "situation. Maybe I can help you. Let’s make a deal."
 msgstr ""
-"Něco vám řeknu. Jsem férový ork, nebudu využívat tvé situace. Možná ti mohu "
+"Něco ti řeknu. Jsem férový skřet, nebudu využívat tvé situace. Možná ti mohu "
 "pomoci. Pojďme se dohodnout."
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2511
-#, fuzzy
 msgid ""
 "Those necromancers down south are paying me good coin to keep them supplied "
 "with corpses. Hand over, let’s say, eight of your soldiers as tribute, and "
@@ -6592,27 +6586,25 @@ msgid ""
 "profit!"
 msgstr ""
 "Ti nekromanti dole na jihu mi dobře platí, abych je zásoboval mrtvolami. "
-"Předej mi, řekněme, osm svých vojáků jako daň a můžeš se věnovat svým "
+"Předej mi, řekněme, osm svých vojáků jako daň a můžeš se věnovat svým "
 "záležitostem. Dokonce ti dám podíl ze zisku!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2515
-#, fuzzy
 msgid ""
 "Today I have been called shortsighted, then a coward, and now a deserter?! "
 "My honor will stand no more insult! Begone, fetid orc, lest I mount your "
 "head on a pike! I don’t fear the dead and I don’t fear you."
 msgstr ""
-"Dnes jsem byl nazván krátkozrakým, pak zbabělcem a teď dezertérem?! Moje "
-"čest už nesnese další urážky! Odejdi, smrdutý skřete, ať ti nenasadím hlavu "
-"na kůl! Nebojím se mrtvých a nebojím se ani tebe."
+"Dnes jsem byl nazván krátkozrakým, pak zbabělcem a teď dezertérem?! Moje "
+"čest už nesnese další urážky! Odejdi, smrdutý skřete, ať ti nenapíchnu hlavu "
+"na kopí! Nebojím se mrtvých a nebojím se ani tebe."
 
 #. [message]: speaker=Chief Dra-Nak
 #. This is the start of the second night, and around 4 orcs will enter the map this turn, and 3 more next turn.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2520
-#, fuzzy
 msgid "(grinning) I was hoping you’d say that!"
-msgstr "(s úsměvem) Doufal jsem, že to řekneš!"
+msgstr "(s úsměvem) Doufal jsem, že to řekneš!"
 
 #. [message]
 #. Turn 21 (start of the fourth night) the second wave of orcs arrive and announce their plans.
