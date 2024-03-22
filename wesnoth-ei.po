@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-21 22:07+0100\n"
+"PO-Revision-Date: 2024-03-22 20:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6611,7 +6611,6 @@ msgstr "(s úsměvem) Doufal jsem, že to řekneš!"
 #. Around 6 orcs have just arrived, with 5 more next turn.
 #. There were 7 orcs in the first wave on turns 9 and 10, but the player has probably already handled them.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2585
-#, fuzzy
 msgid "Time to chop some human heads!"
 msgstr "Je čas useknout pár lidských hlav!"
 
@@ -6619,24 +6618,21 @@ msgstr "Je čas useknout pár lidských hlav!"
 #. Turn 33 (start of the sixth night) the next wave of orcs arrive.
 #. The latest group is 7 orcs, with more a turn behind them.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2599
-#, fuzzy
 msgid "Keep attacking, hit ’em while the sun’s down!"
-msgstr "Útočte dál a udeřte na ně, dokud je slunce na obzoru!"
+msgstr "Útočte dál a udeřte na ně, když slunce zapadlo!"
 
 #. [message]
 #. Turn 45 (start of the eigth night) the next wave of orcs arrive.
 #. The latest group is 7 orcs, with more a turn behind them.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2613
-#, fuzzy
 msgid "Chief’s orders, let’s get them!"
-msgstr "Šéfovy rozkazy, jdeme na to!"
+msgstr "Šéf rozkázal, jdeme na ně!"
 
 #. [message]
 #. Turn 51 (start of the ninth night), and from here on they're arriving every night rather than one night in two.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2626
-#, fuzzy
 msgid "Burn and pillage!"
-msgstr "Pálit a drancovat!"
+msgstr "Pálit a drancovat!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2712
