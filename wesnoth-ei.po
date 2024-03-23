@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-03-22 20:55+0100\n"
+"PO-Revision-Date: 2024-03-23 22:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6636,39 +6636,35 @@ msgstr "Pálit a drancovat!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2712
-#, fuzzy
 msgid "Excellent. Now..."
-msgstr "Vynikající. Teď..."
+msgstr "Znamenitě. Teď..."
 
 #. [message]: speaker=Gweddry
 #. before he picks up the amulet
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2719
-#, fuzzy
 msgid ""
 "Wait, Dacyn, before you pick that up... are you sure this is the right "
 "decision? Even if you can wield it safely, something this evil will "
 "doubtlessly corrupt anyone who possesses it."
 msgstr ""
-"Počkej, Dacyn, než to zvedneš... jsi si jistá, že je to správné rozhodnutí? "
-"I kdybys ji mohla bezpečně ovládat, něco tak zlého nepochybně zkazí každého, "
-"kdo ji vlastní."
+"Počkej, Dacyne, než to vezmeš... jsi si jistý, že je to správné rozhodnutí? "
+"I kdybys ho mohl bezpečně ovládat, něco tak zlého nepochybně zkazí každého, "
+"kdo to vlastní."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2723
-#, fuzzy
 msgid ""
 "Why, I’m incredibly touched by your deep show of affection. I’m sure that "
 "will be of great comfort when thousands are massacred after Wesnoth loses "
 "its greatest war in living memory."
 msgstr ""
-"Váš hluboký projev náklonnosti mě neuvěřitelně dojímá. Jsem si jistý, že ti "
+"Páni, tvůj hluboký projev zájmu mě neuvěřitelně dojímá. Jsem si jistý, že ti "
 "to bude velkou útěchou, až budou tisíce lidí zmasakrovány poté, co Wesnoth "
-"prohraje svou největší válku v živé paměti."
+"prohraje svou největší válku, kterou pamatuje."
 
 #. [message]: speaker=Dacyn
 #. there's a short pause between the "deep show of affection" message and this one
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2733
-#, fuzzy
 msgid ""
 "No, Gweddry, I am not sure. But I know of no other way to defeat Mal-"
 "Ravanal. I have tried once before. Even as a mage, Ravan’s powers near "
@@ -6676,19 +6672,18 @@ msgid ""
 "could have stood a chance."
 msgstr ""
 "Ne, Gweddry, nejsem si jistý. Ale neznám jiný způsob, jak porazit Mal-"
-"Ravanala. Už jsem se o to jednou pokusil. I když jsem byl mág, Ravanova moc "
-"téměř předčila tu mou. Jako lich Mal-Ravanal mohl mít šanci snad jen "
-"Delfador Veliký."
+"Ravanala. Už jsem se o to jednou pokusil. Ještě když byl mág, Ravanova moc "
+"téměř předčila tu mou. Proti lichu Mal-Ravanalovi by mohl mít nějakou šanci "
+"snad jen Delfador Veliký."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2737
-#, fuzzy
 msgid ""
 "This Amulet will give us the edge that I need. With it, I can open a gate to "
 "the Land of the Dead and pull Mal-Ravanal’s unholy spells out of this world."
 msgstr ""
-"Tento amulet nám poskytne výhodu, kterou potřebuji. S ním mohu otevřít bránu "
-"do Země mrtvých a stáhnout Mal-Ravanalova nesvatá kouzla z tohoto světa."
+"Tento amulet nám poskytne výhodu, kterou potřebuji. S ním mohu otevřít bránu "
+"do Země mrtvých a dostat Mal-Ravanalova nesvatá kouzla pryč z tohoto světa."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2741
@@ -6698,49 +6693,43 @@ msgid ""
 "you know you will not fall down the same path as well?"
 msgstr ""
 "Ale pokud je pravda, co jsi řekl, totéž by se dalo říct o Ravanovi. Jak víš, "
-"že nespadneš na stejnou cestu i ty?"
+"že nesejdeš na scestí stejně jako on?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2750
-#, fuzzy
 msgid ""
 "You are right, Gweddry. I cannot know. But I must try. If I do not, Wesnoth "
 "— nay, all of Irdya — will surely fall to ruin. As long as I try, there is "
 "still a chance. Sacrificing myself means nothing for the greater good."
 msgstr ""
 "Máš pravdu, Gweddry. To nemohu vědět. Ale musím to zkusit. Pokud to "
-"neudělám, Wesnoth - ne, celá Irdya - jistě padne do záhuby. Dokud se budu "
-"snažit, je tu ještě šance. Obětovat se pro vyšší dobro nic neznamená."
+"neudělám, Wesnoth – ne, celá Irdye – jistě padne do záhuby. Dokud se budu "
+"snažit, je tu ještě šance. Moje oběť není ničím ve srovnání s vyšším dobrem."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2754
-#, fuzzy
 msgid "(picks up the amulet)"
-msgstr "(zvedne amulet)"
+msgstr "(vezme amulet)"
 
 #. [message]: speaker=Dacyn
 #. on putting on the amulet, he's been dropped to 1 hp
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2799
-#, fuzzy
 msgid "AAAAHHHH!"
 msgstr "AAAAHHHH!"
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2809
-#, fuzzy
 msgid "<span size='small' font-style='italic'>AAAAHHHH!</span>"
 msgstr "<span size='small' font-style='italic'>AAAAHHHH!</span>"
 
 #. [message]: speaker=Gweddry
 #. "everyone" being 6 units, or less
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2814
-#, fuzzy
 msgid "Dacyn! Everyone stand back, give him some air."
-msgstr "Dacyn! Všichni ustupte, nechte ho na vzduchu."
+msgstr "Dacyne! Všichni ustupte, nechte ho dýchat."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2818
-#, fuzzy
 msgid ""
 "... do not fear, I am unharmed. I just... need a moment to catch my breath."
 msgstr ""
