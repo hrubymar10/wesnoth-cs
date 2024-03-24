@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-23 22:57+0100\n"
+"PO-Revision-Date: 2024-03-24 22:09+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6687,12 +6687,11 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2741
-#, fuzzy
 msgid ""
 "But if what you said is true, the very same could be said of Ravan. How do "
 "you know you will not fall down the same path as well?"
 msgstr ""
-"Ale pokud je pravda, co jsi řekl, totéž by se dalo říct o Ravanovi. Jak víš, "
+"Ale pokud je pravda, co jsi řekl, totéž by se dalo říct o Ravanovi. Jak víš, "
 "že nesejdeš na scestí stejně jako on?"
 
 #. [message]: speaker=Dacyn
@@ -6740,61 +6739,55 @@ msgstr ""
 #. A wall of the inner sanctum (where the amulet was) has just exploded, revealing a cave that extends off the west edge of the map.
 #. Introduction implying that Whitefang has other chiefs, but that Dra-Nak is particularly powerful.
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2883
-#, fuzzy
 msgid ""
 "Hah, did you think you were safe hiding back in here? Nobody can escape from "
 "Dra-Nak, greatest chief east of the Listra."
 msgstr ""
-"Hah, myslel sis, že se tady můžeš bezpečně schovat? Před Dra-Nakem, "
-"největším náčelníkem na východ od Listry, nikdo neuteče."
+"Ha, myslel sis, že se tady můžeš bezpečně schovat? Před Dra-Nakem, největším "
+"náčelníkem na východ od Listry, nikdo neuteče."
 
 #. [message]: speaker=Cowardly Goblin
 #. male speaker
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2888
-#, fuzzy
 msgid ""
 "See see! I told you there were humans in here! And I showed you the secret "
 "passage! Reward reward?"
 msgstr ""
-"Podívejte se! Říkal jsem ti, že jsou tu lidé! A ukázal jsem ti tajnou "
-"chodbu! Odměna za odměnu?"
+"Podívej se! Říkal jsem ti, že jsou tu lidé! A ukázal jsem ti tajnou chodbu! "
+"Bude odměna?"
 
 #. [message]: speaker=Chief Dra-Nak
 #. gives the Cowardly Goblin some gold
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2893
-#, fuzzy
 msgid "Sure, here you go. You did well."
-msgstr "Jistě, tady máte. Vedl sis dobře."
+msgstr "Jistě, tady máš. Vedl sis dobře."
 
 #. [message]: speaker=Chief Dra-Nak
 #. presumably still 8 humans, unless the player has lost some
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2904
-#, fuzzy
 msgid ""
 "As for you humans, you might as well convince your friends outside to "
 "surrender. Otherwise, we’ll slaughter you all starting with that injured old "
 "man. I gave you a chance to do things fairly before, but now we’re doing "
 "things my way."
 msgstr ""
-"Pokud jde o vás, lidi, můžete své přátele venku přesvědčit, aby se vzdali. "
+"Pokud jde o vás, lidi, můžete své přátele venku přesvědčit, aby se vzdali. "
 "Jinak vás všechny zmasakrujeme, počínaje tím zraněným starcem. Předtím jsem "
-"vám dal šanci udělat věci poctivě, ale teď to uděláme po mém."
+"vám dal šanci udělat věci férově, ale teď to uděláme po mém."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2908
-#, fuzzy
 msgid ""
 "<span size='small'><i>I don’t know what these orcs want with us, but we "
 "can’t hope to escape with Dacyn so badly hurt.</i></span>"
 msgstr ""
-"<span size='small'><i>Nevím, co po nás ti orkové chtějí, ale s tak těžce "
-"zraněným Dacynem nemůžeme doufat v útěk.</i></span>"
+"<span size='small'><i>Nevím, co po nás ti skřeti chtějí, ale s tak těžce "
+"zraněným Dacynem nemůžeme doufat v útěk.</i></span>"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2912
-#, fuzzy
 msgid "Very well, orc, we will surrender."
-msgstr "Dobrá tedy, orku, vzdáváme se."
+msgstr "Dobrá tedy, skřete, vzdáváme se."
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:4
