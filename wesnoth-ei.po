@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-03-24 22:07+0100\n"
+"PO-Revision-Date: 2024-03-25 22:04+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6813,7 +6813,6 @@ msgstr "Vězni"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:103
-#, fuzzy
 msgid "Bats"
 msgstr "Netopýři"
 
@@ -6831,13 +6830,11 @@ msgstr "Varrak-Klar"
 #. In S12, a leader with a high but not unbeatable amount of gold.
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:155
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:182
-#, fuzzy
 msgid "Rakkha"
-msgstr "Rakkha"
+msgstr "Rakka"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:466
-#, fuzzy
 msgid "Boja"
 msgstr "Boja"
 
@@ -6847,9 +6844,8 @@ msgstr "Boja"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:618
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1085
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1101
-#, fuzzy
 msgid "unarmed"
-msgstr "neozbrojený"
+msgstr "beze zbraně"
 
 #. [message]: speaker=narrator
 #. Exactly four units are in this jail cell, identified as "role=escapee ..." in the po hints.
@@ -7016,45 +7012,40 @@ msgstr "Však se můžete klidně vrátit do své cely."
 
 #. [message]: role=escapee sidekick 2
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:869
-#, fuzzy
 msgid ""
 "Even if we do find your commanders and escape, maybe we should consider "
 "staying in the north? It’s tranquil, and quiet.... and there’s no undead..."
 msgstr ""
-"I kdybychom našli vaše velitele a utekli, možná bychom měli zvážit, zda "
-"zůstat na severu? Je tam klid a ticho.... a nejsou tam nemrtví..."
+"I kdybychom našli vaše velitele a utekli, možná bychom měli zvážit, zda "
+"nezůstat na severu? Je tam klid a ticho.... a nejsou tam nemrtví..."
 
 #. [message]: role=escapee sidekick 0
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:873
-#, fuzzy
 msgid "I didn’t come all this way just to give up at the words of a deserter!"
-msgstr "Nepřišel jsem sem jen proto, abych to vzdal po slovech dezertéra!"
+msgstr "Nepřišel jsem sem jen proto, abych to po slovech dezertéra vzdal!"
 
 #. [message]: role=escapee leader
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:877
-#, fuzzy
 msgid ""
 "Let’s focus on escaping the orcs before worrying about the future. Now "
 "quiet, I smell something foul up ahead."
 msgstr ""
-"Soustřeďme se na útěk před orky, než se začneme starat o budoucnost. Teď "
-"ticho, cítím před sebou něco odporného."
+"Soustřeďme se na útěk před skřety, než se začneme starat o budoucnost. Teď "
+"ticho, cítím před námi něco odporného."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:895
-#, fuzzy
 msgid ""
 "Ugh, here’s where that wretched stench is coming from. This must be the "
 "orcish storeroom, full of their discarded gear and trash. At least we can "
 "find ourselves some proper weapons."
 msgstr ""
-"Tady je vidět, odkud ten odporný zápach vychází. Tohle musí být skladiště "
-"orků, plné jejich odloženého vybavení a odpadků. Alespoň si můžeme najít "
+"Fujtajbl, tady odtud ten odporný smrad vychází. Tohle musí být skladiště "
+"skřetů, plné jejich odloženého vybavení a odpadků. Alespoň si můžeme najít "
 "nějaké pořádné zbraně."
 
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:903
-#, fuzzy
 msgid "<span color='#00FF00' size='x-small'>weapons restored</span>"
 msgstr "<span color='#00FF00' size='x-small'>zbraně obnoveny</span>"
 
