@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-25 22:10+0100\n"
+"PO-Revision-Date: 2024-03-26 21:36+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7090,66 +7090,61 @@ msgstr "Pokusím se proklouznout kolem stráží. Počkejte tady."
 #. [message]: speaker=Chief Dra-Nak
 #. Gweddry, Dacyn and Owaec are being held by guards in front of Dra-Nak's throne
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1080
-#, fuzzy
 msgid ""
 "You’ve been a difficult prize to capture, but well worth the cost! Human "
 "corpses may not sell as well as dwarf or drake tribute, but with this many "
 "of you, I’ll still fetch a hefty bounty."
 msgstr ""
-"Bylo těžké tě získat, ale stálo to za to! Lidské mrtvoly se sice neprodávají "
-"tak dobře jako trpasličí nebo dračí daň, ale když je vás tolik, pořád za ně "
-"dostanu pořádnou odměnu."
+"Bylo těžké tě chytit, ale stálo to za to! Lidské mrtvoly se sice neprodávají "
+"tak dobře jako trpasličí nebo dračí daň, ale když je vás tolik, pořád mi to "
+"přinese tučnou odměnu."
 
 #. [message]: speaker=Gweddry
 #. The nearest guards are orcs, but there are drakes guarding the edge of the room.
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1085
-#, fuzzy
 msgid ""
 "Drakes, surely you can see that this orc does not have your best interests "
 "at heart? He is bleeding your numbers to fund his empire while your leader "
 "stands by and does nothing!"
 msgstr ""
-"Drakesi, jistě vidíš, že tento ork nemá na srdci tvé nejlepší zájmy? "
-"Vykrvácí vaše počty, aby mohl financovat své impérium, zatímco váš vůdce "
-"stojí stranou a nic nedělá!"
+"Drakonidé, nevidíte, že tento skřet nemá na srdci vaše nejlepší zájmy? Nechá "
+"vás krvácet, aby mohl financovat své impérium, zatímco váš vůdce stojí "
+"stranou a nic nedělá!"
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1089
-#, fuzzy
 msgid ""
 "I follow the Ways of our Flight.\n"
 "Mortic is Aspirant.\n"
 "I serve his will."
 msgstr ""
-"Sleduji Cesty našeho letu.\n"
-"Mortic je Aspirant.\n"
+"Držím se Cest naší letky.\n"
+"Mortic je aspirant.\n"
 "Sloužím jeho vůli."
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1117
-#, fuzzy
 msgid ""
 "You Wesnothians still don’t get it? These weaklings <i>need</i> me! Before I "
 "came, this place was a wasteland, with drake, dwarf, and naga fighting over "
 "scraps and bleeding in the snow."
 msgstr ""
-"Vy Wesnothians to pořád nechápete? Ti slaboši mě <i>potřebují</i>! Než jsem "
-"přišel, byla to tady pustina, kde se draci, trpaslíci a nagy rvali o zbytky "
-"a krváceli ve sněhu."
+"Vy to pořád nechápete, wesnothští? Ti slaboši mě <i>potřebují</i>! Než jsem "
+"přišel, byla to tady pustina, kde se drakonidi, trpaslíci a nágy rvali "
+"o zbytky a krváceli ve sněhu."
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1121
-#, fuzzy
 msgid ""
 "I united them all under my banner, bringing <i>peace</i> and <i>order</i> to "
 "these mountains! And once I sell you off, we will have enough money and "
 "power to rival even the great tribes of the north. I will usher in a new "
 "golden age for my people!"
 msgstr ""
-"Sjednotil jsem je všechny pod svým praporem a přinesl do těchto hor "
-"<i>pokoj</i> a <i>pořádek</i>! A jakmile vás prodám, budeme mít dost peněz a "
-"moci, abychom mohli soupeřit i s velkými kmeny na severu. Nastolím nový "
-"zlatý věk pro svůj lid!"
+"Sjednotil jsem je všechny pod svým praporem a přinesl do těchto hor "
+"<i>pokoj</i> a <i>pořádek</i>! A jakmile vás prodám, budeme mít dost peněz "
+"a moci, abychom mohli soupeřit i s velkými kmeny na severu. Nastolím pro "
+"svůj lid nový zlatý věk!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1125
@@ -7163,13 +7158,12 @@ msgstr ""
 #. [message]: speaker=Chief Dra-Nak
 #. Owaec has attacked the orc
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1154
-#, fuzzy
 msgid ""
 "Hah, that almost hurt! I’m gonna enjoy shipping you lot down south. Maybe "
 "this time, the necromancers will let me watch..."
 msgstr ""
-"Hah, to skoro bolelo! Budu si užívat, jak vás posílám na jih. Možná mě "
-"tentokrát nekromanti nechají dívat..."
+"Ha, to skoro bolelo! Pošlu vás všechny dolů na jih a užiju si to. Možná mě "
+"tentokrát nekromanti nechají koukat..."
 
 #. [message]: speaker=unit
 #. speaker is the escapee wearing the orc disguise, there are around 10 guards
