@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-26 21:36+0100\n"
+"PO-Revision-Date: 2024-03-27 23:02+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7192,40 +7192,35 @@ msgstr "Tu je jedna z vězeňských cel! Jakmile ji otevřu, rozpoutá se peklo.
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1262
-#, fuzzy
 msgid ""
 "I’m already well-equipped, but we’ll have to pay upkeep to arm and armor "
 "each prisoner I free. I hope we’ll have enough gold left over for the next "
 "battle!"
 msgstr ""
-"Já už jsem dobře vybaven, ale budeme muset platit údržbu za výzbroj a "
-"výstroj každého vězně, kterého osvobodím. Doufám, že nám zbude dost zlata na "
-"další bitvu!"
+"Já už jsem dobře vybaven, ale budeme muset platit výdaje za výzbroj "
+"a výstroj každého vězně, kterého osvobodím. Doufám, že nám zbude dost zlata "
+"na další bitvu!"
 
 #. [message]: speaker=unit
 #. prompt to the player
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1296
-#, fuzzy
 msgid "Open the cell?"
 msgstr "Otevřít celu?"
 
 #. [option]
 #. choice when prompted "open the cell?"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1299
-#, fuzzy
 msgid "Yes! <i>(freed units will incur upkeep)</i>"
-msgstr "Ano! <i>(uvolněné jednotky budou mít náklady na údržbu)</i>"
+msgstr "Ano! <i>(osvobozené jednotky budou potřebovat zaopatření)</i>"
 
 #. [option]
 #. choice when prompted "open the cell?"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1330
-#, fuzzy
 msgid "Not yet..."
-msgstr "Ještě ne..."
+msgstr "Zatím ne..."
 
 #. [scenario]: id=11_Captured
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1337
-#, fuzzy
 msgid "Huzzah, we’re free at last!"
 msgstr "Hurá, konečně jsme svobodní!"
 
@@ -7252,14 +7247,13 @@ msgstr ""
 #. [message]: speaker=Verash
 #. Ga'all and Verash are drakes from S10, this is followed by Verash killing Ga'all
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1350
-#, fuzzy
 msgid ""
 "You disobey the Aspirant.\n"
 "For your treachery,\n"
 "Your punishment is death."
 msgstr ""
-"Neuposlechnete Aspiranta.\n"
-"Pro svou zradu,\n"
+"Neposloucháš aspiranta.\n"
+"Pro tvou zradu,\n"
 "je tvým trestem smrt."
 
 #. [message]: speaker=Owaec
