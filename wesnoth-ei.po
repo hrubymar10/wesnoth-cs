@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-27 23:02+0100\n"
+"PO-Revision-Date: 2024-03-28 22:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7297,14 +7297,13 @@ msgstr "Do jeskyní!"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1522
-#, fuzzy
 msgid ""
 "Guess we’re on the run again! My mercenary boys back home woulda made short "
 "work o’ these Whitefang punks... I sure am missin’ the Estmarks right about "
 "now."
 msgstr ""
-"Hádám, že jsme zase na útěku! Moji žoldáci doma by si s těmahle Whitefangama "
-"poradili... Estmarky mi teď určitě chybí."
+"Hádám, že jsme zase na útěku! Moji žoldácký chlapci doma by se s těmahle "
+"bílošpičáskejma syčákama nepárali... Právě teď mi Východniny opravdu chybí."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1529
