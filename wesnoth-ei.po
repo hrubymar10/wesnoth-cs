@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-03-28 22:31+0100\n"
+"PO-Revision-Date: 2024-03-30 22:04+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7313,37 +7313,34 @@ msgstr "Všichni si pospěšte, musíme se odsud dostat!"
 #. [message]: speaker=Owaec
 #. 3 turns after the main escape starts
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1552
-#, fuzzy
 msgid ""
 "Such carnage in this dark confined cave... how I long to once again gaze "
 "upon the rolling plains of my homeland. These lands are cold, but the "
 "thought of my fellow Clansmen is as a fire burning in my breast."
 msgstr ""
-"Takové krveprolití v této temné jeskyni... jak toužím znovu se podívat na "
+"Takové krveprolití v této temné jeskyni... jak toužím znovu hledět na "
 "zvlněné pláně své vlasti. Tyto kraje jsou chladné, ale myšlenka na mé druhy "
-"z klanu mě pálí jako oheň v hrudi."
+"z klanu mě pálí jako oheň v hrudi."
 
 #. [message]: speaker=Gweddry
 #. "there" being the Horse Clans' plains
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1557
-#, fuzzy
 msgid ""
 "Wesnoth’s best horses and much of Weldyn’s food is come from there. I’m sure "
 "it’s well-defended, despite never having visited there myself."
 msgstr ""
-"Odtud pocházejí nejlepší koně Wesnothu a většina Weldynova jídla. Jsem si "
-"jistý, že je dobře hájená, přestože jsem ji sám nikdy nenavštívil."
+"Odtamtud pocházejí nejlepší koně Wesnothu a většina jídla pro Weldyn. Jsem "
+"si jistý, že jsou pláně dobře hájené, přestože jsem je sám nikdy nenavštívil."
 
 #. [message]: speaker=Owaec
 #. "them" being the Horse Clans' plains
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1562
-#, fuzzy
 msgid ""
 "There is naught that I can speak that would truly do them justice! You will "
 "have to see the plains yourself to appreciate their majesty."
 msgstr ""
-"Není nic, o čem bych mohl mluvit, co by je skutečně vystihlo! Abyste "
-"docenili jejich majestátnost, musíte se na pláně podívat sami."
+"Není nic, co bych mohl říct, aby je to skutečně vystihlo! Abyste docenili "
+"jejich majestátnost, musíte se na pláně podívat sami."
 
 #. [message]: speaker=Gweddry
 #. "them" being the Horse Clans' plains
