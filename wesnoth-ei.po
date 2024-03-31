@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-30 22:06+0100\n"
+"PO-Revision-Date: 2024-03-31 11:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7382,16 +7382,14 @@ msgstr "Podařilo se ti uloupit 115 skřetích zlaťáků!"
 #. [message]: speaker=unit
 #. goblin with a ring of invisibility
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1661
-#, fuzzy
 msgid "Oooh so shiny, my precious... what a great gift from the Chief..."
-msgstr "Oooh tak lesklý, můj drahý... jaký skvělý dárek od náčelníka..."
+msgstr "Óóó, tak lesklý, můj milášek... jaký skvělý dárek od náčelníka..."
 
 #. [message]: speaker=unit
 #. goblin with a ring of invisibility (although not enough sense to wear it when running away)
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1666
-#, fuzzy
 msgid "Aaah! Humans! Run away run away!"
-msgstr "Aaah! Lidé! Utíkejte pryč!"
+msgstr "Ááá! Lidé! Utečte, utečte!"
 
 #. [message]: speaker=second_unit
 #. unit who discovered the goblin with a ring of invisibility
@@ -7426,29 +7424,26 @@ msgstr "Počkej, nemůžeš nás tu nechat!"
 #. [message]: speaker=Chief Dra-Nak
 #. immediate response to Boja's death
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1754
-#, fuzzy
 msgid "You killed my bear, you filthy humans! You’ll pay for that!"
-msgstr "Zabili jste mi medvěda, vy hnusní lidé! Za to zaplatíte!"
+msgstr "Zabili jste mi medvěda, vy odporní lidi! Za to zaplatíte!"
 
 #. [message]: speaker=Chief Dra-Nak
 #. [message]: speaker=Varrak-Klar
 #. last breath event for Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1791
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:933
-#, fuzzy
 msgid ""
 "Curse you all! Why couldn’t you have just died as tribute like everyone "
 "else? Now my glorious golden Empire will never be..."
 msgstr ""
-"Proklínám vás všechny! Proč jste prostě nemohli zemřít jako pocta jako "
-"všichni ostatní? Teď už moje slavná zlatá říše nikdy nebude..."
+"Všechny vás proklínám! Proč jste prostě nemohli zemřít jako každá jiná daň? "
+"Teď už moje slavná zlatá říše nikdy nebude..."
 
 #. [message]: speaker=Gweddry
 #. die event for Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1812
-#, fuzzy
 msgid "Look, he was carrying the key to their treasury!"
-msgstr "Podívejte, měl u sebe klíč od jejich pokladnice!"
+msgstr "Podívejte, měl u sebe klíč od jejich pokladnice!"
 
 #. [scenario]: id=12_Evacuation
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:33
