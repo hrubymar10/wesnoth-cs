@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-03-31 11:20+0200\n"
+"PO-Revision-Date: 2024-04-01 21:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4229,7 +4229,7 @@ msgstr "Poraz Izziašu"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:198
 msgid "Reach the north shore before Grug dies"
-msgstr "Dosáhni severního pobřeží dříve, než Grug zemře"
+msgstr "Dosáhni severního břehu dříve, než Grug zemře"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:250
@@ -7489,181 +7489,163 @@ msgstr "Dacyne, cítíš se lépe? Musíme pohnout! Skřeti už nás skoro dohna
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:291
-#, fuzzy
 msgid "(cough) (cough) Yes, yes, I’m perfectly fine... (cough)"
-msgstr "(kašel) (kašel) Ano, ano, jsem v naprostém pořádku... (kašel)"
+msgstr "(ehmehm) (ehmehm) Ano, ano, jsem v naprostém pořádku... (ehmehm)"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:295
-#, fuzzy
 msgid ""
 "Such decrepitude is one ten-thousandth of what you deserve for wielding that "
 "evil amulet! But lo, a bridge in the distance! Hope is not yet lost."
 msgstr ""
-"Taková zchátralost je jen desetitisícina toho, co si zasloužíš za to, že jsi "
-"vládl tím zlým amuletem! Ale hle, v dálce je most! Naděje ještě není "
+"Taková nemohoucnost je jen desetitisícina toho, co si zasloužíš za to, že "
+"jsi použil ten amulet zla! Ale hle, v dálce je most! Naděje ještě není "
 "ztracena."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:299
-#, fuzzy
 msgid ""
 "We must get across quickly before we are cut off and overwhelmed. But the "
 "men are exhausted! We cannot keep running for much longer."
 msgstr ""
-"Musíme se rychle dostat na druhou stranu, než budeme odříznuti a přemoženi. "
-"Ale muži jsou vyčerpaní! Už nemůžeme dlouho utíkat."
+"Musíme se rychle dostat na druhou stranu, než budeme odříznuti a přemoženi. "
+"Ale muži jsou vyčerpaní! Už nemůžeme utíkat dlouho."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:303
-#, fuzzy
 msgid "(nodding) Gruuhhh... Grug tired. Leg hurt..."
-msgstr "(kývne) Gruuhhhh... Grug unavený. Bolí mě noha..."
+msgstr "(přikyvuje) Gruuhhh... Grug unavený. Noha bolí..."
 
 #. [message]: speaker=Dolburras
 #. "Yeah, don't forget! My legs aren't as long as you humans'!"
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:308
-#, fuzzy
 msgid "Aye, dinnae forget, my legs ain’t as long as ye human-folks’!"
 msgstr "Jo, nezapomeň, že nemám tak dlouhé nohy jako vy, lidi!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:312
-#, fuzzy
 msgid ""
 "Tell the men they need not fear! I will cross last and destroy the bridge "
 "behind us so that the orcs cannot follow!"
 msgstr ""
-"Řekněte mužům, že se nemusí bát! Přejdu poslední a zničím most za námi, aby "
-"nás orkové nemohli následovat!"
+"Řekni mužům, že se nemusí bát! Přejdu poslední a zničím za námi most, aby "
+"nás skřeti nemohli pronásledovat!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:317
-#, fuzzy
 msgid ""
 "Well I intend to cross first! Gold’s no good if I die before I can spend it! "
 "I’m not about to sacrifice myself to save you bunch of barbarians."
 msgstr ""
-"No, já mám v úmyslu přejít jako první! Zlato je mi k ničemu, když umřu dřív, "
+"No, já mám v úmyslu přejít jako první! Zlato je mi k ničemu, když umřu dřív, "
 "než ho utratím! Nehodlám se obětovat, abych vás, bandu barbarů, zachránil."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:321
-#, fuzzy
 msgid ""
 "Everyone, get moving! Anyone left behind on this side of the bridge will "
 "surely be killed!"
 msgstr ""
-"Všichni se hýbejte! Každý, kdo zůstane na této straně mostu, bude jistě "
+"Všichni sebou pohněte! Každý, kdo zůstane na této straně mostu, bude určitě "
 "zabit!"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:325
-#, fuzzy
 msgid "I’m gettin’ too old for this life..."
 msgstr "Na tenhle život už jsem moc starý..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:330
-#, fuzzy
 msgid ""
 "All units <b>(including non-recalled units!)</b> left behind will be lost."
 msgstr ""
-"Všechny jednotky <b>(včetně neodvolaných jednotek!)</b> zanechané na místě "
+"Všechny jednotky <b>(včetně těch nepovolaných!)</b>, které zůstanou pozadu, "
 "budou ztraceny."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:347
-#, fuzzy
 msgid ""
 "It is unfortunate (cough) that we have not saved any gold to recruit or "
 "recall. Escape for our soldiers is impossible, yet if us few rush "
 "immediately across the bridge we may be able to (cough)(cough) reach the far "
 "shore before the orcs can attack."
 msgstr ""
-"Je škoda (kašel), že jsme nenašetřili žádné zlato na nábor nebo odvolání. "
-"Útěk našich vojáků je nemožný, ale pokud se nás pár okamžitě vrhne přes "
-"most, možná se nám podaří (kašel)(kašel) dostat na vzdálený břeh dříve, než "
-"orkové zaútočí."
+"Je škoda (ehmehm), že jsme nenašetřili žádné zlato na verbování nebo "
+"povolávání. Útěk našich vojáků je nemožný, ale pokud se nás pár okamžitě "
+"vrhne přes most, možná se nám podaří (ehmehm)(ehmehm) dostat na protější "
+"břeh dříve, než skřeti stihnou zaútočit."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:357
-#, fuzzy
 msgid ""
 "It is unfortunate (cough) that we have saved little gold to recruit or "
 "recall. Escape for everyone is likely impossible, yet if the 3 of us rush "
 "immediately across the bridge we may be able to (cough)(cough) reach the far "
 "shore before the orcs can attack."
 msgstr ""
-"Je škoda (kašel), že jsme ušetřili málo zlata na nábor nebo odvolání. Útěk "
-"pro všechny je pravděpodobně nemožný, nicméně pokud se tři z nás okamžitě "
-"vrhnou přes most, možná se nám podaří (kašel)(kašel) dosáhnout vzdáleného "
-"břehu dříve, než orkové stihnou zaútočit."
+"Je škoda (ehmehm), že jsme ušetřili málo zlata na verbování nebo povolávání. "
+"Útěk všech je pravděpodobně nemožný, nicméně pokud se tři z nás okamžitě "
+"vrhnou přes most, možná se nám podaří (ehmehm)(ehmehm) dostat na protější "
+"břeh dříve, než skřeti stihnou zaútočit."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:367
-#, fuzzy
 msgid ""
 "We have enough gold to put up a fight, but the orcs are numerous (cough) and "
 "strong. Escape for everyone is likely impossible, yet if the 3 of us rush "
 "immediately across the bridge we may be able to (cough)(cough) reach the far "
 "shore before the orcs can attack."
 msgstr ""
-"Máme dost zlata na to, abychom bojovali, ale orků je mnoho (kašel) a jsou "
-"silní. Útěk pro všechny je pravděpodobně nemožný, ale pokud se tři z nás "
-"okamžitě vrhnou přes most, možná se nám podaří (kašel)(kašel) dostat na "
-"vzdálený břeh dřív, než orkové zaútočí."
+"Máme dost zlata na to, abychom bojovali, ale skřetů je mnoho (ehmehm) a jsou "
+"silní. Útěk všech je pravděpodobně nemožný, ale pokud se tři z nás okamžitě "
+"vrhnou přes most, možná se nám podaří (ehmehm)(ehmehm) dostat na protější "
+"břeh dříve, než skřeti stihnou zaútočit."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:374
-#, fuzzy
 msgid ""
 "We have gold for many soldiers, but the bridge (cough) is long and narrow. "
 "Escape for everyone is likely impossible, yet if the 3 of us rush "
 "immediately across the bridge we may be able to (cough)(cough) reach the far "
 "shore before the orcs can attack."
 msgstr ""
-"Máme zlato pro mnoho vojáků, ale most (kašel) je dlouhý a úzký. Útěk pro "
-"všechny je pravděpodobně nemožný, ale pokud se tři z nás okamžitě vrhnou "
-"přes most, možná se nám podaří (kašel)(kašel) dostat na vzdálený břeh dříve, "
-"než orkové stihnou zaútočit."
+"Máme zlato pro mnoho vojáků, ale most (ehmehm) je dlouhý a úzký. Útěk všech "
+"je pravděpodobně nemožný, ale pokud se tři z nás okamžitě vrhnou přes most, "
+"možná se nám podaří (ehmehm)(ehmehm) dostat na protější břeh dříve, než "
+"skřeti stihnou zaútočit."
 
 #. [message]: speaker=Owaec
 #. Although Dacyn is a Mage of Light, he currently doesn't have a halo.
 #. In the unlikely case that he was still L2 when he picked up the amulet, he's automatically advanced at that point in S10.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:386
-#, fuzzy
 msgid ""
 "Small wonder your Light has abandoned you, if you would leave our companions "
 "to the mercy of the orcs! We should all cross together and leave none behind!"
 msgstr ""
-"Není divu, že tě tvé Světlo opustilo, když jsi naše společníky nechal na "
-"pospas orkům! Všichni bychom měli přejít společně a nikoho nenechat za sebou!"
+"Není divu, že tě tvé Světlo opustilo, když chceš naše společníky nechat na "
+"pospas skřetům! Všichni bychom měli přejít společně a nikoho nenechat pozadu!"
 
 #. [message]: speaker=Dacyn
 #. After this message the halo flickers and then stays on.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:391
-#, fuzzy
 msgid "(cough) My light? ...oh, oh yes, yes of course. Just one moment."
-msgstr "(kašel) Moje světlo? ...ach, ach ano, ano, samozřejmě. Ještě chvilku."
+msgstr "(ehmehm) Moje světlo? ...ach, ach ano, ano, samozřejmě. Jen okamžik."
 
 #. [message]: speaker=Hahid al-Ali
 #. He drinks an elixir between this message and the next one
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:425
-#, fuzzy
 msgid ""
 "Trapped among barbarians and pursued by orcs... how in the sands did I get "
 "here? Time to break out something I’ve been saving for a rainy day..."
 msgstr ""
-"Uvězněn mezi barbary a pronásledován skřety... jak jsem se sem proboha "
+"Uvězněn mezi barbary a pronásledován skřety... jak jsem se sem u všech písků "
 "dostal? Je čas vytáhnout něco, co jsem si schovával na horší časy..."
 
 #. [message]: speaker=Hahid al-Ali
 #. He drank an elixir between the last message and this one
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:438
-#, fuzzy
 msgid "Nothing like some extra speed to help me get away!"
-msgstr "Není nad to, když mi nějaká rychlost navíc pomůže ujet!"
+msgstr "Není nad to, když mi trochu rychlosti navíc pomůže dostat se pryč!"
 
 #. [message]: speaker=Owaec
 #. Addressed to Gweddry, but many of the heroes except Dacyn are together in this conversation, assuming the player managed to collect them.
@@ -7849,7 +7831,7 @@ msgid ""
 "to pursue us. Now, it is finally time for us to once again travel toward "
 "Weldyn."
 msgstr ""
-"(kašel) A když jsou draci poraženi, (kašel)(kašel), žádní nepřátelé nás "
+"(ehmehm) A když jsou draci poraženi, (ehmehm)(ehmehm), žádní nepřátelé nás "
 "nebudou moci pronásledovat. Nyní je konečně čas, abychom se opět vydali na "
 "cestu k Weldinu."
 
@@ -7993,8 +7975,8 @@ msgid ""
 "(cough)(cough) Yes, yes, very well, well done. (cough) Now, it is finally "
 "time for us to see what has become of Wesnoth in our absence."
 msgstr ""
-"(kašel) (kašel) Ano, ano, velmi dobře, dobře. (kašel) Nyní je konečně čas, "
-"abychom se podívali, co se stalo s Wesnothem v naší nepřítomnosti."
+"(ehmehm) (ehmehm) Ano, ano, velmi dobře, dobře. (ehmehm) Nyní je konečně "
+"čas, abychom se podívali, co se stalo s Wesnothem v naší nepřítomnosti."
 
 #. [message]: speaker=Varrak-Klar
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:927
