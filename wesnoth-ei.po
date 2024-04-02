@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-04-01 21:49+0200\n"
+"PO-Revision-Date: 2024-04-02 23:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7651,66 +7651,60 @@ msgstr "Není nad to, když mi trochu rychlosti navíc pomůže dostat se pryč!
 #. Addressed to Gweddry, but many of the heroes except Dacyn are together in this conversation, assuming the player managed to collect them.
 #. It has to still make sense with only Gweddry and Owaec talking to each other.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:448
-#, fuzzy
 msgid ""
 "Gweddry, you saw how Dacyn struggled to channel his Light. What do you think "
 "of this?"
 msgstr ""
-"Gweddry, viděl jsi, jak se Dacyn snažil usměrnit své Světlo. Co si o tom "
+"Gweddry, viděl jsi, jak měl Dacyn potíže usměrnit své Světlo. Co si o tom "
 "myslíš?"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:452
-#, fuzzy
 msgid "Aye, and have ye noticed the man’s cough? He be trying to hide it."
-msgstr "Ano, a všimli jste si jeho kašle? Snaží se ho skrýt."
+msgstr "Ba, a všimli jste si, jak ten chlap kašle? Snaží se to skrýt."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:456
-#, fuzzy
 msgid ""
 "... it is a bad sign, to be sure. But Dacyn is determined to protect Wesnoth "
 "and destroy Mal-Ravanal, and I believe he is our only chance at doing so."
 msgstr ""
-"... je to jistě špatné znamení. Ale Dacyn je odhodlaný Wesnoth ochránit a "
-"Mal-Ravanal zničit a já věřím, že je naší jedinou šancí, jak toho dosáhnout."
+"... je to jistě špatné znamení. Ale Dacyn je odhodlaný ochránit Wesnoth "
+"a zničit Mal-Ravanala a já věřím, že je naší jedinou nadějí, jak toho "
+"dosáhnout."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:460
-#, fuzzy
 msgid "Magic man kind! Be good magic man be."
-msgstr "Kouzelný mužský druh! Buď dobrý kouzelník."
+msgstr "Kouzelný člověk hodný! Být dobrý kouzelník on."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:464
-#, fuzzy
 msgid ""
 "I agree his intentions are good, but with each passing hour, that foul "
 "amulet’s darkness festers within him. What influence may it have?"
 msgstr ""
-"Souhlasím, že jeho úmysly jsou dobré, ale s každou další hodinou v něm "
-"temnota toho odporného amuletu narůstá. Jaký vliv může mít?"
+"Souhlasím, že jeho úmysly jsou dobré, ale s každou další hodinou v něm "
+"temnota toho odporného amuletu narůstá. Jaký vliv to může mít?"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:468
-#, fuzzy
 msgid ""
 "I choose to place my faith in the holy Light, not the darkness! We will "
 "overcome Mal-Ravanal’s evil, and this dark amulet’s as well."
 msgstr ""
-"Rozhodl jsem se věřit ve svaté Světlo, ne v temnotu! Přemůžeme zlo Mal-"
-"Ravanala i tohoto temného amuletu."
+"Rozhodl jsem se věřit ve svaté Světlo, ne v temnotu! Přemůžeme zlo Mal-"
+"Ravanala i tohoto temného amuletu."
 
 #. [message]: speaker=Hahid al-Ali
 #. Last message in the "Gweddry, you saw how Dacyn struggled to channel his Light" conversation
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:473
-#, fuzzy
 msgid ""
 "Bah, magic! There’s a reason the civilized people of my world eschew magic — "
 "we would never have to deal with problems like this back in my homeland."
 msgstr ""
-"Bah, magie! Ne nadarmo se civilizovaní lidé v mém světě vyhýbají magii - v "
-"mé domovině bychom se s takovými problémy nikdy nesetkali."
+"Pah, magie! Ne nadarmo se civilizovaní lidé v mém světě magii vyhýbají – "
+"v mé domovině bychom se s takovými problémy nikdy nesetkali."
 
 #. [message]: race=orc
 #. Speaker might be any of Chief Dra-Nak, Varrak-Klar or Rakkha; all three are male orcs.
