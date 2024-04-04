@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-04-02 23:07+0200\n"
+"PO-Revision-Date: 2024-04-04 21:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7709,24 +7709,22 @@ msgstr ""
 #. [message]: race=orc
 #. Speaker might be any of Chief Dra-Nak, Varrak-Klar or Rakkha; all three are male orcs.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:497
-#, fuzzy
 msgid ""
 "(squinting) I can’t see anything in this searing sunlight. Fall back, wait "
 "for dusk!"
 msgstr ""
-"(mžourá) V tomhle ostrém slunečním světle nic nevidím. Ustupte, počkejte na "
+"(mžourá) V tomhle ostrém slunečním světle nic nevidím. Ustupte, počkejte na "
 "soumrak!"
 
 #. [message]: id=Mortic
 #. to the male orc leader who's ordering the retreat
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:502
-#, fuzzy
 msgid ""
 "The sun strengthens my kin.\n"
 "Daytime is our Domain.\n"
 "We should press the attack."
 msgstr ""
-"Slunce posiluje mé příbuzné.\n"
+"Mé příbuzné slunce posiluje.\n"
 "Den je naší doménou.\n"
 "Měli bychom zaútočit."
 
@@ -7734,15 +7732,13 @@ msgstr ""
 #. The messages in this event give the player a chance to react to the retreat.
 #. By now they should know that enemies retreat during the day, but it's especially important to know now so they can evacuate.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:511
-#, fuzzy
 msgid "You heard me, wyrm! Wait. For. Dusk."
-msgstr "Slyšel jsi mě, wyrme! Počkej. Pro. Soumrak."
+msgstr "Slyšel jsi mě, wyrme! Počkej. Na. Soumrak."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:552
-#, fuzzy
 msgid "Is everyone across? I’m ready to chop down the bridge."
-msgstr "Jsou všichni na druhé straně? Jsem připraven ten most pokácet."
+msgstr "Jsou všichni na druhé straně? Jsem připraven ten most zbořit."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:556
@@ -7798,36 +7794,33 @@ msgstr ""
 #. [message]: speaker=Owaec
 #. either got everyone across or left behind at most one L2 or L3 unit
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:674
-#, fuzzy
 msgid ""
 "Huzzah, we have escaped the northerners! A true Clansman would never "
 "willingly leave his companions behind, and so have we clutched victory from "
 "the jaws of defeat!"
 msgstr ""
-"Hurá, unikli jsme seveřanům! Pravý klan by nikdy dobrovolně neopustil své "
-"druhy, a tak jsme vyrvali vítězství ze spárů porážky!"
+"Hurá, unikli jsme seveřanům! Pravý člen klanu by nikdy dobrovolně neopustil "
+"své druhy, a tak jsme ze spárů porážky vyrvali vítězství!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:691
-#, fuzzy
 msgid ""
 "Yes, yes, (cough)(cough) that’s all well and good. With the bridge "
 "destroyed, the orcs cannot (cough) cross, but what of the drakes?"
 msgstr ""
-"Ano, ano, (kašel), to je všechno v pořádku. Když je most zničen, orkové "
-"nemohou (kašlat) přejít, ale co draci?"
+"Ano, ano, (ehmehm)(ehmehm) to je všechno moc pěkné. Když je most zničen, "
+"skřeti nemohou (ehmehm) přejít, ale co drakonidé?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:698
-#, fuzzy
 msgid ""
 "(cough) And with the drakes defeated, (cough)(cough) no enemies will be able "
 "to pursue us. Now, it is finally time for us to once again travel toward "
 "Weldyn."
 msgstr ""
-"(ehmehm) A když jsou draci poraženi, (ehmehm)(ehmehm), žádní nepřátelé nás "
-"nebudou moci pronásledovat. Nyní je konečně čas, abychom se opět vydali na "
-"cestu k Weldinu."
+"(ehmehm) A když jsou drakonidé poraženi, (ehmehm)(ehmehm) žádní nepřátelé "
+"nás nebudou moci pronásledovat. Nyní je konečně čas, abychom se opět vydali "
+"na cestu k Weldynu."
 
 #. [message]: race=orc
 #. Spoken to Mortic, but at this point it's possible that all the orc leaders are dead, in which case it doesn't get said.
