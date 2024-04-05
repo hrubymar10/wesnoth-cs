@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-04-04 21:39+0200\n"
+"PO-Revision-Date: 2024-04-05 20:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7119,7 +7119,7 @@ msgid ""
 "I serve his will."
 msgstr ""
 "Držím se Cest naší letky.\n"
-"Mortic je aspirant.\n"
+"Mortik je aspirant.\n"
 "Sloužím jeho vůli."
 
 #. [message]: speaker=Chief Dra-Nak
@@ -7825,18 +7825,16 @@ msgstr ""
 #. [message]: race=orc
 #. Spoken to Mortic, but at this point it's possible that all the orc leaders are dead, in which case it doesn't get said.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:716
-#, fuzzy
 msgid ""
 "Useless pathetic ugly weakling wyrms! Fly across and chase after them, or "
 "we’ll sell you <i>all</i> to the necromancers!"
 msgstr ""
-"Zbyteční ubozí oškliví slabošští wyrmové! Přeleťte na druhou stranu a "
-"pronásledujte je, nebo vás všechny prodáme nekromantům!"
+"Zbyteční, ubozí, oškliví, slabošští wyrmové! Přeleťte na druhou stranu "
+"a pronásledujte je, nebo vás <i>všechny</i> prodáme nekromantům!"
 
 #. [message]: speaker=Mortic
 #. to his fellow drakes, and any surviving orcs
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:724
-#, fuzzy
 msgid ""
 "Dra-Nak is dead,\n"
 "His armies weakened,\n"
@@ -7849,20 +7847,18 @@ msgstr ""
 #. [message]: speaker=Mortic
 #. to his fellow drakes, and any surviving orcs
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:734
-#, fuzzy
 msgid ""
 "Dra-Nak is feeble,\n"
 "His armies weakened,\n"
 "His prey fled."
 msgstr ""
-"Dra-Nak je slabý,\n"
+"Dra-Nak je chabý,\n"
 "jeho armády jsou oslabeny,\n"
 "jeho kořist uprchla."
 
 #. [message]: speaker=Mortic
 #. to his fellow drakes, and any surviving orcs
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:743
-#, fuzzy
 msgid ""
 "Long has our Honor been stained.\n"
 "No longer shall it be.\n"
@@ -7871,15 +7867,14 @@ msgid ""
 msgstr ""
 "Dlouho byla naše čest poskvrněna.\n"
 "Už nebude.\n"
-"Nyní získáme zpět naši Aérii,\n"
-"a sílu našeho letu."
+"Nyní získáme zpět naše hnízdo,\n"
+"a sílu naší letky."
 
 #. [message]: speaker=$found_unit.id
 #. Speaker is an orc, and Mortic is flying towards them. "What? Hey!" *gets killed by Mortic*
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:769
-#, fuzzy
 msgid "Wha- hey!"
-msgstr "Hej!"
+msgstr "Co... Hej!"
 
 #. [message]: speaker=Mortic
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:788
@@ -7890,8 +7885,8 @@ msgid ""
 "Flight of Mortic, we fight!"
 msgstr ""
 "Lov je vyhlášen!\n"
-"Orkové jsou naší kořistí!\n"
-"Let Morticů, bojujeme!"
+"Skřeti jsou naší kořistí!\n"
+"Mortikova letko, bojujeme!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:825
