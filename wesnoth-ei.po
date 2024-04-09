@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-04-05 20:50+0200\n"
+"PO-Revision-Date: 2024-04-09 21:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7878,7 +7878,6 @@ msgstr "Co... Hej!"
 
 #. [message]: speaker=Mortic
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:788
-#, fuzzy
 msgid ""
 "The Hunt is called!\n"
 "The orcs our prey!\n"
@@ -7890,36 +7889,33 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:825
-#, fuzzy
 msgid ""
 "Hurry! If we cannot secure a position on the west bank, the drakes will "
 "surely fly behind and cut off our retreat!"
 msgstr ""
 "Pospěšte si! Pokud se nám nepodaří zajistit si pozice na západním břehu, "
-"drakodlaci určitě přiletí zezadu a odříznou nám ústup!"
+"drakonidé určitě přiletí zezadu a odříznou nám ústup!"
 
 #. [message]: speaker=Mortic
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:832
-#, fuzzy
 msgid ""
 "The sun arises.\n"
 "Second and third Wings,\n"
 "Capture the west bank."
 msgstr ""
 "Vychází slunce.\n"
-"Druhé a třetí křídlo,\n"
-"zachycují západní břeh."
+"Druhá a třetí peruť,\n"
+"obsaďte západní břeh."
 
 #. [message]
 #. spoken by the leader of either orc side. Lots of drakes appear immediately after this.
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:848
-#, fuzzy
 msgid ""
 "We need help over here! Where are the rest of those lousy drakes? They "
 "should be in position by now!"
 msgstr ""
-"Potřebujeme pomoc! Kde je zbytek těch mizerných draků? Už by měli být na "
-"místě!"
+"Potřebujeme tady pomoc! Kde je zbytek těch mizerných drakonidů? Už by měli "
+"být na místě!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:876
