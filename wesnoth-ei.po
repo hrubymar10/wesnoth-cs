@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-04-10 17:05 UTC\n"
-"PO-Revision-Date: 2024-04-13 10:25+0200\n"
+"PO-Revision-Date: 2024-04-13 11:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6366,16 +6366,12 @@ msgstr "Ha, jen si z tebe dělám legraci, je to jen voda."
 #. [message]: speaker=second_unit
 #. the player's unit is outside the room with all of this in
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2013
-#, fuzzy
-#| msgid ""
-#| "Look, a key! But it’s guarded by all those goblins... and there are "
-#| "ghasts in cages!"
 msgid ""
 "Look, a key! But it’s guarded by all those goblins... and there are ghouls "
 "in cages!"
 msgstr ""
 "Podívejte, klíč! Ale hlídají ho všichni ti goblini... a v klecích jsou "
-"žrouti!"
+"požírači!"
 
 #. [message]: speaker=second_unit
 #. the player's unit is outside the room with ghasts and goblins in, and there are a lot of campfires in there too
@@ -8810,7 +8806,6 @@ msgstr "Tvrz sira Seoreryho"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:789
-#, fuzzy
 msgid "Clearwater Lake"
 msgstr "Jezero Čistá voda"
 
