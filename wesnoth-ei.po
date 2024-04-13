@@ -9018,8 +9018,8 @@ msgid ""
 "Today truly is a day of ill fortune. My family is slain, my kinsmen "
 "scattered, my homeland defiled."
 msgstr ""
-"Dnešní den je skutečně dnem neštěstí. Moje rodina je vyvražděna, moji "
-"příbuzní rozprášeni, moje vlast znesvěcena."
+"Dnešní den je skutečně dnem neštěstí. Moje rodina je pobita, moji příbuzní "
+"rozprášeni, moje vlast znesvěcena."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1219
@@ -9530,8 +9530,8 @@ msgid ""
 "Why are we here at all? We should be advancing towards Weldyn, not humoring "
 "Owaec’s lust for vengeance. The Plains are already drowned."
 msgstr ""
-"Proč tu vůbec jsme? Měli bychom postupovat směrem k Weldinu, a ne ponižovat "
-"Owaecovu touhu po pomstě. Pláně jsou už utopené."
+"Proč tu vůbec jsme? Měli bychom postupovat směrem k Weldinu, a ne "
+"uspokojovat Owaecovu touhu po pomstě. Pláně jsou už utopené."
 
 #. [message]: speaker=Dacyn
 #. time over, talking to Owaec
@@ -9619,8 +9619,8 @@ msgid ""
 "despite your questionable methods."
 msgstr ""
 "Nenechte se mýlit, váš plán stále neschvaluji! Povede vás jen ke zkáze a "
-"smrti! Přesto teď alespoň věřím, že navzdory tvým pochybným metodám máš "
-"dobré úmysly."
+"smrti! Přesto teď alespoň věřím, že máš dobré úmysly, přestože tvé metody "
+"jsou pochybné."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2204
@@ -14430,17 +14430,12 @@ msgstr ""
 #. [trait]: id=mercenary
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:129
 #, fuzzy
-#| msgid ""
-#| "<span color='#00FF00'>+30%</span> base damage when gold is positive.\n"
-#| "<span color='#FF0000'>-30%</span> base damage when gold is 0 or negative."
 msgid ""
 "+30% base damage when gold is positive.\n"
 "-30% base damage when gold is 0 or negative."
 msgstr ""
-"<span color='#00FF00'>+30 %</span> k poškození, když je bilance zlata "
-"kladná.\n"
-"<span color='#FF0000'>-30 %</span> k poškození, když je bilance zlata 0 nebo "
-"záporná."
+"+30 % základního poškození, pokud je hodnota zlata kladná.\n"
+"-30% základního poškození, pokud je hodnota zlata 0 nebo záporná."
 
 #. [trait]: id=survivor
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:158
@@ -14474,14 +14469,6 @@ msgstr ""
 #. [trait]: id=survivor
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:163
 #, fuzzy
-#| msgid ""
-#| "<span color='#00FF00'>+1</span> damage to and <span color='#00FF00'>-1</"
-#| "span> damage from undead, necromancers, and bats.\n"
-#| "\n"
-#| "Against all odds, this unit has endured the terrors and tortures of Mal-"
-#| "Ravanal’s prisons and lived to tell the tale. Survivors bear a heavy "
-#| "burden from their time in captivity, but have also learned much of the "
-#| "strengths and weaknesses of their former captors."
 msgid ""
 "+1 damage to and -1 damage from undead, necromancers, and bats.\n"
 "\n"
@@ -14490,10 +14477,9 @@ msgid ""
 "from their time in captivity, but have also learned much of the strengths "
 "and weaknesses of their former captors."
 msgstr ""
-"<span color='#00FF00'>+1</span> k poškození a <span color='#00FF00'>-1</"
-"span> k poškození od nemrtvých, nekromantů a netopýrů.\n"
+"+1 poškození a -1 poškození od nemrtvých, nekromantů a netopýrů.\n"
 "\n"
-"Navzdory všem hrůzám a mučení tato jednotka přežila v Mal-Ravanalových "
-"věznicích a dožila se toho, že může svůj příběh vyprávět. Přeživší si nesou "
-"těžké břemeno z doby, kterou strávili v zajetí, ale také se naučili mnohé o "
-"silných i slabých stránkách svých bývalých věznitelů."
+"Navzdory všemu tato jednotka přežila hrůzy a mučení v Mal-Ravanalových "
+"věznicích a dožila se svého. Přeživší si nesou těžké břemeno z doby, kterou "
+"strávili v zajetí, ale také se naučili mnohé o silných a slabých stránkách "
+"svých bývalých věznitelů."
