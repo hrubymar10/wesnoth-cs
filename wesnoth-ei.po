@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-04-09 21:54+0200\n"
+"PO-Revision-Date: 2024-04-13 10:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7919,9 +7919,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:876
-#, fuzzy
 msgid "Gel’ka"
-msgstr "Gel'ka"
+msgstr "Gelka"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:881
@@ -7930,44 +7929,40 @@ msgstr "Nepřešli jsme přes most včas. Teď budeme všichni zabiti!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:892
-#, fuzzy
 msgid ""
 "I can hardly believe it! We didn’t need to destroy the bridge after all."
 msgstr "Stěží tomu mohu uvěřit! Nakonec jsme ten most nemuseli zničit."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:896
-#, fuzzy
 msgid ""
 "Huzzah, a glorious victory in the name of the Clans! Man will never flee "
 "from orc and drake; we have taught these northerners not to trifle with "
 "Wesnoth!"
 msgstr ""
-"Hurá, slavné vítězství ve jménu klanů! Člověk nikdy neuteče před orkem a "
-"drakem; naučili jsme tyhle seveřany, aby si nezahrávali s Wesnothem!"
+"Hurá, slavné vítězství ve jménu klanů! Člověk nikdy nebude před skřetem "
+"a drakonidem utíkat. Naučili jsme tyhle seveřany, aby si nezahrávali "
+"s Wesnothem!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:900
-#, fuzzy
 msgid ""
 "(cough)(cough) Yes, yes, very well, well done. (cough) Now, it is finally "
 "time for us to see what has become of Wesnoth in our absence."
 msgstr ""
-"(ehmehm) (ehmehm) Ano, ano, velmi dobře, dobře. (ehmehm) Nyní je konečně "
-"čas, abychom se podívali, co se stalo s Wesnothem v naší nepřítomnosti."
+"(ehmehm) (ehmehm) Ano, ano, výborně, dobrá práce. (ehmehm) Nyní je konečně "
+"čas, abychom se podívali, co se stalo s Wesnothem v naší nepřítomnosti."
 
 #. [message]: speaker=Varrak-Klar
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:927
-#, fuzzy
 msgid "Graahh! Stupid humans..."
-msgstr "Graahh! Hloupí lidé..."
+msgstr "Grááá! Hloupí lidé..."
 
 #. [message]: speaker=Mortic
 #. Aspirant is a drake military rank
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:949
-#, fuzzy
 msgid "I am Aspirant no more."
-msgstr "Už nejsem Aspirant."
+msgstr "Už nejsem žádný aspirant."
 
 #. [message]: speaker=Rakkha
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:962
