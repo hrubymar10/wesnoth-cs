@@ -19,9 +19,6 @@ ETA: **2024-06-21**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
-## wesnoth-steam
-`wesnoth-steam.po` originates from https://github.com/wesnoth/steam-meta/blob/master/po/cs.po
-
 ## Add-ons
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
