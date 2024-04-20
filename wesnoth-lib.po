@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-04-10 12:06-0500\n"
-"PO-Revision-Date: 2023-11-21 04:47+0100\n"
+"PO-Revision-Date: 2024-04-20 08:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2824,68 +2824,58 @@ msgstr "Řadit dle přibližného chronologického rozložení událostí v př
 #. [multimenu_button]: id=filter_completion
 #: data/gui/window/campaign_dialog.cfg:237
 msgid "Filter by campaign completion status"
-msgstr ""
+msgstr "Filtrovat podle stavu dokončení tažení"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:240
-#, fuzzy
-#| msgid "Completed"
 msgid "Not Completed"
-msgstr "Dokončeno"
+msgstr "Nedokončeno"
 
 #. [option]
 #. campaigns which the player hasn't beaten, rather than campaigns which the author hasn't finished writing
 #: data/gui/window/campaign_dialog.cfg:242
 msgid "Show campaigns not completed by player"
-msgstr ""
+msgstr "Ukázat hráčem nedokončená tažení"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:246
-#, fuzzy
-#| msgid "Completed"
 msgid "Completed: Bronze"
-msgstr "Dokončeno"
+msgstr "Dokončeno: bronz"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:247
 msgid "Show campaigns completed at easiest difficulty"
-msgstr ""
+msgstr "Ukázat tažení dokončená na nejlehčí obtížnost"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:251
-#, fuzzy
-#| msgid "Completed"
 msgid "Completed: Silver"
-msgstr "Dokončeno"
+msgstr "Dokončeno: stříbro"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:252
 msgid "Show campaigns completed at intermediate difficulties"
-msgstr ""
+msgstr "Ukázat tažení dokončená na prostřední obtížnosti"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:256
-#, fuzzy
-#| msgid "Completed"
 msgid "Completed: Gold"
-msgstr "Dokončeno"
+msgstr "Dokončeno: zlato"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:257
 msgid "Show campaigns completed at hardest difficulty"
-msgstr ""
+msgstr "Ukázat tažení dokončená na nejtěžší obtížnost"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:261
-#, fuzzy
-#| msgid "Completed"
 msgid "Completed: All"
-msgstr "Dokončeno"
+msgstr "Dokončeno: vše"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:262
 msgid "Show completed campaigns"
-msgstr ""
+msgstr "Ukázat dokončená tažení"
 
 #. [label]
 #. [label]: id=mods_header
@@ -2912,6 +2902,11 @@ msgid ""
 "Example: if you strike twice with 50% accuracy, you’re most likely to hit "
 "once and miss once, but might also hit twice or miss twice."
 msgstr ""
+"Čistá, neovlivněná náhoda. Tak, jak se má Wesnoth hrát.\n"
+"\n"
+"Příklad: pokud dvakrát udeříš s 50% přesností, s největší pravděpodobností "
+"jednou zasáhneš a jednou mineš, ale můžeš také dvakrát zasáhnout nebo "
+"dvakrát minout."
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:359
@@ -2927,13 +2922,16 @@ msgid ""
 "Example: you strike twice and get lucky, hitting both strikes. You then load "
 "an earlier save and make the same attack again. Both strikes will still hit."
 msgstr ""
+"Stejný jako výchozí GNČ s výjimkou toho, že načtení uložené hry nezmění "
+"výsledek útoku.\n"
+"\n"
+"Příklad: dvakrát udeříš a budeš mít štěstí, zasáhneš dvakrát. Pak načteš "
+"dřívější uložení a provedeš stejný útok znovu. Oba údery stejně zasáhnou."
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:365
-#, fuzzy
-#| msgid "Predictable RNG"
 msgid "Reduced RNG"
-msgstr "Předvídatelný GNČ"
+msgstr "Omezený GNČ"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:366
@@ -2944,6 +2942,11 @@ msgid ""
 "Example: if you strike three times with 50% accuracy, you will always hit at "
 "least once and miss at least once."
 msgstr ""
+"Zásahy a minutí jsou mnohem stálejší. Díky tomu je snazší plánovat malé "
+"akce.\n"
+"\n"
+"Příklad: pokud třikrát udeříš s 50% přesností, vždy alespoň jednou zasáhneš "
+"a alespoň jednou mineš."
 
 #. [label]
 #: data/gui/window/campaign_dialog.cfg:383
@@ -9171,22 +9174,6 @@ msgstr "V sekci '[$section|]' není nastaven povinný klíč '$key|'."
 
 #~ msgid "Sands"
 #~ msgstr "Písky"
-
-#~ msgid "Reloading alters future combat outcomes"
-#~ msgstr "Opakované načítání mění budoucí výsledky soubojů"
-
-#~ msgid "Combat outcomes remain constant when reloading"
-#~ msgstr "Výsledky soubojů zůstavají při opakovaném načítání neměnné"
-
-#~ msgid "Biased RNG (experimental)"
-#~ msgstr "Ovlivněný GNČ (pokusný)"
-
-#~ msgid ""
-#~ "Combat outcomes are more in line with displayed probabilities and "
-#~ "unaffected by reloading"
-#~ msgstr ""
-#~ "Výsledky soubojů jsou více v souladu se zobrazovanými pravděpodobnostmi "
-#~ "a opakované načítání se jich nedotkne"
 
 #~ msgid "Add-on ID"
 #~ msgstr "ID rozšíření"
