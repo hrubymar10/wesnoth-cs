@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-16 05:21 UTC\n"
-"PO-Revision-Date: 2024-01-02 14:53+0100\n"
+"PO-Revision-Date: 2024-04-21 19:47+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -102,10 +102,8 @@ msgstr "Návrh a konfigurace jednotky obrovitého obra"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:84
-#, fuzzy
-#| msgid "She-Ogre portrait"
 msgid "She-Ogre and Matronly Ogre portraits"
-msgstr "Portrét obryně"
+msgstr "Portrét obryně a obří matróny"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:91
