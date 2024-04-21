@@ -3,14 +3,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-04-10 12:06-0500\n"
-"PO-Revision-Date: 2024-04-20 08:46+0200\n"
+"PO-Revision-Date: 2024-04-21 11:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3235,8 +3235,6 @@ msgstr "Pouze pro tým"
 
 #. [label]
 #: data/gui/window/editor_choose_addon.cfg:47
-#, fuzzy
-#| msgid "Add-on selection"
 msgid "Add-on Selection"
 msgstr "Výběr rozšíření"
 
@@ -3651,105 +3649,83 @@ msgstr "Žádné"
 
 #. [button]: id=preview_
 #: data/gui/window/editor_edit_unit.cfg:98
-#, fuzzy
-#| msgid "Previous page"
 msgid "Preview image"
-msgstr "Předchozí strana"
+msgstr "Náhled obrázku"
 
 #. [label]: id=title
 #: data/gui/window/editor_edit_unit.cfg:143
-#, fuzzy
-#| msgid "Status"
 msgid "Stats"
-msgstr "Stav"
+msgstr "Statistiky"
 
 #. [button]: id=load_unit_type
 #: data/gui/window/editor_edit_unit.cfg:187
 msgid "Load Unit Type"
-msgstr ""
+msgstr "Nahrát typ jednotky"
 
 #. [grid]: id=grid_stats
 #: data/gui/window/editor_edit_unit.cfg:221
-#, fuzzy
-#| msgid "Image:"
 msgid "Unit Image:"
-msgstr "Obrázek:"
+msgstr "Obrázek jednotky:"
 
 #. [grid]: id=grid_stats
 #: data/gui/window/editor_edit_unit.cfg:223
 msgid "Portrait:"
-msgstr ""
+msgstr "Podobizna:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:234
 msgid "Level:"
-msgstr ""
+msgstr "Úroveň:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:259 data/gui/window/mp_staging.cfg:189
-#, fuzzy
-#| msgid "<b>Gender:</b>"
 msgid "Gender:"
-msgstr "<b>Pohlaví:</b>"
+msgstr "Pohlaví:"
 
 #. [row]
 #: data/gui/window/editor_edit_unit.cfg:267
-#, fuzzy
-#| msgid "gender^Random"
 msgid "gender^Male"
-msgstr "Náhodné"
+msgstr "Muž"
 
 #. [row]
 #: data/gui/window/editor_edit_unit.cfg:268
-#, fuzzy
-#| msgid "Female"
 msgid "gender^Female"
 msgstr "Žena"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:283
-#, fuzzy
-#| msgid "Advance Unit"
 msgid "Advances to:"
-msgstr "Povýšit jednotku"
+msgstr "Povyšuje na:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:309
-#, fuzzy
-#| msgid "Race"
 msgid "Race:"
-msgstr "Národ"
+msgstr "Národ:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:361
 msgid "Alignment:"
-msgstr ""
+msgstr "Příslušnost:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:387
-#, fuzzy
-#| msgid "HP: "
 msgid "HP:"
-msgstr "HP: "
+msgstr "Životy:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:417
-#, fuzzy
-#| msgid "XP: "
 msgid "XP:"
-msgstr "XP: "
+msgstr "Zkušenosti:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:447
 msgid "Cost:"
-msgstr ""
+msgstr "Cena:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:477
-#, fuzzy
-#| msgid "Movement Costs:"
 msgid "Movement:"
-msgstr "Cena za pohyb:"
+msgstr "Pohyb:"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]: id=title
@@ -3881,10 +3857,8 @@ msgstr ""
 
 #. [widget]: id=tab_label
 #: data/gui/window/editor_edit_unit.cfg:1249
-#, fuzzy
-#| msgid "Game Stats"
 msgid "Main Stats"
-msgstr "Statistika hry"
+msgstr "Základní statistiky"
 
 #. [widget]: id=tab_image
 #: data/gui/window/editor_edit_unit.cfg:1257
