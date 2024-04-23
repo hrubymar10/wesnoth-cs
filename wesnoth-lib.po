@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-04-10 12:06-0500\n"
-"PO-Revision-Date: 2024-04-21 11:54+0200\n"
+"PO-Revision-Date: 2024-04-23 21:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3738,51 +3738,43 @@ msgstr "Útoky"
 
 #. [button]: id=atk_new
 #: data/gui/window/editor_edit_unit.cfg:599
-#, fuzzy
-#| msgid "Attack"
 msgid "New Attack"
-msgstr "Zaútočit"
+msgstr "Nový útok"
 
 #. [button]: id=atk_delete
 #: data/gui/window/editor_edit_unit.cfg:612
-#, fuzzy
-#| msgid "Select/Move/Attack"
 msgid "Delete Attack"
-msgstr "Vybrat/Pohnout/Zaútočit"
+msgstr "Odstranit útok"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:682
 msgid "Range:"
-msgstr ""
+msgstr "Dosah:"
 
 #. [row]
 #: data/gui/window/editor_edit_unit.cfg:694
 msgid "range^Melee"
-msgstr ""
+msgstr "na blízko"
 
 #. [row]
 #: data/gui/window/editor_edit_unit.cfg:695
 msgid "range^Ranged"
-msgstr ""
+msgstr "na dálku"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:736
-#, fuzzy
-#| msgid "Damage"
 msgid "Damage:"
-msgstr "Zranění"
+msgstr "Zranění:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:763
-#, fuzzy
-#| msgid "Hits"
 msgid "Hits:"
-msgstr "Zásahy"
+msgstr "Rány:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:791
 msgid "Specials:"
-msgstr ""
+msgstr "Zvláštnosti:"
 
 #. [label]: id=title
 #. [widget]: id=tab_label
