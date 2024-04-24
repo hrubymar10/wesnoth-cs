@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-04-10 12:06-0500\n"
-"PO-Revision-Date: 2024-04-23 21:34+0200\n"
+"PO-Revision-Date: 2024-04-24 22:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -259,7 +259,7 @@ msgstr "Čisté šedé kočičí hlavy"
 #. [terrain_type]: id=road_desert
 #: data/core/terrain.cfg:274
 msgid "Gravel"
-msgstr ""
+msgstr "Štěrk"
 
 #. [terrain_type]: id=stone_path
 #: data/core/terrain.cfg:284
@@ -3787,24 +3787,18 @@ msgstr "Pokročilé"
 
 #. [grid]: id=grid_atk
 #: data/gui/window/editor_edit_unit.cfg:848
-#, fuzzy
-#| msgid "Profile"
 msgid "Small Profile"
-msgstr "Profil"
+msgstr "Menší podobizna:"
 
 #. [label]
 #: data/gui/window/editor_edit_unit.cfg:859
-#, fuzzy
-#| msgid "Abilities"
 msgid "Abilities:"
-msgstr "Schopnosti"
+msgstr "Schopnosti:"
 
 #. [label]: id=movetype_label
 #: data/gui/window/editor_edit_unit.cfg:885
-#, fuzzy
-#| msgid "Content Type:"
 msgid "Movetype:"
-msgstr "Druh obsahu:"
+msgstr "Druh pohybu:"
 
 #. [button]: id=load_movetype
 #. [button]: id=ok
@@ -3823,29 +3817,23 @@ msgstr "Cena za pohyb:"
 
 #. [label]: id=defense_label
 #: data/gui/window/editor_edit_unit.cfg:981
-#, fuzzy
-#| msgid "Defender"
 msgid "Defense:"
-msgstr "Obránce"
+msgstr "Obrana:"
 
 #. [label]: id=resistance_label
 #: data/gui/window/editor_edit_unit.cfg:1034
-#, fuzzy
-#| msgid "Resistances: "
 msgid "Resistances:"
-msgstr "Odolnosti: "
+msgstr "Odolnosti:"
 
 #. [label]: id=usage_label
 #: data/gui/window/editor_edit_unit.cfg:1087
-#, fuzzy
-#| msgid "Image:"
 msgid "AI Usage:"
-msgstr "Obrázek:"
+msgstr "Použití UI:"
 
 #. [widget]: id=tab_image
 #: data/gui/window/editor_edit_unit.cfg:1245
 msgid "/data/core/images/units/human-loyalists/general.png"
-msgstr ""
+msgstr "/data/core/images/units/human-loyalists/general.png"
 
 #. [widget]: id=tab_label
 #: data/gui/window/editor_edit_unit.cfg:1249
@@ -3855,22 +3843,22 @@ msgstr "Základní statistiky"
 #. [widget]: id=tab_image
 #: data/gui/window/editor_edit_unit.cfg:1257
 msgid "/data/core/images/attacks/rectangular-shield.png"
-msgstr ""
+msgstr "/data/core/images/attacks/rectangular-shield.png"
 
 #. [widget]: id=tab_image
 #: data/gui/window/editor_edit_unit.cfg:1269
 msgid "/data/core/images/attacks/sword-human.png"
-msgstr ""
+msgstr "/data/core/images/attacks/sword-human.png"
 
 #. [widget]: id=tab_image
 #: data/gui/window/editor_edit_unit.cfg:1281
 msgid "/data/core/images/attacks/gaze.png"
-msgstr ""
+msgstr "/data/core/images/attacks/gaze.png"
 
 #. [widget]: id=tab_label
 #: data/gui/window/editor_edit_unit.cfg:1285
 msgid "WML View"
-msgstr ""
+msgstr "Náhled WML"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -5490,10 +5478,8 @@ msgstr "* povinná pole"
 
 #. [label]
 #: data/gui/window/mp_staging.cfg:157
-#, fuzzy
-#| msgid "Faction"
 msgid "Faction:"
-msgstr "Frakce"
+msgstr "Frakce:"
 
 #. [menu_button]: id=controller
 #: data/gui/window/mp_staging.cfg:243
@@ -7310,47 +7296,43 @@ msgstr "Vybrat ikonu"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:82
 msgid "lawful"
-msgstr ""
+msgstr "zákonná"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:83
 msgid "chaotic"
-msgstr ""
+msgstr "chaotická"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:84
 msgid "neutral"
-msgstr ""
+msgstr "neutrální"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:85
 msgid "liminal"
-msgstr ""
+msgstr "šerá"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:145
 msgid "scout"
-msgstr ""
+msgstr "zvěd"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:146
 msgid "fighter"
-msgstr ""
+msgstr "bojovník"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:147
-#, fuzzy
-#| msgid "Search"
 msgid "archer"
-msgstr "Vyhledat"
+msgstr "střelec"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:148
 msgid "mixed fighter"
-msgstr ""
+msgstr "všestranný bojovník"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:149
 msgid "healer"
-msgstr ""
+msgstr "léčitel"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:305
-#, fuzzy
-#| msgid "Choose Theme"
 msgid "Choose File"
-msgstr "Vybrat motiv"
+msgstr "Vybrat soubor"
 
 #: src/gui/dialogs/editor/generator_settings.cpp:70
 msgid "/1000 tiles"
@@ -8602,10 +8584,8 @@ msgid "Assign Local Time"
 msgstr "Přiřadit místní čas"
 
 #: src/hotkey/hotkey_command.cpp:176
-#, fuzzy
-#| msgid "Next Unit"
 msgid "New Unit Type"
-msgstr "Další jednotka"
+msgstr "Nový typ jednotky"
 
 #: src/hotkey/hotkey_command.cpp:178
 msgid "Time Schedule Editor"
