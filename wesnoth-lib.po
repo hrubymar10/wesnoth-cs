@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-04-10 12:06-0500\n"
-"PO-Revision-Date: 2024-04-24 22:12+0200\n"
+"PO-Revision-Date: 2024-04-25 22:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4507,11 +4507,20 @@ msgid ""
 "suggest visiting the following page for more information and enabling all "
 "translations while you work on your contributions:"
 msgstr ""
+"Aby <i>Bitva o Wesnoth</i> poskytla bezbariérový zážitek hráčům z celého "
+"světa, spoléhá na příspěvky komunity. Protože vývoj hlavní hry může "
+"postupovat rychleji, než dokážou dobrovolní překladatelé stíhat, stává se, "
+"že překlady zaostávají nebo jsou dokonce opouštěny.\n"
+"\n"
+"Jestliže hraješ poprvé, doporučujeme použít co nejúplnější překlad. Pokud "
+"máš sám zájem hru překládat, navrhujeme navštívit následující stránku, kde "
+"nalezneš další informace, a povolit všechny překlady, zatímco budeš pracovat "
+"na svých příspěvcích:"
 
 #. [toggle_button]: id=show_all
 #: data/gui/window/language_selection.cfg:134
 msgid "Show work-in-progress or abandoned translations"
-msgstr ""
+msgstr "Zobrazit rozpracované nebo opuštěné překlady"
 
 #. [label]: id=status
 #: data/gui/window/loadscreen.cfg:183
