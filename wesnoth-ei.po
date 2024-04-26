@@ -13530,14 +13530,15 @@ msgstr ""
 msgid "Aye, I love the sound o’ bones crunching beneath me hammer!"
 msgstr "Jo, miluju zvuk kostí křupajících pod mým kladivem!"
 
-# Přeloženo nedoslovně a explicitněji, protože by jinak hráči nejspíš ten smysl unikl.
+# odkaz na píseň O lese Pavla Dobeše s ostravštinou, která mi pro trpaslíky sedí
 #. [message]: speaker=Dolburras
 #. in regular English, "So you are the big one, aren't you? Well, the bigger they are"
 #. there is a colloquial expression, "the bigger they are, the harder they fall"
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:158
 msgid "Ooch, so you be the big ’un, aren’t ye? Well, the bigger they are..."
 msgstr ""
-"Ooch, takže ty seš ten mocný, že? No, z velkých výšin jsou pády tvrdší..."
+"Ooch, takže ty seš ten mocný, že? No, jak zpívá jeden bard: „Enomže vysoko "
+"vyrostlé stromy tahaju na sebe buřku a hromy...”"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:177
