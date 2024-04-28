@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-04-27 23:19+0200\n"
+"PO-Revision-Date: 2024-04-28 22:05+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8093,7 +8093,6 @@ msgstr "Netopýři budou létat směrem k nejbližšímu nepříteli."
 #. TODO for 1.19? There's a cut-scene running up to this, but it's unclear what's happened until I read the WML and found that player's full starting roster is exactly one *horseman* for this scenario.
 #. The fastest-moving of the player's units has been trying to catch up with a bat, but the bat has flow over the river to the Mal-Yrna / Mal-Mana.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:593
-#, fuzzy
 msgid ""
 "Alas, I have failed in my mission! The undead scout has already reported "
 "back to its mistress."
@@ -8121,7 +8120,6 @@ msgstr ""
 
 #. [message]: speaker=Vovan
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:615
-#, fuzzy
 msgid "Wait a moment, can we talk about thi-"
 msgstr "Počkejte chvíli, můžeme si promluvit o..."
 
