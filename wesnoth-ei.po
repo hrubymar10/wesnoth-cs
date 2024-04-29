@@ -8145,51 +8145,47 @@ msgstr ""
 #. [message]: id=Owaec,Terraent
 #. two dwarves, with a Deathblade as the jailer
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:644
-#, fuzzy
 msgid ""
 "More prisoners approach from the northwest! I have not the time to depart "
 "and return with Gweddry, or those dwarves will surely be slain."
 msgstr ""
-"Další vězni se blíží ze severozápadu! Nemám čas odejít a vrátit se s "
-"Gweddrym, jinak ty trpaslíky určitě zabijí."
+"Další vězni se blíží ze severozápadu! Nemám čas odejít a vrátit se "
+"s Gweddrym, to by ty trpaslíky určitě zabili."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:648
-#, fuzzy
 msgid ""
 "I may have failed my original mission, but in the name of the Clans, I will "
 "not fail these prisoners now!"
 msgstr ""
-"Možná jsem zklamal své původní poslání, ale ve jménu klanů teď tyto vězně "
-"nezklamu!"
+"Možná jsem selhal ve svém původním poslání, ale tyto vězně teď ve jménu "
+"klanů nezklamu!"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:652
-#, fuzzy
 msgid ""
 "I may have failed my original mission, but by the holy Light, I will not "
 "fail these prisoners now!"
 msgstr ""
-"Možná jsem zklamal své původní poslání, ale při svatém Světle teď tyto vězně "
-"nezklamu!"
+"Možná jsem selhal ve svém původním poslání, ale tyto vězně teď při svatém "
+"Světle nezklamu!"
 
 #. [message]: speaker=Mal-Yrna
 #. the speaker was renamed to Mal-Mana at the start
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:669
-#, fuzzy
 msgid ""
 "Wait — I remember you! You’re one of the ones who fled from me last autumn "
 "near Soradoc!"
 msgstr ""
-"Počkej - já si tě pamatuju! Jsi jeden z těch, kteří přede mnou utekli loni "
-"na podzim u Soradoku!"
+"Počkej – já si tě pamatuju! Jsi jeden z těch, kteří přede mnou utekli loni "
+"na podzim u Soradoku!"
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:673
-#, fuzzy
 msgid ""
 "This time I’ve traded my bats for ghouls. There’s no way you’ll escape now!"
-msgstr "Tentokrát jsem netopýry vyměnil za ghúly. Teď už nemáš šanci uniknout!"
+msgstr ""
+"Tentokrát jsem netopýry vyměnila za požírače. Teď už nemáš šanci uniknout!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:797
