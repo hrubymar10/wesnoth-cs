@@ -8189,102 +8189,88 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:797
-#, fuzzy
 msgid "Nargaril"
 msgstr "Nargaril"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:814
-#, fuzzy
 msgid "Urmarol"
 msgstr "Urmarol"
 
 #. [message]: speaker=Nargaril
 #. to a Deathblade
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:839
-#, fuzzy
 msgid "Get yer filthy chains off my wrists, ye pile o’ bones!"
-msgstr "Sundejte mi ty špinavé řetězy ze zápěstí, vy hromado kostí!"
+msgstr "Sundej mi ty špinavé řetězy ze zápěstí, ty hromado kostí!"
 
 #. [message]: speaker=Urmarol
 #. "Thank you kindly for freeing us! My runesmithing arts are not meant to be used outside of knalga, but I think now is an exception. I just hope the East Gate didn't fare too bad after I was captured..."
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:853
-#, fuzzy
 msgid ""
 "Thank ye kindly fer freein’ us! Me runesmithin’ arts are not meant ta be "
 "used outside o’ Knalga, but methinks now is an exception. I just hope tha "
 "East Gate dinnae fare’n too bad after I were captured..."
 msgstr ""
-"Děkujeme, že jste nás osvobodili! Moje runové umění se nemá používat mimo "
-"Knalgu, ale myslím, že teď je výjimka. Jen doufám, že se Východní bráně po "
-"mém zajetí nebude dařit tak špatně..."
+"Srdečně děkujeme, že jste nás osvobodili! Moje runové umění by se nemělo "
+"používat mimo Knalgu, ale myslím, že teď udělám výjimku. Jen doufám, že se "
+"Východní bráně po mém zajetí nedařilo příliš špatně..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:870
-#, fuzzy
 msgid "Vinreddoc"
-msgstr "Vinreddoc"
+msgstr "Vinredok"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:887
-#, fuzzy
 msgid "Tunreoryr"
 msgstr "Tunreoryr"
 
 #. [message]: speaker=Vinreddoc
 #. spoken between two prisoners, "them" being the undead forces
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:912
-#, fuzzy
 msgid "How are there so many of them? Is this the end of all Wesnoth?"
-msgstr "Jak to, že jich je tolik? Je to konec celého Wesnothu?"
+msgstr "Jak to, že jich je tolik? Je tohle konec celého Wesnothu?"
 
 #. [message]: speaker=Tunreoryr
 #. spoken between two prisoners
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:917
-#, fuzzy
 msgid "Don’t worry. I’m sure the Crown has a plan..."
-msgstr "Nebojte se. Koruna má určitě plán..."
+msgstr "Neboj se. Koruna má určitě plán..."
 
 #. [message]: speaker=Vinreddoc
 #. Vinreddoc is a mage, but with random gender
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:931
-#, fuzzy
 msgid ""
 "Thank you! When the undead overran the academy I thought I was dead for "
 "sure. I just wonder what has happened to my friends..."
 msgstr ""
-"Děkujeme! Když nemrtví obsadili akademii, myslel jsem, že jsem mrtvý. Jen by "
-"mě zajímalo, co se stalo s mými přáteli..."
+"Děkuji! Když nemrtví obsadili akademii, vypadalo to, že je se mnou určitě "
+"konec. Jen by mě zajímalo, co se stalo s mými přáteli..."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:935
-#, fuzzy
 msgid "Take heart! As long as there is Light, hope always remains."
-msgstr "Vezměte si odvahu! Dokud existuje světlo, naděje vždy zůstává."
+msgstr "Vzmužte se! Dokud existuje světlo, zbývá vždy naděje."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:952
-#, fuzzy
 msgid "Ugzush"
-msgstr "Ugzush"
+msgstr "Ugzuš"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:969
-#, fuzzy
 msgid "Hibro"
 msgstr "Hibro"
 
 #. [message]: speaker=Hibro
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:996
-#, fuzzy
 msgid "I’ll take you all on! As soon as I get out of these chains..."
-msgstr "Vezmu si vás všechny! Hned jak se zbavím těch řetězů..."
+msgstr "Rozdám si to s vámi všemi! Hned jak se zbavím těch řetězů..."
 
 #. [message]: speaker=Gaoler_Orcs
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1000
-#, fuzzy
 msgid "Silence. Orcs. March."
-msgstr "Ticho. Skřeti. Pochod."
+msgstr "Ticho. Skřeti. Pochodovat."
 
 #. [message]: speaker=Ugzush
 #. he's just been rescued
