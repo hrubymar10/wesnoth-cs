@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-04-30 23:06+0200\n"
+"PO-Revision-Date: 2024-05-08 21:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8354,16 +8354,14 @@ msgstr "Dobře. Už žádná nekromancie. Přidám se k vám."
 #. [message]: speaker=Owaec
 #. speaking to Syner, who has just killed Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1181
-#, fuzzy
 msgid "And so justice has been served! Such is the fate of all evildoers."
 msgstr ""
 "A tak bylo spravedlnosti učiněno zadost! Takový je osud všech zločinců."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1201
-#, fuzzy
 msgid "Scyla"
-msgstr "Scyla"
+msgstr "Skyla"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1218
@@ -8384,46 +8382,41 @@ msgstr "Jedeme tak rychle, jak jen můžeme! Možná kdybys nás nechal plav..."
 
 #. [message]: speaker=Mame
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1282
-#, fuzzy
 msgid ""
 "Thanks stranger! I do not recognize these lands, but I do recognize a kind "
 "heart when I meet one. Should I ever find my way home to the coast, I will "
 "be sure to tell my kinsmen of your actions here."
 msgstr ""
 "Díky, cizinče! Nepoznávám tyto země, ale když potkám laskavé srdce, poznám "
-"ho. Kdybych se někdy vrátil domů na pobřeží, určitě povím svým příbuzným o "
-"tvých činech zde."
+"ho. Kdybych se někdy vrátila domů na pobřeží, určitě povím svým příbuzným "
+"o tom, jak ses tu činil."
 
 #. [message]: id=Owaec,Terraent
 #. "we" being the speaker and the prisoners that they've rescued
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1293
-#, fuzzy
 msgid "Now we come for you, necromancer!"
 msgstr "Teď si jdeme pro tebe, nekromante!"
 
 #. [message]: speaker=Mal-Yrna
 #. each bat-summoning event is triggered by the player rescuing prisoners
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1342
-#, fuzzy
 msgid ""
 "Of course, just because I said I wouldn’t summon bats doesn’t mean I can’t..."
 msgstr ""
-"To, že jsem řekl, že nebudu vyvolávat netopýry, samozřejmě neznamená, že "
-"nemůžu..."
+"Jen proto, že jsem řekla, že nebudu vyvolávat netopýry, samozřejmě "
+"neznamená, že nemůžu..."
 
 #. [message]: speaker=Mal-Yrna
 #. each bat-summoning event is triggered by the player rescuing prisoners
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1350
-#, fuzzy
 msgid "My prisoners!! You’ll pay for that..."
-msgstr "Moji vězni! Za to zaplatíš..."
+msgstr "Moji vězňové!! Za to zaplatíš..."
 
 #. [message]: speaker=Mal-Yrna
 #. this is a common misquote from the wizard of oz, she's talking to her bats
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1360
-#, fuzzy
 msgid "Fly, my pretties, fly!"
-msgstr "Leťte, krasavice, leťte!"
+msgstr "Leťte, krasavci, leťte!"
 
 #. [message]: speaker=Mal-Yrna
 #. to Terraent. She's summoning bats.
@@ -8435,9 +8428,8 @@ msgstr "Už zase! Nezkoušej mě, paladine z Wesnothu..."
 #. to Owaec. She's summoning bats.
 #. The text is an allusion to drowned plains, which the next scenario will reveal to be the current state of the Horse Clans' beloved plains.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1396
-#, fuzzy
 msgid "Not again! Do not test me, lord of the swamps..."
-msgstr "Už zase! Nezkoušej mě, pane bažin..."
+msgstr "Už zase! Nezkoušej mě, pane z bažin..."
 
 #. [message]: speaker=Mal-Yrna
 #. More prisoners rescued, more bats get summoned.
@@ -8453,7 +8445,6 @@ msgstr "Dost! Moji netopýři budou hodovat na tvé krvi!"
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1465
-#, fuzzy
 msgid "Why won’t you just die?!"
 msgstr "Proč prostě neumřeš?!"
 
