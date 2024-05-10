@@ -8435,11 +8435,10 @@ msgstr "Už zase! Nezkoušej mě, pane z bažin..."
 #. More prisoners rescued, more bats get summoned.
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1420
 msgid "You are starting to become rather irritating."
-msgstr "Začínáš být dost podrážděný."
+msgstr "Začínáš být dost otravný."
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1442
-#, fuzzy
 msgid "Enough! My bats will feast on your blood!"
 msgstr "Dost! Moji netopýři budou hodovat na tvé krvi!"
 
@@ -8451,97 +8450,88 @@ msgstr "Proč prostě neumřeš?!"
 #. [message]: speaker=Gweddry
 #. victory event, and the rest of the player's units catch up
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1549
-#, fuzzy
 msgid ""
 "Hail, Terraent! We feared the worst when you did not return, yet here I find "
 "you alive and well!"
 msgstr ""
-"Ať žije Terraent! Obávali jsme se nejhoršího, když ses nevrátil, ale tady tě "
-"nacházím živého a zdravého!"
+"Ať žije Terraent! Když ses nevrátil, obávali jsme se nejhoršího, ale tady tě "
+"nacházím živého a zdravého!"
 
 #. [message]: speaker=Gweddry
 #. victory event, and the rest of the player's units catch up
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1557
-#, fuzzy
 msgid ""
 "Hail, Owaec! We feared the worst when you did not return, yet here I find "
 "you alive and well!"
 msgstr ""
-"Ať žije Owaec! Obávali jsme se nejhoršího, když ses nevrátil, ale tady tě "
-"nacházím živého a zdravého!"
+"Ať žije Owaec! Když ses nevrátil, obávali jsme se nejhoršího, ale tady tě "
+"nacházím živého a zdravého!"
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1570
-#, fuzzy
 msgid ""
 "Indeed! The Light blessed me with an opportunity to save many souls and I "
 "could not decline! Now the crossing is clear, and we may return to see what "
 "has become of our homeland."
 msgstr ""
-"Vskutku! Světlo mi požehnalo příležitostí zachránit mnoho duší a já jsem ji "
-"nemohl odmítnout! Nyní je přechod volný a my se můžeme vrátit, abychom "
-"viděli, co se stalo s naší vlastí."
+"Vskutku! Světlo mi požehnalo příležitostí zachránit mnoho duší a já jsem ji "
+"nemohl odmítnout! Nyní je přechod volný a my se můžeme vrátit, abychom "
+"viděli, co se stalo s naší vlastí."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1577
-#, fuzzy
 msgid ""
 "Huzzah! Today has been a great victory! I have rescued a great many "
 "prisoners and defeated a foul necromancer! Now the crossing is clear, and we "
 "may return to see what has become of our homeland."
 msgstr ""
-"Huzzah! Dnešek byl velkým vítězstvím! Zachránil jsem mnoho zajatců a porazil "
-"jsem odporného nekromanta! Nyní je přechod volný a my se můžeme vrátit a "
-"podívat se, co se stalo s naší vlastí."
+"Hurá! Dnešek byl velkým vítězstvím! Zachránil jsem mnoho zajatců a porazil "
+"odpornou nekromantku! Nyní je přechod volný a my se můžeme vrátit a podívat "
+"se, co se stalo s naší vlastí."
 
 #. [message]: speaker=Mal-Yrna
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1584
-#, fuzzy
 msgid "You’re too late! Wesnoth is... already..."
 msgstr "Přišli jste pozdě! Wesnoth je... už..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1635
-#, fuzzy
 msgid ""
 "Hail, Terraent! We feared the worst when you did not return, yet here I find "
 "you alive and well! But who is this you are fighting?"
 msgstr ""
-"Ať žije Terraent! Obávali jsme se nejhoršího, když ses nevrátil, ale tady tě "
-"nacházím živého a zdravého! Ale kdo je ten, s kým bojuješ?"
+"Ať žije Terraent! Když ses nevrátil, obávali jsme se nejhoršího, ale tady tě "
+"nacházím živého a zdravého! Ale kdo je ta, se kterou bojuješ?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1642
-#, fuzzy
 msgid ""
 "Hail, Owaec! We feared the worst when you did not return, yet here I find "
 "you alive and well! But who is this you are fighting?"
 msgstr ""
-"Ať žije Owaec! Obávali jsme se nejhoršího, když ses nevrátil, ale tady tě "
-"nacházím živého a zdravého! Ale kdo je ten, s kým bojuješ?"
+"Ať žije Owaec! Když ses nevrátil, obávali jsme se nejhoršího, ale tady tě "
+"nacházím živého a zdravého! Ale kdo je ta, se kterou bojuješ?"
 
 #. [message]: speaker=Mal-Yrna
 #. she dispatches a messenger bat after this, leading to Dacyn saying all is lost
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1649
-#, fuzzy
 msgid ""
 "Can it be? Dacyn the mage? We thought you perished in the wild northlands, "
 "but now I find you alive and isolated from Wesnoth! I must inform Mal-"
 "Ravanal!"
 msgstr ""
-"Je to možné? Mág Dacyn? Mysleli jsme, že jsi zahynul v divokých severních "
-"krajích, ale teď tě nacházím živého a izolovaného od Wesnothu! Musím "
+"Je to možné? Mág Dacyn? Mysleli jsme, že jsi zahynul v divokých severních "
+"krajích, ale teď tě nacházím živého a odříznutého od Wesnothu! Musím "
 "informovat Mal-Ravanala!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1675
-#, fuzzy
 msgid ""
 "Even if we triumph at this crossing, Mal-Ravanal will surely find and "
 "destroy us before we can reunite with Wesnoth..."
 msgstr ""
-"I kdybychom na této křižovatce zvítězili, Mal-Ravanal nás určitě najde a "
-"zničí dřív, než se znovu spojíme s Wesnothem..."
+"I kdybychom na této křižovatce zvítězili, Mal-Ravanal nás určitě najde "
+"a zničí dřív, než se znovu spojíme s Wesnothem..."
 
 #. [scenario]: id=14_The_Drowned_Plains
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:23
