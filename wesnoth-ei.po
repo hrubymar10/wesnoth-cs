@@ -8541,16 +8541,16 @@ msgstr "Zatopené pláně"
 #. [part]
 #. In this scenario, there's circa 18 ghosts, each with a single line of speech, you'll recognise them because most start and end with ellipsis. The WML would need to be restructured to put po hints on those lines themselves.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:41
-#, fuzzy
 msgid ""
 "Anxious to rendezvous with the Wesnothian army, Gweddry, Owaec, and Dacyn "
 "pressed hurriedly westward. Their hearts sank as they passed battlefield "
 "after battlefield, in the ruins of what used to be Wesnoth’s thriving "
 "eastern provinces."
 msgstr ""
-"Gweddry, Owaec a Dacyn se snažili setkat s wesnothijským vojskem a spěchali "
-"na západ. Srdce se jim sevřelo, když míjeli jedno bitevní pole za druhým, v "
-"troskách kdysi vzkvétajících východních provincií Wesnothu."
+"Gweddry, Owaec a Dacyn se nemohli dočkat setkání s wesnothským vojskem, "
+"a tak spěchali na západ. Srdce se jim sevřelo, když míjeli jedno bitevní "
+"pole za druhým, kde ležely v troskách kdysi vzkvétající východní provincie "
+"Wesnothu."
 
 #. [leader]: type=Barrow Wight, id=Sir Seoraery
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:113
@@ -8594,15 +8594,13 @@ msgstr "... neznají bolest... neznají únavu... nemohli jsme nic dělat..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:486
-#, fuzzy
 msgid "Lords of Light... what affront did I commit to deserve this fate..."
-msgstr ""
-"Páni světla... čím jsem se provinil, že jsem si zasloužil tento osud..."
+msgstr "Páni světla... čím jsem se provinil, že si zasloužím tento osud..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:487
 msgid "I fought the undead with everything... I gave everything..."
-msgstr "Bojoval jsem s nemrtvými čím se dalo... dal jsem do toho všechno..."
+msgstr "Bojoval jsem s nemrtvými čím se dalo... dal do toho všechno..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:488
@@ -8667,7 +8665,6 @@ msgstr "... k čemu byl můj dřevec... proti stvoření... bez masa?"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:499
-#, fuzzy
 msgid ""
 "At first I thought he was one of ours... then he waved his hand and my blood "
 "ran cold..."
@@ -8683,57 +8680,51 @@ msgstr "... takový chlad... taková tma..."
 #. [message]: speaker=unit
 #. Player's unit has just been ambushed. Some other nearby corpses have awoken too, but the player will find that out during the enemy turn.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:582
-#, fuzzy
 msgid ""
 "Gah, undead! This one was mired face-first in the swamp, dormant until I "
 "stumbled upon it. They must be lying everywhere in this muck."
 msgstr ""
-"Nemrtví! Tenhle byl zabořený obličejem do bažiny a nečinný, dokud jsem na "
-"něj nenarazil. V tomhle bahně musí ležet všude."
+"Ha, nemrtví! Tenhle byl zabořený obličejem do bažiny a spal, dokud jsem "
+"o něj nezakopl. V tomhle sajrajtu můžou ležet kdekoli."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:586
-#, fuzzy
 msgid ""
 "Perhaps their leaders are dormant as well. I suspect we will not have to "
 "contend with them until we sight them. We can afford some time to capture "
 "villages and build our forces."
 msgstr ""
-"Možná, že i jejich vůdci jsou nečinní. Domnívám se, že se s nimi nebudeme "
-"muset potýkat, dokud je nespatříme. Můžeme si dovolit nějaký čas na obsazení "
-"vesnic a budování sil."
+"Možná, že spí i jejich vůdci. Domnívám se, že se s nimi nebudeme muset "
+"potýkat, dokud je nespatříme. Můžeme si dovolit nějaký čas na obsazení "
+"vesnic a budování sil."
 
 #. [message]: speaker=Gweddry
 #. Player's unit trigger an ambush last turn. During the enemy turn, some other nearby corpses started moving too.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:593
-#, fuzzy
 msgid ""
 "Whenever we stumble upon a corpse, it awakens its nearby allies! What will "
 "happen when we wake their leaders?"
 msgstr ""
-"Kdykoli narazíme na mrtvolu, probudí své blízké spojence! Co se stane, když "
-"probudíme jejich vůdce?"
+"Kdykoli narazíme na mrtvolu, probudí své spojence poblíž! Co se stane, když "
+"vzbudíme jejich vůdce?"
 
 #. [message]: speaker=Dacyn
 #. The keeps are visible, so the player can guess where the leaders themselves are.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:598
-#, fuzzy
 msgid ""
 "It may be prudent to clear the swamp near the undead leaders before we sight "
 "them."
 msgstr ""
-"Možná by bylo rozumné vyčistit bažinu poblíž nemrtvých vůdců, než je "
-"spatříme."
+"Možná by bylo rozumné vyčistit močál poblíž nemrtvých vůdců, než budou "
+"v dohledu."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:727
-#, fuzzy
 msgid "Their leader is waking nearby allies out from the swamp!"
-msgstr "Jejich vůdce probouzí blízké spojence z bažin!"
+msgstr "Jejich vůdce si z bažiny budí blízké spojence!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:731
-#, fuzzy
 msgid "Just more abominations for us to slay!!"
 msgstr "Jen další ohavnosti, které máme zabít!!"
 
@@ -8749,7 +8740,6 @@ msgstr "Hrad sira Efrana"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:787
-#, fuzzy
 msgid "Lord Gaelyc’s Citadel"
 msgstr "Citadela lorda Gaelyca"
 
