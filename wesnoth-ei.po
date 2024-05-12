@@ -8800,14 +8800,13 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:916
-#, fuzzy
 msgid ""
 "I’m sorry Owaec. The undead armies must have defeated the Clansmen and "
 "dammed the river to drown the plains. They must like the swamp, filled with "
 "death and decay..."
 msgstr ""
-"Je mi líto, Owaec. Armády nemrtvých musely porazit klany a přehradit řeku, "
-"aby utopily pláně. Musí se jim líbit bažina plná smrti a rozkladu..."
+"Je mi líto, Owaecu. Armády nemrtvých musely porazit klany a přehradily řeku, "
+"aby zatopily pláně. Močály, to je jejich, plné smrti a rozkladu..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:920
@@ -8816,17 +8815,16 @@ msgstr "Můj domov... můj lid... jak se to mohlo stát..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:930
-#, fuzzy
 msgid ""
 "YOU! MAGE!!! Had you not insisted we travel north, we might have arrived in "
 "time to save these people! My friends, my family, dead from your neglect. "
 "And all for what? Some necromancer’s trinket more likely to curse us than "
 "save us?"
 msgstr ""
-"TY! MAGE!!! Kdybys netrval na tom, abychom jeli na sever, mohli jsme dorazit "
-"včas a zachránit ty lidi! Moji přátelé, moje rodina, zemřeli kvůli tvé "
-"nedbalosti. A to všechno kvůli čemu? Kvůli nějakému nekromantskému trumfu, "
-"který nás spíš prokleje, než zachrání?"
+"TY! MÁGU!!! Kdybys netrval na tom, abychom jeli na sever, mohli jsme dorazit "
+"včas a ochránit tyhle lidi! Moji přátelé, moje rodina, zemřeli kvůli tvé "
+"nedbalosti. A proč tohle všechno? Pro nějakou nekromantskou cetku, která nás "
+"spíš přivede do zkázy, než zachrání?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:934
@@ -8837,38 +8835,34 @@ msgid ""
 "deprived Wesnoth of her eastern guard when she needed it most sorely. And "
 "now my homeland has paid the price for your misdeeds!!"
 msgstr ""
-"Věřili jsme vám. Věřil jsem ti! Místo toho jsi nás poslal pryč z války jako "
-"zbabělce, vedl jsi naše muže na porážku od orků a draků a připravil jsi "
-"Wesnoth o východní stráž, když ji nejvíc potřeboval. A moje vlast teď "
-"zaplatila za tvé špatné činy!!!"
+"Věřili jsme ti. Já ti věřil! Místo toho jsi nás poslal pryč z války jako "
+"zbabělce, vedl jsi naše muže na porážku z ruky skřetů a drakonidů "
+"a připravil jsi Wesnoth o jeho východní stráž, když ji nejvíc potřeboval. "
+"A moje vlast teď zaplatila za tvá pochybení!!"
 
 #. [message]: speaker=Owaec
 #. Dacyn is bleeding and about to take damage from an unknown source
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:944
-#, fuzzy
 msgid "Are you even listening?!?"
 msgstr "Posloucháš mě vůbec?!?"
 
 #. [message]: speaker=Gweddry
 #. Dacyn is bleeding and taking damage, from an unknown source
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:961
-#, fuzzy
 msgid "Dacyn, what’s wrong? Are you all right?"
-msgstr "Dacyn, co se děje? Jsi v pořádku?"
+msgstr "Dacyne, co se děje? Jsi v pořádku?"
 
 #. [message]: speaker=Dacyn
 #. Dacyn steps away from the initial encampment, and is about take a lot of damage
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:973
-#, fuzzy
 msgid "...I can’t-"
-msgstr "...nemůžu..."
+msgstr "... Já nemůžu..."
 
 #. [message]: speaker=Dacyn
 #. Dacyn stepped away from the castle, the six hexes around him have changed to chasms and he's down to 15 hp.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1020
-#, fuzzy
 msgid "I’ve lost control of the Amulet! I must-"
-msgstr "Ztratil jsem kontrolu nad amuletem! Já musím..."
+msgstr "Ten amulet si dělá co chce! Já musím..."
 
 #. [message]
 #. up to 6 ghosts or wraiths come out of the chasms, depending on difficulty and how many auto-recalled loyals the player has
@@ -8887,12 +8881,12 @@ msgstr "Lord Alrik"
 #. speaker is a wraith, he's emerged from the chasms around Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1057
 msgid "Owaec, my son..."
-msgstr "Owaeci, můj synu..."
+msgstr "Owaecu, můj synu..."
 
 #. [message]: speaker=Lord Alric
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1061
 msgid "Why did you abandon us? I am dead... thanks to you..."
-msgstr "Proč jsi nás opustil? Jsem mrtvý... kvůli tobě..."
+msgstr "Proč jsi nás opustil? Jsem mrtvý... díky tobě..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1065
@@ -8914,38 +8908,34 @@ msgstr "Co mám teď dělat?"
 #. The chasms are filled with sand, so all terrain near the keep is walkable again.
 #. Dacyn has healed back to full HP, although that's for gameplay reasons because he needs to fight the ghosts, there isn't a story reason for it.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1112
-#, fuzzy
 msgid "(gasping) I have regained control!"
-msgstr "(lapá po dechu) Znovu jsem se ovládl!"
+msgstr "(lapá po dechu) Znovu jsem ho ovládl!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1116
-#, fuzzy
 msgid "What happened? I did not know this Amulet could act of its own accord."
-msgstr "Co se stalo? Nevěděl jsem, že tento amulet může působit sám od sebe."
+msgstr "Co se stalo? Nevěděl jsem, že tenhle amulet může působit sám od sebe."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1120
-#, fuzzy
 msgid ""
 "Neither did I. I should have sensed it, but the darkness is nearly "
 "overwhelming. Even with my inner light, the best I can do is cancel out this "
 "dark energy. Such is the price of power..."
 msgstr ""
-"Ani já ne. Měl jsem to vycítit, ale temnota je téměř zdrcující. I s mým "
-"vnitřním světlem dokážu tu temnou energii nanejvýš zrušit. Taková je cena za "
-"moc..."
+"Ani já ne. Měl jsem to vycítit, ale ta temnota je téměř nepřemožitelná. "
+"I s mým vnitřním světlem dokážu tu temnou sílu nanejvýš zrušit. Taková je "
+"cena moci..."
 
 #. [message]: speaker=Dacyn
 #. loses his halo and advances to an L4 Twilight Mage (liminal, heals +4, does not illuminate, melee attack gains "drain")
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1125
-#, fuzzy
 msgid ""
 "... but it is a necessary price to pay. I will not let up until Mal-Ravanal "
 "is defeated, whatever the cost may be."
 msgstr ""
-"... ale je to nutná cena. Nepolevím, dokud Mal-Ravanal nebude poražen, ať to "
-"stojí, co to stojí."
+"... ale je to cena, kterou je třeba zaplatit. Nepolevím, dokud Mal-Ravanal "
+"nebude poražen, ať to stojí, co to stojí."
 
 #. [message]: speaker=Owaec
 #. Owaec is near his father's castle, and there's a dead (not undead) skeleton on the keep
