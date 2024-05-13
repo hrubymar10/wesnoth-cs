@@ -8828,7 +8828,6 @@ msgstr ""
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:934
-#, fuzzy
 msgid ""
 "We trusted you. I trusted you! Instead, you sent us away from the war like "
 "cowards, led our men to slaughter at the hand of orcs and drakes, and "
@@ -8867,10 +8866,9 @@ msgstr "Ten amulet si dělá co chce! Já musím..."
 #. [message]
 #. up to 6 ghosts or wraiths come out of the chasms, depending on difficulty and how many auto-recalled loyals the player has
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1044
-#, fuzzy
 msgid "<span size='small' font-style='italic'>And most importantly...</span>"
 msgstr ""
-"<span size='small' font-style='italic'>A co je nejdůležitější...</span>"
+"<span size='small' font-style='italic'>A co je nejdůležitější...</span>"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1051
@@ -8940,14 +8938,12 @@ msgstr ""
 #. [message]: speaker=Owaec
 #. Owaec is near his father's castle, and there's a dead (not undead) skeleton on the keep
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1206
-#, fuzzy
 msgid "...so it is true. My lord and father is dead."
-msgstr "...takže je to pravda. Můj pán a otec je mrtev."
+msgstr "...takže je to pravda. Můj pán a otec je mrtev."
 
 #. [message]: speaker=Owaec
 #. today is when he learns the news of that, not when it happened
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1215
-#, fuzzy
 msgid ""
 "Today truly is a day of ill fortune. My family is slain, my kinsmen "
 "scattered, my homeland defiled."
@@ -8957,60 +8953,54 @@ msgstr ""
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1219
-#, fuzzy
 msgid ""
 "But I will not despair! This damning destruction will not be the lasting "
 "legacy of the Clans!! These undead will pay for the death they have "
 "brought!!!"
 msgstr ""
-"Ale já si nezoufám! Tato zkáza nebude trvalým dědictvím klanů!! Tito nemrtví "
-"zaplatí za smrt, kterou přinesli!!!"
+"Ale já si nebudu zoufat! Tato zkáza nebude trvalým dědictvím klanů!! Tito "
+"nemrtví zaplatí za smrt, kterou přinesli!!!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1256
-#, fuzzy
 msgid ""
 "Owaec, do not be so hasty. Much of the horde that conquered this place now "
 "marches on Weldyn, but even what little lingers is surely more than a match "
 "for our weary band."
 msgstr ""
 "Owaecu, neunáhluj se. Velká část hordy, která dobyla toto místo, nyní "
-"pochoduje na Weldyn, ale i to málo, co zůstává, je jistě víc než jen soupeř "
-"pro naši unavenou skupinu."
+"pochoduje na Weldyn, ale i to málo, co zůstalo, je jistě víc, než může naše "
+"unavená skupina zvládnout."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1260
-#, fuzzy
 msgid ""
 "I agree, yet all is strangely quiet. Perhaps the remaining undead lie "
 "dormant? If we take time to capture villages and rebuild our forces, we may "
 "yet be able to reclaim this place."
 msgstr ""
 "Souhlasím, ale všude je podivné ticho. Možná zbývající nemrtví spí? Pokud si "
-"uděláme čas na obsazení vesnic a obnovení našich sil, možná se nám ještě "
+"uděláme čas na obsazení vesnic a obnovení našich sil, možná se nám ještě "
 "podaří získat toto místo zpět."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1271
-#, fuzzy
 msgid "Capture villages and build up an army before attacking."
-msgstr "Před útokem se zmocněte vesnic a vybudujte armádu."
+msgstr "Před útokem se zmocni vesnic a vybuduj armádu."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1276
-#, fuzzy
 msgid "Loot Addogin’s smugglers’ caches."
-msgstr "Vydrancujte Addoginovy pašerácké skrýše."
+msgstr "Vyrabuj Adoginovy pašerácké skrýše."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1292
-#, fuzzy
 msgid ""
 "Enemy leaders are idle until first sighted, but will then abandon their keep "
 "and attack you."
 msgstr ""
-"Nepřátelští vůdci jsou nečinní, dokud je nespatříte, ale pak opustí svou "
-"pevnost a zaútočí na vás."
+"Nepřátelští vůdci jsou nečinní, dokud je poprvé nespatříš, ale pak opustí "
+"svou tvrz a zaútočí na tebe."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1300
