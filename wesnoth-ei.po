@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-05-13 20:34+0200\n"
+"PO-Revision-Date: 2024-05-14 22:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9004,53 +9004,47 @@ msgstr ""
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1263
-#, fuzzy
 msgid ""
 "On a quest of searing vengeance? Owaec my friend, what you need is my elixir "
 "of ulfserker fury! One taste of this bitter red ambrosia and you’ll fight "
 "until you drop, with <b><i>unlimited melee attacks</i></b> and the "
 "<b><i>berserk</i></b> melee special!"
 msgstr ""
-"Na cestě za spalující pomstou? Owaec, příteli, potřebuješ můj elixír "
-"ulfserkerské zuřivosti! Stačí ochutnat tuto hořkou rudou ambrózii a budeš "
-"bojovat, dokud nepadneš, s <b><i>neomezenými útoky zblízka</i></b> a "
-"<b><i>berserkem</i></b> speciálním útokem zblízka!"
+"Na cestě za spalující pomstou? Owaecu, příteli, to potřebuješ můj elixír "
+"ulfserkské zuřivosti! Stačí ochutnat tento hořký rudý mok a budeš bojovat, "
+"dokud nepadneš, s <b><i>neomezenými útoky zblízka</i></b> a speciálním "
+"útokem zblízka <b><i>na život a na smrt</i></b>!"
 
 #. [message]: speaker=Hahid al-Ali
 #. player bought the elixir of ulfserker fury
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1277
-#, fuzzy
 msgid "Try not to die too quickly!"
-msgstr "Snažte se neumírat příliš rychle!"
+msgstr "Snaž se neumřít příliš rychle!"
 
 #. [message]: speaker=Hahid al-Ali
 #. player declined the elixir of ulfserker fury
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1286
-#, fuzzy
 msgid "Suit yourself! Don’t expect me to drink that though, I’m not suicidal!"
-msgstr "Jak je libo! Ale nečekejte, že to vypiju, nejsem sebevrah!"
+msgstr "Jak je libo! Ale nečekej, že to vypiju já, nejsem sebevrah!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1291
-#, fuzzy
 msgid ""
 "This offer expires as soon as your anger does! <i>(elixirs only last for 1 "
 "scenario)</i>"
 msgstr ""
-"Tato nabídka vyprší, jakmile se váš hněv objeví! <i>(elixíry vydrží pouze 1 "
-"scénář)</i>"
+"Tato nabídka vyprší spolu s tvým hněvem! <i>(elixíry vydrží pouze 1 scénář)</"
+"i>"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1293
-#, fuzzy
 msgid "Buy the elixir for Owaec (30 gold)."
-msgstr "Kupte si elixír pro Owaeca (30 zlatých)."
+msgstr "Koupit elixír pro Owaeca (30 zlatých)."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1303
-#, fuzzy
 msgid "Leave the elixir."
-msgstr "Nechte elixír."
+msgstr "Nechat elixír být."
 
 #. [message]: speaker=Addogin
 #. Wait a moment... this landscape looks familiar.
