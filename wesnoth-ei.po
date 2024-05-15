@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-05-14 22:27+0200\n"
+"PO-Revision-Date: 2024-05-15 21:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9049,18 +9049,16 @@ msgstr "Nechat elixír být."
 #. [message]: speaker=Addogin
 #. Wait a moment... this landscape looks familiar.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1331
-#, fuzzy
 msgid ""
 "Hol’ up... some of this place is lookin’ mighty familiar. Yeah, few years "
 "back I used to work for a smuggler ’round these parts."
 msgstr ""
-"Vydržte... některá místa jsou mi povědomá. Jo, před pár lety jsem tady "
+"Vydržte... připadá mi to tu dost povědomé. Jo, před pár lety jsem tady "
 "pracoval pro jednoho pašeráka."
 
 #. [message]: speaker=Addogin
 #. hint about the smuggler's hidden gold, will be followed by adding three "go here" markers to the map
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1336
-#, fuzzy
 msgid ""
 "I’m sure the undead have burned down his storehouse, but there might still "
 "be a cache or three hidden ’round here."
@@ -9070,21 +9068,19 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1360
-#, fuzzy
 msgid ""
 "We should retrieve as many as we can; I’m sure the extra gold will be useful."
 msgstr ""
-"Měli bychom jich získat co nejvíc; jsem si jistý, že zlato navíc se nám bude "
+"Měli bychom jich najít co nejvíc. Jsem si jistý, že zlato navíc se nám bude "
 "hodit."
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1364
-#, fuzzy
 msgid ""
 "Just remember, I ain’t been here in years. Some of them caches might be "
 "empty now."
 msgstr ""
-"Jen si pamatuj, že jsem tu nebyl už roky. Některé z těch keší už mohou být "
+"Jen si pamatuj, že jsem tu nebyl už roky. Některé z těch skrýší už mohou být "
 "prázdné."
 
 #. [message]: speaker=Addogin
