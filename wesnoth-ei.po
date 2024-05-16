@@ -9113,24 +9113,21 @@ msgstr "Výborně! Zlato z těch schránek přijde k užitku."
 #. [message]: speaker=Grug
 #. this is probably grug's first time fighting squishy undead (though there were a few in S10)
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1531
-#, fuzzy
 msgid "Squishy fun to squash! Squash squish squash!"
-msgstr "Zábava s mačkáním! Squash squash squash!"
+msgstr "Legrační měkoučcí! Pomačkám rád!"
 
 #. [message]: speaker=unit
 #. "odd that his body didn't become undead"
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1553
-#, fuzzy
 msgid ""
 "This man looks to have been dead for about a month. Odd that his body yet "
 "lies still."
 msgstr ""
 "Tento muž vypadá, že je mrtvý už asi měsíc. Je zvláštní, že jeho tělo stále "
-"leží."
+"klidně leží."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1566
-#, fuzzy
 msgid "There is a journal here, still intact despite the swamp."
 msgstr "Je tu deník, který je navzdory bažině stále neporušený."
 
