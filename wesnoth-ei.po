@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-05-16 21:39+0200\n"
+"PO-Revision-Date: 2024-05-18 10:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9134,7 +9134,6 @@ msgstr "Je tu deník, který je navzdory bažině stále neporušený."
 #. [message]: speaker=unit
 #. Reading from a dead horseman's journal. This is a warning to the player that there's a Skeletal Dragon in the scenario.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1534
-#, fuzzy
 msgid ""
 "<i>... we thought the enemy had erred, that the battle could yet be won. "
 "Taking advantage of the gap, our swiftest riders drove toward the exposed "
@@ -9146,20 +9145,18 @@ msgid ""
 "claw and wing. Then it fell upon us from behind, and the enemy closed their "
 "ranks, and we were encircled by death.</i>"
 msgstr ""
-"<i>... mysleli jsme si, že se nepřítel zmýlil, že bitvu lze ještě vyhrát. "
-"Využili jsme mezery a naši nejrychlejší jezdci vyrazili k odkrytému srdci "
-"kostlivé formace. Ale i když působili zkázu v řadách nekromantů, z vody se "
-"ozvalo silné zachvění, jako by se sama Irdya zachvěla v chorobném "
-"očekávání.\n"
+"<i>... mysleli jsme si, že nepřítel udělal chybu, že bitvu lze ještě vyhrát. "
+"Využili jsme mezery a naši nejrychlejší jezdci vyrazili k odkrytému srdci "
+"kostlivé formace. Ale i když působili zkázu v řadách nekromantů, z vody se "
+"ozvalo silné zachvění, jako by se sama Irdye otřásla v chorobném očekávání.\n"
 "\n"
-"Na okamžik jsem zahlédl velkou kostnatou postavu, bortící se masu zubů, "
-"drápů a křídel. Pak se na nás zezadu vrhla, nepřítel sevřel své řady a my "
-"jsme byli obklíčeni smrtí.</i>"
+"Na okamžik jsem zahlédl ohromný tvar z kostí, vlekoucí se masu zubů, drápů "
+"a křídel. Pak se to na nás zezadu vrhlo, nepřítel sevřel své řady a my jsme "
+"byli obklíčeni smrtí.</i>"
 
 #. [message]: speaker=unit
 #. Reading more from the dead horseman's journal, whose corpse prompted the "odd that his body didn't become undead" comment.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1541
-#, fuzzy
 msgid ""
 "<i>I fled, coward that I am, riding breakneck through the night before my "
 "injuries overcame my strength. And so it comes that I have earned no "
@@ -9169,12 +9166,12 @@ msgid ""
 "I offer one final prayer to the Light, that at least my family may be spared "
 "and that my soul may be kept from undeath...</i>"
 msgstr ""
-"<i>Uprchl jsem, zbabělec, a jel jsem na zběsilé jízdě nocí, než moje zranění "
-"přemohla mé síly. A tak se stalo, že jsem si nevysloužil čestnou smrt v "
-"boji, jen pomalou únavu a horečku, kterou nese hniloba a jed.\n"
+"<i>Uprchl jsem, já zbabělec, a ujížděl zběsile nocí, než moje zranění "
+"přemohla mé síly. A tak se stalo, že jsem si nevysloužil čestnou smrt "
+"v boji, jen pomalou únavu a horečku, kterou přináší hniloba a jed.\n"
 "\n"
-"Nabízím Světlu poslední modlitbu, aby alespoň moje rodina byla ušetřena a má "
-"duše uchráněna před smrtí...</i>"
+"Předkládám Světlu poslední modlitbu, aby alespoň moje rodina byla ušetřena "
+"a má duše uchráněna před nesmrtí...</i>"
 
 #. [message]: speaker=Sir Seoraery
 #. no-one sends a messenger, he's talking about memories from before he died
