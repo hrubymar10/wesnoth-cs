@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-05-18 10:48+0200\n"
+"PO-Revision-Date: 2024-05-19 12:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9214,9 +9214,8 @@ msgstr "... dříve... zemřu... než se podvolit tobě..., nekromante."
 #. [message]: speaker=unit
 #. undead dragon, talking to a memory rather than the unit that triggered him
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1736
-#, fuzzy
 msgid "... Lich, you do not belong here... leave, or I shall... rend you..."
-msgstr "... Lichi, ty sem nepatříš... odejdi, nebo tě... roztrhám..."
+msgstr "... Lichu, ty sem nepatříš... odejdi, nebo tě... roztrhám..."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1740
@@ -9272,7 +9271,6 @@ msgstr "Ty! Ty jsi příčinou této zkázy!! Můj padlý lid volá po pomstě!"
 #. [message]: speaker=Terraent
 #. speaking to one of the undead leaders (horseman, not dragon) in an [event]name=attack
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1879
-#, fuzzy
 msgid ""
 "All things deserve redemption, but I fear the undead will never find it. May "
 "this place be cleansed in holy fire!"
@@ -9283,74 +9281,65 @@ msgstr ""
 #. [message]: speaker=Terraent
 #. speaking to Khrakrahs in an [event]name=attack
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1896
-#, fuzzy
 msgid ""
 "I have faced worse terrors than you, lizard! Through piety and the holy "
 "Light, this place will be sanctified once more."
 msgstr ""
-"Čelil jsem horším hrůzám než ty, ještěrko! Díky zbožnosti a svatému světlu "
-"bude toto místo opět posvěceno."
+"Čelil jsem horším postrachům než tobě, ještěre! Díky zbožnosti a svatému "
+"světlu bude toto místo opět požehnáno."
 
 #. [message]: speaker=second_unit
 #. speaker is an undead horseman, who's fighting Gaennell. Unclear whether this is to a memory, or because Gaennell is a Shadow Mage
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1913
-#, fuzzy
 msgid "... Necromancer... you are a blight..."
-msgstr "... Nekromant... jsi zhouba..."
+msgstr "... Nekromante... jsi zhoubou..."
 
 #. [message]: speaker=Gaennell
 #. to an undead horseman in an [event]name=attack
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1918
-#, fuzzy
 msgid ""
 "Not sure what you’d call me anymore, but definitely not more of a blight "
 "than you."
 msgstr ""
-"Nejsem si jistý, jak bys mě ještě nazval, ale rozhodně nejsem větší zhouba "
-"než ty."
+"Nevím, jak bys mě ještě nazval, ale rozhodně nejsem větší zhoubou než ty."
 
 #. [message]: speaker=second_unit
 #. Attacked with a fireball from an L2 or higher mage.
 #. Shek’kahan was Khrakrahs' brother, but died during TRoW, 6 centuries ago.
 #. The date of Khrakrahs' own death isn't canon, he was still alive in 40 YW (he appears in SoF).
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1937
-#, fuzzy
 msgid "... Shek’kahan, your fire grows weak... you are hardly... a rival."
-msgstr "... Shek'kahan, tvůj oheň slábne... jsi sotva... soupeř."
+msgstr "... Šekekahane, tvůj oheň slábne... jsi stěží... soupeřem."
 
 #. [message]: speaker=second_unit
 #. speaker is Khrakrahs when attacked by a dwarf, but remembering one he met in 40 YW.
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1954
-#, fuzzy
 msgid "... Thursagan... I warned you not... to enter my lair."
-msgstr "... Čtvrtek... Varoval jsem tě, abys nevstupoval do mého doupěte."
+msgstr ""
+"... Thursagane... Varoval jsem tě, abys... nevstupoval do mého doupěte."
 
 #. [message]: speaker=Lord Alric
 #. last breath request from the ghost of Lord Alric
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1971
-#, fuzzy
 msgid "... please, watch over my son for me."
 msgstr "... prosím, dohlédněte na mého syna."
 
 #. [message]: speaker=Sir Seoraery
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1983
-#, fuzzy
 msgid "... I may die... but the Clans... will never fall."
 msgstr "... Možná zemřu... ale klany... nikdy nepadnou."
 
 #. [message]: speaker=Sir Efran
 #. last breath, but still talking to a memory rather than the unit currently fighting him
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1996
-#, fuzzy
 msgid "... Necromancer... Wesnoth will defeat you... in the end."
-msgstr "... Nekromant... Wesnoth tě nakonec porazí..."
+msgstr "... Nekromante... Wesnoth tě nakonec... porazí..."
 
 #. [message]: speaker=Khrakrahs
 #. last breath
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2009
-#, fuzzy
 msgid "I am... ...<i>cold</i>."
-msgstr "Já jsem... ...<i>studený</i>."
+msgstr "Je mi... ...<i>zima</i>."
 
 #. [message]: speaker=Gweddry
 #. spoken at the start of a new turn after killing the first undead leader
