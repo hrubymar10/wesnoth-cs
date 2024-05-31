@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 02:28 UTC\n"
-"PO-Revision-Date: 2024-05-19 12:44+0200\n"
+"PO-Revision-Date: 2024-05-31 22:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5568,10 +5568,8 @@ msgstr "Dobrá, já pomoct člověk bojovat! Člověk dobrý!"
 
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1360
-#, fuzzy
-#| msgid "20 gold"
 msgid "25 gold"
-msgstr "20 zlatých"
+msgstr "25 zlatých"
 
 #. [message]: speaker=unit
 #. circa 25 gold pieces
