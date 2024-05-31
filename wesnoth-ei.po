@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 20:07 UTC\n"
-"PO-Revision-Date: 2024-05-31 23:00+0200\n"
+"PO-Revision-Date: 2024-05-31 23:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -307,11 +307,9 @@ msgstr "Scénář 14: Historik"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
-#, fuzzy
-#| msgid "Complete ‘<i>Eleventh Hour</i>’ with no recalling and no items."
 msgid ""
 "Complete ‘<i>Eleventh Hour</i>’ with no recalling and no droppable items."
-msgstr "Dokonči „<i>Za pět minut dvanáct</i>“ bez povolávání a předmětů."
+msgstr "Dokonči „<i>Za pět minut dvanáct</i>“ bez povolávání a odložitelných předmětů."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:69
@@ -13241,10 +13239,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:812
-#, fuzzy
-#| msgid "Mak-Dak’an"
 msgid "Mal-Dak’an"
-msgstr "Mak-Dakan"
+msgstr "Mal-Dakan"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:832
