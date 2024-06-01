@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 15:07-0500\n"
-"PO-Revision-Date: 2024-04-25 22:50+0200\n"
+"PO-Revision-Date: 2024-06-01 08:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4358,10 +4358,8 @@ msgstr ""
 #. [button]: id=run_migrator
 #. button to open the version migration dialog manually to re-migrate add-ons and the preferences file
 #: data/gui/window/game_version.cfg:331
-#, fuzzy
-#| msgid "Crater"
 msgid "Migrate"
-msgstr "Kráter"
+msgstr "Migrovat"
 
 #. [grid]
 #: data/gui/window/game_version.cfg:368
@@ -4442,10 +4440,8 @@ msgstr ""
 #. [button]: id=forums
 #. this is on a button that opens the Wesnoth forums webpage
 #: data/gui/window/game_version.cfg:631
-#, fuzzy
-#| msgid "Forum URL"
 msgid "Forums"
-msgstr "URL adresa fóra"
+msgstr "Fóra"
 
 #. [button]: id=discord
 #. this is on a button that opens the Wesnoth Discord server webpage
@@ -6538,10 +6534,8 @@ msgstr "Spustit editor map"
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:261
-#, fuzzy
-#| msgid "The Battle for Wesnoth"
 msgid "Places to talk about Wesnoth"
-msgstr "Bitva o Wesnoth"
+msgstr "Místa, kde se mluví o Wesnothu"
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:262
