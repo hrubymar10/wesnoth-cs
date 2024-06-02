@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 15:07-0500\n"
-"PO-Revision-Date: 2024-06-01 08:03+0200\n"
+"PO-Revision-Date: 2024-06-02 09:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2395,10 +2395,8 @@ msgstr "Kopírovat"
 
 #. [draw]
 #: data/gui/widget/button_success.cfg:250
-#, fuzzy
-#| msgid "page^Copy"
 msgid "page^✔ Copied"
-msgstr "Kopírovat"
+msgstr "✔ Zkopírováno"
 
 #. [image]: id=pending_messages
 #: data/gui/widget/chatbox.cfg:40
@@ -4637,8 +4635,6 @@ msgstr ""
 
 #. [toggle_button]: id=show_all
 #: data/gui/window/language_selection.cfg:276
-#, fuzzy
-#| msgid "Show work-in-progress or abandoned translations"
 msgid "Show in-progress or abandoned translations"
 msgstr "Zobrazit rozpracované nebo opuštěné překlady"
 
@@ -6554,10 +6550,8 @@ msgstr ""
 
 #. [button]: id=about
 #: data/gui/window/title_screen.cfg:471
-#, fuzzy
-#| msgid "The Battle for Wesnoth"
 msgid "General information about Battle for Wesnoth"
-msgstr "Bitva o Wesnoth"
+msgstr "Obecné informace ohledně Bitvy o Wesnoth"
 
 #. [button]: id=language
 #: data/gui/window/title_screen.cfg:493
@@ -8577,10 +8571,8 @@ msgid "Kill Unit (Debug!)"
 msgstr "Zabít jednotku (ladění!)"
 
 #: src/hotkey/hotkey_command.cpp:125
-#, fuzzy
-#| msgid "Create Unit (Debug!)"
 msgid "Teleport Unit (Debug!)"
-msgstr "Vytvořit jednotku (ladění!)"
+msgstr "Teleportovat jednotku (ladění!)"
 
 #: src/hotkey/hotkey_command.cpp:127
 msgid "Objectives"
