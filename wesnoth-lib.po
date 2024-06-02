@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-25 21:28-0500\n"
-"PO-Revision-Date: 2024-06-02 09:25+0200\n"
+"PO-Revision-Date: 2024-06-02 10:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4259,6 +4259,8 @@ msgid ""
 "including translation. Translations may drift behind or even become "
 "abandoned."
 msgstr ""
+"<i>Bitva o Wesnoth</i> spoléhá na dobrovolníky, kteří se podílejí na vývoji, "
+"včetně překladů. Překlady mohou zaostávat, nebo dokonce být opuštěny."
 
 #. [label]
 #. Beneath the label widget displaying this text there is a widget displaying
@@ -4278,6 +4280,8 @@ msgid ""
 "If you are interested in translating the game yourself, please follow the "
 "link below for more information:"
 msgstr ""
+"Pokud máš sám zájem hru překládat, další informace nalezneš na níže uvedeném "
+"odkazu:"
 
 #. [toggle_button]: id=show_all
 #: data/gui/window/language_selection.cfg:276
