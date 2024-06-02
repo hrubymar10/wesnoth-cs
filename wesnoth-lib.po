@@ -8860,6 +8860,3 @@ msgstr ""
 #: src/wml_exception.cpp:92
 msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
 msgstr "V sekci '[$section|]' není nastaven povinný klíč '$key|'."
-
-#~ msgid "Choose your preferred language:"
-#~ msgstr "Vyber si preferovaný jazyk:"
