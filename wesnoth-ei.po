@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 02:28 UTC\n"
-"PO-Revision-Date: 2024-05-31 22:58+0200\n"
+"PO-Revision-Date: 2024-06-03 21:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16,7 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.4.2\n"
 
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
@@ -12930,13 +12929,12 @@ msgstr "Tvá duše je má!!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:133
-#, fuzzy
 msgid ""
 "Funny thing about the undead. If you know what you’re doing, they’re really "
 "very easy to put back together."
 msgstr ""
-"S nemrtvými je to zvláštní. Pokud víte, co děláte, je opravdu velmi snadné "
-"je dát dohromady."
+"Zábavný fakt o nemrtvých. Pokud víte, co děláte, je opravdu velmi snadné je "
+"dát znovu dohromady."
 
 #. [attacks]: id=swift
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:141
@@ -13006,13 +13004,11 @@ msgstr ""
 
 #. [illuminates]: id=darkens
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:243
-#, fuzzy
 msgid "darkens"
-msgstr "ztmavuje"
+msgstr "zatemňuje"
 
 #. [illuminates]: id=darkens
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:244
-#, fuzzy
 msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse.\n"
@@ -13020,49 +13016,44 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
-"Tato jednotka zatemňuje okolí, takže chaotické jednotky bojují lépe a "
-"zákonné hůře.\n"
+"Tato jednotka zatemní okolní prostor, takže chaotické jednotky budou bojovat "
+"lépe a zákonné jednotky hůře.\n"
 "\n"
-"Všechny jednotky sousedící s touto jednotkou budou bojovat, jako by byl "
-"soumrak, když je den, a jako by byla noc, když je soumrak."
+"Jednotky na sousedních polích budou bojovat ve dne jako za soumraku a za "
+"soumraku jako v noci."
 
 #. [illuminates]: id=obfuscation
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:257
-#, fuzzy
 msgid "obfuscates"
-msgstr "obfuscates"
+msgstr "zatmavuje"
 
 #. [illuminates]: id=obfuscation
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:258
-#, fuzzy
 msgid ""
 "This unit obfuscates the surrounding area, making chaotic units fight much "
 "better, and lawful units fight much worse."
 msgstr ""
-"Tato jednotka zatemňuje okolí, takže chaotické jednotky bojují mnohem lépe a "
-"zákonné jednotky mnohem hůře."
+"Tato jednotka zatmaví okolní prostor, takže chaotické jednotky budou bojovat "
+"mnohem lépe a zákonné jednotky mnohem hůře."
 
 #. [skirmisher]: id=nightskirmish
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:267
-#, fuzzy
 msgid "nightskirmish"
-msgstr "nightskirmish"
+msgstr "noční průbojnost"
 
 #. [skirmisher]: id=nightskirmish
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:268
-#, fuzzy
 msgid "female^nightskirmish"
-msgstr "fena^nightskirmish"
+msgstr "noční průbojnost"
 
 #. [skirmisher]: id=nightskirmish
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:269
-#, fuzzy
 msgid ""
 "This unit is skilled in moving past enemies quickly and ignores all enemy "
 "Zones of Control, but only at night."
 msgstr ""
-"Tato jednotka se umí rychle pohybovat kolem nepřátel a ignoruje všechny "
-"nepřátelské kontrolní zóny, ale pouze v noci."
+"Tato jednotka se umí rychle pohybovat kolem nepřátel a ignoruje všechny "
+"jejich oblasti kontroly, ale pouze v noci."
 
 #. [dummy]: id=terror
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:283
