@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 15:07-0500\n"
-"PO-Revision-Date: 2024-06-02 10:45+0200\n"
+"PO-Revision-Date: 2024-06-05 23:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4447,31 +4447,31 @@ msgstr "Fóra"
 #. this is on a button that opens the Wesnoth Discord server webpage
 #: data/gui/window/game_version.cfg:650
 msgid "Discord"
-msgstr ""
+msgstr "Discord"
 
 #. [button]: id=irc
 #. this is on a button that opens the Wesnoth IRC webpage. IRC is an acronym for Internet Relay Chat
 #: data/gui/window/game_version.cfg:669
 msgid "IRC"
-msgstr ""
+msgstr "IRC"
 
 #. [button]: id=steam
 #. this is on a button that opens the Wesnoth Steam forums webpage
 #: data/gui/window/game_version.cfg:688
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. [button]: id=reddit
 #. this is on a button that opens the Wesnoth Reddit webpage
 #: data/gui/window/game_version.cfg:707
 msgid "Reddit"
-msgstr ""
+msgstr "Reddit"
 
 #. [button]: id=donate
 #. this is on a button that opens the Wesnoth SPI webpage for sending donations
 #: data/gui/window/game_version.cfg:726
 msgid "Donate"
-msgstr ""
+msgstr "Darovat"
 
 #. [label]: id=description
 #: data/gui/window/game_version.cfg:822
@@ -4508,7 +4508,7 @@ msgstr "Vymakávky"
 #. [grid]
 #: data/gui/window/game_version.cfg:881 data/gui/window/title_screen.cfg:261
 msgid "Community"
-msgstr ""
+msgstr "Komunita"
 
 #. [button]: id=credits
 #: data/gui/window/game_version.cfg:935
@@ -4627,6 +4627,9 @@ msgid ""
 "interface and in-game help only. More complete stats, including details for "
 "each campaign, are available at the following page:"
 msgstr ""
+"<b>Poznámka:</b> Uvedené procentní podíly překladu se vztahují pouze na "
+"základní rozhraní hry a nápovědu ve hře. Úplnější statistiky, včetně "
+"podrobností pro jednotlivá tažení, jsou k dispozici na následující stránce:"
 
 #. [label]
 #. Beneath the label widget displaying this text there is a widget displaying
