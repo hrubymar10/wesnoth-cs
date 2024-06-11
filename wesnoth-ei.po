@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-10 03:42 UTC\n"
-"PO-Revision-Date: 2024-06-03 21:37+0200\n"
+"PO-Revision-Date: 2024-06-11 22:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9016,11 +9016,9 @@ msgstr ""
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1256
-#, fuzzy
-#| msgid "Capture villages and build up an army before attacking."
 msgid ""
 "It may be wise to capture villages and build up an army before attacking."
-msgstr "Před útokem se zmocni vesnic a vybuduj armádu."
+msgstr "Před útokem může být rozumné obsadit vesnice a vybudovat armádu."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1264
