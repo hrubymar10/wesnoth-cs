@@ -9,17 +9,14 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-ei | 1839 | 88% | 212 |
-wesnoth-help | 707 | 99% | 4 | Michal
-wesnoth-l | 436 | 99% | 1 | Michal
 wesnoth-lib | 1630 | 99% | 13 | Michal
 wesnoth-manpages | 316 | 97% | 9 | Michal
-wesnoth-units | 834 | 99% | 4 | Michal
 
-Total messages remaining: **243**
+Total messages remaining: **234**
 
-Progress since 2024-05-27: **3** messages per day
+Progress since 2024-05-27: **2** messages per day
 
-ETA: **2024-08-28**
+ETA: **2024-10-11**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
@@ -27,4 +24,4 @@ There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=lan
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-A_New_Order | 3271 | 86% | 433 | Septim
-wesnoth-The_Earths_Gut | 1565 | 22% | 1213 | Septim
+wesnoth-The_Earths_Gut | 1565 | 24% | 1177 | Septim
