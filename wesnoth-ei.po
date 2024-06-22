@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-17 15:24 UTC\n"
-"PO-Revision-Date: 2024-06-21 23:54+0200\n"
+"PO-Revision-Date: 2024-06-22 09:52+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3656,6 +3656,8 @@ msgid ""
 "Move Owaec next to Yannic, and then protect Yannic until you move any unit "
 "to the northern path (bonus item next scenario)"
 msgstr ""
+"Přesuň Owaeca vedle Yannica a pak Yannica chraň, dokud nepřesuneš jakoukoli "
+"jednotku na severní cestu (v dalším scénáři předmět navíc)"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:520
@@ -3663,6 +3665,8 @@ msgid ""
 "Protect Yannic until you move any unit to the northern path (bonus item next "
 "scenario)"
 msgstr ""
+"Chraň Yannica, dokud nepřesuneš kteroukoli jednotku na severní cestu "
+"(v dalším scénáři předmět navíc)"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:555
@@ -4521,6 +4525,10 @@ msgid ""
 "\n"
 "<i>Part II: The Wildlands </i></span>"
 msgstr ""
+"<span font_family='Oldania ADF Std' size='90000'>\n"
+"\n"
+"\n"
+"<i>Část II: Divočina </i></span>"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:35
@@ -13891,12 +13899,3 @@ msgid ""
 "from their time in captivity, but have also learned much of the strengths "
 "and weaknesses of their former captors."
 msgstr ""
-
-#~ msgid "Move Owaec next to Yannic."
-#~ msgstr "Přesuň Owaeca vedle Yannica."
-
-#~ msgid "Keep Yannic alive (bonus reward)."
-#~ msgstr "Udrž Yannica naživu (odměna navíc)."
-
-#~ msgid "<b><span color='#00cc99'>Part II: The Wildlands</span></b>"
-#~ msgstr "<b><span color='#00cc99'>Část II: Divočina</span></b>"
