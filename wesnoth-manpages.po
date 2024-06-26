@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 15:07-0500\n"
-"PO-Revision-Date: 2024-06-17 23:49+0200\n"
+"PO-Revision-Date: 2024-06-26 21:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -456,19 +456,15 @@ msgstr "B<--log-strict>I<\\ úroveň>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:166
-#, fuzzy
-#| msgid ""
-#| "sets the strict level of the logger. Any messages sent to log domains of "
-#| "this level or more severe will cause the unit test to fail regardless of "
-#| "the victory result. Only relevant when used with B<-u>."
 msgid ""
 "sets the strict I<level> of the logger. Any messages sent to log domains of "
 "this I<level> or more severe will cause the unit test to fail regardless of "
 "the victory result. Only relevant when used with B<-u>."
 msgstr ""
-"nastaví úroveň přísnosti pro zaznamenávání. Jakékoli zprávy poslané oblastem "
-"zaznamenávání s touto nebo závažnější úrovní způsobí, že test součástí selže "
-"bez ohledu na vítězný výsledek. Má smysl pouze při použití s B<-u>."
+"nastaví I<úroveň> přísnosti pro zaznamenávání. Jakékoli zprávy poslané "
+"oblastem zaznamenávání s touto nebo závažnější I<úrovní> způsobí, že test "
+"součástí selže bez ohledu na vítězný výsledek. Má smysl pouze při použití "
+"s B<-u>."
 
 # type: TP
 #. type: TP
@@ -1069,14 +1065,6 @@ msgstr "B<--userconfig-dir>I<\\ název>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:366
-#, fuzzy
-#| msgid ""
-#| "sets the userdata directory to I<name> under $HOME or \"My Documents\\eMy "
-#| "Games\" for windows.  You can also specify an absolute path for the "
-#| "userdata directory outside the $HOME or \"My Documents\\eMy Games\". On "
-#| "Windows it is also possible to specify a directory relative to the "
-#| "process working directory by using path starting with \".\\e\" or \".."
-#| "\\e\"."
 msgid ""
 "sets the user configuration directory to I<name> under $HOME or \"My "
 "Documents\\eMy Games\" for windows.  You can also specify an absolute path "
@@ -1085,11 +1073,12 @@ msgid ""
 "the process working directory by using path starting with \".\\e\" or \".."
 "\\e\".  This defaults to the userdata path."
 msgstr ""
-"nastaví I<název> adresáře s uživatelskými daty v $HOME, nebo pro Windows "
-"v „My Documents\\eMy Games“. Pro adresář s uživatelskými daty můžeš také "
+"nastaví I<název> adresáře s uživatelským nastavením v $HOME, nebo pro "
+"Windows v „My Documents\\eMy Games“. Pro adresář s nastavením můžeš také "
 "určit absolutní cestu mimo $HOME nebo „My Documents\\eMy Games“. Na Windows "
 "je kromě toho možné zadat adresář relativně k pracovnímu adresáři procesu "
-"užitím cesty, která začíná na „.\\e“ nebo „..\\e“."
+"užitím cesty, která začíná na „.\\e“ nebo „..\\e“. Výchozí hodnotou je cesta "
+"k uživatelským datům."
 
 # type: TP
 #. type: TP
@@ -2526,24 +2515,6 @@ msgstr ""
 #: doc/man/wesnothd.6:287
 msgid "B<wesnoth>(6)"
 msgstr "B<wesnoth>(6)"
-
-#~ msgid ""
-#~ "sets the user configuration directory to I<name> under $HOME or \"My "
-#~ "Documents\\eMy Games\" for windows.  You can also specify an absolute "
-#~ "path for the configuration directory outside the $HOME or \"My "
-#~ "Documents\\eMy Games\". On Windows it is also possible to specify a "
-#~ "directory relative to the process working directory by using path "
-#~ "starting with \".\\e\" or \"..\\e\".  Under X11 this defaults to "
-#~ "$XDG_CONFIG_HOME or $HOME/.config/wesnoth, on other systems to the "
-#~ "userdata path."
-#~ msgstr ""
-#~ "nastaví I<název> adresáře s uživatelským nastavením v $HOME, nebo pro "
-#~ "Windows v „My Documents\\eMy Games“. Pro adresář s nastavením můžeš také "
-#~ "určit absolutní cestu mimo $HOME nebo „My Documents\\eMy Games“. Na "
-#~ "Windows je kromě toho možné zadat adresář relativně k pracovnímu adresáři "
-#~ "procesu užitím cesty, která začíná na „.\\e“ nebo „..\\e“. Pod X11 je "
-#~ "výchozím adresářem $XDG_CONFIG_HOME nebo $HOME/.config/wesnoth, na jiných "
-#~ "systémech je to cesta k uživatelským datům."
 
 # type: TP
 #, no-wrap
