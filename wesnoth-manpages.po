@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 15:07-0500\n"
-"PO-Revision-Date: 2024-06-26 21:23+0200\n"
+"PO-Revision-Date: 2024-06-27 20:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1625,14 +1625,9 @@ msgstr "wesnothd – Bitva o B<Wesnoth> – síťový server pro hru více hr�
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:32
-#, fuzzy
-#| msgid ""
-#| "B<wesnothd> [\\|B<-dv>\\|] [\\|B<-c> I<path>\\|] [\\|B<-p> I<port>\\|] "
-#| "[\\|B<-t> I<number>\\|] [\\|B<-T> I<number>\\|]"
 msgid "B<wesnothd> [\\|B<-dvw>\\|] [\\|B<-c> I<path>\\|] [\\|B<-p> I<port>\\|]"
 msgstr ""
-"B<wesnothd> [\\|B<-dv>\\|] [\\|B<-c> I<cesta>\\|] [\\|B<-p> I<port>\\|] [\\|"
-"B<-t> I<počet_vláken>\\|] [\\|B<-T> I<počet_vláken>\\|]"
+"B<wesnothd> [\\|B<-dvw>\\|] [\\|B<-c> I<cesta>\\|] [\\|B<-p> I<port>\\|]"
 
 # type: Plain text
 #. type: Plain text
@@ -1869,12 +1864,6 @@ msgstr "B<disallow_names>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:118
-#, fuzzy
-#| msgid ""
-#| "Names/nicks that are not accepted by the server. B<*> and B<?> from "
-#| "wildcard patterns are supported. See B<glob>(7)  for more details.  "
-#| "Default values (used if nothing is specified) are: B<*admin*,*admln*,"
-#| "*server*,ai,ai?,computer,human,network,player>."
 msgid ""
 "Names/nicks that are not accepted by the server. B<*> and B<?> from wildcard "
 "patterns are supported. See B<glob>(7)  for more details.  Default values "
@@ -1883,8 +1872,8 @@ msgid ""
 msgstr ""
 "Jména/přezdívky, jež server nepřijímá. Podporovány jsou zástupné znaky B<*> "
 "a B<?>. Pro více podrobností viz B<glob>(7). Výchozí hodnoty (použité, když "
-"není nic určeno) jsou: B<*admin*,*admln*,*server*,ai,ai?,computer,human,"
-"network,player>."
+"není nic určeno) jsou: B<*admin*,*admln*,*moderator*,*server*,ai,ai?,"
+"computer,human,network,player>."
 
 # type: TP
 #. type: TP
@@ -2372,16 +2361,12 @@ msgstr "B<db_game_content_info_table>"
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:245
-#, fuzzy
-#| msgid ""
-#| "The name of the table in which wesnothd will save its own data about the "
-#| "modifications used in a game."
 msgid ""
 "The name of the table in which wesnothd will save its own data about game "
 "content (scenario/era/modifications) used in a game."
 msgstr ""
-"Název tabulky, do které bude wesnothd ukládat svá vlastní data "
-"o modifikacích použitých ve hře."
+"Název tabulky, do které bude wesnothd ukládat svá vlastní data o herním "
+"obsahu (scénáři/éře/modifikacích) použitém ve hře."
 
 # type: TP
 #. type: TP
