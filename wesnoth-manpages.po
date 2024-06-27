@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-26 15:07-0500\n"
-"PO-Revision-Date: 2024-06-27 20:26+0200\n"
+"PO-Revision-Date: 2024-06-27 20:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2400,6 +2400,8 @@ msgid ""
 "The SQL query to find tournaments to announce on login. Should return "
 "tournament B<title>, B<status> and B<url>."
 msgstr ""
+"SQL dotaz na vyhledání turnajů, které se mají vypsat při přihlášení. Měl by "
+"vrátit B<název>, B<stav> a B<url> turnaje."
 
 # type: TP
 #. type: TP
