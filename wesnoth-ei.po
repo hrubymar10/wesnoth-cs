@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-10 03:42 UTC\n"
-"PO-Revision-Date: 2024-06-13 22:06+0200\n"
+"PO-Revision-Date: 2024-06-29 11:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1930,10 +1930,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:559
-#, fuzzy
 msgid "<i>(herbs are spread in all directions around your starting keep)</i>"
-msgstr ""
-"<i>(byliny jsou rozmístěny ve všech směrech kolem vaší výchozí chaty)</i>"
+msgstr "<i>(byliny jsou rozšířeny do všech stran kolem tvé výchozí tvrze)</i>"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:573
@@ -9364,102 +9362,92 @@ msgstr "Je mi... ...<i>zima</i>."
 #. [message]: speaker=Gweddry
 #. spoken at the start of a new turn after killing the first undead leader
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2031
-#, fuzzy
 msgid ""
 "Dacyn, I’ve been thinking. This artifact has had such a draining effect on "
 "you. Perhaps you should rest and take a moment to regain your strength? I "
 "could carry the Amulet for a while, or we could store it away."
 msgstr ""
-"Dacyn, přemýšlel jsem. Ten artefakt na tebe měl tak vyčerpávající vliv. "
-"Možná by sis měla odpočinout a na chvíli nabrat sílu? Mohl bych amulet "
-"nějakou dobu nosit, nebo bychom ho mohli uložit."
+"Dacyne, přemýšlel jsem. Ten artefakt na tebe měl tak vyčerpávající vliv. "
+"Možná by sis měl odpočinout a dát si čas, abys znovu získal svou sílu? Mohl "
+"bych amulet nějakou dobu nosit, nebo bychom ho mohli uložit."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2035
-#, fuzzy
 msgid ""
 "Hmm... I suppose there would be no harm in locking it up somewhere safe."
-msgstr "Hmm... Předpokládám, že by nebylo na škodu ho někam bezpečně zamknout."
+msgstr "Hmm... Připouštím, že by nebylo na škodu někde ho bezpečně uzamknout."
 
 #. [message]
 #. voices from the amulet talking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2041
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>You have a great weapon... and you "
 "would simply lock it away?</span>"
 msgstr ""
-"<span size='small' font-style='italic'>Máš skvělou zbraň... a ty bys ji "
-"jednoduše zamkl? </span>"
+"<span size='small' font-style='italic'>Máš skvělou zbraň... a ty bys ji "
+"jednoduše zavřel na zámek? </span>"
 
 #. [message]
 #. voices from the amulet talking to Dacyn, speaking of Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2047
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>His intent is good, but his spirit is "
 "weak... he would be corrupted...</span>"
 msgstr ""
 "<span size='small' font-style='italic'>Jeho úmysl je dobrý, ale jeho duch je "
-"slabý... byl by zkažený...</span>"
+"slabý... zkazil by se...</span>"
 
 #. [message]
 #. voices from the amulet talking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2053
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>Only you can be trusted with this "
 "responsibility.</span>"
 msgstr ""
-"<span size='small' font-style='italic'>Tuto odpovědnost lze svěřit pouze vám."
-"</span>"
+"<span size='small' font-style='italic'>Tuto odpovědnost lze svěřit pouze "
+"tobě.</span>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2057
-#, fuzzy
 msgid ""
 "But on the other hand... this is a dangerous artifact. I fear that only I "
 "can withstand its energies."
 msgstr ""
 "Ale na druhou stranu... je to nebezpečný artefakt. Obávám se, že jen já "
-"dokážu odolat jeho energii."
+"dokážu odolat jeho silám."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2061
-#, fuzzy
 msgid "Well, you’re the magic expert."
-msgstr "No, ty jsi expert na kouzla."
+msgstr "No, ty jsi odborník na kouzla."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2075
-#, fuzzy
 msgid ""
 "We must finish here and hurry on from this dead place! If the Horse Clans "
 "have fallen so completely, I fear for Weldyn and the rest of Wesnoth."
 msgstr ""
-"Musíme skončit a rychle opustit toto mrtvé místo! Jestli se koňské klany tak "
-"úplně zhroutily, bojím se o Weldina a zbytek Wesnothu."
+"Musíme tady přestat mluvit a rychle opustit toto mrtvé místo! Jestli koňské "
+"klany tak naprosto podlehly, bojím se o Weldin a zbytek Wesnothu."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2079
-#, fuzzy
 msgid ""
 "Why are we here at all? We should be advancing towards Weldyn, not humoring "
 "Owaec’s lust for vengeance. The Plains are already drowned."
 msgstr ""
-"Proč tu vůbec jsme? Měli bychom postupovat směrem k Weldinu, a ne "
-"uspokojovat Owaecovu touhu po pomstě. Pláně jsou už utopené."
+"Proč tu vůbec jsme? Měli bychom postupovat směrem k Weldinu, a ne se "
+"podvolovat Owaecově touze po pomstě. Pláně jsou už zatopené."
 
 #. [message]: speaker=Dacyn
 #. time over, talking to Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2088
-#, fuzzy
 msgid ""
 "Enough of this. We have wasted too much time here already; give up your "
 "foolish quest of vengeance and travel on."
 msgstr ""
-"Už toho bylo dost. Už jsme tu ztratili příliš mnoho času; vzdejte se své "
-"pošetilé touhy po pomstě a pokračujte v cestě."
+"To stačilo. Už jsme tu ztratili příliš mnoho času. Vzdej se své pošetilé "
+"touhy po pomstě a pokračuj v cestě."
 
 #. [message]: speaker=Owaec
 #. time over, talking to Dacyn
