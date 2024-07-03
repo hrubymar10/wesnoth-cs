@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-17 15:24 UTC\n"
-"PO-Revision-Date: 2024-07-02 22:31+0200\n"
+"PO-Revision-Date: 2024-07-03 22:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9577,15 +9577,14 @@ msgstr "Návrat do Wesnothu"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:17
-#, fuzzy
 msgid ""
 "Leaving the rotting Horse Plains far behind, Gweddry, Owaec, and Dacyn "
 "marched hurriedly towards Weldyn, capital of Wesnoth. They dreaded what they "
 "might find there..."
 msgstr ""
-"Gweddry, Owaec a Dacyn nechali hnijící Koňské pláně daleko za sebou a spěšně "
-"se vydali k Weldynu, hlavnímu městu Wesnothu. Děsili se toho, co by tam "
-"mohli najít..."
+"Gweddry, Owaec a Dacyn nechali hnijící Koňské pláně daleko za sebou a spěšně "
+"rázovali k Weldynu, hlavnímu městu Wesnothu. Děsili se toho, co by tam mohli "
+"najít..."
 
 #. [side]: type=General, id=Halrad
 #. [unit]: type=General, id=Halrad
@@ -9597,15 +9596,13 @@ msgstr "Halrad"
 
 #. [side]: type=General, id=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:79
-#, fuzzy
 msgid "Shield of Ana’sar"
-msgstr "Štít Ana'sar"
+msgstr "Štít Anasar"
 
 #. [side]: type=General, id=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:87
-#, fuzzy
 msgid "Carcyn’s Pride"
-msgstr "Carcyn's Pride"
+msgstr "Carcynova chlouba"
 
 #. [side]: type=Necromancer, id=Mal-un-Darak
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:176
@@ -9624,11 +9621,10 @@ msgstr "Mal-un-Xadrux"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:471
-#, fuzzy
 msgid ""
 "Lo and behold, the great city of Weldyn! Its walls still stand, thank the "
 "Light."
-msgstr "A hle, velké město Weldyn! Jeho hradby stále stojí, díky Světlu."
+msgstr "Hle, veliké město Weldyn! Jeho hradby stále stojí, díky Světlu."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:526
@@ -9660,16 +9656,14 @@ msgstr "Pak se musíme okamžitě probít do města! Pojďte muži, následujte 
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:721
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:902
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:12
-#, fuzzy
 msgid "Indoors"
-msgstr "Vnitřní prostory"
+msgstr "Uvnitř"
 
 #. [unit]: id=Aeraeka, type=Arch Mage, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:755
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:101
-#, fuzzy
 msgid "Aeraeka"
-msgstr "Aeraeka"
+msgstr "Ereka"
 
 #. [unit]: id=Halric, type=General
 #. [side]: type=General, id=Halric
@@ -9686,7 +9680,6 @@ msgstr "Denogyk"
 #. [message]: speaker=Aeraeka
 #. the council discusses the northern alliance
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:815
-#, fuzzy
 msgid ""
 "Well try again! It is absolutely imperative that we get a response from the "
 "Northerners."
@@ -9696,13 +9689,12 @@ msgstr ""
 
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:819
-#, fuzzy
 msgid ""
 "If help was coming, we would have heard about it by now. They’re either "
 "unwilling or unable to march. What we need to consider is-"
 msgstr ""
-"Kdyby přišla pomoc, už bychom o ní dávno slyšeli. Buď nechtějí, nebo nemohou "
-"pochodovat. Co musíme zvážit, je..."
+"Kdyby přicházela pomoc, už bychom o ní touto dobou slyšeli. Buď nechtějí, "
+"nebo nemohou pochodovat. Co musíme zvážit, je..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:823
