@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-03 22:12+0200\n"
+"PO-Revision-Date: 2024-07-04 23:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9971,9 +9971,8 @@ msgstr "Po... msta..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:957
-#, fuzzy
 msgid "Garard’s Hold"
-msgstr "Garard's Hold"
+msgstr "Garardova tvrz"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:958
@@ -10039,27 +10038,24 @@ msgstr ""
 
 #. [message]: speaker=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1037
-#, fuzzy
 msgid ""
 "Undead approach at the northern crossings. My forces are in position to "
 "engage the invaders."
 msgstr ""
-"Nemrtví se blíží k severním křižovatkám. Mé síly jsou na pozicích, aby "
-"útočníky napadly."
+"Nemrtví se blíží k severním křižovatkám. Mé jednotky jsou na pozicích, aby "
+"vetřelce napadly."
 
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1042
-#, fuzzy
 msgid "The southeastern bridges are secure; hostiles inbound."
-msgstr "Jihovýchodní mosty jsou zabezpečeny, nepřátelé jsou na cestě."
+msgstr "Jihovýchodní mosty jsou zabezpečeny. Nepřátelé přicházejí."
 
 #. [message]: speaker=Halrod
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1047
-#, fuzzy
 msgid ""
 "My fortifications are manned and ready. Brace for attack from the southwest."
 msgstr ""
-"Moje opevnění jsou obsazena a připravena. Připravte se na útok z jihozápadu."
+"Má opevnění jsou obsazena a připravena. Seberte síly na útok z jihozápadu."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1080
@@ -10068,17 +10064,16 @@ msgstr "Přichází noc a s ní i hordy nemrtvých. Jsem připraven."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1084
-#, fuzzy
 msgid "Let us show these undead the might of Wesnoth!"
 msgstr "Ukažme těmto nemrtvým sílu Wesnothu!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1088
-#, fuzzy
 msgid ""
 "And so it comes to this, here at what seems the end of days. Prepare for "
 "battle!"
-msgstr "A tak se zdá, že se blíží konec světa. Připravte se na bitvu!"
+msgstr ""
+"A tak zde dochází k tomu, co vypadá jako poslední dny. Připravte se k bitvě!"
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1134
