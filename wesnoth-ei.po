@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-04 23:19+0200\n"
+"PO-Revision-Date: 2024-07-05 23:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10077,36 +10077,33 @@ msgstr ""
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1134
-#, fuzzy
 msgid ""
 "So it is true, Owaec and Gweddry survived! When your forces had not returned "
 "to Wesnoth by winter I feared the worst. I am relieved to see you alive and "
 "well! This is the first good news I’ve heard of the war in quite some time."
 msgstr ""
-"Takže je to pravda, Owaec a Gweddry přežili! Když se vaše síly do zimy "
+"Takže je to pravda, Owaec a Gweddry přežili! Když se vaše síly do zimy "
 "nevrátily do Wesnothu, obával jsem se nejhoršího. Ulevilo se mi, když jsem "
-"vás viděl živé a zdravé! To je první dobrá zpráva, kterou jsem po dlouhé "
-"době o válce slyšel."
+"vás viděl živé a zdravé! To je první dobrá zpráva, kterou jsem po dlouhé "
+"době o válce slyšel."
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1138
-#, fuzzy
 msgid ""
 "I’m afraid my Soradoc company was nearly wiped out in the massacre at the "
 "Plains, but the few of us who remain place ourselves at your service!"
 msgstr ""
 "Obávám se, že moje soradocká rota byla při masakru na pláních téměř "
-"vyhlazena, ale těch pár z nás, kteří zůstali, je vám k službám!"
+"vyhlazena, ale těch pár z nás, kteří zůstali, je vám k službám!"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1242
-#, fuzzy
 msgid ""
 "So this is Weldyn? Didn’t know cities got this big. Never thought I’d end up "
 "fightin’ here, of all places."
 msgstr ""
 "Takže tohle je Weldyn? Nevěděl jsem, že města jsou tak velká. Nikdy jsem si "
-"nemyslel, že skončím v boji zrovna tady."
+"nemyslel, že skončím v boji zrovna tady."
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1254
@@ -10119,50 +10116,47 @@ msgstr ""
 
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1258
-#, fuzzy
 msgid ""
 "You tried to have me killed over a petty accident! I’m not going to grovel "
 "at your feet and suffer your abuse any more."
 msgstr ""
-"Chtěl jsi mě zabít kvůli malicherné nehodě! Už se ti nebudu plazit u nohou a "
-"trpět tvé urážky."
+"Chtěl jsi mě zabít kvůli drobné nehodě! Už se ti nebudu plazit u nohou "
+"a trpět tvé urážky."
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1270
-#, fuzzy
 msgid "For my fallen brothers at Soradoc and the Plains!"
-msgstr "Za své padlé bratry v Soradoku a na pláních!"
+msgstr "Za své padlé bratry v Soradoku a na pláních!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1292
-#, fuzzy
 msgid ""
 "My legacy will not be one of failure! With all the might of the throne of "
 "Wesnoth, I will strike you down!"
 msgstr ""
-"Mým odkazem nebude selhání! S veškerou silou trůnu Wesnothu tě srazím k zemi!"
+"Mým odkazem nebude žádné selhání! S veškerou silou trůnu Wesnothu tě srazím "
+"k zemi!"
 
 #. [message]: speaker=$found_unit.id
 #. one of the AI generals when the player takes their village
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1319
-#, fuzzy
 msgid ""
 "Sire, you are of course welcome to capture any of my villages if you need "
 "them, but please know that it will make it more difficult to heal my injured "
 "soldiers."
 msgstr ""
-"Pane, samozřejmě můžete obsadit kteroukoli z mých vesnic, pokud je budete "
+"Pane, samozřejmě můžete obsadit kteroukoli z mých vesnic, pokud je budete "
 "potřebovat, ale vězte, že to ztíží léčení mých zraněných vojáků."
 
 #. [message]: speaker=Konrad
 #. "light of dawn" is merely because it's that time of day
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1342
-#, fuzzy
 msgid ""
 "Stand strong, men of Wesnoth! Rally under the light of dawn, and drive the "
 "undead back!"
 msgstr ""
-"Buďte silní, muži Wesnothu! Shromážděte se za svítání a zažeňte nemrtvé zpět!"
+"Buďte silní, muži Wesnothu! Shromážděte se ve světle svítání a zažeňte "
+"nemrtvé zpět!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1354
