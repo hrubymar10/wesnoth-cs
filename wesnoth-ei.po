@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-14 22:04+0200\n"
+"PO-Revision-Date: 2024-07-15 23:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10160,31 +10160,27 @@ msgstr ""
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1354
-#, fuzzy
 msgid "Oh hello, am I interrupting something?"
 msgstr "Ahoj, neruším vás od něčeho?"
 
 #. [message]: speaker=Mal-Ravanal
 #. according to the turn counter, it's dawn; Mal-Ravanal is claiming to be able to control that
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1359
-#, fuzzy
 msgid ""
 "It’s been fun watching this little squabble unfold, but it’s time to move "
 "things along. Night will now fall, and the city with it."
 msgstr ""
-"Bylo zábavné sledovat, jak se tahle malá hádka vyvíjí, ale je čas pohnout s "
-"věcmi dál. Nyní nastane noc a s ní i město."
+"Bylo zábavné sledovat, jak se tahle malá hádka vyvíjí, ale je čas pohnout "
+"s věcmi dál. Nyní padne noc a s ní i město."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1365
-#, fuzzy
 msgid "Not if I stop you first! I defeated you before, and I will do so again!"
 msgstr ""
-"Ne, když tě zastavím první! Porazil jsem tě už předtím a udělám to znovu!"
+"Ne, když tě dřív zastavím! Porazil jsem tě už předtím a udělám to znovu!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1391
-#, fuzzy
 msgid ""
 "Ah Dacyn, picked up a few tricks, have we? But your understanding is a bit "
 "shallow. Observe how it is done."
@@ -10194,17 +10190,16 @@ msgstr ""
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1395
-#, fuzzy
 msgid ""
 "Bleed black, the fabric of firmament.\n"
 "Open wide, the maw of the darkness between worlds.\n"
 "Swallow the day and swallow the sun,\n"
 "And leave eternal night to remain."
 msgstr ""
-"Krvácí černě, tkanina pevnosti.\n"
-"Otevři dokořán tlamu temnoty mezi světy.\n"
-"Spolkni den a pohlť slunce,\n"
-"a nechat věčnou noc, aby zůstala."
+"Krvácejte černě, sloupy nebeské báně.\n"
+"Otevři se dokořán, tlamo temnoty mezi světy.\n"
+"Spolkni den a pohlť slunce,\n"
+"a zanech po sobě věčnou noc."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1476
