@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-17 15:24 UTC\n"
-"PO-Revision-Date: 2024-07-15 23:51+0200\n"
+"PO-Revision-Date: 2024-07-16 22:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10221,45 +10221,39 @@ msgstr ""
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1476
-#, fuzzy
 msgid "Dark scary! Not like!"
-msgstr "Temné děsivé! Ne jako!"
+msgstr "Tma děsná! Nerad!"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1480
-#, fuzzy
 msgid "What manner o’ dark sorcery be this?"
 msgstr "Co je to za temné kouzlo?"
 
 #. [message]: speaker=Gweddry
 #. as well as changing the time-of-day schedule, fog of war has just been enabled
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1491
-#, fuzzy
 msgid ""
 "I’m nearly blind in this fog, but I think the undead have been reinforced!"
-msgstr "Jsem v té mlze skoro slepý, ale myslím, že nemrtví byli posíleni!"
+msgstr "Jsem v té mlze skoro slepý, ale myslím, že nemrtvým přišly posily!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1503
-#, fuzzy
 msgid ""
 "This cursed fog has clouded my sight, but I think I hear the sounds of "
 "reinforcing undead!"
 msgstr ""
-"Ta prokletá mlha mi zakryla zrak, ale myslím, že slyším zvuky posilujících "
-"nemrtvých!"
+"Ta prokletá mlha mi zastřela zrak, ale myslím, že slyším, jak nemrtví "
+"nabývají na síle!"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1510
-#, fuzzy
 msgid "Look sharp; they’re reinforcing under the cover of fog."
-msgstr "Dívejte se ostře; posilují pod rouškou mlhy."
+msgstr "Napněte oči. Pod rouškou mlhy sbírají posily."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1518
-#, fuzzy
 msgid "By the light of all that is holy, we must not fail!"
-msgstr "Ve světle všeho svatého nesmíme selhat!"
+msgstr "Ve světle všeho, co je svaté, nesmíme selhat!"
 
 #. [message]: speaker=Dacyn
 #. speaker is one of the voices from the amulet, speaking to Dacyn
