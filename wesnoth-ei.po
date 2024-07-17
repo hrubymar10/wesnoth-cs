@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-17 15:24 UTC\n"
-"PO-Revision-Date: 2024-07-17 21:50+0200\n"
+"PO-Revision-Date: 2024-07-17 23:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10258,65 +10258,58 @@ msgstr "Ve světle všeho, co je svaté, nesmíme selhat!"
 #. [message]: speaker=Dacyn
 #. speaker is one of the voices from the amulet, speaking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1542
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>You see? Mal-Ravanal has grown too "
 "powerful. Wesnoth is helpless!</span>"
 msgstr ""
-"<span size='small' font-style='italic'>Vidíte? Mal-Ravanal příliš zesílil. "
+"<span size='small' font-style='italic'>Vidíš? Mal-Ravanal příliš zesílil. "
 "Wesnoth je bezmocný!</span>"
 
 #. [message]: speaker=Dacyn
 #. speaker is one of the voices from the amulet, speaking to Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1549
-#, fuzzy
 msgid ""
 "<span size='small' font-style='italic'>Use the Amulet. There is no other "
 "way! Use us!</span>"
 msgstr ""
-"<span size='small' font-style='italic'>Použijte amulet. Jiný způsob "
-"neexistuje! Použijte nás!</span>"
+"<span size='small' font-style='italic'>Použij amulet. Jiný způsob "
+"neexistuje! Použij nás!</span>"
 
 #. [message]: speaker=Dacyn
 #. after this, Dacyn gets unpoisonable, undrainable, unplagueable and changes to a Fallen Mage
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1554
-#, fuzzy
 msgid ""
 "I must... defeat Ravan! I must be strong enough to stand alone... I alone "
 "must wield this fullness of power!"
 msgstr ""
-"Musím... porazit Ravana! Musím být dost silný, abych se postavil sám... Já "
-"sám musím vládnout touto plnou mocí!"
+"Musím... porazit Ravana! Musím být dost silný, abych sám obstál... Já sám "
+"musím vládnout touto velikou mocí!"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1613
-#, fuzzy
 msgid "Careful! They’re regrouping for another wave."
-msgstr "Pozor! Přeskupují se na další vlnu."
+msgstr "Pozor! Přeskupují se k další vlně útoků."
 
 #. [message]: speaker=Terraent
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1654
-#, fuzzy
 msgid ""
 "The first rays of the blessed dawn pierce through the fog! The lich’s foul "
 "spell begins to fail!"
 msgstr ""
-"Mlhou pronikají první paprsky požehnaného úsvitu! Lchovo odporné kouzlo "
+"Mlhou pronikají první paprsky požehnaného úsvitu! Lichovo odporné kouzlo "
 "začíná selhávat!"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1666
-#, fuzzy
 msgid ""
 "Take heart, for victory is near at hand! The first rays of sunlight have "
 "pierced through Mal-Ravanal’s night fog."
 msgstr ""
-"Vezměte si odvahu, protože vítězství je blízko! První sluneční paprsky "
-"pronikly noční mlhou Mal-Ravanalu."
+"Seberte odvahu, protože vítězství je na dosah ruky! První sluneční paprsky "
+"pronikly noční mlhou Mal-Ravanala."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1678
-#, fuzzy
 msgid ""
 "Look, the first rays of sunlight have pierced through the fog! Mal-Ravanal’s "
 "spell has begun to fail. I only wish Owaec were here to see it..."
@@ -10327,80 +10320,70 @@ msgstr ""
 #. [message]: speaker=Dacyn
 #. Gweddry and Owaec are dead during this scenario, and Terraent isn't here either
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1685
-#, fuzzy
 msgid ""
 "The sun has pierced through the night’s fog; Mal-Ravanal’s spell begins to "
 "wane. I need neither Gweddry nor Owaec. I will finish this battle on my own."
 msgstr ""
-"Slunce proniklo noční mlhou a Mal-Ravanalovo kouzlo začíná slábnout. "
+"Slunce proniklo noční mlhou a Mal-Ravanalovo kouzlo začíná slábnout. "
 "Nepotřebuji ani Gweddryho, ani Owaeca. Tuhle bitvu dokončím sám."
 
 #. [message]: speaker=Dacyn
 #. any undead unit from side 5 (except the leader) that was within 3 hexes of a living unit has died
 #. followed immediately after this line by similar for sides 6 and 7.
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1723
-#, fuzzy
 msgid ""
 "Mal-Ravanal’s necromancers have overexerted themselves. They are struggling "
 "to maintain all their minions."
 msgstr ""
-"Mal-Ravanalovi nekromanti to přehnali. Snaží se udržet všechny své "
-"přisluhovače."
+"Mal-Ravanalovi nekromanti se přetížili. Zápasí s tím, aby udrželi všechny "
+"své přisluhovače."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1764
-#, fuzzy
 msgid "The undead are falling back! Thank the Light; it’s finally over."
-msgstr "Nemrtví ustupují! Díky Světlu, konečně je konec."
+msgstr "Nemrtví ustupují! Díky Světlu, konečně je po všem."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1776
-#, fuzzy
 msgid "Gweddry has not died in vain; the undead resolve is broken!"
-msgstr "Gweddry nezemřel zbytečně, nemrtvé odhodlání je zlomeno!"
+msgstr "Gweddry nezemřel zbytečně, odhodlání nemrtvých je zlomeno!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1782
-#, fuzzy
 msgid "At last, the undead end their assault."
-msgstr "Nemrtví konečně ukončí svůj útok."
+msgstr "Konečně, nemrtví zastavují svůj útok."
 
 #. [message]: speaker=Konrad
 #. the scenario doesn't let the player move Konrad away from his castle
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1818
-#, fuzzy
 msgid "I will not abandon my post!"
-msgstr "Svůj příspěvek neopustím!"
+msgstr "Svou základnu neopustím!"
 
 #. [message]: speaker=narrator
 #. plaque on a statue
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1835
-#, fuzzy
 msgid "<i>Haldric the First, Dragonslayer, first king of Wesnoth.</i>"
-msgstr "<i>Haldric První, Drakobijec, první král Wesnothu.</i>"
+msgstr "<i>Haldrik První, Drakobijec, první král Wesnothu.</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1840
-#, fuzzy
 msgid ""
 "My father was named after him, and the royal sceptre hails from his line. "
 "Sadly, the histories say that he became paranoid in his old age."
 msgstr ""
-"Můj otec se jmenoval po něm a královské žezlo pochází z jeho rodu. Historie "
-"bohužel říká, že se ve stáří stal paranoidním."
+"Můj otec se jmenoval po něm a královské žezlo pochází z jeho rodu. Historie "
+"bohužel říká, že se ve stáří stal chorobně podezíravým."
 
 #. [message]: speaker=narrator
 #. plaque on a statue
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1852
-#, fuzzy
 msgid "<i>Delfador the Great, sage of Wesnoth, restorer of the throne.</i>"
 msgstr "<i>Delfador Veliký, mudrc Wesnothu, obnovitel trůnu.</i>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1857
-#, fuzzy
 msgid "My predecessor, ‘the Great’. I intend to be greater."
-msgstr "Můj předchůdce, \"Velký\". Mám v úmyslu být větší."
+msgstr "Můj předchůdce, „Veliký“. Mám v úmyslu být větší."
 
 #. [message]: speaker=Mel Guthrak
 #. last breath of Mel Guthrak
