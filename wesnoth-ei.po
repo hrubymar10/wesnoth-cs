@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-17 22:56+0200\n"
+"PO-Revision-Date: 2024-07-18 23:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10370,25 +10370,22 @@ msgstr "Můj předchůdce, „Veliký“. Mám v úmyslu být větší."
 #. [message]: speaker=Mel Guthrak
 #. last breath of Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1870
-#, fuzzy
 msgid "Wha- but how?"
-msgstr "Co- ale jak?"
+msgstr "Což— ale jak?"
 
 #. [message]: speaker=Gaennell
 #. last breath of Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1875
-#, fuzzy
 msgid "Good riddance..."
-msgstr "Dobře, že se zbavil..."
+msgstr "Konečně je po něm..."
 
 #. [message]: speaker=Halrod
 #. [message]: speaker=Halrad
 #. last breath of Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1880
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1922
-#, fuzzy
 msgid "Impressive tactics! I’ll begin redeploying towards other threats."
-msgstr "Působivá taktika! Začnu se přesouvat k dalším hrozbám."
+msgstr "Působivá taktika! Začnu s přesunem k dalším hrozbám."
 
 #. [message]: speaker=Nakeg-alvan
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1890
@@ -10399,14 +10396,12 @@ msgstr "Plýtváte... svou snahou..."
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1894
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1932
-#, fuzzy
 msgid ""
 "Well done! This will free my soldiers to defend other sectors of the city."
-msgstr "Výborně! Tím uvolním své vojáky k obraně dalších částí města."
+msgstr "Výborně! Tohle uvolní mé vojáky k obraně dalších částí města."
 
 #. [message]: speaker=Nalu-alvan
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1904
-#, fuzzy
 msgid "Your victory... is meaningless..."
 msgstr "Vaše vítězství... je bezvýznamné..."
 
@@ -10414,7 +10409,6 @@ msgstr "Vaše vítězství... je bezvýznamné..."
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1908
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1946
-#, fuzzy
 msgid "Excellent work! I’ll send my soldiers to the other fronts."
 msgstr "Výborná práce! Pošlu své vojáky na ostatní fronty."
 
