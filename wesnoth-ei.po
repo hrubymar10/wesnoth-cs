@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-18 23:15+0200\n"
+"PO-Revision-Date: 2024-07-19 23:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10435,48 +10435,44 @@ msgstr "Gráhhh..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2015
-#, fuzzy
 msgid ""
 "Huzzah! Even Mal-Ravanal’s infernal darkness could not dim the spirits of "
 "our men! My friends, we have won a great victory today."
 msgstr ""
-"Huzzah! Ani pekelná temnota Mal-Ravanalu nedokázala zatemnit ducha našich "
-"mužů! Přátelé, dnes jsme dosáhli velkého vítězství."
+"Hurá! Ani pekelná temnota Mal-Ravanala nedokázala oslabit ducha našich mužů! "
+"Přátelé, dnes jsme dosáhli velkého vítězství."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2019
-#, fuzzy
 msgid ""
 "Now we must press our advantage! Let us strike the undead while they are in "
 "disarray and banish Mal-Ravanal’s dark soul once and for all!"
 msgstr ""
-"Nyní musíme svou převahu zúročit! Udeřme na nemrtvé, dokud jsou v nepořádku, "
-"a vyžeňme Mal-Ravanalovu temnou duši jednou provždy!"
+"Nyní musíme svou převahu zúročit! Udeřme na nemrtvé, dokud jsou ve zmatku, "
+"a vyžeňme Mal-Ravanalovu temnou duši jednou provždy!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2023
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2081
-#, fuzzy
 msgid ""
 "I will not put the fate of all Irdya in the hands of a vengeful Clansman and "
 "Weldyn’s tattered armies. I must face Mal-Ravanal in a duel, and I must be "
 "the one to strike the infernal lich down! I will trust none other than "
 "myself with such responsibility."
 msgstr ""
-"Nevložím osud celé Irdye do rukou pomstychtivého klanu a Weldynovy roztrhané "
-"armády. Musím se utkat s Mal-Ravanalem v souboji a musím to být já, kdo toho "
-"pekelného licha srazí k zemi! Takovou zodpovědnost nesvěřím nikomu jinému "
-"než sobě."
+"Nevložím osud celé Irdye do rukou pomstychtivého člena klanu a trosek armád "
+"Weldynu. Musím se utkat s Mal-Ravanalem v souboji a musím to být já, kdo "
+"toho pekelného licha srazí k zemi! Takovou zodpovědnost nesvěřím nikomu "
+"jinému než sobě."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2027
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2148
-#, fuzzy
 msgid ""
 "Both of you alike speak wisdom. This is a difficult decision, and I have "
 "little time in which to make it."
 msgstr ""
-"Oba dva mluvíte stejně moudře. Je to těžké rozhodnutí a mám na něj málo času."
+"Oba dva mluvíte stejně moudře. Je to těžké rozhodnutí a mám na něj málo času."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2031
@@ -10497,8 +10493,7 @@ msgstr "Myslím, že bychom měli..."
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2091
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2154
 msgid "challenge Mal-Ravanal to a duel. <i>(normal)</i>"
-msgstr ""
-"zvolit <i>(středně obtížnou)</i> možnost a vyzvat Mal-Ravanala na souboj."
+msgstr "vyzvat Mal-Ravanala na souboj. <i>(středně obtížné)</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2041
@@ -10510,7 +10505,7 @@ msgstr "Souhlasím. Dacyne, okamžitě odešli vzkaz."
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2105
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2168
 msgid "defeat Mal-Ravanal in pitched battle. <i>(challenging)</i>"
-msgstr "zvolit <i>(náročnou)</i> možnost a porazit Mal-Ravanala v přímé bitvě."
+msgstr "porazit Mal-Ravanala v divoké bitvě. <i>(náročné)</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2055
@@ -10519,47 +10514,42 @@ msgstr "Souhlasím. Owaecu, začni připravovat naše armády."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2073
-#, fuzzy
 msgid ""
 "Huzzah! Even Mal-Ravanal’s infernal darkness could not dim the spirits of "
 "our men! My friends, we have won a great victory today. Alas, if only "
 "Gweddry were here..."
 msgstr ""
-"Huzzah! Ani pekelná temnota Mal-Ravanalu nedokázala zatemnit ducha našich "
-"mužů! Přátelé, dnes jsme dosáhli velkého vítězství. Bohužel, kéž by tu byl "
-"Gweddry..."
+"Hurá! Ani pekelná temnota Mal-Ravanala nedokázala oslabit ducha našich mužů! "
+"Přátelé, dnes jsme dosáhli velkého vítězství. Běda, kéž by tu byl Gweddry..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2077
-#, fuzzy
 msgid ""
 "... I am certain he would tell us to muster our resolve and regroup to press "
 "our advantage! Let us strike the undead while they are in disarray and "
 "banish Mal-Ravanal’s dark soul once and for all!"
 msgstr ""
-"... Jsem si jistý, že by nám řekl, abychom sebrali síly a přeskupili se, "
-"abychom prosadili svou převahu! Udeřme na nemrtvé, dokud jsou v nepořádku, a "
-"vyžeňme Mal-Ravanalovu temnou duši jednou provždy!"
+"... Jsem si jistý, že by nám řekl, abychom sebrali síly, přeskupili se "
+"a zúročili svou převahu! Udeřme na nemrtvé, dokud jsou ve zmatku, a vyžeňme "
+"Mal-Ravanalovu temnou duši jednou provždy!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2085
-#, fuzzy
 msgid ""
 "Both of you alike speak wisdom. This is a difficult decision, and I have "
 "little time in which to make it. I wish that Gweddry still lived to advise "
 "me, but it seems I must decide on my own."
 msgstr ""
-"Oba dva mluvíte stejně moudře. Je to těžké rozhodnutí a mám na něj málo "
-"času. Přál bych si, aby Gweddry ještě žil a poradil mi, ale zdá se, že se "
+"Oba dva mluvíte stejně moudře. Je to těžké rozhodnutí a mám na něj málo "
+"času. Přál bych si, aby Gweddry ještě žil a poradil mi, ale vypadá to, že se "
 "musím rozhodnout sám."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2089
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2152
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2206
-#, fuzzy
 msgid "By my command, we will..."
-msgstr "Na můj rozkaz..."
+msgstr "Na můj rozkaz, půjdeme..."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2095
@@ -10576,40 +10566,37 @@ msgstr "Výborně, začnu připravovat naše armády!"
 #. [message]: speaker=Gweddry
 #. although there's a lot of dead troops, this is mainly "to mourn for Owaec"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2136
-#, fuzzy
 msgid ""
 "The city grows still at last. I wish there was time to mourn, but we still "
 "must decide how to deal with Mal-Ravanal."
 msgstr ""
-"Město se konečně zklidní. Kéž by byl čas na truchlení, ale musíme se ještě "
-"rozhodnout, jak naložit s Mal-Ravanalem."
+"Město se konečně zklidňuje. Kéž by byl čas na truchlení, ale musíme se ještě "
+"rozhodnout, jak naložit s Mal-Ravanalem."
 
 #. [message]: speaker=Gweddry
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2140
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2194
-#, fuzzy
 msgid ""
 "Owaec had wished for us to strike at the undead and isolate Mal-Ravanal by "
 "force of arms. With their armies in disarray after the failed attack on "
 "Weldyn, this may be our best opportunity."
 msgstr ""
-"Owaec si přál, abychom zaútočili na nemrtvé a izolovali Mal-Ravanal silou "
-"zbraní. Vzhledem k tomu, že jejich armády jsou po neúspěšném útoku na Weldyn "
-"v rozkladu, je to možná naše nejlepší příležitost."
+"Owaec si přál, abychom zaútočili na nemrtvé a oddělili Mal-Ravanala silou "
+"zbraní. Vzhledem k tomu, že jejich armády jsou po neúspěšném útoku na Weldyn "
+"ve zmatku, je to možná naše nejlepší příležitost."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2144
-#, fuzzy
 msgid ""
 "I will not put the fate of all Irdya in the hands of Weldyn’s feeble "
 "defenders! I must face Mal-Ravanal in a duel, and I must be the one to "
 "strike the infernal lich down! I will trust none other than myself with such "
 "responsibility."
 msgstr ""
-"Nevložím osud celé Irdye do rukou slabých obránců Weldina! Musím se utkat s "
-"Mal-Ravanalem v souboji a musím to být já, kdo toho pekelného licha srazí k "
-"zemi! Takovou zodpovědnost nesvěřím nikomu jinému než sobě."
+"Nevložím osud celé Irdye do rukou chabých obránců Weldinu! Musím se utkat "
+"s Mal-Ravanalem v souboji a musím to být já, kdo toho pekelného licha srazí "
+"k zemi! Takovou zodpovědnost nesvěřím nikomu jinému než sobě."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2172
@@ -10618,50 +10605,45 @@ msgstr "Začnu připravovat naše armády."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2190
-#, fuzzy
 msgid ""
 "The city grows still at last. This battle is won, but with our best "
 "commanders dead we have little hope of surviving another attack."
 msgstr ""
-"Město se konečně zklidní. Tuto bitvu jsme vyhráli, ale s našimi nejlepšími "
-"veliteli mrtvými máme jen malou naději, že přežijeme další útok."
+"Město se konečně zklidňuje. Tuto bitvu jsme vyhráli, ale když jsou naši "
+"nejlepší velitelé mrtví, máme jen malou naději, že přežijeme další útok."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2198
-#, fuzzy
 msgid ""
 "We cannot put the fate of all Irdya in the hands of Weldyn’s feeble "
 "defenders! I must face Mal-Ravanal in a duel, and I must be the one to "
 "strike the infernal lich down! I will trust none other than myself with such "
 "responsibility."
 msgstr ""
-"Nemůžeme svěřit osud celé Irdye do rukou slabých obránců Weldina! Musím se "
+"Nemůžeme svěřit osud celé Irdye do rukou chabých obránců Weldinu! Musím se "
 "utkat s Mal-Ravanalem v souboji a musím to být já, kdo toho pekelného licha "
 "srazí k zemi! Takovou zodpovědnost nesvěřím nikomu jinému než sobě."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2202
-#, fuzzy
 msgid ""
 "This is a difficult decision, and I have little time in which to make it. I "
 "wish that Gweddry or Owaec still lived to advise me, but it seems I must "
 "decide on my own."
 msgstr ""
-"Je to těžké rozhodnutí a mám na něj málo času. Kéž by ještě žil Gweddry nebo "
+"Je to těžké rozhodnutí a mám na něj málo času. Kéž by ještě žil Gweddry nebo "
 "Owaec, aby mi poradili, ale zdá se, že se musím rozhodnout sám."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2208
 msgid "challenge Mal-Ravanal to a duel. <i>(regular)</i>"
-msgstr ""
-"zvolit <i>(středně obtížnou)</i> možnost a vyzvat Mal-Ravanala na souboj."
+msgstr "vyzvat Mal-Ravanala na souboj. <i>(středně obtížné)</i>"
 
 #. [option]
 #. both Gweddry and Owaec are dead, so this goes from "challenging" to "very hard"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2223
-#, fuzzy
 msgid "defeat Mal-Ravanal in pitched battle. <i>(very hard)</i>"
-msgstr "porazit Mal-Ravanala v bitvě. <i>(velmi těžké)</i>"
+msgstr "porazit Mal-Ravanala v divoké bitvě. <i>(velmi těžké)</i>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2227
