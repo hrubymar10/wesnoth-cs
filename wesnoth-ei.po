@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-19 23:33+0200\n"
+"PO-Revision-Date: 2024-07-20 09:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1769,7 +1769,7 @@ msgid ""
 "It must be here somewhere! I’m telling you, alswdan only grows in swamps, "
 "and this is the grandest one on the continent."
 msgstr ""
-"Někde tady musí být! Říkám ti, že alswdan roste pouze v močálech, a tento je "
+"Někde tady musí být! Říkám ti, že alsuvdan roste pouze v močálech a tento je "
 "největší na kontinentu."
 
 #. [message]
@@ -1790,7 +1790,7 @@ msgid ""
 "expedition has already led us far-too-far astray from the dunes."
 msgstr ""
 "A <i>já ti</i> říkám, že nás tohle cestování po severních krajích zabije! "
-"Roky jsem neviděl domov! Tahle tvoje výprava za „snadnými penězi“ nás už "
+"Roky jsem neviděla domov! Tahle tvoje výprava za „snadnými penězi“ nás už "
 "zavedla příliš daleko od dun."
 
 #. [message]: speaker=Gweddry
@@ -1799,7 +1799,7 @@ msgstr ""
 msgid ""
 "Hail, strangers! Are you friend or foe? What brings you to this foul swamp?"
 msgstr ""
-"Nazdar, cizinci! Jste přátelé či nepřátelé? Co vás přivádí do tohoto "
+"Nazdar, cizinci! Jste přátelé, či nepřátelé? Co vás přivádí do tohoto "
 "odporného močálu?"
 
 #. [message]: speaker=Hahid al-Ali
@@ -1811,15 +1811,14 @@ msgid ""
 "lands seeking the rare gwza-alswdan plant."
 msgstr ""
 "Ach, domorodci! Možná nám pomůžete! Jsem Hahid al-Ali, bylinkář mimořádných "
-"schopností, a toto je můj pomocník Safyam. Vydali jsme se do vašich zemí "
+"schopností, a toto je má pomocnice Safyam. Vydali jsme se do vašich zemí "
 "hledat vzácnou rostlinu zvanou guvza-alsuvdan."
 
-# Asi chyby v originále.
 #. [message]: speaker=Hahid al-Ali
 #. telling his female companion to harvest a herb
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:459
 msgid "Why, there’s one now! Safyam, if you would."
-msgstr "Heleď, tamhle teď jedna je! Safyame, kdybys byl tak laskav."
+msgstr "Vida, tamhle zrovna jedna je! Safyam, kdybys byla tak laskava."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:494
@@ -1839,8 +1838,8 @@ msgid ""
 "us? Our people have been attacked by undead and we must now fight this dark "
 "sorcerer to return home."
 msgstr ""
-"Pokud vám pomůžeme najít více tohoto „alsuvdanu“, podělíte se s námi o svůj "
-"lék? Náš lid byl napaden nemrtvými a my nyní musíme bojovat s tímto temným "
+"Pokud vám pomůžeme najít více tohoto „alsuvdanu“, podělíte se s námi o svůj "
+"lék? Náš lid byl napaden nemrtvými a my nyní musíme bojovat s tím temným "
 "čarodějem, abychom se mohli vrátit domů."
 
 #. [message]: speaker=Hahid al-Ali
@@ -1880,7 +1879,7 @@ msgid ""
 "To travel east, collect 6 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
 msgstr ""
-"Nasbírej 6 ks bylin alsuvdan a zaplať Hahid al-Alimu $gold_cost zlatých "
+"Nasbírej 6 ks bylin alsuvdan, zaplať Hahid al-Alimu $gold_cost zlatých "
 "a uvolni si tak <i>(náročnou)</i> cestu na východ"
 
 #. [objectives]
@@ -1954,15 +1953,15 @@ msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need $herbs_needed more (and $gold_cost gold) to travel east."
 msgstr ""
-"Našel jsem výhonek alsuvdanu a získal tak odolnost vůči jedu z močálu! "
-"Budeme potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), "
-"abychom mohli pokračovat na východ."
+"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
+"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
+"mohli pokračovat na východ."
 
 #. [message]: speaker=unit
 #. TODO for 1.19: make this the male message, and add a separate female one
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:656
 msgid "I’ve found a sprig of alswdan and am now immune to the swamp’s poison!"
-msgstr "Našel jsem výhonek alsuvdanu a získal tak odolnost vůči jedu z močálu!"
+msgstr "Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:708
