@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-20 09:37+0200\n"
+"PO-Revision-Date: 2024-07-21 23:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10659,7 +10659,6 @@ msgstr "Duel"
 #. [part]
 #. a human messenger
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:25
-#, fuzzy
 msgid ""
 "As the messenger passed out of the city gates, silence settled over the "
 "valley of the Weldyn. Children buried their fathers, mothers entombed their "
@@ -10667,31 +10666,30 @@ msgid ""
 "knuckles. The only sound was the incessant drum-march of skeletal feet, ever-"
 "growing outside the walls."
 msgstr ""
-"Když posel vyšel z městské brány, rozhostilo se v údolí Weldyn ticho. Děti "
-"pohřbívaly své otce, matky pochovávaly své syny; vojáci spali tam, kde "
-"stáli, kopí stále sevřená za bledými klouby. Jediným zvukem byl nepřetržitý "
-"bubnový pochod kosterních nohou, který se stále rozléhal za hradbami."
+"Když posel vyšel z městské brány, rozhostilo se v údolí Weldynu ticho. Děti "
+"pohřbívaly své otce, matky pochovávaly své syny. Vojáci spali tam, kde "
+"stáli, kopí stále sevřená v bledých kloubech. Jediným zvukem bylo "
+"nepřetržité bubnování pochodujících nohou kostlivců, které se stále "
+"rozléhalo za hradbami."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:29
-#, fuzzy
 msgid ""
 "Finally, the gates creaked open once again. Eyes looked on, eager, anxious, "
 "terrified, as the messenger rode toward the castle..."
 msgstr ""
-"Konečně se brána opět se skřípěním otevřela. Oči dychtivě, úzkostlivě a "
-"vyděšeně hleděly na posla jedoucího k hradu..."
+"Konečně se brána opět se skřípěním otevřela. Oči hleděly dychtivě, "
+"úzkostlivě a vyděšeně na posla jedoucího k hradu..."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:33
-#, fuzzy
 msgid ""
 "News spread quickly. Mal-Ravanal had accepted the challenge. Dacyn and six "
 "of Weldyn’s finest were to duel the lich in the abandoned catacombs under "
 "the city..."
 msgstr ""
-"Zpráva se rychle rozšířila. Mal-Ravanal výzvu přijal. Dacyn a šest "
-"Weldynových nejlepších se mělo utkat s lichem v opuštěných katakombách pod "
+"Zpráva se rychle rozšířila. Mal-Ravanal výzvu přijal. Dacyn a šest "
+"nejlepších z Weldynu se mělo utkat s lichem v opuštěných katakombách pod "
 "městem..."
 
 #. [objective]: condition=win
@@ -10713,17 +10711,16 @@ msgid ""
 "I and I alone will put an end to your foul machinations! You have grown "
 "strong in the darkness, but I have become stronger (cough)(cough) still!"
 msgstr ""
-"Já a jenom já ukončím vaše odporné machinace! Ty jsi v temnotě zesílil, ale "
-"já jsem ještě silnější (kašel)!"
+"Já a jenom já ukončím tvé odporné pikle! Ty jsi v temnotě zesílil, ale já "
+"jsem ještě (ehmehm) (ehmehm) silnější!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:177
-#, fuzzy
 msgid ""
 "A-ha haha! And how exactly do you plan to do that? Come now, you must know "
 "that you’re outmatched."
 msgstr ""
-"A-ha haha! A jak přesně to chceš udělat? No tak, musíš přece vědět, že máš "
+"A-ha haha! A jak přesně to chceš udělat? No tak, musíš přece vědět, že nemáš "
 "navrch."
 
 #. [message]: speaker=narrator
@@ -10734,7 +10731,7 @@ msgid ""
 "At the end of your first turn, your keep will disappear, and you must battle "
 "with whatever troops you have at that time."
 msgstr ""
-"Pravidla duelu jsou následující:\n"
+"Pravidla souboje jsou následující:\n"
 "Můžeš si naverbovat nebo povolat maximálně 6 jednotek.\n"
 "Na konci prvního kola tvoje pevnost zmizí a musíš bojovat jen s těmi "
 "jednotkami, které v tu chvíli máš."
@@ -10759,15 +10756,13 @@ msgstr ""
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:306
-#, fuzzy
 msgid "Tsk, tsk, I begin to tire of this."
-msgstr "Tsk, tsk, začíná mě to unavovat."
+msgstr "Ts, ts, začíná mě to unavovat."
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:311
-#, fuzzy
 msgid "More reinforcements come every time!"
-msgstr "Pokaždé přicházejí další posily!"
+msgstr "Pokaždé přijdou další posily!"
 
 #. [scenario]: id=17b_All-In
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:11
