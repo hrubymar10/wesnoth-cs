@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-22 23:47+0200\n"
+"PO-Revision-Date: 2024-07-22 23:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10706,12 +10706,11 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:173
-#, fuzzy
 msgid ""
 "I and I alone will put an end to your foul machinations! You have grown "
 "strong in the darkness, but I have become stronger (cough)(cough) still!"
 msgstr ""
-"Já a jenom já ukončím tvé odporné pikle! Ty jsi v temnotě zesílil, ale já "
+"Já a jenom já ukončím tvé odporné pikle! Ty jsi v temnotě zesílil, ale já "
 "jsem ještě (ehmehm) (ehmehm) silnější!"
 
 #. [message]: speaker=Mal-Ravanal
@@ -10772,25 +10771,23 @@ msgstr "Sázka na všechno"
 #. [part]
 #. the river has the same name as the city
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:28
-#, fuzzy
 msgid ""
 "The morning sun shone bright upon the valley of the Weldyn, glinting off "
 "swords and lances innumerable, arrayed in tight formation inside the city "
 "walls."
 msgstr ""
-"Ranní slunce jasně ozařovalo údolí Weldynu a odráželo se od nesčetných mečů "
-"a kopí, seřazených v těsné formaci uvnitř městských hradeb."
+"Ranní slunce jasně ozařovalo údolí Weldynu a třpytilo se na nesčetných "
+"mečích a kopích, seřazených v těsném útvaru uvnitř městských hradeb."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:32
-#, fuzzy
 msgid ""
 "From the ranks of Wesnoth’s finest arose a cry, soft at first but then "
 "mounting in volume, a cry of desperate hope, a cry of fiery purpose and icy "
 "will."
 msgstr ""
-"Z řad nejlepších Wesnothu se ozval výkřik, zprvu tichý, ale pak zesílil, "
-"výkřik zoufalé naděje, výkřik ohnivého záměru a ledové vůle."
+"Z řad nejlepších wesnothských se ozvalo volání, zprvu tiché, ale pak "
+"zesílilo, výkřik zoufalé naděje, řev planoucího záměru a ledové vůle."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:37
@@ -10799,7 +10796,7 @@ msgid ""
 "The horns sounded, the gates swung open, and from inside the city spilled "
 "forth Weldyn’s last gasp."
 msgstr ""
-"Ozvaly se sirény, brána se otevřela a z města se ozval Weldynův poslední "
+"Ozvaly se rohy, brána se otevřela a z města se ozval Weldynův poslední "
 "vzdech."
 
 #. [side]: type=Lich, id=Lich2
