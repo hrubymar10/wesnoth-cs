@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-17 15:24 UTC\n"
-"PO-Revision-Date: 2024-07-21 23:27+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2024-07-22 19:12+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
@@ -9464,7 +9465,7 @@ msgid ""
 "have fallen so completely, I fear for Weldyn and the rest of Wesnoth."
 msgstr ""
 "Musíme tady přestat mluvit a rychle opustit toto mrtvé místo! Jestli koňské "
-"klany tak naprosto podlehly, bojím se o Weldin a zbytek Wesnothu."
+"klany tak naprosto podlehly, bojím se o Weldyn a zbytek Wesnothu."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2113
@@ -9472,7 +9473,7 @@ msgid ""
 "Why are we here at all? We should be advancing towards Weldyn, not humoring "
 "Owaec’s lust for vengeance. The Plains are already drowned."
 msgstr ""
-"Proč tu vůbec jsme? Měli bychom postupovat směrem k Weldinu, a ne se "
+"Proč tu vůbec jsme? Měli bychom postupovat směrem k Weldynu, a ne se "
 "podvolovat Owaecově touze po pomstě. Pláně jsou už zatopené."
 
 #. [message]: speaker=Dacyn
@@ -10611,7 +10612,7 @@ msgid ""
 "strike the infernal lich down! I will trust none other than myself with such "
 "responsibility."
 msgstr ""
-"Nevložím osud celé Irdye do rukou chabých obránců Weldinu! Musím se utkat "
+"Nevložím osud celé Irdye do rukou chabých obránců Weldynu! Musím se utkat "
 "s Mal-Ravanalem v souboji a musím to být já, kdo toho pekelného licha srazí "
 "k zemi! Takovou zodpovědnost nesvěřím nikomu jinému než sobě."
 
@@ -10637,7 +10638,7 @@ msgid ""
 "strike the infernal lich down! I will trust none other than myself with such "
 "responsibility."
 msgstr ""
-"Nemůžeme svěřit osud celé Irdye do rukou chabých obránců Weldinu! Musím se "
+"Nemůžeme svěřit osud celé Irdye do rukou chabých obránců Weldynu! Musím se "
 "utkat s Mal-Ravanalem v souboji a musím to být já, kdo toho pekelného licha "
 "srazí k zemi! Takovou zodpovědnost nesvěřím nikomu jinému než sobě."
 
@@ -11090,13 +11091,12 @@ msgstr ""
 #. [message]: speaker=$found_unit.id
 #. speaker is a random lich
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1051
-#, fuzzy
 msgid ""
 "Night falls on Weldyn! Your counterattack may have caught us by surprise, "
 "but this hour is our domain."
 msgstr ""
-"Na Weldina padá noc! Váš protiútok nás možná zaskočil, ale tato hodina je "
-"naší doménou."
+"Na Weldyn padá noc! Váš protiútok nás možná zaskočil, ale teď přichází naše "
+"hodina!"
 
 #. [message]: speaker=$found_unit.id
 #. speaker is a random lich, almost certainly a different one than the previous speaker
@@ -11620,16 +11620,15 @@ msgstr ""
 #. [message]: speaker=Konrad
 #. Owaec is dead too
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:613
-#, fuzzy
 msgid ""
 "But alas, what of the Clansmen? Their horses have been scattered, their "
 "Lords were broken, and now the last prince has fallen defending the walls of "
 "Weldyn. I fear that the Horse Clans will never again return to their former "
 "glory."
 msgstr ""
-"Ale co klanoví muži? Jejich koně byli rozprášeni, jejich páni zlomeni a nyní "
-"padl poslední kníže, který bránil hradby Weldinu. Obávám se, že se koňské "
-"klany už nikdy nevrátí ke své bývalé slávě."
+"Ale běda, co příslušníci klanů? Jejich páni byli zničeni, jejich koně "
+"rozehnáni a nyní padl i poslední kníže, co bránil weldynské hradby. Obávám "
+"se, že se klany už nikdy nevrátí ke své bývalé slávě."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:631
