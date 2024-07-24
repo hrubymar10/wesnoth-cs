@@ -8,15 +8,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-07-22 23:59+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2024-07-24 23:57+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.4.4\n"
 
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
@@ -6743,12 +6742,6 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2809
-#, fuzzy
-#| msgid ""
-#| "You are right, Gweddry. I cannot know. But I must try. If I do not, "
-#| "Wesnoth — nay, all of Irdya — will surely fall to ruin. As long as I try, "
-#| "there is still a chance. Sacrificing myself means nothing for the greater "
-#| "good."
 msgid ""
 "You are right, Gweddry. I cannot know. But I must try. If I do not, Wesnoth "
 "— nay, all of Irdya — will surely fall to ruin. As long as I try, there is "
@@ -6757,7 +6750,8 @@ msgid ""
 msgstr ""
 "Máš pravdu, Gweddry. To nemohu vědět. Ale musím to zkusit. Pokud to "
 "neudělám, Wesnoth – ne, celá Irdye – jistě padne do záhuby. Dokud se budu "
-"snažit, je tu ještě šance. Moje oběť není ničím ve srovnání s vyšším dobrem."
+"snažit, je tu ještě šance. Moje oběť není velká, jestliže je to pro vyšší "
+"dobro."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2813
@@ -13532,19 +13526,15 @@ msgstr "<i>TEMNOTA POŽÍRÁ DUŠI.</i>"
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:37
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1007
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1161
-#, fuzzy
-#| msgid "Take it."
 msgid "Take"
-msgstr "Vzít."
+msgstr "Vzít"
 
 #. [item_dialog]: description={ITEM_DESC}
 #. Button label for 'leave an item'
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:39
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:1008
-#, fuzzy
-#| msgid "Leave it."
 msgid "Leave"
-msgstr "Nechat být."
+msgstr "Nechat být"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:119
 msgid ""
@@ -13561,13 +13551,6 @@ msgstr ""
 "<b></b>"
 
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:124
-#, fuzzy
-#| msgid ""
-#| "<span size='small'><i>This item can <b>NOT</b> be dropped, and can "
-#| "<b>NOT</b> be reused if its user dies.</i></span>\n"
-#| "<span size='small'><i>  Picking up an item consumes your moves and attack."
-#| "</i></span>\n"
-#| "<b></b>"
 msgid ""
 "<span size='small'><i>This item <b>CANNOT</b> be dropped, and <b>CANNOT</b> "
 "be reused if its user dies.</i></span>\n"
@@ -13575,9 +13558,9 @@ msgid ""
 "i></span>\n"
 "<b></b>"
 msgstr ""
-"<span size='small'><i> Tento předmět <b>nelze</b> upustit a <b>není</b> "
-"znovu použitelný, pokud jeho uživatel zemře.</i></span>\n"
-"<span size='small'><i> Sebrání předmětu spotřebuje pohyby a útok jednotky.</"
+"<span size='small'><i>Tento předmět <b>nelze</b> upustit a <b>není</b> znovu "
+"použitelný, pokud jeho uživatel zemře.</i></span>\n"
+"<span size='small'><i>  Sebrání předmětu spotřebuje pohyby a útok jednotky.</"
 "i></span>\n"
 "<b></b>"
 
