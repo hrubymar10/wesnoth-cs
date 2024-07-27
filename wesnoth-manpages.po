@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-21 22:31-0500\n"
-"PO-Revision-Date: 2024-07-27 09:39+0200\n"
+"PO-Revision-Date: 2024-07-27 09:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -509,6 +509,8 @@ msgid ""
 "disables the anonymization that's normally applied when logging, for example "
 "replacing usernames with USER."
 msgstr ""
+"vypne anonymizaci, která se běžně používá při zaznamenávání, například "
+"nahrazení uživatelských jmen jménem USER."
 
 # type: TP
 #. type: TP
