@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-21 22:31-0500\n"
-"PO-Revision-Date: 2024-06-27 20:34+0200\n"
+"PO-Revision-Date: 2024-07-27 09:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -192,12 +192,13 @@ msgstr "B<--clock>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:69
-#, fuzzy
-#| msgid "Adds the option to show a clock for testing the drawing timer."
 msgid ""
 "Adds the option to show a clock for testing the drawing timer. Also adds the "
 "option for showing the GUI Test Dialog."
-msgstr "Přidá volbu pro ukázání hodin na testování časovače kreslení."
+msgstr ""
+"Přidá volbu pro ukázání hodin na testování časovače kreslení. Také přidá "
+"možnost zobrazení dialogového okna pro testování grafického uživatelského "
+"rozhraní."
 
 # type: TP
 #. type: TP
@@ -498,10 +499,9 @@ msgstr ""
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:169
-#, fuzzy, no-wrap
-#| msgid "B<--no-log-to-file>"
+#, no-wrap
 msgid "B<--no-log-sanitize>"
-msgstr "B<--no-log-to-file>"
+msgstr "B<--no-log-sanitize>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:172
