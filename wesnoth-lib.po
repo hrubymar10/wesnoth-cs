@@ -9432,35 +9432,3 @@ msgstr ""
 #: src/wml_exception.cpp:92
 msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
 msgstr "V sekci '[$section|]' není nastaven povinný klíč '$key|'."
-
-#~ msgid "Stats"
-#~ msgstr "Statistiky"
-
-#~ msgid "Configuration:"
-#~ msgstr "Nastavení:"
-
-#~ msgid "filesystem_path_game^User preferences"
-#~ msgstr "Uživatelské nastavení"
-
-#~ msgid "--userdata-dir=<relative path that doesn't start with a period>"
-#~ msgstr "--userdata-dir=<relativní cesta, která nezačíná tečkou>"
-
-#~ msgid ""
-#~ "Use an absolute path, or a relative path that starts with a period and a "
-#~ "backslash"
-#~ msgstr ""
-#~ "Použij absolutní cestu nebo relativní cestu, která začíná tečkou "
-#~ "a zpětným lomítkem"
-
-#~ msgid "--userdata-dir=<relative path>"
-#~ msgstr "--userdata-dir=<relativní cesta>"
-
-#~ msgid ""
-#~ "Use absolute paths. Relative paths are deprecated because they are "
-#~ "interpreted relative to $HOME"
-#~ msgstr ""
-#~ "Použij absolutní cesty. Relativní cesty jsou zastaralé, protože jsou "
-#~ "interpretovány relativně k $HOME"
-
-#~ msgid "Load Map"
-#~ msgstr "Načíst mapu"
