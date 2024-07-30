@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-21 22:32-0500\n"
-"PO-Revision-Date: 2024-07-29 23:57+0200\n"
+"PO-Revision-Date: 2024-07-30 22:06+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3270,7 +3270,7 @@ msgstr "Smazat ToD"
 #. [button]: id=preview_color
 #: data/gui/themes/default/window/custom_tod.cfg:498
 msgid "Preview color changes on map"
-msgstr ""
+msgstr "Ukázat změny barev na mapě"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [label]
@@ -4082,12 +4082,12 @@ msgstr "Odebrat současnou záložku ze záložek"
 #. [button]: id=open_ext
 #: data/gui/themes/default/window/file_dialog.cfg:318
 msgid "Open External"
-msgstr ""
+msgstr "Otevřít externě"
 
 #. [button]: id=open_ext
 #: data/gui/themes/default/window/file_dialog.cfg:319
 msgid "Open selected using platform's default applications"
-msgstr ""
+msgstr "Otevřít vybraný pomocí výchozích programů platformy"
 
 # adresář?
 #. [button]: id=new_dir
@@ -7633,7 +7633,7 @@ msgstr ""
 
 #: src/gui/dialogs/editor/edit_unit.cpp:1085
 msgid "Unit type saved."
-msgstr ""
+msgstr "Typ jednotky uložen."
 
 #: src/gui/dialogs/editor/generator_settings.cpp:70
 msgid "/1000 tiles"
@@ -7951,6 +7951,8 @@ msgid ""
 "This would import settings from a previous version of Wesnoth, but no other "
 "version was found on this device"
 msgstr ""
+"Tohle by importovalo nastavení z předchozí verze Wesnothu, ale v tomto "
+"zařízení nebyla nalezena žádná jiná verze."
 
 #: src/gui/dialogs/multiplayer/faction_select.cpp:138
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:497
