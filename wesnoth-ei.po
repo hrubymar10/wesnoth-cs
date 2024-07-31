@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-07-24 23:57+0200\n"
+"PO-Revision-Date: 2024-07-31 23:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10811,13 +10811,12 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:37
-#, fuzzy
 msgid ""
 "The horns sounded, the gates swung open, and from inside the city spilled "
 "forth Weldyn’s last gasp."
 msgstr ""
-"Ozvaly se sirény, brána se otevřela a z města se ozval Weldynův poslední "
-"vzdech."
+"Zazněly rohy, brána se otevřela a z města se vyhrnuli weldyntší na poslední "
+"tažení."
 
 #. [side]: type=Lich, id=Lich2
 #. [side]: type=Lich, id=Lich3
@@ -10839,39 +10838,34 @@ msgstr "?"
 #. [side]: type=Dark Adept, id=Lethin
 #. in the unlikely event that Mal-Tar survived S03, Lethin gets renamed and has dialogue as Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:301
-#, fuzzy
 msgid "Lethin"
 msgstr "Lethin"
 
 #. [unit]: type=Dark Adept, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:321
-#, fuzzy
 msgid "Rerivyan"
 msgstr "Rerivyan"
 
 #. [unit]: type=Dark Adept, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:332
-#, fuzzy
 msgid "Vowyn"
 msgstr "Vowyn"
 
 #. [message]: speaker=unit
 #. last breath for Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:361
-#, fuzzy
 msgid "Wait, wait, stop, I surrender! I know your leader Gweddry!"
 msgstr "Počkej, počkej, přestaň, vzdávám se! Znám vašeho vůdce Gweddryho!"
 
 #. [message]: speaker=unit
 #. last breath for Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:366
-#, fuzzy
 msgid ""
 "He defeated me back in the Estmarks but still let me live! Let me go and I "
 "promise you’ll never see me again!"
 msgstr ""
-"Porazil mě už v Estmarku, ale přesto mě nechal žít! Nechte mě jít a slibuji, "
-"že už mě nikdy neuvidíte!"
+"Porazil mě už ve Východninách, ale přesto mne nechal žít! Nechte mě jít "
+"a slibuji, že už mě nikdy neuvidíte!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:370
