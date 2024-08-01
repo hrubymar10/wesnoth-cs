@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-07-31 23:58+0200\n"
+"PO-Revision-Date: 2024-08-02 00:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10849,17 +10849,15 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:384
-#, fuzzy
 msgid "Well, okay I guess..."
 msgstr "No, dobře, asi..."
 
 #. [message]: speaker=Gweddry
 #. speaking of Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:391
-#, fuzzy
 msgid ""
 "It’s been an entire war, and that guy still hasn’t improved his magic..."
-msgstr "Už je to celá válka a ten chlap stále nevylepšil svou magii..."
+msgstr "Už to trvá celou válku a ten chlap se pořád ještě nezlepšil v magii..."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:612
@@ -10868,28 +10866,25 @@ msgstr "Odhal Mal-Ravanala tím, že zabiješ $liches_to_kill lichů"
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:719
-#, fuzzy
 msgid "150 gold remains in my war-chest. I place it at your service, my Liege."
-msgstr "V mé truhle zůstává 150 zlatých. Dávám ti je k dispozici, můj pane."
+msgstr "V mé truhle zbývá 150 zlatých. Dávám ti je k dispozici, můj pane."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:755
-#, fuzzy
 msgid ""
 "My Liege, I’ve managed to conserve 150 gold from the previous battle. I "
 "place it at your disposal."
 msgstr ""
-"Můj pane, podařilo se mi ušetřit 150 zlatých z předchozí bitvy. Dávám vám je "
-"k dispozici."
+"Můj pane, z předchozí bitvy se mi podařilo ušetřit 150 zlatých. Dávám ti je "
+"k dispozici."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:793
-#, fuzzy
 msgid ""
 "For you, my Liege: my men have salvaged 150 gold from the ruins of the city "
 "outskirts."
 msgstr ""
-"Pro tebe, můj poručíku: moji muži zachránili 150 zlatých z trosek na okraji "
+"Pro tebe, můj pane: moji muži zachránili 150 zlatých z trosek na okraji "
 "města."
 
 #. [message]: speaker=Halrad
