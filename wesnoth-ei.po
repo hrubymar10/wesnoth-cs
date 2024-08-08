@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-02 00:22+0200\n"
+"PO-Revision-Date: 2024-08-08 21:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10909,39 +10909,33 @@ msgstr ""
 
 #. [message]: speaker=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:829
-#, fuzzy
 msgid "My forces are in position at the northern wall; awaiting your orders."
-msgstr ""
-"Mé jednotky jsou na pozicích u severní hradby a čekají na vaše rozkazy."
+msgstr "Mé jednotky jsou na pozicích u severní hradby. Čekají na tvé rozkazy."
 
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:833
-#, fuzzy
 msgid "Eastern flank reclaimed. I stand ready to launch the assault."
-msgstr "Východní křídlo zrekultivováno. Jsem připraven zahájit útok."
+msgstr "Východní křídlo je znovu naše. Jsem připraven zahájit útok."
 
 #. [message]: speaker=Halrod
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:837
-#, fuzzy
 msgid "The western barricades are manned and ready — it’s payback time."
-msgstr "Západní barikády jsou obsazeny a připraveny - přichází čas odplaty."
+msgstr "Západní barikády jsou obsazeny a připraveny – nastává čas odplaty."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:847
-#, fuzzy
 msgid ""
 "Now is the time to strike! In the name of the Clans, Mal-Ravanal will be "
 "ended this day!"
-msgstr "Nyní je čas udeřit! Ve jménu klanů bude dnes Mal-Ravanal ukončen!"
+msgstr "Nyní je čas udeřit! Ve jménu klanů dnes skoncujeme s Mal-Ravanalem!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:854
-#, fuzzy
 msgid ""
 "Now is the time to strike! By the might of all Wesnoth, Mal-Ravanal shall be "
 "ended this day!"
 msgstr ""
-"Nyní je čas udeřit! Mocí celého Wesnothu bude dnes Mal-Ravanal ukončen!"
+"Nyní je čas udeřit! Mocí celého Wesnothu dnes skoncujeme s Mal-Ravanalem!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:881
