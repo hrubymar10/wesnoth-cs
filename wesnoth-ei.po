@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-08-08 21:36+0200\n"
+"PO-Revision-Date: 2024-08-09 23:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10919,30 +10919,27 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:895
-#, fuzzy
 msgid ""
 "These liches are channeling some dark magic to hide themselves. (cough)"
 "(cough) Even if Mal-Ravanal is here, I will not be able to (cough) reveal "
 "them until we have killed enough of these liches to break their spell. "
 "(cough)"
 msgstr ""
-"Tihle lichové používají temnou magii, aby se skryli. (I když je tu Mal-"
-"Ravanal, nebudu je moci (kašlat) odhalit, dokud nezabijeme dost lichů, "
-"abychom jejich kouzlo zlomili. (kašel)"
+"Tihle lichové používají temnou magii, aby se skryli. (ehmehm) (ehmehm) "
+"I kdyby tu byl Mal-Ravanal, nebudu ho moci (ehmehm) odhalit, dokud "
+"nezabijeme dost lichů, abychom jejich kouzlo zlomili. (ehmehm)"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:906
-#, fuzzy
 msgid ""
 "Then that’s what we’ll have to do. And we will have to do it quickly, before "
 "Mal-Ravanal’s reinforcing armies overwhelm us."
 msgstr ""
-"Pak to budeme muset udělat. A budeme to muset udělat rychle, než nás Mal-"
-"Ravanalovy posilové armády přemohou."
+"Pak to budeme muset udělat. A budeme to muset udělat rychle, než nás Mal-"
+"Ravanalovy armády díky svým posilám přemohou."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:910
-#, fuzzy
 msgid ""
 "Stride fearless upon the plain of battle, for today we reclaim our legacy! "
 "For Wesnoth!!"
@@ -10952,13 +10949,12 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:917
-#, fuzzy
 msgid ""
 "Then kill them we shall. Stride fearless upon the plain of battle, for today "
 "we reclaim our legacy! For Wesnoth!!"
 msgstr ""
 "Tak je zabijeme. Neohroženě vykročte na bitevní pláň, neboť dnes získáme "
-"zpět svůj odkaz! Za Wesnoth!!"
+"zpět své dědictví! Za Wesnoth!!"
 
 #. [value]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:926
