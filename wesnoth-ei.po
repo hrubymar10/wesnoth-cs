@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-09 23:41+0200\n"
+"PO-Revision-Date: 2024-08-10 23:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11046,23 +11046,21 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1002
-#, fuzzy
 msgid ""
 "My legacy will not be one of failure! With all the might of the throne of "
 "Wesnoth, I shall strike you down!"
 msgstr ""
-"Mým odkazem nebude selhání! S veškerou mocí Wesnothského trůnu tě srazím k "
-"zemi!"
+"Mým odkazem nebude selhání! S veškerou mocí wesnothského trůnu tě srazím "
+"k zemi!"
 
 #. [message]: speaker=Konrad
 #. killed a lich
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1023
-#, fuzzy
 msgid ""
 "That’s one down! The undead must still be in disarray after their failed "
 "attack during the long night."
 msgstr ""
-"To je o jednoho méně! Nemrtví musí být po svém neúspěšném útoku během dlouhé "
+"To je o jednoho méně! Nemrtví musí být po svém neúspěšném útoku během dlouhé "
 "noci stále ještě rozhozeni."
 
 #. [message]: speaker=$found_unit.id
@@ -11090,13 +11088,12 @@ msgstr "Král patří do svého hlavního města! Neopustím svůj post!"
 #. [floating_text]
 #. the parts to translate here are "gold refunded" and "per side"
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1200
-#, fuzzy
 msgid ""
 "<span color='#FFD700' size='x-small'>gold refunded</span>\n"
 "<span color='#FFFFFF' size='xx-small'>  (1/$side_count per side)</span>"
 msgstr ""
 "<span color='#FFD700' size='x-small'>zlato vráceno</span>\n"
-"<span color='#FFFFFF' size='xx-small'> (1/$side_count na stranu)</span>"
+"<span color='#FFFFFF' size='xx-small'> (1/$side_count každé straně)</span>"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1229
@@ -11114,9 +11111,8 @@ msgstr "Jejich kouzlo je zlomeno!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:1663
-#, fuzzy
 msgid "Enough of this farce! I shall end this personally."
-msgstr "Dost bylo této frašky! Ukončím to osobně."
+msgstr "Dost bylo téhle frašky! Osobně to ukončím."
 
 #. [scenario]: id=18_Epilogue
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:4
