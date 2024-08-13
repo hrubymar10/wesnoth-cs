@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-08-12 23:53+0200\n"
+"PO-Revision-Date: 2024-08-13 23:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11640,39 +11640,34 @@ msgstr "Impérium"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:18
-#, fuzzy
 msgid ""
 "Congratulations! By sparing Dra-Nak in S11, ‘Captured’, sparing Mortic in "
 "S12 ‘Evacuation’, and completing the difficult S17b ‘All-In’, you’ve "
 "unlocked this bonus scenario!"
 msgstr ""
-"Gratulujeme! Ušetřením Dra-Naka v S11 \"Captured\", ušetřením Mortica v S12 "
-"\"Evacuation\" a dokončením obtížného S17b \"All-In\" jste odemkli tento "
-"bonusový scénář!"
+"Blahopřejeme! Ušetřením Dra-Naka ve scénáři 11 „V zajetí“, ušetřením Mortika "
+"ve scénáři 12 „Evakuace“ a dokončením obtížného scénáře 17b „Sázka na "
+"všechno“ jsi odemkl tento bonusový scénář!"
 
 #. [side]: type=Drake Arbiter, id=Goag
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:103
-#, fuzzy
 msgid "Goag"
 msgstr "Goag"
 
 #. [side]: type=Drake Warrior, id=Gra'ritos
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:130
-#, fuzzy
 msgid "Gra’ritos"
-msgstr "Gra'ritos"
+msgstr "Graritos"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:196
-#, fuzzy
 msgid "Survivors"
-msgstr "Pozůstalí"
+msgstr "Přeživší"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:230
-#, fuzzy
 msgid "Tribute"
-msgstr "Tribute"
+msgstr "Daň"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:238
@@ -11681,21 +11676,18 @@ msgstr "Vězeňská stráž"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:240
-#, fuzzy
 msgid "Tobo"
 msgstr "Tobo"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:241
-#, fuzzy
 msgid "Unik"
 msgstr "Unik"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:242
-#, fuzzy
 msgid "Shubru"
-msgstr "Shubru"
+msgstr "Šubru"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:243
