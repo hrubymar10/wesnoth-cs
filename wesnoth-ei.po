@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-13 23:13+0200\n"
+"PO-Revision-Date: 2024-08-14 22:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11731,15 +11731,14 @@ msgstr "ZRÁDCI!!!"
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:554
-#, fuzzy
 msgid ""
 "Drakes, human, dwarves... vermin, all of them! I offered them a chance at "
 "peace, at purpose! A chance to be part of something greater than themselves "
 "— my great golden Empire!!! And this is the thanks I get?"
 msgstr ""
-"Draci, lidé, trpaslíci... všechna ta havěť! Nabídl jsem jim šanci na mír, na "
-"cíl! Šanci být součástí něčeho většího, než jsou oni sami - mé velké zlaté "
-"říše!!! A tohle je poděkování, kterého se mi dostalo?"
+"Drakonidi, lidi, trpaslíci... všechna ta pakáž! Nabídl jsem jim možnost "
+"míru, být užiteční! Šanci být součástí něčeho většího, než jsou oni sami – "
+"mé velké zlaté říše!!! A tohle je poděkování, kterého se mi dostalo?"
 
 #. [message]: type=Orcish Slayer
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:560
@@ -11758,25 +11757,23 @@ msgid ""
 "vermin are WEAK! We are STRONG!"
 msgstr ""
 "Přece nenechám všechno, na čem jsem pracoval, tak snadno padnout! Tahle "
-"havěť je SLABÁ! My jsme SILNÍ!"
+"verbež je SLABÁ! My jsme SILNÍ!"
 
 #. [message]: type=Orcish Slayer
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:568
-#, fuzzy
 msgid "Okay, but that’s not really a battle pla-"
-msgstr "Dobře, ale to není zrovna bitevní pole..."
+msgstr "Dobře, ale to není zrovna bitevní plá..."
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:572
-#, fuzzy
 msgid ""
 "Capture their warriors and sell them for gold. Break their leaders and bend "
 "their followers to my will. I’ll slay anyone who resists and build a new "
 "empire on top of their steaming corpses!"
 msgstr ""
-"Zajměte jejich bojovníky a prodejte je za zlato. Zlomte jejich vůdce a "
-"podřiďte jejich stoupence mé vůli. Zabiji každého, kdo se postaví na odpor, "
-"a na jejich kouřících se mrtvolách vybuduji novou říši!"
+"Zajměte jejich válečníky a prodejte je za zlato. Zlomte jejich vůdce "
+"a podřiďte jejich stoupence mé vůli. Zabiji každého, kdo se postaví na "
+"odpor, a na jejich hnijících mrtvolách vybuduji novou říši!"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:578
