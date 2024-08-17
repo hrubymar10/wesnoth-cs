@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-14 22:19+0200\n"
+"PO-Revision-Date: 2024-08-17 23:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11742,7 +11742,6 @@ msgstr ""
 
 #. [message]: type=Orcish Slayer
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:560
-#, fuzzy
 msgid ""
 "Chief, more wyrms are attacking the east tunnels! There’s too many of them! "
 "What do we do?"
@@ -11787,63 +11786,54 @@ msgstr "Náčelník Dra-Nak zemře"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:586
-#, fuzzy
 msgid "You are fighting in your home and therefore pay no upkeep."
-msgstr "Bojujete ve svém domě, a proto neplatíte žádnou údržbu."
+msgstr "Bojuješ na domácí půdě, a proto neplatíš žádné náklady na zaopatření."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:589
-#, fuzzy
 msgid ""
 "Reduce enemies to 0 hp to capture them and gain gold. The prisons have "
 "limited space."
 msgstr ""
-"Snižte hp nepřátel na 0, abyste je zajali a získali zlato. Vězení mají "
+"Snižuj zdraví nepřátel na 0, abys je zajal a získal zlato. Vězení mají "
 "omezený prostor."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:592
-#, fuzzy
 msgid "Surviving enemies will (mostly) join you when you defeat their leader."
 msgstr ""
-"Přeživší nepřátelé se k vám (většinou) připojí, když porazíte jejich vůdce."
+"Přeživší nepřátelé se k tobě (většinou) připojí, když porazíš jejich vůdce."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:621
-#, fuzzy
 msgid ""
 "I’ve emptied the last of our treasury! Only 31 pieces, but better than "
 "nothing."
 msgstr ""
-"Vyprázdnil jsem poslední část naší pokladny! Sice jen 31 kusů, ale lepší než "
-"nic."
+"Vyprázdnil jsem zbytek naší pokladnice! Sice jen 31 mincí, ale lepší než nic."
 
 #. [then]
 #. said by Dra-Nak as an insult to Mortic in the latter's last-breath event
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:636
-#, fuzzy
 msgid "Some ‘leader’."
-msgstr "Nějaký \"vůdce\"."
+msgstr "Nějaký „vůdce“."
 
 #. [then]
 #. said by Dra-Nak as an insult to Goag in the latter's last-breath event
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:643
-#, fuzzy
 msgid "That’ll teach him. Where was that loyalty when he used to obey me?"
-msgstr "To ho naučí. Kde byla ta loajalita, když mě poslouchal?"
+msgstr "To ho naučí. Kde byla ta loajalita, když poslouchal mě?"
 
 #. [then]
 #. said by Dra-Nak as an insult to Gra’ritos in the latter's last-breath event
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:650
-#, fuzzy
 msgid "What happened to dying slow? So much for him."
-msgstr "Co se stalo s pomalým umíráním? Tolik k němu."
+msgstr "Co se stalo s pomalým umíráním? Tolik k němu."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:656
-#, fuzzy
 msgid "They really thought they could get away? Haw..."
-msgstr "Opravdu si mysleli, že jim to projde? Haw..."
+msgstr "Opravdu si mysleli, že jim to projde? Ehm..."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:680
@@ -11881,29 +11871,26 @@ msgstr ""
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:709
-#, fuzzy
 msgid ""
 "Mortic was strong.\n"
 "Alone I am weak.\n"
 "I will serve you."
 msgstr ""
-"Mortic byl silný.\n"
+"Mortik byl silný.\n"
 "Sám jsem slabý.\n"
 "Budu ti sloužit."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:717
-#, fuzzy
 msgid ""
 "I crave not death.\n"
 "I will myself to you."
 msgstr ""
 "Netoužím po smrti.\n"
-"Sám se ti odevzdám."
+"Přidám se k tobě."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:724
-#, fuzzy
 msgid ""
 "These orcs enrage me,\n"
 "But I possess no strength to resist.\n"
@@ -11915,25 +11902,22 @@ msgstr ""
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:732
-#, fuzzy
 msgid "Yes, yes, just please don’t hurt me!"
-msgstr "Ano, ano, jen mi prosím neubližujte!"
+msgstr "Ano, ano, jen mi prosím neubližuj!"
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:772
-#, fuzzy
 msgid ""
 "I shall never again obey orc.\n"
 "Mortic fought and died.\n"
 "I shall fight as well."
 msgstr ""
-"Už nikdy nebudu poslouchat orka.\n"
-"Mortic bojoval a zemřel.\n"
+"Už nikdy nebudu poslouchat skřeta.\n"
+"Mortik bojoval a zemřel.\n"
 "Budu bojovat také."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:780
-#, fuzzy
 msgid ""
 "I am always loyal,\n"
 "but never to prey.\n"
@@ -11941,33 +11925,29 @@ msgid ""
 msgstr ""
 "Jsem vždy loajální,\n"
 "ale nikdy ne ke kořisti.\n"
-"Bojuju až do smrti."
+"Bojuji až do smrti."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:788
-#, fuzzy
 msgid ""
 "I grieve.\n"
 "May the end come swiftly."
 msgstr ""
-"Truchlím.\n"
+"Trápím se.\n"
 "Ať je konec rychlý."
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:795
-#, fuzzy
 msgid "You traitors, how could you! I’ll never betray Wesnoth!"
 msgstr "Vy zrádci, jak jste mohli! Nikdy Wesnoth nezradím!"
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:823
-#, fuzzy
 msgid "Surrender or die, your choice!"
 msgstr "Vzdej se, nebo zemři, je to na tobě!"
 
 #. [message]: speaker=Mortic
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:827
-#, fuzzy
 msgid ""
 "Surrender brings certain death.\n"
 "Battle may yet bring victory.\n"
@@ -11979,14 +11959,12 @@ msgstr ""
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:833
-#, fuzzy
 msgid "Die it is then!"
 msgstr "Tak tedy zemři!"
 
 #. [message]: speaker=Mortic
 #. Mortic's last breath
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:850
-#, fuzzy
 msgid ""
 "Surrender brings death.\n"
 "Battle brings death.\n"
@@ -11998,43 +11976,40 @@ msgstr ""
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:873
-#, fuzzy
 msgid ""
 "The reaper’s knocking at your door, wyrm! Give up now and maybe I’ll kill "
 "you quickly."
 msgstr ""
-"Smrtka ti klepe na dveře, wyrme! Vzdej to hned a možná tě rychle zabiju."
+"Smrtka ti klepe na dveře, wyrme! Okamžitě se vzdej a já tě možná zabiju "
+"rychle."
 
 #. [message]: speaker=Goag
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:877
-#, fuzzy
 msgid ""
 "Mortic commanded me to fight.\n"
 "So the Aspirant ordered, so I will fight,\n"
 "Until the end."
 msgstr ""
-"Mortic mi přikázal bojovat.\n"
-"Aspirant to nařídil, a tak budu bojovat,\n"
+"Mortik mi přikázal bojovat.\n"
+"Jak aspirant nařídil, tak budu bojovat,\n"
 "až do konce."
 
 #. [message]: speaker=Gra'ritos
 #. to Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:913
-#, fuzzy
 msgid ""
 "You are Prey.\n"
 "I am Hunter.\n"
 "I will not fall easily."
 msgstr ""
-"Jste kořist.\n"
-"Já jsem Lovec.\n"
+"Jsi kořist.\n"
+"Já jsem lovec.\n"
 "Nepodlehnu snadno."
 
 #. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:919
-#, fuzzy
 msgid "Good, I’ll enjoy making it slow."
-msgstr "Dobře, budu si to užívat pomalu."
+msgstr "Dobře, rád to udělám pomalu."
 
 #. [message]: speaker=Chief Dra-Nak
 #. as the west bridge is broken, the Wesnothians who were left behind are trying to get though the orc's caves and out the east side
