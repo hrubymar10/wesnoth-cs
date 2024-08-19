@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-17 23:25+0200\n"
+"PO-Revision-Date: 2024-08-19 22:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12014,21 +12014,19 @@ msgstr "Dobře, rád to udělám pomalu."
 #. [message]: speaker=Chief Dra-Nak
 #. as the west bridge is broken, the Wesnothians who were left behind are trying to get though the orc's caves and out the east side
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:953
-#, fuzzy
 msgid ""
 "Haw, back so soon? Too bad your ‘friends’ abandoned you on MY side of the "
 "river. But it’s your lucky day, I’m a fair orc. Surrender now and I might be "
 "merciful."
 msgstr ""
-"Haw, tak brzy zpátky? Škoda, že tě tví \"přátelé\" opustili na MÉ straně "
-"řeky. Ale dneska máš štěstí, jsem poctivý ork. Vzdej se hned a možná budu "
-"milosrdný."
+"Ehm, tak brzy zpátky? Škoda, že vás vaši „přátelé“ nechali na MÉ straně "
+"řeky. Ale dneska máte štěstí, jsem slušný skřet. Vzdejte se hned a možná "
+"budu shovívavý."
 
 #. [message]: role=leader
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:957
-#, fuzzy
 msgid "We’ll never give in to you! For Wesnoth!!"
-msgstr "Nikdy se vám nepoddáme! Za Wesnoth!!"
+msgstr "Nikdy se ti nepoddáme! Za Wesnoth!!"
 
 #. [message]: role=leader
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:969
@@ -12043,13 +12041,12 @@ msgstr "Pokračujte vpřed! Držte se jižních tunelů! Zvládneme to!"
 #. [message]: speaker=Chief Dra-Nak
 #. the necromancers are apparently paying gold immediately when each prisoner is captured
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1010
-#, fuzzy
 msgid ""
 "That’s right, bleed them down and lock them up! I need gold to win this "
 "fight!"
 msgstr ""
-"Přesně tak, nechte je vykrvácet a zavřete je! Potřebuju zlato, abych vyhrál "
-"tenhle boj!"
+"Tak je to správně, pustit jim žilou a zavřít je! Potřebuju zlato, abych "
+"vyhrál tenhle boj!"
 
 #. [message]: speaker=Unik
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1020
@@ -12071,12 +12068,11 @@ msgstr ""
 
 #. [message]: speaker=Unik
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1035
-#, fuzzy
 msgid ""
 "That’s it boss, the prisoners are packed as tight as they’ll go! Hope you "
 "got enough gold to finish off the drakes."
 msgstr ""
-"To je ono, šéfe, vězni jsou nacpaní, jak jen to jde! Doufám, že máš dost "
+"To je vono, šéfe, vězni jsou namačkaný, jak to jen de! Doufám, že máš dost "
 "zlata na doražení draků."
 
 #. [message]: speaker=Chief Dra-Nak
@@ -12097,24 +12093,21 @@ msgstr ""
 
 #. [message]: role=leader
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1336
-#, fuzzy
 msgid ""
 "Come on, don’t give up! Owaec’s destroyed the bridge so we’ll have to fight "
 "our way back through the orcish tunnels."
 msgstr ""
 "No tak, nevzdávejte to! Owaec zničil most, takže se budeme muset probojovat "
-"zpět skrz orkské tunely."
+"zpátky skrz skřetí tunely."
 
 #. [message]: role=leader
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1352
-#, fuzzy
 msgid ""
 "I know this looks grim, but we have to try. It’s our only chance. If we can "
 "just get through to the eastern exit, we might be able to escape!"
 msgstr ""
-"Vím, že to vypadá ponuře, ale musíme to zkusit. Je to naše jediná šance. "
-"Pokud se nám podaří projít k východnímu východu, možná se nám podaří "
-"uniknout!"
+"Vím, že to nevypadá dobře, ale musíme to zkusit. Je to naše jediná šance. "
+"Pokud dokážeme projít k východnímu východu, možná se nám podaří uniknout!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1414
@@ -12200,9 +12193,8 @@ msgstr ""
 #. [message]: speaker=Chief Dra-Nak
 #. the chief's last breath
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:1649
-#, fuzzy
 msgid "FILTHY... Rotten... ...traitors... ..."
-msgstr "ŠPINAVÝ... Prohnilí... ...zrádci... ..."
+msgstr "HNUSNÍ... Odporní... ...zrádci... ..."
 
 #. [terrain_type]: id=urbanjungle
 #: data/campaigns/Eastern_Invasion/terrain.cfg:8
