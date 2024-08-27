@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-18 23:11-0500\n"
-"PO-Revision-Date: 2024-08-26 23:57+0200\n"
+"PO-Revision-Date: 2024-08-27 21:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1763,6 +1763,8 @@ msgid ""
 "The Ford of Abez is a crossing between Wesnoth and the Northlands, and is "
 "the westernmost point where the Great River can be crossed without ships."
 msgstr ""
+"Abezský brod je přechod mezi Wesnothem a Severními zeměmi a je "
+"nejzápadnějším místem, kde lze Velkou řeku překonat bez lodí."
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:40
@@ -1788,6 +1790,9 @@ msgid ""
 "in every direction from Morogor until eventually flowing into the abyss as "
 "an immense waterfall at the edge of the world."
 msgstr ""
+"Drakonidé kdysi nazývali tento oceán Světovým oceánem. Věří, že se "
+"rozprostírá od Morogoru do všech směrů, až se nakonec vlévá do propasti jako "
+"obrovský vodopád na okraji světa."
 
 #. [topic]: id=morogor
 #: data/core/encyclopedia/geography.cfg:50
@@ -1817,6 +1822,9 @@ msgid ""
 "               • Mount Morogor: An active volcanic mountain in the central "
 "island of Morogor."
 msgstr ""
+"<header>text='Významné krajinné prvky:'</header>\n"
+"               • Hora Morogor: Aktivní sopečná hora na hlavním ostrově "
+"Morogoru."
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:63
