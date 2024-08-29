@@ -8,19 +8,18 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-ei | 1843 | 98% | 34 |
-wesnoth-help | 724 | 96% | 25 | Michal
+wesnoth-ei | 1843 | 98% | 34 | Michal
 
-Total messages remaining: **59**
+Total messages remaining: **34**
 
 Progress since 2024-08-20: **3** messages per day
 
-ETA: **2024-09-10**
+ETA: **2024-09-09**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
 ## Add-ons
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-A_New_Order | 3271 | 86% | 433 | Septim
+wesnoth-A_New_Order | 3340 | 84% | 517 | Septim
 wesnoth-The_Earths_Gut | 1565 | 24% | 1177 | Septim
