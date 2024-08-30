@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-19 22:37+0200\n"
+"PO-Revision-Date: 2024-08-30 23:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12199,21 +12199,19 @@ msgstr "HNUSNÍ... Odporní... ...zrádci... ..."
 #. [terrain_type]: id=urbanjungle
 #: data/campaigns/Eastern_Invasion/terrain.cfg:8
 #: data/campaigns/Eastern_Invasion/terrain.cfg:9
-#, fuzzy
 msgid "Urban"
-msgstr "Urban"
+msgstr "Městský"
 
 #. [terrain_type]: id=urbanjungle
 #: data/campaigns/Eastern_Invasion/terrain.cfg:10
-#, fuzzy
 msgid ""
 "Densely packed structures are less suitable for garrison than traditional "
 "villages, providing no income or healing. They are difficult to navigate "
 "quickly, but offer significant protection."
 msgstr ""
-"Hustě zabydlené struktury jsou méně vhodné pro posádku než tradiční vesnice, "
+"Hustě namačkané stavby jsou pro posádku méně vhodné než tradiční vesnice, "
 "neposkytují žádný příjem ani léčení. Je obtížné se v nich rychle orientovat, "
-"ale poskytují významnou ochranu."
+"ale nabízí významnou ochranu."
 
 #. [terrain_type]: id=urbanjungleA
 #. [terrain_type]: id=urbanjungle{ID}
