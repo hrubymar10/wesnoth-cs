@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-30 23:52+0200\n"
+"PO-Revision-Date: 2024-08-31 22:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12227,7 +12227,6 @@ msgstr "Městská džungle"
 
 #. [unit_type]: id=Ant Queen, race=monster
 #: data/campaigns/Eastern_Invasion/units/Ant_Queen.cfg:4
-#, fuzzy
 msgid "Ant Queen"
 msgstr "Mravenčí královna"
 
@@ -12240,15 +12239,14 @@ msgid ""
 "defense."
 msgstr ""
 "V srdci každého obřího mraveniště se nachází královna. Stejně jako u jejich "
-"miniaturních bratranců, bude i dobře živená královna obřích mravenců "
-"neustále klást vajíčka a zajišťovat, že kolonii nikdy nebudou chybět dělníci "
+"menších příbuzných, bude i dobře živená královna obřích mravenců neustále "
+"klást vajíčka a zajišťovat, že kolonii nikdy nebudou chybět dělníci "
 "obstarávající úklid nebo vojáci pro obranu."
 
 #. [dummy]
 #: data/campaigns/Eastern_Invasion/units/Ant_Queen.cfg:25
-#, fuzzy
 msgid "royalty"
-msgstr "licenční poplatky"
+msgstr "majestát"
 
 #. [dummy]
 #: data/campaigns/Eastern_Invasion/units/Ant_Queen.cfg:26
