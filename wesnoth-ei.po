@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-08-31 22:14+0200\n"
+"PO-Revision-Date: 2024-09-01 22:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12255,40 +12255,35 @@ msgstr "Pokud je mravenčí královna zabita, všichni její poddaní zemřou."
 
 #. [unit_type]: id=Egg Sac, race=monster
 #: data/campaigns/Eastern_Invasion/units/Egg_Sac.cfg:4
-#, fuzzy
 msgid "Egg Sac"
-msgstr "Vak na vejce"
+msgstr "Vaječný vak"
 
 #. [unit_type]: id=Egg Sac, race=monster
 #: data/campaigns/Eastern_Invasion/units/Egg_Sac.cfg:17
-#, fuzzy
 msgid ""
 "Each of these enormous egg sacs contains up to a dozen ant larvae, "
 "sheltering and nourishing them while they develop into worker drones. When "
 "the burrow is threatened, an ant queen can release pheromones that cause "
 "each sac to rapidly develop into a single large warrior ant."
 msgstr ""
-"Každý z těchto obrovských vaječných vaků obsahuje až tucet mravenčích larev, "
-"které se zde ukrývají a živí, zatímco se vyvíjejí v dělnice. Když je "
-"mravenčí nora ohrožena, může mravenčí královna vypustit feromony, které "
-"způsobí, že se každý váček rychle vyvine v jednoho velkého mravence "
-"bojovníka."
+"Každý z těchto obrovských vaječných vaků obsahuje až tucet mravenčích larev, "
+"které se zde ukrývají a živí, zatímco se vyvíjejí v dělnice. Když je "
+"mraveniště ohroženo, může mravenčí královna vypustit feromony, které "
+"způsobí, že se každý vak rychle vyvine v jednoho velkého mravence bojovníka."
 
 #. [dummy]
 #: data/campaigns/Eastern_Invasion/units/Egg_Sac.cfg:22
-#, fuzzy
 msgid "hatch"
-msgstr "poklop"
+msgstr "líhnutí"
 
 #. [dummy]
 #: data/campaigns/Eastern_Invasion/units/Egg_Sac.cfg:23
-#, fuzzy
 msgid ""
 "If an enemy unit is adjacent to this egg sac when it begins its turn, it "
 "will hatch."
 msgstr ""
-"Pokud je na začátku svého tahu nepřátelská jednotka v sousedství tohoto "
-"vaječného vaku, vylíhne se."
+"Pokud je v sousedství tohoto vaječného vaku na začátku jeho kola nepřátelská "
+"jednotka, dojde k vylíhnutí."
 
 #. [unit_type]: id=Gate, race=mechanical
 #: data/campaigns/Eastern_Invasion/units/Gate.cfg:5
