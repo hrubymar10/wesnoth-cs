@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-01 22:12+0200\n"
+"PO-Revision-Date: 2024-09-02 23:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12552,7 +12552,6 @@ msgstr "astrální čepel"
 #. The secondary attack of this unit is named shadow wave (same as the Dark Sorcerer’s)
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Lord.cfg:49
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Mage.cfg:49
-#, fuzzy
 msgid "blast wave"
 msgstr "tlaková vlna"
 
@@ -12564,7 +12563,6 @@ msgstr "Stínová magyně"
 
 #. [unit_type]: id=Shadow Mage, race=human, gender=female
 #: data/campaigns/Eastern_Invasion/units/Human_Shadow_Mage.cfg:23
-#, fuzzy
 msgid ""
 "Obsessive study over the forces of light and dark have turned the shadow "
 "mages into feared fighters. Cloaked in mist, they have been known to vanish "
@@ -12572,11 +12570,11 @@ msgid ""
 "their bodies exhausted and enfeebled, they instead channel their energies "
 "into devastatingly accurate melee attacks."
 msgstr ""
-"Posedlé studium sil světla a temnoty učinilo ze stínových mágů obávané "
-"bojovníky. Jsou známí tím, že zahaleni do mlhy mizí v noci rychleji než "
+"Vášnivé studium sil světla a temnoty učinilo ze stínových magyň obávané "
+"bojovnice. Jsou známé tím, že zahaleny do mlhy mizí v noci rychleji než "
 "jakýkoli duch. Zatímco jejich horlivé studium zanechává jejich těla "
-"vyčerpaná a zesláblá, svou energii namísto toho směřují do ničivě přesných "
-"útoků zblízka."
+"vyčerpaná a zesláblá, svou energii raději směřují do ničivě přesných útoků "
+"zblízka."
 
 #. [attack]: type=fire
 #: data/campaigns/Eastern_Invasion/units/Human_Terraent_Paladin.cfg:48
