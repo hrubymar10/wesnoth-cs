@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-07-22 03:31 UTC\n"
-"PO-Revision-Date: 2024-09-02 23:57+0200\n"
+"PO-Revision-Date: 2024-09-03 21:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12601,13 +12601,11 @@ msgstr ""
 
 #. [unit_type]: id=Naga Centurion, race=naga, gender=male,female
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:4
-#, fuzzy
 msgid "Naga Centurion"
-msgstr "Naga Centurion"
+msgstr "Nága setník"
 
 #. [unit_type]: id=Naga Centurion, race=naga, gender=male,female
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:20
-#, fuzzy
 msgid ""
 "The leaders of the naga have mastered the serpentine arts of their kind, "
 "striking faster than a lightning bolt and dancing away more gracefully than "
@@ -12615,10 +12613,10 @@ msgid ""
 "these Naga are honored by their clutch and bestowed the rare title of "
 "Centurion."
 msgstr ""
-"Vůdci nagy ovládají hadí umění svého druhu, útočí rychleji než blesk a tančí "
-"ladněji než lesní potůček. Tito nágové, nesporní mistři šermířského umění i "
-"vůdcovských schopností, jsou svými klany ctěni a je jim udělován vzácný "
-"titul centurion."
+"Vůdci nág zvládají hadí umění svého druhu, zaútočí rychleji než blesk "
+"a odtančí ladněji než lesní potůček. Tyto nágy, nesporní mistři šermu "
+"i schopnosti vést, jsou svými soukmenovci ctěny a je jim udělován výjimečný "
+"titul setník."
 
 #. [attack]: type=blade
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:32
@@ -12632,9 +12630,8 @@ msgstr "rychlý úder"
 
 #. [female]: gender=female
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:72
-#, fuzzy
 msgid "Nagini Centurion"
-msgstr "Nagini Centurion"
+msgstr "Nága setnice"
 
 #. [unit_type]: id=Ancient Ogre, race=ogre
 #: data/campaigns/Eastern_Invasion/units/Ogre_Ancient.cfg:4
