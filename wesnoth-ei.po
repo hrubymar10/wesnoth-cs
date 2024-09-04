@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-03 21:31+0200\n"
+"PO-Revision-Date: 2024-09-04 21:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12619,51 +12619,46 @@ msgstr ""
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Horse_Barrow_Wight.cfg:4
-#, fuzzy
 msgid "Barrow Wight"
-msgstr "Barrow Wight"
+msgstr "Mohylový postrach"
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Horse_Barrow_Wight.cfg:18
-#, fuzzy
 msgid ""
 "Perpetually haunted by the fading memory of its former life, a Barrow Wight "
 "wanders aimlessly in a delirium of darkness and despair. Their chill essence "
 "is shrouded behind cloak and bone, shielding them from most magic."
 msgstr ""
-"Barrow Wight, kterého neustále pronásledují blednoucí vzpomínky na jeho "
-"dřívější život, bezcílně bloudí v deliriu temnoty a zoufalství. Jejich "
-"chladná podstata je zahalena pláštěm a kostmi, které je chrání před většinou "
-"magie."
+"Mohylový postrach, kterého neustále pronásledují blednoucí vzpomínky na jeho "
+"dřívější život, bezcílně bloudí v deliriu temnoty a zoufalství. Jejich "
+"chladná podstata je zahalena pláštěm a kostmi, které je chrání před většinou "
+"kouzel."
 
 #. [unit_type]: id=Pyre Wight, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Horse_Pyre_Wight.cfg:4
-#, fuzzy
 msgid "Pyre Wight"
-msgstr "Pyre Wight"
+msgstr "Ohnivý postrach"
 
 #. [unit_type]: id=Pyre Wight, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Horse_Pyre_Wight.cfg:18
-#, fuzzy
 msgid ""
 "Risen from a funeral’s ashes and newly bathed in fire, a Pyre Wight’s soul "
 "burns with a desire for vengeance. They single-mindedly seek out those who "
 "wronged them in their past life, but undeath has robbed their memories of "
 "friend and foe."
 msgstr ""
-"Duše Pyre Wighta, který vstal z popela pohřbu a nově se vykoupal v ohni, "
-"hoří touhou po pomstě. Cíleně pátrají po těch, kdo jim v minulém životě "
-"ublížili, ale nesmrtelnost je připravila o vzpomínky na přátele i nepřátele."
+"Duše ohnivého postrachu, který vstal z popela pohřbu a nově se vykoupal "
+"v ohni, hoří touhou po pomstě. Cíleně pátrají po těch, kdo jim v minulém "
+"životě ublížili, ale nemrtvo je připravilo o vzpomínky na přátele "
+"i nepřátele."
 
 #. [unit_type]: id=Dread Lich, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Ravanal_Dread_Lich.cfg:17
-#, fuzzy
 msgid "Dread Lich"
-msgstr "Dread Lich"
+msgstr "Děsivý lich"
 
 #. [unit_type]: id=Dread Lich, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Ravanal_Dread_Lich.cfg:31
-#, fuzzy
 msgid ""
 "Named thusly for the abject terror they awaken in their enemies, a so-called "
 "Dread Lich is an artisan of necromantic power, a consummate master of the "
@@ -12677,16 +12672,16 @@ msgid ""
 "that the rise of an Dread Lich has not led to the shadows ruling the world "
 "for the rest of time."
 msgstr ""
-"Takzvaný Dread Lich, pojmenovaný podle hrůzy, kterou vzbuzuje ve svých "
-"nepřátelích, je řemeslník nekromantské moci, dokonalý mistr temné magie, "
+"Takzvaný děsivý lich, pojmenovaný podle hrůzy, kterou vzbuzuje ve svých "
+"nepřátelích, je odborník na nekromantskou moc, dokonalý mistr temné magie, "
 "kterou ovládá.\n"
 "\n"
-"Lich tohoto řádu, který vždy velí téměř neomezené hordě vzkříšených "
-"válečníků a nemrtvých nestvůr, ovládá temná kouzla, která dokáží nahnat "
-"hrůzu i těm nejpovolanějším mágům lidského a elfího rodu. Taková postava "
-"obvykle znamená temnou a krvavou kapitolu v dějinách a v těchto těžkých "
-"dobách jen díky neúnavnému úsilí nejstatečnějších hrdinů nevedl vzestup "
-"strašlivého licha k tomu, že by stíny vládly světu po zbytek času."
+"Lich této úrovně, který vždy velí téměř neomezené hordě vyvolaných válečníků "
+"a nemrtvých nestvůr, ovládá temná kouzla, která dokáží nahnat hrůzu i těm "
+"nejproslulejším mágům lidského a elfího rodu. Taková postava obvykle znamená "
+"temnou a krvavou kapitolu v dějinách a v těchto těžkých dobách jen díky "
+"neúnavnému úsilí nejudatnějších hrdinů nevedl vzestup děsivého licha k tomu, "
+"že by po zbytek času vládly světu stíny."
 
 #. [dummy]: id=reanimation
 #: data/campaigns/Eastern_Invasion/units/Undead_Ravanal_Dread_Lich.cfg:74
@@ -12710,9 +12705,8 @@ msgstr ""
 
 #. [unit_type]: id=Skeletal Corpse, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Skeletal_Corpse.cfg:5
-#, fuzzy
 msgid "Skeletal Corpse"
-msgstr "Kosterní mrtvola"
+msgstr "Kostlivá mrtvola"
 
 #. [unit_type]: id=Skeletal Corpse, race=undead
 #. [unit_type]: id=Skeletal Soulless, race=undead
@@ -12730,9 +12724,8 @@ msgstr ""
 
 #. [unit_type]: id=Skeletal Soulless, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Skeletal_Soulless.cfg:5
-#, fuzzy
 msgid "Skeletal Soulless"
-msgstr "Skeletal Soulless"
+msgstr "Kostlivá necita"
 
 #. [drains]: id=greater drains
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:6
