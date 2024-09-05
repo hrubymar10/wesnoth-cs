@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-04 21:14+0200\n"
+"PO-Revision-Date: 2024-09-05 21:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12629,7 +12629,7 @@ msgid ""
 "wanders aimlessly in a delirium of darkness and despair. Their chill essence "
 "is shrouded behind cloak and bone, shielding them from most magic."
 msgstr ""
-"Mohylový postrach, kterého neustále pronásledují blednoucí vzpomínky na jeho "
+"Mohylový postrach, který neustále pronásledují blednoucí vzpomínky na jeho "
 "dřívější život, bezcílně bloudí v deliriu temnoty a zoufalství. Jejich "
 "chladná podstata je zahalena pláštěm a kostmi, které je chrání před většinou "
 "kouzel."
@@ -12757,9 +12757,8 @@ msgstr ""
 
 #. [attacks]: id=swift
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:141
-#, fuzzy
 msgid "swift"
-msgstr "swift"
+msgstr "rychlík"
 
 #. [attacks]: id=swift
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:142
@@ -12795,9 +12794,8 @@ msgstr ""
 
 #. [dummy]: id=vanguard
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:169
-#, fuzzy
 msgid "vanguard"
-msgstr "vanguard"
+msgstr "předvoj"
 
 #. [dummy]: id=vanguard
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:170
@@ -12896,15 +12894,13 @@ msgstr ""
 
 #. [resistance]: id=shroud
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:521
-#, fuzzy
 msgid "shroud"
-msgstr "rubáš"
+msgstr "zahalení"
 
 #. [resistance]: id=shroud
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:522
-#, fuzzy
 msgid "While defending, this unit has 50% fire and arcane resistance."
-msgstr "Při obraně má tato jednotka 50% odolnost proti ohni a tajemství."
+msgstr "Při obraně má tato jednotka 50% odolnost proti ohni a nezemskému."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/amlas.cfg:39
@@ -12957,9 +12953,8 @@ msgstr "věrný"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Eastern_Invasion/utils/character-definitions.cfg:17
-#, fuzzy
 msgid "Zero upkeep"
-msgstr "Nulová údržba"
+msgstr "Nulové zaopatření"
 
 #: data/campaigns/Eastern_Invasion/utils/character-definitions.cfg:27
 msgid "Gweddry"
