@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-05 21:08+0200\n"
+"PO-Revision-Date: 2024-09-06 23:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13051,17 +13051,17 @@ msgstr ""
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:175
-#, fuzzy
 msgid "Bar... ber... bears? Die why?"
-msgstr "Bar... ber... medvědi? Proč zemřít?"
+msgstr "Bar... bar... many? Zemřít proč?"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:179
-#, fuzzy
 msgid ""
 "Aye, ‘tis a sad place for one o’ us foreigners to fall. We’ll miss ye, "
 "that’s for sure."
-msgstr "Ano, je to smutné místo pro nás cizince. Určitě nám budete chybět."
+msgstr ""
+"Ba, je to pro nás cizince žalostné místo na smrt. Budeš nám chybět, to je "
+"jisté."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:193
@@ -13104,9 +13104,8 @@ msgstr "Běda, umírám..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:255
-#, fuzzy
 msgid "Yannic! The Clans have lost another brave soul this day..."
-msgstr "Yannic! Klan dnes ztratil další statečnou duši..."
+msgstr "Yannicu! Klany dnes ztratily další statečnou duši..."
 
 #. [message]: speaker=Halrad
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:271
