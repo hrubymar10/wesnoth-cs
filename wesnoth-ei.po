@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-29 03:34 UTC\n"
-"PO-Revision-Date: 2024-09-06 23:33+0200\n"
+"PO-Revision-Date: 2024-09-08 22:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9624,9 +9624,9 @@ msgid ""
 "Ravanal’s greater host. (cough)(cough) I must meet with the king. Weldyn "
 "will fall if we do not act."
 msgstr ""
-"Dokonce i tyto síly nemrtvých <i>(kašle)</i> se zdají být jen malým zlomkem "
-"Mal-Ravanalových hord <i>(kašle a kašle)</i>. Musím se setkat s králem. "
-"Weldyn padne, pokud nebudeme jednat."
+"Dokonce i tyto síly nemrtvých (ehmehm) se zdají být jen malým zlomkem Mal-"
+"Ravanalových hord. (ehmehm)(ehmehm) Musím se setkat s králem. Weldyn padne, "
+"pokud nebudeme jednat."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:628
@@ -9771,9 +9771,9 @@ msgid ""
 "the lich’s long-tortured soul. This destruction will be permanent."
 msgstr ""
 "A to je důvod, proč jsme s mými společníky strávili poslední rok cestováním "
-"daleko na severovýchod <i>(kašle)</i> a hledáním mocného magického amuletu, "
-"který nyní vlastním. Pokud dokážeme zničit kostlivé tělo, budu mít moc "
-"vyhnat lichovu dlouho mučenou duši. Toto zničení bude trvalé."
+"daleko na severovýchod a hledáním (ehmehm) mocného magického amuletu, který "
+"nyní vlastním. Pokud dokážeme zničit kostlivé tělo, budu mít moc vyhnat "
+"lichovu dlouho mučenou duši. Toto zničení bude trvalé."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:918
@@ -9840,11 +9840,11 @@ msgid ""
 "Ravanal to a duel, I believe they would choose to face me. That would be our "
 "opportunity."
 msgstr ""
-"Mám <i>(kašle)</i> lepší návrh. Mal-Ravanalovy armády jsou obrovské a "
-"nerozprášitelné. Lich sám však není. Jako člověk byl Ravan příliš sebevědomý "
-"až arogantní. Stále věřím, že takový je, ne-li více poté, co se stal lichem "
-"<i>(kašle a kašle)</i>. Kdybych vyzval Mal-Ravanala na souboj, věřím, že by "
-"se mi rozhodl čelit. To by byla naše příležitost."
+"Mám (ehmehm) lepší návrh. Mal-Ravanalovy armády jsou obrovské "
+"a nerozprášitelné. Lich sám však není. Jako člověk byl Ravan příliš "
+"sebevědomý až arogantní. Stále věřím, že takový je, ne-li více poté, co se "
+"stal lichem. (ehmehm)(ehmehm) Kdybych vyzval Mal-Ravanala na souboj, věřím, "
+"že by se mi rozhodl čelit. To by byla naše příležitost."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:944
@@ -9865,7 +9865,7 @@ msgid ""
 "We face their entire army regardless. (cough)(cough) The only difference is "
 "whether Mal-Ravanal is commanding in the back or gloating in the front."
 msgstr ""
-"Jeho armádě čelíme tak jako tak <i>(kašle a kašle)</i>. Jediným rozdílem je, "
+"Jeho armádě čelíme tak jako tak. (ehmehm)(ehmehm) Jediným rozdílem je, "
 "jestli Mal-Ravanal rozkazuje zezadu, anebo se chechtá vepředu."
 
 #. [message]: speaker=Konrad
@@ -10711,7 +10711,7 @@ msgid ""
 "strong in the darkness, but I have become stronger (cough)(cough) still!"
 msgstr ""
 "Já a jenom já ukončím tvé odporné pikle! Ty jsi v temnotě zesílil, ale já "
-"jsem ještě (ehmehm) (ehmehm) silnější!"
+"jsem ještě (ehmehm)(ehmehm) silnější!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:177
@@ -10925,7 +10925,7 @@ msgid ""
 "them until we have killed enough of these liches to break their spell. "
 "(cough)"
 msgstr ""
-"Tihle lichové používají temnou magii, aby se skryli. (ehmehm) (ehmehm) "
+"Tihle lichové používají temnou magii, aby se skryli. (ehmehm)(ehmehm) "
 "I kdyby tu byl Mal-Ravanal, nebudu ho moci (ehmehm) odhalit, dokud "
 "nezabijeme dost lichů, abychom jejich kouzlo zlomili. (ehmehm)"
 
