@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-18 23:11-0500\n"
-"PO-Revision-Date: 2024-08-29 22:19+0200\n"
+"PO-Revision-Date: 2024-09-10 21:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1914,7 +1914,7 @@ msgstr ""
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:95
 msgid "Irdya"
-msgstr "Irdya"
+msgstr "Irdye"
 
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:96
@@ -1925,10 +1925,10 @@ msgid ""
 "“the world” or, poetically, “the wide green world”."
 msgstr ""
 "Svět, na němž se nachází <ref>dst='kingdom_wesnoth' text='Wesnothské "
-"království'</ref>, jeho obyvatelé nazývají „Irdya“. Tento termín je však v "
-"éře odpovídající poměrům na hlavní mapě používán zřídkavě. Lidé jej obvykle "
-"označují prostě jako „svět“, případně „široširý zelený svět“, pokud mají "
-"poetičtější náladu."
+"království'</ref>, jeho obyvatelé nazývají „Irdye“. Tento termín je však "
+"v éře odpovídající poměrům na hlavní mapě používán zřídkavě. Lidé jej "
+"obvykle označují prostě jako „svět“, případně „široširý zelený svět“, pokud "
+"mají poetičtější náladu."
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:101
