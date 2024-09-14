@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-28 22:34-0500\n"
-"PO-Revision-Date: 2024-03-03 10:07+0100\n"
+"PO-Revision-Date: 2024-09-14 22:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5648,13 +5648,13 @@ msgid_plural ""
 "installed or available from the server. Do you wish to continue?"
 msgstr[0] ""
 "Vybrané rozšíření závisí na dalším rozšíření, které není momentálně "
-"nainstalováno nebo není dostupné na serveru. Přejete si pokračovat?"
+"nainstalováno nebo není dostupné na serveru. Přeješ si pokračovat?"
 msgstr[1] ""
 "Vybraná rozšíření závisí na dalším rozšíření, které není momentálně "
-"nainstalováno nebo není dostupné na serveru. Přejete si pokračovat?"
+"nainstalováno nebo není dostupné na serveru. Přeješ si pokračovat?"
 msgstr[2] ""
 "Vybraná rozšíření závisí na dalším rozšíření, které není momentálně "
-"nainstalováno nebo není dostupné na serveru. Přejete si pokračovat?"
+"nainstalováno nebo není dostupné na serveru. Přeješ si pokračovat?"
 
 #: src/addon/client.cpp:490
 msgid "Broken Dependencies"
@@ -5796,9 +5796,9 @@ msgstr "Nejsou nainstalována žádná rozšíření."
 #: src/addon/manager_ui.cpp:166
 msgid "Are you sure you want to remove the following installed add-on?"
 msgid_plural "Are you sure you want to remove the following installed add-ons?"
-msgstr[0] "Opravdu si přejete odstranit následující rozšíření?"
-msgstr[1] "Opravdu si přejete odstranit následující rozšíření?"
-msgstr[2] "Opravdu si přejete odstranit následující rozšíření?"
+msgstr[0] "Opravdu si přeješ odstranit následující rozšíření?"
+msgstr[1] "Opravdu si přeješ odstranit následující rozšíření?"
+msgstr[2] "Opravdu si přeješ odstranit následující rozšíření?"
 
 #: src/addon/manager_ui.cpp:192
 msgid ""
@@ -6831,7 +6831,7 @@ msgstr "Konec hry"
 
 #: src/game_initialization/playcampaign.cpp:219
 msgid "This scenario has ended. Do you want to continue the campaign?"
-msgstr "Tento scénář skončil. Přejete si pokračovat v tažení?"
+msgstr "Tento scénář skončil. Přeješ si pokračovat v tažení?"
 
 #: src/game_initialization/playcampaign.cpp:287
 msgid "Unknown scenario: '$scenario|'"
@@ -6894,15 +6894,13 @@ msgid_plural ""
 "not currently installed. Do you wish to install them before continuing?"
 msgstr[0] ""
 "Vybrané rozšíření závisí na dalším rozšíření, které je zastaralé, nebo není "
-"momentálně nainstalováno. Přejete si ho před pokračováním nainstalovat?"
+"momentálně nainstalováno. Přeješ si ho před pokračováním nainstalovat?"
 msgstr[1] ""
 "Vybrané rozšíření závisí na dalších rozšířeních, která jsou zastaralá, nebo "
-"nejsou momentálně nainstalována. Přejete si je před pokračováním "
-"nainstalovat?"
+"nejsou momentálně nainstalována. Přeješ si je před pokračováním nainstalovat?"
 msgstr[2] ""
 "Vybrané rozšíření závisí na dalších rozšířeních, která jsou zastaralá, nebo "
-"nejsou momentálně nainstalována. Přejete si je před pokračováním "
-"nainstalovat?"
+"nejsou momentálně nainstalována. Přeješ si je před pokračováním nainstalovat?"
 
 #: src/gui/dialogs/editor/choose_addon.cpp:77
 msgid "Create a new add-on"
@@ -7895,7 +7893,7 @@ msgstr ""
 
 #: src/menu_events.cpp:2034
 msgid "Do you wish to clear all of your discovered units from help?"
-msgstr "Přejete si smazat z nápovědy všechny spatřené druhy jednotek?"
+msgstr "Přeješ si smazat z nápovědy všechny spatřené druhy jednotek?"
 
 #: src/menu_events.cpp:2048
 msgid "Invalid unit type"
