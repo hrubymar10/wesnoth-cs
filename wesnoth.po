@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-06-28 22:34-0500\n"
-"PO-Revision-Date: 2024-09-14 22:23+0200\n"
+"PO-Revision-Date: 2024-09-15 22:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5667,11 +5667,11 @@ msgid ""
 msgid_plural ""
 "The following dependencies could not be installed. Do you still wish to "
 "continue?"
-msgstr[0] "Následující závislost nebylo možné nainstalovat. Chcete pokračovat?"
+msgstr[0] "Následující závislost nebylo možné nainstalovat. Chceš pokračovat?"
 msgstr[1] ""
-"Následující závislosti nebylo možné nainstalovat. Chcete pokračovat?"
+"Následující závislosti nebylo možné nainstalovat. Chceš pokračovat?"
 msgstr[2] ""
-"Následující závislosti nebylo možné nainstalovat. Chcete pokračovat?"
+"Následující závislosti nebylo možné nainstalovat. Chceš pokračovat?"
 
 #: src/addon/client.cpp:534
 msgid "Dependencies Installation Failed"
@@ -7158,7 +7158,7 @@ msgstr "původní soubor je poškozený"
 
 #: src/hotkey/command_executor.cpp:405
 msgid "Do you really want to surrender the game?"
-msgstr "Opravdu se chcete v této hře vzdát?"
+msgstr "Opravdu se chceš v této hře vzdát?"
 
 #: src/hotkey/command_executor.cpp:405
 msgid "Surrender"
@@ -7462,7 +7462,7 @@ msgstr "Vymazat popisky"
 
 #: src/menu_events.cpp:844
 msgid "Are you sure you want to clear map labels?"
-msgstr "Opravdu chcete odstranit popisky z mapy?"
+msgstr "Opravdu chceš odstranit popisky z mapy?"
 
 #: src/menu_events.cpp:1046
 msgid "Search"
@@ -8014,7 +8014,7 @@ msgid ""
 "The game is out of sync. It might not make much sense to continue. Do you "
 "want to save your game?"
 msgstr ""
-"Je porušen souběh her a pokračování ve hře nemá smysl. Chcete hru uložit?"
+"Je porušen souběh her a pokračování ve hře nemá smysl. Chceš hru uložit?"
 
 #: src/play_controller.cpp:1051
 msgid "Error details:"
@@ -8075,7 +8075,7 @@ msgid ""
 "A network disconnection has occurred, and the game cannot continue. Do you "
 "want to save the game?"
 msgstr ""
-"Síťové spojení bylo přerušeno a hra nemůže pokračovat. Chcete ji uložit?"
+"Síťové spojení bylo přerušeno a hra nemůže pokračovat. Chceš ji uložit?"
 
 #: src/playmp_controller.cpp:254 src/playsingle_controller.cpp:450
 msgid ""
@@ -8083,7 +8083,7 @@ msgid ""
 "Do you want to save the game?"
 msgstr ""
 "\n"
-"Chcete uložit hru?"
+"Chceš uložit hru?"
 
 #: src/playmp_controller.cpp:254 src/playsingle_controller.cpp:450
 msgid ""
@@ -8818,7 +8818,7 @@ msgstr "Detaily:"
 
 #: src/synced_commands.cpp:433
 msgid "Do you wish to save the game before continuing?"
-msgstr "Chcete před pokračováním hru uložit?"
+msgstr "Chceš před pokračováním hru uložit?"
 
 #: src/synced_commands.cpp:435
 msgid "Debug Command Used"
