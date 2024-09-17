@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-18 23:11-0500\n"
-"PO-Revision-Date: 2024-09-16 22:01+0200\n"
+"PO-Revision-Date: 2024-09-17 23:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -100,8 +100,7 @@ msgid ""
 "Choose whether the map view should scroll to a unit when an action or move "
 "is animated"
 msgstr ""
-"Vyberte, zda se má mapa posunout k jednotce, když se pohybuje nebo něco "
-"provede"
+"Vyber, zda se má mapa posunout k jednotce, když se pohybuje nebo něco provede"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:76
@@ -1450,8 +1449,8 @@ msgid ""
 "In this scenario, you may issue instructions to an allied side by right-"
 "clicking on a unit that belongs to it."
 msgstr ""
-"V tomto scénáři můžeš vydat vašim počítačovým spojencům příkazy v menu po "
-"kliknutí pravým tlačítkem na jejich jednotku."
+"V tomto scénáři můžeš vydat příkazy spojenecké straně kliknutím pravým "
+"tlačítkem myši na jednotku, která k ní patří."
 
 #. [overview_message_has_instructions]: speaker=narrator
 #. [overview_message_no_instructions]: speaker=narrator
@@ -1467,7 +1466,7 @@ msgstr "Vydat příkazy spojenci"
 msgid ""
 "$ally_leader.name (side $ally_side|) is carrying out the following "
 "instructions:"
-msgstr "$ally_leader.name (strana $ally_side|) plní náseldující příkazy:"
+msgstr "$ally_leader.name (strana $ally_side|) plní následující příkazy:"
 
 #. [overview_message_no_instructions]: speaker=narrator
 #: data/core/macros/ai_controller.cfg:142
@@ -8155,8 +8154,8 @@ msgid ""
 "what this message means, then most likely someone is cheating or someone "
 "reloaded a corrupt game."
 msgstr ""
-"Tato hra více hráčů používá nějaký alternativní náhodný mód. Pokud nevíte, "
-"co tato zpráva znamená, tak pravděpodobně někdo podvádí nebo znovunahrál "
+"Tato hra více hráčů používá nějaký alternativní náhodný mód. Pokud nevíš, co "
+"tato zpráva znamená, tak pravděpodobně někdo podvádí nebo znovunahrál "
 "poškozenou hru."
 
 #: src/playsingle_controller.cpp:384
