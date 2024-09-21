@@ -2,14 +2,14 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2011, 2020 - 2023.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-18 02:19 UTC\n"
-"PO-Revision-Date: 2023-09-20 20:45+0200\n"
+"PO-Revision-Date: 2024-09-21 08:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2593,14 +2593,12 @@ msgstr "(<i>Šeptá</i>)"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1061
-#, fuzzy
-#| msgid ""
-#| "Bright Gods, such a fierce creature whimpering! What the heck have they "
-#| "done to it?"
 msgid ""
 "Bright Gods, such a fierce creature whimpering! What in the world have they "
 "done to it?"
-msgstr "Propána, tak divoký tvor a kňourá jako koťátko! Co s ním prováděli?"
+msgstr ""
+"Propána, tak divoký tvor a kňourá jako koťátko! Co s ním pro všechno na "
+"světě prováděli?"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1066
@@ -2644,15 +2642,11 @@ msgstr "Není to „to“, ale „on“, a ano, jsou to velmi inteligentní stvo
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1123
-#, fuzzy
-#| msgid ""
-#| "Hush, I am trying to talk to him. Nope, we’ll never hurt you. But if you "
-#| "want to you can hurt some skeletons."
 msgid ""
 "Hush, I am trying to talk to him. Nope, we’ll never hurt you. But if you "
 "want to, you can hurt some skeletons."
 msgstr ""
-"Ticho, pokouším se s ním domluvit. Ne, nebudeme ti ubližovat. Ale jestli "
+"Ticho, pokouším se s ním domluvit. Ne, nikdy ti neublížíme. Ale jestli "
 "chceš, můžeš ty ublížit nějakým kostlivcům."
 
 #. [message]: speaker=Krash
@@ -3125,17 +3119,13 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2059
-#, fuzzy
-#| msgid "Hey, an underground lake."
 msgid "An underground lake."
-msgstr "Hele, podzemní jezero."
+msgstr "Podzemní jezero."
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2084
-#, fuzzy
-#| msgid "Monsters"
 msgid "Monster! Kill!"
-msgstr "Monstra"
+msgstr "Příšera! Zabít!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2090
@@ -3195,10 +3185,8 @@ msgstr "Kdo jsi, že sis troufl sestoupit do těchto tunelů?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2166
-#, fuzzy
-#| msgid "Tallin"
 msgid "I am Tallin."
-msgstr "Tallin"
+msgstr "Jmenuji se Tallin."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2172
@@ -3360,10 +3348,8 @@ msgstr "Co je to tu pořád s těmi mrtvolami? Odhazují je snad běžně do té
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2348
-#, fuzzy
-#| msgid "(<i>Sigh</i>) There doesn’t seem to be anything down this tunnel."
 msgid "There doesn’t seem to be anything this way other than another body."
-msgstr "(<i>Povzdech</i>) Nevypadá to, že v tom tunelu něco je."
+msgstr "Nevypadá to, že by tu bylo něco jiného než další tělo."
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2360
