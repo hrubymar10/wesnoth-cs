@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-17 21:19-0500\n"
-"PO-Revision-Date: 2024-09-28 17:07+0200\n"
+"PO-Revision-Date: 2024-09-28 17:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7636,19 +7636,23 @@ msgstr "Najít soubor"
 
 #: src/gui/dialogs/file_dialog.cpp:181
 msgid "<span color='#00dcff' size='small'>please enter a filename</span>"
-msgstr ""
+msgstr "<span color='#00dcff' size='small'>zadej prosím název souboru</span>"
 
 #: src/gui/dialogs/file_dialog.cpp:203
 msgid ""
 "<span color='red'><span face='DejaVuSans'>✘</span> <span size='small'>wrong "
 "extension, use $extensions</span></span>"
 msgstr ""
+"<span color='red'><span face='DejaVuSans'>✘</span> <span size='small'>špatná "
+"přípona, použij $extensions</span></span>"
 
 #: src/gui/dialogs/file_dialog.cpp:206
 msgid ""
 "<span color='red'><span face='DejaVuSans'>✘</span> <span "
 "size='small'>whitespace is not allowed in filename</span></span>"
 msgstr ""
+"<span color='red'><span face='DejaVuSans'>✘</span> <span "
+"size='small'>v názvu souboru není povolen bílý znak</span></span>"
 
 #: src/gui/dialogs/file_dialog.cpp:231
 msgid "Open"
