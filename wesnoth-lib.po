@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-17 21:19-0500\n"
-"PO-Revision-Date: 2024-09-18 22:31+0200\n"
+"PO-Revision-Date: 2024-09-28 17:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3934,10 +3934,8 @@ msgstr "Použití UI:"
 
 #. [label]
 #: data/gui/themes/default/window/editor_edit_unit.cfg:1170
-#, fuzzy
-#| msgid "Unit type saved."
 msgid "Unit Type Editor"
-msgstr "Typ jednotky uložen."
+msgstr "Editor typu jednotky"
 
 #. [tab]
 #: data/gui/themes/default/window/editor_edit_unit.cfg:1192
@@ -7062,10 +7060,8 @@ msgid "No draw section defined for state."
 msgstr "Pro stav není definován žádný vykreslovací oddíl."
 
 #: src/gui/core/widget_definition.cpp:67 src/gui/core/window_builder.cpp:132
-#, fuzzy
-#| msgid "No resolution defined."
 msgid "No resolution defined for "
-msgstr "Není definováno žádné rozlišení."
+msgstr "Není definováno žádné rozlišení pro "
 
 #: src/gui/core/window_builder.cpp:166 src/gui/widgets/addon_list.cpp:430
 #: src/gui/widgets/multi_page.cpp:176 src/gui/widgets/panel.cpp:131
@@ -7611,10 +7607,8 @@ msgstr ""
 "do svého rozšíření?"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:1036
-#, fuzzy
-#| msgid "Save already exists. Do you want to overwrite it?"
 msgid "Unsaved changes will be lost. Do you want to leave?"
-msgstr "Tato uložená pozice již existuje. Chceš ji přepsat?"
+msgstr "Neuložené změny budou ztraceny. Chceš odejít?"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:1055
 msgid "Unit type saved."
@@ -8702,10 +8696,8 @@ msgid "Terrain Description"
 msgstr "Popis terénu"
 
 #: src/hotkey/hotkey_command.cpp:102
-#, fuzzy
-#| msgid "Unit Description"
 msgid "Unit Type Description"
-msgstr "Popis jednotky"
+msgstr "Popis typu jednotky"
 
 #: src/hotkey/hotkey_command.cpp:104
 msgid "Delete Unit"
@@ -9048,10 +9040,8 @@ msgid "Item Tool"
 msgstr "Nástroj pro předměty"
 
 #: src/hotkey/hotkey_command.cpp:208
-#, fuzzy
-#| msgid "Left mouse button sets a new item."
 msgid "Left mouse button sets a new item. Right click removes item."
-msgstr "Levé tlačítko myši umístí nový předmět."
+msgstr "Levé tlačítko myši umístí nový předmět. Pravé předmět odstraní."
 
 #: src/hotkey/hotkey_command.cpp:209
 msgid ""
@@ -9441,28 +9431,20 @@ msgid "When reporting the bug please include the following error message :"
 msgstr "Při oznamování chyby prosím uveďte následující chybovou zprávu :"
 
 #: src/wml_exception.cpp:89
-#, fuzzy
-#| msgid ""
-#| "In section '[$section|]' where '$primary_key| = $primary_value' the "
-#| "mandatory key '$key|' isn't set."
 msgid ""
 "In section ‘[$section|]’ where ‘$primary_key|’ = $primary_value’ the "
 "mandatory key ‘$key|’ isn't set."
 msgstr ""
-"V sekci '[$section|]', kde '$primary_key| = $primary_value', není nastaven "
-"povinný klíč '$key|'."
+"V sekci „[$section|]“, kde „$primary_key| = $primary_value“, není nastaven "
+"povinný klíč „$key|“."
 
 #: src/wml_exception.cpp:92
-#, fuzzy
-#| msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
 msgid "In section ‘[$section|]’ the mandatory key ‘$key|’ isn't set."
-msgstr "V sekci '[$section|]' není nastaven povinný klíč '$key|'."
+msgstr "V sekci „[$section|]“ není nastaven povinný klíč „$key|“."
 
 #: src/wml_exception.cpp:104
-#, fuzzy
-#| msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
 msgid "In section ‘[$section|]’ the mandatory subtag ‘[$tag|]’ is missing."
-msgstr "V sekci '[$section|]' není nastaven povinný klíč '$key|'."
+msgstr "V sekci „[$section|]“ chybí povinná podřízená značka „[$tag|]”."
 
 #~ msgid "lawful"
 #~ msgstr "zákonná"
