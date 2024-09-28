@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-17 21:19-0500\n"
-"PO-Revision-Date: 2024-09-28 16:21+0200\n"
+"PO-Revision-Date: 2024-09-28 16:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7923,10 +7923,8 @@ msgid "prompt^Command:"
 msgstr "Příkaz:"
 
 #: src/menu_events.cpp:2145
-#, fuzzy
-#| msgid "prompt^Command:"
 msgid "prompt^Formula:"
-msgstr "Příkaz:"
+msgstr "Vzorec:"
 
 #: src/mouse_events.cpp:1263
 msgid ""
@@ -8917,35 +8915,23 @@ msgstr "Užito protivníkem: "
 
 #. TRANSLATORS: Current value for WML code set_min_range, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:567
-#, fuzzy
-#| msgid "$number damage"
-#| msgid_plural "$number damage"
 msgid "$number min range"
-msgstr "$number poškození"
+msgstr "$number min. dosah"
 
 #. TRANSLATORS: Current value for WML code increase_min_range, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:574
-#, fuzzy
-#| msgid "<span color=\"$color\">$number_or_percent</span> damage"
-#| msgid_plural "<span color=\"$color\">$number_or_percent</span> damage"
 msgid "<span color=\"$color\">$number_or_percent</span> min range"
-msgstr "<span color=\"$color\">$number_or_percent</span> poškození"
+msgstr "<span color=\"$color\">$number_or_percent</span> min. dosah"
 
 #. TRANSLATORS: Current value for WML code set_max_range, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:581
-#, fuzzy
-#| msgid "$number damage"
-#| msgid_plural "$number damage"
 msgid "$number max range"
-msgstr "$number poškození"
+msgstr "$number max. dosah"
 
 #. TRANSLATORS: Current value for WML code increase_max_range, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:588
-#, fuzzy
-#| msgid "<span color=\"$color\">$number_or_percent</span> damage"
-#| msgid_plural "<span color=\"$color\">$number_or_percent</span> damage"
 msgid "<span color=\"$color\">$number_or_percent</span> max range"
-msgstr "<span color=\"$color\">$number_or_percent</span> poškození"
+msgstr "<span color=\"$color\">$number_or_percent</span> max. dosah"
 
 #. TRANSLATORS: Current value for WML code increase_damage, documented in https://wiki.wesnoth.org/EffectWML
 #: src/units/attack_type.cpp:595
