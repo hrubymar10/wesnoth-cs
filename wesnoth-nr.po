@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-18 02:19 UTC\n"
-"PO-Revision-Date: 2024-09-21 08:11+0200\n"
+"PO-Revision-Date: 2024-10-04 22:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2574,7 +2574,7 @@ msgstr "Rozhodně."
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1038
 msgid "Be careful companions! There was a drake in this cage!"
-msgstr ""
+msgstr "Buďte opatrní, přátelé! V téhle kleci byl drakonid!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1044
@@ -2618,7 +2618,7 @@ msgstr "Umí to mluvit?"
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1095
 msgid "Have no fear, drake. We have no intentions to hurt you."
-msgstr ""
+msgstr "Neboj se, drakonide. Nemáme v úmyslu ti ublížit."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1101
@@ -3115,7 +3115,7 @@ msgstr "(<i>koulí očima</i>) Ach, jak těžký je život kostlivce."
 #. Krash has landed in one of the hexes of a small underground lake
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2053
 msgid "Wet."
-msgstr ""
+msgstr "Mokro."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2059
@@ -3321,7 +3321,7 @@ msgstr "Výborně. Kupředu, muži!"
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2279
 msgid "Corpse here... It stinks."
-msgstr ""
+msgstr "Tady mrtvola... Smrdí."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2285
@@ -3332,12 +3332,12 @@ msgstr "Fuj, mrtvola. A jak (<i>zacpává si nos</i>) páchne!"
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2306
 msgid ""
 "Yet more bodies... I’ve noticed them drifting down the river as of late."
-msgstr ""
+msgstr "Další těla... Nedávno jsem si všiml, jak plují po řece."
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2318
 msgid "More bodies. Float down river?"
-msgstr ""
+msgstr "Další těla. Plují po řece?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2324
@@ -3354,7 +3354,7 @@ msgstr "Nevypadá to, že by tu bylo něco jiného než další tělo."
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2360
 msgid "Grrr... Cold. Wet. Mad."
-msgstr ""
+msgstr "Grrr... Zima. Mokro. Blázen."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2366
