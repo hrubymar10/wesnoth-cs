@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2024-10-09 20:30+0200\n"
+"PO-Revision-Date: 2024-10-09 20:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3263,7 +3263,7 @@ msgstr "Možná by tě mohli doprovodit nějaký mý trpaslíci..."
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:164
 msgid "Go, Landar, but be careful. We need you."
-msgstr "Běž Landare, ale buď opatrný. Potřebujeme tě."
+msgstr "Běž, Landare, ale buď opatrný. Potřebujeme tě."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:178
@@ -3537,7 +3537,7 @@ msgid ""
 "will all be moot. I will take every sword-arm I can get and be glad of them."
 msgstr ""
 "To skutečně není. Pokud ale neporazíme tyto skřety tady a teď, budou všechny "
-"naše sváry bezpředmětné. Vezmu zavděk každou ozbrojenou paží kterou získám "
+"naše sváry bezpředmětné. Vezmu zavděk každou ozbrojenou paží, kterou získám, "
 "a budu za ni rád."
 
 #. [unit]: type=Paladin, id=Kulrad
