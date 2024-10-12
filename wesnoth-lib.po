@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-17 21:19-0500\n"
-"PO-Revision-Date: 2024-09-28 17:17+0200\n"
+"PO-Revision-Date: 2024-10-12 20:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3288,7 +3288,7 @@ msgstr "Potvrdit"
 #. [label]
 #: data/gui/themes/default/window/depcheck_confirm_change.cfg:96
 msgid "Would you like to apply the changes?"
-msgstr "Chcete skutečně uložit provedené změny?"
+msgstr "Chceš použít provedené změny?"
 
 #. #-#-#-#-#  wesnoth-lib.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [button]: id=ok
@@ -5545,8 +5545,8 @@ msgid ""
 "The server will run as a background process until all users have "
 "disconnected. Do you wish to continue?"
 msgstr ""
-"Pokud chcete hostovat síťovou hru, musíte spustit instanci serveru. Server "
-"poběží na pozadí dokud se všichni uživatelé neodpojí. Přejete si pokračovat?"
+"Pokud chceš hostovat síťovou hru, musíš spustit instanci serveru. Server "
+"poběží na pozadí, dokud se všichni uživatelé neodpojí. Přeješ si pokračovat?"
 
 #. [button]: id=select_leader
 #: data/gui/themes/default/window/mp_join_game.cfg:71
@@ -6202,7 +6202,7 @@ msgstr "Pozastavit hudbu, když běží na pozadí"
 #. [toggle_button]: id=sound_toggle_stop_music_in_background
 #: data/gui/themes/default/window/preferences/04_sound.cfg:83
 msgid "Pause the music when you switch to any other window"
-msgstr "Pozastavit hudbu, když se přepnete do jiného okna"
+msgstr "Pozastavit hudbu, když se přepneš do jiného okna"
 
 #. [column]
 #: data/gui/themes/default/window/preferences/04_sound.cfg:104
@@ -6287,7 +6287,7 @@ msgstr "Přiřadit čas k chatové zprávě"
 #. [toggle_button]: id=remember_password
 #: data/gui/themes/default/window/preferences/05_multiplayer.cfg:69
 msgid "Uncheck to delete the saved password (on exit)"
-msgstr "Odklikněte pro smazání uložených hesel (při ukončení programu)"
+msgstr "Odklikni pro smazání uloženého hesla (při ukončení programu)"
 
 #. [toggle_button]: id=lobby_whisper_friends_only
 #: data/gui/themes/default/window/preferences/05_multiplayer.cfg:84
@@ -7986,9 +7986,9 @@ msgid ""
 "in order to join.\n"
 "Do you want to try to install them?"
 msgstr ""
-"Tato hra vyžaduje, aby bylo nainstalováno, nebo aktualizováno jedno či více "
-"uživatelských rožšířeních.\n"
-"Chcete je nainstalovat nyní?"
+"Tato hra vyžaduje instalaci nebo aktualizaci jednoho či více uživatelských "
+"rozšíření, aby ses mohl připojit.\n"
+"Chceš je zkusit nainstalovat?"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:367
 msgid "Games: showing $num_shown out of $num_total"
