@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-25 21:28-0500\n"
-"PO-Revision-Date: 2024-10-15 23:00+0200\n"
+"PO-Revision-Date: 2024-10-16 23:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8461,8 +8461,8 @@ msgid ""
 "Left mouse button sets a new unit or moves a unit via drag and drop, right "
 "brings up a context menu. Needs a defined side."
 msgstr ""
-"Levým tlačítkem myši nastavíte novou jednotku nebo ji tažením přesunete, "
-"pravým vyvoláte kontextové menu. Musí být vybrána strana."
+"Levým tlačítkem myši umístíš novou jednotku nebo ji tažením přesuneš, pravým "
+"vyvoláš souvisící nabídku. Musí být vybrána strana."
 
 #: src/hotkey/hotkey_command.cpp:204
 msgid "Unit Tool"
@@ -8481,8 +8481,8 @@ msgid ""
 "Left mouse button sets the village ownership to the current side, right "
 "clears. Needs a defined side."
 msgstr ""
-"Levým tlačítkem myši nastavíte vlastnění vesnice vybrané straně, pravým "
-"vymažete. Musí být vybrána strana."
+"Levým tlačítkem myši nastavíš vlastnictví vesnice vybrané straně, pravým "
+"vlastnictví zrušíš. Musí být vybrána strana."
 
 #: src/hotkey/hotkey_command.cpp:206
 msgid "Village Tool"
@@ -8572,7 +8572,7 @@ msgstr "Kopírovat"
 #: src/hotkey/hotkey_command.cpp:232
 msgid ""
 "Left mouse button pastes from the clipboard, right brings up a context menu."
-msgstr "Levým tlačítkem vložíte ze schránky, pravým vyvoláte kontextové menu."
+msgstr "Levým tlačítkem vložíš ze schránky, pravým vyvoláš souvisící nabídku."
 
 #: src/hotkey/hotkey_command.cpp:232
 msgid "Paste"
@@ -8849,7 +8849,7 @@ msgstr ""
 
 #: src/wml_exception.cpp:68
 msgid "When reporting the bug please include the following error message :"
-msgstr "Při oznamování chyby prosím uveďte následující chybovou zprávu :"
+msgstr "Při oznamování chyby prosím uveď následující chybovou zprávu :"
 
 #: src/wml_exception.cpp:89
 msgid ""
