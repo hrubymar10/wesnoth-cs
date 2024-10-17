@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-17 21:18-0500\n"
-"PO-Revision-Date: 2024-09-26 22:58+0200\n"
+"PO-Revision-Date: 2024-10-17 22:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -582,8 +582,7 @@ msgstr "Ctrl + kliknutí: kopírovat terén"
 
 #: src/gui/dialogs/editor/custom_tod.cpp:96
 msgid "Clipboard support not found, contact your packager"
-msgstr ""
-"Podpora pro schránku nebyla nalezena, kontaktujte správce vašeho balíčku"
+msgstr "Podpora pro schránku nebyla nalezena, kontaktuj správce svého balíčku"
 
 #: src/gui/dialogs/editor/custom_tod.cpp:176
 msgid "Choose File"
