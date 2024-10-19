@@ -3,7 +3,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020, 2023.
 #
 msgid ""
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2023-11-04 10:21+0100\n"
+"PO-Revision-Date: 2024-10-19 22:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19,7 +19,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.3.2\n"
 
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
@@ -3018,8 +3017,8 @@ msgid ""
 "Randomly generated map. Note: random maps are often unbalanced, but if you "
 "have time, you can regenerate them until you get a good one."
 msgstr ""
-"Náhodně vytvořená mapa. Pamatujte, že tyto mapy jsou často nevyvážené, ale "
-"pokud máte dostatek času, můžete generovat tak dlouho, dokud nevyberete tu "
+"Náhodně vytvořená mapa. Pamatuj, že tyto mapy jsou často nevyvážené, ale "
+"pokud máš dostatek času, můžeš generovat tak dlouho, dokud nevybereš tu "
 "správnou."
 
 #. [scenario]: id=multiplayer_Random_Map_Desert
@@ -3036,9 +3035,9 @@ msgid ""
 "unbalanced, but if you have time, you can regenerate them until you get a "
 "good one."
 msgstr ""
-"Náhodně vytvořená mapa s pískem jako primárním terénem. Pamatujte, že tyto "
-"mapy jsou často nevyvážené, ale pokud máte dostatek času, můžete generovat "
-"tak dlouho, dokud nevyberete tu správnou."
+"Náhodně vytvořená mapa s pískem jako primárním terénem. Pamatuj, že tyto "
+"mapy jsou často nevyvážené, ale pokud máš dostatek času, můžeš generovat tak "
+"dlouho, dokud nevybereš tu správnou."
 
 #. [scenario]: id=multiplayer_Random_Map_Marsh
 #. [multiplayer]: id=multiplayer_Random_Map_Marsh
@@ -3054,9 +3053,9 @@ msgid ""
 "unbalanced, but if you have time, you can regenerate them until you get a "
 "good one."
 msgstr ""
-"Náhodně vytvořená mapa s bažinou jako primárním terénem. Pamatujte, že tyto "
-"mapy jsou často nevyvážené, ale pokud máte dostatek času, můžete generovat "
-"tak dlouho, dokud nevyberete tu správnou."
+"Náhodně vytvořená mapa s bažinou jako primárním terénem. Pamatuj, že tyto "
+"mapy jsou často nevyvážené, ale pokud máš dostatek času, můžeš generovat tak "
+"dlouho, dokud nevybereš tu správnou."
 
 #. [scenario]: id=multiplayer_Random_Map_Winter
 #. [multiplayer]: id=multiplayer_Random_Map_Winter
@@ -3072,9 +3071,9 @@ msgid ""
 "terrains. Note: random maps are often unbalanced, but if you have time, you "
 "can regenerate them until you get a good one."
 msgstr ""
-"Náhodně vytvořená mapa s většinou zasněženým povrchem. Pamatujte, že tyto "
-"mapy jsou často nevyvážené, ale pokud máte dostatek času, můžete generovat "
-"tak dlouho, dokud nevyberete tu správnou."
+"Náhodně vytvořená mapa s většinou zasněženým povrchem. Pamatuj, že tyto mapy "
+"jsou často nevyvážené, ale pokud máš dostatek času, můžeš generovat tak "
+"dlouho, dokud nevybereš tu správnou."
 
 #. [multiplayer]: id=multiplayer_test_Elevation_Demo
 #: data/multiplayer/scenarios/Test_Elevation_Test.cfg:5
