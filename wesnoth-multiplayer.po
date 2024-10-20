@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-10-20 11:12+0200\n"
+"PO-Revision-Date: 2024-10-20 11:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2327,7 +2327,7 @@ msgstr "4hr – Hrady Roztodivného ostrova"
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:7
 msgid "Hop from castle to castle while fighting over a central isle."
-msgstr "Přeskakujte z hradu do hradu během boje o centrální ostrov."
+msgstr "Přeskakujte z hradu do hradu během boje o centrální ostrov."
 
 #. [multiplayer]: id=multiplayer_Clash
 #: data/multiplayer/scenarios/4p_Clash.cfg:5
@@ -2633,8 +2633,8 @@ msgid ""
 "Battle over the legendary treasures of the ancient ruins of Terra-Dwelve. "
 "Large multi-fronted 2 vs. 2 set in a vast underground complex."
 msgstr ""
-"Bojujte o legendární poklady starobylých ruin Terra-Dwelve. Veliká mapa pro "
-"hru 2 proti 2 s více frontami, zasazená do rozlehlého podzemního komplexu."
+"Bojujte o legendární poklady starobylých ruin Terra-Dwelve. Veliká mapa pro "
+"hru 2 proti 2 s více frontami, zasazená do rozlehlého podzemního komplexu."
 
 #. [multiplayer]: id=multiplayer_Siege_Castles
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:7
