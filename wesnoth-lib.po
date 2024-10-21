@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-17 21:19-0500\n"
-"PO-Revision-Date: 2024-10-16 23:09+0200\n"
+"PO-Revision-Date: 2024-10-21 22:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6297,7 +6297,7 @@ msgstr "Přijímat šeptání jen od přátel"
 #. [toggle_button]: id=lobby_whisper_friends_only
 #: data/gui/themes/default/window/preferences/05_multiplayer.cfg:85
 msgid "Only accept whisper messages from people on your friends list"
-msgstr "Přijímat soukromé zprávy pouze od lidí ve vašem seznamu přátel"
+msgstr "Přijímat soukromé zprávy pouze od lidí ve tvém seznamu přátel"
 
 #. [toggle_button]: id=lobby_joins_none
 #: data/gui/themes/default/window/preferences/05_multiplayer.cfg:101
