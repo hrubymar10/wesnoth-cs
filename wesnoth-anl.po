@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2024-10-18 21:08+0200\n"
+"PO-Revision-Date: 2024-10-22 21:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -379,7 +379,7 @@ msgid ""
 "scholars to further your understanding of agriculture."
 msgstr ""
 "Protože moudrost mých lidí přesahuje tu vaši $sf_player_name|e, dal jsem "
-"pokyn mým učencům, aby vás podpořili v pochopení zemědělství."
+"pokyn svým učencům, aby vás podpořili v pochopení zemědělství."
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:155
@@ -389,7 +389,7 @@ msgid ""
 "mining."
 msgstr ""
 "Protože moudrost mých lidí přesahuje tu vaši $sm_player_name|e, dal jsem "
-"pokyn mým učencům, aby vám pomohli ve vašem snažení pro poznání znalosti "
+"pokyn svým učencům, aby vám pomohli ve vašem snažení pro poznání znalosti "
 "těžby."
 
 # předpoklad jména
