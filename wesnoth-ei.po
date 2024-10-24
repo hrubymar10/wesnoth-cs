@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-21 16:11 UTC\n"
-"PO-Revision-Date: 2024-09-11 22:23+0200\n"
+"PO-Revision-Date: 2024-10-24 18:06+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -351,8 +351,6 @@ msgstr "Scénář 99: Ha, ha, ha"
 
 #. [lua]: wml_actions.bandit_village_capture
 #: data/campaigns/Eastern_Invasion/lua/bandits.lua:84
-#, fuzzy
-#| msgid "They're here!"
 msgid "They’re here!"
 msgstr "Tady jsou!"
 
@@ -735,8 +733,6 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #. a huge number of undead are spawning
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:676
-#, fuzzy
-#| msgid "Wha- How did so many of them flank us? We’re cut off from Wesnoth!"
 msgid "Wha— How did so many of them flank us? We’re cut off from Wesnoth!"
 msgstr "Co... Jak nás mohlo tolik z nich obklíčit? Jsme odříznuti od Wesnothu!"
 
@@ -6231,20 +6227,6 @@ msgstr "Tady na zemi je několik volných stránek..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1734
-#, fuzzy
-#| msgid ""
-#| "<i>Journal of Ravan - 13 Blackfire, 588 YW.\n"
-#| "\n"
-#| "This expedition is proving a greater success than I had anticipated. "
-#| "While Dacyn disarms the traps littered around this place, I have been "
-#| "able to conduct extensive research into the other plane beyond the Maw. "
-#| "There is a realm of souls that can be reached from our very own world, "
-#| "one that Iliah-Malal doubtlessly made contact with using the Amulet of "
-#| "the Veil. From time to time, I hear spirits whispering from the other "
-#| "side, but their voices are faint as of yet. I suspect that if I can "
-#| "somehow reach them, they will be able to answer some of the questions I "
-#| "have been pondering. However, there seems to be a piece of the puzzle "
-#| "still missing.</i>"
 msgid ""
 "<i>Journal of Ravan — 13 Blackfire, 588 YW.\n"
 "\n"
@@ -6271,18 +6253,6 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1740
-#, fuzzy
-#| msgid ""
-#| "<i>Journal of Ravan - 21 Whitefire, 589 YW.\n"
-#| "\n"
-#| "I had a dream tonight. Was it a dream? It seemed much more like a vision. "
-#| "I saw a scorching light from twin orbs in the sky, radiating searing "
-#| "brightness over a land teeming with aberrations of constantly shifting "
-#| "flesh. I saw a jewel, no, a key, alight with fire bridging the vast "
-#| "nothingness of the Maw. I saw darkness, merged with light and "
-#| "transfigured, rending the indestructible core of those without form. I "
-#| "hear voices recounting these muddled dreams, yet their words are "
-#| "disjointed, incomprehensible. What are they trying to tell me?</i>"
 msgid ""
 "<i>Journal of Ravan — 21 Whitefire, 589 YW.\n"
 "\n"
@@ -6317,17 +6287,6 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1764
-#, fuzzy
-#| msgid ""
-#| "<i>Journal of Ravan - 5 Bleeding Moon, 597 YW.\n"
-#| "\n"
-#| "Nothing is going well. My research has come to a dead end and even the "
-#| "spirits from the other plane no longer speak to me. I can no longer rely "
-#| "on Dacyn either. That stupid man! He decided that playing politics would "
-#| "be a better use of his abilities than helping me decipher this crucial "
-#| "puzzle. As if he could do any good, being the advisor to that half-"
-#| "decrepit old King Haldric. Then again, maybe that is the game Dacyn wants "
-#| "to play. What a shame. I had held him in higher regard than that.</i>"
 msgid ""
 "<i>Journal of Ravan — 5 Bleeding Moon, 597 YW.\n"
 "\n"
@@ -7960,8 +7919,6 @@ msgstr ""
 #. [message]: speaker=$found_unit.id
 #. Speaker is an orc, and Mortic is flying towards them. "What? Hey!" *gets killed by Mortic*
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:805
-#, fuzzy
-#| msgid "Wha- hey!"
 msgid "Wha— hey!"
 msgstr "Co... Hej!"
 
@@ -8826,39 +8783,29 @@ msgstr "Jen další ohavnosti, které máme zabít!!"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:799
-#, fuzzy
-#| msgid "10 gold"
 msgid "105 gold"
-msgstr "10 zlatých"
+msgstr "105 zlatých"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:800
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:804
-#, fuzzy
-#| msgid "10 gold"
 msgid "80 gold"
-msgstr "10 zlatých"
+msgstr "80 zlatých"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:801
-#, fuzzy
-#| msgid "115 gold"
 msgid "175 gold"
-msgstr "115 zlatých"
+msgstr "175 zlatých"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:802
-#, fuzzy
-#| msgid "25 gold"
 msgid "55 gold"
-msgstr "25 zlatých"
+msgstr "55 zlatých"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:803
-#, fuzzy
-#| msgid "10 gold"
 msgid "150 gold"
-msgstr "10 zlatých"
+msgstr "150 zlatých"
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:806
@@ -10439,10 +10386,8 @@ msgstr "Můj předchůdce, „Veliký“. Mám v úmyslu být větší."
 #. [message]: speaker=Mel Guthrak
 #. last breath of Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1885
-#, fuzzy
-#| msgid "Wha- but how?"
 msgid "Wha— but how?"
-msgstr "Což— ale jak?"
+msgstr "Co... ale jak?"
 
 #. [message]: speaker=Gaennell
 #. last breath of Mel Guthrak
@@ -13019,10 +12964,6 @@ msgstr ""
 # Není přeloženo doslovně, v originále je oproti zamýšlenému významu určitě nepřesnost.
 #. [damage_type]: id=arcane_damage_blessing
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:536
-#, fuzzy
-#| msgid ""
-#| "This unit's weapons are treated as arcane instead of the declared damage "
-#| "type if that would increase the damage."
 msgid ""
 "This unit’s weapons are treated as arcane instead of the declared damage "
 "type if that would increase the damage."
@@ -13042,10 +12983,6 @@ msgstr ""
 
 #. [damage_type]: id=arcane_damage_ranged_blessing
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:548
-#, fuzzy
-#| msgid ""
-#| "This unit's bow or crossbow attacks are treated as arcane instead of the "
-#| "declared damage type if that would increase the damage."
 msgid ""
 "This unit’s bow or crossbow attacks are treated as arcane instead of the "
 "declared damage type if that would increase the damage."
@@ -13171,8 +13108,6 @@ msgstr "Světlo slábne..., Wesnothe, zklamal jsem tě..."
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:121
-#, fuzzy
-#| msgid "Watch out behind ye- ach!"
 msgid "Watch out behind ye— ach!"
 msgstr "Hlídej si záda... ach!"
 
@@ -13562,10 +13497,8 @@ msgstr "... ale NIKDY VÍCE!!!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:561
-#, fuzzy
-#| msgid "Wha- what is this?!"
 msgid "Wha— what is this?!"
-msgstr "C- co je tohle?!"
+msgstr "Co... co je tohle?!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:568
@@ -13622,10 +13555,8 @@ msgstr "Nyní, přijmi naši sílu! Budeš žít dál jako šampion Irdye!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:771
-#, fuzzy
-#| msgid "Wha- where am I? What’s happening to me?"
 msgid "Wha— where am I? What’s happening to me?"
-msgstr "Kde... kde to jsem? Co se to se mnou děje?"
+msgstr "Co... kde to jsem? Co se to se mnou děje?"
 
 #. [message]: speaker=spirit
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:775
