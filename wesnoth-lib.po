@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-21 11:11-0500\n"
-"PO-Revision-Date: 2024-10-21 22:20+0200\n"
+"PO-Revision-Date: 2024-10-25 21:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -787,15 +787,6 @@ msgstr "Souvislý houbový háj"
 #. this hint is only shown in the map editor, the ^Uf, ^Tf and Tb are all terrain codes and should be left as-is
 #. this hint is only shown in the map editor, the ^Uf, ^Tf and Tb are all terrain codes and should be left as-is
 #: data/core/terrain.cfg:1070 data/core/terrain.cfg:1090
-#, fuzzy
-#| msgid ""
-#| "editor^The overlays '^Uf' and '^Ufi' are deprecated because, although the "
-#| "graphics show an overlay with another terrain underneath, the movement "
-#| "and defense stats are purely fungus terrain, ignoring the underlying "
-#| "terrain. The recommended replacements are '^Tf' and '^Tfi' which look the "
-#| "same but have the stats implied by the graphics. For hexes where the "
-#| "stats of purely fungus are wanted, 'Tb' is a mushroom base terrain, which "
-#| "can be used with or without '^Tf' on top."
 msgid ""
 "editor^The overlays ‘^Uf’ and ‘^Ufi’ are deprecated because, although the "
 "graphics show an overlay with another terrain underneath, the movement and "
@@ -4096,8 +4087,6 @@ msgstr "Otevřít externě"
 
 #. [button]: id=open_ext
 #: data/gui/themes/default/window/file_dialog.cfg:321
-#, fuzzy
-#| msgid "Open selected using platform's default applications"
 msgid "Open selected using platform’s default applications"
 msgstr "Otevřít vybraný pomocí výchozích programů platformy"
 
@@ -7086,8 +7075,6 @@ msgstr[1] "$num vteřiny"
 msgstr[2] "$num vteřin"
 
 #: src/gui/core/canvas.cpp:263
-#, fuzzy
-#| msgid "Image doesn't fit on canvas."
 msgid "Image doesn’t fit on canvas."
 msgstr "Obrázek se nevejde na plátno."
 
@@ -7107,21 +7094,15 @@ msgid "No grid defined."
 msgstr "Není definována žádná mřížka."
 
 #: src/gui/core/window_builder.cpp:201
-#, fuzzy
-#| msgid "Grid '$grid' row $row must have at least one column."
 msgid "Grid ‘$grid’ row $row must have at least one column."
-msgstr "Řádek $row mřížky '$grid' musí mít alespoň jeden sloupec."
+msgstr "Řádek $row mřížky „$grid“ musí mít alespoň jeden sloupec."
 
 #: src/gui/core/window_builder.cpp:213
-#, fuzzy
-#| msgid ""
-#| "Grid '$grid' row $row has a differing number of columns ($found found, "
-#| "$expected expected)"
 msgid ""
 "Grid ‘$grid’ row $row has a differing number of columns ($found found, "
 "$expected expected)"
 msgstr ""
-"Řádek $row mřížky '$grid' se liší v počtu sloupců (nalezeno $found, "
+"Řádek $row mřížky „$grid“ se liší v počtu sloupců (nalezeno $found, "
 "očekáváno $expected)"
 
 #: src/gui/dialogs/achievements_dialog.cpp:137
@@ -7642,10 +7623,6 @@ msgid "Choose File"
 msgstr "Vybrat soubor"
 
 #: src/gui/dialogs/editor/edit_unit.cpp:320
-#, fuzzy
-#| msgid ""
-#| "This file is outside Wesnoth's data dirs. Do you wish to copy it into "
-#| "your add-on?"
 msgid ""
 "This file is outside Wesnoth’s data dirs. Do you wish to copy it into your "
 "add-on?"
@@ -7981,8 +7958,6 @@ msgid "Downloading lobby data"
 msgstr "Stahování dat čekárny"
 
 #: src/gui/dialogs/lua_interpreter.cpp:628
-#, fuzzy
-#| msgid "The lua console can only be used in debug mode! (Run ':debug' first)"
 msgid "The lua console can only be used in debug mode! (Run ‘:debug’ first)"
 msgstr ""
 "Konzoli lua lze použít pouze v režimu ladění! (Nejdřív spusť „:debug“.)"
@@ -8017,11 +7992,6 @@ msgid "Incompatible User-made Content"
 msgstr "Nekompatibilní uživatelský obsah"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:173
-#, fuzzy
-#| msgid ""
-#| "This game cannot be joined because the host has out-of-date add-ons that "
-#| "are incompatible with your version. You might wish to suggest that the "
-#| "host's add-ons be updated."
 msgid ""
 "This game cannot be joined because the host has out-of-date add-ons that are "
 "incompatible with your version. You might wish to suggest that the host’s "
@@ -8098,9 +8068,6 @@ msgid "lobby"
 msgstr "čekárna"
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:833
-#, fuzzy
-#| msgid ""
-#| "This game doesn't allow observers. Observe using moderator rights anyway?"
 msgid ""
 "This game doesn’t allow observers. Observe using moderator rights anyway?"
 msgstr "Tato hra nepovoluje pozorovatele. Sledovat pomocí práv moderátora?"
@@ -8465,10 +8432,8 @@ msgstr ""
 "přijímat zprávy, napiš <i>/ignore $name</i>."
 
 #: src/gui/widgets/helper.cpp:122
-#, fuzzy
-#| msgid "Mandatory widget '$id' hasn't been defined."
 msgid "Mandatory widget ‘$id’ hasn't been defined."
-msgstr "Povinný ovládací prvek '$id' nebyl definován."
+msgstr "Povinný ovládací prvek „$id“ nebyl definován."
 
 #: src/gui/widgets/label.cpp:141 src/gui/widgets/multiline_text.cpp:427
 msgid "Open link?"
@@ -8479,13 +8444,10 @@ msgid "Copied link!"
 msgstr "Odkaz zkopírován!"
 
 #: src/gui/widgets/listbox.cpp:724 src/gui/widgets/multi_page.cpp:219
-#, fuzzy
-#| msgid ""
-#| "'list_data' must have the same number of columns as the 'list_definition'."
 msgid ""
 "‘list_data’ must have the same number of columns as the ‘list_definition’."
 msgstr ""
-"'list_data' musí obsahovat stejný počet sloupců jako 'list_definition'."
+"„list_data“ musí obsahovat stejný počet sloupců jako „list_definition“."
 
 #: src/gui/widgets/listbox.cpp:769 src/gui/widgets/listbox.cpp:812
 #: src/gui/widgets/listbox.cpp:855 src/gui/widgets/scrollbar_panel.cpp:90
@@ -8494,10 +8456,8 @@ msgstr "Nebyl definován žádný seznam."
 
 #: src/gui/widgets/listbox.cpp:774 src/gui/widgets/listbox.cpp:817
 #: src/gui/widgets/listbox.cpp:860
-#, fuzzy
-#| msgid "A 'list_definition' should contain one row."
 msgid "A ‘list_definition’ should contain one row."
-msgstr "Pro 'list_definition' je vyžadována alespoň jedna řádka."
+msgstr "Pro „list_definition“ je vyžadována alespoň jedna řádka."
 
 #: src/gui/widgets/multi_page.cpp:195
 msgid "No page defined."
@@ -8547,8 +8507,6 @@ msgid "No widget defined."
 msgstr "Nebyl definován žádný widget."
 
 #: src/gui/widgets/slider.cpp:356
-#, fuzzy
-#| msgid "The number of value_labels and values don't match."
 msgid "The number of value_labels and values don’t match."
 msgstr "Nesouhlasí počet value_labels a values."
 
@@ -8570,10 +8528,8 @@ msgstr "Pro stromové zobrazení nejsou stanoveny žádné uzly."
 
 # Vzorná kryptohláška!
 #: src/gui/widgets/tree_view.cpp:325
-#, fuzzy
-#| msgid "[node]id 'root' is reserved for the implementation."
 msgid "[node]id ‘root’ is reserved for the implementation."
-msgstr "[node]id 'root' je vyhrazen implementací."
+msgstr "[node]id „root“ je vyhrazen implementací."
 
 #: src/gui/widgets/tree_view_node.cpp:106
 msgid "Unknown builder id for tree view node."
@@ -8625,23 +8581,17 @@ msgid "Abilities"
 msgstr "Schopnosti"
 
 #: src/gui/widgets/window.cpp:293
-#, fuzzy
-#| msgid "Linked '$id' group has multiple definitions."
 msgid "Linked ‘$id’ group has multiple definitions."
-msgstr "Spojená skupina '$id' má více definicí,"
+msgstr "Spojená skupina „$id“ má více definicí."
 
 #: src/gui/widgets/window.cpp:893
-#, fuzzy
-#| msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
 msgid "Click dismiss needs a ‘click_dismiss’ or ‘ok’ button."
 msgstr ""
 "Zavření kliknutím kamkoliv vyžaduje přítomnost parametru nebo tlačítka s id "
-"nastaveným na 'click_dismiss' nebo 'ok'."
+"nastaveným na „click_dismiss“ nebo „ok“."
 
 #: src/gui/widgets/window.cpp:918 src/gui/widgets/window.cpp:955
 #: src/tests/gui/test_gui2.cpp:742
-#, fuzzy
-#| msgid "Failed to show a dialog, which doesn't fit on the screen."
 msgid "Failed to show a dialog, which doesn’t fit on the screen."
 msgstr "Nebyl zobrazen dialog, který se nevejde na obrazovku."
 
@@ -9535,20 +9485,14 @@ msgid "When reporting the bug please include the following error message :"
 msgstr "Při oznamování chyby prosím uveď následující chybovou zprávu :"
 
 #: src/wml_exception.cpp:89
-#, fuzzy
-#| msgid ""
-#| "In section ‘[$section|]’ where ‘$primary_key|’ = $primary_value’ the "
-#| "mandatory key ‘$key|’ isn't set."
 msgid ""
 "In section ‘[$section|]’ where ‘$primary_key|’ = ‘$primary_value’ the "
 "mandatory key ‘$key|’ isn’t set."
 msgstr ""
-"V sekci „[$section|]“, kde „$primary_key| = $primary_value“, není nastaven "
+"V sekci „[$section|]“, kde „$primary_key|“ = „$primary_value“, není nastaven "
 "povinný klíč „$key|“."
 
 #: src/wml_exception.cpp:92
-#, fuzzy
-#| msgid "In section ‘[$section|]’ the mandatory key ‘$key|’ isn't set."
 msgid "In section ‘[$section|]’ the mandatory key ‘$key|’ isn’t set."
 msgstr "V sekci „[$section|]“ není nastaven povinný klíč „$key|“."
 

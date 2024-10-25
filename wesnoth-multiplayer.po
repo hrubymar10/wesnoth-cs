@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-21 16:11 UTC\n"
-"PO-Revision-Date: 2024-10-20 11:35+0200\n"
+"PO-Revision-Date: 2024-10-25 21:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -37,15 +37,11 @@ msgstr "Předpověď triumfu"
 
 #. [achievement]: id=Wesnoth_MP_Dark_Forecast
 #: data/multiplayer/achievements.cfg:11
-#, fuzzy
-#| msgid "Complete the survival scenario <i>2p - Dark Forecast</i>."
 msgid "Complete the survival scenario <i>2p — Dark Forecast</i>."
 msgstr "Dokonči scénář přežití <i>2hr – Temná předpověď</i>."
 
 #. [achievement]: id=Wesnoth_MP_Dark_Forecast
 #: data/multiplayer/achievements.cfg:12
-#, fuzzy
-#| msgid "Completed the survival scenario <i>2p - Dark Forecast</i>."
 msgid "Completed the survival scenario <i>2p — Dark Forecast</i>."
 msgstr "Dokončen scénář přežití <i>2hr – Temná předpověď</i>."
 
@@ -61,15 +57,11 @@ msgstr "Mlhy zahnány"
 
 #. [achievement]: id=Wesnoth_MP_Isle_of_Mists
 #: data/multiplayer/achievements.cfg:22
-#, fuzzy
-#| msgid "Complete the survival scenario <i>2p - Isle of Mists</i>."
 msgid "Complete the survival scenario <i>2p — Isle of Mists</i>."
 msgstr "Dokonči scénář přežití <i>2hr – Ostrov mlh</i>."
 
 #. [achievement]: id=Wesnoth_MP_Isle_of_Mists
 #: data/multiplayer/achievements.cfg:23
-#, fuzzy
-#| msgid "Completed the survival scenario <i>2p - Isle of Mists</i>."
 msgid "Completed the survival scenario <i>2p — Isle of Mists</i>."
 msgstr "Dokončen scénář přežití <i>2hr – Ostrov mlh</i>."
 
@@ -80,15 +72,11 @@ msgstr "Bezvadná spolupráce"
 
 #. [achievement]: id=Wesnoth_MP_Team_Survival
 #: data/multiplayer/achievements.cfg:33
-#, fuzzy
-#| msgid "Complete the survival scenario <i>6p - Team Survival</i>."
 msgid "Complete the survival scenario <i>6p — Team Survival</i>."
 msgstr "Dokonči scénář přežití <i>6hr – Týmové přežití</i>."
 
 #. [achievement]: id=Wesnoth_MP_Team_Survival
 #: data/multiplayer/achievements.cfg:34
-#, fuzzy
-#| msgid "Completed the survival scenario <i>6p - Team Survival</i>."
 msgid "Completed the survival scenario <i>6p — Team Survival</i>."
 msgstr "Dokončen scénář přežití <i>6hr – Týmové přežití</i>."
 
@@ -99,15 +87,11 @@ msgstr "Návrat ke slávě"
 
 #. [achievement]: id=Wesnoth_MP_ANL
 #: data/multiplayer/achievements.cfg:44
-#, fuzzy
-#| msgid "Complete the survival scenario <i>4p - A New Land</i>."
 msgid "Complete the survival scenario <i>4p — A New Land</i>."
 msgstr "Dokonči scénář přežití <i>4hr – Nová země</i>."
 
 #. [achievement]: id=Wesnoth_MP_ANL
 #: data/multiplayer/achievements.cfg:45
-#, fuzzy
-#| msgid "Completed the survival scenario <i>4p - A New Land</i>."
 msgid "Completed the survival scenario <i>4p — A New Land</i>."
 msgstr "Dokončen scénář přežití <i>4hr – Nová země</i>."
 
@@ -118,15 +102,11 @@ msgstr "Ekonomická recese"
 
 #. [achievement]: id=Wesnoth_MP_ANL_mines
 #: data/multiplayer/achievements.cfg:54
-#, fuzzy
-#| msgid "Destroy all enemy mushroom mines in <i>4p - A New Land</i>."
 msgid "Destroy all enemy mushroom mines in <i>4p — A New Land</i>."
 msgstr "Znič všechny nepřátelské houbové doly ve <i>4hr – Nová země</i>."
 
 #. [achievement]: id=Wesnoth_MP_ANL_mines
 #: data/multiplayer/achievements.cfg:55
-#, fuzzy
-#| msgid "Destroyed all enemy mushroom mines in <i>4p - A New Land</i>."
 msgid "Destroyed all enemy mushroom mines in <i>4p — A New Land</i>."
 msgstr "Zničeny všechny nepřátelské houbové doly ve <i>4hr – Nová země</i>."
 
@@ -137,15 +117,11 @@ msgstr "Pomoc!"
 
 #. [achievement]: id=Wesnoth_MP_ANL_rescue_allies
 #: data/multiplayer/achievements.cfg:65
-#, fuzzy
-#| msgid "Rescue the trapped units in <i>4p - A New Land</i>."
 msgid "Rescue the trapped units in <i>4p — A New Land</i>."
 msgstr "Osvoboď chycené jednotky ve <i>4hr – Nová země</i>."
 
 #. [achievement]: id=Wesnoth_MP_ANL_rescue_allies
 #: data/multiplayer/achievements.cfg:66
-#, fuzzy
-#| msgid "Rescued the trapped units in <i>4p - A New Land</i>."
 msgid "Rescued the trapped units in <i>4p — A New Land</i>."
 msgstr "Osvobozeny chycené jednotky ve <i>4hr – Nová země</i>."
 
@@ -3057,8 +3033,6 @@ msgstr ""
 
 #. [multiplayer]: id=multiplayer_test_Elevation_Demo
 #: data/multiplayer/scenarios/Test_Elevation_Test.cfg:5
-#, fuzzy
-#| msgid "3p - Elevation Test"
 msgid "3p — Elevation Test"
 msgstr "3hr – Zkouška vyvýšení"
 

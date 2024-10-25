@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-21 11:10-0500\n"
-"PO-Revision-Date: 2024-10-17 22:59+0200\n"
+"PO-Revision-Date: 2024-10-25 20:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -474,11 +474,8 @@ msgstr ""
 "existující soubor"
 
 #: src/editor/map/map_context.cpp:264
-#, fuzzy
-#| msgid ""
-#| "Found the characters '<<' indicating inline lua is present - aborting"
 msgid "Found the characters ‘<<’ indicating inline lua is present — aborting"
-msgstr "Nalezeny znaky „<<“ naznačující přítomnost inline lua – končím"
+msgstr "Nalezeny znaky „<<“ naznačující přítomnost inline lua – končím"
 
 #: src/editor/map/map_context.cpp:269
 msgid "Failed to load the scenario, attempting to load only the map."
@@ -590,10 +587,6 @@ msgid "Select"
 msgstr "Vybrat"
 
 #: src/gui/dialogs/editor/custom_tod.cpp:178
-#, fuzzy
-#| msgid ""
-#| "This file is outside Wesnoth's data dirs. Do you wish to copy it into "
-#| "your add-on?"
 msgid ""
 "This file is outside Wesnoth’s data dirs. Do you wish to copy it into your "
 "add-on?"
