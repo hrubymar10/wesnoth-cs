@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-25 21:28-0500\n"
-"PO-Revision-Date: 2024-10-21 22:11+0200\n"
+"PO-Revision-Date: 2024-10-26 08:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6576,14 +6576,14 @@ msgstr "Není definována žádná mřížka."
 
 #: src/gui/core/window_builder.cpp:221
 msgid "Grid '$grid' row $row must have at least one column."
-msgstr "Řádek $row mřížky '$grid' musí mít alespoň jeden sloupec."
+msgstr "Řádek $row mřížky „$grid“ musí mít alespoň jeden sloupec."
 
 #: src/gui/core/window_builder.cpp:233
 msgid ""
 "Grid '$grid' row $row has a differing number of columns ($found found, "
 "$expected expected)"
 msgstr ""
-"Řádek $row mřížky '$grid' se liší v počtu sloupců (nalezeno $found, "
+"Řádek $row mřížky „$grid“ se liší v počtu sloupců (nalezeno $found, "
 "očekáváno $expected)"
 
 #: src/gui/dialogs/achievements_dialog.cpp:137
@@ -7831,7 +7831,7 @@ msgstr ""
 
 #: src/gui/widgets/helper.cpp:93
 msgid "Mandatory widget '$id' hasn't been defined."
-msgstr "Povinný ovládací prvek '$id' nebyl definován."
+msgstr "Povinný ovládací prvek „$id“ nebyl definován."
 
 #: src/gui/widgets/label.cpp:123
 msgid "Opening links is not supported, contact your packager"
@@ -7849,7 +7849,7 @@ msgstr "Odkaz zkopírován!"
 msgid ""
 "'list_data' must have the same number of columns as the 'list_definition'."
 msgstr ""
-"'list_data' musí obsahovat stejný počet sloupců jako 'list_definition'."
+"„list_data“ musí obsahovat stejný počet sloupců jako „list_definition“."
 
 #: src/gui/widgets/listbox.cpp:769 src/gui/widgets/listbox.cpp:812
 #: src/gui/widgets/listbox.cpp:855 src/gui/widgets/scrollbar_panel.cpp:92
@@ -7859,7 +7859,7 @@ msgstr "Nebyl definován žádný seznam."
 #: src/gui/widgets/listbox.cpp:774 src/gui/widgets/listbox.cpp:817
 #: src/gui/widgets/listbox.cpp:860
 msgid "A 'list_definition' should contain one row."
-msgstr "Pro 'list_definition' je vyžadována alespoň jedna řádka."
+msgstr "Pro „list_definition“ je vyžadována alespoň jedna řádka."
 
 #: src/gui/widgets/multi_page.cpp:196
 msgid "No page defined."
@@ -7915,7 +7915,7 @@ msgstr "Pro stromové zobrazení nejsou stanoveny žádné uzly."
 # Vzorná kryptohláška!
 #: src/gui/widgets/tree_view.cpp:326
 msgid "[node]id 'root' is reserved for the implementation."
-msgstr "[node]id 'root' je vyhrazen implementací."
+msgstr "[node]id „root“ je vyhrazen implementací."
 
 #: src/gui/widgets/tree_view_node.cpp:106
 msgid "Unknown builder id for tree view node."
@@ -7975,13 +7975,13 @@ msgstr "Schopnosti"
 
 #: src/gui/widgets/window.cpp:431
 msgid "Linked '$id' group has multiple definitions."
-msgstr "Spojená skupina '$id' má více definicí,"
+msgstr "Spojená skupina „$id“ má více definicí."
 
 #: src/gui/widgets/window.cpp:917
 msgid "Click dismiss needs a 'click_dismiss' or 'ok' button."
 msgstr ""
 "Zavření kliknutím kamkoliv vyžaduje přítomnost parametru nebo tlačítka s id "
-"nastaveným na 'click_dismiss' nebo 'ok'."
+"nastaveným na „click_dismiss“ nebo „ok“."
 
 #: src/gui/widgets/window.cpp:942 src/gui/widgets/window.cpp:979
 #: src/tests/gui/test_gui2.cpp:736
@@ -8856,9 +8856,9 @@ msgid ""
 "In section '[$section|]' where '$primary_key| = $primary_value' the "
 "mandatory key '$key|' isn't set."
 msgstr ""
-"V sekci '[$section|]', kde '$primary_key| = $primary_value', není nastaven "
-"povinný klíč '$key|'."
+"V sekci „[$section|]“, kde „$primary_key|“ = „$primary_value“, není nastaven "
+"povinný klíč „$key|“."
 
 #: src/wml_exception.cpp:92
 msgid "In section '[$section|]' the mandatory key '$key|' isn't set."
-msgstr "V sekci '[$section|]' není nastaven povinný klíč '$key|'."
+msgstr "V sekci „[$section|]“ není nastaven povinný klíč „$key|“."

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-17 19:07-0500\n"
-"PO-Revision-Date: 2024-10-17 22:58+0200\n"
+"PO-Revision-Date: 2024-10-26 07:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -443,7 +443,7 @@ msgstr ""
 
 #: src/editor/map/map_context.cpp:261
 msgid "Found the characters '<<' indicating inline lua is present - aborting"
-msgstr "Nalezeny znaky „<<“ naznačující přítomnost inline lua – končím"
+msgstr "Nalezeny znaky „<<“ naznačující přítomnost inline lua – končím"
 
 #: src/editor/map/map_context.cpp:266
 #: src/editor/palette/location_palette.cpp:265
