@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 12:38-0500\n"
-"PO-Revision-Date: 2024-10-26 08:02+0200\n"
+"PO-Revision-Date: 2024-11-03 20:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8473,10 +8473,8 @@ msgid "Item Tool"
 msgstr "Nástroj pro předměty"
 
 #: src/hotkey/hotkey_command.cpp:205
-#, fuzzy
-#| msgid "Left mouse button sets a new item."
 msgid "Left mouse button sets a new item. Right click removes item."
-msgstr "Levé tlačítko myši umístí nový předmět."
+msgstr "Levé tlačítko myši umístí nový předmět. Pravé předmět odstraní."
 
 #: src/hotkey/hotkey_command.cpp:206
 msgid ""
@@ -8515,10 +8513,8 @@ msgid "Loyal"
 msgstr "Věrný"
 
 #: src/hotkey/hotkey_command.cpp:215
-#, fuzzy
-#| msgid "Server Information"
 msgid "Show Tool Information"
-msgstr "Informace o serveru"
+msgstr "Ukázat informace k nástroji"
 
 #: src/hotkey/hotkey_command.cpp:217
 msgid "Toggle Minimap Unit Coding"
