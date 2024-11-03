@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 12:38-0500\n"
-"PO-Revision-Date: 2024-11-03 20:20+0100\n"
+"PO-Revision-Date: 2024-11-03 20:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -498,16 +498,12 @@ msgid "Will not work in game without extra care."
 msgstr "Nefunguje ve hře bez dodatečných úprav."
 
 #: src/editor/palette/item_palette.cpp:32
-#, fuzzy
-#| msgid "Right-click: "
 msgid " | Right-click to remove"
-msgstr "Kliknutí pravým: "
+msgstr " | Kliknutí pravým pro odstranění"
 
 #: src/editor/palette/item_palette.cpp:32
-#, fuzzy
-#| msgid "Left-click: "
 msgid "Left-click: Place item "
-msgstr "Kliknutí levým: "
+msgstr "Kliknutí levým: umístit předmět "
 
 #: src/editor/palette/location_palette.cpp:249
 msgid "Go To"
