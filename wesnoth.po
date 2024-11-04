@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 12:38-0500\n"
-"PO-Revision-Date: 2024-11-03 20:27+0100\n"
+"PO-Revision-Date: 2024-11-04 22:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6677,8 +6677,8 @@ msgid ""
 "The server accepts versions '$required_version', but you are using version "
 "'$your_version'"
 msgstr ""
-"Server přijímá pouze verze '$required_version', ale ty používáš verzi "
-"'$your_version'"
+"Server přijímá pouze verze „$required_version“, ale ty používáš verzi "
+"„$your_version“"
 
 #: src/game_initialization/multiplayer.cpp:285
 msgid "Server-side redirect loop"
@@ -7582,7 +7582,7 @@ msgstr "<id>"
 
 #: src/menu_events.cpp:1261
 msgid "Advance to the next scenario, or scenario identified by 'id'"
-msgstr "Postoupí do dalšího scénáře, nebo scénáře určeného \"id\""
+msgstr "Postoupí do dalšího scénáře, nebo scénáře určeného „id“"
 
 #: src/menu_events.cpp:1263
 msgid "Choose next scenario"
@@ -7811,11 +7811,11 @@ msgstr "Počítačem řízenou lokální stranu „$side“ nelze označit za ne
 
 #: src/menu_events.cpp:1675
 msgid "Can't change control of invalid side: '$side'."
-msgstr "Nelze změnit vlastníka neplatné strany „$side|“."
+msgstr "Nelze změnit vlastníka neplatné strany „$side“."
 
 #: src/menu_events.cpp:1685
 msgid "Can't change control of out-of-bounds side: '$side'."
-msgstr "Nelze změnit vlastníka strany „$side|“ – mimo rozsah platných stran."
+msgstr "Nelze změnit vlastníka strany „$side“ – mimo rozsah platných stran."
 
 #: src/menu_events.cpp:1702
 msgid "Can't query control of invalid side: '$side'."
@@ -7879,8 +7879,8 @@ msgid ""
 "Invalid alignment: '$alignment', needs to be one of lawful, neutral, "
 "chaotic, or liminal."
 msgstr ""
-"Neplatná příslušnost '$alignment', musí být jedna z 'lawful', 'neutral', "
-"'chaotic' nebo 'liminal'."
+"Neplatná příslušnost „$alignment“, musí být jedna z „lawful“, „neutral“, "
+"„chaotic“ nebo „liminal“."
 
 #: src/menu_events.cpp:2029
 msgid "Do you wish to clear all of your discovered units from help?"
@@ -8708,7 +8708,7 @@ msgstr "v $pos"
 
 #: src/serialization/parser.cpp:484
 msgid "Value: '$value' Previous: '$previous_value'"
-msgstr "Hodnota: '$value', předchozí '$previous_value'"
+msgstr "Hodnota: „$value“, předchozí: „$previous_value“"
 
 #: src/serialization/string_utils.cpp:552
 msgid "prefix_milli^m"
