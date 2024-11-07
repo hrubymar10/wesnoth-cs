@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-21 11:11-0500\n"
-"PO-Revision-Date: 2024-10-25 21:34+0200\n"
+"PO-Revision-Date: 2024-11-07 21:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4468,19 +4468,15 @@ msgstr "Nahlásit problém"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:322
-#, fuzzy
-#| msgid ""
-#| "<i><span font_family='DejaVu Sans'>➤</span> Copy a full report here:</i>"
 msgid "<i><span font_family='DejaVu Sans'>➤</span> View Game Manual:</i>"
 msgstr ""
-"<i><span font_family='DejaVu Sans'>➤</span> Celou zprávu si můžeš zkopírovat "
-"zde:</i>"
+"<i><span font_family='DejaVu Sans'>➤</span> Podívat se na herní příručku:</i>"
 
 #. [button]: id=view_manual
 #. button to open the game manual in the platform's browser.
 #: data/gui/themes/default/window/game_version.cfg:335
 msgid "View Manual"
-msgstr ""
+msgstr "Podívat se na příručku"
 
 #. [label]
 #: data/gui/themes/default/window/game_version.cfg:343
@@ -5697,12 +5693,12 @@ msgstr "Přihlas se na oficiální herní server Wesnothu"
 
 #. [widget]: id=name
 #: data/gui/themes/default/window/mp_method_selection.cfg:247
-#, fuzzy
-#| msgid "Join Official Server"
 msgid ""
 "Join\n"
 "Official Server"
-msgstr "Připoj se na oficiální server"
+msgstr ""
+"Připojit se\n"
+"na oficiální server"
 
 #. [column]
 #: data/gui/themes/default/window/mp_method_selection.cfg:258
@@ -5711,12 +5707,12 @@ msgstr "Připoj se na jiný server"
 
 #. [widget]: id=name
 #: data/gui/themes/default/window/mp_method_selection.cfg:267
-#, fuzzy
-#| msgid "Connect to Server"
 msgid ""
 "Connect to\n"
 "Server"
-msgstr "Připoj se na server"
+msgstr ""
+"Připojit se\n"
+"na server"
 
 #. [column]
 #: data/gui/themes/default/window/mp_method_selection.cfg:278
@@ -5725,12 +5721,12 @@ msgstr "Hostuj hru dedikovaným serverem"
 
 #. [widget]: id=name
 #: data/gui/themes/default/window/mp_method_selection.cfg:287
-#, fuzzy
-#| msgid "Host Networked Game"
 msgid ""
 "Host Networked\n"
 "Game"
-msgstr "Hostuj síťovou hru"
+msgstr ""
+"Hostit\n"
+"síťovou hru"
 
 #. [column]
 #: data/gui/themes/default/window/mp_method_selection.cfg:298
@@ -7170,10 +7166,8 @@ msgid "addons_of_type^Cores"
 msgstr "Jádra"
 
 #: src/gui/dialogs/addon/manager.cpp:162
-#, fuzzy
-#| msgid "addons_of_type^Cores"
 msgid "addons_of_type^Themes"
-msgstr "Jádra"
+msgstr "Motivy"
 
 #: src/gui/dialogs/addon/manager.cpp:163
 msgid "addons_of_type^Resources"
@@ -7560,7 +7554,7 @@ msgstr "Média"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:182
 msgid "Theme"
-msgstr ""
+msgstr "Motiv"
 
 #: src/gui/dialogs/editor/edit_pbl.cpp:183
 msgid "Other"
@@ -8197,10 +8191,8 @@ msgid "Game"
 msgstr "Hra"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:310
-#, fuzzy
-#| msgid "(Invalid)"
 msgid "Invalid Color"
-msgstr "(Invalid)"
+msgstr "Neplatná barva"
 
 #: src/gui/dialogs/multiplayer/mp_staging.cpp:517
 msgid "Waiting for players to choose factions..."
@@ -8464,12 +8456,12 @@ msgid "No page defined."
 msgstr "Není definována žádná stránka."
 
 #: src/gui/widgets/multiline_text.cpp:432
-#, fuzzy
-#| msgid "Opening links is not supported, contact your packager"
 msgid ""
 "Opening links is not supported, contact your packager. Link URL has been "
 "copied to the clipboard."
-msgstr "Otevírání odkazů není podporováno, kontaktuj správce svého balíčku"
+msgstr ""
+"Otevírání odkazů není podporováno, kontaktuj správce svého balíčku. URL "
+"odkaz byl zkopírován do schránky."
 
 #: src/gui/widgets/multimenu_button.cpp:171
 msgid "multimenu^All Selected"
@@ -8496,7 +8488,7 @@ msgstr "Je třeba alespoň jedna souběžná věc."
 
 #: src/gui/widgets/rich_label.cpp:253
 msgid "corrupted original file"
-msgstr ""
+msgstr "poškozený původní soubor"
 
 #: src/gui/widgets/size_lock.cpp:88
 msgid "Invalid size."
@@ -8760,10 +8752,8 @@ msgid "Save Map"
 msgstr "Uložit mapu"
 
 #: src/hotkey/hotkey_command.cpp:110
-#, fuzzy
-#| msgid "Loading..."
 msgid "Load Turn..."
-msgstr "Načítám..."
+msgstr "Nahrát kolo..."
 
 #: src/hotkey/hotkey_command.cpp:112
 msgid "Repeat Recruit"
