@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-21 16:11 UTC\n"
-"PO-Revision-Date: 2024-10-24 18:06+0200\n"
+"PO-Revision-Date: 2024-11-08 21:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9062,11 +9062,17 @@ msgid ""
 "the shambling hordes responsible for all this destruction, we must not find "
 "our armories wanting."
 msgstr ""
+"Souhlasím, ale všude je podivné ticho. Možná že zbývající nemrtví spí?\n"
+"\n"
+"I když nám chybí síla k tomu, abychom toto místo doopravdy získali zpět, "
+"měli bychom využít příležitosti a shromáždit zbývající zásoby. Až se konečně "
+"setkáme s hordami kulhavých, které jsou zodpovědné za všechnu tuhle zkázu, "
+"nesmí nás zastihnout s rezavou výzbrojí."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1289
 msgid "Gather as much gold as you can before turns run out."
-msgstr ""
+msgstr "Shromáždi co nejvíce zlata, než vyprší počet kol."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1294
@@ -9294,7 +9300,7 @@ msgstr "... dříve... zemřu... než se podvolit tobě..., nekromante."
 #. [effect]: type=impact
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1784
 msgid "tail"
-msgstr ""
+msgstr "ocas"
 
 #. [message]: speaker=unit
 #. undead dragon, talking to a memory rather than the unit that triggered him
@@ -9495,6 +9501,9 @@ msgid ""
 "of Wesnoth. We must make the most of our time here; we cannot afford to "
 "tarry too long."
 msgstr ""
+"Jestli koňské klany tak naprosto podlehly, bojím se o Weldyn a zbytek "
+"Wesnothu. Musíme zde co nejlépe využít čas. Nemůžeme si dovolit příliš "
+"dlouho otálet."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2150
@@ -9502,11 +9511,13 @@ msgid ""
 "So much death. So many of my kinsmen left unavenged. If only we had more "
 "time..."
 msgstr ""
+"Tolik smrti. Tolik mých příbuzných zůstalo nepomstěno. Kdybychom jen měli "
+"více času..."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2154
 msgid "We have done all we could here."
-msgstr ""
+msgstr "Udělali jsme vše, co jsme mohli."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2179
@@ -14224,56 +14235,3 @@ msgstr ""
 "věznicích a teď o tom může vyprávět. Přeživší si nesou těžké břemeno z doby "
 "strávené v zajetí, ale také se naučili mnohé o silných a slabých stránkách "
 "svých bývalých věznitelů."
-
-#~ msgid ""
-#~ "I agree, yet all is strangely quiet. Perhaps the remaining undead lie "
-#~ "dormant? If we take time to capture villages and rebuild our forces, we "
-#~ "may yet be able to reclaim this place."
-#~ msgstr ""
-#~ "Souhlasím, ale všude je podivné ticho. Možná zbývající nemrtví spí? Pokud "
-#~ "si uděláme čas na obsazení vesnic a obnovení našich sil, možná se nám "
-#~ "ještě podaří získat toto místo zpět."
-
-#~ msgid ""
-#~ "It may be wise to capture villages and build up an army before attacking."
-#~ msgstr "Před útokem může být rozumné obsadit vesnice a vybudovat armádu."
-
-#~ msgid ""
-#~ "We must finish here and hurry on from this dead place! If the Horse Clans "
-#~ "have fallen so completely, I fear for Weldyn and the rest of Wesnoth."
-#~ msgstr ""
-#~ "Musíme tady přestat mluvit a rychle opustit toto mrtvé místo! Jestli "
-#~ "koňské klany tak naprosto podlehly, bojím se o Weldyn a zbytek Wesnothu."
-
-#~ msgid ""
-#~ "Why are we here at all? We should be advancing towards Weldyn, not "
-#~ "humoring Owaec’s lust for vengeance. The Plains are already drowned."
-#~ msgstr ""
-#~ "Proč tu vůbec jsme? Měli bychom postupovat směrem k Weldynu, a ne se "
-#~ "podvolovat Owaecově touze po pomstě. Pláně jsou už zatopené."
-
-#~ msgid ""
-#~ "Enough of this. We have wasted too much time here already; give up your "
-#~ "foolish quest of vengeance and travel on."
-#~ msgstr ""
-#~ "To stačilo. Už jsme tu ztratili příliš mnoho času. Vzdej se své pošetilé "
-#~ "touhy po pomstě a pokračuj v cestě."
-
-#~ msgid ""
-#~ "Your search for foul magic has caused enough harm already, and now you "
-#~ "would leave my countrymen’s bodies defiled by undeath? I will slay "
-#~ "everything that moves in this swamp, and once I am done, perhaps my "
-#~ "hammer will find you next!"
-#~ msgstr ""
-#~ "Tvé hledání nečisté magie už způsobilo dost škody, a teď chceš nechat "
-#~ "těla mých krajanů poskvrnit nemrtvými? Zabiju vše, co se v této bažině "
-#~ "hýbe, a až skončím, možná si mé kladivo najde potom tebe!"
-
-#~ msgid ""
-#~ "You fools are welcome to linger here clearing this swamp, but I intend to "
-#~ "travel on alone and defeat Mal-Ravanal. Go as you wish on your own. I "
-#~ "have a task to complete."
-#~ msgstr ""
-#~ "Vy hlupáci se tu můžete zdržovat a čistit tuhle bažinu, ale já hodlám "
-#~ "pokračovat sám a porazit Mal-Ravanala. Jděte si po svých, jak si přejete. "
-#~ "Mám úkol, který musím splnit."
