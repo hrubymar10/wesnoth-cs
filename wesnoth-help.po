@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-21 11:10-0500\n"
-"PO-Revision-Date: 2024-11-06 22:39+0100\n"
+"PO-Revision-Date: 2024-11-10 11:06+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -764,39 +764,24 @@ msgstr "Grafika pro vyvýšený terén"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:164
-#, fuzzy
-#| msgid ""
-#| "A cosmetic elevation effect that looks a little different in the editor "
-#| "than in the game due to visual aids in the editor; all the overlays "
-#| "described here are found in the terrain palette’s “elevation” group."
 msgid ""
 "\n"
 "A cosmetic elevation effect that looks a little different in the editor than "
 "in the game due to visual aids in the editor; all the overlays described "
 "here are found in the terrain palette’s “elevation” group.\n"
 msgstr ""
+"\n"
 "Kosmetický účinek vyvýšení, který v editoru vypadá poněkud jinak než ve hře "
 "díky názorným pomůckám v editoru. Všechny zde popsané překryvy se nacházejí "
-"v paletě terénů pod skupinou „vyvýšení“."
+"v paletě terénů pod skupinou „vyvýšení“.\n"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:167
-#, fuzzy
-#| msgid "editor^<bold>text='Direct Overlays'</bold>"
 msgid "editor^<header>Direct Overlays</header>"
-msgstr "<bold>text='Přímé překryvy'</bold>"
+msgstr "<header>Přímé překryvy</header>"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:169
-#, fuzzy
-#| msgid ""
-#| "Bluffs and Gulch\n"
-#| "\n"
-#| "The bluffs, gulches, and similar variations are much like a standard "
-#| "terrain overlay, and can simply be used that way. However, for larger "
-#| "areas of the map, where you will want to allow the use of other overlay "
-#| "terrains, you will want to combine these with the “markers” described in "
-#| "the next section."
 msgid ""
 "\n"
 "<b>Bluffs and Gulch</b>\n"
@@ -808,19 +793,19 @@ msgid ""
 "section.\n"
 "\n"
 msgstr ""
-"Srázy a rokliny\n"
+"\n"
+"<b>Srázy a rokliny</b>\n"
 "\n"
 "Srázy, rokliny a jejich obměny se podobají standardním překryvům terénu "
 "a tímto způsobem je lze jednoduše použít. Nicméně pro větší oblasti mapy, "
 "kde budeš chtít umožnit použití jiných překryvů terénu, bude třeba tyto jiné "
-"překryvy spojovat se „značkami“ popsanými v následujícím oddílu."
+"překryvy spojovat se „značkami“ popsanými v následujícím oddílu.\n"
+"\n"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:175
-#, fuzzy
-#| msgid "editor^<bold>text='Elevation Floodfill'</bold>"
 msgid "editor^<header>Elevation Floodfill</header>"
-msgstr "<bold>text='Vyplňování vyvýšením'</bold>"
+msgstr "<header>Vyplňování vyvýšením</header>"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:179
@@ -829,31 +814,11 @@ msgstr "Značka zvýšení na mapě"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:180
-#, fuzzy
-#| msgid "Raised elevation on-map marker"
 msgid "Raised elevation editor palette icon"
-msgstr "Značka zvýšení na mapě"
+msgstr "Ikona zvýšení v paletě editoru"
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:187
-#, fuzzy
-#| msgid ""
-#| "editor^<bold>text='How to Use'</bold>\n"
-#| "\n"
-#| "The marker arrows are not very useful by themselves, but the bluffs/gulch-"
-#| "type terrains can be used to contain the floodfilled area.\n"
-#| "\n"
-#| "An example use case would be:\n"
-#| "1.  Select the Bluffs (^Qhh) from the editor palette and use single-hex "
-#| "paint tool to outline a big blob over an empty, all-grass map.\n"
-#| "2.  Place a Marker High (^_mh) arrow on a tile inside the blob (not on "
-#| "the Bluffs border).\n"
-#| "3.  The blob should all be raised now, and as long as you don't overwrite "
-#| "the Marker or Bluffs overlays, you can add other terrain overlays as "
-#| "needed.\n"
-#| "\n"
-#| "The graphics used to represent the ledge borders are determined by the "
-#| "base terrain.\n"
 msgid ""
 "\n"
 "editor^<header>How to Use</header>\n"
@@ -873,7 +838,8 @@ msgid ""
 "The graphics used to represent the ledge borders are determined by the base "
 "terrain.\n"
 msgstr ""
-"<bold>text='Jak na to'</bold>\n"
+"\n"
+"<header>Jak na to</header>\n"
 "\n"
 "Značky se šipkami nejsou samy o sobě moc užitečné, ale terény typu sráz/"
 "roklina lze použít k omezení vyplňované oblasti.\n"
@@ -890,21 +856,15 @@ msgstr ""
 
 #. [topic]: id=editor_terrain_elevation
 #: data/core/editor/help.cfg:199
-#, fuzzy
-#| msgid ""
-#| "editor^<format>text='Note for UMC authors: The flood-filled tiles do not "
-#| "have their terrain codes changed, or any other properties affected, so "
-#| "filtering a location by elevation is not simple.' italic='yes' "
-#| "font_size=10 </format>"
 msgid ""
 "editor^<span style='italic' font_size='15'>Note for UMC authors: The flood-"
 "filled tiles do not have their terrain codes changed, or any other "
 "properties affected, so filtering a location by elevation is not simple.</"
 "span>"
 msgstr ""
-"<format>text='Poznámka pro autory rozšíření: Vyplněná políčka nemají změněné "
-"kódy terénu ani žádné jiné vlastnosti, takže filtrovat umístění podle "
-"vyvýšení není jednoduché.' italic='yes' font_size=10 </format>"
+"<span style='italic' font_size='15'>Poznámka pro autory rozšíření: Vyplněná "
+"políčka nemají změněné kódy terénu ani žádné jiné vlastnosti, takže "
+"filtrovat umístění podle vyvýšení není jednoduché.</span>"
 
 #. [topic]: id=editor_deprecated_overlay
 #: data/core/editor/help.cfg:205
