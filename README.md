@@ -6,15 +6,11 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 ## To Do
 
-Domain | Messages | Translated | Remaining | Translator
------- | -------- | ---------- | --------- | ----------
-wesnoth-help | 728 | 96% | 29 | Michal
+As of 2024-11-12 the translation is complete.
 
-Total messages remaining: **29**
+There are still bugs in Czech translation.
 
-Progress since 2024-10-23: **8** messages per day
-
-ETA: **2024-11-14**
+If you stumble upon any such bug, please report it as an [issue](https://github.com/hrubymar10/wesnoth-cs/issues).
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
 
