@@ -9150,12 +9150,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1140
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Invalid Color"
-#~ msgstr "Neplatná barva"
-
-#~ msgid "Reference to unknown topic: "
-#~ msgstr "Odkaz na neznámé téma: "
-
-#~ msgid "corrupted original file"
-#~ msgstr "původní soubor je poškozený"

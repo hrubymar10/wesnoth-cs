@@ -9489,16 +9489,3 @@ msgstr "V sekci „[$section|]“ není nastaven povinný klíč „$key|“."
 #: src/wml_exception.cpp:104
 msgid "In section ‘[$section|]’ the mandatory subtag ‘[$tag|]’ is missing."
 msgstr "V sekci „[$section|]“ chybí povinná podřízená značka „[$tag|]”."
-
-#~ msgid "Connected Players"
-#~ msgstr "Připojení hráči"
-
-#~ msgid "The text contains invalid Pango markup: "
-#~ msgstr "Text obsahuje neplatné Pango značky: "
-
-#~ msgid "Text has a font size of 0."
-#~ msgstr "Text má výšku fontu nula."
-
-#~ msgid "Clipboard support not found, contact your packager"
-#~ msgstr ""
-#~ "Podpora pro schránku nebyla nalezena, kontaktuj správce svého balíčku"

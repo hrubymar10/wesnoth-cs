@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-21 11:10-0500\n"
-"PO-Revision-Date: 2024-11-12 22:12+0100\n"
+"PO-Revision-Date: 2024-11-13 22:39+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8765,20 +8765,3 @@ msgstr "Cena rušení"
 #~ "Existují dvě značky zvýšení a dvě snížení, takže je možné vytvořit terasy "
 #~ "až do pěti úrovní (nejnižší, nižší, normální, vyšší, nejvyšší). Umístění "
 #~ "zvýšené oblasti vedle snížené nevede ke vzniku větších srázů.\n"
-
-#~ msgid "Close"
-#~ msgstr "Zavřít"
-
-#~ msgid "Help"
-#~ msgstr "Nápověda"
-
-#~ msgid "Parse error when parsing help text:"
-#~ msgstr "Chyba rozboru (parsing) textu nápovědy:"
-
-# malé nebo velké 1. písmeno
-#~ msgid "unit help^Attacks"
-#~ msgstr "Útoky"
-
-# malé nebo velké 1. písmeno
-#~ msgid "unit help^Name"
-#~ msgstr "Jméno"
