@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 12:38-0500\n"
-"PO-Revision-Date: 2024-11-04 22:18+0100\n"
+"PO-Revision-Date: 2024-11-14 22:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6662,7 +6662,7 @@ msgstr ""
 
 #: src/game_initialization/mp_game_utils.cpp:78
 msgid "Defeat enemy leader(s)"
-msgstr "Znič nepřátelské(ho) vůdce"
+msgstr "Znič nepřátelské/ho vůdce"
 
 #: src/game_initialization/mp_game_utils.cpp:103
 msgid "Cannot find era '$era'"
@@ -8857,7 +8857,7 @@ msgstr "Hodnota „border_size“ by měla být mezi 0,0 a 0,5."
 
 #: src/theme.cpp:566 src/theme.cpp:571
 msgid "Hotkey(s): "
-msgstr "Zkratka(y): "
+msgstr "Zkratka/zkratky: "
 
 #: src/time_of_day.cpp:44
 msgid "Stub Time of Day"
