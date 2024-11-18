@@ -13,9 +13,3 @@ There are still bugs in Czech translation.
 If you stumble upon any such bug, please report it as an [issue](https://github.com/hrubymar10/wesnoth-cs/issues).
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
-
-## Add-ons
-Domain | Messages | Translated | Remaining | Translator
------- | -------- | ---------- | --------- | ----------
-wesnoth-A_New_Order | 3340 | 84% | 517 | Septim
-wesnoth-The_Earths_Gut | 1565 | 24% | 1177 | Septim
