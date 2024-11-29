@@ -2,14 +2,14 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2008 - 2011, 2020 - 2022.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-26 18:08 UTC\n"
-"PO-Revision-Date: 2023-12-05 20:30+0100\n"
+"PO-Revision-Date: 2024-11-29 23:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -137,17 +137,10 @@ msgstr ""
 msgid "Defeat an enemy leader in Forbidden Forest"
 msgstr ""
 
-# Konvence překladu:
-# Angarthing mluví občas vzletně
-# Skřeti mluví nespisovně se specifickými výrazy
-# Otrokář mluví nespisovně s drsnými výrazy
-# Karrag mluví občas vzletně
 #. [achievement]: id=new_thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:23
-#, fuzzy
-#| msgid "The Hammer of Thursagan"
 msgid "New Thursagan"
-msgstr "Thursaganovo kladivo"
+msgstr "Nový Thursagan"
 
 #. [achievement]: id=new_thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/achievements.cfg:24
