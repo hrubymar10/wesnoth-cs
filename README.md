@@ -13,12 +13,12 @@ wesnoth-help | 734 | 96% | 23 | Michal
 wesnoth-lib | 1644 | 99% | 4 | Michal
 wesnoth-manpages | 310 | 98% | 5 | Michal
 wesnoth-sof | 667 | 99% | 1 | Michal
-wesnoth-thot | 360 | 98% | 7 | Michal
+wesnoth-thot | 360 | 98% | 6 |
 wesnoth-units | 845 | 98% | 11 | Michal
 wesnoth | 1411 | 99% | 10 | Michal
 
-Total messages remaining: **62**
+Total messages remaining: **61**
 
-I see no progress.
+The translation speed is lower than one message per day.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
