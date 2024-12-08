@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-26 12:08-0600\n"
-"PO-Revision-Date: 2024-11-15 18:59+0100\n"
+"PO-Revision-Date: 2024-12-08 18:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6836,16 +6836,12 @@ msgid " This server disallows unregistered nicknames."
 msgstr " Tento server nepovoluje použití neregistrovaných přezdívek."
 
 #: src/game_initialization/multiplayer.cpp:423
-#, fuzzy
-#| msgid "Your IP address is banned on this server’s forums for $duration|."
 msgid "Your IP address is banned on this server for $duration|."
-msgstr "Tvoje IP adresa je zablokovaná na fórum tohoto serveru na $duration|."
+msgstr "Tvá IP adresa je na tomto serveru zakázána po dobu $duration|."
 
 #: src/game_initialization/multiplayer.cpp:425
-#, fuzzy
-#| msgid "Your IP address is banned on this server’s forums."
 msgid "Your IP address is banned on this server."
-msgstr "Tvoje IP adresa je zablokovaná na fórum tohoto serveru."
+msgstr "Tvá IP adresa je na tomto serveru zakázána."
 
 #: src/game_initialization/multiplayer.cpp:429
 msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
@@ -8707,13 +8703,11 @@ msgid "Overwrite?"
 msgstr "Přepsat?"
 
 #: src/savegame.cpp:432
-#, fuzzy
-#| msgid ""
-#| "Save names should not end on ‘.gz’ or ‘.bz2’. Please remove the extension."
 msgid ""
 "Save names should not end with ‘.gz’ or ‘.bz2’. Please remove the extension."
 msgstr ""
-"Jména uložených her by neměla končit „.gz“ nebo „.bz2“. Vymaž prosím příponu."
+"Názvy ukládaných souborů by neměly končit příponou „.gz“ nebo „.bz2“. "
+"Odstraň prosím příponu."
 
 #: src/savegame.cpp:437
 msgid ""
