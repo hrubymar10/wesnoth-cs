@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-26 12:08-0600\n"
-"PO-Revision-Date: 2024-11-07 21:00+0100\n"
+"PO-Revision-Date: 2024-12-08 16:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4738,10 +4738,8 @@ msgstr "Nápověda Bitvy o Wesnoth"
 
 #. [toggle_button]: id=contents
 #: data/gui/themes/default/window/help_browser.cfg:160
-#, fuzzy
-#| msgid "Show Credits"
 msgid "Show Topics"
-msgstr "Zobrazit poděkování"
+msgstr "Ukázat témata"
 
 #. [label]
 #: data/gui/themes/default/window/hotkey_bind.cfg:35
@@ -7453,16 +7451,12 @@ msgid "Attacker vulnerability vs"
 msgstr "Zranitelnost útočníka vs."
 
 #: src/gui/dialogs/campaign_selection.cpp:59
-#, fuzzy
-#| msgid "Remove Add-ons"
 msgid "game^Get Add-ons"
-msgstr "Odstranit rozšíření"
+msgstr "Získat rozšíření"
 
 #: src/gui/dialogs/campaign_selection.cpp:378
-#, fuzzy
-#| msgid "Campaigns"
 msgid "More campaigns..."
-msgstr "Tažení"
+msgstr "Další tažení..."
 
 #: src/gui/dialogs/campaign_selection.cpp:387
 msgid ""
