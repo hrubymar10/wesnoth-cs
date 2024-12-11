@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-26 12:08-0600\n"
-"PO-Revision-Date: 2024-12-10 22:06+0100\n"
+"PO-Revision-Date: 2024-12-11 19:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5586,27 +5586,19 @@ msgstr ""
 "nejsou na sousedních polích. Nepřátelská jednotka, která ji nalezne jako "
 "první, ztrácí všechny své zbývající body pohybu."
 
+# Zatím jen číhání, protože močálové číhání apod. je moc komplikované. Dokud se to nebude bít s jiným druhem lurk, tak bych to nechal.
 #. [hides]: id=swamp_lurk
 #: data/core/macros/abilities.cfg:388
 msgid "swamp lurk"
-msgstr ""
+msgstr "číhání"
 
 #. [hides]: id=swamp_lurk
 #: data/core/macros/abilities.cfg:389
-#, fuzzy
-#| msgid "female^weak"
 msgid "female^swamp lurk"
-msgstr "slabá"
+msgstr "číhání"
 
 #. [hides]: id=swamp_lurk
 #: data/core/macros/abilities.cfg:390
-#, fuzzy
-#| msgid ""
-#| "This unit can hide in forest, and remain undetected by its enemies.\n"
-#| "\n"
-#| "Enemy units cannot see this unit while it is in forest, except if they "
-#| "have units next to it. Any enemy unit that first discovers this unit "
-#| "immediately loses all its remaining movement."
 msgid ""
 "This unit can hide in swamp, and remain undetected by its enemies.\n"
 "\n"
@@ -5614,9 +5606,9 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
-"Jednotka se dokáže ukrýt v lese a zůstat nezpozorována svými nepřáteli.\n"
+"Jednotka se dokáže ukrýt v bažině a zůstat nezpozorována svými nepřáteli.\n"
 "\n"
-"Nepřátelské jednotky nemohou tuto jednotku spatřit v lese, pouze jsou-li na "
+"Nepřátelské jednotky nemohou tuto jednotku v bažině spatřit, dokud nejsou na "
 "sousedních polích. Nepřátelská jednotka, která ji nalezne jako první, ztrácí "
 "všechny své zbývající body pohybu."
 
