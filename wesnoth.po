@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-26 12:08-0600\n"
-"PO-Revision-Date: 2024-12-09 20:59+0100\n"
+"PO-Revision-Date: 2024-12-15 09:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7996,7 +7996,7 @@ msgstr "Přeješ si smazat z nápovědy všechny spatřené druhy jednotek?"
 
 #: src/menu_events.cpp:2038
 msgid "Invalid unit type"
-msgstr "Neplatný druh jednotky"
+msgstr "Neplatný typ jednotky"
 
 #: src/menu_events.cpp:2045
 msgid "Invalid location"
