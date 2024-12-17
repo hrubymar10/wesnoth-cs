@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-26 12:08-0600\n"
-"PO-Revision-Date: 2024-12-11 19:20+0100\n"
+"PO-Revision-Date: 2024-12-17 20:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6611,19 +6611,16 @@ msgstr ""
 
 #. [disable]: id=unwieldy
 #: data/core/macros/weapon_specials.cfg:7
-#, fuzzy
 msgid "unwieldy"
 msgstr "těžkopádný"
 
 #. [disable]: id=unwieldy
 #: data/core/macros/weapon_specials.cfg:8
-#, fuzzy
 msgid "This attack can only be used offensively."
-msgstr "Tento útok lze použít pouze útočně."
+msgstr "Tento útok lze použít pouze ofenzivně."
 
 #. [disable]: id=unwieldy
 #: data/core/macros/weapon_specials.cfg:10
-#, fuzzy
 msgid "This unit has an unwieldy weapon, which cannot be used defensively."
 msgstr "Tato jednotka má těžkopádnou zbraň, kterou nelze použít k obraně."
 
@@ -6744,25 +6741,22 @@ msgstr ""
 
 #. [damage]: id=guard
 #: data/core/macros/weapon_specials.cfg:148
-#, fuzzy
 msgid "guard"
-msgstr "stráž"
+msgstr "ochrana"
 
 #. [damage]: id=guard
 #: data/core/macros/weapon_specials.cfg:149
-#, fuzzy
 msgid "This attack blocks half of the damage from its target’s strikes."
-msgstr "Tento útok blokuje polovinu poškození způsobeného údery cíle."
+msgstr "Tento útok blokuje polovinu zranění způsobeného údery cíle."
 
 #. [damage]: id=guard
 #: data/core/macros/weapon_specials.cfg:150
-#, fuzzy
 msgid ""
 "This unit’s guarding attack can halve incoming damage, but only when used in "
 "combat."
 msgstr ""
-"Strážní útok této jednotky může snížit příchozí poškození na polovinu, ale "
-"pouze pokud je použit v boji."
+"Ochranný útok této jednotky může snížit utržené zranění na polovinu, ale "
+"pouze pokud je použit v boji."
 
 #. [drains]: id=drains
 #: data/core/macros/weapon_specials.cfg:162
