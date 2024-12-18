@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-11-26 12:08-0600\n"
-"PO-Revision-Date: 2024-12-17 20:31+0100\n"
+"PO-Revision-Date: 2024-12-18 21:06+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7864,7 +7864,6 @@ msgstr "Lodě"
 
 #. [race]: id=transport
 #: data/core/units.cfg:296
-#, fuzzy
 msgid ""
 "Ships are not living beings, but they are crafted and (usually) controlled "
 "by living beings.  Although inanimate objects, they are very dear to their "
@@ -7873,12 +7872,11 @@ msgid ""
 "Those traits may be technical or they may simply reflect the collective "
 "attitude of the crew, but they are real."
 msgstr ""
-"Lodě nejsou živé bytosti, ale jsou vyrobeny a (obvykle) řízeny živými "
-"bytostmi.  Ačkoli jsou to neživé předměty, jsou svým pánům velmi drahé a "
-"potřebují péči a pozornost výměnou za poskytování obživy a ochrany.  Z "
-"tohoto důvodu většina z nich dostává jména a jsou jim přisuzovány "
-"vlastnosti.  Tyto vlastnosti mohou být technické nebo mohou prostě odrážet "
-"kolektivní postoj posádky, ale jsou skutečné."
+"Lodě nejsou živé bytosti, ale jsou živými bytostmi stavěny a (obvykle) "
+"řízeny. Ačkoli neživé věci, svým pánům jsou velmi drahé a potřebují péči "
+"a pozornost, aby poskytly obživu a ochranu. Z tohoto důvodu většina z nich "
+"dostává jména a jsou jim přisuzovány vlastnosti. Tyto vlastnosti mohou být "
+"technické nebo prostě odrážet společný postoj posádky, ale jsou skutečné."
 
 #. [race]: id=merman
 #: data/core/units.cfg:310
