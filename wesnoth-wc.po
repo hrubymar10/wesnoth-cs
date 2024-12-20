@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 22:51 UTC\n"
-"PO-Revision-Date: 2024-10-25 20:51+0200\n"
+"PO-Revision-Date: 2024-12-20 08:10+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2645,10 +2645,8 @@ msgstr "Počátek"
 
 #. [lua]: wc_ii_generate_scenario
 #: data/campaigns/World_Conquest/lua/map/main.lua:127
-#, fuzzy
-#| msgid "Scenario"
 msgid "Scenario "
-msgstr "Scénář"
+msgstr "Scénář "
 
 #. [lua]: wc_ii_generate_scenario
 #: data/campaigns/World_Conquest/lua/map/main.lua:129

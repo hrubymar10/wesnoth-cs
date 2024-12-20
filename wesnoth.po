@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2024-12-15 19:40+0100\n"
+"PO-Revision-Date: 2024-12-20 08:08+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4392,11 +4392,6 @@ msgstr[2] ""
 
 #. [lua]: carryover.carryover_mesage
 #: data/lua/carryover_gold.lua:179
-#, fuzzy
-#| msgid ""
-#| "You will start the next scenario with the defined minimum starting gold."
-#| msgid_plural ""
-#| "You will start the next scenario with the defined minimum starting gold."
 msgid ""
 "You will start the next scenario with the defined minimum starting gold."
 msgstr "Příští scénář zahájíš s jeho definovaným minimem zlata."

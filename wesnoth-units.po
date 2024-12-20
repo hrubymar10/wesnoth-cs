@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 22:51 UTC\n"
-"PO-Revision-Date: 2024-12-15 19:06+0100\n"
+"PO-Revision-Date: 2024-12-20 08:12+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1207,11 +1207,6 @@ msgstr "Bludný vrak"
 
 #. [unit_type]: id=Derelict Hulk, race=transport
 #: data/core/units/boats/Derelict_Galleon.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Derelicts are abandoned wrecks that continue to drift across the seas.  "
-#| "Most are merely ruined ships that will soon sink, but there are tales of "
-#| "others that haunt certain waterways for generations."
 msgid ""
 "Derelicts are abandoned wrecks that continue to drift across the seas. Most "
 "are merely ruined ships that will soon sink, but there are tales of others "
@@ -1234,13 +1229,6 @@ msgstr "Zápalná loď"
 
 #. [unit_type]: id=Fireship, race=transport
 #: data/core/units/boats/Fireship.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Fireships are generally derelict or doomed ships set ablaze to create "
-#| "chaos in one last act of belligerence.  Their main hazard is fiery "
-#| "collision, but they also shed burning embers.  Sometimes they have a "
-#| "skeleton crew to guide them, but often they just drift along on unseen "
-#| "winds and currents."
 msgid ""
 "Fireships are generally derelict or doomed ships set ablaze to create chaos "
 "in one last act of belligerence. Their main hazard is fiery collision, but "

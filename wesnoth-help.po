@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2024-12-18 21:06+0100\n"
+"PO-Revision-Date: 2024-12-20 08:06+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7880,14 +7880,6 @@ msgstr "Lodě"
 
 #. [race]: id=transport
 #: data/core/units.cfg:296
-#, fuzzy
-#| msgid ""
-#| "Ships are not living beings, but they are crafted and (usually) "
-#| "controlled by living beings.  Although inanimate objects, they are very "
-#| "dear to their masters, needing care and attention in return for providing "
-#| "sustenance and protection.  For this reason, most are given names and "
-#| "attributed traits.  Those traits may be technical or they may simply "
-#| "reflect the collective attitude of the crew, but they are real."
 msgid ""
 "Ships are not living beings, but they are crafted and (usually) controlled "
 "by living beings. Although inanimate objects, they are very dear to their "

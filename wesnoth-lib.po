@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2024-12-13 21:14+0100\n"
+"PO-Revision-Date: 2024-12-20 08:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3515,23 +3515,17 @@ msgstr ""
 
 #. [grid]
 #: data/gui/themes/default/window/editor_edit_pbl.cfg:214
-#, fuzzy
-#| msgid ""
-#| "Comma delimited list of forum usernames of other people who are allowed "
-#| "to upload updates for this add-on."
 msgid ""
 "Comma delimited list of forum usernames of other people who are allowed to "
 "upload updates for this add-on or delete this add-on."
 msgstr ""
 "Seznam uživatelských jmen z fóra oddělených čárkami, jež patří lidem, kteří "
-"mohou nahrávat pro toto rozšíření aktualizace."
+"mohou nahrávat pro toto rozšíření aktualizace nebo toto rozšíření smazat."
 
 #. [grid]
 #: data/gui/themes/default/window/editor_edit_pbl.cfg:214
-#, fuzzy
-#| msgid "Secondary Authors:"
 msgid "Primary Authors:"
-msgstr "Vedlejší autoři:"
+msgstr "Hlavní autoři:"
 
 #. [grid]
 #: data/gui/themes/default/window/editor_edit_pbl.cfg:215
