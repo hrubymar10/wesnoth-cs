@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 12:38-0500\n"
-"PO-Revision-Date: 2024-12-15 09:02+0100\n"
+"PO-Revision-Date: 2024-12-21 10:15+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6483,7 +6483,7 @@ msgstr "Info: "
 
 #: src/game_initialization/configure_engine.cpp:64
 msgid "$login|’s game"
-msgstr "hraje $login"
+msgstr "pořádá $login"
 
 #: src/game_initialization/connect_engine.cpp:102
 msgid "Team"
