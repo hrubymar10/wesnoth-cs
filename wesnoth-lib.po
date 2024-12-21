@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2024-12-20 08:16+0100\n"
+"PO-Revision-Date: 2024-12-21 10:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8384,7 +8384,7 @@ msgstr "Smazat rozšíření ze serveru"
 #. TRANSLATORS: This is the new chat text indicator
 #: src/gui/widgets/chatbox.cpp:95
 msgid "NEW"
-msgstr ""
+msgstr "NOVÉ"
 
 # v chatu, "levá část tabulky" (jméno) - nesmí být příliš dlouhé!
 #: src/gui/widgets/chatbox.cpp:300
