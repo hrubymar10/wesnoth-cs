@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2024-12-21 10:17+0100\n"
+"PO-Revision-Date: 2024-12-21 10:29+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6484,55 +6484,55 @@ msgstr "%d %b %Y"
 #: src/formula/format_timespan.hpp:38
 msgid "timespan^$num year"
 msgid_plural "timespan^$num years"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "$num rok"
+msgstr[1] "$num roky"
+msgstr[2] "$num let"
 
 #: src/formula/format_timespan.hpp:39
 msgid "timespan^$num month"
 msgid_plural "timespan^$num months"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "$num měsíc"
+msgstr[1] "$num měsíce"
+msgstr[2] "$num měsíců"
 
 #: src/formula/format_timespan.hpp:40
 msgid "timespan^$num week"
 msgid_plural "timespan^$num weeks"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "$num týden"
+msgstr[1] "$num týdny"
+msgstr[2] "$num týdnů"
 
 #: src/formula/format_timespan.hpp:41
 msgid "timespan^$num day"
 msgid_plural "timespan^$num days"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "$num den"
+msgstr[1] "$num dny"
+msgstr[2] "$num dnů"
 
 #: src/formula/format_timespan.hpp:42
 msgid "timespan^$num hour"
 msgid_plural "timespan^$num hours"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "$num hodina"
+msgstr[1] "$num hodiny"
+msgstr[2] "$num hodin"
 
 #: src/formula/format_timespan.hpp:43
 msgid "timespan^$num minute"
 msgid_plural "timespan^$num minutes"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "$num minuta"
+msgstr[1] "$num minuty"
+msgstr[2] "$num minut"
 
 #: src/formula/format_timespan.hpp:44
 msgid "timespan^$num second"
 msgid_plural "timespan^$num seconds"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "$num vteřina"
+msgstr[1] "$num vteřiny"
+msgstr[2] "$num vteřin"
 
 #: src/formula/format_timespan.hpp:89 src/formula/format_timespan.hpp:112
 msgid "timespan^expired"
-msgstr ""
+msgstr "vypršel"
 
 #: src/game_config.cpp:526
 msgid "Invalid color in range: "
