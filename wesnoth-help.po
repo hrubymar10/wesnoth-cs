@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2024-12-20 08:06+0100\n"
+"PO-Revision-Date: 2024-12-22 10:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6710,18 +6710,18 @@ msgstr ""
 #. [chance_to_hit]: id=honed
 #: data/core/macros/weapon_specials.cfg:123
 msgid "honed"
-msgstr ""
+msgstr "vybroušený"
 
 #. [chance_to_hit]: id=honed
 #: data/core/macros/weapon_specials.cfg:124
 msgid "This attack is 10% more accurate than other attacks."
-msgstr ""
+msgstr "Tento útok je o 10 % přesnější než ostatní útoky."
 
 #. [chance_to_hit]: id=honed
 #: data/core/macros/weapon_specials.cfg:125
 msgid ""
 "This unit’s “honed” attack is slightly more accurate than other attacks."
-msgstr ""
+msgstr "„Vybroušený“ útok této jednotky je o něco přesnější než ostatní útoky."
 
 #. [swarm]: id=swarm
 #: data/core/macros/weapon_specials.cfg:136
