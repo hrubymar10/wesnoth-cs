@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 22:51 UTC\n"
-"PO-Revision-Date: 2024-12-20 08:10+0100\n"
+"PO-Revision-Date: 2024-12-22 08:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -403,7 +403,7 @@ msgstr ""
 #. [lua]: carryover.remaining_gold_message
 #: data/campaigns/World_Conquest/lua/campaign/scenario.lua:87
 msgid "Average remaining gold: "
-msgstr ""
+msgstr "Průměrný zbytek zlata: "
 
 #: data/campaigns/World_Conquest/lua/era/era.lua:12
 msgid "Tell me how my recruit works"
@@ -3966,19 +3966,19 @@ msgstr "Dobytí světa 4hr"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:17
 msgid "WC1p"
-msgstr ""
+msgstr "DS1hr"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:20
 msgid "WC2p"
-msgstr ""
+msgstr "DS2hr"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:23
 msgid "WC3p"
-msgstr ""
+msgstr "DS3hr"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:26
 msgid "WC4p"
-msgstr ""
+msgstr "DS4hr"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:29
 msgid ""
@@ -4104,6 +4104,3 @@ msgstr "Testování"
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:177
 msgid "Campaign Maintenance"
 msgstr "Údržba kampaně"
-
-#~ msgid "WC"
-#~ msgstr "DS"
