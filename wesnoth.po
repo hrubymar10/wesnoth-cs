@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2024-12-21 10:29+0100\n"
+"PO-Revision-Date: 2024-12-23 21:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5758,7 +5758,7 @@ msgid ""
 "The add-on <i>$addon_title</i> has an invalid id '$addon_id' and cannot be "
 "published."
 msgstr ""
-"Rozšíření <i>$addon_title</i> má neplatné id '$addon_id' a nemůže být "
+"Rozšíření <i>$addon_title</i> má neplatné id „$addon_id“ a nemůže být "
 "publikováno."
 
 #: src/addon/client.cpp:182
@@ -5892,7 +5892,7 @@ msgid ""
 "The add-on '$addon|' is already installed and contains additional "
 "information that will be permanently lost if you continue:"
 msgstr ""
-"Rozšíření '$addon|' už je nainstalované a obsahuje dodatečné informace, "
+"Rozšíření „$addon|“ už je nainstalované a obsahuje dodatečné informace, "
 "které budou navždy ztraceny, jestli budeš pokračovat:"
 
 #: src/addon/client.cpp:558
@@ -6897,20 +6897,20 @@ msgid ""
 "The nickname ‘$nick’ contains invalid characters. Only alpha-numeric "
 "characters (one at minimum), underscores and hyphens are allowed."
 msgstr ""
-"Přezdívka '$nick' obsahuje neplatné znaky. Povolena jsou pouze písmena "
+"Přezdívka „$nick“ obsahuje neplatné znaky. Povolena jsou pouze písmena "
 "(alespoň jedno), čísla, podtržítka a pomlčky."
 
 #: src/game_initialization/multiplayer.cpp:417
 msgid "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
-msgstr "Přezdívka '$nick' je příliš dlouhá. Maximální délka je 20 znaků."
+msgstr "Přezdívka „$nick“ je příliš dlouhá. Maximální délka je 20 znaků."
 
 #: src/game_initialization/multiplayer.cpp:419
 msgid "The nickname ‘$nick’ is reserved and cannot be used by players."
-msgstr "Přezdívka '$nick' je rezervovaná a hráči ji nemohou registrovat."
+msgstr "Přezdívka „$nick“ je rezervovaná a hráči ji nemohou registrovat."
 
 #: src/game_initialization/multiplayer.cpp:421
 msgid "The nickname ‘$nick’ is not registered on this server."
-msgstr "Přezdívka '$nick' není na tomto serveru registrovaná."
+msgstr "Přezdívka „$nick“ není na tomto serveru registrovaná."
 
 #: src/game_initialization/multiplayer.cpp:422
 msgid " This server disallows unregistered nicknames."
@@ -6927,12 +6927,12 @@ msgstr "Tvá IP adresa je na tomto serveru zakázána."
 #: src/game_initialization/multiplayer.cpp:431
 msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
 msgstr ""
-"Přezdívka '$nick' je na fórum tohoto serveru serveru zablokována na "
+"Přezdívka „$nick“ je na fórum tohoto serveru serveru zablokována na "
 "$duration|."
 
 #: src/game_initialization/multiplayer.cpp:433
 msgid "The nickname ‘$nick’ is banned on this server’s forums."
-msgstr "Přezdívka '$nick' je na fórum tohoto serveru serveru zablokována."
+msgstr "Přezdívka „$nick“ je na fórum tohoto serveru serveru zablokována."
 
 #: src/game_initialization/multiplayer.cpp:437
 msgid "Your IP address is banned on this server’s forums for $duration|."
@@ -6947,20 +6947,20 @@ msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums "
 "for $duration|."
 msgstr ""
-"Emailová adresa pro přezdívku '$nick' je na fórum tohoto serveru serveru "
+"Emailová adresa pro přezdívku „$nick“ je na fórum tohoto serveru serveru "
 "zablokována na $duration|."
 
 #: src/game_initialization/multiplayer.cpp:445
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums."
 msgstr ""
-"Emailová adresa pro přezdívku '$nick' je na fórum tohoto serveru serveru "
+"Emailová adresa pro přezdívku „$nick“ je na fórum tohoto serveru serveru "
 "zablokována."
 
 #: src/game_initialization/multiplayer.cpp:448
 #: src/game_initialization/multiplayer.cpp:450
 msgid "The nickname ‘$nick’ is registered on this server."
-msgstr "Přezdívka '$nick' je na tomto serveru registrovaná."
+msgstr "Přezdívka „$nick“ je na tomto serveru registrovaná."
 
 #: src/game_initialization/multiplayer.cpp:451
 msgid ""
