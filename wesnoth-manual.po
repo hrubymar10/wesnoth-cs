@@ -1,14 +1,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-05-22 22:21-0400\n"
-"PO-Revision-Date: 2023-10-12 21:31+0200\n"
+"PO-Revision-Date: 2024-12-26 20:54+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -639,8 +639,8 @@ msgid ""
 "You cannot use a registered name without the password."
 msgstr ""
 "Toto bude tvé jméno na serveru hry více hráčů. Pokud již máš účet na <ulink "
-"url=\"https://forums.wesnoth.org/\">oficiálním fóru Wesnothu</ulink>, můžeš "
-"na oficiálním serveru použít stejné uživatelské jméno a heslo. Pokud je pro "
+"url=\"https://forums.wesnoth.org/\">fórech Wesnothu</ulink>, můžeš na "
+"oficiálním serveru použít stejné uživatelské jméno a heslo. Pokud je pro "
 "dané jméno nutné zadat heslo, objeví se dialog pro zadání hesla. "
 "Registrované uživatelské jméno nelze bez zadání hesla použít."
 

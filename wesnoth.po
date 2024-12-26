@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 12:38-0500\n"
-"PO-Revision-Date: 2024-12-23 21:07+0100\n"
+"PO-Revision-Date: 2024-12-26 20:51+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6741,34 +6741,34 @@ msgstr " Tento server nepovoluje použití neregistrovaných přezdívek."
 #: src/game_initialization/multiplayer.cpp:427
 msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
 msgstr ""
-"Přezdívka „$nick“ je na fórum tohoto serveru serveru zablokována na "
+"Přezdívka „$nick“ je na fórech tohoto serveru serveru zablokována na "
 "$duration|."
 
 #: src/game_initialization/multiplayer.cpp:429
 msgid "The nickname ‘$nick’ is banned on this server’s forums."
-msgstr "Přezdívka „$nick“ je na fórum tohoto serveru serveru zablokována."
+msgstr "Přezdívka „$nick“ je na fórech tohoto serveru serveru zablokována."
 
 #: src/game_initialization/multiplayer.cpp:433
 msgid "Your IP address is banned on this server’s forums for $duration|."
-msgstr "Tvoje IP adresa je zablokovaná na fórum tohoto serveru na $duration|."
+msgstr "Tvoje IP adresa je zablokovaná na fórech tohoto serveru na $duration|."
 
 #: src/game_initialization/multiplayer.cpp:435
 msgid "Your IP address is banned on this server’s forums."
-msgstr "Tvoje IP adresa je zablokovaná na fórum tohoto serveru."
+msgstr "Tvoje IP adresa je zablokovaná na fórech tohoto serveru."
 
 #: src/game_initialization/multiplayer.cpp:439
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums "
 "for $duration|."
 msgstr ""
-"Emailová adresa pro přezdívku „$nick“ je na fórum tohoto serveru serveru "
+"Emailová adresa pro přezdívku „$nick“ je na fórech tohoto serveru serveru "
 "zablokována na $duration|."
 
 #: src/game_initialization/multiplayer.cpp:441
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums."
 msgstr ""
-"Emailová adresa pro přezdívku „$nick“ je na fórum tohoto serveru serveru "
+"Emailová adresa pro přezdívku „$nick“ je na fórech tohoto serveru serveru "
 "zablokována."
 
 #: src/game_initialization/multiplayer.cpp:444
