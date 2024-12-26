@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-12-18 16:51-0600\n"
-"PO-Revision-Date: 2024-12-26 20:59+0100\n"
+"PO-Revision-Date: 2024-12-26 21:04+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6927,12 +6927,11 @@ msgstr "Tvá IP adresa je na tomto serveru zakázána."
 #: src/game_initialization/multiplayer.cpp:431
 msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
 msgstr ""
-"Přezdívka „$nick“ je na fórech tohoto serveru serveru zablokována na "
-"$duration|."
+"Přezdívka „$nick“ je na fórech tohoto serveru zablokována na $duration|."
 
 #: src/game_initialization/multiplayer.cpp:433
 msgid "The nickname ‘$nick’ is banned on this server’s forums."
-msgstr "Přezdívka „$nick“ je na fórech tohoto serveru serveru zablokována."
+msgstr "Přezdívka „$nick“ je na fórech tohoto serveru zablokována."
 
 #: src/game_initialization/multiplayer.cpp:437
 msgid "Your IP address is banned on this server’s forums for $duration|."
@@ -6947,14 +6946,14 @@ msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums "
 "for $duration|."
 msgstr ""
-"Emailová adresa pro přezdívku „$nick“ je na fórech tohoto serveru serveru "
+"Emailová adresa pro přezdívku „$nick“ je na fórech tohoto serveru "
 "zablokována na $duration|."
 
 #: src/game_initialization/multiplayer.cpp:445
 msgid ""
 "The email address for the nickname ‘$nick’ is banned on this server’s forums."
 msgstr ""
-"Emailová adresa pro přezdívku „$nick“ je na fórech tohoto serveru serveru "
+"Emailová adresa pro přezdívku „$nick“ je na fórech tohoto serveru "
 "zablokována."
 
 #: src/game_initialization/multiplayer.cpp:448
